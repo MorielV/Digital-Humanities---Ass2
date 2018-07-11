@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אביב 2</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>רחל</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אביב</head>
+        <lg number="1" type="stanza">
+          <l>הֲשָׁכַחְתִּי תְרִיסִים לְהַבְרִיחַ, </l>
+          <l>אִם דַּלְתִּי לֹא נָעַלְתִּי כַּדִּין? – </l>
+          <l>הוּא כִּוֵּן הַשָּׁעָה וְהֵגִיחַ, </l>
+          <l>וְהֵעִיר, וְהִסְעִיר, וְהִרְנִין. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מַה בֵּינִי – הַשְּׁקֵטָה – וּבֵינֶךָ, </l>
+          <l>אַדְמוֹנִי, מְבֻשָּׂם, וְנִלְהָב? </l>
+          <l>אֵיךְ אֵדַע לְהָנִיס מִפָּנֶיךָ </l>
+          <l>אֶת אֲשֶׁר לִי אָגַרְתִּי בַּסְּתָו? </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הַאֶרְגַּז? הַאֶגְעַר בָּךְ בְּזַעַם? </l>
+          <l>הַאַרְחִיק מִגְּבוּלִי? אוֹ אוּלַי... </l>
+          <l>אוֹ אוּלַי אֶתְרַצֶּה אַךְ הַפַּעַם, </l>
+          <l>רַק הַפַּעַם... הַפַּעַם וְדַי!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

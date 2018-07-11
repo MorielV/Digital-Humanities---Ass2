@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיבה לחיות</title>
+        <singer classification="male singer">אילן נורי</singer>
+        <writer>סיגל ששון חכם</writer>
+        <composer>סיגל ששון חכם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיבה לחיות</head>
+        <lg number="1" type="stanza">
+          <l>כמה ימים שאני חושב</l>
+          <l>על המילים שנותרו בלב</l>
+          <l>ועזבת אותי ואת שתיקותי</l>
+          <l>אולי אשיב אותך למילותי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני הוא איש של מעשים</l>
+          <l>נובך וממעט בדיבורים</l>
+          <l>אך אם במשורר חפצה נפשך</l>
+          <l>אז המילים האלו בשבילך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את נותנת לי סיבה לחיות</l>
+          <l>את לי ים של אושר ודמעות</l>
+          <l>את העבר את העתיד שלי </l>
+          <l>אל תבכי הלילה בגללי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ליבי הלך עזב איתך </l>
+          <l>באשר תלכי אני שלך</l>
+          <l>ואם תשובי אל זרועתי</l>
+          <l>אלה המילים שילחשו שפתי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את נותנת לי סיבה לחיות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

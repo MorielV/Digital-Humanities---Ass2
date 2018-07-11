@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילד המחר</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילד המחר</head>
+        <lg number="1" type="stanza">
+          <l>רואה בדמיוני את ילד המחר</l>
+          <l>שומעת את קולו המדבר ושר</l>
+          <l>אני קצת אלג'יראי, אני קצת ברזילאי</l>
+          <l>אני קצת פולני, קצת גרמני, קצת יווני</l>
+          <l>אני קצת מרוקאי וקצת אמריקאי</l>
+          <l>לבנוני ורומני, קצת תימני.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רואה בדמיוני את ילד המחר</l>
+          <l>שומעת את צחוקו של ילד מאושר</l>
+          <l>צוחק כמו מקסיקני, צוחק כמו פרואני</l>
+          <l>צוחק כמו כורדי, כמו גרוזיני, קצת כמו הונגרי</l>
+          <l>צוחק כמו בוליביאני, צוחק קצת כמו איראני</l>
+          <l>קצת כמו רוסי וקצת מצרי, קצת בולגרי.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אבי סבי הגיע בדרך הרקיע</l>
+          <l>אם סבתי הגיעה במסע ארוך רגלי</l>
+          <l>הם באו מכל רוח, חיפשו מקום לנוח</l>
+          <l>דבר אחד בטוח, כן אני ישראלי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רואה בדמיוני את ילד המחר</l>
+          <l>והוא כל כך יפ והוא כל כך מוכר</l>
+          <l>נראה קצת טוניסאי וקצת ארגנטינאי</l>
+          <l>נראה קצת צרפתי, אנגלי, אתיופי ותורכי</l>
+          <l>קצת סורי, קצת נורבגי,</l>
+          <l>עיראקי, אירי, בלגי</l>
+          <l>קצת יוגוסלבי, ספרדי, קצת איטלקי.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אבי סבי הגיע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

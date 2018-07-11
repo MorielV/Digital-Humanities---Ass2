@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זכיתי</title>
+        <singer classification="female singer">אישתאר</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זכיתי</head>
+        <lg number="1" type="stanza">
+          <l>לא יכול לחיות דקה אחת</l>
+          <l>בלי אהבה בלי אהבה איתך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza" />
+        <lg number="3" type="stanza">
+          <l>אני מודה לאל שזכיתי</l>
+          <l>הלב שלי אומר לא טעיתי</l>
+          <l>רוצה לומר לך שוב שתביני</l>
+          <l>בלב יש רק אחת תאמיני</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza" />
+        <lg number="5" type="stanza">
+          <l>רק איתך אני מרגיש ת'אש</l>
+          <l>בנשמה בנשמה שלי</l>
+          <l>שום דבר לא יעצור אותי</l>
+          <l>כשאת איתי אהובתי שלי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza" />
+        <lg number="7" type="stanza">
+          <l>אני מודה לאל שזכיתי</l>
+          <l>הלב שלי אומר לא טעיתי</l>
+          <l>רוצה לומר לך שתבין </l>
+          <l>בלב יש רק אחד תאמין</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

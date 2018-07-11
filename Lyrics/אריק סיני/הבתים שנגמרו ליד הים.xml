@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הבתים שנגמרו ליד הים</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הבתים שנגמרו ליד הים</head>
+        <lg number="1" type="stanza">
+          <l>הלילה שלח אצבעות קרות</l>
+          <l>אל הבתים שנגמרו ליד הים</l>
+          <l>הלילה ליטף בשפתיים לחות</l>
+          <l>את החוף שנרדם לו מן הסתם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואני זוכר אותך</l>
+          <l>שעות שחיכיתי עד בוש,</l>
+          <l>עת השמש שקעה לא רחוק מחדרך,</l>
+          <l>לבין המרזב והברוש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ירח השיק כוסית של חלב</l>
+          <l>עם הבתים שנגמרו ליד הים,</l>
+          <l>ירח ניסר את התריס בקרניו</l>
+          <l>וטבע בין גלים שבים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואני זוכר אותך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הגשם שטף את כל הגגות</l>
+          <l>של הבתים שנגמרו ליד הים,</l>
+          <l>הגשם היכה, הצליף באניות</l>
+          <l>ונכנע למלח שבים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואני זוכר אותך....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

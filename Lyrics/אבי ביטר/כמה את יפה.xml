@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה את יפה</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה את יפה</head>
+        <lg number="1" type="stanza">
+          <l>את יפה כל כך, קשה לי לתאר</l>
+          <l>מבטך הזוהר, את ליבי שובר</l>
+          <l>שפתייך ארגמן, כפרח השושן</l>
+          <l>איזו מתנה, לך האל נתן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עיניים ירוקות, השפתיים מתוקות</l>
+          <l>השיער והחיוך, יש לך שתי גומות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה, כמה, כמה</l>
+          <l>כמה היא יפה</l>
+          <l>כמה בא לי כמה, לנשק אותה</l>
+          <l>כמה, כמה, כמה</l>
+          <l>כמה היא יפה</l>
+          <l>אלוהים הוי כמה, כמה היא יפה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נשים בך מקנאות, אך הן היטב יודעות</l>
+          <l>שאת היפה, מכל הבנות</l>
+          <l>כל הגברים בעיר, אחרייך מחזרים</l>
+          <l>אך אין להם סיכוי, הם היטב יודעים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עיניים ירוקות, השפתיים מתוקות</l>
+          <l>השיער והחיוך, יש לך שתי גומות</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כמה, כמה, כמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

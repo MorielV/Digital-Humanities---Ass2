@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני אוהבת רק לרקוד</title>
+        <singer classification="female singer">אביבה הד</singer>
+        <writer>מירית שם אור</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני אוהבת רק לרקוד</head>
+        <lg number="1" type="stanza">
+          <l>שמש עולה בשמיים</l>
+          <l>גשם בא בעיתו</l>
+          <l>רגש נועד רק לשניים</l>
+          <l>קסם להיות רק איתו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בוקר, יפה הוא הבוקר</l>
+          <l>ערב רב מעשים</l>
+          <l>אושר עולה לו ביוקר</l>
+          <l>קסם אבקת כוכבים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לי, לי, לי, יש רק אהבה גדולה אחת</l>
+          <l>בשבילי, לי, לי , זה רק אחת-שתיים-שלוש</l>
+          <l>אחת-אחת-שתיים-שלוש</l>
+          <l>אחת-אחת-שתיים-שלוש</l>
+          <l>אחת-אחת-שתיים-שלוש</l>
+          <l>אחת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה, מה, מה לעשות?</l>
+          <l>אני אוהבת רק לרקוד</l>
+          <l>אני יכולה גם עוד שעות</l>
+          <l>לרקוד, לרקוד ועוד לרקוד</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בא לי להתנועע</l>
+          <l>ככה עם כל הגוף</l>
+          <l>זה משהו משגע</l>
+          <l>יחד לרקוד ולעוף</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מי שתופס את הקצב</l>
+          <l>למה שלא יצטרף</l>
+          <l>אין כמו לרקוד כל הערב</l>
+          <l>וכל אחד משתתף</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>לי, לי, לי...</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>מה, מה, מה לעשות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

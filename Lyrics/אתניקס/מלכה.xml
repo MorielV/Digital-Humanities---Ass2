@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלכה</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלכה</head>
+        <lg number="1" type="stanza">
+          <l>כשהערב יירד, הנסיך שלך</l>
+          <l>יחזור הביתה ממסע ממושך</l>
+          <l>הוא יביא לך בסל תפוחי זהב</l>
+          <l>נסיך חלומותייך בך מאוהב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את המלכה של העולם</l>
+          <l>הנה מצאת לך מלך</l>
+          <l>נסיך בשר ודם</l>
+          <l>אחד אשר יילך איתך תמיד</l>
+          <l>לעולמים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשהבוקר עולה, הוא לצידך</l>
+          <l>וזו סיבה אחת טובה בשבילך</l>
+          <l>לקרוא לו נסיך, כי את תמיד מלכה</l>
+          <l>וכך תחיו באושר עד עצם היום הבא.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את המלכה של העולם</l>
+          <l>הנה מצאת לך מלך</l>
+          <l>נסיך בשר ודם</l>
+          <l>אחד אשר יילך איתך תמיד</l>
+          <l>לעולמים.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את המלכה של העולם</l>
+          <l>לך ייתן הנדר</l>
+          <l>חותם של אהבה</l>
+          <l>שבועה שתלווה אותך תמיד</l>
+          <l>לעולמים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

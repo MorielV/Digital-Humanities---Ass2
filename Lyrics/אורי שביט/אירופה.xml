@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אירופה</title>
+        <singer classification="unknown">אורי שביט</singer>
+        <writer>אורי שביט</writer>
+        <composer>אורי שביט</composer>
+        <album>משחקת במילים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אירופה</head>
+        <lg number="1" type="stanza">
+          <l>יושב בבית קפה באירופה	</l>
+          <l>מעשן סיגריות באותו השם	</l>
+          <l>מאז שנות השבעים היא לא ראתה כאן כאלה	</l>
+          <l>אף אחד כבר לא מעשן	</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>המבט שלה תמים כמו של תינוק	</l>
+          <l>החולצה ממצה עד תום	</l>
+          <l>מאז שנסע לא ראה זוג רגליים כאלה	</l>
+          <l>החזיר מבטו לעיתון	</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נשים בהירות מחייכות	</l>
+          <l>מה עוד יוכל לעשות כדי להרגיש	</l>
+          <l>הגשם משאיר עקבותיו על חלון	</l>
+          <l>על אישה ואיש	</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עשרה שקלים על כל לגימה	</l>
+          <l>שלושים אם תרצה אחיזה נוספת	</l>
+          <l>אולי מחייבים פה לפי נשימה	</l>
+          <l>מתי, הוא שומע אותה לוחצת	</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>נשים בהירות מחייכות	</l>
+          <l>מה עוד יוכל לעשות כדי להרגיש	</l>
+          <l>הגשם משאיר עקבותיו על חלון	</l>
+          <l>על אישה ואיש	</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>העיר הזאת כבר לא עושה לו כלום	</l>
+          <l>פעם היא אולי היתה אחרת	</l>
+          <l>עכשיו כבר לא היה צריך לקום	</l>
+          <l>כדי לגלות לאן מובילה הדרך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

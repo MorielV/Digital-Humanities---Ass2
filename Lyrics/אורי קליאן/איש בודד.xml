@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איש בודד</title>
+        <singer classification="male singer">אורי קליאן</singer>
+        <writer>אורי קליאן</writer>
+        <composer>אורי קליאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איש בודד</head>
+        <lg number="1" type="stanza">
+          <l>מגרד את העטיפה, </l>
+          <l>את תחושת התבוסתנות שנדבקה </l>
+          <l>וצולל לתוך שתיקה </l>
+          <l>יש הרבה כמוך כאן, אתה לא מיוחד </l>
+          <l>כולם איבדו עניין </l>
+          <l>זה לא קרה במכוון </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ערב שוב יורד, מכסה על איש בודד </l>
+          <l>מקלל ולא לומד כמה יש לו לאבד </l>
+          <l>העצב שוב יורד ועושה אותך כבד </l>
+          <l>כשהרעש מהדהד </l>
+          <l>אתה מרגיש כמו איש בודד </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חוטף מכות ומתאושש </l>
+          <l>קונה מה שאומרים - משלם ומתרושש </l>
+          <l>תמיד אמרו לך שאתה טיפש </l>
+          <l>אז כמה העצב שלך שוקל? </l>
+          <l>אתה תקוע, רק בורח, מתמסטל </l>
+          <l>מי תופס אותך כשאתה נופל, אתה נופל.... </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ערב שוב יורד, מכסה על איש בודד... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מחפש מקום לנוח </l>
+          <l>לא זוכר עכשיו את הדרך חזרה </l>
+          <l>עף גבוה עם הרוח </l>
+          <l>בכיוון שבסופו אין מטרה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ערב שוב יורד, מכסה על איש בודד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קול מבשר</title>
+        <singer classification="unknown">אברהם פריד</singer>
+        <writer>מן המקורות</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קול מבשר</head>
+        <lg number="1" type="stanza">
+          <l>שישיו ושימחו בשמחת הגאולה </l>
+          <l>הנה הנה משיח בא</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הנה הוא בא</l>
+          <l>משיח צידקנו</l>
+          <l>הנה הוא בא </l>
+          <l>במהרה בימינו</l>
+          <l>הנה הוא בא</l>
+          <l>יבוא ויגאלנו במהרה</l>
+          <l>בימינו משיח צידקנו אוהו...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קול מבשר מבשר ואומר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

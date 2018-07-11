@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא מרים ידיים</title>
+        <singer classification="unknown">אביחי חבושה</singer>
+        <writer>ארז אלגרבלי</writer>
+        <composer>ארז אלגרבלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא מרים ידיים</head>
+        <lg number="1" type="stanza">
+          <l>אנחנו שניים אוחזים ידיים</l>
+          <l>מחובקים כמו ילדים</l>
+          <l>עוצמים עניים זורמים כמו מים</l>
+          <l>אבל הפחד מבפנים</l>
+          <l>אני רואה בתוך ענייך</l>
+          <l>איך חלום אחד ישן </l>
+          <l>מתנפץ כמו ענן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תדברי איתי לאט נשקי אותי מעט</l>
+          <l>בואי כמו שאת אני לא מרים ידיים</l>
+          <l>תדברי איתי לאט לטפי אותי מעט</l>
+          <l>בואי כמו שאת אני לא מרים ידיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אנחנו שניים אוחזים ידיים</l>
+          <l>וכמה טוב שאת איתי</l>
+          <l>פוקחים עניים לשמים לראות שכל זה אמיתי</l>
+          <l>אני רואה בתוך ענייך </l>
+          <l>איך חלום אחד ישן מתנפץ כמו ענן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תדברי איתי לאט נשקי אותי מעט</l>
+          <l>בואי כמו שאת אני לא מרים ידיים</l>
+          <l>תדברי איתי לאט לטפי אותי מעט</l>
+          <l>בואי כמו שאת אני לא מרים ידיים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

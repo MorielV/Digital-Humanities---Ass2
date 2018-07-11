@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לעוף איתך</title>
+        <singer classification="male singer">אפרים שמיר</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לעוף איתך</head>
+        <lg number="1" type="stanza">
+          <l>ספרי על מה חולמות עכשיו עינייך</l>
+          <l>מי מטייל עכשיו בתוך מוחך</l>
+          <l>גלי לרוח רגע את פנייך</l>
+          <l>בלי שמש ובלי מים, מה כוחך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה טוחנות עכשיו מחשבותייך</l>
+          <l>איזה סיפור בתוך, ליבך נכתב</l>
+          <l>הרשי לו לעלות על שיפתותייך</l>
+          <l>ספרי אותו מאלף ועד תו.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איך עפת אלי, ציפור קטנה</l>
+          <l>איך נלכדת בכפי</l>
+          <l>איך עפת אלי ציפור קטנה</l>
+          <l>מדרך ארוכה</l>
+          <l>אם זוהי תחנת ביניים</l>
+          <l>למדי אותי לעוף בשניים</l>
+          <l>למדי אותי לפרוש כנפיים</l>
+          <l>לעוף איתך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לאן, לאן נשאו אותך רגלייך</l>
+          <l>אל מחוזות החול, אל גבול הים</l>
+          <l>גרגר קטן דבק בסנדלייך</l>
+          <l>לבד שוב לא תעופי לעולם.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>איך עפת אלי, ציפור קטנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

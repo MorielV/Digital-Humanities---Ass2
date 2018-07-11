@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כוכב סרטים</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כוכב סרטים</head>
+        <lg number="1" type="stanza">
+          <l>אני אולי לא מיליונר</l>
+          <l>ולא דוגמן בלבוש פנטסטי</l>
+          <l>אדם פשוט אבל חבר</l>
+          <l>בלי חלומות גדולים</l>
+          <l>מסתפק במועט</l>
+          <l>קונה יד שניה</l>
+          <l>לפעמים מחייך ולא יודע</l>
+          <l>על מה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני לא כוכב סרטים</l>
+          <l>אני חלש מול גיבורים</l>
+          <l>בחיים שלי תמיד פיספסתי</l>
+          <l>כשלי עצוב כולם שמחים</l>
+          <l>כשאני בא כולם הולכים</l>
+          <l>רק אותך אני תמיד אהבתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני תמיד בצד</l>
+          <l>גם כשכולם עומדים באמצע</l>
+          <l>אני הוא האחד</l>
+          <l>כי בי בחרתי לתמיד</l>
+          <l>חצי נפוליאון</l>
+          <l>מעט ולנטינו</l>
+          <l>הכל בעיני המתבונן</l>
+          <l>ואין מי שיתבונן עלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי אני לא כוכב סרטים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

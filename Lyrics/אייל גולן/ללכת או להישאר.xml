@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ללכת או להישאר</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>רמי לב</writer>
+        <composer>דורון אלימלך</composer>
+        <album>חלק מחיי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ללכת או להישאר</head>
+        <lg number="1" type="stanza">
+          <l>התלבטות חותכת את חיי </l>
+          <l>זה בכלל לא פשוט </l>
+          <l>הלב תוהה אולי כי באחרת הוא לכוד </l>
+          <l>אני לא יודע מה קורה לי </l>
+          <l>זה שיגעון זמני או סתם נדמה לי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ללכת או להישאר על הלב לא לוותר </l>
+          <l>רוצה אותך אבל יכול להפסיד את הכל </l>
+          <l>ללכת או להישאר לעצמי לא לשקר </l>
+          <l>שתי אהבות כאב גדול להפסיד את הכל </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>התלבטות נוגעת בחולשות </l>
+          <l>לא מבין איך אשתנה </l>
+          <l>אוהב אבל מרגיש פחות </l>
+          <l>את עצמי אני שונא </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני לא יודע מה קורה לי </l>
+          <l>זו רק חולשה זמנית או סתם נדמה לי </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ללכת או להישאר על הלב לא לוותר </l>
+          <l>רוצה אותך אבל יכול להפסיד את הכל </l>
+          <l>ללכת או להישאר לעצמי לא לשקר </l>
+          <l>שתי אהבות כאב גדול להפסיד את הכל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

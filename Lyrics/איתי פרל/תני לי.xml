@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תני לי 8</title>
+        <singer classification="male singer">איתי פרל</singer>
+        <writer>איתי פרל</writer>
+        <composer>איתי פרל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תני לי</head>
+        <lg number="1" type="stanza">
+          <l>זה לא פשוט</l>
+          <l>להיות איתי</l>
+          <l>אני פוחד</l>
+          <l>לאבד אותי</l>
+          <l>זה לא חשוב</l>
+          <l>זה לא אמיתי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ירח כבר לא זורח בשבילי</l>
+          <l>תני לי לאהוב אותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה לא עצוב</l>
+          <l>להיות לבד</l>
+          <l>רק לפעמים</l>
+          <l>זה כואב בצד</l>
+          <l>זה לא עצוב</l>
+          <l>זה לא משנה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כי אף אחד לא יודע בשבילי</l>
+          <l>תני לי לאהוב אותי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ירח כבר לא זורח בשבילי</l>
+          <l>תני לי לאהוב </l>
+          <l>אז תני לי</l>
+          <l>לאהוב אותי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

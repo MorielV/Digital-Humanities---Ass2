@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה 30</title>
+        <singer classification="male singer">אלי סורני</singer>
+        <writer>אלי סורני</writer>
+        <composer>אלי סורני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה</head>
+        <lg number="1" type="stanza">
+          <l>עובר ליד הבית, רק לראות אם יש אור</l>
+          <l>כבר היינו בסרט הזה, אני יכול לזכור</l>
+          <l>את היום הקסום כשהתחיל והלילה המקולל שנגמר</l>
+          <l>נפלתי מכל המדרגות אל הרחוב הקר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהבה איך היא מתחילה לאן היא מובילה</l>
+          <l>אהבה סכין שנעוצה בדובדבן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב ליד הבית, רק לראות מי ליד עובר</l>
+          <l>אתמול דברנו כל הלילה, עכשיו הסרט חוזר</l>
+          <l>ועם כל הרע שהיה זה עדיין היה כדאי</l>
+          <l>אבל עכשיו אני צריך את הכוח, כדי לחזור אליי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהבה איך היא מתחילה לאן היא מובילה</l>
+          <l>אהבה סכין שנעוצה בדובדבן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

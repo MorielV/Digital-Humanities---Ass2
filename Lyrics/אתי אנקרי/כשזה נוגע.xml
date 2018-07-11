@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשזה נוגע</title>
+        <singer classification="female singer">אתי אנקרי</singer>
+        <writer>אתי אנקרי</writer>
+        <composer>אתי אנקרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשזה נוגע</head>
+        <lg number="1" type="stanza">
+          <l>האור מסתיר קולות</l>
+          <l>רק בלילות קולך בוקע</l>
+          <l>לא רוצה לגעת עוד -</l>
+          <l>אם זה כואב, כשזה נוגע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>למה באת לי קרוב,</l>
+          <l>למה ככה לעזוב?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה שותק רחוק</l>
+          <l>מלמד אותי לשכוח-</l>
+          <l>אני כמו עשב נעקר</l>
+          <l>בין אנשים רוצה לצמוח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>למה באת לי קרוב,</l>
+          <l>למה ככה לעזוב?</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>האור מסתיר קולות</l>
+          <l>רק בלילות זה שוב בוקע</l>
+          <l>מה היה לך, מה שם בחדר</l>
+          <l>מה צעק בך רגע לפני?</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>למה באת לי קרוב,</l>
+          <l>למה ככה לעזוב?</l>
+          <l>לא רוצה לגעת עוד -</l>
+          <l>אם זה כואב, כשזה נוגע</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

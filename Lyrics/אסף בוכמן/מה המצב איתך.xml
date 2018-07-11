@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה המצב איתך</title>
+        <singer classification="unknown">אסף בוכמן</singer>
+        <writer>אסף בוכמן</writer>
+        <composer>אסף בוכמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה המצב איתך</head>
+        <lg number="1" type="stanza">
+          <l>נשטוף את כל המחשבות</l>
+          <l>שעוצרות שלא נותנות לחיות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה המצב איתך עכשיו בנאדם</l>
+          <l>הכל בסדר? ככה ככה קשה לי לרוץ אחרי העדר</l>
+          <l>לכל עבר</l>
+          <l>לאט אבל בטוח אתה תשתחרר מהכבלים החברה</l>
+          <l>מה אסור מה מותר</l>
+          <l>קח את האומץ להחליט לבד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לשטוף את כל המחשבות</l>
+          <l>שעוצרות שלא נותנות לחיות</l>
+          <l>ולהיות חופשי בלא בטוח</l>
+          <l>אז נשטוף את כל המחשבות</l>
+          <l>שעוצרות שלא נותנות לחיות</l>
+          <l>ונהיה בטוחים בלא בטוח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז מה המצב איתך עכשיו בנאדם?</l>
+          <l>הכל בסדר?</l>
+          <l>ככה ככה קשה לי לחיות כך עם השקר</l>
+          <l>של העדר</l>
+          <l>לאט אבל בטוח אתה תשתחרר מהכבלים </l>
+          <l>של עצמך</l>
+          <l>מה אסור מה מותר</l>
+          <l>הגיע הזמן שתבחר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לשטוף את כל המחשבות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

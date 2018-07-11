@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר לשירה</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר לשירה</head>
+        <lg number="1" type="stanza">
+          <l>דברי עכשיו ילדה אני שומעת,</l>
+          <l>כל העולם מקשיב למלמולך.</l>
+          <l>דברי, מלאך שלי, אני יודעת</l>
+          <l>שלא תמיד הקשיבו לקולך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>דברו שפתיים יחפות, דברו עיניים,</l>
+          <l>כל עוד חלב נוטף מחיוכך.</l>
+          <l>חבקי את כל פחדי בשתי ידייך,</l>
+          <l>חבקי דובים גדולים מתוך שנתך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עולם חדש וטוב אני אתן לך.</l>
+          <l>כבר במבט כחול את מגלה,</l>
+          <l>כמה חשוב לראות פתאום חצי ירח</l>
+          <l>קורץ צהוב צהוב מתוך האפילה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תהיי קטנה מאומה לא יפגע בך.</l>
+          <l>סיכת פרפר קשורה בשערך.</l>
+          <l>תהיי קטנה מאומה לא יברח לך.</l>
+          <l>אני אהיה גדולה גם בשבילך.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>דברו שפתיים יחפות דברו עיניים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בא לשכונה בחור חדש</title>
+        <singer classification="unknown">אלון אולארצ יק</singer>
+        <writer>אלון אולארצ'יק</writer>
+        <composer>אלון אולארצ'יק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בא לשכונה בחור חדש</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>קולי נאלם ליבי נרגש, בא לשכונה בחור חדש</l>
+          <l>הומה נפשי לקראת מפגש, בא לשכונה בחור חדש</l>
+          <l>קולי נאלם ליבי נרגש, בא לשכונה בחור חדש</l>
+          <l>הומה נפשי לקראת מפגש, בא לשכונה בחור חדש</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הוא יוצא לרחוב, מטייל הלוך ושוב</l>
+          <l>צעדו קליל כמנגינת חליל.</l>
+          <l>בעיקול הכביש נאספו אישה ואיש</l>
+          <l>להציץ בעיניו, בזיו שעל פניו.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קולי נאלם ליבי נרגש...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עם שחר אצא, שערי אשזור יפה</l>
+          <l>אחכה במורד אולי מפה ירד</l>
+          <l>אמרו אחי היתן ליבו אלי, האשב בצילו</l>
+          <l>תגידו לי כן או לא.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>קולי נאלם ליבי נרגש...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בככר בקפה נאספו בנות הרבה</l>
+          <l>לחישה וחיוך כזה מתנוך לתנוך.</l>
+          <l>בחנות הבשר פה אחד נפל דבר</l>
+          <l>שקולו ערב וכל אחד אותו אוהב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

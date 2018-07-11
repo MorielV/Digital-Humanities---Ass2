@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מונו 2</title>
+        <singer classification="unknown">אנה אקהרד</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מונו</head>
+        <lg number="1" type="stanza">
+          <l>מונו, מונו... מאהבה אני נמלט</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>להתעורר ולחבק את הבדידות הכי קרה</l>
+          <l>סתם לטייל לי עם הכלב בשדרה</l>
+          <l>ולמלמל בשקט כמה טוב שרע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בין הימים, אני עסוק רק בלמתוח את הזמן</l>
+          <l>ובלילות במועדון מלא עשן</l>
+          <l>שוקע לאיבוד ולא מוצא עניין</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מונו מונו, אני לבד וטוב לי מונו</l>
+          <l>כל החיים שלי הם מונו</l>
+          <l>מאהבה אני נמלט אין מאושר ממני</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני הוא זה שבקלות אליו העצב מתחבר</l>
+          <l>וחוץ ממני אין לי אף אחד אחר</l>
+          <l>לכן עוד פעם לא אכפת לי לשקר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מונו מונו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

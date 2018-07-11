@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה אעשה</title>
+        <singer classification="male singer">ארז לב ארי</singer>
+        <writer>ארז לב ארי</writer>
+        <composer>ארז לב ארי</composer>
+        <album>שמחת הפרטים הקטנים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה אעשה</head>
+        <lg number="1" type="stanza">
+          <l>מה אעשה</l>
+          <l>אם תלכי לי</l>
+          <l>אם תברחי לי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה אעשה</l>
+          <l>עם כל הכעס הזה</l>
+          <l>אה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמור לי עליה</l>
+          <l>אתה שומע</l>
+          <l>אין לי כלום בלעדיה</l>
+          <l>שמור לי עליה</l>
+          <l>ותשמור גם עלי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כדי שלא אשתגע</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מה אעשה</l>
+          <l>אם תלכי לי</l>
+          <l>מה אעשה</l>
+          <l>עם כל הפחד הזה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

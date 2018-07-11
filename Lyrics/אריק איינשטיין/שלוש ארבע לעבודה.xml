@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלוש ארבע לעבודה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>שם טוב לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלוש ארבע לעבודה</head>
+        <lg number="1" type="stanza">
+          <l>הבוקר בא, הבוקר בא, אז תגיד תודה</l>
+          <l>שלוש ארבע, שלוש ארבע ולעבודה</l>
+          <l>אתה חייב את זה לעצמך, אתה חייב למשפחה</l>
+          <l>אתה חייב לשפוך הרבה זיעה</l>
+          <l>אז שלוש ארבע ולעבודה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הערב בא, הערב בא, אז תגיד תודה</l>
+          <l>שלוש ארבע, שלוש ארבע ולמנוחה</l>
+          <l>אתה חייב את זה לעצמך, אתה חייב למשפחה</l>
+          <l>אתה חייב לשכוח מי אתה</l>
+          <l>ואז שלוש ארבע ולמנוחה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>היי היי, כן הבוקר בא, לעבודה, כן אז שלוש ארבע</l>
+          <l>היי היי, כן הבוקר בא, לעבודה, כן אז שלוש ארבע</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה חייב את זה לעצמך, אתה חייב למשפחה</l>
+          <l>אתה חייב לשפוך הרבה זיעה</l>
+          <l>אז שלוש ארבע ולעבודה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>האהבה, האהבה היא תציל אותך</l>
+          <l>שלוש ארבע, שלוש ארבע אז תאהב אותה</l>
+          <l>אתה חייב את זה לעצמך, אתה חייב למשפחה</l>
+          <l>אתה חייב לשכוח מי אתה</l>
+          <l>אז שלוש ארבע ולאהבה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>היי היי, כן הבוקר בא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

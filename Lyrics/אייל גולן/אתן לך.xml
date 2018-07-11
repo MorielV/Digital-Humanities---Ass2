@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתן לך</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>רותם כהן</writer>
+        <composer>פרנסיסקו דינו לופז ראמוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתן לך</head>
+        <lg number="1" type="stanza">
+          <l>אתן לך, אתן לך כל מה שאישה רק מבקשת</l>
+          <l>לא תצטרכי לומר מילה פשוט לגשת</l>
+          <l>אני סופה של אהבה עמוק ברוח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתן לך, אתן הכל שהחיים יראו כבר סדר</l>
+          <l>את תחכי כמו אהובה בתוך החדר</l>
+          <l>אתן גם אם תגידי לא אהיה שלך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אתן הכל פה שתהי שלי, לא אוותר לך את כל עולמי</l>
+          <l>אתן הכל רק תחשבי אולי, אתן הכל גם את חיי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתן לך, אני אתן לך אהבה לא הורסת</l>
+          <l>כמו בסרטים אני אחכה כשאת נכנסת</l>
+          <l>כמו הפרחים על המיטה אשכב כנוע</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אתן לך, אני אתן לך אוניה ושמך עליה</l>
+          <l>וכמו המים השקופים אני יודע</l>
+          <l>אני יודע שאני אוהב אותך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אתן הכל פה שתהי שלי, לא אוותר לך את כל עולמי</l>
+          <l>אתן הכל רק תחשבי אולי, אתן הכל גם את חיי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

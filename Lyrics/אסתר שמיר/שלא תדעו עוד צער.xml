@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלא תדעו עוד צער</title>
+        <singer classification="female singer">אסתר שמיר</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>אסתר שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלא תדעו עוד צער</head>
+        <lg number="1" type="stanza">
+          <l>איך לנחם אותך ארץ אהובה</l>
+          <l>איך לנחם אם בתוך כאבה</l>
+          <l>מה אומרים למי שאור חייו נגמר</l>
+          <l>מה אומרים למי שעולמו נשבר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך לנחם גם כשאין בי נחמה</l>
+          <l>רוצה לומר מילה טובה, לא יודעת מה</l>
+          <l>איך להרגיע את מה שלא ניתן</l>
+          <l>כשהדמעות זולגות מי יעצור אותן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אולי מחר תופיע קשת בענן</l>
+          <l>ותשרה חיוך קטן על לחי</l>
+          <l>אולי מחר יופיע לנו נס קטן</l>
+          <l>בשמים סוערים מבכי</l>
+          <l>נתחבק עד שייפתח השער</l>
+          <l>באהבה גדולה מכולם</l>
+          <l>הלוואי שלא תדעו עוד צער</l>
+          <l>שלא תדעו עוד צער לעולם.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איך לאהוב אותך ארץ אהובה</l>
+          <l>איך לא לאבד את החיוך והתקווה</l>
+          <l>איך לנחם כאב כל כך גדול</l>
+          <l>כשנדמה שכבר אמרנו את הכל</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אולי מחר תופיע קשת בענן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהובתי 2</title>
+        <singer classification="male singer">ארז לב ארי</singer>
+        <writer>ארז לב ארי</writer>
+        <composer>ארז לב ארי</composer>
+        <album>שמחת הפרטים הקטנים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהובתי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אהובתי אהובתי</l>
+          <l>הביטי נא אלי</l>
+          <l>קראי אותי</l>
+          <l>אהובתי שלי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אהובתי אהובתי</l>
+          <l>השקיני נא ברוך</l>
+          <l>כי יבש ליבי</l>
+          <l>הוכתה נפשי פצועה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סוף המחברת זה הדף האחרון</l>
+          <l>אפשר לכבות את האור וללכת לישון</l>
+          <l>כל מה שהיה לי כתבתי</l>
+          <l>כל מה שהרגשתי הראיתי</l>
+          <l>והנה אנחנו מדברים במכתבים</l>
+          <l>פתקים שנשארים על השולחן במטבח</l>
+          <l>תגידי מי יקבל את התמונה של הילד הבוכה</l>
+          <l>מי יהפוך לעתיד ומי ישאר בהווה</l>
+          <l>מי יקבל את התמונה של הילד הבוכה</l>
+          <l>מי יהפוך לעתיד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהובתי אהובתי</l>
+          <l>הביטי נא אלי</l>
+          <l>קראי אותי</l>
+          <l>אהובתי שלי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אהובתי אהובתי</l>
+          <l>הראי לי נא אותי</l>
+          <l>כי אבדתי</l>
+          <l>ציירי דרכך ממך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שחר אפור</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>דפנה אילת</writer>
+        <composer>דפנה אילת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שחר אפור</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אל תאמרי לי הן תחזור, הן תחזור</l>
+          <l>אל תאמרי לי הן תחזור</l>
+          <l>שוב עולה שחר אפור</l>
+          <l>וקולך קורא חזור, כפעמון חצות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ברחובות הפנסים, פנסים, פנסים</l>
+          <l>לוחשים וגוססים</l>
+          <l>ומספרים על מעשים, מעשים שבניסים</l>
+          <l>שתי עינייך פנסי חצות...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שוב עולה שחר אפור</l>
+          <l>ומכחיל בחלונות</l>
+          <l>אם אלך הן לא אחזור</l>
+          <l>אל הבתים והשדרות בעיר הזאת.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>טיפות גשם מחרוזות, מחרוזות, מחרוזות</l>
+          <l>על צווארי המדרכות</l>
+          <l>מרעידות השלוליות</l>
+          <l>כעיניים בוכיות, לוחשות מאפירות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>צמותייך נחשים, נחשים, נחשים</l>
+          <l>מתפתלות ולוחשות</l>
+          <l>וכלחן חרישי הד קולך שבנפשי</l>
+          <l>שוב עולה כפעמון חצות.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שוב עולה שחר אפור...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אל תאמרי לי הן תחזור, הן תחזור</l>
+          <l>היי שלום</l>
+          <l>שלום, שלום לעיר הזאת</l>
+          <l>שחר אפור</l>
+          <l>שחר אפור.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

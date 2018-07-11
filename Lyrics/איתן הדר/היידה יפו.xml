@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היידה יפו</title>
+        <singer classification="unknown">איתן הדר</singer>
+        <writer>דן רביב</writer>
+        <composer>איתן הדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היידה יפו</head>
+        <lg number="1" type="stanza">
+          <l>אחד-עשר הם המלכים</l>
+          <l>ואנחנו נסיכים</l>
+          <l>הם שלנו הם כל החיים</l>
+          <l>הכל ניתן רק בשבילם</l>
+          <l>את הלב ואת הדם</l>
+          <l>היידה יפו לך קוראים כולם!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היידה יפו!..</l>
+          <l>היידה יפו!..</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הכדור כמו בחורה</l>
+          <l>תסתכל איזו גזרה</l>
+          <l>תסתכל איך הוא כזה עגול</l>
+          <l>קח אותו בעדינות</l>
+          <l>קח אותו בסבלנות</l>
+          <l>שלח אותו ואז יבוא הגול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היידה יפו!..</l>
+          <l>היידה יפו!..</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אחת, שתיים, שלוש, ארבע</l>
+          <l>המשיח הנה בא</l>
+          <l>הוא מביא אלינו ניצחון</l>
+          <l>עוד אחד ועוד אחד</l>
+          <l>איזה יופי של שבת</l>
+          <l>היידה יפו למקום ראשון</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>היידה יפו!..</l>
+          <l>היידה יפו!..</l>
+          <l>היידה יפו!..</l>
+          <l>היידה יפו!..</l>
+          <l>היידה יפו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

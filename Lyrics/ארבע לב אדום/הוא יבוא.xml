@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הוא יבוא</title>
+        <singer classification="band">ארבע לב אדום</singer>
+        <writer>יאיר קלינגר</writer>
+        <composer>יאיר קלינגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הוא יבוא</head>
+        <lg number="1" type="stanza">
+          <l>בערבי החורף הקרים</l>
+          <l>כשהלילה בא מן ההרים</l>
+          <l>אז אנחנו יחד כאן יושבים,</l>
+          <l>מביטים בחושך וחושבים -</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך הזמן זוחל ולא עובר</l>
+          <l>רק שיגמר, שיגמר</l>
+          <l>ובלב תפילה מתי תבוא כבר השעה</l>
+          <l>והוא ישוב וישאר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הוא יבוא, הוא יבוא, הוא יבוא</l>
+          <l>והולמים כל הלבבות למענו</l>
+          <l>וכולם כבר מחכים</l>
+          <l>שישוב ממרחקים</l>
+          <l>שיבוא ושוב יהיה איתנו פה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אדמה צרובת מדבר וחול</l>
+          <l>ארץ למודת שמחה ושכול</l>
+          <l>ומן הבתים פורצים לעמק, להרים</l>
+          <l>המנגינה והמילים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הוא יבוא...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ושוב יוצאים העדרים לרעות בעשב הירוק</l>
+          <l>אנחנו יחד כאן יושבים,</l>
+          <l>חיים בין בכי לבין צחוק</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>הוא יבוא, הוא יבוא, הוא יבוא</l>
+          <l>את בגדי החג לבשנו לכבודו</l>
+          <l>הפרחים על השולחן</l>
+          <l>הקפה גם הוא מוכן</l>
+          <l>רק שיבוא הביתה, שיבוא</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>הוא יבוא, הוא יבוא, הוא יבוא</l>
+          <l>והולמים כל הלבבות למענו</l>
+          <l>וכולם כבר מחכים</l>
+          <l>שישוב ממרחקים</l>
+          <l>שיבוא ושוב יהיה איתנו פה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

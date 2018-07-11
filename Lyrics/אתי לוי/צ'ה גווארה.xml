@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צ ה גווארה</title>
+        <singer classification="female singer">אתי לוי</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עממי ערבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צ'ה גווארה</head>
+        <lg number="1" type="stanza">
+          <l>תגיד לי למה</l>
+          <l>בן אדם ידידותי, ירושלמי אמיתי</l>
+          <l>אין לך ימים שקטים, תגיד לי למה</l>
+          <l>למה זה כל השנים, על קוצים ואבנים</l>
+          <l>נגד כל הסיכויים, תגיד לי למה</l>
+          <l>איך אתה נותן ממך, את כל מה שאין לך</l>
+          <l>לא חושב על עצמך, תגיד לי למה</l>
+          <l>גם אם לעולם לא אבין, אליך שרה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היי צ'ה גווארה היי אני איתך</l>
+          <l>היי אני שרה את השיר שלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תגיד לי למה</l>
+          <l>למה בכלל להלחם, מי שטועה גם ישלם</l>
+          <l>כמו שבא גם יעלם, תגיד לי למה</l>
+          <l>למה  אז וגם עכשיו, לבדך אתה ניצב</l>
+          <l>לא פוחד מאש הקרב. תגיד לי למה</l>
+          <l>איך אתה נותן ממך, את כל מה שאין לך</l>
+          <l>לא חושב על עצמך, תגיד לי למה</l>
+          <l>גם אם לעולם לא אבין, אליך שרה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היי צ'ה גווארה היי אני איתך</l>
+          <l>היי אני שרה את השיר שלך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היי כפרה היי אני איתך</l>
+          <l>היי אני שרה את השיר שלך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

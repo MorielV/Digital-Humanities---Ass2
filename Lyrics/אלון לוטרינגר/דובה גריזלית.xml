@@ -1,0 +1,38 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דובה גריזלית</title>
+        <singer classification="male singer">אלון לוטרינגר</singer>
+        <writer>יונה וולך</writer>
+        <composer>שחר ברבש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דובה גריזלית</head>
+        <lg number="1" type="stanza">
+          <l>דֻּבָּה גְּרִיזִילִית גִּדְּלַה אוֹתִי</l>
+          <l>חֲלֵב כּוֹכָבִים הָיָה מְזוֹנִי הָעִקָּרִי</l>
+          <l>הַדָּבָר הָרִאשׁוֹן שֶׁרָאִיתִי</l>
+          <l>בִּימֵי חַיַּי כַּוָּנָתִי שֶׁאֲנִי זוֹכֵר</l>
+          <l>הָיָה אֲנִי אֵיךְ אוּכַל לִשְׁכֹּחַ</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

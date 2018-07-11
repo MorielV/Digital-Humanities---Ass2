@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מטוסים 2</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>אסף אמדורסקי</composer>
+        <album>הרי את</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מטוסים</head>
+        <lg number="1" type="stanza">
+          <l>עננים שטים מעל ראשנו</l>
+          <l>תסתכלי גם את הם קרובים מתמיד</l>
+          <l>מכסים מטוסים את השמיים שלנו</l>
+          <l>שלך ושלי לא יהיו עוד כחולים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הפרטים מתכהים מתרחקים מהעין</l>
+          <l>את יכולה לתקן את הכל</l>
+          <l>הצבעים כבים הצללים קרבים</l>
+          <l>בעיניים שלך מטוסים משתקפים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כוכבים זוהרים הינומת עננים</l>
+          <l>גם אנחנו הערב בשמיים עפים</l>
+          <l>חלקים בשלם מתאחים לאחד</l>
+          <l>נכנסים נמסים אחד באחד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כוכבים זוהרים הינומת עננים</l>
+          <l>בשמיים הערב יש אור אמיתי</l>
+          <l>חלקים בשלם מתאחים לאחד</l>
+          <l>נכנסים נמסים אחד באחד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

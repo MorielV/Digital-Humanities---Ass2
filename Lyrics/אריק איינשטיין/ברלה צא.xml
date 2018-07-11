@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברלה צא</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>שלום חנוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברלה צא</head>
+        <lg number="1" type="stanza">
+          <l>איזה מין חיה זה שבלול?</l>
+          <l>נו כבר תצא משם,</l>
+          <l>רק להביט בך,</l>
+          <l>צא כבר שבלול,</l>
+          <l>צא כבר ונראה מה...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איזה מין חיה זה שבלול?</l>
+          <l>אל תפחד כל כך,</l>
+          <l>כלום לא יקרה לך.</l>
+          <l>צא כבר שבלול,</l>
+          <l>צא כבר ונראה מה...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש הרבה יפה בעולם</l>
+          <l>ברלה צא, צא.</l>
+          <l>ושמחה גדולה תהיה אז בגן,</l>
+          <l>ברלה צא, ברלה צא.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איזה מין חיה זה שבלול?</l>
+          <l>דווקא מבין אותך,</l>
+          <l>איך לא נמאס לך?</l>
+          <l>צא כבר שבלול,</l>
+          <l>צא כבר ונראה מה...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יש הרבה יפה בעולם...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>איזה מין חיה זה שבלול?</l>
+          <l>נו כבר תצא משם,</l>
+          <l>רק להביט בך</l>
+          <l>צא כבר שבלול</l>
+          <l>צא כבר ונראה מה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

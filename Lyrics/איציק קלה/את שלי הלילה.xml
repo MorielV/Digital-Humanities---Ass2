@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את שלי הלילה</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>רמי לב</writer>
+        <composer>איציק קלה</composer>
+        <album>שיהיה רק במזל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את שלי הלילה</head>
+        <lg number="1" type="stanza">
+          <l>לילה מתוק, יחד איתך</l>
+          <l>זאת אהבה שלי ושלך</l>
+          <l>את נסיכה שמבטיחה</l>
+          <l>להיות איתי לעולם. </l>
+          <l>זה מרגש, זה מסחרר </l>
+          <l>איך שהלב שוב מתמכר</l>
+          <l>ובמבט אני ואת</l>
+          <l>נשמור את הלילה לעד!</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את שלי הלילה </l>
+          <l>כל זה מלמעלה</l>
+          <l>קחי אותי איתך, לך אני שייך.</l>
+          <l>זה בלב נוגע</l>
+          <l>לילה משגע</l>
+          <l>נסיכה שלי, את בשבילי!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל העולם בי מסתובב</l>
+          <l>זז לקולות קצב הלב</l>
+          <l>בזכותך אני מרגיש</l>
+          <l>שייך לחיים אחרים</l>
+          <l>את החלום שמלטף</l>
+          <l>את המגע שמכשף</l>
+          <l>איך במבט אני ואת</l>
+          <l>נשמור את הלילה לעד!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את שלי הלילה....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

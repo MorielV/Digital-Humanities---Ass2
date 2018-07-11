@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין מלאכים בגן עדן</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>ממנטו מורי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין מלאכים בגן עדן</head>
+        <lg number="1" type="stanza">
+          <l>חי בתוך כלוב</l>
+          <l>אתם קוראים לזה חופש</l>
+          <l>אולי "חופש גדול" שתיכף נגמר</l>
+          <l>אנחנו מתים בצורה מסודרת</l>
+          <l>נשארים כמו כתמים על איזה לב שנשבר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין מלאכים בגן עדן</l>
+          <l>יש פה רק גיהינום שנותן לחלום</l>
+          <l>שיש מלאכים בגן עדן</l>
+          <l>שיש מלאכים בגן עדן</l>
+          <l>אבל אין מלאכים ואין גן עדן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החיים זה רק תור לפגישה עם המוות</l>
+          <l>בולעים את אלוהים כמו כדורי הרגעה</l>
+          <l>כי אנחנו לבד תמיד היינו בחושך</l>
+          <l>וזה עצוב לחכות מבלי לדעת למה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין מלאכים בגן עדן...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כשעצובים מחכים לניסים</l>
+          <l>כמו ילדים מחכים לקוסמים</l>
+          <l>כשאין מלאכים בגן עדן</l>
+          <l>אין מלאכים בגן עדן</l>
+          <l>אין מלאכים ואין גן עדן</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>חי בתוך כלוב</l>
+          <l>אתם קוראים לזה חופש</l>
+          <l>אולי "חופש גדול" שתיכף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

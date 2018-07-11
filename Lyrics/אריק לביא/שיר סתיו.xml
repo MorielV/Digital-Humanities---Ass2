@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר סתיו 2</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>נעמי שמר</writer>
+        <composer>נעמי שמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר סתיו</head>
+        <lg number="1" type="stanza">
+          <l>זקוף ולבן</l>
+          <l>פרח החצב</l>
+          <l>פצח הענן</l>
+          <l>בזמר טיפטף</l>
+          <l>נשם חילזון</l>
+          <l>את ריח הגשם</l>
+          <l>מיהר ויצא</l>
+          <l>לדשא</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את כל הפרחים</l>
+          <l>הבאנו לגן</l>
+          <l>ברוח הסתיו</l>
+          <l>נדד הענן</l>
+          <l>ורק חילזון</l>
+          <l>וריח הגשם</l>
+          <l>נותרו כל היום</l>
+          <l>בדשא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

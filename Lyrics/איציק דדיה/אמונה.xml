@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמונה 6</title>
+        <singer classification="unknown">איציק דדיה</singer>
+        <writer>גילי זכאי</writer>
+        <composer>גילי זכאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמונה</head>
+        <lg number="1" type="stanza">
+          <l>אשרי האיש אשר עיניו לא עצומות</l>
+          <l>ואין בו סימנים של שאלה - תמיד בטוח,</l>
+          <l>יש אחד שמסדר את כל מה שזורם פה, </l>
+          <l>מכוון את התנועה, </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ורק מי שרואה בנפשו יש מענה,</l>
+          <l>וכל מה שקורה, קורה לטובתך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אמונה, זה כל מה שאתה צריך,</l>
+          <l>תמיד שומרת, מגוננת,</l>
+          <l>אמונה, יודע מי שמאמין,</l>
+          <l>עובדת בלילות ובימים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אשרי האיש המסוגל אפילו כשקשה לו,</l>
+          <l>להרים ראשו מעל ולא לשכוח,</l>
+          <l>כי העצבות לא יכולה לגור עם מי </l>
+          <l>שיש לו חלק עם בורא עולם,</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ורק מי שרואה בנפשו יש מענה,</l>
+          <l>וכל מה שקורה, קורה לטובתך.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אמונה, זה כל מה שאתה צריך,</l>
+          <l>תמיד שומרת, מגוננת,</l>
+          <l>אמונה, יודע מי שמאמין,</l>
+          <l>עובדת בלילות ובימים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

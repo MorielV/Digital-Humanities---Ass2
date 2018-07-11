@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ורטיגו</title>
+        <singer classification="band">אנרגיה חולנית</singer>
+        <writer>אריה פיין</writer>
+        <composer>אורטויה לאדנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ורטיגו</head>
+        <lg number="1" type="stanza">
+          <l>אני נופל הכל ירוק</l>
+          <l>אני נופל אל אור רחוק</l>
+          <l>אני נופל כאב צלול</l>
+          <l>אני נופל מחוץ לגבול</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ועננים שחורים כמו הים</l>
+          <l>מתוך האינסוף קוראים אלי לשם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני נופל עתיד נסתר</l>
+          <l>אני נופל משמי עפר</l>
+          <l>אני נופל כוכב נעול</l>
+          <l>אני נופל מחוץ לגבול</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני נופל הכל ירוק</l>
+          <l>אני נופל אל אור רחוק</l>
+          <l>אני נופל אל יער עד</l>
+          <l>אני נופל אני נולד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

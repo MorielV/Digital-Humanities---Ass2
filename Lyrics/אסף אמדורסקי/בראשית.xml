@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בראשית 2</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>אסף אמדורסקי</composer>
+        <album>הרי את</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בראשית</head>
+        <lg number="1" type="stanza">
+          <l>נכון שהגיע כבר הזמן</l>
+          <l>שנתפזר מכאן.</l>
+          <l>לך מאוחר מדי לסלוח,</l>
+          <l>לי מאוחר להשתנות</l>
+          <l>לכי לדרכך,</l>
+          <l>אני לדרכי</l>
+          <l>מה ששלך כבר לא שלי</l>
+          <l>הרי את משוחררת לכל אחד,</l>
+          <l>ורק לא לי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זמן להתחיל מבראשית,</l>
+          <l>זמן להצמיח שורשים,</l>
+          <l>ולהפסיק לרוץ במעגל.</l>
+          <l>להתחיל מבראשית,</l>
+          <l>ולהצמיח שורשים</l>
+          <l>ולהפסיק לרוץ במעגל</l>
+          <l>בלי לדעת מה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלי טענות לאף אחד</l>
+          <l>קצת חמוץ לי בלב,</l>
+          <l>זה כואב אבל נתגבר בנפרד</l>
+          <l>עוד שנה או שנתיים</l>
+          <l>כן, ככה זה כשמרפים</l>
+          <l>רוצים לא להפסיד אבל מפסידים,</l>
+          <l>הדרך שלי תהיה אחרת,</l>
+          <l>הדרך שלך תהיה שלך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אחרי זמן ארוך שמנסים,</l>
+          <l>אין עוד מקום להיסוסים</l>
+          <l>הגיע הזמן לחתוך וכמוך</l>
+          <l>גם אני רוצה ניסים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זמן להתחיל מבראשית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סורו מני</title>
+        <singer classification="unknown">אורי זוהר</singer>
+        <writer>אלכסנדר פן</writer>
+        <composer>עממי רוסי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סורו מני</head>
+        <lg number="1" type="stanza">
+          <l>סורו, סורו מני,</l>
+          <l>יגון, קדרות ומחשבה</l>
+          <l>הן חי אני, חי עודני</l>
+          <l>שכר אשתה ואהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לחייך, יפתי, אחותי הקטנה.</l>
+          <l>ומחר ישאני גל, אל יודע אנה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גלים גלים, הן זהו ים.</l>
+          <l>חבל, כבל, זוהי ספינה.</l>
+          <l>אך לי אהובה, גם פה גם שם</l>
+          <l>אחת צנועה, שניה פרוצה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לחייך, יפתי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שכר שכר אשתה היום</l>
+          <l>ומחר יאכלוני הדגים</l>
+          <l>לעזאזל הכל! הן זה היום</l>
+          <l>סולטנית, מלצר ושני לוגים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לחייך, יפתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

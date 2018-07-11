@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תמונה שבורה</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>אקורדים</composer>
+        <album>חלק מחיי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תמונה שבורה</head>
+        <lg number="1" type="stanza">
+          <l>אם היא תבוא היא תבוא מעצמה</l>
+          <l>תטווה לאט את חוטי המשיכה</l>
+          <l>האהבה חופשיה ברוחה</l>
+          <l>אין לה אדון או מושל בתוכה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את מנסה לנווט בגלים</l>
+          <l>את מנסה לתפוס אותה במלכודות</l>
+          <l>ציפור הנפש לא נלכדת במילים</l>
+          <l>מילים יפות, מילים גדולות ומפתות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בסוף היום אני מביט בך מרחוק</l>
+          <l>ולפני תמונה שבורה</l>
+          <l>האהבה הותירה שממון עמוק</l>
+          <l>ואין לי דרך חזרה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תמונה שבורה, החלקים אינם ברורים</l>
+          <l>צריך לנוח מתקוות ולחכות</l>
+          <l>את לא יודעת להניח לדברים</l>
+          <l>בבוא הזמן לתת להם מרחב לחיות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בסוף היום אני מביט...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>את לא יודעת להניח לדברים</l>
+          <l>בבוא הזמן לתת להם מרחב לחיות</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>בסוף היום אני מביט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

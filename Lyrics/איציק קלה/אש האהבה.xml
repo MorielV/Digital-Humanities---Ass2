@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אש האהבה</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>דודו ברק</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אש האהבה</head>
+        <lg number="1" type="stanza">
+          <l>מיהו שאמר: "הזמן רופא לכל כאב"?</l>
+          <l>למה אין הזמן מוצא מרפא נכון לאיש אוהב?</l>
+          <l>את אשר הלכת, תקעת לי חץ, עמוק בלב.</l>
+          <l>למה הכאב אינו עוזב אותי, אינו עוזב?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אש האהבה,</l>
+          <l>עולה ויוקדת,</l>
+          <l>בוערת בדם.</l>
+          <l>אש האהבה,</l>
+          <l>לנצח שורדת.</l>
+          <l>מעלה, מעלה, מעלה,</l>
+          <l>אש עולם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מיהו שאמר: "מזור תמצא באהבה"?</l>
+          <l>איך זה שאני חולה, חשוך מרפא, חסר תקווה?</l>
+          <l>למה זה אני אליך מת, הו אהובה?</l>
+          <l>למה זה נפשי יוצאת אליך בת, בלהבה?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אש האהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

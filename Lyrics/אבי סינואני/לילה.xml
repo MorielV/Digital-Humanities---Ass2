@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה 15</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>אברהם לוי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה</head>
+        <lg number="1" type="stanza">
+          <l>לילה את שותקת</l>
+          <l>לילה את חומקת</l>
+          <l>לילה את פוצעת את נפשי</l>
+          <l>יום אחד רגוע</l>
+          <l>יום אחד פרוע</l>
+          <l>יום מרפה את לפצעי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רגע את חומקת</l>
+          <l>רגע את שותקת</l>
+          <l>השארי עכשיו איתי</l>
+          <l>כמו רוח שנושבת</l>
+          <l>בגני חולפת</l>
+          <l>ומרחוק אלי קוראת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה מתוק לי משפתייך</l>
+          <l>זכרונות אחוש עדיין</l>
+          <l>כטעם דבש גולש</l>
+          <l>מה מתוק לי משפתייך</l>
+          <l>רק אותן אחוש עדיין</l>
+          <l>כטעם דבש גולש</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הביטי מה עשו לי ענייך הייפות</l>
+          <l>שפתייך הו ילדונת</l>
+          <l>אותי כאש שורפות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לילה את צחקת</l>
+          <l>לילה את נושקת</l>
+          <l>לילה חובקת את גופי</l>
+          <l>יום דלתך נועלת</l>
+          <l>ויום אלי עורגת</l>
+          <l>ידך נוגעת בכתפי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רגע את חומקת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

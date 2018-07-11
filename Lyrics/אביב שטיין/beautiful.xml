@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>beautiful 2</title>
+        <singer classification="unknown">אביב שטיין</singer>
+        <writer>אביב שטיין</writer>
+        <composer>אביב שטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>beautiful</head>
+        <lg number="1" type="stanza">
+          <l>O I realy want to love you</l>
+          <l>Really want to hold you</l>
+          <l>Really want to long to</l>
+          <l>Find the right time</l>
+          <l>Never in my life time</l>
+          <l>Have I met someone </l>
+          <l>So beautiful as you</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

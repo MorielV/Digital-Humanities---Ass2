@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכל נכתב</title>
+        <singer classification="unknown">אופיר כהן</singer>
+        <writer>אופיר כהן</writer>
+        <composer>אופיר כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכל נכתב</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו זה מתחיל, האושר גדול</l>
+          <l>החיוך על פנייך כבר אומר את הכל</l>
+          <l>יפה ונרגשת, אלי את ניגשת</l>
+          <l>מה יפות הן עינייך, כשלל צבעי הקשת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם הכל מלמעלה נכתב</l>
+          <l>זה הזמן שנלך אל הרב</l>
+          <l>בדירה קטנה לשנינו המזל יבוא עלינו</l>
+          <l>כי אנחנו לנצח נאהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אוהב את כולך, אוהב עד בלי די</l>
+          <l>טעם מתוק בשפתייך שמטריף את חושי</l>
+          <l>ויש בך את הכח שגורם לי לשמוח </l>
+          <l>לא יכול כבר לדקה אותך לשכוח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם הכל מלמעלה נכתב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

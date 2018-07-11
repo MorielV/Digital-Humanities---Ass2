@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לעולם 4</title>
+        <singer classification="unknown">איציק אל</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>איציק אל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לעולם</head>
+        <lg number="1" type="stanza">
+          <l>באת אלי בשקט</l>
+          <l>נוגעת, כובשת</l>
+          <l>בתפילה ביקשתי</l>
+          <l>רק אלייך לגשת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי איתך בשניים</l>
+          <l>זה מהשמיים</l>
+          <l>מה שאלוהים קבע</l>
+          <l>כך ולא אחרת</l>
+          <l>ועד קצה הדרך</l>
+          <l>שנדע רק אהבה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לעולם לעולם לעולם</l>
+          <l>שנינו עד הנצח</l>
+          <l>כי רק אותך אוהב</l>
+          <l>לעולם לעולם לעולם</l>
+          <l>לעולם נשבע לך </l>
+          <l>אתן לך את הלב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את אישה אוהבת </l>
+          <l>מושכת, מרגשת</l>
+          <l>רק איתך גיליתי את</l>
+          <l>הדרך לאושר </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כי איתך בשניים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

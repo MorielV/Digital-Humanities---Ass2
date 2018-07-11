@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התעמלות בוקר 2</title>
+        <singer classification="band">אחרית הימים</singer>
+        <writer>חנוך לוין</writer>
+        <composer>זוהר לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התעמלות בוקר</head>
+        <lg number="1" type="stanza">
+          <l>כפוף ראשך ואל תרים אותו יותר</l>
+          <l>תן לזרועותיך הכבדות ליפול</l>
+          <l>שים ידיך על ליבך שכבר עומד להשבר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רד לאט ושכב פרקדן על עפרך</l>
+          <l>פלוט את האוויר ואל תנשום שנית</l>
+          <l>תן לעצמותיך להגיע אל המנוחה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז רוץ לקראת סופך בריא ורענן</l>
+          <l>ידיים שלב - שלוש, ארבע!</l>
+          <l>עיניים עצום - שלוש, ארבע!</l>
+          <l>והופ, הופ, הופ, הופ, הופ, הופ, הופ ודי</l>
+          <l>והופ, הופ, הופ, הופ, הופ, הופ, הופ ודי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שים ידך הימנית על הסנטר</l>
+          <l>והמוח הקטן על הארוך</l>
+          <l>שכב לך בשקט והנח להם להתקרב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>משוך ידך למטה אל האדמה</l>
+          <l>גע במצחך בעשבים קטנים</l>
+          <l>אל תסמוך ידיך לצדדים כי אין לך למה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז רוץ לקראת סופך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

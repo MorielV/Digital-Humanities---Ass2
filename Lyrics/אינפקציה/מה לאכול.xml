@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה לאכול</title>
+        <singer classification="band">אינפקציה</singer>
+        <writer>גיא בן שיטרית</writer>
+        <composer>גיא בן שיטרית</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה לאכול</head>
+        <lg number="1" type="stanza">
+          <l>עוד כשהייתי בגיל חמש לא היה לי מה לאכול</l>
+          <l>לא היה לי מה לאכול</l>
+          <l>ההורים רק לטשו עיניים כשעשיתי במכנסיים</l>
+          <l>ולא החליפו לי חיתול חודשיים</l>
+          <l>וככה לא יכולתי לגדול</l>
+          <l>לא היה לי מה לאכול</l>
+          <l>אז הצטרפתי למד"א והכנתי שיעורים במקלט למטה</l>
+          <l>עד שהחורף הגיע ולא היה לי</l>
+          <l>כוס חלב לשתות ביחד עם הפיתה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

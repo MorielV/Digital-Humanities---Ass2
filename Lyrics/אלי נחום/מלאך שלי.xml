@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלאך שלי 3</title>
+        <singer classification="unknown">אלי נחום</singer>
+        <writer>אלי נחום</writer>
+        <composer>אלי נחום</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלאך שלי</head>
+        <lg number="1" type="stanza">
+          <l>מלאך שלי</l>
+          <l>בואי ונהיה לבד</l>
+          <l>וכל אחד ייקח גלולת שינה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ניקח מונית לקצה העיר </l>
+          <l>מחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מלאך שלי </l>
+          <l>בואי ונהיה לבד</l>
+          <l>נראה סרטים ונהרוג ת'זמן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אקח אותך על סוס לבן</l>
+          <l>מחר</l>
+          <l>כבר מאוחר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>How can you say</l>
+          <l>I should stop what I do</l>
+          <l>It’s not over</l>
+          <l>no</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>How can you say</l>
+          <l>I should stop what I do</l>
+          <l>It’s not over till I stop</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>מלאך שלי</l>
+          <l>בואי ונהיה לבד</l>
+          <l>וכל אחד ייקח גלולת שינה</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>אקח אותך על סוס לבן</l>
+          <l>מחר </l>
+          <l>כבר מאוחר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

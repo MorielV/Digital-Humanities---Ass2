@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלילה שלך</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>חלק מחיי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלילה שלך</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הלבנה זוהרת בלילה לכבודך</l>
+          <l>פעמונים ברוח מצלצלים את שמך</l>
+          <l>מישהו נשבע לנצח לאהוב אותך</l>
+          <l>זה הלילה שלך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>העולם מלא באור, מיופייך שושן צחור</l>
+          <l>רק להביט בך ולהגיד, את מעלפת</l>
+          <l>זהו לילה מיוחד שניים בו יהיו אחד</l>
+          <l>עת זמיר הגיע קול התור נשמע</l>
+          <l>מלאכים קישטו בכוכבים את השמיים</l>
+          <l>כל העולם חוגג איתך עכשיו</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הלבנה זוהרת בלילה לכבודך...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מכל עבר לך שולחים, מתנות וחיוכים</l>
+          <l>ים השיכר מטפס גבוה, לחייך</l>
+          <l>ואני אשיר לכבוד, היפה בעלמות</l>
+          <l>פקחי עינייך הביטי מסביבך</l>
+          <l>מלאכים קישטו בכוכבים את השמיים</l>
+          <l>כל העולם חוגג איתך עכשיו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הלבנה זוהרת בלילה לכבודך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,37 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחת שאלתי</title>
+        <singer classification="unknown">אביחי פז גרינוולד</singer>
+        <writer>מן המקורות</writer>
+        <composer>אביחי פז גרינוולד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחת שאלתי</head>
+        <lg number="1" type="stanza">
+          <l>אחת שאלתי מאת ה'</l>
+          <l>אותה אבקש</l>
+          <l>שבתי בבית ה' כל ימי חיי</l>
+          <l>לחזות בנועם ה ולבקר בהיכלו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

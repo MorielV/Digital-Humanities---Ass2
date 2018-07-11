@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בצל האבן</title>
+        <singer classification="male singer">איתן מסורי</singer>
+        <writer>נתן יונתן</writer>
+        <composer>איתן מסורי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בצל האבן</head>
+        <lg number="1" type="stanza">
+          <l>ההולך והעיף והישן במלון-אוחים</l>
+          <l>ועל גוו החם פרפור שמיכת הקיץ</l>
+          <l>הרועד והרוחף מכפור הלילה בדרכים</l>
+          <l>אל עפרך ישוב אפילו על ברכים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ראינו פעם איך הוא שב לנשם עמק אבק דרכיו</l>
+          <l>בחולצתו וסנדליו פנה ללכת</l>
+          <l>אותם עפר ואבנים אותו השקט במלחה</l>
+          <l>אותו הרתם הבודד על קו הרכס.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמענו פעמי רגליו מתרחקים בערבה</l>
+          <l>והד עצוב ואת הרוח הרודפת</l>
+          <l>הוא יעבר במרחבים האפרים עוטה אבק</l>
+          <l>עד שימצא לו מחסה בצל האבן.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

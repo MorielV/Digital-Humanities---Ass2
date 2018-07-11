@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחול החרבות</title>
+        <singer classification="unknown">אלכס 3</singer>
+        <writer>דודו ברק</writer>
+        <composer>דורון פיקר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחול החרבות</head>
+        <lg number="1" type="stanza">
+          <l>בואו גברים,</l>
+          <l>בואו בחורים,</l>
+          <l>במחול החרבות,</l>
+          <l>מעבר להרים.</l>
+          <l>כמו עופרים,</l>
+          <l>בואו נערים</l>
+          <l>בריקוד האש</l>
+          <l>ובניגון שיר השירים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שחר עליכם,</l>
+          <l>שמש בלבבכם,</l>
+          <l>מן הבוקר עד הלילה, </l>
+          <l>זוהר על ראשכם.</l>
+          <l>להט ושרב,</l>
+          <l>שחל ועקרב,</l>
+          <l>לא ייתם לנצח ריקודכם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קצב בדם</l>
+          <l>ובעורף חם</l>
+          <l>וסובב המעגל,</l>
+          <l>סובב מים עד ים.</l>
+          <l>עם תופי מרים,</l>
+          <l>כמו מפל אדם,</l>
+          <l>כמו נהר ענק,</l>
+          <l>למרחקים, אל העולם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שחר עליכם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

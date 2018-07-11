@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק אתה 3</title>
+        <singer classification="unknown">אור סיבוני</singer>
+        <writer>מיטל פטש</writer>
+        <composer>אור סיבוני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק אתה</head>
+        <lg number="1" type="stanza">
+          <l>אני לא ילדה ולא מפחדת </l>
+          <l>החיים לימדו אותנו את הדרך</l>
+          <l>אה זה לא אתה שטרק את הדלת</l>
+          <l>לפעמים הזמן שורף את הגחלת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין דומה לך עוד וזאת רק אני יודעת </l>
+          <l>כשאתה איתי הלב רוקן עולם בלי פחד</l>
+          <l>אין דומה לך עוד וזאת רק אני שומעת</l>
+          <l>את הגעגוע משתולל להיות ביחד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק אתה מאמין בי שאני עוד אנצח</l>
+          <l>גם אם אתה רחוק אף פעם לא שוכח </l>
+          <l>רק אתה מרפא אותי מעבר ים שולח </l>
+          <l>ואתה בתוך חיי בעיני אתה זורח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רק אתה מאמין </l>
+          <l>רק אתה מאמין...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אתה מדבר ואני שותקת </l>
+          <l>כשאתה שואל אני לא מתחמקת</l>
+          <l>וכמוך גם אני לא מוותרת</l>
+          <l>זה זורם בדם ואני אני נלחמת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אין דומה לך עוד וזאת רק אני יודעת...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>והלילה קר ובחוץ הגשם</l>
+          <l>מספר סיפור שאתה בסדר</l>
+          <l>ואולי אני אני זאת שחולמת</l>
+          <l>שיבוא היום ויהיה אחרת</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>אין דומה לך עוד וזאת רק אני יודעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

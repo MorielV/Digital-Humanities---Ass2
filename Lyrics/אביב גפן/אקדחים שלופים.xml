@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אקדחים שלופים</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>יומן מסע</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אקדחים שלופים</head>
+        <lg number="1" type="stanza">
+          <l>הוא חזר מהצבא</l>
+          <l>הוא נראה עייף נורא</l>
+          <l>אבל עוד מעט הוא כבר מגיע</l>
+          <l>שביל ישן שבשכונה</l>
+          <l>הוא חוצה לאהובה שמחכה</l>
+          <l>השכנים שבחלון</l>
+          <l>צוחקים, עוברים לדום</l>
+          <l>באפו הריח של הבית</l>
+          <l>לאמו שבכניסה</l>
+          <l>הוא מחליף ת'דאגה</l>
+          <l>בנשיקה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל בתוכו אקדחים שלופים</l>
+          <l>אנשים בוכים</l>
+          <l>הקוצים פורחים</l>
+          <l>אבל בתוכו אקדחים שלופים</l>
+          <l>זה תמיד כואב כשהפצעים פתוחים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחלון כוכב עולה</l>
+          <l>היא רואה אותו בוכה</l>
+          <l>ואומרת "גם אני פוחדת"</l>
+          <l>הוא עונה לה "זה קשה לעזוב דבר יפה</l>
+          <l>כמו שאת".</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבל בתוכו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וברדיו יש שיחה</l>
+          <l>דמות בכירה בממשלה</l>
+          <l>מרגישה שהשלום מגיע</l>
+          <l>הוא יושב בתחנה</l>
+          <l>הוא נרדם בישיבה</l>
+          <l>וחולם</l>
+          <l>עליה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

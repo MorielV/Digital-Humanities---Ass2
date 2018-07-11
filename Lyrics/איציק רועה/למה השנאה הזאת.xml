@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למה השנאה הזאת</title>
+        <singer classification="unknown">איציק רועה</singer>
+        <writer>איציק רועה</writer>
+        <composer>איציק רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למה השנאה הזאת</head>
+        <lg number="1" type="stanza">
+          <l>מתעורר כל בוקר אל כותרות העיתונים</l>
+          <l>הורה טיפש פגע בילד, אשה הוכתה ואלימות מינית</l>
+          <l>ואני רוצה לבכות, לצעוק ולא יכול</l>
+          <l>ואת כאן לידי וזה עושה לי טוב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ובעיר הגדולה תל אביב, שמאלנים חיים בתוך בועה</l>
+          <l>מייבאים תרבות של רייטינג ועסוקים ברדיפה</l>
+          <l>ואני רוצה לבכות, לצעוק ולא יכול</l>
+          <l>ואת כאן לידי וזה עושה לי טוב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רק את שאוהבת, זו את</l>
+          <l>ואת שנותנת לי עוד כח</l>
+          <l>ולפעמים אני רוצה לברוח, תביני</l>
+          <l>ולפעמים אני רוצה לצרוח</l>
+          <l>למה השנאה הזאת?!</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ובעיר הקדושה ירושלים, חרדים קרובים לאלוקים</l>
+          <l>אנשי ימין אומרים - הכל שלנו ואין מקום כאן לערבים</l>
+          <l>ואיש חשוב בעיני עצמו קורא להדק את החגורה</l>
+          <l>על רצועת החוף שלנו הוא בונה לו עוד טירה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רק את שאוהבת, זו את...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

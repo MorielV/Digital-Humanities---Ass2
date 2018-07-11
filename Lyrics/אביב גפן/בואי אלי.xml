@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי אלי</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי אלי</head>
+        <lg number="1" type="stanza">
+          <l>בואי אלי תהיי בעדי</l>
+          <l>את אף לא אהבת אותי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עזרי לי עכשיו שכולם כבר נגדי</l>
+          <l>את פעם לא ראית אותי לא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לי בית פרטי עם גינה</l>
+          <l>אך את לא איתי</l>
+          <l>לפחות תתקשרי</l>
+          <l>אך את נעלמת מהר</l>
+          <l>אז אני מתעורר מדבר אל הקיר</l>
+          <l>את לא היית בדיוק בן אדם</l>
+          <l>אז אני שוב נרדם וחולם בהקיץ</l>
+          <l>לחלום קצת מציץ</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עזרי לי עכשיו שכולם כבר נגדי</l>
+          <l>את פעם לא ראית אותי לא</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יוצא מבושם וחוזר שוב מוכתם</l>
+          <l>אך הכתם בלב ואני רק אוהב</l>
+          <l>ואם זאת אהבה אני מוכן לקבורה</l>
+          <l>והסוף לא טוב האדם חוזר אל הקוף</l>
+          <l>והקוף לעצים להתראות לנשים</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בואי אלי אישה מעלי</l>
+          <l>שקוראת אהובי</l>
+          <l>מתי תעזבי אותי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

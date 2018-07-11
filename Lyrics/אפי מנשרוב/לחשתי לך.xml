@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לחשתי לך</title>
+        <singer classification="unknown">אפי מנשרוב</singer>
+        <writer>רונן מיכאלוב</writer>
+        <composer>רונן מיכאלוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לחשתי לך</head>
+        <lg number="1" type="stanza">
+          <l>זהו רגע אחרון כך את לי אומרת</l>
+          <l>מביטה אל השעון לאן את ממהרת ?</l>
+          <l>הינה עוד רשרוש בלב ופחד בעיניים</l>
+          <l>אל תלכי אני אוהב לחשתי לך..</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ספרי לי מה קורה לך לא דיברנו על פרידה </l>
+          <l>גם לא חשבנו, זה לא מובן..</l>
+          <l>סלחי לי אם כשלתי, גלי כי לא ידעתי</l>
+          <l>תגידי כמה זמן נשאר, כמה זמן נשאר ?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ועכשיו זה לא חשוב מי טעה ביננו</l>
+          <l>רק חבל שכך פתאום שקט כה בביתנו</l>
+          <l>אז תאמרי לי מה קרה מדוע את נסערת</l>
+          <l>רק תתני לי עוד דקה לחשתי לך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

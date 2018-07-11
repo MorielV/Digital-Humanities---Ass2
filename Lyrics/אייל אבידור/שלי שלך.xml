@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלי שלך</title>
+        <singer classification="unknown">אייל אבידור</singer>
+        <writer>אייל אבידור</writer>
+        <composer>אייל אבידור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלי שלך</head>
+        <lg number="1" type="stanza">
+          <l>אחד אחד בלחישה, שוב הם מגיעים </l>
+          <l>עם מעיל וספר קטן הם באים. </l>
+          <l>מאחורי קירות גדולים, נשמעות תפילות </l>
+          <l>כוכבים יפים מאירים בלילות. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק תתן לי יותר אני לא מוותר </l>
+          <l>על טיפה של תקווה. </l>
+          <l>שלי שלך, שלי שלך, שלי שלך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לאט לאט ללא סימן, מתפתל השביל </l>
+          <l>איש אינו יודע לאן הוא מוביל </l>
+          <l>וכמו עיניים עצומות, מסכי הזמן </l>
+          <l>ומתוך החושך יבוא אור לבן. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק תתן לי יותר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

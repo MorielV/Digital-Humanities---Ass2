@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה את מחפשת</title>
+        <singer classification="unknown">אורי צדוק</singer>
+        <writer>אורי צדוק</writer>
+        <composer>אורי צדוק</composer>
+        <album>גבוה מכאן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה את מחפשת</head>
+        <lg number="1" type="stanza">
+          <l>מה את מחפשת מה את מבקשת</l>
+          <l>אור קטן מאיזו מנהרה</l>
+          <l>איך כמו שהגעת קמת ונעלמת</l>
+          <l>השארת חיוך קטן מליל אמש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עכשיו אני אלך לישון רק עם תמונה</l>
+          <l>מדבר אליה והיא לא עונה</l>
+          <l>יושב עכשיו לבד ומחפש משענת</l>
+          <l>תגידי מה את מחפשת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ציור שלך שווה יותר מאלף מילים</l>
+          <l>ציירי לי עולם ציירי לי חיים</l>
+          <l>אפילו השמש לפעמים צריכה קצת אור</l>
+          <l>שיפקח לה את העיניים שידאג וישמור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עכשיו אני אלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

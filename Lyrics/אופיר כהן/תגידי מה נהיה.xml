@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תגידי מה נהיה</title>
+        <singer classification="unknown">אופיר כהן</singer>
+        <writer>רונן ירקוני</writer>
+        <composer>יוסי חן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תגידי מה נהיה</head>
+        <lg number="1" type="stanza">
+          <l>את יודעת שכתבתי לך ב- ICQ </l>
+          <l>כל בוקר "I  LOVE YOU", חתום בשיר אהבה</l>
+          <l>למה לא תתני לי קצת יותר סיכוי</l>
+          <l>דברי איתי גלוי, כי רק אצלך התשובה</l>
+          <l>בשבילך אני אלך עד קצה העולם</l>
+          <l>אם רק תבואי עוד הלילה</l>
+          <l>בגללך אני מרגיש כאילו לא קיים</l>
+          <l>אז אולי תגידי מה נהיה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תגידי מה נהיה איתך, תגידי מה עובר בראש שלך</l>
+          <l>תני לי לאהוב אותך, עד שהשמש שוב תזרח</l>
+          <l>תגידי מה נהיה איתך, גלי לי את הסוד בלב שלך</l>
+          <l>תני לי לאהוב אותך, את החלום שלא אשכח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החיוך שלך על המסך עושה לי טוב</l>
+          <l>אני מרגיש קרוב, חבל שאת לא עונה</l>
+          <l>רק אותך אני רוצה שוב לאהוב</l>
+          <l>ולא מפסיק לחשוב, איך את יפה בתמונה</l>
+          <l>בשבילך אני אלך עד קצה העולם</l>
+          <l>אם רק תבואי עוד הלילה</l>
+          <l>בגללך אני מרגיש כאילו לא קיים</l>
+          <l>אז אולי תגידי מה נהיה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תגידי מה נהיה איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

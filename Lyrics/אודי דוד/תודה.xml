@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תודה 5</title>
+        <singer classification="male singer">אודי דוד</singer>
+        <writer>רמי לב</writer>
+        <composer>דורון אלימלך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תודה</head>
+        <lg number="1" type="stanza">
+          <l>את המדרגות מכאן ועד לנצח</l>
+          <l>את המתיקות היופי בפשטות</l>
+          <l>את החלומות שבחיי הגשמתי</l>
+          <l>כמו גשם למדבר את היום והמחר!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תודה, תודה על האהבה</l>
+          <l>שאת נותנת לי</l>
+          <l>תודה על שבחרת</l>
+          <l>להיות תמיד איתי</l>
+          <l>תודה את נשמה טובה</l>
+          <l>תודה לאלוהים</l>
+          <l>על שאותך ברא!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את כל התמונות שיש לי כל הדרך</l>
+          <l>כן את כל עולמי הסוד לקיומי.</l>
+          <l>בין דמעות שמחה ובין כאב קורע</l>
+          <l>את שם תמיד תהיי לנצח בשבילי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תודה, תודה על האהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

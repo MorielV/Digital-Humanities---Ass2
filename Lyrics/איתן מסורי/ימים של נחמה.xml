@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ימים של נחמה</title>
+        <singer classification="male singer">איתן מסורי</singer>
+        <writer>ישראל דיין</writer>
+        <composer>איתן מסורי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ימים של נחמה</head>
+        <lg number="1" type="stanza">
+          <l>הימים ימים של נחמה</l>
+          <l>ואין אור מתוך האפלה</l>
+          <l>לוגם קפה מתוק ניחוח הל</l>
+          <l>מתי זה ייגמר אני שואל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי נאמין בימים יפים</l>
+          <l>רק אני ואת והתקוות</l>
+          <l>כשהלב קרוב כן יהיה עוד טוב</l>
+          <l>ונגשים את כל החלומות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>באוויר ניחוח של אביב</l>
+          <l>את שואלת ואני מקשיב</l>
+          <l>אם יש זמן בכלל לאהבה</l>
+          <l>זה סוף הדרך או ההתחלה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואי נאמין בימים יפים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הימים טובים לאהבה</l>
+          <l>ובאופק יש מעט תקווה</l>
+          <l>בואי ונחשוב רק על הטוב</l>
+          <l>איך לתת ואיך גם לאהוב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בואי נאמין בימים יפים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

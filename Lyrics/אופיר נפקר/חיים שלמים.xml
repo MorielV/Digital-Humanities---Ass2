@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיים שלמים 2</title>
+        <singer classification="male singer">אופיר נפקר</singer>
+        <writer>אופיר נפקר</writer>
+        <composer>יוסי נפקר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיים שלמים</head>
+        <lg number="1" type="stanza">
+          <l>את את היית לי גן עדן</l>
+          <l>את את היית כה מיוחדת</l>
+          <l>אני כה מאוהב</l>
+          <l>ועכשיו הלכת</l>
+          <l>איך את היית כאן עוד אמש</l>
+          <l>כמו יהלום נוצץ בשמש</l>
+          <l>חיי היו שלך (שלך שלך)</l>
+          <l>ועכשיו הלכת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חיים שלמים נתתי לך</l>
+          <l>ועכשיו הלכת</l>
+          <l>חיים שלמים נתתי לך</l>
+          <l>ועכשיו הלכת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תמונה קטנה</l>
+          <l>גורמת לי לרעוד</l>
+          <l>אבד הקסם</l>
+          <l>גנבו לי את האור</l>
+          <l>ליבי נתתי לאחת</l>
+          <l>ועכשיו הלכת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חיים שלמים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

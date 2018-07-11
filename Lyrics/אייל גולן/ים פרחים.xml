@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ים פרחים</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>ואני קורא לך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ים פרחים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>ים פרחים שלחתי לך</l>
+          <l>אנא אמרי לי מה יהיה איתך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שלחתי זר עם לב פצוע</l>
+          <l>אנא אמרי, אמרי מדוע</l>
+          <l>בלי מענה אני תקוע</l>
+          <l>יום אחר יום כל השבוע</l>
+          <l>יושב בוהה מול חלונך</l>
+          <l>רוצה כל כך לראותך</l>
+          <l>אי אי אי מאוהב בך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ים פרחים שלחתי לך</l>
+          <l>אנא אמרי לי מה יהיה איתך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לו רק מבט היית שולחת</l>
+          <l>היית לבטח גם יודעת</l>
+          <l>אש אהבה בי מתלקחת</l>
+          <l>אני כמעט יוצא מדעת</l>
+          <l>יושב בוהה מול חלונך</l>
+          <l>רוצה כל כך לראותך</l>
+          <l>מאוהב בך... אי אי אי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ים פרחים שלחתי לך</l>
+          <l>אנא אמרי לי מה יהיה איתך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

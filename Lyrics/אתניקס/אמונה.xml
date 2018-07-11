@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמונה</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמונה</head>
+        <lg number="1" type="stanza">
+          <l>שוב נשאר בין הקירות, מוצא אותך על הרצפה</l>
+          <l>נוגעת בדפי האמונה</l>
+          <l>בגופך יש כח פרא להמשיך כי זאת הדרך</l>
+          <l>דרך שתיתן לך הגנה</l>
+          <l>את נקרעת מבפנים, רואים אצלך על הפנים</l>
+          <l>ובידך סכין האמונה</l>
+          <l>רוצה אותי על המזבח, עם או בלי לילות ירח</l>
+          <l>בלי הנשיקה האחרונה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קול קורא לי מן המזרח</l>
+          <l>חזור אלי</l>
+          <l>בני שומרון מחכים על ההר</l>
+          <l>חזור לשם, סכין האמונה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עננים כבדים בינתיים מכסים את השמיים</l>
+          <l>באישונים אפור כהה מכה</l>
+          <l>הזייה שלא נשלטת על גופך שוב משתלטת</l>
+          <l>קצב רוחני שלא מרפה</l>
+          <l>את נקרעת מבפנים בצל כוחם של כהנים</l>
+          <l>ובידך סכין האמונה</l>
+          <l>רוצה אותי על המזבח, עם או בלי לילות ירח</l>
+          <l>בלי הנשיקה האחרונה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קול קורא לי מן המזרח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

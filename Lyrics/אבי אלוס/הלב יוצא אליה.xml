@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלב יוצא אליה</title>
+        <singer classification="unknown">אבי אלוס</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלב יוצא אליה</head>
+        <lg number="1" type="stanza">
+          <l>כואב לה עמוק בתוך הלב</l>
+          <l>היא בודדה באין-אוהב.</l>
+          <l>כלוב הלב סוגר עליה, אין לה נחמה,</l>
+          <l>מה תלהב במלותיה אש הנקמה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והלב יוצא אליה</l>
+          <l>להיות איתה ובין ידיה.</l>
+          <l>להיות איתה בלילותיה</l>
+          <l>ולזכות בריגושיה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ישבה ודברה בביתי</l>
+          <l>ןסיפורה נגע ללבי.</l>
+          <l>מי כמוני חש את עומק הכאב שבה,</l>
+          <l>לו יכולתי לקחת חלק במשא-סבלה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והלב יוצא...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נופץ לה חלום של שנים,</l>
+          <l>אין לה אמון באנשים.</l>
+          <l>היא מלכה ואין לה מלך על כס-מלכותה,</l>
+          <l>אבודה אי-שם בדרך החיים שלה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>והלב יוצא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל הים ברחתי</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל הים ברחתי</head>
+        <lg number="1" type="stanza">
+          <l>אל הים ברחתי</l>
+          <l>על העולם חשבתי</l>
+          <l>את קולי שמעתי</l>
+          <l>צחקתי וצחקתי</l>
+          <l>כך משכוני אחריהם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גלי הים גבוהים</l>
+          <l>אך למה מתנפצים</l>
+          <l>ברעש המוני</l>
+          <l>מרקידים ליבי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על החוף נשכבתי</l>
+          <l>את עיני עצמתי</l>
+          <l>ובכל גופי רעדתי</l>
+          <l>צעקתי וצעקתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

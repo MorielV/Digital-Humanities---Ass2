@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המלכות היא שלמה</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>חנוך לוין</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המלכות היא שלמה</head>
+        <lg number="1" type="stanza">
+          <l>יום יבוא וכל הסיבות</l>
+          <l>וכל הכוונות הטובות והרעות</l>
+          <l>יהיו לאבק פורח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וגם מן הנוד באשר הוא נוד</l>
+          <l>לא יוותרו הרבה כוונות</l>
+          <l>אבל יוותר הריח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אך נומה ילד, אל תפחד</l>
+          <l>הרי המלכות היא שלמה</l>
+          <l>לרוב הדודים יש רק רגל אחת</l>
+          <l>אבל המלכות היא שלמה</l>
+          <l>וכל הדודות מסביב לבור</l>
+          <l>מחכות לך ילד גיבור</l>
+          <l>אבל המלכות היא שלמה</l>
+          <l>אבל המלכות היא שלמה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ומה נאמר לבנינו ביום ההוא</l>
+          <l>שכל הסיבות שהיו לנו</l>
+          <l>יהיו לאבק פורח</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שרצינו בטוב בלב תמים</l>
+          <l>עכשיו בעצמנו איננו יודעים</l>
+          <l>איך נותר לנו רק הריח</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז נומה ילד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

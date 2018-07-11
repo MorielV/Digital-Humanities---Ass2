@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תחת גדול</title>
+        <singer classification="unknown">אורלי מגורי כהן</singer>
+        <writer>אורלי מגורי כהן</writer>
+        <composer>אורלי מגורי כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תחת גדול</head>
+        <lg number="1" type="stanza">
+          <l>אני אוהבת לאכול</l>
+          <l>גם מחר וגם אתמול</l>
+          <l>פשוט מאוד מאוד לזלול</l>
+          <l>לאכול הכל הכל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ושיהיה לי תחת גדול, תחת גדול!</l>
+          <l>ושיהיה לי תחת גדול!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואם הג'ינס לא יעלה</l>
+          <l>והתחת יתמלא</l>
+          <l>אני אקנה אז ג'ינס אחר</l>
+          <l>ואבלע את המקרר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ושיהיה לי תחת גדול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

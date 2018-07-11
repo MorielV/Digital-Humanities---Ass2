@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ליל סתיו 2</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>חיה כהן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ליל סתיו</head>
+        <lg number="1" type="stanza">
+          <l>עלי שלכת נושרים לאט</l>
+          <l>ורוח ערב לוחש בלאט</l>
+          <l>לך נערה זו מנגינה של סתיו</l>
+          <l>שקיעה חולמת באור זהב</l>
+          <l>אט אט נושקת לעבר סתיו</l>
+          <l>זו מנגינה שעצב בה של סתיו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש ניגון שעולה מן הסתיו</l>
+          <l>ומרעיד מיתרי הזהב</l>
+          <l>של חלום שנשכח</l>
+          <l>וישוב ויפרח מחדש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בשמי הערב כוכב נולד</l>
+          <l>שולח חרש אלייך בת</l>
+          <l>נצנוץ של פז שיש בו רז של סתיו</l>
+          <l>ואת פוסעת בתוך הסתיו</l>
+          <l>ואת חולמת על האחד</l>
+          <l>שרק אותך, שרק אותך יאהב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש ניגון שעולה מן הסתיו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הביאו את הנגרים</title>
+        <singer classification="unknown">אלג יר</singer>
+        <writer>אביב גדג'</writer>
+        <composer>אביב גדג'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הביאו את הנגרים</head>
+        <lg number="1" type="stanza">
+          <l>הביאו את הנגרים,</l>
+          <l>שיבנו מיטה לישון בה.</l>
+          <l>הביאו את הצורפים,</l>
+          <l>שיעשו תכשיט את חיי יהלומים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>להתראות ילדים וילדות,</l>
+          <l>אני אלך בעקבות הכוכב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הביאו את הציירים,</l>
+          <l>שיציירו אותי בצבעים חדשים.</l>
+          <l>הייתי רוצה לשיר בצעקה גדולה,</l>
+          <l>אבל עכשיו אני אשיר כמו מכונת אהבה שבורה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>להתראות ילדים וילדות,</l>
+          <l>אני אלך בעקבות הכוכב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

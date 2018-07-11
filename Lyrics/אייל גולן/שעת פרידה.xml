@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שעת פרידה</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>אבי רן טוויג</writer>
+        <composer>אקורדים</composer>
+        <album>זה אני</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שעת פרידה</head>
+        <lg number="1" type="stanza">
+          <l>עמדה היא מולי כמו זרה</l>
+          <l>בזרועותי היתה רק אתמול</l>
+          <l>ואני מתוך מבטה</l>
+          <l>הבנתי מיד את הכל</l>
+          <l>הרגשתי פתאום שחלומי</l>
+          <l>התנפץ לו מולי לרסיסים</l>
+          <l>ליבי הלם לו בחוזקה,</l>
+          <l>לא יכולתי לעצור את הדמעה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פעם את היית שלי</l>
+          <l>ועכשיו לו את שייכת</l>
+          <l>לגורל אלפי פנים</l>
+          <l>פעם איתי פעם הולכת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד רגע חלף ועבר</l>
+          <l>עוד רגע יכבו כל האורות</l>
+          <l>וסיפור אהבה שנגמר</l>
+          <l>יותיר אחריו זכרונות</l>
+          <l>לחדר כה קר חוזר אני</l>
+          <l>תמונה רק נותרה לי למזכרת</l>
+          <l>איך פעם את היית כל עולמי</l>
+          <l>ועכשיו אותו את אוהבת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פעם את היית שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

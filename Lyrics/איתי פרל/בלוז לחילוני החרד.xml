@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלוז לחילוני החרד</title>
+        <singer classification="male singer">איתי פרל</singer>
+        <writer>איתי פרל</writer>
+        <composer>איתי פרל</composer>
+        <album>מסע בלוז</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלוז לחילוני החרד</head>
+        <lg number="1" type="stanza">
+          <l>זה לא צבא של מדינות ערב על הגדר</l>
+          <l>זו לא הבת של השכנה שמרוויחה יותר</l>
+          <l>אחי, אתה בחרדות</l>
+          <l>אתה הולך על הקווים אתה תקוע על הנקודות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וכולם בדיוק עוברים עכשיו תקופה קשה</l>
+          <l>אם אתה רוצה ללכת אז בבקשה</l>
+          <l>אתה ממשיך מכאן על זמן שאול</l>
+          <l>אתה בכוח מתעקש לבדוק מה יש מאחורי הגבול</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש לי חדשות בשבילך</l>
+          <l>החילוני החרד החדש</l>
+          <l>טובים ממני וממך ניסו לדפוק את השיטה</l>
+          <l>יש לי חדשות בשבילך</l>
+          <l>הטלוויזיה לא אשמה</l>
+          <l>לא נשנה את העולם, לא אני ולא אתה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא מאמין הוא שהמינוס שלו לא עובר</l>
+          <l>מהעשירי עד החמש עשרה קשה יותר</l>
+          <l>אל תנופף מולי את השטרות</l>
+          <l>כבר נהרגו פה אנשים בשביל הרבה הרבה פחות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וכולם בדיוק עוברים עכשיו תקופה כזאת</l>
+          <l>אם אתה רוצה ללכת אז להתראות</l>
+          <l>הבירוקרטיה כבר על הסכין</l>
+          <l>הם מחתימים אותך על טופס שאתה אף פעם לא מבין</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יש לי חדשות בשבילך</l>
+          <l>החילוני החרד החדש</l>
+          <l>טובים ממני וממך ניסו לדפוק את השיטה</l>
+          <l>יש לי חדשות בשבילך</l>
+          <l>הטלוויזיה לא אשמה</l>
+          <l>לא נשנה את העולם, לא אני ולא אתה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

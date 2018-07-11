@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שוב אני לבד</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>missing</composer>
+        <album>עומד על נייר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שוב אני לבד</head>
+        <lg number="1" type="stanza">
+          <l>שוב אני לבד </l>
+          <l>מה אני הולך לעשות עם זה</l>
+          <l>לא לישון בימים לקום להאמין </l>
+          <l>להפוך את המזרון אחליף ת'מצעים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שוב אני לבד </l>
+          <l>כאן אני נשאר בינתיים </l>
+          <l>שוב אני לבד </l>
+          <l>מה אני הולך לעשות עם זה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה הזמן להרפות </l>
+          <l>לפטפט על השתיקות </l>
+          <l>אני אלמד לנמנם </l>
+          <l>אחלום בלי בלהות </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שוב אני לבד </l>
+          <l>כאן אני נשאר בינתיים </l>
+          <l>שוב אני לבד </l>
+          <l>מה אני הולך לעשות עם זה </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני אלמד לבשל </l>
+          <l>לתלות ולקפל </l>
+          <l>אני אצא לטיול </l>
+          <l>בים להסתכל </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>שוב אני לבד </l>
+          <l>כאן אני נשאר בינתיים</l>
+          <l>כאן אני נשאר בינתיים</l>
+          <l>לקום להאמין</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

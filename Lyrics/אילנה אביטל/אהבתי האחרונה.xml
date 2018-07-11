@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבתי האחרונה</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבתי האחרונה</head>
+        <lg number="1" type="stanza">
+          <l>כשנכסת אל חיי</l>
+          <l>כמו רוח מן הים</l>
+          <l>שוב פקחתי את עיני</l>
+          <l>לראות את הקיים.</l>
+          <l>ואני שהתייאשתי</l>
+          <l>שויתרתי, שוב ביקשתי</l>
+          <l>את ההרגשה הישנה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ולמסור שוב את ליבי הייתי נכונה.</l>
+          <l>בקולך פתאום שמעתי</l>
+          <l>את האושר, ודמעתי</l>
+          <l>כמו באהבה הראשונה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם תשאל הלילה נשמתי עונה</l>
+          <l>כן אתה, אתה</l>
+          <l>אהבתי האחרונה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בעיניך אור כחול, בזרועותיך צל</l>
+          <l>ובנשיקותיך כל שבעת פלאי תבל.</l>
+          <l>לב אחד פועם בשנינו,</l>
+          <l>לא יבוא עוד איש בינינו</l>
+          <l>זאת האהבה האחרונה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם תשאל הלילה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אהבה תמימה, מוארת</l>
+          <l>אהבה חמה, בוערת</l>
+          <l>אהבה כזאת נשארת </l>
+          <l>לעולם.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אם תשאל הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

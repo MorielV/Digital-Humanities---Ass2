@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה טוב שבאת הביתה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>יענקל'ה רוטבליט</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה טוב שבאת הביתה</head>
+        <lg number="1" type="stanza">
+          <l>כמה טוב שבאת הביתה</l>
+          <l>כמה טוב לראות אותך שוב</l>
+          <l>ספר מה נשמע, ספר</l>
+          <l>ספר איך היה</l>
+          <l>ולמה לא שלחת גלויה?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמה טוב שבאת הביתה</l>
+          <l>קצת רזה, אך מה זה חשוב</l>
+          <l>עשית חיים, עשית דברים</l>
+          <l>ראית קצת צבעים אחרים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אך כמה שטוב אתה כאן</l>
+          <l>כמה שטוב אתה כבר כאן</l>
+          <l>כמה שזה טוב, טוב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמה טוב שבאת הביתה</l>
+          <l>בית זה אומר כבר הכל</l>
+          <l>היה לך חם, היה</l>
+          <l>היה לך קר</l>
+          <l>אתה עכשיו יותר מאושר</l>
+          <l>כבר יותר מאושר.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז כמה טוב שבאת הביתה</l>
+          <l>כאילו שיצאת, יצאת רק אתמול</l>
+          <l>הכל פה נשאר אותו הדבר</l>
+          <l>אתה עכשיו יותר מבוגר</l>
+          <l>כן, יותר מבוגר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אך כמה שטוב...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כמה טוב שבאת הביתה</l>
+          <l>באמת, חשבת עלי</l>
+          <l>כמה טוב שבאת</l>
+          <l>שבאת הביתה</l>
+          <l>כמה טוב שבאת אלי</l>
+          <l>כן, שבאת אלי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר של אחרי מלחמה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר של אחרי מלחמה</head>
+        <lg number="1" type="stanza">
+          <l>שיר ישן נושן, שיר של חיילים</l>
+          <l>שחוזרים אחרי הקרב</l>
+          <l>שיר של אהובה, מחכה לך -</l>
+          <l>מישהו שר את זה קודם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זהו שיר אחרי מלחמה</l>
+          <l>הוא תמיד מזכיר לי תקווה</l>
+          <l>היא מחכה, אהובה כבר חוזר</l>
+          <l>זהו שיר שבא אחרי המלחמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא כותב מכתב, היא עונה שלושה</l>
+          <l>ככה זה הולך תמיד</l>
+          <l>הוא שולח שיר, היא מוחה דמעה -</l>
+          <l>מישהו שר את זה קודם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זהו שיר אחרי מלחמה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל הרחוב יוצא, וזורק פרחים</l>
+          <l>כמה טוב שבא שלום.</l>
+          <l>הנה הם חוזרים, שיהיו בריאים -</l>
+          <l>מישהו שר את זה קודם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זהו שיר אחרי מלחמה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>שיר ישן נושן, שיר של חיילים</l>
+          <l>שחוזרים אחרי הקרב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

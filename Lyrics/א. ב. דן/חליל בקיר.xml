@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חליל בקיר</title>
+        <singer classification="unknown">א ב דן</singer>
+        <writer>א. ב. דן</writer>
+        <composer>א. ב. דן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חליל בקיר</head>
+        <lg number="1" type="stanza">
+          <l>מחלל בחלילי את קדושת המקום</l>
+          <l>האם זה גן עדן או גיא בן הינום</l>
+          <l>מחלל בחלילי את קדושת השבת</l>
+          <l>האם יעמידוני על כך למשפט</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובין הקודשים עלי מקדשים</l>
+          <l>מניחים עלי אבן שאין לה הופכין</l>
+          <l>ובין הקודשים עלי מקדשים</l>
+          <l>מניחים עלי אבן שאין לה הופכין</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוח, אבן</l>
+          <l>מניחים עלי אבן שאין לה הופכין</l>
+          <l>רוח, אבן</l>
+          <l>מניחים עלי אבן שאין לה הופכין</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חליל בקיר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מחלל בחלילי את קדושת המקום</l>
+          <l>האם זו מציאות או שמא חלום</l>
+          <l>מחלל בחלילי בעקבות האחת</l>
+          <l>ולפניי נגלית עיר מקלט</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ובין הקודשים עלי מקדשים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

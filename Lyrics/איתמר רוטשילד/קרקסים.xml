@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קרקסים</title>
+        <singer classification="unknown">איתמר רוטשילד</singer>
+        <writer>איתמר רוטשילד</writer>
+        <composer>איתמר רוטשילד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קרקסים</head>
+        <lg number="1" type="stanza">
+          <l>ליד הקרקסים </l>
+          <l>ליד המזוודות הנעולות </l>
+          <l>בוחר את הדרכים </l>
+          <l>שומע ת'קולות </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>דרך אנשים </l>
+          <l>רגליים מובילות </l>
+          <l>בוחר את הדרכים </l>
+          <l>ליד המזוודות הנעולות </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ושוב חושב על הדברים </l>
+          <l>שלא אדע עוד אבידות </l>
+          <l>כמו אז שנבהלו המבטים </l>
+          <l>ולא ידעו במה להיתלות </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>פתאום הסתערו עליי שנים </l>
+          <l>פתאום הרמתי משקולות </l>
+          <l>פתאום החלפתי תפקידים </l>
+          <l>מבלי שהתחלפו לי השורות </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ושוב חושב על הדברים </l>
+          <l>ושוב אותן האבידות </l>
+          <l>כמו אז שנבהלו המבטים </l>
+          <l>ולא ידעו במה להיתלות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

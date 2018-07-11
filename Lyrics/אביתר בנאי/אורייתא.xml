@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אורייתא</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>missing</composer>
+        <album>לילה כיום יאיר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אורייתא</head>
+        <lg number="1" type="stanza">
+          <l>אורייתא אורייתא</l>
+          <l>מה אמא לגבך</l>
+          <l>איילת אהבים ויעלת חן</l>
+          <l>עילא ותתא</l>
+          <l>רחמין דילך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמה ימין ונחלין</l>
+          <l>ומקורין ומבועין</l>
+          <l>מתפשטין מינך לכל סיטרא</l>
+          <l>מינך כולא</l>
+          <l>מינך כולא</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עד שנפגשנו אני ואת</l>
+          <l>הייתי צריך את הכאב</l>
+          <l>כדי לרגע להתקרב</l>
+          <l>היום אני איתך ואני יודע</l>
+          <l>כמה עומק יש בלי גבול</l>
+          <l>בנחמה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אורייתא אורייתא</l>
+          <l>עלך כתיב</l>
+          <l>יקרה היא מפנינים</l>
+          <l>כמה גניזין טמירין אית בך</l>
+          <l>כמה פליאן</l>
+          <l>נפקין מינך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עד שנפגשנו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

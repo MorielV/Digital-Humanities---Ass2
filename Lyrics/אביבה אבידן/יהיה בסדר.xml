@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יהיה בסדר</title>
+        <singer classification="female singer">אביבה אבידן</singer>
+        <writer>אבי מוסקוביץ'</writer>
+        <composer>אבי מוסקוביץ'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יהיה בסדר</head>
+        <lg number="1" type="stanza">
+          <l>הדוור הביא היום צו למילואים</l>
+          <l>ומהמפעל שלחו צו של פיטורים</l>
+          <l>והבנק שולח לי הודעה שלישית</l>
+          <l>כל הצ'קים כבר חזרו פעם רביעית</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שוב אני במצב קשה</l>
+          <l>אבל בסוף אני יודעת ש...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יהיה בסדר</l>
+          <l>יהיה בסדר</l>
+          <l>גם אם עכשיו זה קצת כואב</l>
+          <l>יהיה בסדר</l>
+          <l>יהיה בסדר</l>
+          <l>אם לא ניקח הכל ללב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בעלי השאיר אותי עם הילדות</l>
+          <l>ואותי עזב לבד עם כל הצרות</l>
+          <l>הוא יזכור אותי לעד ואת הבנות</l>
+          <l>כי מיד השארתי לו תביעה למזונות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כאן אצלנו בשכונה כל היום בונים</l>
+          <l>מול בניין העירייהעיר של אוהלים</l>
+          <l>ומיד תפסתי לי שם פינה קטנה</l>
+          <l>כי אתמול הם העלו את שכר הדירה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יהיה בסדר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

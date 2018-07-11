@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חוף האושר</title>
+        <singer classification="unknown">איזקיס</singer>
+        <writer>דודו ברק</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חוף האושר</head>
+        <lg number="1" type="stanza">
+          <l>תכלת, ספיר וטורקיז, שתי עיניך,</l>
+          <l>זכר ליל אמש והבריז בפניך.</l>
+          <l>רוח שלוח, ממרחב, בתלתליך,</l>
+          <l>שם על חופי הזהב, אני אליך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חוף האושר ,אין נפלא לי ממנו,</l>
+          <l>חוף האושר בדמותך היפה.</l>
+          <l>שר לי גיטר בדממה,</l>
+          <l>יש לי ים ועולם ועלמה,</l>
+          <l>חוף האושר, חוף האושר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את ואני בלילה רך, ליל ירח,</l>
+          <l>חושך גדול עלינו נח, מתמתח.</l>
+          <l>נועם מגע עורך הצח, אותי פוצע,</l>
+          <l>ליל האתמול לא יישכח, אני יודע.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חוף האושר, אין נפלא לי ממנו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

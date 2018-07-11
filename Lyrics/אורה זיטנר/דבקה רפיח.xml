@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דבקה רפיח</title>
+        <singer classification="female singer">אורה זיטנר</singer>
+        <writer>עמנואל זמיר</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דבקה רפיח</head>
+        <lg number="1" type="stanza">
+          <l>לי יומי ולי לילי</l>
+          <l>ובקרי לי תמולי לי</l>
+          <l>וערבי לי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רד היום לפאת הים</l>
+          <l>והלילה - לילה -</l>
+          <l>כבר פרש אדרת אפל לי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עד אור עד אור,</l>
+          <l>עד אור תאור לי שמש,</l>
+          <l>שמש לי תאור.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

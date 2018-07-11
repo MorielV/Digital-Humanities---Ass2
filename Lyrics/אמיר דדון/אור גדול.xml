@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אור גדול</title>
+        <singer classification="male singer">אמיר דדון</singer>
+        <writer>אמיר דדון</writer>
+        <composer>אמיר דדון</composer>
+        <album>אמיר דדון</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אור גדול</head>
+        <lg number="1" type="stanza">
+          <l>ואם היה לי קצת עצוב </l>
+          <l>אולי למדתי מזה משהו חשוב </l>
+          <l>כי בסוף כשזה נגמר </l>
+          <l>יש סיבה לכל דבר </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לבד בתוך כל הטירוף </l>
+          <l>אני חושב איך שהזמן יכול לעוף </l>
+          <l>אבל בסוף כשזה נגמר </l>
+          <l>יש סיבה לכל דבר </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אור גדול מאיר הכל </l>
+          <l>ויותר כבר לא צריך לשאול </l>
+          <l>אני בא ללמוד ממה שטוב ולחיות </l>
+          <l>להתחיל הכל מהתחלה </l>
+          <l>כמו לנשום בפעם הראשונה </l>
+          <l>אני כאן אני לא מתבזבז יותר </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואם יכולתי רק לזכור </l>
+          <l>לכל אחד יש את הדרך לעבור </l>
+          <l>אבל בסוף כשזה נגמר </l>
+          <l>יש תשובה לכל דבר </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אור גדול מאיר הכל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

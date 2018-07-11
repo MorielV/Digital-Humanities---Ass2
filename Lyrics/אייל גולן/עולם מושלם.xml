@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עולם מושלם</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>ערן זילברברג</writer>
+        <composer>ערן זילברברג</composer>
+        <album>זר כיסופים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עולם מושלם</head>
+        <lg number="1" type="stanza">
+          <l>חשבתי על מגרש המשחקים שאיננו</l>
+          <l>היום עומד שם בית מלון גדול</l>
+          <l>הנצחונות ששמחנו והדמעות ששפכנו</l>
+          <l>כמה רצינו להצליח בגדול</l>
+          <l>וכמה בריתות אחים שנספגו בחול</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חשבתי על הבית שגדלת בו</l>
+          <l>היום גרים בו אנשים זרים</l>
+          <l>הנשיקות שגנבנו והסודות שאהבנו </l>
+          <l>איך שיכולנו להיות כלכך תמימים</l>
+          <l>וכמה אהבנו כשהיינו ילדים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>חשבתי לי שבעולם מושלם </l>
+          <l>את לא היית עוזבת לעולם</l>
+          <l>מגרש המשחקים כבר מיותם ואין בו אדם</l>
+          <l>ורק אני עדיין שם בזיכרון שלי עכשיו הכל קיים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נזכרתי שוב ביום שנעלמת לי</l>
+          <l>רצית למצוא עתיד ורוד יותר</l>
+          <l>איך היא פתאום נעלמה הנשמה של השכונה</l>
+          <l>איך השנים רצות חולפות עוברות מהר</l>
+          <l>מה שהיה מוכר הופך להיות אחר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>חשבתי לי שבעולם מושלם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

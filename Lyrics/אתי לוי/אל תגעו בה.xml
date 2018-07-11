@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תגעו בה</title>
+        <singer classification="female singer">אתי לוי</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תגעו בה</head>
+        <lg number="1" type="stanza">
+          <l>יש לה גוף שמושך</l>
+          <l>שכנים וגם זרים</l>
+          <l>אך עומדים בגופה</l>
+          <l>מקומות שאסורים</l>
+          <l>אך למי שירצה</l>
+          <l>להתחיל איתה</l>
+          <l>היא תומר לו</l>
+          <l>חבוב לך לדרכך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תגעו בה</l>
+          <l>היא הלב שלנו</l>
+          <l>אל תגעו בה</l>
+          <l>היא לעד איתנו</l>
+          <l>בכולנו היא פועמת בנשמה</l>
+          <l>זו ארצנו היפה</l>
+          <l>אל תגעו בה</l>
+          <l>היא הלב שלנו</l>
+          <l>אל תגעו בה</l>
+          <l>היא לעד איתנו</l>
+          <l>בכולנו היא פועמת בנשמה</l>
+          <l>זו ארצנו היפה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לה גוף מיוחד</l>
+          <l>יפה וגם מקסים</l>
+          <l>השכנים מהצד</l>
+          <l>אותו כל כך רוצים</l>
+          <l>ואנחנו איתה</l>
+          <l>נמשיך לעד לצעוד</l>
+          <l>כי השגנו אותו</l>
+          <l>ביזע ודמעות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תגעו בה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

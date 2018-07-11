@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום אחרון 2</title>
+        <singer classification="male singer">אמיר פיי גוטמן</singer>
+        <writer>קרן פלס</writer>
+        <composer>מיקיאגי</composer>
+        <album>דבש בכוורות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום אחרון</head>
+        <lg number="1" type="stanza">
+          <l>כשהערב מלטף את היום</l>
+          <l>והעצב מתחלף לחלום</l>
+          <l>מבטיך רסיסים של אמת</l>
+          <l>בעינייך שוב האושר שקט</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>סתיו בחלון מטפטף זיכרון</l>
+          <l>יום אחרון, יחד...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא הרוח תפזר מליבך</l>
+          <l>צחוק מרוח יד רכה על גבך</l>
+          <l>כשהערב מלטף את היום</l>
+          <l>והעצב מתחלף לחלום...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>סתיו בחלון מטפטף זיכרון</l>
+          <l>יום אחרון ביחד</l>
+          <l>סתיו בחלון..</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מטפטף זיכרון</l>
+          <l>יום אחרון, ביחד</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מטפטף זכרון...</l>
+          <l>יום אחרון</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

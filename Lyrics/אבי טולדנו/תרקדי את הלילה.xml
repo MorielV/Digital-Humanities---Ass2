@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תרקדי את הלילה</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אבי טולדנו</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תרקדי את הלילה</head>
+        <lg number="1" type="stanza">
+          <l>את יושבת לך שעות רבות מול המראות</l>
+          <l>על פנייך כל צבעי המלחמה</l>
+          <l>מנסה עוד לפני את כל התחפושות</l>
+          <l>לך תפקיד ראשי יחיד בהצגה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואת יוצאת</l>
+          <l>אני נשאר פה אין לי ספק</l>
+          <l>שוב את יוצאת </l>
+          <l>אל אורות הדיסקוטק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תרקדי את הלילה, זה לילה לרקוד</l>
+          <l>תרקדי את הלילה בכל הרחובות</l>
+          <l>מחכה גם הלילה עיניים בחלון</l>
+          <l>ואולי זהו לילה של הריקוד האחרון.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כן גם לנו החיים נתנו ימים טובים</l>
+          <l>וחשבנו לעולם לא יגמר</l>
+          <l>לך אורות הלילה סינורו את החושים</l>
+          <l>ופתאום הכול עומד להישבר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואת יוצאת</l>
+          <l>אני נשאר פה אין לי ספק</l>
+          <l>שוב את יוצאת </l>
+          <l>אל אורות הדיסקוטק</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>תרקדי את הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

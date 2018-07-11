@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שנים ללא תקווה</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שנים ללא תקווה</head>
+        <lg number="1" type="stanza">
+          <l>קשות מאוד הן מילייך ובתוכך קורעות אותך.</l>
+          <l>איש לא יבין רגשותייך, איש לא ירים לך מסך.</l>
+          <l>לילות קרים את עוברת ויצועך שומם כל כך,</l>
+          <l>גם הנשמה מסוגרת כי אין לך איש כאן בכרך.</l>
+          <l>את נשמתך את נתת, את גורלך את קשרת</l>
+          <l>אהבת וידעת כי זה לא זה מה שחשבת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כך חולפות שנים ללא תקווה,</l>
+          <l>כך אין כל תכלית לאהבה.</l>
+          <l>כך לבך הולך בדרך</l>
+          <l>המובילה ללא כלום</l>
+          <l>ובשביליה אין מאום.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עם הרגשות את נפתלת, כל השנים עוברות לך כך</l>
+          <l>לתוך רשתך את נופלת ולא יוצאת מן הסבך.</l>
+          <l>בתוך ליבך את יודעת כי יש פתרון לכל דבר, </l>
+          <l>אך לשכלך לא שומעת, הרי בחרת בלב נשבר.</l>
+          <l>איך אפשר כך להיות? מה צריך עוד לקרות?</l>
+          <l>הן כל הדמעות, באשמתך תמיד יורדות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כך חולפות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

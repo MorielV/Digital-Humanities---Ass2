@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד יום 3</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>אילן וירצברג</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד יום</head>
+        <lg number="1" type="stanza">
+          <l>או לא, אל תפחד להיות הכול</l>
+          <l>או לא, אל תפחד לומר הכול</l>
+          <l>עוד יום שבו תעוף, אתה תעוף</l>
+          <l>עוד יום, עוד יום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>או לא, אל תפחד לרצות הכול</l>
+          <l>או לא, אל תפחד לתת הכול</l>
+          <l>עוד יום שבו תעיז, אתה תעיז</l>
+          <l>עוד יום, עוד יום</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>או.... בשמיים כמו מרחפים,</l>
+          <l>מרחפים</l>
+          <l>או.... חלומות כמו שמיכה עוטפים,</l>
+          <l>אותך עוטפים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>או לא, אל תפחד אתה תהיה</l>
+          <l>או לא, אל תפחד אתה תזכה</l>
+          <l>עוד יום שבו תעיז, אתה תעיז</l>
+          <l>עוד יום, עוד יום</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>או.... בשמיים כמו מרחפים,</l>
+          <l>מרחפים</l>
+          <l>או.... חלומות כמו שמיכה עוטפים,</l>
+          <l>אותך עוטפים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

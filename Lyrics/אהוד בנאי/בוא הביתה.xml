@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוא הביתה</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>אהוד בנאי</writer>
+        <composer>אהוד בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוא הביתה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>זה לא חושך, לא אור</l>
+          <l>זה הזמן לחזור, בוא הביתה, איש ציפור</l>
+          <l>מגדלור מהבהב, קירעי עננים, ספק חשיכה, שלושה כוכבים</l>
+          <l>תמונת הלווין מטשטשת, אזור דמדומים</l>
+          <l>בקצה הרקיע אתה נוגע</l>
+          <l>קודקוד לציפור האם שומע</l>
+          <l>האם אתה בכלל זוכר את מי שמתגעגע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא חושך...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חשמל מהבהב מבעד לתריסים, ירח לבן, שמיים סגולים,</l>
+          <l>צל כנף מחליק ועובר על גגות בניינים</l>
+          <l>בקצה הרקיע אתה נוגע</l>
+          <l>קודקוד לציפור האם שומע</l>
+          <l>האם אתה בכלל זוכר לאן אתה נוסע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה לא חושך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חאפלה</title>
+        <singer classification="male singer">איתן מסורי</singer>
+        <writer>יוש גרנות</writer>
+        <composer>איתן מסורי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חאפלה</head>
+        <lg number="1" type="stanza">
+          <l>משקאות על הדוכן, איך האוכל כבר מוכן</l>
+          <l>איזה יופי של שולחן בחאפלה</l>
+          <l>חומוס יש, וטחינה יש, וגם סטייקים על האש</l>
+          <l>בוא לכאן, אל תתבייש, בחאפלה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך הבירה פה נפתח, יש גם עראק משובח</l>
+          <l>בוא נשיר ובוא נשמח בחאפלה</l>
+          <l>להקה עם זמרים מנגנים על מיתרים</l>
+          <l>רק סבבה של שירים בחאפלה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בחאפלה, בחאפלה, כולנו חברים</l>
+          <l>בחאפלה, בחאפלה, כולנו צעירים</l>
+          <l>יש חאפלה, יש חאפלה, הדליקו האורות</l>
+          <l>בחאפלה, בחאפלה, נשכח מהצרות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הנה רוזה השמנה, מסובבת את מותנה</l>
+          <l>את חזה וישבנה בחאפלה</l>
+          <l>הבוזוקי מיילל, עד הבוקר נשתולל</l>
+          <l>כמה טוב בישראל בחאפלה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בחאפלה, בחאפלה, כולנו חברים...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>והנה פתאום ניגש לשולחן בחור חדש</l>
+          <l>קצת רועש וקצת נרגש בחאפלה</l>
+          <l>אז אמרנו לו סליחה, מה הדאווין שלך?</l>
+          <l>הוא ענה זאת סתם בדיחה, בחאפלה</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>בחאפלה, בחאפלה, כולנו חברים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

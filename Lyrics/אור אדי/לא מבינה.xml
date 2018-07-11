@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא מבינה</title>
+        <singer classification="unknown">אור אדי</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא מבינה</head>
+        <lg number="1" type="stanza">
+          <l>ים של אהבה / רק לך הבאתי פרח</l>
+          <l>בוא תאסוף את רגשותיי / מעלי</l>
+          <l>החיים יפים / ולא הבנתי בעולם הזה כלום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה נשאר / תגיד לי מה נשאר / היינו הזוג הכי יפה שנשאר</l>
+          <l>מה נשאר / תגיד לי מה נשאר / הלילה בהיר הלב נסער</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא מבינה / ולא מוצאת את עצמי / הכל אבד / בתהומות של חיי</l>
+          <l>מי אני ומי אמר לי / בך להתאהב ומה כדאי </l>
+          <l>לא מבינה / ולא מוצאת את עצמי / הכל אבד / בתהומות של חיי</l>
+          <l>מי אני ומי אמר לי / בך להתאהב ומה כדאי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אלוקים שלי / אנא תן בי את הכוח / רק לחיות את חיי מהתחלה</l>
+          <l>שוב אני לבד / מביטה אל השמיים / בתפילה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אהבה ביקשתי אהבה / אהבה אמיתי של אושר נולדה</l>
+          <l>מה נשאר / תגיד לי מה נשאר / הלילה בהיר הלב נסער</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא מבינה / ולא מוצאת את עצמי / הכל אבד / בתהומות של חיי</l>
+          <l>מי אני ומי אמר לי / בך להתאהב ומה כדאי </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>לא מבינה / ולא מוצאת את עצמי / הכל אבד / בתהומות של חיי</l>
+          <l>מי אני ומי אמר לי / בך להתאהב ומה כדאי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

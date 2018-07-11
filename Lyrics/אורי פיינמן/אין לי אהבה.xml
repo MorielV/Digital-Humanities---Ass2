@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין לי אהבה 2</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>אליעוז רבין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין לי אהבה</head>
+        <lg number="1" type="stanza">
+          <l>כמו פרפר הייתי בידיה</l>
+          <l>נח ומבקש לי לתומי</l>
+          <l>אך הנה אינה ובלעדיה</l>
+          <l>אין עוד ריח פרח ליומי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמו יונה צחורה עם אור ראשון</l>
+          <l>מקיני המראתי לקראתה</l>
+          <l>אך עם לילה בלכתי לישון</l>
+          <l>רוח באה ונשאה אותה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אין לי, אין לי אהבה</l>
+          <l>לא עוד שמש בוקר מעלי</l>
+          <l>אין לי, אין לי אהבה</l>
+          <l>רק ימי ענן מבלי אולי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה פשוטה היתה אהבתה</l>
+          <l>לא יותר מבכי שאבד</l>
+          <l>לילה ליל ויום לא מעטה</l>
+          <l>עד הדלת נסגרה לעד</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא אגיף תריסי והיא תשוב</l>
+          <l>לא אנעל דלתי עד אושר בא</l>
+          <l>לב לי לב אוהב והוא קשוב</l>
+          <l>לקול צעדים של אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אין לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

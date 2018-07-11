@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שום פרס</title>
+        <singer classification="band">ארבע עשרה אוקטבות</singer>
+        <writer>ויליאם שייקספיר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שום פרס</head>
+        <lg number="1" type="stanza">
+          <l>שום פרס, אלי, לי אל תתן</l>
+          <l>אם אין אני לי - מי יתן?</l>
+          <l>שלא אסמוך עד יום אחרון</l>
+          <l>על דבר שבועה או דבר משכון</l>
+          <l>על זונה שמתייפחת או כלבה שלא נובחת</l>
+          <l>על מפתח של סוהר או עזרה מידי חבר</l>
+          <l>ועל כן אני אומר:</l>
+          <l>איש עשיר הוא כל יכול, העני אוכל רק חול</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

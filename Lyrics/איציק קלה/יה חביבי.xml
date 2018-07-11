@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יה חביבי</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>אשר מזרחי</writer>
+        <composer>רחמים עמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יה חביבי</head>
+        <lg number="1" type="stanza">
+          <l>הָאֵל הַמֶּלֶך הָרַחֲמָן </l>
+          <l>יִשְׁלַח מְשִׁיחוֹ הַנֶּאְמָן </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אָב הָרַחֲמָן שְׁמַע קוֹלֵנוּ </l>
+          <l>שְׁלַח בֶּן דָּוִד וְיִגְאֲלֵנוּ </l>
+          <l>נָשׁוּב לְצִיּוֹן עִיר קָדְשֵׁנוּ </l>
+          <l>וְנִשְׁלֹט בָּהּ בְּיָד רָמָה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>חֲבִיבִי יָהּ חֲבִיבִי </l>
+          <l>הָאֵל הַמֶּלֶך הָרַחֲמָן </l>
+          <l>יִשְׁלַח מְשִׁיחוֹ הַנֶּאְמָן </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שָׁמָּה נִתְאַסֵּף בְּעִיר הַבִּירָה </l>
+          <l>וּמֵחָדָשׁ יִשָּׁמַע קוֹל שִׁירָה </l>
+          <l>וְאָז נַדְלִיק אֶת הַמְּנוֹרָה </l>
+          <l>בְּבֵית שׁוֹכֵן מְעוֹנָה </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>חֲבִיבִי יָהּ חֲבִיבִי </l>
+          <l>הָאֵל הַמֶּלֶך הָרַחֲמָן </l>
+          <l>יִשְׁלַח מְשִׁיחוֹ הַנֶּאְמָן </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>רְאֵה בָּעֳנִי יִשְׂרָאֵל עַמֶּךָ </l>
+          <l>וְהָשִׁיבֵם נָא לִגְבוּלָךָ </l>
+          <l>וְאָז יֵרָאֶה כָּל זְכוּרֶךָ </l>
+          <l>שָׁלֹשׁ פְּעָמִים בַּשָּׁנָה </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>חֲבִיבִי יָהּ חֲבִיבִי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

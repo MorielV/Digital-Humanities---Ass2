@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פרחים בקנה</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פרחים בקנה</head>
+        <lg number="1" type="stanza">
+          <l>כשאביב נרדם יעור בחוורון</l>
+          <l>בשדות האש ייתם הקרב האחרון</l>
+          <l>ובוקר נהדר מן הבקעה להר</l>
+          <l>אז יעלה בזמר, ברון.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>השמש ידם בין עזה לרפיח,</l>
+          <l>ירח ילבין על פסגת החרמון</l>
+          <l>פרחים בקנה ובנות בצריח</l>
+          <l>ישובו לעיר חיילים בהמון.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ילדה אחת קטנה ובידה זרים,</l>
+          <l>לעיר הלבנה תצא אז בשירים,</l>
+          <l>ולחייל נרגש תשים סביון בדש,</l>
+          <l>והשמיים כה בהירים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>השמש ידם בין עזה לרפיח...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>החיילים לעיר יגיעו בעם רב,</l>
+          <l>עם נערות ושיר ועם פרחי זהב,</l>
+          <l>וכל אשר אתמול ידע מכאוב ושכול</l>
+          <l>לא עוד ידע שלכת וקרב.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>השמש ידם בין עזה לרפיח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

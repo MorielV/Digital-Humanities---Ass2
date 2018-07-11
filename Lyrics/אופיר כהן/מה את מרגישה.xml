@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה את מרגישה</title>
+        <singer classification="unknown">אופיר כהן</singer>
+        <writer>אופיר כהן</writer>
+        <composer>אופיר כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה את מרגישה</head>
+        <lg number="1" type="stanza">
+          <l>כל ערב מחכה רק לך</l>
+          <l>על השולחן האוכל כבר מונח</l>
+          <l>את לא אומרת מה קורה איתך</l>
+          <l>סוגרת את הלב שלך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>החברים שלי אומרים תברח</l>
+          <l>כל הפאסון שלי מזמן צנח</l>
+          <l>אני יודע שאת לא מלאך</l>
+          <l>למרות הכל אוהב אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוצה אותך למרות השיגעונות שלך</l>
+          <l>רק התקרבי אלי אישה </l>
+          <l>ספרי לי מה את מרגישה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את שוב אומרת אין לך רגע פנאי</l>
+          <l>ואין לך סנטימנטים כלל אלי</l>
+          <l>את מעתלת לך ברגשותי</l>
+          <l>ושוב חומקת בין ידי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז איך בדיוק נכנסת אליי ללב</l>
+          <l>ומחדש כל פעם מתלהב</l>
+          <l>אני עוצר לרגע וחושב </l>
+          <l>אני פשוט אותך אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רוצה אותך למרות השגעונות שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

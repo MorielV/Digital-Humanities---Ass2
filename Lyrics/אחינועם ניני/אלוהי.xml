@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלוהי 3</title>
+        <singer classification="female singer">אחינועם ניני</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>גיל דור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלוהי</head>
+        <lg number="1" type="stanza">
+          <l>את אלוהי, ראיתי בקפה</l>
+          <l>הוא נתגלה לי בעשן סיגריות</l>
+          <l>נכה רוח, מסתלח ורפה.</l>
+          <l>רמז לי עוד אפשר לחיות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הוא לא היה יפה כאהובי (לא, לא, לא)</l>
+          <l>קרוב ממנו, ואומלל</l>
+          <l>כצל שקוף של אור הכוכבים</l>
+          <l>הוא לא מילא את החלל.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לאור שקיעה חיוור ואדמדם</l>
+          <l>כמתוודה על חטא</l>
+          <l>לפני מותו</l>
+          <l>ירד למטה, לנשק רגלי אדם</l>
+          <l>ולבקש את סליחתו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

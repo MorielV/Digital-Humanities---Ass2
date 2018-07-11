@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איזה טוב השם</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איזה טוב השם</head>
+        <lg number="1" type="stanza">
+          <l>או או אוווו איזה טוב ה' איזה טוב ה'</l>
+          <l>או או אוווו אני כל כך נרגש נולדתי מחדש</l>
+          <l>או או אוווו תודה לך ה' תודה לך ה'</l>
+          <l>או או אוווו אני כל כך נרגש נולדתי מחדש</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש אומרים כשמחפשים טוב אז מוצאים</l>
+          <l>אני מצאתי את האור של החיים</l>
+          <l>היום אני מלא שמחה וחיוכים</l>
+          <l>כי הצלע שלי חזרה למקומה אי שם בפנים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>או או אוווו איזה טוב ה'...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל כך כואב להיות חסר חלק ממך</l>
+          <l>שמשהו בך כמו צלע אבד לך</l>
+          <l>אני נרגש נולדתי מחדש, תודה לאל...</l>
+          <l>הרי את מקודשת לי כדת משה וישראל.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>או או אוו איזה טוב ה'...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>זוג צעיר ויקר בונה עכשיו בניין עולם</l>
+          <l>פותח דלת לעתיד הכי מושלם</l>
+          <l>יהא ה' איתכם בכל מעשיכם </l>
+          <l>יהי רצון שיתגשמו כל משאלות ליבכם</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>או או אוו איזה טוב ה'...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

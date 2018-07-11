@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו אויר</title>
+        <singer classification="male singer">אסף ארליך</singer>
+        <writer>אסף ארליך</writer>
+        <composer>אסף ארליך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו אויר</head>
+        <lg number="1" type="stanza">
+          <l>אני זקוף, אוהב טוטאלית,</l>
+          <l>לא סופר מחיר נקוב.</l>
+          <l>הולך סביב, קרוב אליך,</l>
+          <l>צבעים בוערים שלא יגמרו.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא באמת מדבר על כאב,</l>
+          <l>רק מטשטש את החשק הזה בתוך הלב.</l>
+          <l>לא באמת מדבר על כאב, </l>
+          <l>רק מטשטש את החשק הזה בתוך הלב.</l>
+          <l>אם את תאמיני, אני רואה אותך רואה אותי.</l>
+          <l>ואת תאמיני, יש עוד יותר מזה כמו אוויר.</l>
+          <l>יש עוד יותר מזה כמו אוויר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני אלים, קונספטואלית.</l>
+          <l>בוחש סביב בתאווה.</l>
+          <l>את מבינה, קוראת כשקר לי.</l>
+          <l>אני רבוי, נוזל איתך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא באמת מדבר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש עוד יותר מזה כמו אוויר.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בן רגע</title>
+        <singer classification="unknown">אבירם צור</singer>
+        <writer>אבירם צור</writer>
+        <composer>אבירם צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בן רגע</head>
+        <lg number="1" type="stanza">
+          <l>חורף, אמצע השנה </l>
+          <l>מַביט בה, מיוחדת וקטנה </l>
+          <l>רגע, עומד לצידה </l>
+          <l>חושבת, מושיטה את ידה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קיץ, כבר יותר משנה </l>
+          <l>מַביט בה, מתרוצצת בגינה </l>
+          <l>רוקדת, מניפה את ידה </l>
+          <l>בן רגע, הפכת לילדה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>או, איך הפכת לילדה </l>
+          <l>צוחקת, מחליטה לבדה </l>
+          <l>או, לומדת, מלאת הבנה </l>
+          <l>יודעת, בעצמה מבינה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יחד, הפכנו שלושה </l>
+          <l>נתפּסנו, באותה הרגשה </l>
+          <l>מתפעלת, עם ניצוץ בעינה </l>
+          <l>מתלהבת, תמיד כה שנונה </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>או, איך הפכת לילדה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

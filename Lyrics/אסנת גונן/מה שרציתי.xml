@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה שרציתי</title>
+        <singer classification="unknown">אסנת גונן</singer>
+        <writer>אסנת גונן</writer>
+        <composer>אסנת גונן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה שרציתי</head>
+        <lg number="1" type="stanza">
+          <l>מה שרציתי</l>
+          <l>לשמוע לדעת</l>
+          <l>מתרחק והולך</l>
+          <l>לכיוון אחר</l>
+          <l>מחייכת</l>
+          <l>החיוך לא מרגיע</l>
+          <l>והכל נהפך לתפל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אומרת שכן אבל לא בטוחה</l>
+          <l>חושבת אולי זה קשה מידי</l>
+          <l>צועדת עוד צעד, רועדת, נוגעת</l>
+          <l>בחלק הכי חשוף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פנים מסתכלות</l>
+          <l>אך רואים רק ידיים</l>
+          <l>שמנסות לאחוז יותר קרוב</l>
+          <l>משקרת</l>
+          <l>חושבת אחרת</l>
+          <l>אבל לא מעיזה לגלות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אומרת שכן אבל לא בטוחה</l>
+          <l>חושבת אולי זה קשה מידי</l>
+          <l>צועדת עוד צעד, רועדת, נוגעת</l>
+          <l>בחלק הכי חשוף</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

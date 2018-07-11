@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תני לי סימן 2</title>
+        <singer classification="unknown">אבי בן אבו</singer>
+        <writer>גילי זכאי</writer>
+        <composer>גילי זכאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תני לי סימן</head>
+        <lg number="1" type="stanza">
+          <l>כל יום אותה שעה את ליידי חולפת</l>
+          <l>מקפיצה לי את הלב</l>
+          <l>וחום הגוף עולה לי כשאת מתקרבת</l>
+          <l>רוצה לומר לך איך אני אוהב</l>
+          <l>את החיוך שלך, מה שתתני אקח</l>
+          <l>עוד מחפש את הדרך</l>
+          <l>אל הלב שלך רק שלא יברח מנשמתי הבוערת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק תני לי סימן, ואמצא את הזמן</l>
+          <l>לעשות אותך מאושרת</l>
+          <l>רק תני לי סימן לפזר אהבה, כמו שמש מעלייך</l>
+          <l>רק תני לי סימן, ואמצא את הזמן</l>
+          <l>לעשות אותך מאושרת</l>
+          <l>רק תני לי סימן לפזר אהבה כל היום עלייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל יום אותה שעה הנשימה עוצרת</l>
+          <l>זה קורה לי בגללך</l>
+          <l>ואם גם את רק בשבילי מקום שומרת</l>
+          <l>רוצה לומר לך איך אני אוהב</l>
+          <l>את החיוך שלך, מה שתתני אקח</l>
+          <l>עוד מחפש את הדרך</l>
+          <l>אל הלב שלך רק שלא יברח מנשמתי הבוערת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק תני לי סימן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

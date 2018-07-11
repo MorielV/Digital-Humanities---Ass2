@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוכה על הקבר</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוכה על הקבר</head>
+        <lg number="1" type="stanza">
+          <l>לא עשית שום דבר וכבר את הולכת</l>
+          <l>אני רק מאושר כשאת מחבקת</l>
+          <l>ואוהב אותך תמיד</l>
+          <l>בוכה על הקבר של אמא שלי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואבא שותה כשהוא שיכור את חוזרת</l>
+          <l>והכלב בוכה והשכנה מייללת</l>
+          <l>ואוהב אותך תמיד</l>
+          <l>בוכה על הקבר של אמא שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני אדליק נר של נשמה</l>
+          <l>בוכה על הקבר של אמא שלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

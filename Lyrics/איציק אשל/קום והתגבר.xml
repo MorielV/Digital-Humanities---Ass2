@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קום והתגבר</title>
+        <singer classification="unknown">איציק אשל</singer>
+        <writer>איציק אשל</writer>
+        <composer>איציק אשל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קום והתגבר</head>
+        <lg number="1" type="stanza">
+          <l>בין כל הימים ישנה עצבות שמעיקה בלב</l>
+          <l>יוצא שבחיים אתה מביט למעלה</l>
+          <l>ושואל מתי יהיה לי טוב</l>
+          <l>מתי אוכל לחיות כאן בבטחה</l>
+          <l>כל החיים דואג ראשון לעצמך</l>
+          <l>עזוב אותך מכלום תרגיל את הפנים רק לחייך</l>
+          <l>שלא יבוא בבום שלא תשאל מתי למה ואיך</l>
+          <l>כן אלו החיים עם החיוך הכל נראה שונה</l>
+          <l>עם השפתיים והלב שלך אתה עוד תשתנה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קום והתגבר הכל עובר קום</l>
+          <l>ותתחזק אל תישבר</l>
+          <l>תן לו אלוקים שמחה בלב</l>
+          <l>לדעת לחייך כי זה תמיד עוזר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו בתוך בועה בתוך המעגל</l>
+          <l>יש מלאכים שמחייכים רוקדים </l>
+          <l>איתך ביחד את השיר שרים</l>
+          <l>אנא אלוקים תן לו שמחה בלב</l>
+          <l>כל החיים כשהחיוך בעיניים</l>
+          <l>יאיר לו זאת השמחה שבפנים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קום והתגבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

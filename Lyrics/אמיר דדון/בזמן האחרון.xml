@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בזמן האחרון</title>
+        <singer classification="male singer">אמיר דדון</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>אמיר דדון</composer>
+        <album>אמיר דדון</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בזמן האחרון</head>
+        <lg number="1" type="stanza">
+          <l>בזמן האחרון </l>
+          <l>נכתבים בי שירים</l>
+          <l>עופות מוזרים </l>
+          <l>חולפים לי בחלון</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתמול חשבתי</l>
+          <l>שהנה השתגעתי</l>
+          <l>משהו אוכל בי</l>
+          <l>בזמן האחרון</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואיש לא אומר</l>
+          <l>לא אומר מתי זה יגמר</l>
+          <l>כמה זמן יימשך עוד הזמן האחרון</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בזמן האחרון </l>
+          <l>לא יוצא מהבית</l>
+          <l>לא מצליח לקרוא</l>
+          <l>ומצפה לאסון</l>
+          <l>מזמן לא כתבתי</l>
+          <l>לזאת שאהבתי</l>
+          <l>לאן נעלמתי </l>
+          <l>בזמן האחרון</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואיש לא אומר...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לוקח גלולות כנגד כל החרדות</l>
+          <l>שותה להטביע את ספינת הדיכאון</l>
+          <l>ואיש לא אומר מתי זה יגמר</l>
+          <l>וכמה זמן יימשך עוד הזמן האחרון</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>איש לא אומר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

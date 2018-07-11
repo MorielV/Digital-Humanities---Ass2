@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מודה אני 4</title>
+        <singer classification="unknown">אלג יר</singer>
+        <writer>מאיר אריאל</writer>
+        <composer>מאיר אריאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מודה אני</head>
+        <lg number="1" type="stanza">
+          <l>מודה אני</l>
+          <l>לפניך ולך</l>
+          <l>על כל החסד והאמת והטובה והרעה והטובה</l>
+          <l>שעשית עמדי</l>
+          <l>ועם ביתי</l>
+          <l>ועם קרובי וידידי ועם בני עמי</l>
+          <l>ועם ארצי, ועם כל העולם והאדם</l>
+          <l>אשר בראת.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בלאט, חרש חרש</l>
+          <l>אט אט, טופפות</l>
+          <l>עתידות עתידות לקראתנו,</l>
+          <l>ואת מחייכת אלי מתוך השינה.</l>
+          <l>יהיה לנו טוב, טוב מטוב, טוב מאוד,</l>
+          <l>זה מתחיל כבר בבוקר בבוקר</l>
+          <l>את צוחקת אלי</l>
+          <l>מתוך מתוך השינה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

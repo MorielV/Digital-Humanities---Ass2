@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הזרוק</title>
+        <singer classification="male singer">אריאל זילבר</singer>
+        <writer>שמוליק צ'יזיק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הזרוק</head>
+        <lg number="1" type="stanza">
+          <l>זורקים אותך מבית ספר, את השיעורים אתה לא מכין</l>
+          <l>זורקים אותך מהבית כי אותך אף אחד לא מבין</l>
+          <l>זורקים לך הבטחות על שמאל ועל ימין</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זורקים אותך מהעבודה בגלל העדרות מחלה</l>
+          <l>זורקים אותך מהצבא ומצבך מעורר דאגה</l>
+          <l>זורקים עליך מבטים של בוז ושל שלילה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז מה הפלא, אם כולם אומרים שאתה סתם זרוק?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זורקים אותך לבית סוהר אם בלילה אתה שר ברחובות</l>
+          <l>בתוך הקולנוע זורקים עליך קליפות</l>
+          <l>נזרוק אותו מפה לכל הרוחות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זורקים לך את הפנסיה לעת זקנה</l>
+          <l>זורקים לך את השקט ואת הדממה</l>
+          <l>זורקים אותך עמוק בתוך האדמה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז מה הפלא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

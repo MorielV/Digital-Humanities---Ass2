@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר המחנה</title>
+        <singer classification="unknown">אפי נצר</singer>
+        <writer>אברהם לוינסון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר המחנה</head>
+        <lg number="1" type="stanza">
+          <l>מסבלות גורל פרוע,</l>
+          <l>מצוקות חיי רזון</l>
+          <l>מאתמול בלתי ידוע,</l>
+          <l>ומחר ללא חזון -</l>
+          <l>ציבורנו מלוכד</l>
+          <l>למחנה עמל אחד.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נאבקנו ונלחמנו</l>
+          <l>לדרכנו היחידה,</l>
+          <l>נארגנו ונרקמנו</l>
+          <l>במסכת עבודה.</l>
+          <l>ולוכדנו יד ביד</l>
+          <l>למחנה עמל אחד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ומעל לראש מחננו</l>
+          <l>ברמה שם קול נשמע,</l>
+          <l>קול העם קורא אלינו</l>
+          <l>לכיבוש והגשמה,</l>
+          <l>ליצירה ובנין-עד</l>
+          <l>במחנה עמל אחד.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

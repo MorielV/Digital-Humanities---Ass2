@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מרחוק לרחוק</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>אלונה קמחי</writer>
+        <composer>יזהר אשדות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מרחוק לרחוק</head>
+        <lg number="1" type="stanza">
+          <l>שוב חוזרת הכמיהה</l>
+          <l>מהדהדת עמוק</l>
+          <l>את בתוך מסע לילי</l>
+          <l>בין רחוק לרחוק.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את חוזרת מאוחר</l>
+          <l>רחש צעדים מוכר</l>
+          <l>עוד סיבוב של המפתח</l>
+          <l>את בבית עד מחר.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז עוד תנופה אחת</l>
+          <l>עוד צעד אחרון ודי</l>
+          <l>עוד הושטה של יד</l>
+          <l>עד כלות הכוח</l>
+          <l>עד אליי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ובפתח של הדלת</l>
+          <l>את בוחרת לשתוק</l>
+          <l>איך אפשר להיות תמיד</l>
+          <l>בין רחוק לרחוק.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז תנסי קצת לעזוב</l>
+          <l>בלי לחוש, בלי לחשוב</l>
+          <l>הרי גם כשאת הולכת</l>
+          <l>אני איתך כל כך קרוב.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז עוד תנופה אחת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

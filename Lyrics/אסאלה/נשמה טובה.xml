@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נשמה טובה</title>
+        <singer classification="female singer">אסאלה</singer>
+        <writer>דוד חלפון</writer>
+        <composer>תומר חן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נשמה טובה</head>
+        <lg number="1" type="stanza">
+          <l>שתדעי רק טוב וימים של שמחה </l>
+          <l>כי ידעת מכאוב ולילות של תעוזה </l>
+          <l>האושר קרוב הנה הוא כבר בא </l>
+          <l>זה הזמן לאהוב לנוח בשלווה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הביטי בתקווה אל המחר </l>
+          <l>רק נסי לשכוח את העבר</l>
+          <l>כל יום שנולד הוא מתנה</l>
+          <l>את לא לבד נשמה טובה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שתדעי רק טוב ואושר נפלא</l>
+          <l>גן העדן קרוב כשיש בלב אהבה</l>
+          <l>אין לך מה לדאוג אחות יקרה </l>
+          <l>את יכולה לחגוג כי מה שהיה ..היה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הביטי בתקווה אל המחר</l>
+          <l>רק נסי לשכוח את העבר</l>
+          <l>כל יום שנולד הוא מתנה </l>
+          <l>את לא לבד נשמה טובה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

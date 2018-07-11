@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלום חבר 2</title>
+        <singer classification="unknown">אפי נצר</singer>
+        <writer>אפי נצר</writer>
+        <composer>אפי נצר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלום חבר</head>
+        <lg number="1" type="stanza">
+          <l>על הנגב יורד שוב ליל סתיו</l>
+          <l>אך דולקים בו נרות נשמה</l>
+          <l>כי האיש שהעם כה הוקיר ואהב</l>
+          <l>יד אחיו בו הייתה ואין נחמה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובוכים הלבבות ודומעות העיניים.</l>
+          <l>ונשרפת הנפש מן הכאב.</l>
+          <l>וזועקת אמה יתומה לשמים -</l>
+          <l>וקשה הפרידה וצובטת בלב!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והאיש שהיה כמשה</l>
+          <l>שניצב על פסגת הר-נבו</l>
+          <l>להביא השלום היה כל מאודו</l>
+          <l>אך אל תוך השלום הוא לא יבוא.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ובוכים הלבבות...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>"שלום חבר", התייפח האיש -</l>
+          <l>"... עמוד האש" בכתה לך נועה!</l>
+          <l>ואני יודע ואני גם מרגיש</l>
+          <l>שאתה בגן עדן - עם מלאכים!</l>
+          <l>שומר עלינו מגבוה!</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אך בוכים הלבבות ודומעות העיניים.</l>
+          <l>ונשרפת הנפש מן הכאב.</l>
+          <l>וזועקת אמה יתומה לשמיים -</l>
+          <l>וקשה הפרידה וצובטת בלב!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

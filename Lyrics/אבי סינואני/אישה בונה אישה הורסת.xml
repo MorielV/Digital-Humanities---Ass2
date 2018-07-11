@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה בונה אישה הורסת</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>דוד חלפון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה בונה אישה הורסת</head>
+        <lg number="1" type="stanza">
+          <l>מכל שטות את עושה מהומה</l>
+          <l>את אשה מטרפת</l>
+          <l>לו ידעת כמה את מגזימה</l>
+          <l>כשאת מתרגזת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מחפשת הרע שטוב</l>
+          <l>לא מנסה לאהוב</l>
+          <l>מחפשת הרע שבטוב</l>
+          <l>לא מנסה לאהוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אשה בונה אשה הורסת</l>
+          <l>למה שוב את כועסת</l>
+          <l>מה עלי לעשות כדי לראות</l>
+          <l>אותך רכה ומפוייסת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>החיים כה קצרים אהובה</l>
+          <l>היממה לא חוזרת</l>
+          <l>וחבל הסתיימה במריבה</l>
+          <l>באווירה כה קודרת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם את סבל עבר תשכחי</l>
+          <l>אם על שגיאות תסלחי</l>
+          <l>אם הזדמנות לי תתני</l>
+          <l>אבטיח שלא תתחרטי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אשה בונה אשה הורסת...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>מחפשת הרע שטוב</l>
+          <l>לא מנסה לאהוב</l>
+          <l>מחפשת הרע שבטוב</l>
+          <l>לא מנסה לאהוב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

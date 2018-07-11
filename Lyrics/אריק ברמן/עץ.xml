@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עץ 3</title>
+        <singer classification="male singer">אריק ברמן</singer>
+        <writer>אריק ברמן</writer>
+        <composer>אריק ברמן</composer>
+        <album>II</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עץ</head>
+        <lg number="1" type="stanza">
+          <l>"כמה שפחות זמן עד שתעזוב,</l>
+          <l>כך ייטב לשנינו" היא אמרה.</l>
+          <l>כל ציור על הקיר עושה לה לחזור,</l>
+          <l>כל תקליט שהעמדתי בדירה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מפשיט עוד איזה בגד מאחד הקולבים,</l>
+          <l>פוגש תחתית של איזה מגירה.</l>
+          <l>וכמה זה קשה להיפרד כשעוד אוהבים,</l>
+          <l>אבל כעת נדמה שאין ברירה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הלוואי והיית עץ,עומד כאן בשדרה,</l>
+          <l>הייתי מסתכל עליך כשהיית יוצאת לעבודה.</l>
+          <l>הייתי עץ, משיר עלי בסתיו, או סתם בכל עונה אחרת,</l>
+          <l>כשהיית חוזרת עם בחור אחר הביתה יד ביד.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>"כמה שפחות זמן עד שתעזוב,</l>
+          <l>כך ייטב לשנינו" היא אמרה.</l>
+          <l>ויש לה שכל זאתי, שחלילה לא תחשוב</l>
+          <l>שככה היא בדרך קרה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הלוואי והיית עץ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

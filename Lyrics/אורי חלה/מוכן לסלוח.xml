@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מוכן לסלוח</title>
+        <singer classification="unknown">אורי חלה</singer>
+        <writer>נועם אהרון</writer>
+        <composer>שחר עזרק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מוכן לסלוח</head>
+        <lg number="1" type="stanza">
+          <l>זוכר ולא יכול לשכוח</l>
+          <l>את התקופות הכי קשות</l>
+          <l>בהן דיברת עלי רק רע</l>
+          <l>למרות שדבר לא נכון</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מוכן אני לפתוח הכל מהתחלה</l>
+          <l>מוכן אני לסלוח למען האהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תחשבי שכבר שכחתי </l>
+          <l>את המילים הכי קשות</l>
+          <l>בתוך תוכי סלחתי</l>
+          <l>בשביל האהבה הזאת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל תנצלי את זה הפעם</l>
+          <l>אני שלך ורק שלך</l>
+          <l>אם תפגעי בי שוב אין טעם</l>
+          <l>זה הזמן למחול רק לך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מוכן אני לפתוח הכל מהתחלה</l>
+          <l>מוכן אני לסלוח למען האהבה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אל תחשבי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

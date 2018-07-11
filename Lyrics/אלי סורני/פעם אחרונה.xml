@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פעם אחרונה</title>
+        <singer classification="male singer">אלי סורני</singer>
+        <writer>אלי סורני</writer>
+        <composer>אלי סורני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פעם אחרונה</head>
+        <lg number="1" type="stanza">
+          <l>שיכור, כמה אבדון,</l>
+          <l>הלילה הזה אתה לא יכול לישון.</l>
+          <l>חתולים מייללים את כל הקלישאות,</l>
+          <l>אהבות לא נכונות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שיכור, בחוץ יש סופה,</l>
+          <l>גשם של בוץ, נסיעה רחוקה.</l>
+          <l>הו אלוהים, נשארת אתה,</l>
+          <l>יכולתם לשקוע בשינה עמוקה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זאת הפעם האחרונה שעוזבים אותך,</l>
+          <l>זאת הפעם האחרונה, מי הבטיח לך,</l>
+          <l>שזאת הפעם האחרונה שעוזבים אותך?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תגיד לי מה עושים עם החופש הזה,</l>
+          <l>תגיד מרגיש הכי אבוד.</l>
+          <l>כשאין גבולות מה יכול לקרות?</l>
+          <l>השער נפתח, רוחות חזקות.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זאת הפעם האחרונה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

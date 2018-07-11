@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ערב בטבריה</title>
+        <singer classification="unknown">איציק ארזי</singer>
+        <writer>איציק ארזי</writer>
+        <composer>איציק ארזי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ערב בטבריה</head>
+        <lg number="1" type="stanza">
+          <l>ערב שוב יורד על טבריה, שב סירות חוזרות לעיר,</l>
+          <l>דג ושיחים על המנגל והלילה עוד צעיר,</l>
+          <l>מתחדד צליל הבוזוקי, מתחזק גם המילים,</l>
+          <l>שר גחל בלהבה זה הזמן לאהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>טבריה עיר האהבה, יש כאן נוף ואווירה, </l>
+          <l>יין פה נשפך כמו מים, השירה כאן אדירה, </l>
+          <l>נערה אלי צוחקת, בעיניה אהבה, </l>
+          <l>היא תהיה שלי הלילה, עוד מעט אדע אותה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האוויר קריר לאללה, ריח ים וגחלים,</l>
+          <l>שנשמח תמיד אינשאללה, ובתוך הלב חמים,</l>
+          <l>ומחר לים נפליגה, מי ידע באם נשוב,</l>
+          <l>עוד כוסית שיכר נרימה כי רק זה מה שחשוב.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>טבריה עיר האהבה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יחד כל החבורה מסביב למדורה,</l>
+          <l>יין פה נשפך כמו מים, השירה כאן אדירה, </l>
+          <l>נערה אלי צוחקת, בעיניה אהבה,</l>
+          <l>היא תהיה שלי הלילה, עוד מעט אדע אותה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>טבריה עיר האהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה שאת מדליקה</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>איציק קלה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה שאת מדליקה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>לא לא אמרו לי לא לא ספרו לי</l>
+          <l>לא לא גילו לי כלום עלייך</l>
+          <l>לא לא אמרו לי לא לא סיפרו לי</l>
+          <l>לא לא גילו לי כמה שאת מדליקה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש לך חיוך שפוצע</l>
+          <l>קסם ויופי מושלם</l>
+          <l>נתת ליופייך לשגע</l>
+          <l>את הגברים בעולם</l>
+          <l>אבל הצלחת לשגע</l>
+          <l>אותי יותר מכולם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא לא אמרו לי לא לא סיפרו לי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שברחוב את פוסעת</l>
+          <l>מותק עולה לי החום</l>
+          <l>את בוודאי לא יודעת</l>
+          <l>מה שקורה לי פתאום</l>
+          <l>בנשמתי את נוגעת</l>
+          <l>איפה היית עד היום.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא לא אמרו לי לא לא ספרו לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

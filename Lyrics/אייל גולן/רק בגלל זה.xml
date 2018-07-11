@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק בגלל זה</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>חלק מחיי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק בגלל זה</head>
+        <lg number="1" type="stanza">
+          <l>אני יורד, ואת עולה</l>
+          <l>אני כמעט על הקצה, את רק בהתחלה</l>
+          <l>את רצינית, אני שובב</l>
+          <l>לך יש את כל הזמן, אני רוצה עכשיו</l>
+          <l>מרוב ההפכים, אנחנו נמשכים</l>
+          <l>וזה אולי מה שמחזיק אותנו יחד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ורק בגלל זה אני אוהב אותך</l>
+          <l>ורק בגלל זה אני רוצה אותך</l>
+          <l>ורק בגלל זה, פועם לי בחזה</l>
+          <l>הלב שכולו שלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני הים, ואת האש</l>
+          <l>אני יודע לוותר ואת להתעקש</l>
+          <l>אני היום, ואת מחר</l>
+          <l>לנצח כמו אל החיים, אלייך מחובר</l>
+          <l>מרוב ההפכים, אנחנו נמשכים</l>
+          <l>וזה אולי מה שמחזיק אותנו יחד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ורק בגלל זה אני אוהב אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

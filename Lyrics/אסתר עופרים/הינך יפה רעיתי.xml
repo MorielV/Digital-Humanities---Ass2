@@ -1,0 +1,37 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הינך יפה רעיתי</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>מתוך שיר השירים</writer>
+        <composer>נועם שריף</composer>
+        <album>אסתר עופרים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הינך יפה רעיתי</head>
+        <lg number="1" type="stanza">
+          <l>הינך יפה רעייתי</l>
+          <l>הינך יפה</l>
+          <l>הינך יפה, עינייך יונים</l>
+          <l>מבעד לצמתך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

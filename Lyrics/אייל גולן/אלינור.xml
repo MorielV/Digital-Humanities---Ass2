@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלינור</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>ג'קי מקייטן</writer>
+        <composer>כריסטוס ניקולופולוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלינור</head>
+        <lg number="1" type="stanza">
+          <l>אלינור את יפה כמו מלאך</l>
+          <l>ופנייך יעידו כך</l>
+          <l>בלעדייך לא שווה לי כל העולם</l>
+          <l>אלינור אני פה לבד יושב</l>
+          <l>ועלייך רק חושב</l>
+          <l>לשנות את המזל את מוכרחה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלי - התאכזבתי קשות,</l>
+          <l>לא ישנתי לילות</l>
+          <l>עוד תשובי אלי ונמשיך כך יחדיו</l>
+          <l>אל אותם הימים - אפורים וורודים</l>
+          <l>אלי - שלי את לעד</l>
+          <l>ואני פה לבד</l>
+          <l>יושב ועצוב</l>
+          <l>לבד וכאוב</l>
+          <l>חושב על אותם הימים שחלפו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עמוק, עמוק ופתאום מצאתי בך</l>
+          <l>חלומי להיות איתך</l>
+          <l>נערה כה מתוקה את אלינור</l>
+          <l>זה סיפור של אהבה מאכזבת</l>
+          <l>אהבה כה כואבת</l>
+          <l>שהסוף צריך להיות אינשאללה טוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלי - התאכזבתי קשות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

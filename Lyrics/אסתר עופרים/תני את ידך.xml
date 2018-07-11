@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תני את ידך</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>מרדכי זעירא</writer>
+        <composer>מרדכי זעירא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תני את ידך</head>
+        <lg number="1" type="stanza">
+          <l>תני את ידך אחותי הנרגשת</l>
+          <l>שמא תוכל לחיצה חרישית</l>
+          <l>לך לספר איך נפשי מבקשת</l>
+          <l>לך אהובה את עצמה להושיט</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תני את ידך אחותי והביטי</l>
+          <l>איך נפקחים לקראתך אישוני</l>
+          <l>בם תשוקתי אשר טרם גיליתי</l>
+          <l>לך מצפה מתוך ים יגוני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תני את ידך אחותי והשעיני</l>
+          <l>כאן על כתפי את ראשך הנסער</l>
+          <l>חרש אשיח לך אנא הרשיני</l>
+          <l>מה אהבתיך יקרה זה מכבר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תני את ידך ונשב כמו אמש</l>
+          <l>אנא אחות אל תגידי דבר</l>
+          <l>אין משיחין עת זורחת השמש</l>
+          <l>אין מיבשים עיינות במדבר.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נגני גיטרה</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>יוני רועה</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נגני גיטרה</head>
+        <lg number="1" type="stanza">
+          <l>נגני לי גיטרה</l>
+          <l>על מיתרים נגני</l>
+          <l>איך בתוכי את שרה</l>
+          <l>נוגעת בליבי</l>
+          <l>את סוד האושר בשעת אכזבה</l>
+          <l>את שנותנת סיבה לאהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אוללה ללה הזמר עוד עולה</l>
+          <l>אוללה ללה איתך אני חולם</l>
+          <l>אוללה ללה נגני לי בשירך</l>
+          <l>כמעיןן שופע ממך אני זורם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>צלילייך ברגש ממלאים אותי</l>
+          <l>הלמות מקצבייך צובעים את שירי</l>
+          <l>לנועם ניגונייך אשמיע את קולי</l>
+          <l>את לי השמש גם ביום סגריר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אוללה ללה הזמר עוד עולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

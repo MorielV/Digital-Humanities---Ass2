@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו רובוט</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>13</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו רובוט</head>
+        <lg number="1" type="stanza">
+          <l>עומד לשבת</l>
+          <l>ועולה כדי לרדת</l>
+          <l>נופל וקם</l>
+          <l>גם אני לא מושלם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לה לה לה...</l>
+          <l>כמו רובוט מוכן על אוטומט</l>
+          <l>לה לה לה...</l>
+          <l>אני חייל על לוח השחמט</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אמרו לי תלך</l>
+          <l>אמרו לי תחזור</l>
+          <l>כולם נלחמים לפי התור</l>
+          <l>הלכתי רחוק כמו משוגע</l>
+          <l>כי רמאללה היא לא ברצלונה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לוחץ, מרפה</l>
+          <l>ונכנס ויוצא</l>
+          <l>צוחק, בוכה</l>
+          <l>מלטף ומכה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לה לה לה...</l>
+          <l>אני אחד שבו"ז עם מטרה</l>
+          <l>לה לה לה...</l>
+          <l>היכל נמצאת הדרך חזרה?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אמרו לי תלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

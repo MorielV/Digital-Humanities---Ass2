@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאוהב יא לאלי</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>אבי ביטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאוהב יא לאלי</head>
+        <lg number="1" type="stanza">
+          <l>לילה לילה</l>
+          <l>משתכר</l>
+          <l>משהו</l>
+          <l>עלי עובר</l>
+          <l>כולם אומרים</l>
+          <l>שזה משבר</l>
+          <l>בחיים</l>
+          <l>הכל עובר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה את עושה לי</l>
+          <l>מה את עושה לי</l>
+          <l>רק אלייך</l>
+          <l>אני בא לי</l>
+          <l>מה קורה לי</l>
+          <l>מה קורה לי</l>
+          <l>אני מאוהב יא לאלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל הלילה</l>
+          <l>מסתובב</l>
+          <l>עם הרבה כאב בלב</l>
+          <l>איך זה בא</l>
+          <l>ומתקרב</l>
+          <l>משהו</l>
+          <l>צובט בלב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה את עושה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

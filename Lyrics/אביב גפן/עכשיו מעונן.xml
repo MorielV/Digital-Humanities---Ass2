@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עכשיו מעונן</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עכשיו מעונן</head>
+        <lg number="1" type="stanza">
+          <l>במקום מסוכן שנקרא לו הבית</l>
+          <l>גר אדם מבולבל שנקרא לו אני</l>
+          <l>ולמרות שיש שמש יש הרבה אנשים אפורים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>במקום די מגעיל שנקרא לו הבית</l>
+          <l>גר אדם מבולבל שנקרא לו אני</l>
+          <l>כי למרות שיש כסף יש הרבה אנשים עניים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו מעונן...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>במקום די מגעיל שנקרא לו הבית</l>
+          <l>ההורים נפרדים שיהיה יותר טוב</l>
+          <l>אבל הבית שלי הוא נמצא בין רחוב לרחוב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>במקום די מפחיד שנקרא לו הבית</l>
+          <l>בן אדם שם שותה בקבוק אחרי בקבוק</l>
+          <l>הבן אדם הזה הוא האבא שלי בדיוק</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אולי עכשיו מעונן...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אנחנו דור מזויין</l>
+          <l>עכשיו מעונן</l>
+          <l>אנחנו דור מזויין</l>
+          <l>עכשיו מעונן</l>
+          <l>רוצים ללכת מכאן</l>
+          <l>עכשיו מעונן</l>
+          <l>אנחנו דור מזויין</l>
+          <l>עכשיו מעונן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

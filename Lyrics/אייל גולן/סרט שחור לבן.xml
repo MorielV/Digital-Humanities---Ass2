@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סרט שחור לבן</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>רונן ירקוני</composer>
+        <album>מציאות אחרת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סרט שחור לבן</head>
+        <lg number="1" type="stanza">
+          <l>בין ימים מלאי אהבה ללילות ריקנות</l>
+          <l>מצייר על הקיר חלונות</l>
+          <l>וקורא לך</l>
+          <l>מדבר אל עצמי </l>
+          <l>ועונה בקלות</l>
+          <l>כשנמאס לי לתת ולתת</l>
+          <l>אני בא ולוקח</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ולפעמים אני רואה אותך וכולי נמס</l>
+          <l>נוזל כמו גלידה של תות בקיץ</l>
+          <l>ושוב אני נוגע בך ומרגיש נמר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו סרט שחור לבן</l>
+          <l>עוברים לידי החיים</l>
+          <l>זה כמו לבחור</l>
+          <l>בין לחיות או למות</l>
+          <l>כל כמה ימים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לפעמים אני סתם מתבטל</l>
+          <l>אובססיבי לכלום</l>
+          <l>לא רוצה לא יכול </l>
+          <l>או פשוט לא בא לי</l>
+          <l>מטייל על הגבול</l>
+          <l>בין גאונות לטימטום</l>
+          <l>את יודעת אף פעם </l>
+          <l>אני לא הייתי נורמלי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ולפעמים אני רואה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

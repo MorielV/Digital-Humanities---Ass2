@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דדי</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>מוטי זעירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דדי</head>
+        <lg number="1" type="stanza">
+          <l>כשאני מספר לו עליך</l>
+          <l>עיניו הכחולות נפקחות לרווחה</l>
+          <l>בעיניים של ילד בן שש</l>
+          <l>המצב הטבעי שאתה כבר אינך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כי בן שש הוא יודע את כל הסיפור</l>
+          <l>על הרעש... השקט... האש...</l>
+          <l>על הלילה שבא... ובחושך אתה...</l>
+          <l>את הג'יפ... השדות... המוקש...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אבא ספר לי על דדי עכשיו</l>
+          <l>ותקרא לי את כל הכתוב,</l>
+          <l>ספר על הילד הזה השובב</l>
+          <l>אך שינה את הסוף העצוב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הוא אוהב במיוחד את סיפור המיטה</l>
+          <l>איך היית תינוק וצרחן</l>
+          <l>איך נפלת ממנה ללא חבטה</l>
+          <l>תינוק עם גורל של צנחן.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הוא יודע את כל הבדיחות בעל פה</l>
+          <l>הוא צוחק עוד לפני הסיפור</l>
+          <l>איך היית ילדון בן שלוש, לא יותר</l>
+          <l>ושיבשת את כל הדיבור.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אבא ספר על דדי עכשיו...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>הוא יודע עליך המון סיפורים</l>
+          <l>איך היית רוקד וגם שר</l>
+          <l>איך אהבת מאוד לטייל בהרים</l>
+          <l>הוא כועס כשאומרים "זה נגמר".</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>אבל, ילד שלי, יש לו סוף לסיפור</l>
+          <l>ולשווא נעמוד מחכים</l>
+          <l>הטובים לא ניצחו, המשחק לא גמור</l>
+          <l>הדפים הבאים הם ריקים.</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>אבא ספר לי על דדי עכשיו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

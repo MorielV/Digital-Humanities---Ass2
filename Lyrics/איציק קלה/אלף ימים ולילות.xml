@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלף ימים ולילות</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>תומר עג'ם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלף ימים ולילות</head>
+        <lg number="1" type="stanza">
+          <l>אלף ימים אלף לילות</l>
+          <l>טעמנו יחד מהכל</l>
+          <l>הפלגנו רחוק לחלומות</l>
+          <l>ואת אהבת אותי אתמול</l>
+          <l>היתה לך אש בוערת</l>
+          <l>פתאום כבתה הלהבה</l>
+          <l>עכשיו זה כואב וקר לי בלב</l>
+          <l>לאן עזבה האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את הלילות שאהבנו</l>
+          <l>את כל החלומות שלנו</l>
+          <l>לקחת הכל והלכת</l>
+          <l>כמו מעולם לא אהבת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אלף ימים אלף לילות</l>
+          <l>היתה לנו פינה חמה</l>
+          <l>אהבתי אותך ללא גבולות</l>
+          <l>נתתי לך את הנשמה</l>
+          <l>אני רוצה לשכוח</l>
+          <l>ולא לכאוב אותך יותר</l>
+          <l>את מה שהיה לקחת איתך</l>
+          <l>נתת למישהו אחר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את הלילות שאהבנו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

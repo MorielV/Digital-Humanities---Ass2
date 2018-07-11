@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רזי ליל</title>
+        <singer classification="male singer">אברהם פררה</singer>
+        <writer>משה גורלי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רזי ליל</head>
+        <lg number="1" type="stanza">
+          <l>אט זורמים, זורמים גלי הנחל</l>
+          <l>מתלחשים, מתלחשים דום</l>
+          <l>חרש זורחים, זורחים הכוכבים</l>
+          <l>חרש זורחים, קורצים ברום</l>
+          <l>רוח ערב שובבה נושבת</l>
+          <l>סוד ממתיקה, סוד ממתיקה</l>
+          <l>ערפילים כחלחלים</l>
+          <l>עוטפים עוטפים רזי שתיקה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

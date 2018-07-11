@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלום אחד</title>
+        <singer classification="unknown">אלי מגן</singer>
+        <writer>מירון איזקסון</writer>
+        <composer>אלי מגן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלום אחד</head>
+        <lg number="1" type="stanza">
+          <l>כל חלומות אדם בכל לילותיו</l>
+          <l>חלום אחד הוא</l>
+          <l>חלום אחד הוא</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם קיר שקוף יראה לו ביתו</l>
+          <l>ואם רגליו נותרות בהר זר</l>
+          <l>חלום אחד, אם של לילה</l>
+          <l>חלום אחד, אם של יום</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>חלום אחד</l>
+          <l>חלום אחד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ובכל חלומותיו אין הוא יודע</l>
+          <l>האם הטוב שנגלה לו ייזכר</l>
+          <l>גם בעת הרוע</l>
+          <l>או שמא כמו פרותיו הרזות</l>
+          <l>של פרעה</l>
+          <l>לא היו מעולם</l>
+          <l>כל ימי השובע</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם קיר שקוף ייראה לו ביתו</l>
+          <l>ואם רגליו נותרות בהר זר</l>
+          <l>חלום אחד, אם של לילה</l>
+          <l>חלום אחד, אם של יום</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>חלום אחד</l>
+          <l>חלום אחד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

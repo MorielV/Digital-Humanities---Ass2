@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מכתב לגיורא</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מכתב לגיורא</head>
+        <lg number="1" type="stanza">
+          <l>גיורא בני הקט, אני פה במחסה</l>
+          <l>ויריות ירעימו מכל עבר,</l>
+          <l>בבית רק אתה עכשיו הגבר,</l>
+          <l>דאג לאמא, בני, כמו שאני עושה,</l>
+          <l>ממש כמו שאני עושה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עזור לה בני בכל, אתה גדול כזה,</l>
+          <l>הכנס את העציץ בלילה פנימה,</l>
+          <l>ואל תשאיר את הבגדים לאימא,</l>
+          <l>על דופן הכיסא, כמו שאני עושה,</l>
+          <l>ממש כמו שאני עושה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עזור לה גם לשטוף צלחת ומכסה</l>
+          <l>ולהזיז את הספה אחורה,</l>
+          <l>ונשיקות חמות תן לה גיורא,</l>
+          <l>אתה יודע איך, כמו שאני עושה,</l>
+          <l>ממש כמו שאני עושה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ובכן, גיורא בני, אני פה במחסה</l>
+          <l>ויריות ירעימו מכל עבר,</l>
+          <l>בבית רק אתה עכשיו הגבר,</l>
+          <l>דאג לאימא, בני, כמו שאני עושה,</l>
+          <l>ממש כמו שאני עושה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

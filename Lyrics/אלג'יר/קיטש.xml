@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קיטש</title>
+        <singer classification="unknown">אלג יר</singer>
+        <writer>אביב גדג'</writer>
+        <composer>אביב גדג'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קיטש</head>
+        <lg number="1" type="stanza">
+          <l>שם מתחת להרים איפה שהשמיים נעצרים</l>
+          <l>נובלס, אקסטזי, חסה, שמפניה, ודם מלוכלך</l>
+          <l>את צריכה קצת קיטש בחיים ההפוכים שלך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אולי, אולי, אם אעצום עיני</l>
+          <l>ובטח אז אראה חלום כל כך יפה</l>
+          <l>ירח וכוכב ישלחו מכתב.</l>
+          <l>אתה עוד תראה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נובלס, אקסטזי, חסה שמפניה, ים, דם, שם,</l>
+          <l>אי שם- מעבר לקשת בענן.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>"שלא יהיו מלחמות בעולם.</l>
+          <l>שכולם יאהבו אחד את השני.</l>
+          <l>שאני אוהב אותך -</l>
+          <l>ואתה תאהב אותי."</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אולי, אולי, אם אעצום עיני</l>
+          <l>ובטח אז אראה חלום כל כך יפה</l>
+          <l>ירח וכוכב ישלחו מכתב.</l>
+          <l>אתה עוד תראה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אולי, אולי...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אתה עוד תראה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

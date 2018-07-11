@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאוהב 6</title>
+        <singer classification="unknown">אביעד שטויאר</singer>
+        <writer>ישי דמרי</writer>
+        <composer>רובי ראובני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאוהב</head>
+        <lg number="1" type="stanza">
+          <l>מאוהב בצבע עינייך</l>
+          <l>העיניים שלי מספרות</l>
+          <l>מאוהב בזוג שפתייך</l>
+          <l>שאת שפתי מנשקות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מאוהב בריח גופך</l>
+          <l>רק אותך להריח</l>
+          <l>מאוהב בתנוך אוזנך</l>
+          <l>לך אהבתי אשיח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מאוהב במראה עיני</l>
+          <l>ביופייך רוצה לגעת</l>
+          <l>חש במגע שפתי</l>
+          <l>כמו טעמתי מעץ הדעת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מאוהב בשתי ידייך</l>
+          <l>שאת פני מלטפות</l>
+          <l>עטוף בזרועותייך</l>
+          <l>לעולם רוצה להיות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מאוהב בריח גופך</l>
+          <l>רק אותך להריח</l>
+          <l>מאוהב בתנוך אוזנך</l>
+          <l>לך אהבתי אשיח</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מאוהב במראה עיני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתאבדת</title>
+        <singer classification="unknown">אנוס</singer>
+        <writer>שרית שצקי</writer>
+        <composer>שרית שצקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתאבדת</head>
+        <lg number="1" type="stanza">
+          <l>בר עשרה ימים ועשרה לילות </l>
+          <l>שוכבת אני בבית הקברות </l>
+          <l>וכאן למטה חשוך ושקט. </l>
+          <l>אף אחד לא מפריע. מכבדים את המת. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוד כמה שנים תקימו בית, משפחה, ילדים וסלון בורגני. </l>
+          <l>כל ארבע שנים תצביעו בקלפי שימשיכו לרצוח אחד את השני. </l>
+          <l>הילדים יגדלו וילכו לצבא, ילמדו על משמעת/יכולת והקרבה. </l>
+          <l>יעמידו אותם עם הגב לקיר - המדינה לך היא כבר לא תחזיר. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני שומעת אותם מדברים, </l>
+          <l>אני שומעת אותם מתפשטים, </l>
+          <l>אני שומעת אותם שיכורים, </l>
+          <l>אני שומעת אותם גומרים, </l>
+          <l>אני שומעת אותם מחוקקים, </l>
+          <l>אני שומעת אותם מפקדים, </l>
+          <l>אני שומעת אותם יורים, </l>
+          <l>אני שומעת אותם מתים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

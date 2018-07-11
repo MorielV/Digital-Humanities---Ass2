@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחר אני בבית</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>מוריס</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחר אני בבית</head>
+        <lg number="1" type="stanza">
+          <l>כבר עברו מאה שנה כל שעה קשה עלי</l>
+          <l>את ודאי לא ישנה לא עצמתי את עיני</l>
+          <l>זה סופו של המסע</l>
+          <l>רק אותך ארצה לראות</l>
+          <l>אז אלייך אני בא בעיניים לטושות</l>
+          <l>כי ראיתי איך טינה אותי לוקחת</l>
+          <l>למקום שבני אדם איבדו הכל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חכי לי שאחזור מחר אני בבית</l>
+          <l>נמאס לי לתקן עולם בארץ יריבה</l>
+          <l>חכי לי שאחזור טוב להיות בבית</l>
+          <l>כולם היו אחים בדם</l>
+          <l>יפה הדרך חזרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא רוצה להיות גיבור לך רציתי לספר</l>
+          <l>שבלילה השחור מישהו שומר</l>
+          <l>הוא מסתתר בין עננים אבל משאיר לנו תקווה</l>
+          <l>לימים יותר יפים ימים של אהבה</l>
+          <l>לא רוצה את הכאב שבעיניים</l>
+          <l>הכאב הזה יובס באהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חכי לי שאחזור מחר אני בבית</l>
+          <l>נמאס לי לתקן עולם בארץ יריבה</l>
+          <l>חכי לי שאחזור טוב להיות בבית</l>
+          <l>כולם היו אחים בדם</l>
+          <l>יפה הדרך חזרה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

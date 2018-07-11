@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמא 17</title>
+        <singer classification="female singer">אנוק</singer>
+        <writer>אנוק</writer>
+        <composer>אנוק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמא</head>
+        <lg number="1" type="stanza">
+          <l>כבר ראיתי אותך בכל הגוונים</l>
+          <l>את נראית כמו ציור שצייר אלוהים</l>
+          <l>אני לוקחת אותך בכל נשימה</l>
+          <l>ושרה לך אמא אני שרה לך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בליטוף מסלקת את כל השדים</l>
+          <l>את עוטפת אותי בתפילת החיים</l>
+          <l>אני עומדת מולך ואת יכולה</l>
+          <l>לראות אותי ככה בלי עטיפה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואם זה נכון</l>
+          <l>שבוחרים                           </l>
+          <l>אז קטפתי אותך מכל הפרחים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>פחדים שקפאו לקולך נמסים</l>
+          <l>כשאת לוחשת אליי בשפת מלאכים</l>
+          <l>צוללת אלייך כשאני אבודה</l>
+          <l>לשוט בעינייך בים התקווה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואם זה נכון</l>
+          <l>שבוחרים                           </l>
+          <l>אז קטפתי אותך מכל הפרחים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

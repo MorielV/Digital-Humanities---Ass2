@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שטח ההפקר</title>
+        <singer classification="female singer">אסתר שמיר</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>אסתר שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שטח ההפקר</head>
+        <lg number="1" type="stanza">
+          <l>הוא חוצה את הקווים, הוא עובר את הגדר</l>
+          <l>חוצה את חומות הפחד, מגיע אל שטח ההפקר</l>
+          <l>עומד לבדו בשטח, הוא לא יישאר לבדו</l>
+          <l>הרוב השקט צועק לו שהם יבואו איתו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הוא חוצה את הקווים, הוא הלב של המדינה</l>
+          <l>שכבר ימים רבים, אין לה קשר עם עצמה</l>
+          <l>הוא יודע שזה משחק קשה, להחזיר לנו את החיים</l>
+          <l>אך זה המשחק היחידי שיש, כשהוא חוצה את הקווים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>והוא הולך אל שטח ההפקר</l>
+          <l>לא ישקוט ולא ינוח</l>
+          <l>הוא הולך אל שטח ההפקר</l>
+          <l>עד שתחזור הרוח.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הוא חוצה את הקווים, הוא קורא באפילה</l>
+          <l>הוא הולך על פני המים, הולך ולא יטבע</l>
+          <l>קורא אל תוך החושך, אל תוך החרדה</l>
+          <l>עד שיבואו מנגד למצוא איתו מוצא</l>
+          <l>כשהוא הולך אל שטח ההפקר.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>והוא הולך אל שטח ההפקר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

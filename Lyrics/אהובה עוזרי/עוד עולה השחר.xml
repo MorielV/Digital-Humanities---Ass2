@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד עולה השחר</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד עולה השחר</head>
+        <lg number="1" type="stanza">
+          <l>עוד עולה השחר בליבי מנגינה עצובה</l>
+          <l>ובפי מילות אהבה ומעיני ניצוץ דמעה</l>
+          <l>נא גלה לי נא גלה לי מהו סודך</l>
+          <l>נא אמור לי נא אמור האם אני בלבך?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוד עולה השחר ואני כאן לבד מחכה למבטך</l>
+          <l>אנא הושט לי את ידך דרכים רבות לבוא</l>
+          <l>לביתך ואני כבר עייפה ברצוני לשמוע מילה</l>
+          <l>לעודד לב דואב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

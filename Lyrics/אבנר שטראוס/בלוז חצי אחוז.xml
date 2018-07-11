@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלוז חצי אחוז</title>
+        <singer classification="male singer">אבנר שטראוס</singer>
+        <writer>אבנר שטראוס</writer>
+        <composer>אבנר שטראוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלוז חצי אחוז</head>
+        <lg number="1" type="stanza">
+          <l>חצי אחוז שומן</l>
+          <l>וכל השאר זה בלוז</l>
+          <l>כמעט נגמר היום</l>
+          <l>אין לי כח לזוז</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חצי אחוז שומן</l>
+          <l>אולי אפילו רק רבע</l>
+          <l>כל שחור לבן</l>
+          <l>לפעמים קצת צבע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כאן החיים נראים כמו סרט</l>
+          <l>ובלוז הוא פס בקול</l>
+          <l>פה כל אחד חוטף לו</l>
+          <l>מה שהוא יכול</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי שלא לומד ללכת</l>
+          <l>צריך ללמוד לעוף</l>
+          <l>ומי שאין לו אמונה</l>
+          <l>חייב שיהיה לו קצת טירוף</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

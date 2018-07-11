@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם ננעלו</title>
+        <singer classification="unknown">אופיר בן שטרית</singer>
+        <writer>רבי שלום שבזי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם ננעלו</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אם ננעלו דלתי נדיבים</l>
+          <l>דלתי מרום לא ננעלו</l>
+          <l>אל חי מרומם על כרובים</l>
+          <l>כולם ברוחו יעלו אל חי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כי הם אלי כיסאו קרובים</l>
+          <l>יודו שמו ויהללו</l>
+          <l>חיות שהם רצוא ושבים</l>
+          <l>מיום בריאה נכללו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גלגל ואופן רועשים</l>
+          <l>מודים שמו ומקדשים</l>
+          <l>מזיו כבודו לובשים</l>
+          <l>אל חי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ובשש כנפיים סביבים</l>
+          <l>עפים בעת יתגלגלו</l>
+          <l>יענו בקול שירים ערבים</l>
+          <l>יחד באותות נדגלו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם ננעלו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

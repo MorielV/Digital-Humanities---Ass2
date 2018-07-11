@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הריקוד הוא שלך</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>ירון כהן</writer>
+        <composer>ירון כהן</composer>
+        <album>צליל מיתר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הריקוד הוא שלך</head>
+        <lg number="1" type="stanza">
+          <l>כשאת ברחבה רוקדת בך כולם שולחים מבט</l>
+          <l>איך אפשר להתעלם את משגעת</l>
+          <l>את כולם את מסובבת בתנועה קטנה אחת</l>
+          <l>איך לשבור לבבות את יודעת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואני שחולם אחרייך</l>
+          <l>משתוקק לחיוך משפתייך</l>
+          <l>ואת בשלך עוד רוקדת</l>
+          <l>במבט נשימה את עוצרת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תרקדי הריקוד הוא שלך</l>
+          <l>ואותי מהצד את כובשת</l>
+          <l>כל הלילה הזה רק איתך</l>
+          <l>כמו חלום כמה את מתגשמת</l>
+          <l>תרקדי הריקוד הוא שלך</l>
+          <l>ואותי מהצד את כובשת</l>
+          <l>כל הלילה הזה רק איתך</l>
+          <l>כמו חלום כמה את מתגשמת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשאת ברחבה רוקדת בך הכל זוהר כל כך</l>
+          <l>אל גופך עוד ליטוף את שולחת</l>
+          <l>איך בקצב את שולטת הריקוד הזה שלך</l>
+          <l>ומבט אל עיני לא שולחת</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואני שחולם אחרייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

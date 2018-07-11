@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמח ועצוב 2</title>
+        <singer classification="male singer">אריס סאן</singer>
+        <writer>יהודה אופן</writer>
+        <composer>אריס סאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמח ועצוב</head>
+        <lg number="1" type="stanza">
+          <l>רגל רוקדת בקצב מסחרר נערה צוחקת,</l>
+          <l>אך מול מגל הרוקדים המשחרר היגון שותק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אה אה אה... הריקוד שמח והלב כבד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל אחד היום שוכח איש אינו בודד,</l>
+          <l>כל אחד זרועות פותח וסיבוב לוהט,</l>
+          <l>רק אני איני יודע איך להיות שמח,</l>
+          <l>יש לי נערה צוחקת ויגון שותק</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אה אה אה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רגל רוקדת בקצב מסחרר...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אה אה אה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כל אחד היום שוכח...</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>אה אה אה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

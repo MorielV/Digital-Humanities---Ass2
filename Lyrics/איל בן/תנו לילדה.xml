@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תנו לילדה</title>
+        <singer classification="unknown">איל בן 2</singer>
+        <writer>איל בן</writer>
+        <composer>איל בן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תנו לילדה</head>
+        <lg number="1" type="stanza">
+          <l>תנו לילדה שתבכה קצת </l>
+          <l>זה טוב זה משחרר </l>
+          <l>זה מוציא את הכאב </l>
+          <l>מהבטן שלה </l>
+          <l>בשבילה </l>
+          <l>אולי משהו עוד ייצא ממנה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תנו לאישה שתצעק קצת </l>
+          <l>זה טוב זה משחרר </l>
+          <l>זה מוציא את בעלה </l>
+          <l>מהבטן שלה </l>
+          <l>בשבילה </l>
+          <l>אולי משהו עוד ייצא ממנו </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה היא בוכה </l>
+          <l>מה היא רוצה </l>
+          <l>מה היא רוצה </l>
+          <l>מה היא בוכה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תנו לבנה שיבכה קצת </l>
+          <l>זה טוב זה משחרר </l>
+          <l>זה מוציא את הכאב </l>
+          <l>מהבטן שלו </l>
+          <l>בשבילו </l>
+          <l>אולי משהו עוד ייצא ממני</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני לא שם</title>
+        <singer classification="unknown">אליהו 3</singer>
+        <writer>מרב סימן טוב</writer>
+        <composer>מרב סימן טוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני לא שם</head>
+        <lg number="1" type="stanza">
+          <l>תגיד לי מה אתה עושה בבוקר, </l>
+          <l>לובש חולצה עלתה נורא ביוקר </l>
+          <l>ויוצא לרחוב. </l>
+          <l>נס קפה עם שם מאוד איטלקי </l>
+          <l>במקום הכי אופנתי, </l>
+          <l>זה עושה לך טוב. </l>
+          <l>אתה מביט על אנשים יפים, </l>
+          <l>עוברים כמו בתצוגה, </l>
+          <l>תגע או לא תגע, </l>
+          <l>זה משוגע, </l>
+          <l>בכל מקרה לא תעבור את המחסום </l>
+          <l>שהם בנו סביבם, </l>
+          <l>שיכולו להתמודד עם העולם. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בתוך כל השקרים </l>
+          <l>אני לא שם </l>
+          <l>בתוך מה שאומרים </l>
+          <l>אני לא שם </l>
+          <l>אני רוצה קרוב </l>
+          <l>אני לא שם </l>
+          <l>עוד מאמין בטוב </l>
+          <l>אני לא שם </l>
+          <l>בתוך ההצגה </l>
+          <l>אני לא שם </l>
+          <l>אני לא ארגע משום דבר </l>
+          <l>מלבד האהבה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תגיד לי איך אתה נותן הכל, </l>
+          <l>מחבק אפילו בלי לשאול </l>
+          <l>כמה זה עולה. </l>
+          <l>ואוהב בלי גבולות, </l>
+          <l>בתוך העיר הזאת, </l>
+          <l>שבה הכל חולה. </l>
+          <l>אתה מביט איך בניינים גבוהים </l>
+          <l>כולאים מאות של אנשים </l>
+          <l>שחושבים שכסף יעשה קסמים, </l>
+          <l>שמשקרים לאנשים הכי קרובים, </l>
+          <l>משחקים בלהרגיש, </l>
+          <l>כובשים כדי להיות נאהבים. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בתוך כל השקרים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

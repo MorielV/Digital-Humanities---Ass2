@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני במצב</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני במצב</head>
+        <lg number="1" type="stanza">
+          <l>שמיים של חו"ל אבל לשמש שיניים</l>
+          <l>הקיץ כאן לא לוקח שבויים לא רואה בעיניים</l>
+          <l>ויום ראשון סתמי הופך ליום הדין בשבילך</l>
+          <l>עורב על עמוד חשמל הוא צורח</l>
+          <l>מקלל אותך בשפת העורבים ובורח</l>
+          <l>בחוץ דביק וחם מזרח תיכון ישן</l>
+          <l>שהולך נגדך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני במצב אני חייב אולי איזו תרופה</l>
+          <l>עולם מטורף מפנה לי את הגב</l>
+          <l>אולי זאת רק תקופה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכבר על גלגל מצאיות רנדומאלי</l>
+          <l>כאילו שפוי כאילו נורמאלי</l>
+          <l>כשמדינה שלמה עוברת באדום</l>
+          <l>הקיץ לא היה מלחמה איזה יופי</l>
+          <l>נברך את כול העוסקים במלאכה בלי דופי</l>
+          <l>נגיד יפה תודה לראש הממשלה </l>
+          <l>תודה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני במצב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

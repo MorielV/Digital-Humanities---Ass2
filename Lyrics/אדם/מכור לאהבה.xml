@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מכור לאהבה</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>נאוה ברוכין</writer>
+        <composer>אהוד מנור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מכור לאהבה</head>
+        <lg number="1" type="stanza">
+          <l>את אמרת, שנרשום,</l>
+          <l>שיא חדש בעוצמה של החום.</l>
+          <l>את אמרת, שנלגום,</l>
+          <l>זה את זה כל חיינו עד תום.</l>
+          <l>אך הלכת וסגרת את ליבך,</l>
+          <l>לאחד שמכור ליופייך, לגופך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא נגמל, על סף שיגעון.</l>
+          <l>מכור ואין לי תקווה.</l>
+          <l>לא נגמל, בתוך אבדון,</l>
+          <l>מכור לאש אהבה.</l>
+          <l>בואי לא נגמל, זה חונק בגרון,</l>
+          <l>מכור ואין לי תקווה.</l>
+          <l>לא נגמל, זהו יום אחרון,</l>
+          <l>מכור לאש אהבה. תני לי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מנסה לחייך, לא יכול כאבים לשכך.</l>
+          <l>מתייסר, בזכרך.</l>
+          <l>לו יכולתי עכשיו לנשקך.</l>
+          <l>מי היה מאמין שאמות,</l>
+          <l>שאני אתמכר לרכות, זאת טעות!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא נגמל, על סף שיגעון.</l>
+          <l>מכור ואין לי תקווה.</l>
+          <l>לא נגמל, בתוך אבדון,</l>
+          <l>מכור לאש אהבה, בואי...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא נגמל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

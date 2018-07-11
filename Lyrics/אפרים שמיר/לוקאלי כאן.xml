@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לוקאלי כאן</title>
+        <singer classification="male singer">אפרים שמיר</singer>
+        <writer>אפרים שמיר</writer>
+        <composer>אפרים שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לוקאלי כאן</head>
+        <lg number="1" type="stanza">
+          <l>יום חמישי </l>
+          <l>החמישי הגדול </l>
+          <l>אולי לקראת הערב ככה נצא או משהו </l>
+          <l>שימי את השמלה שקניתי לך </l>
+          <l>כן את הבהירה </l>
+          <l>אולי נלך לרקוד - או לאכול באיזו מסעדה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי נצא ונחרוש את העיר </l>
+          <l>כי יש מה לראות וכיף להיות צעיר </l>
+          <l>אין מקום שטוב מזה </l>
+          <l>יום חמישי תל אביב oh yeah </l>
+          <l>מה לעשות עם מי לעשות את זה </l>
+          <l>לאן ללכת אם מי לחזור משם </l>
+          <l>פסטורלי, פרובינציאלי </l>
+          <l>אני נהנה להיות לוקאלי כאן </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הו... התל אביב יודעת זמנים קשים </l>
+          <l>היה ערני ותיזהר מהמתאבדים </l>
+          <l>תאכל אוכל דיאטתי קח סרוקסאט </l>
+          <l>להפגת מתחים </l>
+          <l>כי החיים בלבלו כאן את כל האנשים הטובים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואי נצא... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מונומנטלי קונספטואלי </l>
+          <l>קצת בנאלי וקצת משוגע </l>
+          <l>פסטורלי פרובינציאלי </l>
+          <l>אני נהנה להיות לוקאלי כאן </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>קם בבוקר ומתפעל מזה </l>
+          <l>וברחוב מתייחיסים אלי יפה </l>
+          <l>פסטורלי פרובינציאלי </l>
+          <l>אני נהנה להיות לוקאלי </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>איש עם זקן וילד יפה </l>
+          <l>לוקחים את האוטו הולכים "למנקה" </l>
+          <l>פסטוראלי פרווינצילי </l>
+          <l>בא לי לא בא לי אני לוקאלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

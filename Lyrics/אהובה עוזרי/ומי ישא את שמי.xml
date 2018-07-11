@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ומי ישא את שמי</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ומי ישא את שמי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>ומי ישא את שמי</l>
+          <l>ומי יכאב כבודי</l>
+          <l>אללה בלי בחורי</l>
+          <l>אללה בלי בחורי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איה אתה בני</l>
+          <l>נטשת את עיני</l>
+          <l>מצאת מנוחה </l>
+          <l>בחיי המשפחה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על פת תישני</l>
+          <l>כלמות היחידי</l>
+          <l>אוהב אותך בני</l>
+          <l>בחיי כבודי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ומי ישא את שמי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

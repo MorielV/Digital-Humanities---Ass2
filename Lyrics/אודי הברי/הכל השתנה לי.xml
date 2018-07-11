@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכל השתנה לי</title>
+        <singer classification="unknown">אודי הברי</singer>
+        <writer>גילי זכאי</writer>
+        <composer>גילי זכאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכל השתנה לי</head>
+        <lg number="1" type="stanza">
+          <l>פתאום לא נרדם בקלות</l>
+          <l>רוצה אותך כל רגע</l>
+          <l>זכרונות הולמים בי בכח</l>
+          <l>טעות רדפה טעות נסחף כמו רוח</l>
+          <l>מתמלא ריקנות רוצה לנוח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פתאום לא צוחק בקלות</l>
+          <l>קורא לך שתבואי</l>
+          <l>אולי תרגיעי כמו ליטוף</l>
+          <l>רגע אחד בלעדייך נמשך כמו מליון רגעים</l>
+          <l>חזרי אלי צריך אותך איתי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הכל השתנה לי</l>
+          <l>אפילו צלצול השעון כאילו שואל</l>
+          <l>מה קרה לי</l>
+          <l>מה כבר אוכל לספר?</l>
+          <l>הכל השתנה לי</l>
+          <l>אולי בסופו של דבר הזמן יסדר</l>
+          <l>את מה שנשבר בי</l>
+          <l>אולי גם אלי תחזרי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>צריך אותך כאן לידי</l>
+          <l>חשבתי שאצליח להתגבר עלייך, שוב</l>
+          <l>טעיתי כל כך ועכשיו</l>
+          <l>אוהב אותך כמו שכתוב</l>
+          <l>אשמור אותך לעד בתוך ליבי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הכל השתנה לי...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כאילו שואל מה קרה</l>
+          <l>מתי כבר אלי... תחזרי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

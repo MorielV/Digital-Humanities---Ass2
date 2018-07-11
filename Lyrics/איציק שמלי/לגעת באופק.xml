@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לגעת באופק</title>
+        <singer classification="male singer">איציק שמלי</singer>
+        <writer>איציק שמלי</writer>
+        <composer>איציק שמלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לגעת באופק</head>
+        <lg number="1" type="stanza">
+          <l>כל שתבקש כל שתחלום, אם תאמין אתה יכול</l>
+          <l>ולטפס מעל כל הר ולדלג מעל מכשול</l>
+          <l>אף פעם לא תלמד לקום, אם לא תיפול</l>
+          <l>ואם תביט היטב מולך, האופק לא רחוק ממך</l>
+          <l>תפתח את כל חדרי ליבך ותאמין בעצמך, ותאמר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני יכול להיות הכל, אני חזק אני גדול</l>
+          <l>אני אגשים את החיים, אני חייב להאמין</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ברגעים קשים אל תשפיל מבט</l>
+          <l>ותחייך אל הימים שיבואו לטובה</l>
+          <l>גם אם הדרך ארוכה</l>
+          <l>כל מסע מתחיל בצעדים קטנים</l>
+          <l>ואם תביט היטב מולך, האופק לא רחוק ממך</l>
+          <l>תפתח את כל חדרי ליבך, ותאמין בעצמך, ותדע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני יכול להיות הכל, אני חזק אני גדול</l>
+          <l>אני אגשים את החיים, אני חייב להאמין</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אתה יכול להיות הכל, אתה חזק אתה גדול</l>
+          <l>אתה תגשים את החיים, אתה חייב להאמין</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כל שתבקש, כל שתחלום</l>
+          <l>אם תאמין...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

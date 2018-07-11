@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קצה</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>ספטמבר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קצה</head>
+        <lg number="1" type="stanza">
+          <l>על האגו הזה להגיע לקצה</l>
+          <l>עד שלא יהיה לו כבר לאן להמלט</l>
+          <l>עד שכל כך נזדקק כבר לתקנו</l>
+          <l>עד שממש כבר לא נוכל לשבת </l>
+          <l>בתוכו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רק כשנכיר את כל הרע </l>
+          <l>שמתביש אל מול האור </l>
+          <l>רק כשנרגיש שכל שנוי צורה</l>
+          <l>כבר לא יוביל לשום דבר שטוב</l>
+          <l>נבין שאי אפשר לבד רק ביחד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מיליון או דולר</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>שמואל אלבז</composer>
+        <album>צליל מיתר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מיליון או דולר</head>
+        <lg number="1" type="stanza">
+          <l>בתיבת הדואר מחכים לי מכתבים</l>
+          <l>נערות כותבות לי סיפורים כל כך יפים</l>
+          <l>שולחות תמונה ובתמונה הן צוחקות</l>
+          <l>חותמות אותה בנשיקות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש אחת נועזת ישירה ועניינית</l>
+          <l>ואחרת מתוקה צנועה וביישנית</l>
+          <l>מביט בהן כולן יפות ומקסימות</l>
+          <l>רק מכתבים וחלומות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם החיוך שלך שווה מיליון או דולר</l>
+          <l>הדביקי בול שלחי אותו אלי בדואר</l>
+          <l>אם את רוצה לכבוש אותי ולהפתיע</l>
+          <l>את יכולה לבוא אלי בלי להודיע</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לפעמים בלילה אני סתם יושב לבד</l>
+          <l>מסתגר לי ושוקע במכתב אחד</l>
+          <l>אל המבט שבתמונה אני נסחף</l>
+          <l>ומנשק לה על האף</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם זו את כותבת אז בטוח שתדעי</l>
+          <l>שאותך נישקתי כשהייתי לבדי</l>
+          <l>את לא יודעת שאני בך מאוהב</l>
+          <l>ומחכה לעוד מכתב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אם החיוך שלך שווה מיליון או דולר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

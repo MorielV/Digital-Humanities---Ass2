@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רכבת ההפתעות</title>
+        <singer classification="unknown">אלי גורנשטיין</singer>
+        <writer>לאה נאור</writer>
+        <composer>עוזי חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רכבת ההפתעות</head>
+        <lg number="1" type="stanza">
+          <l>הרכבת מתקרבת, הרכבת מגיעה</l>
+          <l>בואו ונצא לדרך, הצטרפו לנסיעה</l>
+          <l>ובאים נוסעים אל התחנה</l>
+          <l>אין להם כרטיסים</l>
+          <l>רק ריקוד ומנגינה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>צ'יק צ'אק צ'יק צ'אק על הפסים</l>
+          <l>הנה באה הרכבת וכולם נוסעים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא ניגשת אל הקשת, פיף פיף פיף עולה עשן</l>
+          <l>ופתאום היא מתעקשת לעלות אל הענן</l>
+          <l>ובאים נוסעים אל התחנה</l>
+          <l>אין להם כרטיסים</l>
+          <l>רק ריקוד ומנגינה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>צ'יק צ'אק צ'יק צ'אק...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הקטר צופר בקצב ושרים הגלגלים,</l>
+          <l>זו רכבת מיוחדת שדוהרת בגלים.</l>
+          <l>ובאים נוסעים אל התחנה</l>
+          <l>אין להם כרטיסים</l>
+          <l>רק ריקוד ומנגינה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>צ'יק צ'אק צ'יק צ'אק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

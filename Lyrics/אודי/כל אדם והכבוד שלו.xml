@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל אדם והכבוד שלו</title>
+        <singer classification="unknown">אודי 4</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל אדם והכבוד שלו</head>
+        <lg number="1" type="stanza">
+          <l>כל אדם ילדה והכבוד שלו</l>
+          <l>כל אדם ילדה והמזל שלו</l>
+          <l>יום יבוא ילדה את עוד תראי</l>
+          <l>שאין מחיר לרגשות שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלוהים אנא תן לי</l>
+          <l>עוד דקה להיות חזק</l>
+          <l>אלוהים מה קורה לי</l>
+          <l>עוד דקה אני נחנק</l>
+          <l>על כבודי ילדה שמרתי</l>
+          <l>ושמרי גם על כבודך</l>
+          <l>ולאן שאת הולכת</l>
+          <l>אלוהים יאיר דרכך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה מפריד את הטובים מן הרעים</l>
+          <l>התמימות האמונה של החיים</l>
+          <l>כאן כולנו ילדים של אלוהים</l>
+          <l>בשבילו אין גדולים ואין קטנים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלוהים אנא תן לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

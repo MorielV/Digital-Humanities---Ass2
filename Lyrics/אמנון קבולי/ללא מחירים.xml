@@ -1,0 +1,39 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ללא מחירים</title>
+        <singer classification="male singer">אמנון קבולי</singer>
+        <writer>אמנון קבולי</writer>
+        <composer>אמנון קבולי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ללא מחירים</head>
+        <lg number="1" type="stanza">
+          <l>השמש הזאת היא של כולם</l>
+          <l>האדמה וגם הים</l>
+          <l>עצים ופרחים, פירות וצבעים</l>
+          <l>לנשום, לחלום ללא מחירים</l>
+          <l>ואהבה בנפשכם</l>
+          <l>שום כסף לא יגזול זאת מכם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

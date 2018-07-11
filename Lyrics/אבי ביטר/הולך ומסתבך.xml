@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הולך ומסתבך</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הולך ומסתבך</head>
+        <lg number="1" type="stanza">
+          <l>את אישה וגם ילדה</l>
+          <l>את חושי את מטריפה</l>
+          <l>אהבתך אותי שבתה</l>
+          <l>ואת יפה ומתוקה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את רוצה תמיד לרקוד</l>
+          <l>אך רגלייך קצת עיפות</l>
+          <l>את רואה הכל ורוד</l>
+          <l>בעינייך המתוקות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא ישנתי בגללך</l>
+          <l>זה הולך ומסתבך</l>
+          <l>אני חי בעולמך</l>
+          <l>שבוי אני ברשתך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>משכת אותי אל חוף הים</l>
+          <l>מתעטף בך עד זריחה</l>
+          <l>את חודרת אל הדם</l>
+          <l>אין לי רגע מנוחה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וכשאת סוף סוף עייפת</l>
+          <l>כתינוקת את נרדמת</l>
+          <l>המלאך ממך ניבט</l>
+          <l>בסערה אותי כבש</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא ישנתי בגללך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

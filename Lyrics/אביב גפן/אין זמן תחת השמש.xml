@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין זמן תחת השמש</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>עם הזמן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין זמן תחת השמש</head>
+        <lg number="1" type="stanza">
+          <l>היום, אולי היום האחרון</l>
+          <l>אולי נצא מהשעון</l>
+          <l>לתקתוקי הנצח</l>
+          <l>אז בואי, נתפוס לנו מקום</l>
+          <l>נגנוב לנו חלום</l>
+          <l>לפני שנתעורר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין זמן תחת השמש</l>
+          <l>אין זמן תחת השמש</l>
+          <l>לריבים ומלחמות</l>
+          <l>אין זמן תחת השמש</l>
+          <l>אין זמן תחת השמש</l>
+          <l>אין זמן לחכות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי זה השיר האחרון</l>
+          <l>מילים אחרונות</l>
+          <l>של משורר גרוע</l>
+          <l>אני שונא להיפרד</l>
+          <l>פוחד מהמפגש</l>
+          <l>עם מישהו לא ידוע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין זמן תחת השמש...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כמה טעויות עשיתי בדרך לאסון הבא</l>
+          <l>מה הייתי משנה כבר לו חזרתי אל ההתחלה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אין זמן תחת השמש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין לך כלום</title>
+        <singer classification="unknown">אבירם צור</singer>
+        <writer>אבירם צור</writer>
+        <composer>אבירם צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין לך כלום</head>
+        <lg number="1" type="stanza">
+          <l>אין לך כלום הוא אמר לי </l>
+          <l>זו רק הרגשה </l>
+          <l>אתה יכול לקום עכשיו </l>
+          <l>אין בַּזה בושה </l>
+          <l>אין לך כלום הוא צעק לי </l>
+          <l>כדאי שתבין </l>
+          <l>תפסיק להתעסק </l>
+          <l>רק תמתין </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך אין לי כלום </l>
+          <l>זה כל כך ברור </l>
+          <l>יודע </l>
+          <l>לא סוף הסיפור </l>
+          <l>איך אין לי כלום </l>
+          <l>זה כל כך חמור </l>
+          <l>שומע </l>
+          <l>שוב מתחיל לו הסיפור </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין לך כלום הוא אמר לי... </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך אין לי כלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

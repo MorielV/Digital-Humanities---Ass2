@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד הלילה</title>
+        <singer classification="male singer">איתי פרל</singer>
+        <writer>איתי פרל</writer>
+        <composer>איתי פרל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד הלילה</head>
+        <lg number="1" type="stanza">
+          <l>הלילה אני לא אביט בראי</l>
+          <l>מכיר כבר יותר מדי טוב את עצמי</l>
+          <l>ואם את הולכת, אלך גם אני</l>
+          <l>ולא אראה אותך יותר כל החיים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הלילה אני לא אסביר את עצמי</l>
+          <l>יותר מדי זמן שעבר בשבילי</l>
+          <l>ואם כבר בכית אבכה גם אני</l>
+          <l>ולא אצחק יותר כמעט כל החיים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אבל בקרוב יהיה ברור מה מותר ומה אסור</l>
+          <l>מה נשאר ומי שבור</l>
+          <l>ומה שכבר לא נוכל לרצות מאיים עכשיו לקרות</l>
+          <l>עוד הלילה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הלילה אני לא אביך את עצמי</l>
+          <l>עשית זאת יותר מדי טוב בשבילי</l>
+          <l>אם את צוחקת אצחק גם אני</l>
+          <l>ולא אבכה יותר כמעט כל החיים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אבל בקרוב יהיה ברור מה מותר ומה אסור</l>
+          <l>מה נשאר ומי שבור</l>
+          <l>ומה שכבר לא נוכל לרצות מאיים עכשיו לקרות</l>
+          <l>עוד הלילה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הלילה אני לא אביט בראי</l>
+          <l>אראה אותך כאן ועכשיו למולי</l>
+          <l>ואם את נשארת, אשאר גם אני</l>
+          <l>לא אעזוב אותך יותר כל החיים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

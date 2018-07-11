@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילד אל תבכה</title>
+        <singer classification="unknown">אורית אסף</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילד אל תבכה</head>
+        <lg number="1" type="stanza">
+          <l>ילד אל תבכה</l>
+          <l>למעלה האל שומר אותנו</l>
+          <l>וגם ממני לאהבה אתה תזכה</l>
+          <l>אל תפחד, לא תאבד</l>
+          <l>יבוא יום יפה</l>
+          <l>ילד אל תבכה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד יהיה בסדר אנו מקווים</l>
+          <l>אך על פני המים אנו נסחפים</l>
+          <l>אנא אנא ילד חבק אותי חזק</l>
+          <l>נביט קדימה, יחד לא נמעד</l>
+          <l>אנא אנא ילד חבק אותי חזק</l>
+          <l>כי מהאופק יום חדש נולד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ילד אל תבכה את כל סודות ליבך גלה לי</l>
+          <l>ביחד ננסה למצוא נתיב לך ולי</l>
+          <l>את גבך אל תפנה</l>
+          <l>הבט בי כי אתה שלי</l>
+          <l>ילד אל תבכה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוד יהיה בסדר אנו מקווים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

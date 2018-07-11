@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחפשת אהבה</title>
+        <singer classification="female singer">אסאלה</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחפשת אהבה</head>
+        <lg number="1" type="stanza">
+          <l>כל גבר שפגשתי ידעתי זה לא זה</l>
+          <l>בתוך הלב הרגשתי לא יצא לי כלום מזה</l>
+          <l>שיבוא אביר חלומותי אהבה אתן לו גם עיני</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מחפשת אהבה</l>
+          <l>מחפשת קצת שלווה</l>
+          <l>רוצה רוצה מילה טובה</l>
+          <l>רק להיות האחת היחידה</l>
+          <l>האמצא את האהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל חברי אמרו לי אמרו לי עד מתי</l>
+          <l>עדיין מתלבטת וזה לא כדאי</l>
+          <l>לא לנצח הם הנעורים כאן אמצא לי גבר בגברים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מחפשת אהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

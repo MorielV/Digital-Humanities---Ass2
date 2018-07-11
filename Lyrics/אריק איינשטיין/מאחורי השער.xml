@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאחורי השער 2</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>חיים נחמן ביאליק</writer>
+        <composer>שם טוב לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאחורי השער</head>
+        <lg number="1" type="stanza">
+          <l>בת יונים הומיה,</l>
+          <l>בת יונים בהירה,</l>
+          <l>נחתני בים</l>
+          <l>על כנפי הסירה</l>
+          <l>ותוליכני לארץ הבחירה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הוי, אימרו הגלים,</l>
+          <l>הדגים במצולה,</l>
+          <l>איך אבוא בשערי</l>
+          <l>ארץ הסגולה,</l>
+          <l>ומפתחי שבור,</l>
+          <l>והדלת נעולה?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין קול ואין עונה -</l>
+          <l>ויונה עם נער</l>
+          <l>עדיין מתדפקים</l>
+          <l>על דלת השער.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

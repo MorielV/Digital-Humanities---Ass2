@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר האדמה</title>
+        <singer classification="unknown">אלכס 3</singer>
+        <writer>דודו ברק</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר האדמה</head>
+        <lg number="1" type="stanza">
+          <l>מהרים עולה החמה,</l>
+          <l>שוב מן הבית אצא בדממה,</l>
+          <l>אל השלף, אל שדות החממה,</l>
+          <l>תלמים לחרוש באימא אדמה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זרע אטמין אז בדמעה</l>
+          <l>ושוב אנביט חיטה בדמה.</l>
+          <l>ברינה אקצור בקמה,</l>
+          <l>לחם לך אביא, מאמא אדמה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שיר האדמה הוא שיר ימי,</l>
+          <l>שיר הנשמה שבעורקי,</l>
+          <l>שיר הנחמה שבדמי,</l>
+          <l>שיר האדמה, הוא שיר חיי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מפרייה אטעם ואגמע</l>
+          <l>ומיינה אשתה עוד בצמא,</l>
+          <l>שורשיי אכה עוד ברמה,</l>
+          <l>אשוב אליה עוד, אל אמא אדמה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שיר האדמה הוא שיר ימי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

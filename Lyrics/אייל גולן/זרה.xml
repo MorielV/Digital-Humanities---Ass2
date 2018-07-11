@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זרה</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>חייל של אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זרה</head>
+        <lg number="1" type="stanza">
+          <l>אמרת את מר ליבך</l>
+          <l>והיית לי כה זרה</l>
+          <l>הייתי די רגוע</l>
+          <l>גם כשאת היית קרה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מילים כמו סכין</l>
+          <l>ועיניים אש יוקדות</l>
+          <l>שאלתי אז מדוע</l>
+          <l>את סובבת סביב פרידות -</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ליבך הוא לב של אבן</l>
+          <l>עם שיח לצידו</l>
+          <l>דקה אחת הוא ורד</l>
+          <l>ומיד הופך עורו</l>
+          <l>אשקה אותו בלי הרף</l>
+          <l>שיפרח כל השנה</l>
+          <l>תהיי אישה אוהבת</l>
+          <l>ואני שלך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אמרת את מר ליבך</l>
+          <l>ולא היה לך מה לומר</l>
+          <l>לרגע קט חשבתי</l>
+          <l>שהייתי לך לזר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הכיתי על כל חטא</l>
+          <l>גם כשלא עשיתי כלום</l>
+          <l>ואת תמיד אמרת לי:</l>
+          <l>"אהבה היא שיעמום" -</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ליבך הוא לב של אבן</l>
+          <l>עם שיח לצידו</l>
+          <l>דקה אחת הוא ורד</l>
+          <l>ומיד הופך עורו</l>
+          <l>אשקה אותו בלי הרף</l>
+          <l>שיפרח כל השנה</l>
+          <l>תהיי אישה אוהבת</l>
+          <l>ואני שלך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

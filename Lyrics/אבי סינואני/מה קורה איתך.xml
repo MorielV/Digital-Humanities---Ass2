@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה קורה איתך</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה קורה איתך</head>
+        <lg number="1" type="stanza">
+          <l>מה קורה איתך אני כבר לא יודע</l>
+          <l>זה לא היה מזמן אבל מתגעגע</l>
+          <l>רק רציתי לספר מה שהשארת בליבי</l>
+          <l>הזכרונות איתך עלו, אוחזים בתוכי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יושב בחדר מסתגר</l>
+          <l>אולי יש לך כבר אדם אחר</l>
+          <l>את זה לא רוצה לדעת לעולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חשבתי שאולי כדאי שנדבר</l>
+          <l>אני לא מסתדר כמו גל אותי שובר</l>
+          <l>את היחידה שעושה לי את זה</l>
+          <l>ובלעדייך מה שווה כל העולם הזה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הולך מפה לשם</l>
+          <l>מתהלך לבד בדרך</l>
+          <l>הזמן עוצר איתך</l>
+          <l>אני שבור בלי ערך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תדעי שאני כל כך דואג</l>
+          <l>אני פשוט אותך אוהב</l>
+          <l>הכל הפוך עכשיו אצלי</l>
+          <l>אולי אצלי תישארי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יושב בחדר מסתגר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

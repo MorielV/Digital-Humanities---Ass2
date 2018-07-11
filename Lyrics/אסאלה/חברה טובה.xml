@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חברה טובה</title>
+        <singer classification="female singer">אסאלה</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חברה טובה</head>
+        <lg number="1" type="stanza">
+          <l>חברה טובה שלי אמרה לי</l>
+          <l>שאתה משוגע ועושה בלאגן כל הזמן</l>
+          <l>לא איכפת לי מה אומרים עליך</l>
+          <l>אוהבת אותך וזה כל העניין</l>
+          <l>אני לא יודעת מה קרה לימנסה מנסה ולא מבינה</l>
+          <l>מכל המשחקים שלך נישבר לי</l>
+          <l>אתה לא מבין מה זאת אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קשה לי קשה לי.</l>
+          <l>מה אתה עושה לי?</l>
+          <l>כל הלילה לא נרדמתי</l>
+          <l>חלמתי עליך ורק חלמתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מצלצלת אליך רוצה רק לדבר,</l>
+          <l>אולי תבין כבר שאין לי חבר אחר </l>
+          <l>אתה לא הקשבת ולא התחשבת</l>
+          <l>משחק בי ולי הכאבת</l>
+          <l>מצלצלת אליך רוצה רק לדבר</l>
+          <l>אולי תבין כבר שאין לי חבר אחר</l>
+          <l>אתה לא הקשבת</l>
+          <l>ולא התחשבת</l>
+          <l>משחק בי, ולי הכאבת.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא ידועת מה אתה עושה לי</l>
+          <l>אתה פשוט משגע אותי ועושה לי צרות</l>
+          <l>לא הבנתי למה זה קורה לי</l>
+          <l>הכל בלאגן ויש לי בעיות</l>
+          <l>אני חשבתי כל הזמן עליך</l>
+          <l>מנסה מנסה מנסה להבין מה קורה לי איתך</l>
+          <l>אם אתה חשוב עלי כרגע</l>
+          <l>אני מחכה לך ורק לך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>קשה לי קשה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

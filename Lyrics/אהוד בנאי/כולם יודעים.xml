@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כולם יודעים 2</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>אהוד בנאי</writer>
+        <composer>אהוד בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כולם יודעים</head>
+        <lg number="1" type="stanza">
+          <l>אם לא תרצי אותי אני עוזב מיד</l>
+          <l>תופס רכבת בורח להרים</l>
+          <l>אל תחפשי אותי אני חוזר לבד</l>
+          <l>ולא עוזב אותך יותר כל החיים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהובתי, הקשיבי אל העפרוני,</l>
+          <l>מאיר היום, אנחנו כאן חיים</l>
+          <l>עוד יום אחד בדרך כשאת לצידי,</l>
+          <l>איך זה נגמר בסוף, כולם יודעים.</l>
+          <l>כן, כולם יודעים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היום הזה חולף כמעט כמו כל יום</l>
+          <l>ולפעמים אנחנו כל כך עייפים</l>
+          <l>אני כועס ואת מוחה דמעה,</l>
+          <l>ויש לחזור ולאסוף את הרסיסים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אחרי כל זה אולי נפליג לאיזה אי</l>
+          <l>על קו החוף ישוטטו הילדים,</l>
+          <l>שושן אדום אני אקטוף לשערך</l>
+          <l>כשמעלינו חופה של כוכבים.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אהובתי הביטי איך יורד היום</l>
+          <l>כמו חלום, כמו חזיון תעתועים,</l>
+          <l>ואם את מרגישה אותי רחוק פתאום</l>
+          <l>אל תפחדי זה רק לכמה רגעים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אהובתי, הקשיבי אל העפרוני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

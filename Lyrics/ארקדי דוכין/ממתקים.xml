@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ממתקים</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>עידו ברון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ממתקים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הנה אנחנו שוב בפעם האחרונה</l>
+          <l>על אחת הבמות שרים שיר אחד</l>
+          <l>שבקושי הספקנו</l>
+          <l>רוקדים ריקוד עבור קהל</l>
+          <l>אתה שוכב פרקדן</l>
+          <l>אני אקצה לזה דמעה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הנה אנחנו שוב בפעם האחרונה </l>
+          <l>על אחת הבמות שרים שיר אחד</l>
+          <l>שבקושי הספקנו</l>
+          <l>רוקדים ריקוד עבור קהל </l>
+          <l>אתה שוכב פרקדן</l>
+          <l>אני אקצה לזה דמעה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואתה שלו מתמיד וכל כך קשה להביט</l>
+          <l>עטוף בדגל ישראל כשקית של ממתקים</l>
+          <l>כן אתה שלו מתמיד וכל כך קשה להביט</l>
+          <l>עטוף בדגל ישראל כשקית של ממתקים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אותן הדקות השמש אז קפאה</l>
+          <l>מתנה לסיום רגע של שלווה </l>
+          <l>שבקושי הספקנו </l>
+          <l>ואתה רחוק מכאן </l>
+          <l>אני ניצב איתן ומחכה רק לשובך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואתה שלו מתמיד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

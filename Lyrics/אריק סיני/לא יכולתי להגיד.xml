@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא יכולתי להגיד</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>שלמה ארצי</writer>
+        <composer>שלמה ארצי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא יכולתי להגיד</head>
+        <lg number="1" type="stanza">
+          <l>את יודעת ודאי, </l>
+          <l>שכל השירים נכתבו ממך - </l>
+          <l>ובאהבה </l>
+          <l>לא יכולתי להגיד לך </l>
+          <l>יותר ממה ששיר, </l>
+          <l>ששיר אחד פשוט יכול לומר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ולא אמרתי לך יותר ממה </l>
+          <l>ששיר אחד פשוט יכול לומר. </l>
+          <l>הייתי מתאהב שב וחוזר, </l>
+          <l>אף פעם לא אמרתי שיר אחר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל לילה כשקמת </l>
+          <l>הייתי רואה כוכב אחד </l>
+          <l>נתלה בעצב שיערך </l>
+          <l>וכך השיר נולד </l>
+          <l>הייתי מאושר, </l>
+          <l>באהבה אז באתי לידך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ולא אמרתי לך... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כך היינו, עד בוקר מדברים </l>
+          <l>אחד עם השני </l>
+          <l>היינו מדברים </l>
+          <l>לא במילים גדולות, </l>
+          <l>ולא באנשים, </l>
+          <l>רק את, אני והפשוט בשיר </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ולא אמרתי לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

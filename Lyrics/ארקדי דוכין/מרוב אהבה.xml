@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מרוב אהבה</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>יוסי בנאי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מרוב אהבה</head>
+        <lg number="1" type="stanza">
+          <l>כשההוא אוהב את ההיא</l>
+          <l>תמיד הוא אומר לה,</l>
+          <l>חוזר ואומר לה</l>
+          <l>כמה היא אלוהית.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשענן אוהב עננה</l>
+          <l>תמיד הוא אומר לה,</l>
+          <l>חוזר ואומר לה:</l>
+          <l>את כל כך עדינה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ורק אני מרוב אהבה שותק...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשהזבוב אוהב ת'זבובית</l>
+          <l>תמיד הוא אומר לה,</l>
+          <l>חוזר ואומר לה</l>
+          <l>מכולן יפיפית.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשהפיל אוהב ת'פילה</l>
+          <l>תמיד הוא אומר לה,</l>
+          <l>חוזר ואומר לה:</l>
+          <l>בואי בואי כלה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ורק אני מרוב אהבה שותק...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כשמלאך אוהב מלאכית</l>
+          <l>תמיד הוא אומר לה</l>
+          <l>חוזר ואומר לה</l>
+          <l>את הכי חתיכית</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>כשהפסיק אוהב ת'נקודה</l>
+          <l>תמיד הוא אומר לה</l>
+          <l>חוזר ואומר לה</l>
+          <l>שהוא פסיק על ידה</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>ורק אני מרוב אהבה שותק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

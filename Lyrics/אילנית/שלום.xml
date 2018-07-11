@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלום 12</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>זרובבלה ששונקין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלום</head>
+        <lg number="1" type="stanza">
+          <l>שלום - </l>
+          <l>אומר הילד הלומד ללכת</l>
+          <l>שלום -</l>
+          <l>אומר השחר הפורש כנף</l>
+          <l>שלום -</l>
+          <l>החמנית לשמש מחייכת</l>
+          <l>והשקיעה אל הכוכב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מילה קטנה אחת</l>
+          <l>פשוטה ולא נשכחת</l>
+          <l>והיא שלי ושלכם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שלום -</l>
+          <l>נושק הרוח לערבות הנחל</l>
+          <l>שלום -</l>
+          <l>עצי הברוש אל התפוז קורצים</l>
+          <l>שלום -</l>
+          <l>הכלנית לסביונים שולחת</l>
+          <l>והשפלה אל ההרים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מילה קטנה אחת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שלום -</l>
+          <l>עצי הזית לתמר שולחים פה</l>
+          <l>שלום -</l>
+          <l>איש לרעהו כשעוברים ברחוב</l>
+          <l>שלום -</l>
+          <l>כל יום חדש אשר אדם ושיר בו</l>
+          <l>יודעים עדין לאהוב</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מילה פשוטה אחת </l>
+          <l>קטנה ולא נשכחת</l>
+          <l>והיא שלי ושלכם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

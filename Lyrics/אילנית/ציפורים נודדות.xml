@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציפורים נודדות</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציפורים נודדות</head>
+        <lg number="1" type="stanza">
+          <l>עם הסתיו חזרו הציפורים</l>
+          <l>מעבר למדבר, מעבר להרים.</l>
+          <l>והוא ראה אותה על הענף</l>
+          <l>והיא כחולת נוצה, והיא דקת כנף.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה היה עם בוא הסתיו,</l>
+          <l>הוא אותה כל כך אהב,</l>
+          <l>היתה יפה כמו בשירים,</l>
+          <l>כמו בסתיו הציפורים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא בנה לה קן מעשבים,</l>
+          <l>והיא ליקטה זרעים מתוך הרגבים.</l>
+          <l>והוא שרק לה שיר של אהבה</l>
+          <l>והיא נתנה לו שי, נוצה מתוך זנבה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה היה עם בוא הסתיו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ובחורף, בין שקיעות וקור,</l>
+          <l>נשקו הם זה לזו, מקור אלי מקור.</l>
+          <l>ועת חמה זרחה מתוך ענן</l>
+          <l>הם עפו שיכורים אל חורש ואל גן.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה היה עם בוא הסתיו...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>עת אביב חזר אל הכפרים,</l>
+          <l>הוא שב אל המדבר והיא אל ההרים.</l>
+          <l>ורוח שעבר בגן מצא</l>
+          <l>בצל עצי החורש פרח ונוצה.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>זה היה עם בוא הסתיו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתה יכול</title>
+        <singer classification="female singer">אסאלה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתה יכול</head>
+        <lg number="1" type="stanza">
+          <l>אתה יכול במילותיך </l>
+          <l>להפר בי את השקט </l>
+          <l>את השלווה שבי שוכנת </l>
+          <l>להפוך לגיהנום. </l>
+          <l>אתה יכול בשתי עיניך </l>
+          <l>לפתות אותי ללכת, אחריך </l>
+          <l>ולגעת בחלום </l>
+          <l>אתה יכול ממרחקים </l>
+          <l>כמו הרוח להגיע </l>
+          <l>ולמלא באהבה </l>
+          <l>את החלל והבדידות </l>
+          <l>אתה יכול </l>
+          <l>את נשמתי המכושפת להכניע </l>
+          <l>נשיקה אחת כואבת ולמות </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אך לא יהיה לי את הכוח </l>
+          <l>אף פעם לא אדע לסלוח </l>
+          <l>אם בליבך תהיה אחרת </l>
+          <l>עוד אומללה ומאושרת </l>
+          <l>ואם אוהב או אשתגע </l>
+          <l>זה בידך אתה יודע </l>
+          <l>אתה יכול, אתה יכול </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה יכול באור עיניך </l>
+          <l>להאיר לי את החושך </l>
+          <l>במבט שמבטל בי נדרים והבטחות </l>
+          <l>אתה יכול בבת אחת </l>
+          <l>לגזול ממני את האושר </l>
+          <l>ולעזוב אותי לבד להנחות </l>
+          <l>אתה יכול בחום שפתיך </l>
+          <l>להמיס אותי כמו מים </l>
+          <l>שאליך אתמזג בכל הגוף והנשמה </l>
+          <l>אתה יכול לתת לי גם לעוף גבוה בשמיים</l>
+          <l>או לטמון ראשי עמוק באדמה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אך לא יהיה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

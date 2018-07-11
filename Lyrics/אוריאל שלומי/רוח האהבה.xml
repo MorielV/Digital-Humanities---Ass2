@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוח האהבה</title>
+        <singer classification="male singer">אוריאל שלומי</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוח האהבה</head>
+        <lg number="1" type="stanza">
+          <l>אור הבוקר בא</l>
+          <l>היא נעלמה לה</l>
+          <l>והוא האמין </l>
+          <l>שהיא האחת</l>
+          <l>לאחר נתנה</l>
+          <l>את מה שהיה לה</l>
+          <l>לה יש אהבה והוא לבד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אנשים מספרים </l>
+          <l>שהוא לא רגוע</l>
+          <l>ליבו מבקש את זו שאהב</l>
+          <l>מאז הלכה הוא כה פגוע</l>
+          <l>עולמו כמו אבד עליו</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה שווה אדם אם לצידו</l>
+          <l>אין אשה אוהבת</l>
+          <l>מה שווה אשה</l>
+          <l>אם אין לה</l>
+          <l>מי שיאהב אותה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה שווה אדם</l>
+          <l>אם אין לצידו </l>
+          <l>אשה אוהבת</l>
+          <l>למה להיות לבד</l>
+          <l>לא הכל אבד</l>
+          <l>רוח האהבה</l>
+          <l>עודה נושבת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הימים חולפים </l>
+          <l>וקשה לו לשכוח</l>
+          <l>עליה חולם</l>
+          <l>בלילות הקרים</l>
+          <l>לא מוצא מזור</l>
+          <l>כי אין לו כח</l>
+          <l>לאסוף לבד </l>
+          <l>את השבריים</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עכשיו הוא מבין</l>
+          <l>לומד את הלקח</l>
+          <l>לחיות את היום</l>
+          <l>ולא תעבר</l>
+          <l>אם אהבתה אבדה לנצח</l>
+          <l>מי יודע מה יביא המחר</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>מה שווה אדם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

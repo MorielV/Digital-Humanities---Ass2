@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סינדרלה</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>ציון שרעבי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סינדרלה</head>
+        <lg number="1" type="stanza">
+          <l>מרכבה דוהרת לעבר הארמון</l>
+          <l>סינדי ממהרת קרובה אל ההמון</l>
+          <l>אגדה עוברת מאז ועד היום</l>
+          <l>שמה של סינדרלה שובה את הדמיון</l>
+          <l>רוצה אותך כמוה תמימה בלי נסיון</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמו סינדרלה סינדרלה</l>
+          <l>כמו באגדה מאומה אין לה</l>
+          <l>סינדרלה סינדרלה</l>
+          <l>נערה קטנה נסיך אהיה לה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוצי סינדרלה עוד מעט חצות</l>
+          <l>בקרוב תפסיקי לשטוף ולנקות</l>
+          <l>אימך ואחיותיך יפסיקו בל לרדות</l>
+          <l>נסיך יבוא אליך יאמר לך לנסות</l>
+          <l>יאהב אותך לפתע פשוטה ללא נוצות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמו סינדרלה סינדרלה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

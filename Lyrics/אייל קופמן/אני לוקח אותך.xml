@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני לוקח אותך</title>
+        <singer classification="male singer">אייל קופמן</singer>
+        <writer>אייל קופמן</writer>
+        <composer>אייל קופמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני לוקח אותך</head>
+        <lg number="1" type="stanza">
+          <l>אני לוקח אותך </l>
+          <l>אל מקום אחר </l>
+          <l>בין היום לאוויר </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני פורש אותך </l>
+          <l>על מחצלת חרוזים </l>
+          <l>ולא מפסיק להסתכל </l>
+          <l>אל תוך יופייך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תסתכלי את כל כך יפה </l>
+          <l>אני שוטף את פנייך </l>
+          <l>תסתכלי את כל כך יפה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את מבקשת </l>
+          <l>רק תמשיך לנסוע </l>
+          <l>העצים כמו נוגעים בי </l>
+          <l>אנחנו מטפסים גבוהה </l>
+          <l>מעל היערות מעל הסלעים </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תסתכלי את כל כך יפה </l>
+          <l>אני מלטף את שיערך </l>
+          <l>תסתכלי את כל כך יפה </l>
+          <l>תסתכלי את כל כך יפה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

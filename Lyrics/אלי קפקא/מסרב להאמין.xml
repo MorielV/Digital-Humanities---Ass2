@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מסרב להאמין</title>
+        <singer classification="unknown">אלי קפקא</singer>
+        <writer>מרטין גל</writer>
+        <composer>צחי מור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מסרב להאמין</head>
+        <lg number="1" type="stanza">
+          <l>כמו מטורף בחדרי משוטט</l>
+          <l>את כל מה שקרה, עדיין לא קולט</l>
+          <l>מסרב להאמין</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבקש אלפי סליחות</l>
+          <l>גם על מה שלא עשיתי</l>
+          <l>לו ידעת איך בלילות</l>
+          <l>לחבק אותך רציתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלילות קורא בשמך</l>
+          <l>לא מעכל שאת אינך</l>
+          <l>בכאב יותר לא שולט</l>
+          <l>לא מבין איך אתמודד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לפעמים מאבד שפיות</l>
+          <l>לא מוצא את עצמי</l>
+          <l>לא מבין איך יכול להיות</l>
+          <l>רק אתמול היית פה איתי</l>
+          <l>מסרב להאמין</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אבקש אלפי סליחות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

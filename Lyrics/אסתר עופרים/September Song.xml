@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>September Song</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>Back On Stage</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>September Song</head>
+        <lg number="1" type="stanza">
+          <l>Oh, it's a long, long while</l>
+          <l>From May till December</l>
+          <l>And the days grow short</l>
+          <l>When you reach September</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>And the autumn weather  </l>
+          <l>Turns the leafs to flame  </l>
+          <l>One hasn’t got time for the waiting game</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>And the days dwindle down to a precious few</l>
+          <l>September, November</l>
+          <l>And these few precious days</l>
+          <l>I'll spend with you</l>
+          <l>These precious days</l>
+          <l>I'll spend with you. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l> When you meet with the young men early in spring</l>
+          <l>They court you in song and rhyme</l>
+          <l>They woo you with words and a clover ring</l>
+          <l>But if you examine the goods they bring</l>
+          <l>They have little to offer but the songs they sing</l>
+          <l>And a plentiful waste of time of day</l>
+          <l>And a plentiful waste of time. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l> For it's a long, long while</l>
+          <l>From May till December</l>
+          <l>And the days grow short</l>
+          <l>When you reach September</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>And the autumn weather  </l>
+          <l>Turns the leafs to flame  </l>
+          <l>One hasn’t got time for the waiting game </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>And the days dwindle down to a precious few</l>
+          <l>September, November</l>
+          <l>And these few precious days</l>
+          <l>I'll spend with you</l>
+          <l>These precious days</l>
+          <l>I'll spend with you</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

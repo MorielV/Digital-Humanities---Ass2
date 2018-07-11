@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איש הסתיו</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איש הסתיו</head>
+        <lg number="1" type="stanza">
+          <l>זה היה ביום ענן,</l>
+          <l>אף פלח אור לא היבהב,</l>
+          <l>איש אחד עבר בגן</l>
+          <l>עם שמש בוקר בלב.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איש אחד בהיר מאד</l>
+          <l>עבר בשביל המזהיב,</l>
+          <l>ואפור הפך וורוד</l>
+          <l>וסתיו היה לאביב.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בוא עד הנה</l>
+          <l>חזור לכאן,</l>
+          <l>בוא עד הנה</l>
+          <l>אל שביל הגן</l>
+          <l>עד אלי,</l>
+          <l>חזור אלי מן הסתיו.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>וחלון ביתי צופה</l>
+          <l>אל תוך הגן העזוב,</l>
+          <l>והאיש הזה יפה</l>
+          <l>כמו הסתיו העצוב.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והאיש שלי עובר</l>
+          <l>בדרך טל ועבים,</l>
+          <l>ובליבו הסתיו בוער</l>
+          <l>כמו אלפיים סתווים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בוא עד הנה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>זה היה ביום ענן,</l>
+          <l>אף פלח אור לא היבהב,</l>
+          <l>איש אחד עבר בגן</l>
+          <l>עם שמש בוקר בלב.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>זהו אהובי ששב</l>
+          <l>והוא חידוד וחידה,</l>
+          <l>בוא עד הנה, איש הסתיו,</l>
+          <l>אתה סיפור אגדה.</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>בוא עד הנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

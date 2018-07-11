@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היי בובה</title>
+        <singer classification="male singer">אורי זר</singer>
+        <writer>יואב גינאי</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היי בובה</head>
+        <lg number="1" type="stanza">
+          <l>דיזינגוף בצהריים </l>
+          <l>אוטובוס מספר חמש </l>
+          <l>תחנה אחת או שתיים </l>
+          <l>ואני שוב מתרגש </l>
+          <l>מתקדם כמו כל שבוע </l>
+          <l>אל חלון הראווה </l>
+          <l>היא עומדת שם קבוע </l>
+          <l>כמו תמיד כל כך שלווה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היי בובה </l>
+          <l>היי בובה </l>
+          <l>תני לשפוך לך את הלב </l>
+          <l>היי בובה </l>
+          <l>היי בובה </l>
+          <l>והרגיעי ת'כאב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין לי כסף למשכנתא </l>
+          <l>הסתכלי על העיתון </l>
+          <l>המורל צונח מטה </l>
+          <l>ואני בדיכאון. </l>
+          <l>תחייכי לי רק לרגע </l>
+          <l>או שתזרקי קריצה </l>
+          <l>את בובה אני יודע </l>
+          <l>אבל תני איזו עצה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היי בובה...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הו היי בובה </l>
+          <l>מה אומר לך מה אגיד </l>
+          <l>היי בובה את שותקת כמו תמיד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

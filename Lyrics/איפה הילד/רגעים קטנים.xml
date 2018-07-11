@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רגעים קטנים</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>אסף שריג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רגעים קטנים</head>
+        <lg number="1" type="stanza">
+          <l>ניסע מכאן</l>
+          <l>נברח לא חשוב לאן</l>
+          <l>יש מקום אחד שאני מכיר</l>
+          <l>כל כך יפה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מחניק וצר</l>
+          <l>ימים ללא שמחה</l>
+          <l>ברחובות יש ריח של עצב</l>
+          <l>ישן וחסר תקווה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אהה רגעים קטנים</l>
+          <l>של חסד של אהבה וחמלה</l>
+          <l>אלחש על אוזנך דברים</l>
+          <l>שעושים אותך מאושרת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נברח מהר אין זמן</l>
+          <l>אני מרגיש עיניים דוקרות בגבי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא רוצה לשנוא</l>
+          <l>אבל לא יכול שלא</l>
+          <l>האפרוריות הזאת</l>
+          <l>גואה ומכסה אותנו</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אהה רגעים קטנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

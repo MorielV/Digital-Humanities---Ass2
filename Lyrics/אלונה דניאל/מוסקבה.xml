@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מוסקבה</title>
+        <singer classification="female singer">אלונה דניאל</singer>
+        <writer>אלונה דניאל</writer>
+        <composer>אלונה דניאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מוסקבה</head>
+        <lg number="1" type="stanza">
+          <l>רק בחלום חוזרת לשם</l>
+          <l>מלטפת קוצים של עץ האשוח</l>
+          <l>על מיטה עירומה סיביר נרדמה</l>
+          <l>רק עורבים ושבבים יעופו ברוח</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בין העצים זאבים גוססים</l>
+          <l>רוח חורף תאסוף אותך בדרך</l>
+          <l>על כיכר אדומה מוסקבה נרדמה</l>
+          <l>וצללים של רובים</l>
+          <l>מחליפים משמרת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כלב שמירה שומר על שומרים</l>
+          <l>והשומרים שומרים על דממה</l>
+          <l>ופניהם מוכרות לי למרות האימה</l>
+          <l>כוכבים מוכרים, רובים מוכרים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בין העצים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רק בחלום חוזרת לשם</l>
+          <l>רק בחלום סודי ביותר</l>
+          <l>על הריסים השלג נמס</l>
+          <l>אם אני אתעורר אתעורר בהסגר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

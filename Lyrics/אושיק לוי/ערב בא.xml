@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ערב בא</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>עודד אבישר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ערב בא</head>
+        <lg number="1" type="stanza">
+          <l>שוב העדר נוהר במבואות הכפר,</l>
+          <l>ועולה האבק משבילי עפר.</l>
+          <l>והרחק עוד צמד ענבלים</l>
+          <l>מלווה את משך הצללים.</l>
+          <l>ערב בא, ערב בא.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שוב הרוח לוחש בין גדרות גנים</l>
+          <l>ובצמרת הברוש כבר נמות יונים.</l>
+          <l>והרחק על כתף הגבעות</l>
+          <l>עוד נושקות קרניים אחרונות.</l>
+          <l>ערב בא, ערב בא.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב הורד חולם חלומות בלאט,</l>
+          <l>ופורחים כוכבים במרום אט אט.</l>
+          <l>והרחק בעמק האפל</l>
+          <l>מלווה התן את בוא הליל.</l>
+          <l>ליל רד, ליל רד.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

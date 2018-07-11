@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יכולנו להיות</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>אדם גורליצקי</writer>
+        <composer>אדם גורליצקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יכולנו להיות</head>
+        <lg number="1" type="stanza">
+          <l>באלבום שלא פתחתי</l>
+          <l>נשארו כמה תמונות</l>
+          <l>שלך שלי</l>
+          <l>הכל שם אמיתי</l>
+          <l>נגיעות שלא הספקתי</l>
+          <l>נשרפו באצבעות</l>
+          <l>אני ואת</l>
+          <l>יכולנו להיות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את שומרת תמונות שכבר זרקתי</l>
+          <l>וזוכרת את אתמול</l>
+          <l>את אומרת חבל שלא הגעת</l>
+          <l>אתה מפסיד פה את הכל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחלום שכבר שכחתי</l>
+          <l>כמעט היה לי טוב</l>
+          <l>פתאום ראיתי אושר מקרוב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>במילים שלא אמרנו</l>
+          <l>מצאתי נחמה</l>
+          <l>בסוף אמצא לי דרך חדשה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

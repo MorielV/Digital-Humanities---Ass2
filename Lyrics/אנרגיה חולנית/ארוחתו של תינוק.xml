@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ארוחתו של תינוק</title>
+        <singer classification="band">אנרגיה חולנית</singer>
+        <writer>אריה פיין</writer>
+        <composer>אורטויה לאדנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ארוחתו של תינוק</head>
+        <lg number="1" type="stanza">
+          <l>בארון הפתוח סרטי הקולנוע וגם המקרנה</l>
+          <l>על סלילים ישנים סרטי אימה וגועל רדומים שישים שנה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ג'ורג'י קם לו בבוקר, זחל על הרצפה</l>
+          <l>ג'ורג'י קם לו בבוקר, נכנס לארון וקפא.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל הזאבים בבטן של ג'ורג'י</l>
+          <l>כל הזאבים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשהקרין את החושך, דלקו העיניים, גמעו תמונה תמונה</l>
+          <l>מול ירח מלא נרות בזים לרוח דולקים שישים שנה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ג'ורג'י קם לו בבוקר, ירח התרוקן</l>
+          <l>ג'ורג'י קם לו בבוקר, גילה בארון איש זקן.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

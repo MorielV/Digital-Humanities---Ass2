@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא עוצרת 2</title>
+        <singer classification="unknown">אבנר גאנם</singer>
+        <writer>אבנר גאנם</writer>
+        <composer>אבנר גאנם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא עוצרת</head>
+        <lg number="1" type="stanza">
+          <l>שוב עוצרת את הזמן </l>
+          <l>מתחילה עם הפולחן </l>
+          <l>יורת חצים אלי </l>
+          <l>מקדמת את הקרב שלך .. רק שלך </l>
+          <l>בטוחה במטרה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza" />
+        <lg number="3" type="stanza">
+          <l>כל דבר שזז עכשיו </l>
+          <l>קצת ניזהר מהמצב </l>
+          <l>גם אם זה מטווח קצר </l>
+          <l>את לא עוצרת לשנייה ..לשנייה .. </l>
+          <l>בטוחה במטרה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza" />
+        <lg number="5" type="stanza">
+          <l>מים רבים מים רבים </l>
+          <l>לא ישטפו את המילים שלך עכשיו </l>
+          <l>כמו הגלים שנשברים על החופים </l>
+          <l>לא משאירים סימן </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כל הדרך שהלכנו יחד </l>
+          <l>כל הדרך לחינם ? </l>
+          <l>לא אמרנו שלעד זה יחד? </l>
+          <l>לא הספקנו מן הסתם ... </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כבר חצי כוס מלאה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

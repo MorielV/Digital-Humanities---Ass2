@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חוזר כמו ענק</title>
+        <singer classification="male singer">ארי גורלי</singer>
+        <writer>שי להב</writer>
+        <composer>ארי גורלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חוזר כמו ענק</head>
+        <lg number="1" type="stanza">
+          <l>הנה שוב בורח מזירת הפשע</l>
+          <l>הנה שוב חוזר למקום שמקלקל</l>
+          <l>צולל ברפש</l>
+          <l>מתמכר לביזיון</l>
+          <l>הנה רץ הכי רחוק - מגבולות ההיגיון</l>
+          <l>עד אלייך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>"גבר גבר... שקר..."</l>
+          <l>קולות שמנסרים</l>
+          <l>כל מילה נוספת-</l>
+          <l>אלף הדהודים</l>
+          <l>עובד בשקט, מוריד את הבגדים</l>
+          <l>כפתור ועוד כפתור</l>
+          <l>שותק לי מבפנים</l>
+          <l>עד אלייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>משליך הכל בעונג מפוקפק</l>
+          <l>שוב נשבע שזה הסוף, אבל</l>
+          <l>חוזר כמו ענק</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלכת 3</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>יעקב אורלנד</writer>
+        <composer>missing</composer>
+        <album>אריק לביא שר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלכת</head>
+        <lg number="1" type="stanza">
+          <l>עמוק, עמוק העצב בעיניים</l>
+          <l>עמוק, עמוק היין במרתף</l>
+          <l>הלילה את ליבי אקרע לשניים</l>
+          <l>לך ולגביע הנוטף</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל תשאלני מה</l>
+          <l>אל תשאלני איך</l>
+          <l>בני אדם נולדו לשתוק ולחייך</l>
+          <l>בני אדם נולדו לשכוח וללכת</l>
+          <l>כרוח הנושבת בשלכת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>דולף, דולף הדלף</l>
+          <l>דולף ומייבב</l>
+          <l>עברו עלי שנות אלף</l>
+          <l>שנות אלף שבלב</l>
+          <l>זמר ליבי הלילה</l>
+          <l>היי, טירי טירי טיילה</l>
+          <l>נגן נא לעולם</l>
+          <l>הוי טירי טירילי טם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>במרתפים הרוח מייבבת</l>
+          <l>במרתפים אין אור בחלונות</l>
+          <l>אבל אדם בוכה שם כמו ילד</l>
+          <l>אבל אדם חולם שם חלומות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל תשאלני אן</l>
+          <l>אל תשאלני איך</l>
+          <l>גם אתה אינך יודע והולך</l>
+          <l>ודאי ישנו מקום</l>
+          <l>שבו עומדים מלכת</l>
+          <l>שבו יתום העץ גם משלכת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>דולף, דולף הדלף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לב טהור</title>
+        <singer classification="unknown">אודהליה ברלין</singer>
+        <writer>אודהליה ברלין</writer>
+        <composer>אודהליה ברלין</composer>
+        <album>אחלה פניו - שירים וניגונים לימי תשובה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לב טהור</head>
+        <lg number="1" type="stanza">
+          <l>הלכתי ממך בסתר</l>
+          <l>ובכל זאת אני מבקשת</l>
+          <l>שתלך איתי בגלוי</l>
+          <l>תלך איתי באמת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לב טהור ברא לי אלוה-ים ורוח נכון חדש בקרבי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

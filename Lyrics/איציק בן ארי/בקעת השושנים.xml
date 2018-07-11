@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בקעת השושנים</title>
+        <singer classification="unknown">איציק בן ארי</singer>
+        <writer>דודו ברק</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בקעת השושנים</head>
+        <lg number="1" type="stanza">
+          <l>בואי, בואי אל העמק,</l>
+          <l>אל בקעת השושנים.</l>
+          <l>ההיית לי כחולמת,</l>
+          <l>חבצלת עדנים?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הסתכלי, הכול פורח,</l>
+          <l>ורד בר, שושן גינה,</l>
+          <l>אך ליבי אחר הריח,</l>
+          <l>שב אלייך, שושנה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>למה את דוקרת,</l>
+          <l>מחמיצה את הפנים?</l>
+          <l>את בכלל לא ורד,</l>
+          <l>חוח את בין שושנים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בואי, בואי אל העמק,</l>
+          <l>חלילים הרחק נוגנים,</l>
+          <l>הקוטפות, כצמד חמד,</l>
+          <l>שוב רואות בשושנים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>למה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מכולן לא תהיה לי,</l>
+          <l>עוד יפהפייה כמוך,</l>
+          <l>הוי ליבי שלי מלא לי,</l>
+          <l>את הלילה הארוך.</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אך מדוע את פוצעת,</l>
+          <l>את ליבי שותת הדם?</l>
+          <l>את , ילדה, הרי יודעת,</l>
+          <l>אין כמוך לי בעולם.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>בואי...</l>
+          <l>הסתכלי...</l>
+          <l>למה...</l>
+          <l>מכולן...</l>
+          <l>למה...</l>
+          <l>מכולן...</l>
+          <l>אך מדוע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

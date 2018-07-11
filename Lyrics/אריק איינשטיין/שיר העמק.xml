@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר העמק</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>נתן אלתרמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר העמק</head>
+        <lg number="1" type="stanza">
+          <l>באה מנוחה ליגע</l>
+          <l>ומרגוע לעמל.</l>
+          <l>לילה חיוור משתרע</l>
+          <l>על שדות עמק יזרעאל.</l>
+          <l>טל מלמטה ולבנה מעל,</l>
+          <l>מבית אלפא עד נהלל.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה, מה לילה מליל</l>
+          <l>דממה ביזרעאל</l>
+          <l>נומה עמק, ארץ תפארת</l>
+          <l>אנו לך משמרת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אופל בהר הגלבוע,</l>
+          <l>סוס דוהר מצל אל צל.</l>
+          <l>קול זעקה עף גבוה,</l>
+          <l>על שדות עמק יזרעאל.</l>
+          <l>מי ירה ומי זה שם נפל</l>
+          <l>בין בית אלפא ונהלל.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה, מה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ים הדגן מתנועע,</l>
+          <l>שיר העדר מצלצל,</l>
+          <l>זוהי ארצי ושדותיה,</l>
+          <l>זהו עמק יזרעאל.</l>
+          <l>תבורך ארצי ותהולל</l>
+          <l>מבית אלפא עד נהלל.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מה, מה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

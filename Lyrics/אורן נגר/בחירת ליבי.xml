@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחירת ליבי</title>
+        <singer classification="unknown">אורן נגר</singer>
+        <writer>שרון אסולין</writer>
+        <composer>שרון אסולין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחירת ליבי</head>
+        <lg number="1" type="stanza">
+          <l>כמה אני אוהב אותך את יודעת</l>
+          <l>נשבענו שנאהב עד הנצח</l>
+          <l>התנשאי לי שאלתי כמובן</l>
+          <l>את ענית לי רק את אהובי בעולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אחזתי את ידך ולך קראתי</l>
+          <l>עניי דיברו חזק אז לך נשבעתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את בחירת ליבי את כל עולמי</l>
+          <l>את המתנה הכי גדולה שלי</l>
+          <l>והלב שלי שלם שאת נמצאת איתי</l>
+          <l>בקסמייך השקיני אהובה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איתך יש מין תחושה שלא קיימת</l>
+          <l>יש מין הרגשה שאותי עוטפת</l>
+          <l>וכמו הרוח אלייך אני עף</l>
+          <l>במבטך כמו הגל אני נסחף</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אחזתי את ידך ולך קראתי</l>
+          <l>עניי דיברו חזק אז לך נשבעתי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>את בחירת ליבי את כל עולמי</l>
+          <l>את המתנה הכי גדולה שלי</l>
+          <l>והלב שלי שלם שאת נמצאת איתי</l>
+          <l>בקסמייך השקיני אהובה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

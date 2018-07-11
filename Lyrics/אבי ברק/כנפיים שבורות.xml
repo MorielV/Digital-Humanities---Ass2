@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כנפיים שבורות</title>
+        <singer classification="unknown">אבי ברק</singer>
+        <writer>אורי אופיר</writer>
+        <composer>אבי ברק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כנפיים שבורות</head>
+        <lg number="1" type="stanza">
+          <l>אחי, אחי</l>
+          <l>הנתון בשבייה</l>
+          <l>מול עיני בגאון</l>
+          <l>גור אריה יהודה</l>
+          <l>בכל עתותי</l>
+          <l>לך אייחל</l>
+          <l>על לוח ליבי</l>
+          <l>הצבי ישראל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כנפיים שבורות ירפא</l>
+          <l>וייחזק את הלב</l>
+          <l>יפרוש כנפיו,ייקחהו</l>
+          <l>על גוזליו ירחף.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלעדיך הווה</l>
+          <l>לא כמו שהיה</l>
+          <l>זכור אזכור</l>
+          <l>את הבן זכריה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בעת שנשבתה</l>
+          <l>עצר השעון</l>
+          <l>כשאשמע צעדיך</l>
+          <l>יחזור גם רון</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כנפיים שבורות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

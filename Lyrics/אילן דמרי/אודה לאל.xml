@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אודה לאל 2</title>
+        <singer classification="unknown">אילן דמרי</singer>
+        <writer>אילן דמרי</writer>
+        <composer>אילן דמרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אודה לאל</head>
+        <lg number="1" type="stanza">
+          <l>בוקר אערוך לך </l>
+          <l>מתי אראה את היכלך </l>
+          <l>נכספה וגם חיכתה </l>
+          <l>נפשי לך </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עת השחר יעלה </l>
+          <l>אתכונן לקראת בורא </l>
+          <l>בשיר ושבח אקדם </l>
+          <l>את פניך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני אבוא לפניך </l>
+          <l>והנשמה תהללך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אודה לאל לבב חוקר </l>
+          <l>ברון יחד כוכבי בוקר </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בוקר אערוך לך </l>
+          <l>ואתעטף בחסדך </l>
+          <l>בשיר ושבח אקדם </l>
+          <l>את פניך </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עת השמש תעלה </l>
+          <l>אעמוד ואחשה </l>
+          <l>ואני תפילתי לך אשא </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>והנשמה תהללך </l>
+          <l>אנא שמע קול עבדך </l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>אודה לאל לבב חוקר </l>
+          <l>ברון יחד כוכבי בוקר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ספק</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>רון רוזנפלד</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ספק</head>
+        <lg number="1" type="stanza">
+          <l>מי כתב את הספרים </l>
+          <l>שישנים על מדפים </l>
+          <l>אולי הם מונחים בכדי לשכוח </l>
+          <l>בין דפיו של ספר מיושן </l>
+          <l>נרדם עכשיו ליצן </l>
+          <l>מניח ראש ונעלם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>סתם אומר שאין ברירה </l>
+          <l>מצחיק את הענן שבא </l>
+          <l>מגרש המשחקים נרטב במים </l>
+          <l>ואתה כמו הספרים שקט </l>
+          <l>ממה אתה פוחד </l>
+          <l>מרגיש אפור מרגיש בודד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ורק בלילות </l>
+          <l>כשהדחפים שולטים בך </l>
+          <l>יוצא לשדות </l>
+          <l>מתמסר אל תוך תנופה </l>
+          <l>עוקר את הסוד </l>
+          <l>כשהכאב חרוט בך </l>
+          <l>ובין הזרימות </l>
+          <l>נאבקים איתם </l>
+          <l>החושך והזמן </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי כתב את הספרים </l>
+          <l>אולי הם לתמיד סגורים </l>
+          <l>עכשיו הכל שקוף כמו השמים </l>
+          <l>לקבל ממך כמה תשובות </l>
+          <l>נשארתי לחכות </l>
+          <l>אולי נוכל עוד לקוות </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ורק בלילות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

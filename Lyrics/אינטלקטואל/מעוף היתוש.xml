@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מעוף היתוש</title>
+        <singer classification="band">אינטלקטואל</singer>
+        <writer>חיים יחימוביץ'</writer>
+        <composer>אבירם בן דניאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מעוף היתוש</head>
+        <lg number="1" type="stanza">
+          <l>סורגים ובטון </l>
+          <l>מפרידים את עיר השמיים. </l>
+          <l>אי אפשר לצאת לשום מקום </l>
+          <l>ואי אפשר לראות כלום. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תידרנו על האור </l>
+          <l>כל כך בקלות. </l>
+          <l>זו לא הייתה דת, לא היו סמים, </l>
+          <l>זו לא הייתה אהבה, לא. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עכשיו אי אפשר לחזור. </l>
+          <l>אנחנו שוב באותו מקום. </l>
+          <l>עננים של אפר ועשן, </l>
+          <l>בחוץ הכל שחור. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שדות של כאב </l>
+          <l>עברנו, היינו עולים. </l>
+          <l>הכל כל כך שקט מבחוץ, </l>
+          <l>כל כך רועש מבפנים. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עכשיו אי אפשר לחזור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

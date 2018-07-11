@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כוונות רעות</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>אסף אמדורסקי</composer>
+        <album>צד א'</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כוונות רעות</head>
+        <lg number="1" type="stanza">
+          <l>את לא מצליחה למצוא פינה</l>
+          <l>בתוך הרעש בתוך המהומה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אחרי הכל לא היו לך כוונות רעות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בין געגוע לחוסר שליטה</l>
+          <l>זה יוצא זה מתגלגל</l>
+          <l>ואין לאן לברוח מכל מקום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

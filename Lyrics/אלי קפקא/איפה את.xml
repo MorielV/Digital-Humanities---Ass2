@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איפה את 6</title>
+        <singer classification="unknown">אלי קפקא</singer>
+        <writer>אבי ביטר</writer>
+        <composer>אבי ביטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איפה את</head>
+        <lg number="1" type="stanza">
+          <l>השנים שעברו את הכאב לא ריפו</l>
+          <l>הלב שלך בתוך ליבי עד יום מותי אהובתי</l>
+          <l>הדמעות עוד מחפשות רק אותך</l>
+          <l>מבקשות מה איתך אך מה איתך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איפה את, כשהזמן עובר לאט</l>
+          <l>איפה את, יש רק אהבה אחת אם שכחת</l>
+          <l>אז אף פעם לא אהבת איפה את,</l>
+          <l>איפה את אך איפה את.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יום יבוא ואת תדעי מה עובר בליבי</l>
+          <l>יום יבוא ואולי על הכל עוד תתחרטי</l>
+          <l>לעולם לא תמצאי אהבה כמו שלי</l>
+          <l>מה איתך אך מה איתך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איפה את, כשהזמן עובר לאט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

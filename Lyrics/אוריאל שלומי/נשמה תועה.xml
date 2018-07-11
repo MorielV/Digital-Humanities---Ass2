@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נשמה תועה</title>
+        <singer classification="male singer">אוריאל שלומי</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נשמה תועה</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים יש אדם שאובד בעולם</l>
+          <l>לא יודע לאן ללכת.</l>
+          <l>נשמתו תועה ורוחו רעה</l>
+          <l>כי בדד במשעולי חיים היא אובדת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נשמה תועה כמו שכחה את שמה.</l>
+          <l>נבוכה היא ונודדת בעולמה</l>
+          <l>בלי שלווה ושקט</l>
+          <l>בלי מקום לשבת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>באלפי משעולים זרועי מכשולים</l>
+          <l>מבלה היא את ימיה.</l>
+          <l>מה יהא איתה, מה יהא סופה</l>
+          <l>ואייהי דרך האמת של חייה?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נשמה תועה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>איפה יש פתרונות לחידות נושנות</l>
+          <l>אין יודע ועונה לה.</l>
+          <l>יעברו ימים, ייאספו חיים</l>
+          <l>והיא אז תמצא שלווה ליד אלוהיה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נשמה תועה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

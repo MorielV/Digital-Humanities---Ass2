@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק את יודעת</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק את יודעת</head>
+        <lg number="1" type="stanza">
+          <l>רק את יודעת לחבק את הדמעות </l>
+          <l>רק את יודעת להחזיר אותי לחיות </l>
+          <l>רק את יודעת להביא אהבה בעולם </l>
+          <l>ורק את יודעת להביא אושר מושלם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק את יודעת לשמח אותי</l>
+          <l>אבל עכשיו זה לא קורה לי </l>
+          <l>וזה מגיע למגיע לי כי אחרי כל</l>
+          <l>מה שעשית בשבילי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק את יודעת לספק לי כוח </l>
+          <l>רק את יודעת איך לתת לי לברוח</l>
+          <l>רק את יודעת לספק אהבה לכולם </l>
+          <l>ורק את איך לתת עזרה לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק את יודעת לשמח אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

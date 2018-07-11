@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גורלו של זמר</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>רוני אחיאל</writer>
+        <composer>רוני אחיאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גורלו של זמר</head>
+        <lg number="1" type="stanza">
+          <l>יש אדם שיאהב את שירך</l>
+          <l>ויש אדם ויעצב מהם</l>
+          <l>ישנה נערה שתזיל דמעותיה</l>
+          <l>ואלפי נשיקות היא תשלח עימהן</l>
+          <l>היא תתן הנשמה לשירה האוהב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גורלו של זמר כגורל עיוור</l>
+          <l>לפעמים שמח לפעמים קודר</l>
+          <l>אך תמיד הוא ישיר ויחמם את הלב</l>
+          <l>לך תמיד הוא ישיר ויחמם את הלב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש שירים אתה בהם שמח</l>
+          <l>ויש שירים אתם בהם עצוב</l>
+          <l>אך יש לחשים אותו לא שוכח</l>
+          <l>אהבת נעורים צלילי אוהבים</l>
+          <l>אהבת נעורים צלילי אוהבים</l>
+          <l>לאותם הימים שלא נשכחים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גורלו של זמר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

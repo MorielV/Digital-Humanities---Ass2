@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קשה לקחת</title>
+        <singer classification="unknown">איטן סלומון</singer>
+        <writer>איטן סלומון</writer>
+        <composer>אורן סלע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קשה לקחת</head>
+        <lg number="1" type="stanza">
+          <l>בביתי הקטן בחצי ישיבה</l>
+          <l>חצי נושמת, בחצי שלווה</l>
+          <l>חצי שורפת, רק בשביל למצוא</l>
+          <l>חצי אוהבת, בשביל לא לשנוא</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כי לי</l>
+          <l>קשה לקחת</l>
+          <l>מה שאתה נותן לי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בביתי הקטן בסוף המסדרון</l>
+          <l>דרוכה קצת, לקראת אור ראשון</l>
+          <l>מסבכת, מסבכת סתם</l>
+          <l>ומאשימה את העולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כי לי</l>
+          <l>קשה לקחת</l>
+          <l>מה שאתה נותן לי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

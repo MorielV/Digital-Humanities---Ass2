@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אותך בחרתי</title>
+        <singer classification="unknown">אביהו שבת</singer>
+        <writer>אביהו שבת</writer>
+        <composer>אביהו שבת</composer>
+        <album>אביהו</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אותך בחרתי</head>
+        <lg number="1" type="stanza">
+          <l>היום אני חוזר ממך מוצף במחשבות </l>
+          <l>על מה ואיך זו את נבחרת מכל האהבות </l>
+          <l>התלתלים והחיוך הקסימו את לבי </l>
+          <l>והעיניים מסתכלות עמוק בנשמתי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אותך מבטיח לאהוב ללא גבולות </l>
+          <l>איתך אצליח לאהוב מבלי לבכות </l>
+          <l>אותך בחרתי ואיתך גם אשאר </l>
+          <l>עלייך לעולם לא אוותר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היום אני נשאר איתך, חובק אותך אליי </l>
+          <l>ושתי ידייך מלטפות, אוחזות בשתי ידיי </l>
+          <l>עכשיו אני, בלב שלם, בוחר איתך לחיות </l>
+          <l>אותך בחרתי מכולן, מכל האהבות </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אותך מבטיח... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עכשיו אני, בלב שלם, בוחר איתך לחיות </l>
+          <l>אותך בחרתי מכולן, מכל האהבות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

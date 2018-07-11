@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד נפגש</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד נפגש</head>
+        <lg number="1" type="stanza">
+          <l>בא לו הלילה, ושקט עכשיו.</l>
+          <l>בא געגוע, לראות לחבק אותך</l>
+          <l>מה שעובר בי, זה יותר ממילים</l>
+          <l>יש כאן הכל אבל אין אותך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את שוב עוברת ימים לא קלים</l>
+          <l>איך את שומרת ומה עם החיוכים</l>
+          <l>מה את חושבת זה קשה במילים</l>
+          <l>יש כאן הכל אבל אין אותך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עוד נפגש ויהיה לנו טוב</l>
+          <l>זה יהיה בקרוב, קרוב</l>
+          <l>שנינו ביחד יהיה לנו טוב</l>
+          <l>אל תדאגי זה קרוב, קרוב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה לספר לך וזה רק מכתב</l>
+          <l>מה לתאר לך ואיך לעניין אותך</l>
+          <l>מה לספר לך - לא מוצא לי מילים</l>
+          <l>יש כאן הכל, אבל, אין אותך.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עוד נפגש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

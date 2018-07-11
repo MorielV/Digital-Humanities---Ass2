@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את משהו מיוחד</title>
+        <singer classification="unknown">אסנת נעים</singer>
+        <writer>אסנת נעים</writer>
+        <composer>אסנת נעים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את משהו מיוחד</head>
+        <lg number="1" type="stanza">
+          <l>אוי כמה את יפה תיראי כמה כוח יש כשאת מדויקת </l>
+          <l>מגייסת אלף מלאכים את שם לא לבד </l>
+          <l>כמו לביאה גם רכה גם טורפת מכוונת </l>
+          <l>משיגה מטרה בחכמה את שם לא לבד </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש משהו בך משהו את משהו את משהו מיוחד </l>
+          <l>אחרת זוהרת בת מלך את משהו מיוחד </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וכשאת נעה לא נמוך לא גבוה מאופקת </l>
+          <l>משיגה השגחה בשנייה את שם לא לבד </l>
+          <l>כמו לבנה בהירה ובוהקת עומדת </l>
+          <l>מקבלת מוסרת אהבה את שם לא לבד </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש משהו בך....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

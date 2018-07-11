@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לוחם יקר</title>
+        <singer classification="band">אלמנה שחורה</singer>
+        <writer>אלי זולטא</writer>
+        <composer>ניר אדוש ריחני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לוחם יקר</head>
+        <lg number="1" type="stanza">
+          <l>שלום לך לוחם יקר </l>
+          <l>תעמוד זקוף תלך ישר </l>
+          <l>תתגלח תצטחצח אתה עומד למות </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתה לא יכול לבחור את הדרך </l>
+          <l>אנחנו לא יכולים להתחשב בך </l>
+          <l>אבל בכל זאת אתה תמות בשביל אמא אדמה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם תשקיע תקבל דרגות וסמלים </l>
+          <l>מטח כבוד המנון ודגלים </l>
+          <l>כי אצלנו החוזה חתום עם אלוהים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואחנו נעמוד ונצדיע לך </l>
+          <l>יום הזיכרון יהיה גם בשבילך </l>
+          <l>תתגלח תצטחצח אתה עומד למות </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מי ברא אותך למות </l>
+          <l>אמא שלך או המציאות? </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כשהרצל הזה את מדינת היהודים </l>
+          <l>בטריפ שלו לא היו מתנחלים </l>
+          <l>ואם אשכח תשכח ימיני </l>
+          <l>ואולי אלוהים הוא בכלל שמאלני </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>6 מליון יהודים בשואה </l>
+          <l>ומה אתה עושה בשביל המדינה? </l>
+          <l>החלום הזה עולה לנו בדם </l>
+          <l>ואין לנו שום מקום אחר בעולם </l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>מי ברא אותך למות </l>
+          <l>אמא שלך או המציאות?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

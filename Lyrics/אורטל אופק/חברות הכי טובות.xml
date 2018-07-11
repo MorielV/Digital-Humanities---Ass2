@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חברות הכי טובות</title>
+        <singer classification="female singer">אורטל אופק</singer>
+        <writer>אורטל אופק</writer>
+        <composer>אורטל אופק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חברות הכי טובות</head>
+        <lg number="1" type="stanza">
+          <l>את ואני </l>
+          <l>חברות הכי טובות </l>
+          <l>כשאני רואה אותך ברגע קשה </l>
+          <l>אני רואה את עצמי </l>
+          <l>וכשקשה לי לסלוח לך </l>
+          <l>אני נזכרת </l>
+          <l>שאם הייתי במקומך </l>
+          <l>הייתי רוצה שיסלחו לי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי למרות הכל </l>
+          <l>עושה לי חם בלב </l>
+          <l>לדעת שיש לי שותפה </l>
+          <l>לאותן צרות אותו כאב </l>
+          <l>ובסוף היום זאת רק אני ואת </l>
+          <l>יורדות על עוגת שוקולד </l>
+          <l>וחולמות שיום אחד </l>
+          <l>נמצא </l>
+          <l>אהבה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את ואני חברות הכי טובות </l>
+          <l>כועסות על כל העולם הזה </l>
+          <l>תראי איך הכל מתנהל </l>
+          <l>לעזאזל </l>
+          <l>אנחנו בוכות </l>
+          <l>אבל לבכות איתך ביחד </l>
+          <l>כבר גורם לי להרגיש יותר טוב </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי למרות הכל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

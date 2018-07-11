@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתי יגיע יום</title>
+        <singer classification="unknown">אילן קמפבל</singer>
+        <writer>ליאת קמפבל</writer>
+        <composer>אילן קמפבל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתי יגיע יום</head>
+        <lg number="1" type="stanza">
+          <l>אין שיודע,אין שיגיד </l>
+          <l>ואין מי שאינו שואל מה צופן לו העתיד </l>
+          <l>מסורת לא עונה עוד,פוליטיקה תשלוט בהוויה </l>
+          <l>איך היא הופכת את עצמה לאט למביאת הנבואה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מתי יגיע יום בו נפתח את שערינו </l>
+          <l>נד המים יעלה ישטוף את העולם </l>
+          <l>מתי יגיע יום בו כולם כבר יאמינו </l>
+          <l>באוויר תלויה עומדת עוד השאלה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מראות היו לנביאים, טפטוף של רמז פה ורמז שם </l>
+          <l>עם כל ההוכחות שהוא נתן טיפות מזמן הפכו לים </l>
+          <l>על אף הים והנביאים ההם בורות בד"כ ובערות </l>
+          <l>יכתיבו את תרבות גאות הכלום ובעיקר את שפל המהות </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מתי יגיע יום... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וכשהשפל הוא ההגדרה, הכסף לא מחזיק את העולם </l>
+          <l>והפוליטיקה תראה כי רע, תלחש ביחד עם כולם </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מתי יגיע יום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קאדילק ג ו</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קאדילק ג'ו</head>
+        <lg number="1" type="stanza">
+          <l>כמו שחקן גרוע בסרטים של סוף שבוע, הוא עומד מול מצלמות ונואם.</l>
+          <l>הוא מלא במרץ, מדבר על דרך ארץ, איך כולם חשבו שזהו לוחם.</l>
+          <l>אך כשיד אחת בונה וכשיד אחת הורסת העניין כולו מוטל בספק,</l>
+          <l>אני רוצה לצרוח אבל מתאפק!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קאדילאק ג'ו</l>
+          <l>המערבון הזה מוכר</l>
+          <l>קאדילאק גו'</l>
+          <l>מה אסור ומה מותר</l>
+          <l>קאדילאק ג'ו</l>
+          <l>קאדילאק ג'ו</l>
+          <l>קאדילאק ג'ו חזר</l>
+          <l>קאדילאק ג'ו המשחק שלך נגמר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על כרזות בשטח, סיסמאות כתובות על קרח, מי זוכר על מה ומה הוא דיבר</l>
+          <l>אשליות לרגע, "אהבה בחיק הטבע", מכונית השרד עלתה על גדר</l>
+          <l>וכשמביטים למעלה לא רואים מה שלמטה, העניין כולו מוטל בספק</l>
+          <l>אני רוצה לצרוח אבל מתאפק!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קאדילאק ג'ו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

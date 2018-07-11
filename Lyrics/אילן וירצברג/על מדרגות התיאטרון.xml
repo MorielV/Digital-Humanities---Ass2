@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>על מדרגות התיאטרון</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>דודו ויזר</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>על מדרגות התיאטרון</head>
+        <lg number="1" type="stanza">
+          <l>עוד לא יודע מה קרה</l>
+          <l>עוד לא נקלט בהכרה</l>
+          <l>במדרגות והיא אמרה</l>
+          <l>אני רוצה שאתה תדע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ולא ידעתי אם זה רק</l>
+          <l>בחלום של מי משחק</l>
+          <l>בתיאטרון של מי אמרה</l>
+          <l>אני רוצה שאתה תדע</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני אוהב אותך</l>
+          <l>אני צריך אותך</l>
+          <l>לנוח בין כתפיי</l>
+          <l>מעל שמורות עיניי</l>
+          <l>אני אוהב אותך</l>
+          <l>אני צריך אותך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שלום לעצב לעוגמה</l>
+          <l>אצלי הצחוק עלה, עלה</l>
+          <l>על מדרגות התיאטרון</l>
+          <l>אני מצאתי פיתרון</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוד לא יודע מה קרה</l>
+          <l>עוד לא ניתפס בהכרה</l>
+          <l>במדרגות והיא אמרה</l>
+          <l>אני רוצה שאתה תדע</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני אוהב אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

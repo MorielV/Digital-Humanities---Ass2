@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מרגיש 2</title>
+        <singer classification="male singer">אמיר פיי גוטמן</singer>
+        <writer>אמיר פיי גוטמן</writer>
+        <composer>אייל שוהם</composer>
+        <album>דבש בכוורות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מרגיש</head>
+        <lg number="1" type="stanza">
+          <l>אני מוכן כבר לא מרגיש חצוי </l>
+          <l>פח האשפה שלי מרוקן</l>
+          <l>אני עצמי מלא מקום ופנוי </l>
+          <l>הכנות אחרונות לוידוי</l>
+          <l>עטוף צללים בכחול רוצה להיות הכי קרוב </l>
+          <l>אסור לי להמשיך לחיות לא לחיות</l>
+          <l>כי מבלי להרגיש בכל יום אמות קצת </l>
+          <l>ואחיה קצת פחות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אנשים תמיד מתחבאים </l>
+          <l>עד שזה כואב והם מתפרצים</l>
+          <l>הם נחשפים ומשתנים </l>
+          <l>וגם אני בניתי סביבי חומות הגנה</l>
+          <l>ולא הייתי אני עד שכאב לי </l>
+          <l>והסתכלתי לעצמי בעיניים</l>
+          <l>ועכשיו</l>
+          <l>אני מרגיש</l>
+          <l>עכשיו אני מרגיש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עננים כבדים מעל הראש חולפים </l>
+          <l>יושב על הגג מנתח פיסות חיים</l>
+          <l>פרצופים לא מוכרים מדברים </l>
+          <l>מבינים לא מבינים</l>
+          <l>מה שלא יגידו אף פעם אלף מילים </l>
+          <l>אסור לי להמשיך לחיות לא לחיות</l>
+          <l>כי מבלי להרגיש בכל יום אמות קצת </l>
+          <l>ואחיה קצת פחות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אנשים תמיד מתחבאים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ממה אני פוחד ומה זה געגוע </l>
+          <l>ואיך אני אוהב ומה עשתה לי השנאה</l>
+          <l>כמה אני יכול לתת ואיך אני רגוע </l>
+          <l>ומה עשתה ההשלמה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עכשיו אני מרגיש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

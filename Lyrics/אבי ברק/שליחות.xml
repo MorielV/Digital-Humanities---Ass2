@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שליחות</title>
+        <singer classification="unknown">אבי ברק</singer>
+        <writer>יצחק מזור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שליחות</head>
+        <lg number="1" type="stanza">
+          <l>תאר לך, תאר לך שתמות</l>
+          <l>תאר לך שתהיה מת, תהיה מת.</l>
+          <l>תאר לך, תאר לך</l>
+          <l>כשיאמרו, כשיאמרו</l>
+          <l>ברוך דיין אמת, ברוך דיין אמת.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והרחום והחנון עצמו</l>
+          <l>יפרוס לך כנפיים.</l>
+          <l>פשוט יד אך היזהר</l>
+          <l>אל תביט בו בעיניים, בעיניים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה יוצא לשליחות</l>
+          <l>לשליחות סודית.</l>
+          <l>בהצלחה אדם</l>
+          <l>הייה שלום, הייה שלום.</l>
+          <l>אם תזדקק לי</l>
+          <l>אני מאחוריך תמיד. </l>
+          <l>זו הצהרה - </l>
+          <l>מאחוריך תמיד, תמיד.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והרחום והחנון עצמו</l>
+          <l>יפרוס לך כנפיים.</l>
+          <l>פשוט יד אך היזהר</l>
+          <l>אל תביט בו בעיינים, בעיינים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>והרחום והחנון עצמו</l>
+          <l>יפרוס לך כנפיים.</l>
+          <l>פשוט יד אך היזהר</l>
+          <l>אל תביט בו בעיינים, בעיינים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

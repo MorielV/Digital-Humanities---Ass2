@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ליאם</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>בשבילך נוצרתי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ליאם</head>
+        <lg number="1" type="stanza">
+          <l>להתעורר לתוך חלום לראות אותך</l>
+          <l>לנשום את הניחוח המתוק</l>
+          <l>לדגדג אותך ולהרגיש פתאום</l>
+          <l>איך הבית מתמלא קולות של צחוק</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שתי גומות של חן, מלאך קטן</l>
+          <l>צוחק אלי ואור גדול נדלק</l>
+          <l>ואני עומד מולך ומתפלל</l>
+          <l>שתגדל וכל הזמן תצחק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ליאם, אתה עולם שלי</l>
+          <l>ליאם, גוזל קטן</l>
+          <l>פרי מתוק של עץ האהבה</l>
+          <l>ליאם שלי ליאם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נשיקה אחת קטנה ולילה טוב</l>
+          <l>אמא תלטף את שערך</l>
+          <l>שתישן ילדי ותחלום,</l>
+          <l>על שלושה דובים, נסיך ונסיכה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ליאם, אתה עולם שלי</l>
+          <l>ליאם, גוזל קטן</l>
+          <l>פרי מתוק של עץ האהבה</l>
+          <l>ליאם שלי, עיניים ים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

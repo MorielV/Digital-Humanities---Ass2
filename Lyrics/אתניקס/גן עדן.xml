@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גן עדן</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>13</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גן עדן</head>
+        <lg number="1" type="stanza">
+          <l>אמרי לי את סוד ליבך</l>
+          <l>ספרי לי על חייך</l>
+          <l>אמרי את האמת הכי קשה</l>
+          <l>דברי אל אהובך</l>
+          <l>אנצור את סודותייך</l>
+          <l>הראי לי עד כמה את נחושה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני איתך שונה</l>
+          <l>לכוד בזרועותייך</l>
+          <l>אסרת אותי לרצות את רצונך</l>
+          <l>קראתי לך גן עדן</l>
+          <l>ארוטיים הם חייך</l>
+          <l>אוהב את הרכות שבגנך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על גזע עץ עתיק</l>
+          <l>חרטנו את שמותינו</l>
+          <l>הכנו שורשים של אהבה</l>
+          <l>נזכור גם את היום</l>
+          <l>שבו נפגשו דרכינו</l>
+          <l>בשביל המתפתל הערבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני איתך שונה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

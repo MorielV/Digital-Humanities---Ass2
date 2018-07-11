@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ספרי לי</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ספרי לי</head>
+        <lg number="1" type="stanza">
+          <l>ספרי לי מה בלב את שומרת</l>
+          <l>כשאינך מדברת ועוצמת עיניים</l>
+          <l>ספרי לי למה את כה חיוורת</l>
+          <l>ולפתע נשברת כשאנחנו בשניים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אוהב אני שאת איתי</l>
+          <l>חבקי אותי קיראי בשמי</l>
+          <l>את היפה שלי</l>
+          <l>רוצה אני בך עד כאב</l>
+          <l>אוהב אותך אצעק את שמך</l>
+          <l>אמות למענך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אוהב אותך</l>
+          <l>אותך ורק אותך</l>
+          <l>את הנשמה שבך</l>
+          <l>את יופייך אני אוהב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ספרי לי מה אומרות שתי עינייך</l>
+          <l>כשידי בין ידייך ומולי את שותקת</l>
+          <l>ספרי לי תגלי סודותייך</l>
+          <l>כי נפשי בלעדייך אל השקט חומקת</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אוהב אני שאת איתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה שנים</title>
+        <singer classification="unknown">אטלנטיקה</singer>
+        <writer>רמי דוידוף</writer>
+        <composer>רמי דוידוף</composer>
+        <album>שוב בבוקר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה שנים</head>
+        <lg number="1" type="stanza">
+          <l>אולי אני בדיכאון</l>
+          <l>אולי אני בדיכאון</l>
+          <l>כבר לא מסתכל בשעון</l>
+          <l>אולי פשוט זה שיגעון</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אבל זה משהו משהו משהו...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי קשה לי עם אחת</l>
+          <l>אולי פשוט אותה אחת</l>
+          <l>אולי פשוט אני מפחד</l>
+          <l>להתחבר להתאהב</l>
+          <l>ולחוש ולחוש ולחוש...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמה שנים היינו כאן</l>
+          <l>מנגן בי מין שיר ישן</l>
+          <l>כמה חשוב להתקרב</l>
+          <l>אל הקודש מכל הלב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הלכתי לאשה אחת</l>
+          <l>קראה לי בקלפי ענק</l>
+          <l>שיחקה אותה קוסם גדול</l>
+          <l>נתתי לה אגרוף עגול</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מה קורה פה?</l>
+          <l>מה קורה פה?</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>כמה שנים היינו כאן</l>
+          <l>מנגן בי מין שיר ישן</l>
+          <l>כמה חשוב להתקרב</l>
+          <l>אל הקודש מכל הלב</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>חמש בבוקר במקום</l>
+          <l>ממש נראה כמו חלום</l>
+          <l>שמחה שמחה בתוך הלב</l>
+          <l>בלי עצבות ובלי כאב</l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>איזה יופי, איזה יופי</l>
+        </lg>
+        <lg number="10" type="stanza">
+          <l>כמה שנים היינו כאן</l>
+          <l>מנגן בי מין שיר ישן</l>
+          <l>כמה שנים היינו כאן</l>
+          <l>כמה שנים היינו כאן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

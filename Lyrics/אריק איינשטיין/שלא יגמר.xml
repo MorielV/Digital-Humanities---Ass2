@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלא יגמר</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>פיטר רוט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלא יגמר</head>
+        <lg number="1" type="stanza">
+          <l>מזח ישן, שמש גדולה</l>
+          <l>סירת מפרשים יורדת עולה</l>
+          <l>חולות הפלטינה, בריזה קלה </l>
+          <l>אני ומוסא, לגונה כחולה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שלא יגמר לי היופי הזה </l>
+          <l>שלא יפסק לעולם</l>
+          <l>שלא נאבד את הרגע הזה </l>
+          <l>מוסא, אני וכל העולם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רדיו פתוח, יש אחלה שירים </l>
+          <l>ריח מלוח ומים זכים</l>
+          <l>ילד, טייארה, מסוק ושחפים</l>
+          <l>אני ומוסא מתעופפים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שלא יגמר לי היופי הזה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הערב יורד, אנחנו עוד שם </l>
+          <l>מוסא, אני, שמיים וים</l>
+          <l>האופק בוער, הגיטרה נשלפת </l>
+          <l>צלילים ישנים, צמרמורת חולפת.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שלא יגמר לי היופי הזה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

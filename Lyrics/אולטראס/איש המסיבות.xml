@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איש המסיבות</title>
+        <singer classification="unknown">אולטראס</singer>
+        <writer>ששי צור</writer>
+        <composer>ששי צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איש המסיבות</head>
+        <lg number="1" type="stanza">
+          <l>הוא יפה, הוא חכם, הוא פשוט הגבר המושלם,</l>
+          <l>מתהלך ברחובות, שובר עוד כמה לבבות.</l>
+          <l>אז פנו לו מקום, פרשו לכבודו שטיח אדום,</l>
+          <l>כי היום זה היום שבו אני עומד להרוג אותו.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שלוש בלילה, לא הולכים לשום מקום,</l>
+          <l>יש משהו כל כך אפל בעיר הזאת</l>
+          <l>בשעות שרק אנשי הלילה מכירים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא יבוא להעיר אותנו מחיינו האפורים,</l>
+          <l>כסף קל ומהיר וכל אחד אותו מכיר.</l>
+          <l>אז פנו לו מקום, פרשו לכבודו שטיח אדום,</l>
+          <l>כי היום זה היום שבו אני עומד להרוג אותו. </l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

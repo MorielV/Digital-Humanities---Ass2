@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החתול על הגג</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>אנדה עמיר</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החתול על הגג</head>
+        <lg number="1" type="stanza">
+          <l>בביקתה על הגג</l>
+          <l>חתלתול שם מתענג,</l>
+          <l>בחמה ימתח רגליו</l>
+          <l>ורוחו טובה עליו,</l>
+          <l>שם בשמש על הגג.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בחתול צרה עיני</l>
+          <l>שהוא שם ופה אני,</l>
+          <l>שם בשמש על הגג</l>
+          <l>הוא, רק הוא, שם מתענג,</l>
+          <l>הוא, אך הוא ולא אני.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא שוכב נים ולא נים</l>
+          <l>לחמה מסביר פנים,</l>
+          <l>נא הגידו ילדי,</l>
+          <l>אם להיות חתול כדאי,</l>
+          <l>שם בשמש על הגג.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

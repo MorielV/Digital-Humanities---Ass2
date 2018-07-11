@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תודה לאל</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>זאב נחמה</writer>
+        <composer>קיימים 3 ביצועים נוספים לשיר זה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תודה לאל</head>
+        <lg number="1" type="stanza">
+          <l>תודה לאל שאין בי נקמה</l>
+          <l>תודה לאל שרוע לא שוכן בי</l>
+          <l>תודה שלא הילכו עלי אימה</l>
+          <l>ואם עשיתי רע אני חוזר בי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תודה לאל שיש בי רצונות</l>
+          <l>לבנות עולם שטוב יותר לחיות בו</l>
+          <l>לדאוג לילד רך ולקוות</l>
+          <l>שאף אחד אף פעם לא יפגע בו</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא נוטר</l>
+          <l>טינה לאיש אחר</l>
+          <l>(הוא מגייס את כל כוחות האהבה)</l>
+          <l>יש בי נשמה בלי צל של נקמה</l>
+          <l>לחיים יפים על פני האדמה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תודה לאל שלי נתן אותך</l>
+          <l>אהבתך תשמור עלי ועל ביתינו</l>
+          <l>ויחד נלכד ולא נשכח</l>
+          <l>לדאוג גם לדורות שאחרינו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא נוטר</l>
+          <l>טינה לאיש אחר</l>
+          <l>(הוא מגייס את כל כוחות האהבה)</l>
+          <l>יש בי נשמה בלי צל של נקמה</l>
+          <l>לחיים יפים על פני האדמה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>זמן עובר והגלגל חוזר</l>
+          <l>המלחמות הורסות כאן כל חלקה טובה</l>
+          <l>תנו לאהבה להחיות את התקווה</l>
+          <l>לחיים יפים על פני האדמה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

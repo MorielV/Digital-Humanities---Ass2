@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילדה רעה</title>
+        <singer classification="unknown">איציק אזולאי</singer>
+        <writer>נתי לוי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילדה רעה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>קשה לי לוותר עליה</l>
+          <l>למרות שהיא ילדה רעה</l>
+          <l>היא מטריפה וגם יפה</l>
+          <l>עושה בי מה שהיא רוצה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רק היא מצליחה בי לשחק</l>
+          <l>ואני, רק עליה אני מת</l>
+          <l>רק היא, היא יודעת לפנק</l>
+          <l>רק היא, היא</l>
+          <l>מסוגלת אותי להפנט</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קשה לי לוותר עליה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רק היא, היא גנבה לי את הלב</l>
+          <l>ואני מאוהב בה עד כאב</l>
+          <l>רק היא מטריפה את דעתי</l>
+          <l>רק היא, רק היא</l>
+          <l>היחידה שמכירה אותי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>קשה לי לוותר עליה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

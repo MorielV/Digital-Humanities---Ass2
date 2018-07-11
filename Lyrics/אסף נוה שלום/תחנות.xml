@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תחנות 2</title>
+        <singer classification="unknown">אסף נוה שלום</singer>
+        <writer>אסף נוה שלום</writer>
+        <composer>אסף נוה שלום</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תחנות</head>
+        <lg number="1" type="stanza">
+          <l>במקומות רבים עברתי </l>
+          <l>ובכל מקום עיני צדו עקבות, </l>
+          <l>תפילות, </l>
+          <l>שתיקות </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ענה דודי ואמר לי: </l>
+          <l>קומי לך רעייתי, י פ ת י, </l>
+          <l>ולכי לך, </l>
+          <l>לך, </l>
+          <l>לך... </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סוגר הספר, קם והולך, </l>
+          <l>רגליי קופאות, </l>
+          <l>אפילה עוטפת פני, </l>
+          <l>זולגת דמעה, </l>
+          <l>מלטפת, </l>
+          <l>מרככת...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ענה דודי... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רגליי עומדות, קמות לתחייה, </l>
+          <l>מוצא עצמי נפעם מול זריחה , </l>
+          <l>מול לידה, </l>
+          <l>עם נשמה אהובה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ענה דודי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

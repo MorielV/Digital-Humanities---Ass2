@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בנוגע לרגש</title>
+        <singer classification="unknown">אורן פרץ</singer>
+        <writer>אהוד מנור</writer>
+        <composer>אורן פרץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בנוגע לרגש</head>
+        <lg number="1" type="stanza">
+          <l>אתה אף פעם לא יוצא מִזֶּה: </l>
+          <l>הבּוֹר הפָעוּר בְּתוֹך הגוּף, </l>
+          <l>המועקה הַכְּבֵדה בֶּחָזֶה </l>
+          <l>והעצב הַמתוּח, הֶחָשׂוּף. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אך לִפְעָמִים, כשהַיֵאוּש מוחלט, </l>
+          <l>אתה רואה עיניים ושומע אנחה </l>
+          <l>וּמֵבִין שהקוֹל וְהַמבּט </l>
+          <l>שַׁיָּכים לְאותה משְׁפָּחָה, </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ויֵש לְךָ פִּתְאום סִיכּוּי </l>
+          <l>לְרֶגע מְנוּחה, </l>
+          <l>ויֵש לְךָ פִּתְאום סִיכּוּי </l>
+          <l>לְצל שִׁכְחָה, </l>
+          <l>אֲפילוּ לְשִׂמְחָה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

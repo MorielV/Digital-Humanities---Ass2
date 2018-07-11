@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בצהרי היום</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>נד וושינגטון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בצהרי היום</head>
+        <lg number="1" type="stanza">
+          <l>אהובתי, אל תעזביני</l>
+          <l>הן רק היום נשבעת לי</l>
+          <l>אהובתי, אל תעזביני</l>
+          <l>לא, אל תלכי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הן גורלי כלל לא ידוע</l>
+          <l>עלי להיות אמיץ עכשיו</l>
+          <l>אל מול שונאי עלי לנוע</l>
+          <l>או שאשכב לי</l>
+          <l>מוג לב אשכב לי</l>
+          <l>מוג לב שם, בקברי, אשכב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>גם אם האהבה בוערת</l>
+          <l>מה אעשה, החובה גוברת</l>
+          <l>וכבר מורה לי השעון: צהרי היום</l>
+          <l>הן הוא נשבע, ממש נדר הוא</l>
+          <l>ועל חיי קרא תגר הוא</l>
+          <l>גם מן המוות לא יירא</l>
+          <l>אך לא אוכל בלעדייך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אהובתי, אל תעזביני</l>
+          <l>הרי אין איש לך מלבדי</l>
+          <l>אהובתי, אל תעזביני</l>
+          <l>גם אם תבכי לך, אל תברחי לך</l>
+          <l>עמדי עכשיו כאן לצידי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>גם אם האהבה בוערת...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אהובתי, אל תעזביני</l>
+          <l>הרי אין איש לך מלבדי</l>
+          <l>אהובתי, אל תעזביני</l>
+          <l>גם אם תבכי לך אל תברחי לך</l>
+          <l>עמדי עכשיו כאן לצידי</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אל תלכי, אל תלכי</l>
+          <l>אל תלכי, אל תלכי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

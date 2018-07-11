@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל העין 2</title>
+        <singer classification="male singer">איתמר כהן</singer>
+        <writer>אוריאל אופק</writer>
+        <composer>יוסף הדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל העין</head>
+        <lg number="1" type="stanza">
+          <l>על הרים עולה הבוקר</l>
+          <l>בשבילים רועה יורדה</l>
+          <l>עדרים כיתרו השוקת</l>
+          <l>בהמית תודה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מכדך רועה - מים גמעתי</l>
+          <l>בקולך רועה - זמר שמעתי</l>
+          <l>חלילך בתי - לי ינגן עוד</l>
+          <l>ומראך בתי - בי יתרונן עוד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל העין רד הנער</l>
+          <l>שצפה לבוא רועה</l>
+          <l>ושמעו גבעות ויער</l>
+          <l>זמר לבואה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

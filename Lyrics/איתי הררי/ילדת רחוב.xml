@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילדת רחוב</title>
+        <singer classification="unknown">איתי הררי</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>kyriakos papadopoulos</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילדת רחוב</head>
+        <lg number="1" type="stanza">
+          <l>הולך איתך / הולך איתך לכל מקום שבא לך</l>
+          <l>תמיד איתך / שטוב וגם רע</l>
+          <l>אני שלך אהיה / ביחד כיף יהיה</l>
+          <l>תמיד רק בשבילך / אתן לך את הכל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הוו ילדת רחוב / אני תמיד רוצה קרוב אליך</l>
+          <l>להדליק את אור עיניך / רק שיהיה לך טוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו יפה / כמו מלכה תמיד מולי זוהרת</l>
+          <l>האושר בך / מחבק לו את ליבי</l>
+          <l>זו אהבה כזאת / שאין לה שום גבולות</l>
+          <l>תדעי שבשבילך / אתן לך את חיי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הוו ילדת רחוב / אני תמיד רוצה קרוב אליך</l>
+          <l>להדליק את אור עיניך / רק שיהיה לך טוב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

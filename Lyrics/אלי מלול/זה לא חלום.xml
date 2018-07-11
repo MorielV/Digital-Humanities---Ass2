@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה לא חלום 2</title>
+        <singer classification="unknown">אלי מלול</singer>
+        <writer>דודו מויאל</writer>
+        <composer>עממי פרסי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה לא חלום</head>
+        <lg number="1" type="stanza">
+          <l>בכל ליבי אהבתיך באמת,</l>
+          <l>אותי עזבת עם הרבה כאב</l>
+          <l>בכל ליבי אהבתיך באמת,</l>
+          <l>אותי עזבת עם הרבה כאב</l>
+          <l>בגדת בי נותרתי לבדי,</l>
+          <l>בכל העולם לא תמצא כמוני</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה לא חלום, זה לא שקר</l>
+          <l>לך יא בוגד, לא תראה אותי יותר</l>
+          <l>כבשת לי, רמסת לי </l>
+          <l>בכל העולם לא תמצא כמוני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היו זמנים כה רבות היתלת בי,</l>
+          <l>עברו שנים וזמן יקר משכת לי</l>
+          <l>היו זמנים כה רבות היתלת בי,</l>
+          <l>עברו שנים וזמן יקר משכת לי</l>
+          <l>עוד יום יבוא השחר לי יאיר</l>
+          <l>אשכח הכל עם בחור חדש בעיר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה לא חלום, זה לא שקר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היו זמנים אהבתיך באמת</l>
+          <l>אבל יא חביב לא יכולתי עוד יותר</l>
+          <l>היו זמנים אהבתיך באמת</l>
+          <l>אבל יא חביב לא יכולתי עוד יותר</l>
+          <l>הרבה דברים טובים הבטחת לי</l>
+          <l>ולבסוף בדד עזבתני</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה לא חלום, זה לא שקר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

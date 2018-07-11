@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אף פעם 3</title>
+        <singer classification="unknown">אורי שכיב</singer>
+        <writer>דולב רם</writer>
+        <composer>פן חזות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אף פעם</head>
+        <lg number="1" type="stanza">
+          <l>אף פעם לא אשאיר את הלב שלי קודר</l>
+          <l>בזמן שאת שלך היום מאיר מישהו אחר</l>
+          <l>ויותר אף פעם לא תדעי אם המשכתי לזכור</l>
+          <l>ואם ניצחתי את השקט שהשארת מאחור  </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בסוף זה תמיד אני נותן לך את כל כולי</l>
+          <l>כשאת נשברת כשאת נשארת רחוק</l>
+          <l>בסוף זה תמיד אני נשאר גם כשאת תלכי</l>
+          <l>לזמן אין רופא ואם נחכה עוד נגיע בסוף</l>
+          <l>נגיע רחוק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אף פעם לא הייתי בטוח כמו שאני עכשיו</l>
+          <l>שתחזרי ברגע שיכאב לך כמו שלי כאב</l>
+          <l>ויודע שבפעם הזאת או בפעם אחרת</l>
+          <l>כבר לא אשבר שם לבד מעבר לדלת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בסוף זה תמיד אני נותן לך את כל כולי</l>
+          <l>כשאת נשברת כשאת נשארת רחוק</l>
+          <l>בסוף זה תמיד אני נשאר גם כשאת תלכי</l>
+          <l>לזמן אין רופא ואם נחכה עוד נגיע בסוף</l>
+          <l>נגיע רחוק</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הלילה לי צעק שתחזרי, שתחזרי</l>
+          <l>הגוף שלי רעד שתדעי, שתדעי</l>
+          <l>הלילה לי צעק שתחזרי שתחזרי</l>
+          <l>הגוף שלי רעד שתדעי</l>
+          <l>אני כבר לא בשבילך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

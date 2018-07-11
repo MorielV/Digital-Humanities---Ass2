@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל הלילה נגנו</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל הלילה נגנו</head>
+        <lg number="1" type="stanza">
+          <l>בולבול טרנג ועוד</l>
+          <l>כל הלילה נגנו</l>
+          <l>את העצב המר</l>
+          <l>היאוש הצורב</l>
+          <l>העולם הוא אכזר</l>
+          <l>מיאש וכואב</l>
+          <l>בולבול טרנג ועוד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>האהבה אותי עזבה</l>
+          <l>אני לבד בלי אף אחד</l>
+          <l>ואין תקוה ואין שלוה</l>
+          <l>אהבה אותי עזבה</l>
+          <l>כשהייתי קטנה ותמימה</l>
+          <l>האמנתי בך ולך</l>
+          <l>התמכרתי עם כל הנשמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החיים הם מרים</l>
+          <l>ואותי הם שוברים</l>
+          <l>הבדידות בלילות</l>
+          <l>מסביב הקולות</l>
+          <l>של שמחות ריקודים</l>
+          <l>משחקי ילדים</l>
+          <l>בולבול טרנג ועוד...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האהבה אותי עזבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>העכבר</title>
+        <singer classification="unknown">אפי שושני</singer>
+        <writer>אלי בכנר</writer>
+        <composer>אפי שושני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>העכבר</head>
+        <lg number="1" type="stanza">
+          <l>יושב עכבר לו בביתו </l>
+          <l>לוכד פרעוש בפרותו </l>
+          <l>ללכוד פרעוש הן זה לא צחוק </l>
+          <l>כי הוא לעור נכנס עמוק, </l>
+          <l>סובב סביבו סחרחר הראש- </l>
+          <l>טיפש - נבזה הוא הפרעוש ! </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אז בא אבא העכבר </l>
+          <l>ובפרותו נבר </l>
+          <l>ראו ותיכף ומיד </l>
+          <l>הוא את הפרעוש לכד! </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>העכבר מחא כפיים </l>
+          <l>"לא אכלתי כבר יומיים, </l>
+          <l>ועכשיו יש לי פרעוש </l>
+          <l>לאכול בצהריים!"</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

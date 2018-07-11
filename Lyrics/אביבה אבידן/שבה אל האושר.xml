@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שבה אל האושר</title>
+        <singer classification="female singer">אביבה אבידן</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שבה אל האושר</head>
+        <lg number="1" type="stanza">
+          <l>הלילה סביב הכל מואר</l>
+          <l>העצב נגמר בתוכי</l>
+          <l>פתאום לרסיסים כולו נשבר</l>
+          <l>ושוב עולה בי חיוכי</l>
+          <l>בלב פועמת השמחה</l>
+          <l>האושר מחבק</l>
+          <l>ניגון ישן מזכיר אותך</l>
+          <l>סוער בי וצוחק.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שבה אל האושר</l>
+          <l>משם ועד אליך</l>
+          <l>שבה מן החושך</l>
+          <l>לאור שבעיניך</l>
+          <l>שבה אל האושר</l>
+          <l>ליבי לך שומרת</l>
+          <l>שבה מן החושך</l>
+          <l>לאהבה מוארת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הסהר מלא כל כך זוהר</l>
+          <l>הדרך אליך שלווה</l>
+          <l>כוכב ממרומים עלי שומר</l>
+          <l>מוביל אותי לאהבה</l>
+          <l>הלב מחסיר עוד פעימה</l>
+          <l>משכיח בי מכאוב</l>
+          <l>וטוב לי טוב בנשמה</l>
+          <l>אותך שוב לאהוב.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שבה אל האושר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

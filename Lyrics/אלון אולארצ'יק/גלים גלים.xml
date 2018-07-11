@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גלים גלים</title>
+        <singer classification="unknown">אלון אולארצ יק</singer>
+        <writer>אלון אולארצ'יק</writer>
+        <composer>אלון אולארצ'יק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גלים גלים</head>
+        <lg number="1" type="stanza">
+          <l>כבר כתבו הרבה שירים על ים</l>
+          <l>על הגלים והחוף</l>
+          <l>וכמה טוב לשכב בחול החם</l>
+          <l>להסתלבט על הנוף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גלים גלים</l>
+          <l>עולים עולים</l>
+          <l>עושים סיבוב</l>
+          <l>אראונד דה וו</l>
+          <l>וגם אני</l>
+          <l>יושב בחול</l>
+          <l>כותב עוד שיר</l>
+          <l>על מים (על ים גדול)</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קופצים במים כוכבים</l>
+          <l>בוקע שיר ממלון</l>
+          <l>וזה סימן לכל הדייגים</l>
+          <l>שטוב לדוג ולא לישון</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הנה באופק ספינה</l>
+          <l>דבר רגיל מן הסתם</l>
+          <l>אבל הבחנתי מיד</l>
+          <l>שזו ספינת חיל הים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>גלים גלים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

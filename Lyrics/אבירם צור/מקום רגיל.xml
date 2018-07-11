@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מקום רגיל</title>
+        <singer classification="unknown">אבירם צור</singer>
+        <writer>אבירם צור</writer>
+        <composer>אבירם צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מקום רגיל</head>
+        <lg number="1" type="stanza">
+          <l>ברגעים של שקיעה אתה מוריד את הראש</l>
+          <l>מנסה להתמודד</l>
+          <l>מתכנס, ערפל גדול סביבך</l>
+          <l>לא רצית, נקלעת לתוך עצמך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מקום תמידי, כל כך מוכר בורח ונשאר</l>
+          <l>מקום רגיל, שלא נגמר</l>
+          <l>שוכח, שוכח...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ברגעים של זריחה אתה מוריד את הראש</l>
+          <l>מפחד להתמודד</l>
+          <l>מתכנס, זעקה בתוך גופך</l>
+          <l>לא סירבת, שקעת לתוך עצמך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מקום תמידי, כל כך מוכר בורח ונשאר</l>
+          <l>מקום רגיל, שלא נגמר</l>
+          <l>שוכח, שוכח...</l>
+          <l>מקום טבעי, מקום אכזר</l>
+          <l>בורח ונזכר</l>
+          <l>מקום נצחי, כבר לא מוזר</l>
+          <l>שוכח, שוכח...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ברגעים של שקיעה אני מרים את הראש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

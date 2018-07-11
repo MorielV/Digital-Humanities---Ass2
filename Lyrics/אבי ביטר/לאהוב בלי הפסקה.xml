@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לאהוב בלי הפסקה</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>אבי ביטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לאהוב בלי הפסקה</head>
+        <lg number="1" type="stanza">
+          <l>כל היום חושב עלייך בלי הפסקה</l>
+          <l>לא רוצה להיפרד ממך ילדה,</l>
+          <l>בכל החלומות שלי רואה אותך</l>
+          <l>כל מה שיש לי בחיים זה רק אתה,</l>
+          <l>אני אוהב אותך בלי הפסקה,</l>
+          <l>אני נשבעת לאהוב אותך,</l>
+          <l>חבקי אותי, חבקי ילדה,</l>
+          <l>אני נשבעת לאהוב אותך...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חבקי אותי, נשקי אותי, אני שלך</l>
+          <l>תאהב אותי, אוהב אותך, אוהב כל כך</l>
+          <l>רוצה אותך בלי הפסקה, רוצה כל כך</l>
+          <l>רוצה שרק תהיי שלי, רוצה אותך תמיד איתי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוצה שתאהבי אותי בלי שקרים</l>
+          <l>שתהי לידי כל החיים,</l>
+          <l>אני נשבעת לאהוב רק באמת</l>
+          <l>אהבה עם נשמה לך לתת,</l>
+          <l>רק אותך אני רוצה בתוך הלב,</l>
+          <l>אני יודעת שאותי אתה אוהב,</l>
+          <l>על זאת האהבה לא נוותר,</l>
+          <l>אותך אוהבת כל יום יותר...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חבקי אותי, נשק אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

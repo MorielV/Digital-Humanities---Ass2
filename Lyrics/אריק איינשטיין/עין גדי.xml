@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עין גדי</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>איתן פרץ</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עין גדי</head>
+        <lg number="1" type="stanza">
+          <l>ים המוות הכחול בלאט ינוע</l>
+          <l>וממעל עננה קטנה תשוט.</l>
+          <l>עץ האשל בדממה יזוע</l>
+          <l>וכל קו בחול יפה חרוט.</l>
+          <l>האדמה תצהיב בלהט שמש</l>
+          <l>ואבק מחניק יעוף ברום</l>
+          <l>אך עין גדי לא תיבול בכמש,</l>
+          <l>בה ישלוט גוון ירוק וחום.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עין גדי, עין גדי</l>
+          <l>מה היה כי צמחת בחמה</l>
+          <l>עין גדי, עין גדי</l>
+          <l>איך פלגים בך חותרים בשממה</l>
+          <l>עין גדי, עין גדי,</l>
+          <l>בך היופי יופע בכל הוד</l>
+          <l>והלב יהרהר ויחמוד</l>
+          <l>והלב יהרהר ויחמוד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ים המוות הכחול בלאט ינוע</l>
+          <l>וכל הר בו יתנשא גאה ורם.</l>
+          <l>נחל ערוגות, זה הידוע</l>
+          <l>מהלכו יישיר אל תוך הים.</l>
+          <l>האדמה תצהיב בלהט שמש,</l>
+          <l>אך עין גדי היא נווה מדבר</l>
+          <l>יום חדש אינו דומה לאמש</l>
+          <l>ועתיד מזהיר צופן לה המחר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עין גדי, עין גדי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

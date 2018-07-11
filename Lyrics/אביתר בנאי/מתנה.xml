@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתנה</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>אביתר בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתנה</head>
+        <lg number="1" type="stanza">
+          <l>מתחצף אליה לא מסתדר איתה </l>
+          <l>לך הביתה נו כבר </l>
+          <l>מחבק חזק ותכף חונק אותה </l>
+          <l>לא משתחרר ממנה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך נהיה שנהיה לי ככה </l>
+          <l>אוהב אותה גם כששוכב איתה </l>
+          <l>כמו החורף נותן אותה מתנה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך נהיה שנהיה לי ככה </l>
+          <l>אוהב אותה גם כששוכב איתה </l>
+          <l>כמו הלילה נותן אותה מתנת פרידה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מחייך אליה רוק נוזל מהפה </l>
+          <l>לך הביתה נו כבר </l>
+          <l>מתאמץ כל הכח מוכר תדמית ספורטאי ומוזיקאי </l>
+          <l>לך הביתה נו כבר </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>איך נהיה שנהיה לי ככה </l>
+          <l>אוהב אותה גם כששוכב איתה </l>
+          <l>כמו החורף נותן אותה מתנה </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>איך נהיה שנהיה לי ככה </l>
+          <l>אוהב אותה גם כששוכב איתה </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>לא מסתדר הכל מאומץ צורח </l>
+          <l>אני אוהב אותך </l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>לך הביתה נו כבר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

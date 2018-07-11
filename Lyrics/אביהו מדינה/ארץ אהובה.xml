@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ארץ אהובה</title>
+        <singer classification="male singer">אביהו מדינה</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ארץ אהובה</head>
+        <lg number="1" type="stanza">
+          <l>ארץ של כוכב ואור</l>
+          <l>שרים כאן יחד בני הדור,</l>
+          <l>אבות עם הבנים,</l>
+          <l>שיר עצוב או שיר שמח,</l>
+          <l>על השמש שזורח</l>
+          <l>אור על הגנים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לפעמים אני שומע</l>
+          <l>שהחייה קיים הגיע,</l>
+          <l>ומתוך הנשמה שבתוכי</l>
+          <l>אז עולה ובוקעת שירתי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתפרץ לו איזה סבא</l>
+          <l>סתם בצחוק חסר שיניים,</l>
+          <l>עד לעננים:</l>
+          <l>מי יודע מה ילד יום</l>
+          <l>מצפון גם מדרום,</l>
+          <l>הו, הלוואי יבוא שלום.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לפעמים אני...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מגדלים אל על נישאו,</l>
+          <l>בהרים כרמים ניטעו,</l>
+          <l>בארץ אהובה</l>
+          <l>את חיכית שנים אלפיים,</l>
+          <l>אנו בכליון עיניים</l>
+          <l>למשיח שלא בא.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לפעמים אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

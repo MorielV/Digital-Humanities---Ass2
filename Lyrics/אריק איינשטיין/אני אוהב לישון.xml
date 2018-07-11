@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני אוהב לישון</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני אוהב לישון</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אני אוהב לישון,</l>
+          <l>להיות תמיד בתוך חלום</l>
+          <l>אני אוהב לישון -</l>
+          <l>וכך עובר לי כל היום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמה זה טוב מיטה</l>
+          <l>עם שמיכה של פוך עבה</l>
+          <l>כל היום, כל הלילה</l>
+          <l>אוי, כמה טוב לישון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני אוהב לישון,</l>
+          <l>להיות תמיד בתוך חלום</l>
+          <l>אני מוכרח לישון -</l>
+          <l>וכך עובר לי כל היום</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>פעם הייתי קם</l>
+          <l>להציץ על העולם...</l>
+          <l>שום דבר לא הבנתי</l>
+          <l>אוי, די יותר לא קם!</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני אוהב לישון,</l>
+          <l>להיות תמיד בתוך חלום</l>
+          <l>אני אוהב לישון -</l>
+          <l>וכך עובר לי כל היום</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני אוהב לישון, </l>
+          <l>להיות תמיד בתוך חלום </l>
+          <l>אני מוכרח לישון - </l>
+          <l>וכך עובר לי כל היום </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>להיות תמיד בתוך חלום </l>
+          <l>וכך עובר לי כל היום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

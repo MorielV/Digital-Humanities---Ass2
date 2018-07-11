@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המכתש</title>
+        <singer classification="unknown">אופרייטעס</singer>
+        <writer>חנוך טיאר</writer>
+        <composer>חנוך טיאר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המכתש</head>
+        <lg number="1" type="stanza">
+          <l>בין אם מעפר לוקחנו/ בין אם התפתחנו מסב סבו של קינג קונג</l>
+          <l>משהו בנו/ קרא לנו/ לפרות לרבות/ לכבוש ולרדות</l>
+          <l>אז נדדנו/ וצדנו/ ליקטנו/ חרשנו/ זרענו/ קצרנו</l>
+          <l>ניצלנו/ עד תום לא עצרנו/ האצנו בתהליכים שקיצרנו</l>
+          <l>הגברנו קצב/ ייסדנו משק/ גלגלנו כסף/ וכולם בוכים עדיין</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא קל היום/ לא קל היום בכלל...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נתינים סטטיסטיים/ מזינים גרפים נוסקים/ נסדקים/ מתרסקים</l>
+          <l>קפיטלסוציאלאנרכיסטים/ משקיעים/ מושקעים/ מרוויחים/ מופסדים</l>
+          <l>לוויינים מלווים כל תנועה/ ניידות נייחות/</l>
+          <l>עדשות אדישות מפרות אבטחה</l>
+          <l>הלאמות מופרטות/ רשויות מרוששות מבטיחות הכנסה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לחוטבי עצים ושואבי מים/ כלכלנים ופוליטיקאים</l>
+          <l>אזובי קירות/ בעלי דעות/ שוכני קליפות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כולם בוכים עדיין -</l>
+          <l>לא קל היום/ לא קל היום בכלל....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

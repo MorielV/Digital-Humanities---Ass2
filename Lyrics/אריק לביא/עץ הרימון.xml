@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עץ הרימון</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>יעקב אורלנד</writer>
+        <composer>missing</composer>
+        <album>אריק לביא שר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עץ הרימון</head>
+        <lg number="1" type="stanza">
+          <l>עץ הרימון נתן ריחו</l>
+          <l>בין ים המלח ליריחו,</l>
+          <l>שב, חומתי, גדודך מנדוד,</l>
+          <l>שב, תמתי, דודך מדוד.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אוצרות אופיר וצרי גלעד,</l>
+          <l>רכב מצריים שללתי לך, בת.</l>
+          <l>אלף הזמר אתלה לך מגן</l>
+          <l>מן היאור עד הירדן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את כלולה מכל כלות,</l>
+          <l>את דגולה כנדגלות.</l>
+          <l>שתיים עינייך כשתיים יונים</l>
+          <l>וקול קולך פעמונים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לך התרועות, לך הזרים,</l>
+          <l>לך כל שלטי הגיבורים,</l>
+          <l>מה לי חיל אלף ומה רבבה?</l>
+          <l>לבבי מת מאהבה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שב אל הקשת, שב החץ,</l>
+          <l>שב הרימון אל ראש העץ,</l>
+          <l>לך ואלייך החיל יוחל,</l>
+          <l>בואי כלה, כי רד הליל.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

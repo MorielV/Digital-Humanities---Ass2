@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מצטער 4</title>
+        <singer classification="unknown">אייל ניסים</singer>
+        <writer>מורן גמליאל</writer>
+        <composer>מורן גמליאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מצטער</head>
+        <lg number="1" type="stanza">
+          <l>למה זה קורה לי </l>
+          <l>אני לא מתאפק </l>
+          <l>למה זה קורה ולמה רק איתך </l>
+          <l>אני מצטער, אל תכעסי </l>
+          <l>אני מבטיח זה לא יקרה יותר </l>
+          <l>מצטער, מצטער... </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תוותרי </l>
+          <l>גם אם אכזבתי אותי ואותך </l>
+          <l>זה לא אני את מכירה אותי, </l>
+          <l>זה בטח לא את </l>
+          <l>את יודעת שזה כואב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הייתי אידיוט </l>
+          <l>וזה לא מתאים לי </l>
+          <l>מחשבות חוזרות בי להתנצל </l>
+          <l>את תראי, אשתנה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תוותרי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איפה הכפיים</title>
+        <singer classification="unknown">אלדר אדרי</singer>
+        <writer>רמי לב</writer>
+        <composer>דורון אלימלך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איפה הכפיים</head>
+        <lg number="1" type="stanza">
+          <l>את מה שיש לי בעולם</l>
+          <l>את זורמת לי בדם</l>
+          <l>אין כמוך את זה כולם יודעים</l>
+          <l>שומר אותך בכל פינה</l>
+          <l>את בחיי הראשונה</l>
+          <l>את הבטחה לעולמים</l>
+          <l>כל האורות עלייך</l>
+          <l>הלילה חגיגה</l>
+          <l>קחי ממני את האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איפה הכפיים ליפה שלי</l>
+          <l>לאישה שאני אותה אוהב</l>
+          <l>תנו לה בכפיים לנסיכה שלי</l>
+          <l>לאחת שאתן לה את הלב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את כל האור בנשמה בחיי</l>
+          <l>את מדהימה אין כמוך</l>
+          <l>את זה כולם אומרים</l>
+          <l>את בוערת בתוכי</l>
+          <l>כח שהולך איתי</l>
+          <l>את היפה שבנשים</l>
+          <l>כל האורות עלייך</l>
+          <l>הלילה חגיגה</l>
+          <l>קחי ממני את האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איפה הכפיים ליפה שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

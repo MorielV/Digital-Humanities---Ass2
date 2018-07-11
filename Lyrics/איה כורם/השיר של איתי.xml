@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השיר של איתי</title>
+        <singer classification="unknown">איה כורם</singer>
+        <writer>איתי פרל</writer>
+        <composer>איתי פרל</composer>
+        <album>איה כורם</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השיר של איתי</head>
+        <lg number="1" type="stanza">
+          <l>ככה, כמו שאני, כמו שהבטחתי לעצמי,</l>
+          <l>אני לוקחת שוב את עצמי בידיים.</l>
+          <l>ככה, בלי חלומות, בלי טעויות של מתחילות,</l>
+          <l>בלי ערימות של ציפיות עד השמיים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ככה, כמו שאני, כמו שהבטחתי לעצמי,</l>
+          <l>אני לוקחת את העניין ברצינות.</l>
+          <l>ככה בלי מהומות, בלי להוסיף משמעויות,</l>
+          <l>אני לא מוותרת על ההזדמנוות.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>למה עד שהגעתי, עד שנגעתי,</l>
+          <l>קצת נעלמתי, קצת השתגעתי?</l>
+          <l>לא שהייתה לי ברירה,</l>
+          <l>פשוט ככה יצא...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ככה, איש אמיתי, יצא שנשארת פה איתי,</l>
+          <l>באיזו קלות שולח ידך ונוגע.</l>
+          <l>ככה, יצא שאותי, אתה מעלה בחכתך,</l>
+          <l>לא מעלה בדעתך שאשתגע...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>למה עד שהגעתי, עד שנגעתי,</l>
+          <l>קצת נעלמתי, קצת השתגעתי?</l>
+          <l>לא שהייתה לי ברירה,</l>
+          <l>פשוט ככה יצא...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ככה כמו שאתה, ממש כמו בפעם הראשונה,</l>
+          <l>אני לוקחת עם הכאב והקושי.</l>
+          <l>ככה כמו שאני כמו שהבטחתי לעצמי</l>
+          <l>לא לאבד את שפיותי כל פעם שטוב לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

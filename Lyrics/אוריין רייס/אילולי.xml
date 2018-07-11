@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אילולי</title>
+        <singer classification="unknown">אוריין רייס</singer>
+        <writer>ישראל קמחי</writer>
+        <composer>יוני אמבר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אילולי</head>
+        <lg number="1" type="stanza">
+          <l>כשהלבנה תשלח אורה אז הרחובות </l>
+          <l>כששעון העיר יחדיו החנויות יהיו סגורות </l>
+          <l>נצא אל הרחוב לנשום את האויר הלח </l>
+          <l>היית מוכרח ללכת </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מכוניות חונות או פנסים מוכי ירח </l>
+          <l>וזוג של אוהבים מהמבט שלי בורח </l>
+          <l>בשעות הליל מתהלכת ברחובות העיר </l>
+          <l>היית מוכרח ללכת </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אילולי לולי לולי לולי </l>
+          <l>היית איתי עכשיו השעה מאוחרת </l>
+          <l>כשהשמש עולה אני מתחילה </l>
+          <l>לחשוב איך היה אחרת </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם רק היית כאן הכול היה נראה אחרת </l>
+          <l>תמונות חולפות אל מול עיניי היינו כמו בסרט </l>
+          <l>יודעי דבר היו אומרים שזה עניין של זמן </l>
+          <l>היית מוכרח ללכת </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אילולי לולי לולי לולי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

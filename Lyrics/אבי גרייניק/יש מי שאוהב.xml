@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש מי שאוהב</title>
+        <singer classification="male singer">אבי גרייניק</singer>
+        <writer>אבי גרייניק</writer>
+        <composer>יוני רכטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש מי שאוהב</head>
+        <lg number="1" type="stanza">
+          <l>יש מי שאוהב</l>
+          <l>ורואה ללב</l>
+          <l>את ריפיון הרצון</l>
+          <l>וכאב שצורב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש מי שאוהב</l>
+          <l>ורואה ללב</l>
+          <l>את מקום נגיסת</l>
+          <l>ציפיית הכזב</l>
+          <l>את כמיהת אהובו</l>
+          <l>לשוב אליו</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש מי שאוהב</l>
+          <l>ורואה את הכל</l>
+          <l>הקדושה והחול</l>
+          <l>גבעות, תהומות</l>
+          <l>הקלושה בתפילות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש מי שאוהב</l>
+          <l>ורואה בפנים</l>
+          <l>את אותות הפרעות</l>
+          <l>שקורות שם בפנים</l>
+          <l>יש מי שאוהב</l>
+          <l>ורואה ללב</l>
+          <l>את מקום לפיתת</l>
+          <l>תאוות הבשר</l>
+          <l>את אורה העמום</l>
+          <l>של תקוות המחר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יש מי שאוהב</l>
+          <l>ורואה את הכל</l>
+          <l>הקדושה והחול</l>
+          <l>גבעות, תהומות</l>
+          <l>הקלושה בתפילות</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כמו ניצנוציו</l>
+          <l>של אור כוכב</l>
+          <l>דימעותי בעינייך נקוות</l>
+          <l>ואת עכשיו</l>
+          <l>אין סוף מרחק</l>
+          <l>תשובה לכל השאלות</l>
+          <l>יש מי שאוהב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה לא בגלל העיניים</title>
+        <singer classification="unknown">אבי חוג ה</singer>
+        <writer>רמי לב</writer>
+        <composer>דורון אלימלך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה לא בגלל העיניים</head>
+        <lg number="1" type="stanza">
+          <l>את יודעת לגעת כשאת מחייכת</l>
+          <l>יש בך קסם וחכמה </l>
+          <l>רוצה אהבה, אהבה כל הזמן</l>
+          <l>נותנת את כל הנשמה</l>
+          <l>אלייך, בא אלייך</l>
+          <l>למתוק שבשפתייך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה לא בגלל העיניים היפות שלך </l>
+          <l>זה לא בגלל החיוך המתוק שלך</l>
+          <l>אוהב אותך רוצה אותך</l>
+          <l>בגלל האמת שלך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מאז שפגשתי אותך, השתנתי</l>
+          <l>משהו נרגע בתוכי </l>
+          <l>רוצה רק אותך, אותך בחיי</l>
+          <l>שלנצח, לא תלכי!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה לא בגלל...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אלייך, בא אלייך</l>
+          <l>למתוק שבשפתייך.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה לא בגלל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

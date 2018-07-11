@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דניאל</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>יובב כץ</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דניאל</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>פריחת שקדים חוגגת שוב</l>
+          <l>גני לבן</l>
+          <l>מעל גגות הכפר הינם</l>
+          <l>החסידות חלפו</l>
+          <l>עפו לשמיים... אל השמיים...</l>
+          <l>שלקחו אותך ממני דניאל.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>דניאל....</l>
+          <l>האביב מתקשט בצבעיו</l>
+          <l>דניאל</l>
+          <l>מתקשט האביב</l>
+          <l>דניאל.... דניאל...</l>
+          <l>דניאל שלי.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איך נוהג העולם כדרכו</l>
+          <l>דניאל....</l>
+          <l>קר לי קר...</l>
+          <l>האם אוכל כעץ שקד לפרוח שוב?</l>
+          <l>האם מותר? האם אוכל? התתן לי אות?</l>
+          <l>כל כך שקט בגן.... כל כך שקט...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דניאל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

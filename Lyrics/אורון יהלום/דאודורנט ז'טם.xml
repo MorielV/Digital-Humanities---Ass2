@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דאודורנט ז טם</title>
+        <singer classification="unknown">אורון יהלום</singer>
+        <writer>אורון יהלום</writer>
+        <composer>אורון יהלום</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דאודורנט ז'טם</head>
+        <lg number="1" type="stanza">
+          <l>דרך שכבות טיח וסיד </l>
+          <l>תבואי אלי בסוף הלילה </l>
+          <l>דרך כורכר ויסורים </l>
+          <l>כמה עוד נשאר לה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נשרים חגים בשמים </l>
+          <l>אבל אני עדיין נושם </l>
+          <l>רוחץ עצמי במים חמים חמים </l>
+          <l>דיאודורנט ז'טם </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דרך עפר קרוש ויבש </l>
+          <l>תבואי אלי שחררי אותי </l>
+          <l>דרך המלך לעיר הברקת </l>
+          <l>מתחילה כאן איתי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נשרים חגים בשמים </l>
+          <l>אבל אני עדיין נושם </l>
+          <l>רוחץ עצמי במים חמים חמים </l>
+          <l>דיאודורנט ז'טם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

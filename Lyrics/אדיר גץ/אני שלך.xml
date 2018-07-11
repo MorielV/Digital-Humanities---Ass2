@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני שלך</title>
+        <singer classification="unknown">אדיר גץ</singer>
+        <writer>אדיר גץ</writer>
+        <composer>אדיר גץ</composer>
+        <album>אדיר גץ</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני שלך</head>
+        <lg number="1" type="stanza">
+          <l>את כל הלב אני אתן רק לך</l>
+          <l>שתדעי שאני כאן רק בשבילך</l>
+          <l>והכאב יחלוף כשאת</l>
+          <l>תגיעי עם האור שבתוכך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם תרצי את הירח שיהיה רק בשבילך</l>
+          <l>אם תרצי כוכב שיהיה על שמך</l>
+          <l>את הכל אני אתן לך אהיה רק לצידך</l>
+          <l>אני כאן ואני שר רק בשבילך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני שלך ורק שלך</l>
+          <l>ואיך הלב שוב נפתח</l>
+          <l>כשהוא איתך ורק איתך</l>
+          <l>ורציתי כל כך </l>
+          <l>לתת לך את ליבי לתת לך את הכל</l>
+          <l>לנצח בלעדייך לא יכול</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בעולמי הכל כבר כאן</l>
+          <l>לעולמך אני חיכיתי עוד מזמן</l>
+          <l>וברגעים כשאת קרובה</l>
+          <l>האויר פתאום נכנס לנשמה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l> אם תרצי את הירח שיהיה רק בשבילך</l>
+          <l>אם תרצי כוכב שיהיה על שמך</l>
+          <l>את הכל אני אתן לך אהיה רק לצידך</l>
+          <l>אני כאן ואני שר רק בשבילך </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני שלך ורק שלך</l>
+          <l>ואיך הלב שוב נפתח</l>
+          <l>כשהוא איתך ורק איתך</l>
+          <l>ורציתי כל כך </l>
+          <l>לתת לך את ליבי לתת כך את הכל</l>
+          <l>לנצח בלעדייך לא יכול</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

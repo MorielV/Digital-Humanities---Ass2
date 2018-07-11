@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עיר אחרת</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>חיים קינן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עיר אחרת</head>
+        <lg number="1" type="stanza">
+          <l>בעירי החדשה בתמונותי הפכתי</l>
+          <l>חיוכים שנתיישנו היו לאחרים,</l>
+          <l>מעירי החדשה אל האתמול הלכתי</l>
+          <l>לבתים שנתקטנו, לרחובות שהפכו צרים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עיר אחרת, ארץ שאינה שלי</l>
+          <l>עיר בוערת, ואני אובד קולי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בעירי הישנה הזמן עומד מלכת</l>
+          <l>אנשי פוסעים לאט בתוך דרכי עפר,</l>
+          <l>בעירי הישנה מלכה זרה מולכת</l>
+          <l>ואמי יושבת בה, כמו שנים רק עוד יום עבר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עיר אחרת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בערים ללא תכלית את ילדותי חיפשתי</l>
+          <l>ברחובות מאובנים ביקשתי אבדות,</l>
+          <l>על ערים ללא תכלית את אתמולי עמסתי</l>
+          <l>ושחרים מעוגנים כיסו ביתי וציוו לנדוד.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עיר אחרת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

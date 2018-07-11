@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כובע גדול</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כובע גדול</head>
+        <lg number="1" type="stanza">
+          <l>לבחור את הפתק שלי, מתוך הכובע הגדול</l>
+          <l>ידיים מאחורי הגב, איזה יד אתה בוחר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היד של מי על ההגה, מי משיט את הסירה</l>
+          <l>אני יושב מאחורה, נושם את האוויר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אוווו...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>השיער שלך נכנס לי בעיניים, מדגדג</l>
+          <l>הכתף שלך מרעידה את הלב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מחשבות עפות מימין, עיניים פוזלות לצדדים</l>
+          <l>מניף דגל לבן, אמת שלא משתנה לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אוווו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמי אמי 2</title>
+        <singer classification="unknown">איטן גרינברג</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמי אמי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אמי אמי </l>
+          <l>פתחי הדלת </l>
+          <l>כל גופי רועד </l>
+          <l>מקור </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אמי אמי </l>
+          <l>פתחי הדלת </l>
+          <l>על כתפי </l>
+          <l>משא כבד </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ליל חלף, השלג בא </l>
+          <l>הוא מצליף בעצמותיי </l>
+          <l>אביט אל על, הרים עליי </l>
+          <l>לא נדע מה המחר </l>
+          <l>חבר יצא למשימה </l>
+          <l>הלב בוכה בחשיכה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אמי אמי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הלב דואב, רחוק ממך </l>
+          <l>שולח לך אלפי ברכות </l>
+          <l>הלילה קר, בתוך חדרי </l>
+          <l>חום ועדנה בחלוני </l>
+          <l>נערתי הקטנטנה </l>
+          <l>מכתב שלחה באהבה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אמי אמי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

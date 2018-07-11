@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמא אמא</title>
+        <singer classification="female singer">אביבה אבידן</singer>
+        <writer>עמוס אטינגר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמא אמא</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אמא, אמא,</l>
+          <l>הירח שר לך, אמא,</l>
+          <l>לאורו אומר לך, אמא:</l>
+          <l>את איתי,</l>
+          <l>את איתי.</l>
+          <l>אם הרחקתי לכת, אמא,</l>
+          <l>הן תדעי, ארמונות מלכות אבנה לך,</l>
+          <l>מלכתי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>במרום כל כוכב</l>
+          <l>לך שולח מיכתב</l>
+          <l>ומצרף תו אל תו</l>
+          <l>ושושן של זהב פורח,</l>
+          <l>כדי שאת ליבך שוב ישמח.</l>
+          <l>ולכן, אם תשמעי קול מיתרים,</l>
+          <l>אז תדעי - בנייך, אמא, לך שרים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אמא, אמא...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מול פריחות בירוק,</l>
+          <l>מן הים העמוק</l>
+          <l>ובין דמע לצחוק</l>
+          <l>לך אשלח מרחוק איגרת,</l>
+          <l>כדי שתשמריה למזכרת.</l>
+          <l>ואם יום שוב תשמעי קול מיתרים</l>
+          <l>אז תדעי - בנייך, אמא, שוב חוזרים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אמא, אמא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלוואי</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>משה אושר</writer>
+        <composer>משה אושר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלוואי</head>
+        <lg number="1" type="stanza">
+          <l>הלוואי והייתי גן של שושנים</l>
+          <l>הלוואי והיייתי גן של שושנים</l>
+          <l>כי אם הייתי גן של שושנים</l>
+          <l>היית מתבשם אצלי תמיד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הלוואי והייתי לחם בחמאה</l>
+          <l>הלוואי והייתי לחם בחמאה</l>
+          <l>כי אם הייתי לחם בחמאה</l>
+          <l>היית אז שבע פי מאה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הלווואי הלוואי וואי וואי</l>
+          <l>הלוואי הלוואי עלי</l>
+          <l>הלוואי הלוואי וואי וואי וואי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הלוואי והייתי כתר של זהב</l>
+          <l>הלוואי והייתי כתר של זהב</l>
+          <l>כי אם הייתי כתר של זהב</l>
+          <l>הייתי מכתירה אותך עכשיו</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הלוואי והייתי יופי של חלום</l>
+          <l>הלוואי והייתי יופי של חלום</l>
+          <l>כי אם הייתי יופי של חלום</l>
+          <l>היה על העולם חי בשלום</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הלוואי והייתי על מה שחסר</l>
+          <l>הלוואי והייתי כל מה שחסר</l>
+          <l>כי אם הייתי כל מה שחסר</l>
+          <l>היינו מתחתנים יותר מהר</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>הלוואי הלוואי וואי וואי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

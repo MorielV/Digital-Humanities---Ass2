@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אשא עיני 2</title>
+        <singer classification="unknown">אבי בן ישראל</singer>
+        <writer>מתוך תהילים</writer>
+        <composer>חיים אשואל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אשא עיני</head>
+        <lg number="1" type="stanza">
+          <l>אשא עיני אל ההרים </l>
+          <l>מאיין יבוא עזרי </l>
+          <l>עזרי מעם ה' </l>
+          <l>עושה שמיים וארץ</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל יתן למוט רגליך </l>
+          <l>אל ינום שומרך</l>
+          <l>הנה לא ינום ולא ישן </l>
+          <l>שומר ישראל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ה' ישמורך מכל רע</l>
+          <l>ישמור את נפשיך</l>
+          <l>ה' ישמור צאתך ובואך </l>
+          <l>מעתה ועד עולם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

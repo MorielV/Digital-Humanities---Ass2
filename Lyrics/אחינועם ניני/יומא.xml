@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יומא</title>
+        <singer classification="female singer">אחינועם ניני</singer>
+        <writer>אחינועם ניני</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יומא</head>
+        <lg number="1" type="stanza">
+          <l>Oh father, mother </l>
+          <l>Don't make me marry him for money </l>
+          <l>I love another </l>
+          <l>Whose eyes are kind and lips are honey </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>The cattle grazing fields are free </l>
+          <l>So why enbondage me </l>
+          <l>Your cows and oxen can be sold </l>
+          <l>Do not enslave my soul </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Oh father, mother </l>
+          <l>Your nights are stormed </l>
+          <l>With rain and thunder </l>
+          <l>Oh father, mother </l>
+          <l>Your nights are stormed </l>
+          <l>With rain and thunder </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>The water gushing from the sky </l>
+          <l>Is teardrops from my eyes </l>
+          <l>The thunder tearing skies apart </l>
+          <l>The Beating of my heart</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

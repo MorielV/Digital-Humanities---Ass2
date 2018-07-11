@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איזה דפוק אני</title>
+        <singer classification="unknown">אפולו</singer>
+        <writer>דורון בראונשטיין</writer>
+        <composer>אורן לב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איזה דפוק אני</head>
+        <lg number="1" type="stanza">
+          <l>דבר ראשון לשנות את השם</l>
+          <l>דורון בראונשטיין זה כמו שם עם גיבנת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ולעזוב את המקום הזה</l>
+          <l>לברוח לאחר</l>
+          <l>תמיד הרי חלמתי על ניו יורק</l>
+          <l>תמיד רציתי את ניו יורק</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הוי, איזה דפוק אני...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל הזמן מסתובב במקום</l>
+          <l>הראש תמיד בעננים</l>
+          <l>הלב על הפנים</l>
+          <l>חולם גדול</l>
+          <l>חולם חופשי</l>
+          <l>ואז תמיד בסוף מוצא את עצמי</l>
+          <l>קבור מתחת לשמיכות</l>
+          <l>עם פרוזאק </l>
+          <l>וסמים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הוי, ניו יורק...</l>
+          <l>הוי, ניו יורק...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>איזה דפוק אני...</l>
+          <l>איזה דפוק אני...</l>
+          <l>איזה דפוק אני...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אפולו</l>
+          <l>זה עוד שם עם גיבנת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

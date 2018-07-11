@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הוא אוהב את הטבע</title>
+        <singer classification="unknown">אחד חלקי אחד</singer>
+        <writer>אחד חלקי אחד</writer>
+        <composer>ריינשרייבר בועז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הוא אוהב את הטבע</head>
+        <lg number="1" type="stanza">
+          <l>איך יודעים שזה נגמר </l>
+          <l>איך יודעים שבדיוק עכשיו ובמשקל הזה </l>
+          <l>ובכזאת מילה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואיך יודע בן אדם להדחק אל החיים </l>
+          <l>ואיך כבר לא אכפת לו ממה שהוא הפך להיות </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הוא אוהב את הטבע </l>
+          <l>הוא מדמה אותו להר </l>
+          <l>ובתוך ההר הוא רואה אישה אדומה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא שעה או יום או חודש </l>
+          <l>כל שעה בכל יום כל החודש </l>
+          <l>אני רותחת לו בראש </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הוא אוהב קפה וניקוטין </l>
+          <l>ואת אישתו המישורית </l>
+          <l>בן שלושים וכבר ארבעים שנה שהוא כותב אותו דבר </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הוא אוהב את הטבע </l>
+          <l>הוא מדמה אותו להר </l>
+          <l>ובתוך ההר הוא רואה אישה אדומה </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>הוא שואל אם הוא יכול להעיר לי הערה </l>
+          <l>שהוא אוהב אותי נורא </l>
+          <l>הוא שואל אם הוא יכול לומר לי משהו יפה </l>
+          <l>שהוא אוהב אותי באופן משונה </l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>ואיך יודע בן אדם להדחק אל החיים </l>
+          <l>ואיך כבר לא אכפת לו ממה שהוא הפך להיות </l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>הוא אוהב את הטבע </l>
+          <l>הוא מדמה אותו להר </l>
+          <l>ובתוך ההר הוא רואה אישה אדומה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

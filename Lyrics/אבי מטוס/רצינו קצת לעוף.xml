@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רצינו קצת לעוף</title>
+        <singer classification="male singer">אבי מטוס</singer>
+        <writer>אבי מטוס</writer>
+        <composer>אבי מטוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רצינו קצת לעוף</head>
+        <lg number="1" type="stanza">
+          <l>כל היום הסתובבתי, לא ידעתי לאן</l>
+          <l>כמה שבא לי ללכת לים</l>
+          <l>כל היום הסתובבתי בראש מבולבל</l>
+          <l>כמה שבא לי לתפוס איזה גל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רצינו קצת לעוף</l>
+          <l>רצינו קצת לצוף</l>
+          <l>אבל כל היום הסתובבנו בטירוף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל היום הסתובבתי, לא ידעתי לאן</l>
+          <l>כמה שבא לי ללכת לים</l>
+          <l>כל היום הסתובבתי שם בים על החוף</l>
+          <l>כמה שבא לי לעזוב את הכל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רצינו קצת לעוף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

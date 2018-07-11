@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גשר מאולתר</title>
+        <singer classification="male singer">אסף ארליך</singer>
+        <writer>אסף ארליך</writer>
+        <composer>אסף ארליך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גשר מאולתר</head>
+        <lg number="1" type="stanza">
+          <l>גשר מאולתר שיעביר לי את היום</l>
+          <l>הכל חד, הכל ברור, הכל דופק</l>
+          <l>רק יש ימים כאלה שאיך שלא תזוז</l>
+          <l>אתה נשבר צוחק חזק ומתרסק</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואז באמצע התנועה</l>
+          <l>אתה מחליט להשתנות</l>
+          <l>כי הרי כל דקה חשובה</l>
+          <l>ובמקום להתפורר בגאווה</l>
+          <l>אתה נרדם, אתה סמרטוט של אמונה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אף פעם לא אמרת שהמקום הזה שלי</l>
+          <l>תמיד ברחוב ימיני נהיה שמאלי</l>
+          <l>פחד בבטן קטן ולא אישי</l>
+          <l>נוסעים עוד הלילה</l>
+          <l>רגועים יותר</l>
+          <l>אוהבים יותר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>גשר אתה חייב שיגמור כבר את היום</l>
+          <l>הכל חד ומשתדל להתחזק</l>
+          <l>רק יש ימים כאלה שאיך שלא תזוז</l>
+          <l>אתה נשבר צוחק חזק ומתרסק</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואז באמצע התנועה</l>
+          <l>אתה מחליט להשתנות</l>
+          <l>במין פרץ אטימות לא מרוסנת</l>
+          <l>ובמקום להתפורר בגאווה</l>
+          <l>אתה נרדם, אתה סמרטוט של אמונה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אף פעם לא אמרת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

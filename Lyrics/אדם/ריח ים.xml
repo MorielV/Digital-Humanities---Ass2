@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ריח ים</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>יוני זיכהולץ</writer>
+        <composer>איתי פרלמן נסיך</composer>
+        <album>רגעים קטנים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ריח ים</head>
+        <lg number="1" type="stanza">
+          <l>ריח ים, עיניים עצומות </l>
+          <l>הייתי פותח, אם היה מה לראות. </l>
+          <l>צוואר מזיע, שפתיים שורפות </l>
+          <l>שיער אסוף, ריח ים של גוף. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והעיר שקטה, הרחובות בוערים </l>
+          <l>הייתי יוצא לרקוד איתך ואלס. </l>
+          <l>ואת ישנה, אהובה על כרית, </l>
+          <l>מחר ילדה נלך לקרקס, שהגיע לעיר. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא אגש, לא אפר שתיקתך </l>
+          <l>העיר נטושה, הגן שלך ריק. </l>
+          <l>איך צווארך מזיע, איך שפתייך שורפות, </l>
+          <l>רוך שיערך האסוף, ריח דם של גוף. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והעיר שקטה, הרחובות בוערים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

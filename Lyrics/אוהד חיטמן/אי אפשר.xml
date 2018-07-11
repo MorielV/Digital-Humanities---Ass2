@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אי אפשר</title>
+        <singer classification="male singer">אוהד חיטמן</singer>
+        <writer>אוהד חיטמן</writer>
+        <composer>אוהד חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אי אפשר</head>
+        <lg number="1" type="stanza">
+          <l>אי אפשר לכבות בבת אחת את הרגשות</l>
+          <l>שרק לפני שלושה ימים היו בינינו</l>
+          <l>אי אפשר לשחק מצד אחד להראות שאוהבים</l>
+          <l>ומצד שני פתאום זה איננו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אי אפשר לגרום לי להיפתח</l>
+          <l>להגיד שאוהבים אותי כל כך</l>
+          <l>ואז בבת אחת לקום בלי להסביר</l>
+          <l>ולהשאיר אותי הטמבל הכי גדול בעיר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אי אפשר לחתוך בבת אחת את הרגעים</l>
+          <l>שבהם הרגשנו כמו אחד והיינו יחד</l>
+          <l>אי אפשר לבטוח באחר רק שזה נוח</l>
+          <l>כשרק לפני שלושה ימים לא ידענו פחד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אי אפשר לגרום לי להיפתח...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אי אפשר לכבות בת אחת את הרגשות</l>
+          <l>שרק לפני שלושה ימים היו בינינו</l>
+          <l>אי אפשר לסיים בלי הכבוד המינימלי</l>
+          <l>של פגישת פנים אל מול פנים בין שנינו</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אי אפשר לגרום לי להיפתח...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אי אפשר לתת לי הרגשה שזה רציני</l>
+          <l>ובבת אחת לברוח להגיוני</l>
+          <l>אני רוצה להאמין באהבה</l>
+          <l>אבל עכשיו אני כמו טמבל והלב שלי כבה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

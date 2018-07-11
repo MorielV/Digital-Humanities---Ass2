@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>להיות איתך 3</title>
+        <singer classification="unknown">אור שאול</singer>
+        <writer>אור שאול</writer>
+        <composer>טל אלבלה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>להיות איתך</head>
+        <lg number="1" type="stanza">
+          <l>תמיד אני ידעתי שיש משהו אמיתי,</l>
+          <l>בלב שלי הרגשתי שרק את בשבילי,</l>
+          <l>היחידה שמבינה ומרגשת אותי</l>
+          <l>כמו תזמורת שחודרת אל חדרי ליבי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רציתי רק להיות איתך,</l>
+          <l>חיפשתי לחבק אותך,</l>
+          <l>לאחוז בשתי ידייך לעולם.</l>
+          <l>ובלילות קרים עדיין, </l>
+          <l>הלב שלי נחצה לשניים,</l>
+          <l>אני רוצה לחזור אלייך לעולם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את גורמת לי להיות שונה מהבריות, </l>
+          <l>לימדת ושינית, תיקנתי טעויות.</l>
+          <l>ניסיתי להבחין בין שני העולמות,</l>
+          <l>קשה לי, בלעדייך זה לחדול ולא להיות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רציתי רק להיות איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

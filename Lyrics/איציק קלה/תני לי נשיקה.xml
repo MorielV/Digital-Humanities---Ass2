@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תני לי נשיקה</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תני לי נשיקה</head>
+        <lg number="1" type="stanza">
+          <l>כל המיתרים שבליבי</l>
+          <l>לך מנגנים אהובתי</l>
+          <l>שאני נושם אותך אלי</l>
+          <l>ושוב עוצם את עיני</l>
+          <l>בדמעות לוקח נשימה</l>
+          <l>ומחסיר לרגע פעימה</l>
+          <l>בלי מילים כמו ילד מתרגש</l>
+          <l>שביליבי מבקש </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תני לי רק עוד פעם נשיקה </l>
+          <l>מתוקה על שפתי</l>
+          <l>תני לי רק עוד פעם נשיקה </l>
+          <l>ונשמתי תחזור אלי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאת מביטה בי לדקה</l>
+          <l>איך אני פתאום נתקף חולשה </l>
+          <l>לא מבין בכלל מה לי קורה</l>
+          <l>שאת יופייך שוב רואה </l>
+          <l>ואת מניחה ראשך עלי</l>
+          <l>מחזירה חיוך בשתי עיני</l>
+          <l>ואני חוזר שוב לעצמי </l>
+          <l>כי את נמצאת בליבי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תני לי רק עוד פעם נשיקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טעם זכרונות</title>
+        <singer classification="unknown">איזקיס</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>דיוניסיס טקיפ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טעם זכרונות</head>
+        <lg number="1" type="stanza">
+          <l>אור כוכב חייך אלינו</l>
+          <l>ימים יפים ידענו שנינו</l>
+          <l>לך הייתי יד אוהבת</l>
+          <l>איך פתאום את עוזבת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>טעם זכרונות, טעם זכרונות</l>
+          <l>בלב תמונות שלא חלפות</l>
+          <l>מה שנשאר בי רק זכרונות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לילות רבים אהבנו שנינו</l>
+          <l>הלב ידע מה שבינינו</l>
+          <l>איך ויתרת כלום לא רמרת</l>
+          <l>רק זכרונות שבי הותרת.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>טעם זכרונות, טעם זכרונות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

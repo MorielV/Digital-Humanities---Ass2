@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש עוד מקום</title>
+        <singer classification="female singer">אפרת בן צור</singer>
+        <writer>אפרת בן צור</writer>
+        <composer>אפרת בן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש עוד מקום</head>
+        <lg number="1" type="stanza">
+          <l>יש עוד מקום בכיסא לידי</l>
+          <l>שב לידי</l>
+          <l>יש עוד מקום בכיסא לידי</l>
+          <l>שב לידי</l>
+          <l>ואם תרצה אם תוכל הנח את ידך עלי</l>
+          <l>שמש תזרח בינינו שמיים יתבהרו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וכשתלך ממני</l>
+          <l>אל תשכח אותי</l>
+          <l>שמש זרחה בינינו</l>
+          <l>אל תשכח אותי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

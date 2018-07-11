@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Say Where</title>
+        <singer classification="band">אטליז</singer>
+        <writer>גיא בן שיטרית</writer>
+        <composer>לי טריפון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Say Where</head>
+        <lg number="1" type="stanza">
+          <l>When you will come with me </l>
+          <l>Into my hell </l>
+          <l>I will have to stay there </l>
+          <l>While you can be anywhere </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Take me back to the land of time </l>
+          <l>Take me back to reveal my crime </l>
+          <l>Take me back to the land </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>You’ll be in heaven while </l>
+          <l>My angels dwell </l>
+          <l>Find my way to get there </l>
+          <l>I’d follow you anywhere </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>Take me back... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>Hey you pretty boy I was just looking for you </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>Say where </l>
+          <l>I want to have what you share</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

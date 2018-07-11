@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בום בום</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בום בום</head>
+        <lg number="1" type="stanza">
+          <l>בום בום בנג בנג כך הם מדברים איתנו</l>
+          <l>נצעק נמות והם לא יקשיבו לנו</l>
+          <l>בום בום בנג בנג שים בשקט את השוחד</l>
+          <l>ואם אתה בלי פרוטה תדחוף את הזכויות שלך עמוק לתחת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כבר מזמן זו לא אותה המדינה אתה יודע אתה יודע</l>
+          <l>תלחם על כל מה שקורה סביבך אתה שומע אתה שומע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בום בום בנג בנג משחקים אותה אמריקאים</l>
+          <l>בום בום בנג בנג כבוד ראש המלחמה על הכתפיים</l>
+          <l>בום בום בנג בנג שמיים לך קמיע בידיים</l>
+          <l>הם מוכרים את אלוהים שלך בכספך תפתח את העיניים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כבר מזמן זו לא אותה המדינה אתה שומע אתה שומע</l>
+          <l>תלחם על כל מה שקורה סביבך אתה יודע אתה יודע</l>
+          <l>בום בום טראח</l>
+        </lg>
+        <lg number="5" type="stanza"/>
+      </lg>
+    </body>
+  </text>
+</TEI>

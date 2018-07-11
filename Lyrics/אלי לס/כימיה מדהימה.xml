@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כימיה מדהימה</title>
+        <singer classification="male singer">אלי לס</singer>
+        <writer>אלי לס</writer>
+        <composer>אלי לס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כימיה מדהימה</head>
+        <lg number="1" type="stanza">
+          <l>חוזר הביתה </l>
+          <l>ישן מתעורר </l>
+          <l>מחרבן אוכל קצת </l>
+          <l>קורא מנגן </l>
+          <l>מתקשר מתמרחן </l>
+          <l>מבטל עוד פגישה </l>
+          <l>וכל הזמן רוצה אישה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ישנן דרכים רבות </l>
+          <l>להעביר יום </l>
+          <l>יש לי חבר </l>
+          <l>שבירה שותה כל היום </l>
+          <l>שומע מערכת סטריאו מרעישה </l>
+          <l>וכל הזמן רוצה אישה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את ודאי מבחינה </l>
+          <l>שיש לנו כימיה מדהימה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

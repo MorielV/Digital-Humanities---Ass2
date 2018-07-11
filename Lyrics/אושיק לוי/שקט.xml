@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שקט</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>אבי בללי</writer>
+        <composer>missing</composer>
+        <album>קול וחומר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שקט</head>
+        <lg number="1" type="stanza">
+          <l>משייט בדמיון בוהה אל תקרה לבנה</l>
+          <l>עוזב וחוזר אל העדר</l>
+          <l>צללית של אימה זוחלת אליו</l>
+          <l>שואבת אותו מהשקט</l>
+          <l>שקט</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש ענן של אבק סימני מאבק</l>
+          <l>הוא כבול ומובל אל החדר</l>
+          <l>נופל מרגליו מלקק את פצעיו</l>
+          <l>ובאוזניו היא שואגת</l>
+          <l>"שקט"</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זאת היתה המורה לאטימות שימושית</l>
+          <l>שחיפשה בו ילדות מפוקפקת</l>
+          <l>כל חלון של דמיון היא סתמה עם בטון</l>
+          <l>דאגה לאטום את החשק</l>
+          <l>יש חשש מבוסס שעם השנים לא נמס</l>
+          <l>שבאוצר המילים היא מוגבלת</l>
+          <l>"החוצה!" "לצד!" "לקום!" "לשבת!"</l>
+          <l>ו "שקט"</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

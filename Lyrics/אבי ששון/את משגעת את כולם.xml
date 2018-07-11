@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את משגעת את כולם</title>
+        <singer classification="unknown">אבי ששון</singer>
+        <writer>אבי ששון</writer>
+        <composer>אבי ששון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את משגעת את כולם</head>
+        <lg number="1" type="stanza">
+          <l>את יפה שזה כואב</l>
+          <l>ליבי מחסיר בי פעימה</l>
+          <l>על רחבת הריקודים</l>
+          <l>לילותיך סוערים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את משגעת את כולם</l>
+          <l>בגללך ליבי נשבר</l>
+          <l>מחפש אותך בכל מקום</l>
+          <l>מסתובבת בלילות </l>
+          <l>ורוצה רק לבלות</l>
+          <l>עוד משקה וזה קשה מאוד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את רוקדת לבדך</l>
+          <l>השמים הם הגבול</l>
+          <l>אני מביט בך ומחייך</l>
+          <l>איך אחדור אל עולמך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את משגעת את כולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

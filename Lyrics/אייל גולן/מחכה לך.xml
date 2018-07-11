@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחכה לך</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>דרך לחיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחכה לך</head>
+        <lg number="1" type="stanza">
+          <l>יום אחד תבואי ואת ליבי תכניעי </l>
+          <l>על מרבדים של קסם אפרוש מילותי</l>
+          <l>אשיר לך סרנדה , לא צריך גיטרה </l>
+          <l>על מיתרי הלב אפרוט לך את שירי. </l>
+          <l>אני אבוא אלייך כמו גנב </l>
+          <l>לאור כוכב, אותך אוהב. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מחכה לך ואת מתמהמהת </l>
+          <l>מחכה לך, אולי את לא יודעת </l>
+          <l>אני כאן לבד מושיט אלייך יד </l>
+          <l>אז בואי, בואי אלי. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ממרחקים קורא לך, יודע שתבואי </l>
+          <l>אני אכרע על ברך ואת תגידי כן, </l>
+          <l>אך אם אראך חולפת, ממני מתעלמת. </l>
+          <l>אל תוך ליבך ילדה אדע להסתנן </l>
+          <l>אני אבוא אליך כמו גנב </l>
+          <l>לאור כוכב, אותך אוהב. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מחכה לך ואת מתמהמהת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

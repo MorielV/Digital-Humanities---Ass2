@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פרימיטיבים</title>
+        <singer classification="male singer">ארז לב ארי</singer>
+        <writer>טי בון ברנט</writer>
+        <composer>טי בון ברנט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פרימיטיבים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>פרימיטיבים עוטים מסיכות וצבעים </l>
+          <l>להניס את אויבי העם </l>
+          <l>מה שמפחיד זה לא מוות </l>
+          <l>מפחיד יותר לא לחיות </l>
+          <l>קשה לשער מה כואב יותר </l>
+          <l>התרופה או המחלה </l>
+          <l>מה שמפחיד זה לא מוות </l>
+          <l>מפחיד יותר לא לחיות </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש זקן שחי לו בקצה העיר </l>
+          <l>שלד בחלון ותריסים סגורים </l>
+          <l>והוא בז לכסף ולתהילה </l>
+          <l>והוא בז לאושר והוא בז לבושה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>פרימיטיבים עוטים מסיכות וצבעים... </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היא גרה לה לבד בכניסה לעיר, סע לעיר </l>
+          <l>אור בחלון ושיער בהיר </l>
+          <l>היא רוצה אותי פרא היא רוצה אותי רך, </l>
+          <l>רוצה אותי כך</l>
+          <l>היא איתי הרבה והיא איתי מעט, איתי לאט</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

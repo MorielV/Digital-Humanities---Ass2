@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציון 2</title>
+        <singer classification="female singer">אורטל אופק</singer>
+        <writer>אורטל אופק</writer>
+        <composer>אורטל אופק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציון</head>
+        <lg number="1" type="stanza">
+          <l>בעיר זרה הרחק מכאן </l>
+          <l>האופק נצבע תמרות עשן </l>
+          <l>אומרים שהעיר הזאת מרכז אמנות </l>
+          <l>אבל אין בה טיפת נשמה </l>
+          <l>יש רק תיירות </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בעיר קרה הרחק מהחום </l>
+          <l>אנשים עוזבים על קירות אבנים </l>
+          <l>הבנייה היא אחרת </l>
+          <l>הרחוב מיותם משמחת חיים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אין, אין לי מקום אחר </l>
+          <l>מלבד הבית החם שנושק לשפת הים התיכון </l>
+          <l>אולי זו ארץ קטנה מדי </l>
+          <l>אבל בשבילי זה מספיק </l>
+          <l>ציון את לי בית </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בעיר זרה הרחק מכאן </l>
+          <l>פתחתי חלון לעולם הגדול </l>
+          <l>ניסיתי לשכוח מכל מה שמוכר </l>
+          <l>לשמוע צלילים חדשים לנשום אוויר זר </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בעיר קרה הרחק מהחום... </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אין, אין לי מקום אחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

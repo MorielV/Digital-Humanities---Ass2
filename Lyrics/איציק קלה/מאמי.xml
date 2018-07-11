@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאמי</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאמי</head>
+        <lg number="1" type="stanza">
+          <l>לכל אדם בעולם</l>
+          <l>ישנו אוצר נעלם.</l>
+          <l>לא יספר לאיש עליו,</l>
+          <l>אותו ישמור ויאהב</l>
+          <l>ולי יש את אוצרי</l>
+          <l>כי ידעתי - את שלי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מאמי, מאמי, את שלי,</l>
+          <l>את יומי לי, את לילי.</l>
+          <l>את הכל בעולמי,</l>
+          <l>כמה טוב לי - את אתי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אוצר יפה ויקר,</l>
+          <l>את לי תמיד העיקר</l>
+          <l>וכל השאר כה טפל,</l>
+          <l>עומד בצד ואפל.</l>
+          <l>מיום שאת באת אלי,</l>
+          <l>את עומדת מול עיני.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מאמי, מאמי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הבאת אביב לחיי,</l>
+          <l>הארת לבי ועיני.</l>
+          <l>גאה הלב במסתרים</l>
+          <l>על מה שאין לאחרים</l>
+          <l>כי לי יש את אוצרי</l>
+          <l>וידעתי - את שלי.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מאמי, מאמי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

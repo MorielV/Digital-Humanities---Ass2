@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לב גבר</title>
+        <singer classification="female singer">אתי לוי</singer>
+        <writer>דני שושן</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לב גבר</head>
+        <lg number="1" type="stanza">
+          <l>צובט בתוך הלב כן זה צובט</l>
+          <l>לראות איך שהכל מתמוטט</l>
+          <l>וכל אשר בנית מתרופף</l>
+          <l>לכל עבר ורוח מתעופף</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואל יימר ליבך יש גם מחר</l>
+          <l>מחה את דמעתך שם בסתר</l>
+          <l>לב גבר לפעמים נשבר</l>
+          <l>גרש העננה לכל עבר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כואב בתוך הלב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

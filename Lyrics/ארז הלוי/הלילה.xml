@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלילה 17</title>
+        <singer classification="male singer">ארז הלוי</singer>
+        <writer>ארז הלוי</writer>
+        <composer>ארז הלוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלילה</head>
+        <lg number="1" type="stanza">
+          <l>הלילה אנגן לך בכינור אדום</l>
+          <l>הלילה על כנף ציפור נרחיק לנדוד</l>
+          <l>אך אם תעזביני, אנא הביני</l>
+          <l>אין לילה בו תוכלי אלי לבוא</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הלילה הקסם את גופך ישטוף</l>
+          <l>הלילה באור לבן נשוט רחוק</l>
+          <l>אך אם תעזביני, אנא הביני</l>
+          <l>אין לילה בו תוכלי אלי לבוא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

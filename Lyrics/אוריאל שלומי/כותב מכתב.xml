@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כותב מכתב</title>
+        <singer classification="male singer">אוריאל שלומי</singer>
+        <writer>משה הדר</writer>
+        <composer>משה הדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כותב מכתב</head>
+        <lg number="1" type="stanza">
+          <l>כותב מכתב אלייך עכשיו</l>
+          <l>את כל אשר עובר עלי מאי שם</l>
+          <l>חושב אני פועם ליבי</l>
+          <l>חולם עליך אהובה אני נזכר</l>
+          <l>אני נזכר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהובתי נגבי את דמעותייך</l>
+          <l>אני מבטיח לך אני חוזר</l>
+          <l>הן לא אוכל לחיות עוד בלעדייך</l>
+          <l>יש לי אותך בלבד ולא יותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בהיר היום הלילה קר</l>
+          <l>אני צופה מעמדתי אל המחר</l>
+          <l>אותו חלום היה מוזר </l>
+          <l>אותך ראיתי סתם הולכת במדבר</l>
+          <l>כן במדבר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהובתי נגבי את דמעותייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

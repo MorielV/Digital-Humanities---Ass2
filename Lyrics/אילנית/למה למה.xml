@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למה למה</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>אבי קורן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למה למה</head>
+        <lg number="1" type="stanza">
+          <l>שמחה, וצחוק וצער</l>
+          <l>על מדבר, וים ויער</l>
+          <l>עת אתה היית נער</l>
+          <l>ואני ילדה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בלילות כסופים של סהר</l>
+          <l>בלילות ברקים וסער</l>
+          <l>לי הבטחת ים ויער</l>
+          <l>אז במתנה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>למה, למה, את הפנית גבך,</l>
+          <l>לכל מבטי?</l>
+          <l>למה, למה, לא ענית לי,</l>
+          <l>על כל מילותי?</l>
+          <l>אמור לי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל מול ימים של שקט</l>
+          <l>כשאני מולך צוחקת</l>
+          <l>מול השמש הזורקת</l>
+          <l>ניצוצות של אש</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואני בלאט חומקת</l>
+          <l>לחורשה הירקרקת</l>
+          <l>מתפללת לי בשקט</l>
+          <l>ששוב נפגש</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>למה, למה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אין יותר ימים כאלה</l>
+          <l>ולילות יפים של תכלת</l>
+          <l>גם אתה אינך כבר ילד</l>
+          <l>ואיני ילדה</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>וצחוקך הו, עלם חמד</l>
+          <l>נעלם באורח פלא</l>
+          <l>השנים סוגרות כמו כלא</l>
+          <l>ודמותך אבדה</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>למה, למה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

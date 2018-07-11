@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחר כך יתגשמו</title>
+        <singer classification="female singer">אפרת בן צור</singer>
+        <writer>אפרת בן צור</writer>
+        <composer>אפרת בן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחר כך יתגשמו</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אחר כך יתגשמו</l>
+          <l>האהבות שמחכות</l>
+          <l>לצד הדרך</l>
+          <l>על יד עוד הרבה</l>
+          <l>עצים גבוהים גבוהים</l>
+          <l>תראו איך הם פורחים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אחר כך יחייכו</l>
+          <l>האנשים שבכו</l>
+          <l>על יד עוד הרבה</l>
+          <l>עצים גבוהים גבוהים</l>
+          <l>תראו איך הם פורחים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אחר כך יתגשמו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זאת אהבה</title>
+        <singer classification="unknown">אמיר שטרית</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זאת אהבה</head>
+        <lg number="1" type="stanza">
+          <l>לא רוצה לפרוס כנף לשמיים</l>
+          <l>לא רוצה לזרום כמו הים</l>
+          <l>תני לי להביט בעינייך</l>
+          <l>לראות שם את כל העולם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אין לי הבטחות לאור הירח</l>
+          <l>אין לי גם מפת כוכבים</l>
+          <l>יש בי לב אחד שפורט לך</l>
+          <l>על שישה מיתרים אוהבים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זאת אהבה והיא מגשימה</l>
+          <l>את משאלות הנשמה</l>
+          <l>כמו אלף תפילות של מלאכים</l>
+          <l>בעצם מכל החיים, שלנו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בחיי את כמו הרוח נושבת</l>
+          <l>רק ממך הלב מתמלא</l>
+          <l>אין אחד כמוך שאוהבת</l>
+          <l>בלעדייך אני לא שלם</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זאת אהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

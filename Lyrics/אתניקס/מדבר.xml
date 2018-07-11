@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מדבר</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>רמי גורן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מדבר</head>
+        <lg number="1" type="stanza">
+          <l>מדבר...</l>
+          <l>שממה של אדם</l>
+          <l>ושלי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>משתרך לו גמל</l>
+          <l>לבדו</l>
+          <l>מ... לאן?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואדם שברח ותעה</l>
+          <l>ומצא מנוחה</l>
+          <l>לתמיד.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הידעת מתי</l>
+          <l>התדע עד מתי</l>
+          <l>והיכן?</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כאן הנצח,</l>
+          <l>הנצח דובר את דברו</l>
+          <l>בשתיקה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מדבר </l>
+          <l>ושממה של אדם</l>
+          <l>ושלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

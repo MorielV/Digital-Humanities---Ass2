@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אוהב אוהב</title>
+        <singer classification="unknown">אסף לוי</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אוהב אוהב</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אני אוהב אוהב רוצה אלייך נערה </l>
+          <l>אוהב אותך כי בשבילך ליבי נברא</l>
+          <l>את כמו חלום שבלב ממשיך לפעום</l>
+          <l>אז בואי בואי אהובה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זוג של משקפיים מכסה לך ת'עיניים</l>
+          <l>ואני מת לנחש אם ליבך אלי רוגש</l>
+          <l>את אלי צוחקת ולפתע מתחמקת</l>
+          <l>ואני כמו מטורף בעינייך מאוהב</l>
+          <l>תני חיוך או שניים מתוך הנשמה</l>
+          <l>לך אתן שמיים וגם ים של אהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני אוהב אוהב...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמו סופה חולפת את הלב שלי קוטפת</l>
+          <l>וחושי מתבלבלים נגמרות לי המילים</l>
+          <l>בין שמחה לעצב בליבי עולה הקצב</l>
+          <l>אבל איך אשיג לי איך את הכתובת לליבך</l>
+          <l>תני חיוך או שניים מתוך הנשמה </l>
+          <l>לך אתן שמיים וגם ים של אהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני אוהב אוהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

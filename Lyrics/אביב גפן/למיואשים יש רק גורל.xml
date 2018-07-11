@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למיואשים יש רק גורל</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>יומן מסע</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למיואשים יש רק גורל</head>
+        <lg number="1" type="stanza">
+          <l>אני עוד מחכה</l>
+          <l>היא אמרה</l>
+          <l>מישהו למעלה עוד אוהב אותה</l>
+          <l>הוא ישלח לה מישהו נחמד</l>
+          <l>שיישאר איתה</l>
+          <l>יהיה בסדר</l>
+          <l>היא אמרה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל בבוא הערב היא רואה</l>
+          <l>למיואשים יש רק גורל...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני אדם מוכשר</l>
+          <l>הוא אמר</l>
+          <l>הגלה את עצמו ללונדון</l>
+          <l>להיות לא מאושר</l>
+          <l>כתב שירים קטנים</l>
+          <l>ברכבות התחתיות לבד</l>
+          <l>"עוד יגלו אותי"</l>
+          <l>הוא אמר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבל בבוא הערב הוא גילה</l>
+          <l>למיואשים יש רק גורל...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואם הוא לא מגיע</l>
+          <l>זה אף לא מאוחר</l>
+          <l>למיואשים יש מחר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>למיואשים יש רק גורל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

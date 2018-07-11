@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לך איתה 2</title>
+        <singer classification="unknown">אור טרגן</singer>
+        <writer>קובי רכט</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לך איתה</head>
+        <lg number="1" type="stanza">
+          <l>והיא רואה שוב בעיניך</l>
+          <l>שהיית שוב איתה אתמול</l>
+          <l>והיא רואה איך בעיניך</l>
+          <l>אתה והיא עכשיו לבד, לבד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והיא רואה שוב את פניך</l>
+          <l>מביטות בי באותו מבט</l>
+          <l>אני אוחזת בידיך</l>
+          <l>בידיך הקרות כמעט</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם היא אמרה שהיא</l>
+          <l>אוהבת רק אותך כל כך</l>
+          <l>אז לך איתה</l>
+          <l>לך לשם</l>
+          <l>אם היא אמרה שהיא</l>
+          <l>אוהבת רק אותך כל כך</l>
+          <l>אז לך איתה</l>
+          <l>לך לך איתה לשם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני רואה בזרועותיך</l>
+          <l>איך ראשה בזרועותיך נח</l>
+          <l>אני רואה שוב בעיניך</l>
+          <l>איך כולה, כולה שלך, כולה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם היא אמרה שהיא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

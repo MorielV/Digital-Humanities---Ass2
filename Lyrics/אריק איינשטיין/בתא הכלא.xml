@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בתא הכלא</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אלכסנדר ברפור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בתא הכלא</head>
+        <lg number="1" type="stanza">
+          <l>בפאריז לא פעם אל השאול יורדים </l>
+          <l>אבל זה גן עדן מול אי השדים </l>
+          <l>בסמטה נידחת בכי הילדים </l>
+          <l>זה נשמע כזמר מאי השדים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לי נערה הייתה צחה כמו יונה </l>
+          <l>עד באה הקנאה בלהב סכינה </l>
+          <l>ואני אתן פה גם את שתי ידיי </l>
+          <l>כדי לראות אותה עוד פעם לפני</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>היא פאריז של אושר ורחובות שקטים </l>
+          <l>כמה רחוקה את מאי השדים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני זוכר חלום רחוק אשר עבר </l>
+          <l>עת לובן הצוואר נושם אל פני הכר</l>
+          <l>ואני אתן פה גם את שתי ידי</l>
+          <l>כדי לראות אותה עוד פעם לפני</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>היא פאריז של אושר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

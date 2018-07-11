@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כוכבים התחבאו בדמי</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אברהם חלפי</writer>
+        <composer>פיטר רוט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כוכבים התחבאו בדמי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>כוכבים התחבאו בדמי -</l>
+          <l>ויהי הדם בהיר.</l>
+          <l>הלילה דולק כאור תמיד</l>
+          <l>במעמקי האוויר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הארץ זורמת לאט</l>
+          <l>בחיק הרקיע החם.</l>
+          <l>אשתה את הזמן</l>
+          <l>כיין מכד -</l>
+          <l>שיקוי אלוהים וחכם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שעת כוכבים טהורה.</l>
+          <l>אור לילה מלוא החזה.</l>
+          <l>אם טוב העולם</l>
+          <l>ואם רע -</l>
+          <l>הוא שלי העולם הזה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כוכבים התחבאו בדמי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

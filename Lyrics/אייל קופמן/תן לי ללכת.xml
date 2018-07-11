@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תן לי ללכת 2</title>
+        <singer classification="male singer">אייל קופמן</singer>
+        <writer>אייל קופמן</writer>
+        <composer>אייל קופמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תן לי ללכת</head>
+        <lg number="1" type="stanza">
+          <l>איך זה? </l>
+          <l>בכל פעם שאני עוצם עיניים </l>
+          <l>מתעייף ורואה בבואתך </l>
+          <l>כאילו משהו בי מחליף צורה </l>
+          <l>והפרצוף שלך </l>
+          <l>מעוות לי ת'פנים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתה רודף אותי </l>
+          <l>אני אתה אתה אני </l>
+          <l>בכל מקום בשום מקום </l>
+          <l>אני כל כך עייף </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תן לי ללכת </l>
+          <l>ממך </l>
+          <l>תן לי ללכת </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הייתי רוצה </l>
+          <l>שתחבק אותי חזק </l>
+          <l>ותעביר את כל הכאבים </l>
+          <l>תסתכל בי כאילו שאנחנו יכולים </l>
+          <l>כאילו זה לא משנה מה אני עושה </l>
+          <l>מה אתה עושה </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תן לי ללכת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

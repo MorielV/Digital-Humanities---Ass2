@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמר שכזה</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>יענקל'ה רוטבליט</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמר שכזה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>זמר שכזה נוגן על השפתיים,</l>
+          <l>כמו שלושה תופים, הולם בכוח בחזה.</l>
+          <l>ולא נותן מנוחה בשעת הצהריים,</l>
+          <l>שורק כל הרחוב מן זמר שכזה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בבוקר מזמרות אותו עקרות הבית</l>
+          <l>בקצב הן תולות עמו את הכביסה.</l>
+          <l>שרים הספנים אשר יוצאים לשיט</l>
+          <l>וכל החיילים בערב במסע.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זמר שכזה נוגן על השפתיים...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>פקידות במשרדים מתקתקות בקצב</l>
+          <l>מכתב וקבלה ודו"ח וחוזר.</l>
+          <l>וגם הבוס רואה שאין בררה בעצם</l>
+          <l>ומצטרף בקול לבית החוזר.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זמר שכזה נוגן על השפתיים...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>על חוט הטלפון ציפור אותו שורקת,</l>
+          <l>שרים ליד ההגה כל הנהגים,</l>
+          <l>ושרה לשדרה השמש הצוחקת.</l>
+          <l>בים שרים בלי קולי אפילו הדגים.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>זמר שכזה נוגן על השפתיים...</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>שרים הילדים ושרה הגננת,</l>
+          <l>שרים הזמרים בקול ובלי הפסק.</l>
+          <l>בלילה בחצות תזמורת מנגנת</l>
+          <l>והזוגות רוקדים אותו בדיסקוטק.</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>זמר שכזה נוגן על השפתיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

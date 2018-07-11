@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה שקרה</title>
+        <singer classification="female singer">אפרת גוש</singer>
+        <writer>ברק פלדמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה שקרה</head>
+        <lg number="1" type="stanza">
+          <l>אני חושבת עליך </l>
+          <l>כל הזמן, </l>
+          <l>כל הזמן</l>
+          <l>על מה שאמרת קודם </l>
+          <l>כשעוד היית כאן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה שקרה שהתקרבנו</l>
+          <l>ומה שרע </l>
+          <l>שלא רציתי שנתקרב</l>
+          <l>אולי, אולי</l>
+          <l>אני אספור עד מאה</l>
+          <l>בשקט ואסתובב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני פוחדת לדעת </l>
+          <l>יותר מידי</l>
+          <l>יותר מידי</l>
+          <l>מה נעשה אחר כך</l>
+          <l>כשתבוא אלי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה שקרה שנהיינו</l>
+          <l>ומה שרע </l>
+          <l>שלא רציתי שנהיה</l>
+          <l>אולי, אולי</l>
+          <l>אני אסגור את העיניים</l>
+          <l>חזק עד שתעלם</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אולי לא</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מה שקרה</l>
+          <l>שהתאהבתי</l>
+          <l>ומה שרע</l>
+          <l>שלא רציתי להתאהב</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>זה מה שרע</l>
+          <l>שלא רציתי להתאהב</l>
+          <l>זה מה שרע</l>
+          <l>שלא רציתי להתאהב</l>
+          <l>לא רציתי להתקרב</l>
+          <l>לא רציתי להתלהב</l>
+          <l>לא רציתי להתחשב</l>
+          <l>לא רציתי להתאכזב</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>אולי לא... </l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

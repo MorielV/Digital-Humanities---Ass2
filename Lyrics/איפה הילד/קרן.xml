@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קרן 2</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>אסף שריג</writer>
+        <composer>אסף שריג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קרן</head>
+        <lg number="1" type="stanza">
+          <l>קרן אוהבת אותי למרות הכל</l>
+          <l>היא מתאפרת מולה ראי גדול</l>
+          <l>מקריאה מתוך הדף מחשבות ולא שירים</l>
+          <l>נוסעת ברכבת הראשונה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קרן אוהבת אותי למרות הכל</l>
+          <l>נוסעת לחיפה ואני הולך לישון</l>
+          <l>חולם עליה עד שמתעורר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מדברת לעצמה, מענה אותי באהבה</l>
+          <l>לאט לאט רוצה אותה</l>
+          <l>נוסעת לחיפה ואני הולך לישון</l>
+          <l>חולם עליה עד שמתעורר</l>
+          <l>קרן אוהבת אותי למרות הכל.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

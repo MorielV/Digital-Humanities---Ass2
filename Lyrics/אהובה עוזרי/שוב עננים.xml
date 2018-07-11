@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שוב עננים</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>משה טימור</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שוב עננים</head>
+        <lg number="1" type="stanza">
+          <l>שוב עננים את האופק כיסו</l>
+          <l>שוב העלים ברחובות נרמסו</l>
+          <l>קר ועוד מעט גשם יורד</l>
+          <l>קר ורטוב ללב הבודד</l>
+          <l>רק אתה רחום לי תמיד</l>
+          <l>רק לך אחכה אהובי</l>
+          <l>בוא והצת בי אש שמאורה יחס</l>
+          <l>בוא והיה שלי עד עולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם נאהב אין כבר סתיו</l>
+          <l>אם את גופך אחבק ואוהב</l>
+          <l>בוא ונהיה יחדיו לקחת את לבי</l>
+          <l>בוא ולך אהיה דוד לבבי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואה אליי ויחליט לבבי</l>
+          <l>עד בלי די היה אהובי\</l>
+          <l>בלבבך אחרוט את שמי</l>
+          <l>כי אותך אשמור בתוכי</l>
+          <l>כי לעולם אזכור אותך</l>
+          <l>לא נדם זה השיר בלבבך</l>
+          <l>כי היום לך מצפה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בוא פתאום נשכח מה שקרה</l>
+          <l>שוב נעלם האור המוכר</l>
+          <l>שוב ברחובות אף אחד לא נותר</l>
+          <l>סתו בחוץ וגם בנשמה</l>
+          <l>אם לך אקרא האם תשמע?</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם נאהב אין כבר סתיו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

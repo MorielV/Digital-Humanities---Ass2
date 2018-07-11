@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אדם 7</title>
+        <singer classification="male singer">אביהו מדינה</singer>
+        <writer>אורי ברזילי</writer>
+        <composer>יהודה בדיחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אדם</head>
+        <lg number="1" type="stanza">
+          <l>אם אצא לי באישון הליל לדרכים </l>
+          <l>ואשמע במרחבים את התנים בוכים </l>
+          <l>ומלא הליל מלא את בכי יגונם </l>
+          <l>כאב נכלם בקולם אדם </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי מי יגונם ידע </l>
+          <l>סוד נסתר בעלטה </l>
+          <l>ומלא הליל מלא את בכי יגונם </l>
+          <l>כאב נכלם בקולם אדם </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא רק התנים בוכים בליל ומתייפחים </l>
+          <l>יש אשמע בחלומי גם ילדים בוכים </l>
+          <l>ומלא הליל מלא את בכי יגונם </l>
+          <l>כאב נכלם בקולם אדם </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי מי יגונם ידע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

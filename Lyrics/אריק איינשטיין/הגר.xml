@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הגר</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>שלום חנוך</writer>
+        <composer>שלום חנוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הגר</head>
+        <lg number="1" type="stanza">
+          <l>כשיצלצל בעיר הפעמון בקול אדיר</l>
+          <l>אות הוא ללכת</l>
+          <l>השליכי את צרורך על גב</l>
+          <l>ואת עינייך נא מנעי מבכי</l>
+          <l>אמצי את יד ילדך, יד ישמעאל</l>
+          <l>ושאי אותו עמך אל התבל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קומי קומי הגר הגר</l>
+          <l>ולכי לך אל המדבר</l>
+          <l>אל המדבר, הגר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עברי אישה בעיר</l>
+          <l>וכל אחד פניו יסתיר מפני עינייך</l>
+          <l>אמרי שלום, ברכי הגר</l>
+          <l>את מי אשר בעיר נשאר אחרייך</l>
+          <l>אמצי את יד ילדך, יד ישמעאל</l>
+          <l>ושאי אותו עמך אל התבל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קומי קומי הגר הגר</l>
+          <l>ולכי לך אל המדבר</l>
+          <l>אל המדבר, הגר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הנה אני אשא ידי</l>
+          <l>חזקי הגר, אל תמעדי בדרך</l>
+          <l>אל תעצרי למחות דמעות עינייך</l>
+          <l>הלחות עד בוא הערב</l>
+          <l>אמצי את יד ילדך, יד ישמעאל</l>
+          <l>ושאי אותו עמך אל התבל</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>קומי קומי הגר הגר</l>
+          <l>ולכי לך אל המדבר</l>
+          <l>אל המדבר, הגר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בובים בובות</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>אהוד מנור</writer>
+        <composer>אקורדים</composer>
+        <album>צליל מיתר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בובים בובות</head>
+        <lg number="1" type="stanza">
+          <l>כשחנות צעצועים נסגרת</l>
+          <l>וגומרים את האור בבניין לכבות</l>
+          <l>בחנות החשוכה נשארת</l>
+          <l>חבורה מדהימה של בובים ובובות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בובים, בובות שממלאים את החנות</l>
+          <l>בובי משחק ובובות על חוט</l>
+          <l>בובי חלל ובובות מזמן</l>
+          <l>וגם ברבי יפה כמובן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפעמים אני כבאי לפעמים אני שוטר</l>
+          <l>או רופא או אסטרונאוט או משהו אחר</l>
+          <l>אני הבוב שמתאהב בבובות ומתלהב</l>
+          <l>בובה יפה שלי, אותך אני אוהב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשחנות צעצועים מתעוררת</l>
+          <l>וילדים מגיעים מקרוב, מרחוק</l>
+          <l>כל בובה למקומה חוזרת</l>
+          <l>וכולם אז חוזרים לחייך ולשתוק</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פרידה 3</title>
+        <singer classification="male singer">אמיר גינת</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>ורד קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פרידה</head>
+        <lg number="1" type="stanza">
+          <l>עמוק הלילה, רחוק הדרך</l>
+          <l>אוי לך דרך, אוי לך שביל</l>
+          <l>רבו עובריך, איי הם חוזריך</l>
+          <l>איכה אשובה, איכה אורחי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>סוסי שחור הוא</l>
+          <l>ונבון עיניים</l>
+          <l>כוכב לבן על מצחו הרם</l>
+          <l>אוכף רקמת לו במו ידייך</l>
+          <l>לי למזכרת טיפת הדם</l>
+          <l>זרוע צחורה אל סוסי השעיני</l>
+          <l>שלום לבית אחות כלה</l>
+          <l>חום תלתלייך, צליל עגילייך</l>
+          <l>הם ילווני בדרך עולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עמוק הלילה, רחוק הדרך</l>
+          <l>אוי לך דרך, אוי לך שביל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

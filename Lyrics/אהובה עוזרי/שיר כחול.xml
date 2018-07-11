@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר כחול</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>מירית שם אור</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר כחול</head>
+        <lg number="1" type="stanza">
+          <l>שיר כחול אני ארקום</l>
+          <l>עם שני אדום</l>
+          <l>אם יפרח לו ורד בר</l>
+          <l>עם הפרחים אשכר</l>
+          <l>באה השמש עם שקיעה</l>
+          <l>רד לים קווה</l>
+          <l>ואני כאגדה ספרו נא בשכונה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הוא אותי אוהב מאוד</l>
+          <l>זר פרחים הביא לי</l>
+          <l>לפגישה יש טעם עוד</l>
+          <l>הוא כל מה שיש לי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהובי אביר לבד</l>
+          <l>הזמין אותי לסרט</l>
+          <l>שם נשב יד ביד</l>
+          <l>אנו זוג לא פרט</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שיר בראש הוא שיר חלום</l>
+          <l>עליך אז חברתי</l>
+          <l>מעורב בו גם אדום</l>
+          <l>ועוד צבעים שבצתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האושר לחיי</title>
+        <singer classification="unknown">אלעד רצון</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האושר לחיי</head>
+        <lg number="1" type="stanza">
+          <l>כשאותך פגשתי, לחשתי התאהבתי</l>
+          <l>הרגשתי בתוך ים מלא באהבה</l>
+          <l>נסחפתי בין גלייך, ומה אומרות עינייך</l>
+          <l>את המתנה הכי יפה לחיי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את אוצר באת משמים</l>
+          <l>להפתיע את חיי</l>
+          <l>את מתנה לאור עיניים</l>
+          <l>את מזל שבאדם</l>
+          <l>את שלי וכל שיש לי</l>
+          <l>מה צריך אם יש אותך</l>
+          <l>באהבה איתך יפה לי</l>
+          <l>את האושר לחיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאותך פגשתי, לחשתי התאהבתי</l>
+          <l>הרגשתי שזו את, שלי את האחת</l>
+          <l>ליטפתי את פנייך, הרגשתי בעינייך</l>
+          <l>את המתנה הכי יפה לחיי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את אוצר באת משמים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

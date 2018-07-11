@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי שנית</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>שלמה כישור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי שנית</head>
+        <lg number="1" type="stanza">
+          <l>ילדונת, כל מקום בגופך טעמתי</l>
+          <l>וטעמך כה נפלא היה לי.</l>
+          <l>עברו ימים וכמעט שכחתי,</l>
+          <l>איך היה כשאותך לקחתי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שלחי לי תמונה שאראה את יופייך,</l>
+          <l>שלחי לי מילה שאשמע את קולך,</l>
+          <l>אמרי לי מתי לחופה כבר נלך.</l>
+          <l>בואי שנית, יד ביד נהלך,</l>
+          <l>בואי אלי ואקח את גופך,</l>
+          <l>בואי ילדה כי אני מזלך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ילדונת, איך זה שפתאום נעלמת לי,</l>
+          <l>לא היית כשאותך חיפשתי?</l>
+          <l>עברו ימים וכמעט נואשתי</l>
+          <l>על שכך לבדי נעזבתי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שלחי לי תמונה....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

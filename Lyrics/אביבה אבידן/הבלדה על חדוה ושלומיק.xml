@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הבלדה על חדוה ושלומיק</title>
+        <singer classification="female singer">אביבה אבידן</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הבלדה על חדוה ושלומיק</head>
+        <lg number="1" type="stanza">
+          <l>הבוקר בא כל כך מהר</l>
+          <l>ואי אפשר להישאר</l>
+          <l>צריך לקום להתעורר</l>
+          <l>ללכת אל מקום אחר</l>
+          <l>לקחת את הזיכרונות</l>
+          <l>זה לא הרבה שתי מזוודות</l>
+          <l>חלום אחד ארוך ארוך</l>
+          <l>שתי מגבות ושתי תקוות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ללכת אל, ללכת מ...</l>
+          <l>ללכת כי כולם הולכים</l>
+          <l>מה זה בעצם משנה</l>
+          <l>ממה בעצם הם בורחים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני לבד בעיר גדולה</l>
+          <l>מהתחלה להתחלה</l>
+          <l>מ"אנ'לא יכול כבר" ל"נמאס"</l>
+          <l>וכל דבר נראה לי גס.</l>
+          <l>אני לבד בעיר זרה</l>
+          <l>כאילו אין לי כבר ברירה</l>
+          <l>כולם אומרים לי לא נורא</l>
+          <l>וזה מה שעושה לי רע.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ללכת אל, ללכת מ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

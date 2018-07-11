@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את לא היא</title>
+        <singer classification="female singer">אתי לוי</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את לא היא</head>
+        <lg number="1" type="stanza">
+          <l>מגדת עתידות גילתה לי</l>
+          <l>בין שבילי הקפה סיפרה לי</l>
+          <l>את העתיד ניבאה היא וכך אמרה:</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את לא היא</l>
+          <l>היא לא את</l>
+          <l>אותו דמיון אותו מבט</l>
+          <l>אותו חיוך אותו שיער</l>
+          <l>ובכל זאת לא אותו דבר</l>
+          <l>את לא היא</l>
+          <l>היא לא את</l>
+          <l>אותו דמיון אותו מבט</l>
+          <l>אותו דיבור מה יש לומר</l>
+          <l>ובכל זאת לא אותו דבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הגומות והיופי והחן ללא דופי</l>
+          <l>ובכל זאת מי ששומע</l>
+          <l>זאת אני היטב יודע</l>
+          <l>העיניים טיפות מים והקול מתנת שמיים</l>
+          <l>מי שרואה מי ששמוע</l>
+          <l>זאת אני היטב יודע</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את סודותי ידעה היא</l>
+          <l>את סגור לבי פתחה היא</l>
+          <l>על כוס קפה סיפרה היא וכך אמרה:</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את לא היא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

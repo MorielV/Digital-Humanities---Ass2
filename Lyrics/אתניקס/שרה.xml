@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שרה</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שרה</head>
+        <lg number="1" type="stanza">
+          <l>את ליבי נתתי</l>
+          <l>כתבתי לך שיר</l>
+          <l>אף פעם לא נתת לי</l>
+          <l>אותך להכיר</l>
+          <l>חיפשתי מקום לחבק אותך הלילה</l>
+          <l>רציתי לרעות בשדה שלך הלילה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שרה את שלי</l>
+          <l>רק שלחי את זרועותייך</l>
+          <l>את הלב אני אתן לך ועתיד</l>
+          <l>שרה רעייתי</l>
+          <l>אנגב את דמעותייך</l>
+          <l>אברהם אני אהיה לך לתמיד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את הגר שילחתי</l>
+          <l>לקצה המדבר אל ארץ ניכר</l>
+          <l>מאלוהים ביקשתי</l>
+          <l>להיות מאושר, עכשיו אני שר</l>
+          <l>חיפשתי מקום לחבק אותך הלילה</l>
+          <l>רציתי לרעות בשדה שלך הלילה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שרה את שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

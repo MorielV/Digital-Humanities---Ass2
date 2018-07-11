@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חרש ביבבה</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>אסף אמדורסקי</composer>
+        <album>אסף אמדורסקי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חרש ביבבה</head>
+        <lg number="1" type="stanza">
+          <l>חלום קטן היה ונשכח</l>
+          <l>כמו דמעות מאתמול שיבשו על הכרית</l>
+          <l>מי זוכר עכשיו את מה שנשכח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את זוכרת איך בקיץ שעבר</l>
+          <l>בים הגדול יצאנו לטייל</l>
+          <l>אור גדול כיסה את פני</l>
+          <l>גם את עוד לא ידעת צער</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חרש, ביבבה</l>
+          <l>דברי טעם ונדבר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

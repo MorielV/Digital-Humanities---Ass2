@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>I Like It</title>
+        <singer classification="band">איזבו</singer>
+        <writer>רן שם טוב</writer>
+        <composer>שירי הדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>I Like It</head>
+        <lg number="1" type="stanza">
+          <l>You don't know what you like</l>
+          <l>You don't like what you've got</l>
+          <l>But what you've got i think it's Hot</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Your mustard is my gold</l>
+          <l>Your Poison is my wine</l>
+          <l>So please don't lose-what I might use - like that</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>I like it I like it</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>Pour out your garbage can</l>
+          <l>And be my garbage friend</l>
+          <l>I show you some you'll show me some</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>Broken dead or now</l>
+          <l>just leave it here like that</l>
+          <l>Cause I can blow- and make it flow - like that</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>I like it I like it</l>
+          <l>I like it I like it</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>I like it</l>
+          <l>Why I don't why</l>
+          <l>Tell me why you like it</l>
+          <l>I like it like you don't know how</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

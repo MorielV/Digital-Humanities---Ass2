@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד יום שעבר</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>ארז שרעבי</writer>
+        <composer>עופר לב</composer>
+        <album>בלעדייך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד יום שעבר</head>
+        <lg number="1" type="stanza">
+          <l>שוב המחשבות רודפות</l>
+          <l>בתוך ראשך הן מטיילות</l>
+          <l>ולא נותנות מנוח</l>
+          <l>שוב אותן השאלות</l>
+          <l>שאי אפשר בכן ולא</l>
+          <l>פשוט רוצה לברוח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לברוח לדבר שלא נגמר</l>
+          <l>לברוח אל תאמרו שאי אפשר</l>
+          <l>לדעת לנסות</l>
+          <l>בלילה לקוות</l>
+          <l>עוד יום שעבר</l>
+          <l>לדעת לנסות</l>
+          <l>בלילה לקוות</l>
+          <l>עוד יום שעבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך עינייך משקרות</l>
+          <l>אומרות מותר אומרות שלא</l>
+          <l>ואי אפשר לדעת</l>
+          <l>תמיד אותם החלומות</l>
+          <l>שלטירוף והתשוקות</l>
+          <l>רוצה הכל לקחת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לברוח לדבר שלא נגמר....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

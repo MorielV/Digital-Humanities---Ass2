@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דברי איתי</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>ירון כהן</writer>
+        <composer>ירון כהן</composer>
+        <album>ואני קורא לך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דברי איתי</head>
+        <lg number="1" type="stanza">
+          <l>מכל אותן הנערות שאהבתי בחיי</l>
+          <l>אותך אהבתי קצת יותר, קצת יותר מדי</l>
+          <l>ואילו רק אני יכול למחוק בצער את הכל</l>
+          <l>אז לא הייתי מספר כמה הקור עוד בי חודר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>דברי איתי מעט, דברי כי כבר כמעט,</l>
+          <l>הכל אצלי הולך לו, ודועך.</l>
+          <l>יש לי עוד מילים יפות לך לומר</l>
+          <l>חיזרי מהר אפילו מחר</l>
+          <l>השיבי את טיפת האושר שהיה ואיננו נשאר</l>
+          <l>שום דבר אצלי איננו מוכר</l>
+          <l>רק זיכרונות מתוקים של עבר</l>
+          <l>ונגיעות קטנות של אושר שהיו...</l>
+          <l>עוד לפני שנגמר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מכל אותן הנערות שאהבתי בחיי</l>
+          <l>אותך אהבתי קצת יותר קצת יותר מדי</l>
+          <l>ואילו רק אני יכול שוב להסביר לך את הכל</l>
+          <l>את כל מה שאני חושב עד כמה שאני אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דברי איתי מעט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

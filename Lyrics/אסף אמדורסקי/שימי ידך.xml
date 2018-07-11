@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שימי ידך</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>אסף אמדורסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שימי ידך</head>
+        <lg number="1" type="stanza">
+          <l>שימי ידך בידי</l>
+          <l>נכון שזה נחמד... אני שלך</l>
+          <l>ואת שלי נכון שזה נחמד</l>
+          <l>שימי נפשך ליד נפשי ביחד נתגבר</l>
+          <l>על כל מכשול וככה נשאר</l>
+          <l>את מי את אוהבת?</l>
+          <l>את מי את רוצה לחבק?</l>
+          <l>על מי את חושבת בלילות שאת לבדך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שימי ראשך לצד ראשי וככה נתעורר</l>
+          <l>בכל יום נאהב אחד את השני יותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את מי את אוהבת?</l>
+          <l>עם מי את רוצה לשחק?</l>
+          <l>עם מי את שוכבת?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

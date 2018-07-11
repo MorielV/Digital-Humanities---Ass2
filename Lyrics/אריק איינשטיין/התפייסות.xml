@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התפייסות</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>שלומית כהן אסיף</writer>
+        <composer>יוני רכטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התפייסות</head>
+        <lg number="1" type="stanza">
+          <l>רוצה להתפייס עם יונתן</l>
+          <l>ולא יודע איך.</l>
+          <l>כותב לו מכתב, כותב את האמת</l>
+          <l>את הדף מקמט.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני בחדר מתהלך. צעד גדול, צעד קטן</l>
+          <l>שורק את השריקה שלי ושל יונתן.</l>
+          <l>הטלפון מצלצל אני ממהר לענות</l>
+          <l>אבל זה לא יונתן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחייג שלוש ספרות ראשונות</l>
+          <l>ומהסס</l>
+          <l>ושוב מרים את השפורפרת וחושב:</l>
+          <l>איך להתפייס?</l>
+          <l>אחר כך אני מחייג בלי היסוס</l>
+          <l>ויונתן עונה: "חייגתי אליך</l>
+          <l>הקו שלך תפוס."</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

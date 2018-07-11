@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האביב בפתח</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>אהוד בנאי</writer>
+        <composer>אהוד בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האביב בפתח</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>האביב בפתח</l>
+          <l>שוב חשים בריח</l>
+          <l>לא צריך שבשבת כדי לדעת</l>
+          <l>שיהיה שמח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הילדה חוזרת</l>
+          <l>מן הגן קורנת</l>
+          <l>בידה זר של יסמין פורח</l>
+          <l>שרה שיר שמח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דודה מלכה מקפיאה את הבמיה</l>
+          <l>שלא יחסר מחוץ לעונה</l>
+          <l>איפה נעשה את הסדר?</l>
+          <l>כמו בשנה שעברה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האביב בפתח...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שילמנו חשבונות חשמל</l>
+          <l>טלפון מים ומיסים</l>
+          <l>זהו ראש חודש ניסן</l>
+          <l>ואלה הם החיים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

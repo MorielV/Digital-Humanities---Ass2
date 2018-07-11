@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ג ונגל</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>דרך לחיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ג'ונגל</head>
+        <lg number="1" type="stanza">
+          <l>אם אני ואת היינו נולדים בג'ונגל </l>
+          <l>במקום שאי אפשר למצוא אותו בגוגל </l>
+          <l>פשוט מבודדים מהעולם</l>
+          <l>עמוק בתוך היערות של אפריקה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם כמו צייד היו לוכדות אותי עינייך </l>
+          <l>ממרחקים אני הייתי בא אלייך </l>
+          <l>מבית אביך לוקח את ידך </l>
+          <l>ומתייצב איתך לפני השבט </l>
+          <l>אומר "אני שלך" ומתחייב </l>
+          <l>לתת לך את כל מה שאת אוהבת </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נה נה נה...</l>
+          <l>ג'ונגל </l>
+          <l>נה נה נה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם אני ואת היינו נולדים בג'ונגל </l>
+          <l>במקום בו אין מקלדת, דבליו או שטרודל </l>
+          <l>הייתי שם זמר רומנטיקן</l>
+          <l>ואת היית הכי יפה באפריקה </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לך מעל במה קטנטונת מארגז רעוע </l>
+          <l>הייתי שר על אהבה וגעגוע </l>
+          <l>נושא אותך רחוק אל המדבר </l>
+          <l>שאף אחד שם לא יימצא אותנו </l>
+          <l>בעשר אצבעות בונה לך כפר </l>
+          <l>ובליבו את הבקתה שלנו </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נה נה נה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>והלילה שנינו כאן </l>
+          <l>את ניצבת למולי </l>
+          <l>ולכן מאהבה, אני שר לך בלי מילים </l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>נה נה נה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

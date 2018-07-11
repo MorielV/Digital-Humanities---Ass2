@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוץ ארוץ</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>מירית שם אור</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוץ ארוץ</head>
+        <lg number="1" type="stanza">
+          <l>עוד תרוץ לתחנה אחכה לך</l>
+          <l>מעיני דמעה יורדה אך בליבי שמחה</l>
+          <l>זכרונות אהבתך שוב באים אלי</l>
+          <l>על דפים ממכתבך בין כפות ידי</l>
+          <l>איך יכולתי להשליך אהבה יפה</l>
+          <l>איך יכולתי להחליף אושר בבגידה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא היית היפה בין הבחורים</l>
+          <l>אך הייתי לצידך נסיכת פלאים</l>
+          <l>עד אשר לבי שבה</l>
+          <l>עלם נאה אחר</l>
+          <l>לא אדע כיצד אוכל</l>
+          <l>את ראשי סחרר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא עברו ימים רבים נפקחו עיני,</l>
+          <l>לא ראיתי בלעדיך טעם לחיי,</l>
+          <l>סליחתי קבלת כך</l>
+          <l>בדמעות שמחות</l>
+          <l>ואני לתחנה רצה לחכות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

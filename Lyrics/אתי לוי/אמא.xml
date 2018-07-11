@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמא 9</title>
+        <singer classification="female singer">אתי לוי</singer>
+        <writer>אתי לוי</writer>
+        <composer>אתי לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמא</head>
+        <lg number="1" type="stanza">
+          <l>ראיתי איך בלילה בכית</l>
+          <l>כשאותנו לפרנס כל כך רצית</l>
+          <l>כשפתחת את הארנק</l>
+          <l>ושקל לא ראית</l>
+          <l>לב של אמא עולם לא יחליף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עולם עולם אתן לך אמא</l>
+          <l>את כעסי אפנים פנימה</l>
+          <l>לא אסלח על הסבל שגרמו לך</l>
+          <l>לא אשכח את העוול שעשו לך</l>
+          <l>שמילים כמו סכינים פגעו בך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קלבי קלבי נעתיק יממה</l>
+          <l>לחנינה דילי דימה</l>
+          <l>שחל קשיתי עלינה יממה</l>
+          <l>שחל זריתי בינה יממה</l>
+          <l>שחל לריבנה עביתי יממה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל תיבכי לפניהם אמא</l>
+          <l>שאת הדלת יסגרו בפנייך</l>
+          <l>כשתלכי יצחקו על צרותייך</l>
+          <l>ואלוקים ישלם להם כפליים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עולם עולם אתן לך אמא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

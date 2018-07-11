@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גחליליות</title>
+        <singer classification="female singer">אסתר שמיר</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>אסתר שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גחליליות</head>
+        <lg number="1" type="stanza">
+          <l>אני חוזרת אל היער ללקט גחליליות</l>
+          <l>אורות קטנים השארתי בעוזבי</l>
+          <l>מלים כבדות מצער, שלא יכלו לעוף</l>
+          <l>שירים שלא אספתי בלכתי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני חוזרת לעבר ללקט גחליליות</l>
+          <l>לבנות מהן סולם של כוכבים</l>
+          <l>שבילים שלא הלכתי כי לא יכלו להיות</l>
+          <l>אולי עוד מחכים שם בשבילי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם תבוא ליבי לשם</l>
+          <l>תבוא אל העבר בלי לעצור</l>
+          <l>נאסוף את כל הטוב</l>
+          <l>נאסוף את כל התם</l>
+          <l>נאסוף גחליליות ונחזור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ילדה שם מחכה לי, היא מתאהבת בלי לראות</l>
+          <l>גחליליות דולקות סביבה באור בוהק</l>
+          <l>בואי שוב אלי, אשמור עלייך מצרות</l>
+          <l>בואי וביחד נתחזק</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני חוזרת לעבר, לא פוחדת מהזמן</l>
+          <l>יודעת להבחין בין טוב ורע</l>
+          <l>נאסוף את כל הטוב,</l>
+          <l>את כל האור, את כל התם</l>
+          <l>נביא אותם לכאן בחזרה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אם תבוא ליבי לשם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

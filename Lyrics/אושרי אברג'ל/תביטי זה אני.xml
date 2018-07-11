@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תביטי זה אני</title>
+        <singer classification="unknown">אושרי אברג ל</singer>
+        <writer>תמיר קליסקי</writer>
+        <composer>נמרוד אלירן סבח</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תביטי זה אני</head>
+        <lg number="1" type="stanza">
+          <l>הכל נראה פשוט, כשאת כאן לידי</l>
+          <l>רואים שאת אוהבת, את כל עולמי.</l>
+          <l>רוצה רק לחבק, האם גם את רוצה.</l>
+          <l>את מתנה, את מקסימה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואין לי כלום מלבד מילות אהבתך</l>
+          <l>נתת לי כל מה שלנצח אבקש</l>
+          <l>נשבענו שתמיד נאהב, הבטחנו לעולם.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>למרות שלא יבינו</l>
+          <l>את כל מה שבנינו</l>
+          <l>כי מה שאת נתת לי, זה כל החיים</l>
+          <l>וגם אם הם יגידו</l>
+          <l>שזה נראה כאילו</l>
+          <l>זה רק את ואני, לנצח אוהבים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יפה תחייכי,</l>
+          <l>מותר לך תנסי,</l>
+          <l>ואל תוותרי,</l>
+          <l>תביטי זה אני</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יפה תחייכי,</l>
+          <l>מותר לך תנסי,</l>
+          <l>לעולם על תוותרי</l>
+          <l>תביטי זה אני</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ואין יותר פשוט, כשאת כאן לידי</l>
+          <l>האהבה שלך, נמצאת תמיד איתי,</l>
+          <l>ורק הלב יודע, כמה את רצית</l>
+          <l>שלא נפסיק, לא נפסיק.</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ואין לי כלום מלבד מילות אהבתך</l>
+          <l>נתת לי כל מה שלנצח אבקש,</l>
+          <l>נשבענו שתמיד נאהב, הבטחנו לעולם.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>למרות שלא יבינו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

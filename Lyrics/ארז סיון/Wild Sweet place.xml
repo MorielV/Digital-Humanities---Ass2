@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Wild Sweet place</title>
+        <singer classification="unknown">ארז סיון</singer>
+        <writer>ארז סיון</writer>
+        <composer>ארז סיון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Wild Sweet place</head>
+        <lg number="1" type="stanza">
+          <l>Should I give you a reason to come back home</l>
+          <l>What if all I want is to be alone</l>
+          <l>You don't know me you should</l>
+          <l>After so many years I would</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>The bitter tangle which I fled</l>
+          <l>Now I'm trying to embrace myself instead</l>
+          <l>No longer longing for love that will never be</l>
+          <l>I think of myself as plain history </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>Oh, bound to find </l>
+          <l>A wild sweet place</l>
+          <l>Oh, won't leave behind </l>
+          <l>Not even a trace</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>A vague memory floating around</l>
+          <l>And all that I can feel is a hollow sound</l>
+          <l>Comes right at me through my fears</l>
+          <l>Soon as it does you disappear</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>Oh, bound to find </l>
+          <l>A wild sweet place</l>
+          <l>Oh, won't leave behind </l>
+          <l>Not even a trace</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

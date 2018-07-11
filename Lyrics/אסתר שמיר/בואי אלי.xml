@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי אלי 3</title>
+        <singer classification="female singer">אסתר שמיר</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>אסתר שמיר</composer>
+        <album>זה בינך ובין אלוהים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי אלי</head>
+        <lg number="1" type="stanza">
+          <l>כשליבך נרעד מול כאב של מישהו אחר </l>
+          <l>את מבינה שהוא יכול להיות את - </l>
+          <l>נופלות הגדרות והשוני ביניכם נושר </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פתאום זה מובן - האחר הוא את בצרה </l>
+          <l>לא תתני לו לסבול בשום דרך, בשום צורה </l>
+          <l>וראי ברוחך, כי העין עוד לא רואה </l>
+          <l>את מקיצה ובאה אלי </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואם העולם הוא חידה והמניע נסתר </l>
+          <l>את לא מוצאת משמעות בשום דבר </l>
+          <l>שלי נעלייך מעל הרגלייך </l>
+          <l>שלי מנעולייך מעל לרגלייך </l>
+          <l>ובואי אלי.. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אפילו חרב חדה מונחת על צווארך </l>
+          <l>אל תמנעי עצמך מרחמייך, מרחמי </l>
+          <l>החטא הוא כבר עונש, הצער רק יקרבך (אלי) </l>
+          <l>הנה את באה אלי </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואם העולם הוא חידה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>תתעלי, תתעלי, תתעלי </l>
+          <l>השילי עורך תתגלי </l>
+          <l>חמלתך לעולם תסמן את דרכך חזרה אלי </l>
+          <l>הנה את באה אלי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

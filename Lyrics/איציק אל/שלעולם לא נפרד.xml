@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלעולם לא נפרד</title>
+        <singer classification="unknown">איציק אל</singer>
+        <writer>בבר בן עמי</writer>
+        <composer>בבר בן עמי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלעולם לא נפרד</head>
+        <lg number="1" type="stanza">
+          <l>כל פעם שאנחנו רבים ליבי כמעט נשבר</l>
+          <l>פתאום תופסים אותי פחדים</l>
+          <l>ואני אומר אין דבר ומתחיל לשיר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואו ואו שלעולם לא ניפרד</l>
+          <l>ואו ואו ביחד לעולם ועד</l>
+          <l>ואו ואו שאף פעם לא תלכי</l>
+          <l>ואו ואו אוהב אותך הכי הכי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם את רוצה לגרום לי לבכות</l>
+          <l>אז בואי תנגבי לי את הדמעות</l>
+          <l>ואם תרצי לומר שלום</l>
+          <l>אני אמשיך לי בחלום ואמשיך לשיר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואו ואו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בלילות אני מביט לשמיים</l>
+          <l>ושתי עיני דומעות</l>
+          <l>שואל בלחש את כל הכוכבים</l>
+          <l>מתי אותך אוכל לראות וממשיך לשיר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואו ואו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

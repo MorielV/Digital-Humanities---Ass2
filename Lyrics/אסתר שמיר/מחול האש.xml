@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחול האש</title>
+        <singer classification="female singer">אסתר שמיר</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>אסתר שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחול האש</head>
+        <lg number="1" type="stanza">
+          <l>בחסות החשיכה, בחסות השיכחה </l>
+          <l>היא מסתננת בין בריח ומסגר </l>
+          <l>צלילי האש הולמים בה בתוכה </l>
+          <l>היא לא שומעת אף אחד אחר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בחסות החשיכה, הרגשה מטורפה </l>
+          <l>ההגיון שלה נשרף כמו קש יבש </l>
+          <l>היא נשבעה להיגמל ממנו </l>
+          <l>אך נסחפת אל תוך מחול האש. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מחול האש-הגוף מתלהט </l>
+          <l>היא צוחקת אך רוצה לצרוח </l>
+          <l>מחול האש- הגוף מתפתל </l>
+          <l>זה הסיכוי האחרון לברוח. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בחסות החשיכה, בלהט המחול </l>
+          <l>היא מרקדת עד שאין לה עוד כוחות </l>
+          <l>היא מנסה לקראת הסוף לחדול </l>
+          <l>אך זה הזמן שאין לה עוד כוחות. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מחול האש...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מה נשאר אחרי המחול הסוער </l>
+          <l>מה נשאר אחרי המחול </l>
+          <l>מה נשאר אחרי שהכל כבר בוער - </l>
+          <l>רק עקבות הריקוד על החו </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>מחול האש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

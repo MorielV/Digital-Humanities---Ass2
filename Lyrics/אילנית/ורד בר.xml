@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ורד בר</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>גלעד בן שך</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ורד בר</head>
+        <lg number="1" type="stanza">
+          <l>בסירה אי הרחק מן הכרם </l>
+          <l>לסנונית שר מלח ומבקש</l>
+          <l>חיש אל נערתי למזכרת </l>
+          <l>ורד בר שצבעו צבע אש </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עם דמעות לך לו דוד ורע </l>
+          <l>תני הורד לבד הבוכי </l>
+          <l>אבל הוא עם ידיד התרועע</l>
+          <l>תני לה רק את גבעול החוחית </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על האופק שקיעה כבר בוערת </l>
+          <l>התהום סוד ממתיק עם גליו </l>
+          <l>רוח ליל כוכבים מפזרת </l>
+          <l>אט נרדם המלח שאהב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הסנונית נעלמה ברקיע </l>
+          <l>ועימה ורד בר כמטע </l>
+          <l>אך עד כה לא נדע אם הגיע </l>
+          <l>אם נתנה את הורד לבת </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עם דמעות לך לו דוד ורע </l>
+          <l>קחי הורד לבד הבוכי </l>
+          <l>אבל הוא עם ידיד התרועע</l>
+          <l>תני לה רק את גבעול החוחית</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משתוללת בחוץ</title>
+        <singer classification="unknown">אסיף קורן</singer>
+        <writer>יואב יצחק</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משתוללת בחוץ</head>
+        <lg number="1" type="stanza">
+          <l>מתהלך כל ערב מחפש בכל העיר</l>
+          <l>זאת שאהבתיה את הדלת לי טרקה</l>
+          <l>לי לא מגיע להודיע מתרחקת מעיני</l>
+          <l>דמעה אחת היא לא הסירה</l>
+          <l>כמו אמרה הכל נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>משתוללת בחוץ מנענעת ת'גוף</l>
+          <l>לצלילי הבוזוקי והעוד</l>
+          <l>שפתותיה טעם צוף אהבתיה עד טירוף</l>
+          <l>אלוהים איך ליבי לה מכור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נערות היו לי וכולן יפות מראה</l>
+          <l>אך אותה אהבתי תמים הלכתי כמו עיוור</l>
+          <l>אך כמו פתי אחריה איך איבדתי את חושי</l>
+          <l>לא אפסיק לרקוד לשמוח אך אותה כבר מאוחר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>משתוללת בחוץ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

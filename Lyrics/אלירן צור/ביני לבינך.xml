@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ביני לבינך</title>
+        <singer classification="unknown">אלירן צור</singer>
+        <writer>מיקי מדר</writer>
+        <composer>אריק זנטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ביני לבינך</head>
+        <lg number="1" type="stanza">
+          <l>משברי חלומך לא נותר דבר </l>
+          <l>אהבה ישנה שמורה היא שלך </l>
+          <l>אומר לך יפתי אני זה שנשבע</l>
+          <l>ואת בשלך פשוט אוהב אותך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מלחמה של אמצע ביני לבינך</l>
+          <l>מפחד מעינייך, מפחד מגופך</l>
+          <l>כשאת שיכורה דופק ליבך ממריא</l>
+          <l>אל אופק רחוק ושם כדאי שתדעי</l>
+          <l>רגשותייך נשברים</l>
+          <l>זאת מלחמה של אמצע החיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הפסקי לחשוב על עברך</l>
+          <l>מתפזרת את שמרי על אהבתך</l>
+          <l>רסיסי אהבה ממני אלייך </l>
+          <l>הראי לי אהבה אגשים חלמותייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מלחמה של אמצע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

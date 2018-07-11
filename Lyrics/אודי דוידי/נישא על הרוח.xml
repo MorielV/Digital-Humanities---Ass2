@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נישא על הרוח</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נישא על הרוח</head>
+        <lg number="1" type="stanza">
+          <l>הבוקר שיאיר יהיה אחר</l>
+          <l>בגלל העוז, בגלל התקווה</l>
+          <l>המחר שיבוא יהיה טוב יותר</l>
+          <l>בגלל ההתמדה, בגלל הענווה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היד שתלטף תהיה רכה יותר</l>
+          <l>כי הותרת בה עדנה</l>
+          <l>והחיוך שיחייך יבקיע כל חומה</l>
+          <l>וימלא את המחר באמונה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>וקולך נישא על הרוח</l>
+          <l>וצועק אלי כמקדם</l>
+          <l>עדינות, זה עניינו של גן עדן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני צועד לבד בתוך הכפר</l>
+          <l>חש את ידך בתוך ידי, כמו בעבר</l>
+          <l>אני מביט אל על, נושם אותך</l>
+          <l>את ישותך שממלאת את המדבר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני הולך ברחוב, רואה אותם</l>
+          <l>את הילדים שנשמתך בנשמתם</l>
+          <l>שומע את קולך בתוך קולם</l>
+          <l>כשהם מוחים את דמעתם</l>
+          <l>אני שר איתם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>וקולך נישא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

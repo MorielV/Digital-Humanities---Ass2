@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Thumbtacks In My Marrow</title>
+        <singer classification="male singer">אסף אבידן</singer>
+        <writer>אסף אבידן</writer>
+        <composer>אסף אבידן</composer>
+        <album>Different Pulses</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Thumbtacks In My Marrow</head>
+        <lg number="1" type="stanza">
+          <l>Wait, don’t stop</l>
+          <l>You have gotten to me – at last</l>
+          <l>I know I broke your fall but I cant repent the past</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>It hurts</l>
+          <l>Thumbtacks in my marrow</l>
+          <l>I rest on old familiar runes that I cant recall</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Leave a hint</l>
+          <l>Of your broken image</l>
+          <l>Before I shed this crackled glass and take the final leap</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>Into the womb of all rusted feathers</l>
+          <l>And I'll see you when I am born into your world</l>
+          <l>Again.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

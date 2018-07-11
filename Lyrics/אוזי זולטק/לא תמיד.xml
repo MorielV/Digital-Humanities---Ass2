@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא תמיד 2</title>
+        <singer classification="unknown">אוזי זולטק</singer>
+        <writer>אלון שר</writer>
+        <composer>אלון שר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא תמיד</head>
+        <lg number="1" type="stanza">
+          <l>לא תמיד הכל ברור </l>
+          <l>וגם אם זה נדמה שכן </l>
+          <l>מומלץ להישאר שפוי </l>
+          <l>כי לא תמיד בך זה תלוי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אז בואי ונברח מכאן </l>
+          <l>נמצא מקום שאין בו זמן </l>
+          <l>אולי תגידי עד מתי </l>
+          <l>אולי בכלל זה לא כדאי </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ולפעמים זה עוזר, </l>
+          <l>זה חוזר. </l>
+          <l>ולפעמים זה עוזר, </l>
+          <l>זה חוזר. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני דמיינתי לי עולם </l>
+          <l>אולי בכלל הוא לא קיים </l>
+          <l>מכאן הכל יכול לקרות </l>
+          <l>אז מה נשאר לי לעשות </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ולפעמים זה עוזר, </l>
+          <l>זה חוזר. </l>
+          <l>ולפעמים זה עוזר, </l>
+          <l>זה חוזר.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

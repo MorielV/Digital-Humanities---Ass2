@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד הבוקר</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>אושיק לוי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד הבוקר</head>
+        <lg number="1" type="stanza">
+          <l>חשבנו על שיר - הפסקנו באמצע</l>
+          <l>פופיק נכנס - שאל מה נשמע</l>
+          <l>אמרנו דבר - ספר מה אתך</l>
+          <l>הלילה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל תשאלו - אמר לנו פופיק</l>
+          <l>תנו לי סיגריה - יש איזה מיץ</l>
+          <l>אמרנו תיקח - ידענו - הלך</l>
+          <l>הלילה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עד הבוקר</l>
+          <l>שמע זה לא צחוק</l>
+          <l>סתם לנסוע רחוק</l>
+          <l>ולא למצוא שם אף אחד</l>
+          <l>באמצע רחובות</l>
+          <l>הייתי פתאום לבד</l>
+          <l>אז באתי הנה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נזכרנו בשיר - אמרנו לפופיק</l>
+          <l>יש מנגינה תזרוק רעיון</l>
+          <l>ישב וחשב - אמר לא עכשיו</l>
+          <l>כבר לילה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תתחיל לנגן - אני לא אפריע</l>
+          <l>גמר את המיץ - והוריד את הראש</l>
+          <l>יצא למטבח - ידענו הלך</l>
+          <l>הלילה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עד הבוקר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

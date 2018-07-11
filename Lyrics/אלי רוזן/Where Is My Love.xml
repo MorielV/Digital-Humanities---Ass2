@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Where Is My Love</title>
+        <singer classification="unknown">אלי רוזן</singer>
+        <writer>אלי רוזן</writer>
+        <composer>אלי רוזן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Where Is My Love</head>
+        <lg number="1" type="stanza">
+          <l>הולך ברחובות, מחפש אחריה, </l>
+          <l>אומרים שבטיילת על יד הים- </l>
+          <l>יש הרבה מאלה, </l>
+          <l>ואולי אני אמצא אותה[ </l>
+          <l>את זאת עם המבט ואותו גורל. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>השמש מבשרת טובות </l>
+          <l>וקרניה כמחפשות אחריה. </l>
+          <l>ואם לא אמצא אותה, </l>
+          <l>אם לא אמצא אותה שם, </l>
+          <l>אז אסתפק הערב </l>
+          <l>בבן שיח ורע. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>Where is my love? Where is my love? </l>
+          <l>Where is my love? I can't see her, anywhere. </l>
+          <l>Where is my love? please tell me where is my love </l>
+          <l>Where is my love? I can feel her. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בודק בעיתונים, </l>
+          <l>רואה תמונות מפורסמים, </l>
+          <l>ודווקא יש אחת שעונה על כל הנתונים, </l>
+          <l>אבך איך נגיד בינינו... </l>
+          <l>היא לא בדיוק בקטע של בנים. </l>
+        </lg>
+        <lg number="5" type="stanza" />
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>Where is my love? Where is my love? </l>
+          <l>Where is my love? I can't see her, anywhere. </l>
+          <l>Where is my love? please tell me where is my love </l>
+          <l>Where is my love? I can feel her.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

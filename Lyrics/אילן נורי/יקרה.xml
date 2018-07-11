@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יקרה</title>
+        <singer classification="male singer">אילן נורי</singer>
+        <writer>רמי לב</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יקרה</head>
+        <lg number="1" type="stanza">
+          <l>את שמזמינה את כל הגשם השוטף</l>
+          <l>מחממת את ליבי באור עינייך</l>
+          <l>את שמקרינה את כל האור לתוך הלב</l>
+          <l>מגשימה איתי את כל חלומותייך</l>
+          <l>וצובעת בכחול את השמיים</l>
+          <l>ומציפה אותי באהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יקרה, אותך לי האל ברא</l>
+          <l>את האושר שנוגע בי, בתוך הנשמה</l>
+          <l>יקרה, אותך לי האל ברא</l>
+          <l>ואני אוהב אותך יותר</l>
+          <l>מכל חלום ,מכל חבר</l>
+          <l>אוהב אותך, אוהב לנצח.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על הגג ההוא שם בדירה הישנה</l>
+          <l>מצאתי בך את כל מה שחלמתי</l>
+          <l>חום ורגישות וגם טיפה של הבנה</l>
+          <l>את כל המשאלות שרק ביקשתי</l>
+          <l>את צובעת בכחול את השמיים</l>
+          <l>ומציפה אותי באהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יקרה, אותך לי האל ברא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

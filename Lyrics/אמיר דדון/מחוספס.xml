@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחוספס</title>
+        <singer classification="male singer">אמיר דדון</singer>
+        <writer>אמיר דדון</writer>
+        <composer>אמיר דדון</composer>
+        <album>יש אין סוף</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחוספס</head>
+        <lg number="1" type="stanza">
+          <l>תאמין שזה קרוב</l>
+          <l>מסביב מהפכה</l>
+          <l>והרעש הגדול</l>
+          <l>יהפוך שמחה גדולה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תישאר מי שאתה</l>
+          <l>תן את כל מה שנשאר</l>
+          <l>אל תפחד מאהבה</l>
+          <l>תן לה לאכול אותך</l>
+          <l>ואז תיפול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גמור, מותש, לא גיבור, אבל מחוספס </l>
+          <l>אני אכלתי חול, נשמתי אש</l>
+          <l>מעלינו ממש אלוהים רואה מטושטש </l>
+          <l>אני כבר לא מבדיל בין טוב לרע</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה כבר נשאר</l>
+          <l>מה אסור ומה מותר</l>
+          <l>ראית כמה שזה טוב</l>
+          <l>לאבד את עצמך</l>
+          <l>ואז ליפול</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

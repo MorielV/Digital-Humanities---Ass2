@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חזרי נא</title>
+        <singer classification="male singer">אוריאל שלומי</singer>
+        <writer>משה נגר</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חזרי נא</head>
+        <lg number="1" type="stanza">
+          <l>כיונה נושאת שלום </l>
+          <l>את ליבי שבית בחום </l>
+          <l>למה זה רחקת פתאום </l>
+          <l>מה נעם לי חיוכך </l>
+          <l>כה הוקסמתי מיופייך </l>
+          <l>לי עצוב כשאת אינך </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לך אשיר את שירי </l>
+          <l>עם קולי ומיתרי </l>
+          <l>ואקרא בשמך </l>
+          <l>את לי כל חיי </l>
+          <l>חזרי נא </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לך רציתי לספר </l>
+          <l>כי יומי עלי קודר </l>
+          <l>עם עצמי לא מסתדר </l>
+          <l>באת אלי כמו חלום </l>
+          <l>את ליבי הצפת בחום </l>
+          <l>היית לי אור באפילה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לך אשיר את שירי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בחדרי האור דולק </l>
+          <l>ליבי אלייך משתוקק </l>
+          <l>מחכה כאן לשובך </l>
+          <l>לו היית לידי </l>
+          <l>בזרועות אהבתי </l>
+          <l>הייתי חש בחום גופך </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לך אשיר את שירי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

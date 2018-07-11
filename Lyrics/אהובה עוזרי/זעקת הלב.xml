@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זעקת הלב</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>יוסי כהן</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זעקת הלב</head>
+        <lg number="1" type="stanza">
+          <l>זעקת הלב בוכיות עיני</l>
+          <l>מיגון לגמתה הכאב</l>
+          <l>צורב דמע</l>
+          <l>ובדממת הליל</l>
+          <l>אני יודעת אני שומעת</l>
+          <l>מה צורב בלב אתה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נשמה תועה בשבילי השממה</l>
+          <l>התחינה קראתי אנא</l>
+          <l>הכללים שקעו הימה</l>
+          <l>באילמות הלב</l>
+          <l>לא תידעום ותידעך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ערפילי חלום שאלו בדמע</l>
+          <l>ואתה היקע </l>
+          <l>אל תשתיל מבט גזע</l>
+          <l>שערה שתיקה ניצוץ שמיים</l>
+          <l>כטיפות המים </l>
+          <l>כבר סערו סערה כים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נשמה תועה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

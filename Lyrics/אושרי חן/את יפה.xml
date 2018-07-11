@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את יפה</title>
+        <singer classification="unknown">אושרי חן</singer>
+        <writer>עמוס כהן</writer>
+        <composer>עמוס כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את יפה</head>
+        <lg number="1" type="stanza">
+          <l>יש בי אשליה שלא נגמרת</l>
+          <l>איתך אני שלם ואמיתי</l>
+          <l>יש בך משהו מאגדה אחרת</l>
+          <l>שחודר עמוק אל תוך ליבי</l>
+          <l>תחושה של אהבה </l>
+          <l>הרגשה כה משונה</l>
+          <l>שגורמת ליופי עם עתיד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את יפה שלי, הכי יפה שבעולם</l>
+          <l>בשבילי את הדבר הכי מושלם</l>
+          <l>בלילה קר לאחוז בשתי ידייך</l>
+          <l>נשבע לך שעוד אבוא אלייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את כל החלומות שרק רצינו</l>
+          <l>הגשמנו באושר ובשמחה</l>
+          <l>את כל חיי לך אני הקדשתי</l>
+          <l>לתת לך את הנשמה</l>
+          <l>קרוב רוצה אלייך</l>
+          <l>לחוש את שפתותייך</l>
+          <l>שעושה לי רק אושר אמיתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את יפה שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

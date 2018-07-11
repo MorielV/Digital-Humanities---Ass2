@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בא לי</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>רביב בן מנחם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בא לי</head>
+        <lg number="1" type="stanza">
+          <l>בכל יום אני מודה לך שנכנסת אל תוך חיי</l>
+          <l>מאירה לי כמו ירח את ימי ולילותי</l>
+          <l>אהבה כזאת היא ללא גבולות</l>
+          <l>שנזכה לחיות ביחד עוד שנים רבות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בא לי להגיד לך מה קרה לי</l>
+          <l>שהלב שלך אמר לי</l>
+          <l>שאיתך אני אשכח את כל מה שרע לי</l>
+          <l>בא לי להגיד לך מה קרה לי</l>
+          <l>שהלב שלי שייך רק לך</l>
+          <l>אוהב אותך כל כך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחיים יש צחוק ועצב, רק איתך הכל זהב</l>
+          <l>כי נפשי איתך נרגשת לעולם בכל מצב</l>
+          <l>אהבה כזאת היא ללא גבולות</l>
+          <l>שנזכה לחיות ביחד עוד שנים רבות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בא לי להגיד לך מה קרה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

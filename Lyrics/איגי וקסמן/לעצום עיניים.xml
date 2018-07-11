@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לעצום עיניים</title>
+        <singer classification="female singer">איגי וקסמן</singer>
+        <writer>איגי וקסמן</writer>
+        <composer>שרון הולצמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לעצום עיניים</head>
+        <lg number="1" type="stanza">
+          <l>השמיים בוכים עליו</l>
+          <l>הוא עדיין מאוהב</l>
+          <l>כשניסה להדוף הרי הזכרונות</l>
+          <l>התחוור לו שלא די בך</l>
+          <l>ויש אישה שאיתו</l>
+          <l>ויש אותך עכשיו</l>
+          <l>את לא מוותרת</l>
+          <l>את גם לא נשארת</l>
+          <l>גם לך קשה בלעדיו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לעצום עיניים</l>
+          <l>לאטום אוזניים</l>
+          <l>לעצור את הכל, אם אפשר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא הפסיק לחייך</l>
+          <l>מבקש סיבה טובה, אם יש</l>
+          <l>הוא בוהה בתקרה</l>
+          <l>ואת הנקודה</l>
+          <l>הוא תכף מתייאש</l>
+          <l>ויש אישה שאיתו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מעבר לחלום</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אילן גולדהירש</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מעבר לחלום</head>
+        <lg number="1" type="stanza">
+          <l>כמו שאדם שספק מאוד</l>
+          <l>שבחוץ פתאום מפציע אור</l>
+          <l>ומבקש לאורו של יום</l>
+          <l>את הפשר של אותו חלום</l>
+          <l>כך באותו המבוכה הזו</l>
+          <l>עוד אני מחפש את חלומי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי יוכל לומר</l>
+          <l>האם חלום הוא שנגמר</l>
+          <l>מחפש בכל פינה</l>
+          <l>סימנים שהיא ישנה</l>
+          <l>מי יוכל לומר</l>
+          <l>האם היום הוא או מחר</l>
+          <l>בין האור לעלטה</l>
+          <l>ההייתה או הייתה</l>
+          <l>שם מעבר לחלום</l>
+          <l>בין הזמן והמקום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי בכלל עודי חולם</l>
+          <l>אולי בכלל עודי חולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>גם אם היא לצידי עכשיו</l>
+          <l>האמת היא או מקסם של שב</l>
+          <l>עוד אשאל שאלות רבות</l>
+          <l>את עצמי ודאי ארבה לצבוט</l>
+          <l>כך בתוך המבוכה הזו</l>
+          <l>כך אחיה לעולם עם חלומי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מי יוכל לומר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בבוסתנים</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>אריק לביא</writer>
+        <composer>missing</composer>
+        <album>אריק לביא שר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בבוסתנים</head>
+        <lg number="1" type="stanza">
+          <l>בבוסתנים יורד בוער הערב</l>
+          <l>וצל ארוך זוחל בין העצים</l>
+          <l>ואת דמותך אני רואה עוברת</l>
+          <l>נוגעת לא נוגעת בעלים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ובשקיעה ראשך זהב גווע</l>
+          <l>ושחור עינייך חובק את שחור הליל</l>
+          <l>אני כמו צל אלייך מתנועע</l>
+          <l>ומרחוק התן בואדי מיילל.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני כמעט נוגע בך, לא נוגע</l>
+          <l>את חולפת על פני בלחישה</l>
+          <l>את איתי ואת גם אינך כאן</l>
+          <l>ושוב את נעלמת בחשיכה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני אותך בשמש בוסתנים מצאתי</l>
+          <l>אני איבדתי אותך עם רדת ליל</l>
+          <l>בחשיכה אני ניצב מול כוכבייך</l>
+          <l>ועם אור ראשון אני שוב אהיה לך צל.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

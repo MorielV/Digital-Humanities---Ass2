@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכל חוזר אלי</title>
+        <singer classification="unknown">אהוד שגב</singer>
+        <writer>אהוד שגב</writer>
+        <composer>אהוד שגב</composer>
+        <album>אוסף מיוחד ליום הזכרון</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכל חוזר אלי</head>
+        <lg number="1" type="stanza">
+          <l>כל יום שעובר</l>
+          <l>אני דומה לך יותר</l>
+          <l>השתקפותי בחלון</l>
+          <l>מזכירה לי המון</l>
+          <l>איך היינו יוצרים ביחד</l>
+          <l>בילדות הזו לא היה שום פחד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רק שדות ירוקים</l>
+          <l>וימים מתוקים</l>
+          <l>בהר שלושה מעיינות</l>
+          <l>וטיולי ואדיות</l>
+          <l>ראש פנה הייתה מבצרנו</l>
+          <l>אף צבא לא יכול היה עלינו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לאט</l>
+          <l>הכל חוזר אלי</l>
+          <l>לפתע פתאום</l>
+          <l>אתה פה איתי</l>
+          <l>לאט</l>
+          <l>התמונה נעלמת</l>
+          <l>לאן אתה הולך?</l>
+          <l>אל תעזוב אותי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל כמה ימים אני שואל את עצמי</l>
+          <l>מה היינו עושים אם עוד היינו חיים</l>
+          <l>הפנטזיה נותנת תקווה</l>
+          <l>אשליה של חום ושלווה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

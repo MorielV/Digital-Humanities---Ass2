@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ריח 3</title>
+        <singer classification="male singer">אייל קופמן</singer>
+        <writer>אייל קופמן</writer>
+        <composer>אייל קופמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ריח</head>
+        <lg number="1" type="stanza">
+          <l>יש לזה ריח של פעם </l>
+          <l>אני מרגיש זה מתקרב </l>
+          <l>מה עושים עם זה כשזה שגרה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש ריח של שקט ודשא </l>
+          <l>צומחים וצומחים בתי קפה גינות פאר </l>
+          <l>יש ריח של נמאס ותלכו כבר </l>
+          <l>מה עם השקט המקולל </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ריח שלך נאחזת בפחד </l>
+          <l>מוציאה את זה לכל הכיוונים </l>
+          <l>ריח שלי בורח הצידה </l>
+          <l>מוריד את הראש </l>
+          <l>שיעברו החיילים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עברו עליהם ימים קשים </l>
+          <l>עברו שתי מכוניות כסופות </l>
+          <l>מלאות בכדורים </l>
+          <l>עופרת לכל הילדים </l>
+          <l>ושוב הריח הזה </l>
+          <l>של מנוע מסוקים של בתים </l>
+          <l>של חול ואבנים, </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ריח שלך נאחזת בפחד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק אותך אוהב</title>
+        <singer classification="unknown">אלונה טל</singer>
+        <writer>איציק קריחלי</writer>
+        <composer>אורי הלוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק אותך אוהב</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>רק אותך אוהב,</l>
+          <l>אתה שומע?</l>
+          <l>ואין לי אף אחד</l>
+          <l>שבליבי כך נוגע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תוריד את המעיל מהקולב</l>
+          <l>תלבש אותו,</l>
+          <l>ובוא נצא עכשיו.</l>
+          <l>בוא נצא אל העולם</l>
+          <l>נכבוש אותו ביחד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רק אותך אוהב,</l>
+          <l>אתה שומע?</l>
+          <l>ואין לי אף אחד</l>
+          <l>שבליבי כך נוגע</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רק אותך אוהב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

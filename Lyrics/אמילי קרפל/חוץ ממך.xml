@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חוץ ממך</title>
+        <singer classification="female singer">אמילי קרפל</singer>
+        <writer>אמילי קרפל</writer>
+        <composer>אמילי קרפל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חוץ ממך</head>
+        <lg number="1" type="stanza">
+          <l>לא התכוונתי כך להעלם,</l>
+          <l>בעצם התכוונתי לארגן ביקור הולם</l>
+          <l>ואז נתקפתי היסוסים, פעמונים מצלצלים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מצד אחד אני שואלת למה להכחיש?</l>
+          <l>צריך לדעת לא לשכח להרגיש</l>
+          <l>מצד שני מה שעניתי בהתחלה,</l>
+          <l>התכוונתי לכל מילה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>חוץ ממך, יש לי הכל</l>
+          <l>אין כלום כשאתה פה.</l>
+          <l>חוץ ממך, יש לי הכל</l>
+          <l>אין כלום כשאתה פה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה אומר שבסך הכל אתה טיפוס אמין,</l>
+          <l>ושאין לי מה לדאוג ושתמיד אתה תהיה זמין </l>
+          <l>תאר לעצמך שהדילמה לא כזאת פשוטה</l>
+          <l>ועל אף שהפיתוי גדול והוא גדול אני לא רוצה,</l>
+          <l>להרגיש איתך תלויה וחוץ ממך שלא יהיה דבר,</l>
+          <l>לא רוצה לא לרצות,לא לצאת לא לעשות דבר...</l>
+          <l>רק לחטט בתוך מחשבותי,</l>
+          <l>ולדמיין אותך בא אלי...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>חוץ ממך, יש לי הכל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מקבצת אשליות</title>
+        <singer classification="unknown">אורית אסף</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מקבצת אשליות</head>
+        <lg number="1" type="stanza">
+          <l>כוכב למעלה מתחבא בקצה שמיים</l>
+          <l>רוח נושבת בחוזקה על הגלים</l>
+          <l>והיא יושבת לבדה על שפת המים</l>
+          <l>מתוך ליבה באפלה עולות מילים</l>
+          <l>היא מספרת לו את כל שהיא עוברת</l>
+          <l>ומחלקת חויות לא נשכחות</l>
+          <l>בתוך השקט הנורא כמעט נשברת</l>
+          <l>כשתמונותיו בדימיונה מולה חולפות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היא מקבצת אשליות ביון אור לחסד</l>
+          <l>וזיכרונות מן העבר בלב אוספת</l>
+          <l>קוראת בחום לגוזלה שכבר יגיע</l>
+          <l>בצל תקווה לאשליה אין לה מושיע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא לא שואלת מה יהיה כי היא יודעת</l>
+          <l>ובתוך אותו כאב אינה שוקעת</l>
+          <l>ושוב יושבת לבדה על שפת המים</l>
+          <l>ומחכה רק לבשורות מן השמיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היא מקבצת אשליות ביון אור לחסד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

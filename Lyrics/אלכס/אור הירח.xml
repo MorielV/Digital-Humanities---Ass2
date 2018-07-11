@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אור הירח 2</title>
+        <singer classification="unknown">אלכס 3</singer>
+        <writer>יוני רועה</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אור הירח</head>
+        <lg number="1" type="stanza">
+          <l>אור הירח שוב דולק והוא מכה בי</l>
+          <l>הלב עוד מחכה לך והלילה קר</l>
+          <l>האם תדעי לחזור ולחייך לי.</l>
+          <l>מתוך הכאבים עוד משהו נשאר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תגידי למה זה קורה לי.</l>
+          <l>תגידי מה יביא הזמן.</l>
+          <l>קורא בשמך ורק ההד עונה לי.</l>
+          <l>את לי כמו הקשת למיתר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בדימיוני עולה דמותך מתוך העצב</l>
+          <l>פנייך היפות שוברות את הדממה.</l>
+          <l>הזכרונות עולים ואת הולכת</l>
+          <l>אימרי לי למה, למה ועל מה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תגידי למה זה קורה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

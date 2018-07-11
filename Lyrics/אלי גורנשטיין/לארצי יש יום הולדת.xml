@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לארצי יש יום הולדת</title>
+        <singer classification="unknown">אלי גורנשטיין</singer>
+        <writer>שייקה פייקוב</writer>
+        <composer>שייקה פייקוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לארצי יש יום הולדת</head>
+        <lg number="1" type="stanza">
+          <l>לארצי יש יום הולדת</l>
+          <l>אתם ודאי יודעים</l>
+          <l>אתם ודאי זוכרים</l>
+          <l>שהיא כבר בת שלושים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ולכן כולנו יחד</l>
+          <l>נשיר לה ונזמר</l>
+          <l>המשיכי ככה הלאה</l>
+          <l>באשר תלכי - נלך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ונשיר לך שיר - הללויה</l>
+          <l>מכל הלב וכל הנשמה</l>
+          <l>ונשיר לך שיר - הללויה</l>
+          <l>מכל הלב וכל הנשמה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל בנייך מכנף ארץ</l>
+          <l>יחוגו את חגך</l>
+          <l>מכל נפוצותייך</l>
+          <l>ישובו לגבולך</l>
+          <l>עם עירך ירושלים</l>
+          <l>נשמח ונתחדש</l>
+          <l>ונקווה שבימינו</l>
+          <l>יכן בית המקדש</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ונשיר לך שיר - הללויה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>גם אנחנו פה נשיר לך</l>
+          <l>נשיר ונאחל</l>
+          <l>שכה ירבו ימייך</l>
+          <l>ושוב לא נכשל</l>
+          <l>למרום נישא עיננו</l>
+          <l>עם כל עם ישראל</l>
+          <l>ונבקש הביאי לנו</l>
+          <l>שנת שלום לה נייחל</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>ונשיר לך שיר - הללויה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

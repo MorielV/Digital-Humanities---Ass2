@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כוכבים 7</title>
+        <singer classification="unknown">אורי צדוק</singer>
+        <writer>אורי צדוק</writer>
+        <composer>missing</composer>
+        <album>גבוה מכאן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כוכבים</head>
+        <lg number="1" type="stanza">
+          <l>אתמול בערב פגשתי בך </l>
+          <l>באמצע החלום</l>
+          <l>דמעות בעיניים שנובעות </l>
+          <l>מחוסר מגע וחום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שואל את עצמי מה כבר קשה </l>
+          <l>למלאך יפה כמוך</l>
+          <l>בפינה קטנה בשמיים </l>
+          <l>ממלמלת לך מזמור</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כוכבים בשמיים</l>
+          <l>מי מכם ייתן לי אור</l>
+          <l>מתי תחזור אלי כבר אושר</l>
+          <l>הלילה כה שחור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ביבשת אחרת או ברחוב ליד </l>
+          <l>האושר מחכה</l>
+          <l>אם לא תבואי לקראתו </l>
+          <l>מה הוא יעשה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תדעי שהוא כאן מצפה ממך </l>
+          <l>שתתני לו סימנים</l>
+          <l>הוא ירוץ אלייך כשישמע את קולך</l>
+          <l>מתנגן ממרחקים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כוכבים בשמיים...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אתמול בערב פגשתי בך</l>
+          <l>באמצע החלום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

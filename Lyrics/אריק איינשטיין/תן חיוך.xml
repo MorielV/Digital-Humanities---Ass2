@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תן חיוך</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>גיא בוקאטי</writer>
+        <composer>גיא בוקאטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תן חיוך</head>
+        <lg number="1" type="stanza">
+          <l>ראיתי נגעתי טעמתי את רוב הדברים</l>
+          <l>נגסתי נישקתי אהבתי ת'דברים הפשוטים</l>
+          <l>משחקים מנגינות סיפורים חלומות שחלמתי</l>
+          <l>הנעורים הקצרים הם נצח עכשיו בתוכי</l>
+          <l>המגרש הקולנוע הקפה הקטן לידי </l>
+          <l>חוף הים שהיה המקום שליטפתי בחול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז תן חיוך אפילו מר</l>
+          <l>גם אם בפנים בלב נשבר</l>
+          <l>קח אחורה קח לאט</l>
+          <l>יבוא עוד גל זה עוד מעט</l>
+          <l>וייקח אותך בחזרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא ארזתי תרמיל לא יצאתי למסע הגדול</l>
+          <l>לא אחזתי בהגה לא הייתי ההוא שיכול</l>
+          <l>לא נאמתי נאום לא אמרתי זה זמן שנקום</l>
+          <l>לא רציתי לגור לא בחו"ל ולא בבית ממול</l>
+          <l>טוב לי בדשא שלי לא רוצה שום שיפור</l>
+          <l>זה לא באופי שלי אני אומר וזה כל הסיפור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עכשיו במרפסת השמש נכנסת</l>
+          <l>מחבקת שוטפת באור</l>
+          <l>מחמם את המים בחלון יש שמיים </l>
+          <l>את תיכף חוזרת זה טוב... </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז תן חיוך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

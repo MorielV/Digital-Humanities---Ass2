@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למדנו לשתוק</title>
+        <singer classification="male singer">אייל בוחבוט</singer>
+        <writer>אייל בוחבוט</writer>
+        <composer>אייל בוחבוט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למדנו לשתוק</head>
+        <lg number="1" type="stanza">
+          <l>למדנו להיות אדישים ולמדנו לשתוק </l>
+          <l>הורדנו את כל התריסים והפסקנו לצחוק </l>
+          <l>חשבנו המצאנו שיטה שום דבר כבר לא יפגע </l>
+          <l>חשבנו בנינו חומה אף אחד כבר לא יגע </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ברחנו אל תוך השיחים </l>
+          <l>חפרנו לנו בור </l>
+          <l>דרסנו את כל הפרחים והפסקנו לספור </l>
+          <l>דילגנו מעל הגדר... מהפחד ש...</l>
+          <l>ניפגע.. </l>
+          <l>חשבנו ברחנו בלי ש... אף אחד לא ידע </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מי מתרגש עוד ממה שיש </l>
+          <l>מי מתפוצץ עוד ממה שאין </l>
+          <l>מי מתייאש עוד ממה שהולך </l>
+          <l>ועל מה ועל איך...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>למדנו לנשום בלי אויר והפסקנו לצעוק </l>
+          <l>סגרנו את כל הפתחים וצללנו עמוק </l>
+          <l>כיבינו מזמן את האור </l>
+          <l>אף אחד לא נשאר </l>
+          <l>חבקי אותי... חבקי לי את </l>
+          <l>הפחד שנותר </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מי מתרגש עוד ממה שיש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

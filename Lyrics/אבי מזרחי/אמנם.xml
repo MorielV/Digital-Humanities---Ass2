@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמנם</title>
+        <singer classification="unknown">אבי מזרחי</singer>
+        <writer>אבי מזרחי</writer>
+        <composer>אבי מזרחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמנם</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אמנם עבר מאז די זמן</l>
+          <l>אבל אני חושב עלייך</l>
+          <l>אני כותב עכשיו מכאן</l>
+          <l>כותב מכאן אלייך</l>
+          <l>האם את נראית שונה</l>
+          <l>ההישתנה מבט עינייך</l>
+          <l>האם את חושבת עלי</l>
+          <l>כמו שאני חושב עלייך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עבר מאז די זמן</l>
+          <l>אבל קשה לי בלעדייך</l>
+          <l>אני כותב עכשיו מכאן</l>
+          <l>כותב מכאן אלייך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אמנם עבר מאז די זמן</l>
+          <l>אבל אני שואל עדיין</l>
+          <l>מה הפסדתי באותו הרגע</l>
+          <l>שוויתרתי עלייך</l>
+          <l>מה יכול היה להיות </l>
+          <l>אם היית איתי בבית</l>
+          <l>ביום של חורף קר</l>
+          <l>מחבקת עדין</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עבר מאז די זמן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

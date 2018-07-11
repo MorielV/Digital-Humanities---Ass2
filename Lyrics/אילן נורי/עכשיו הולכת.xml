@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עכשיו הולכת</title>
+        <singer classification="male singer">אילן נורי</singer>
+        <writer>אבי פרץ</writer>
+        <composer>אבי פרץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עכשיו הולכת</head>
+        <lg number="1" type="stanza">
+          <l>את אהבת נעורי אין אחרת</l>
+          <l>עם הזמן שחולף את לא חוזרת</l>
+          <l>ודמותך בי כל רגע עולה ונוגעת</l>
+          <l>בשקט שגובר יוצא מדעת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רוצה להביט לך בעיניים</l>
+          <l>ולהגיד מילה או שתיים</l>
+          <l>אך שתיקתך בי שוב הולמת</l>
+          <l>אהבתך מכה ונעלמת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אין לי אהבה בעולם בלעדייך</l>
+          <l>השקט מסביב שולט בינתיים</l>
+          <l>ועכשיו כשאת הולכת </l>
+          <l>הזמן עוצר - עומד מלכת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רוצה שוב להרגיש ובך לגעת</l>
+          <l>את פעימות הלב את לא שומעת</l>
+          <l>האהבה הזאת רק לך שייכת</l>
+          <l>איך יכולת כך לקום וללכת</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אין לי אהבה בעולם בלעדייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

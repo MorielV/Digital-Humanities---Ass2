@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דייג הכפר 2</title>
+        <singer classification="male singer">ארז הלוי</singer>
+        <writer>ארז הלוי</writer>
+        <composer>ארז הלוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דייג הכפר</head>
+        <lg number="1" type="stanza">
+          <l>יצא דייג לשוט על מים. </l>
+          <l>אהב דייג את השמיים </l>
+          <l>הכחולים. </l>
+          <l>אישה טובה חיכתה בבית </l>
+          <l>לאהובה, דייג, אשר במים </l>
+          <l>הטובים. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חזר דייג משוט על מים. </l>
+          <l>אסף רשתו, גם שלל הדייג </l>
+          <l>נוצצים. </l>
+          <l>אוי, מה זה קרה? אבוי בבית. </l>
+          <l>אישה טובה חובקת מים </l>
+          <l>אחרים. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יצא דייג לשוט על מים. </l>
+          <l>אסף רשתו, גם כלי הזין </l>
+          <l>החדים. </l>
+          <l>אישה טובה בכתה בבית </l>
+          <l>על אהובה אשר במים </l>
+          <l>הצלולים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

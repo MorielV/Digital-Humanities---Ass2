@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תלך מכאן</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>אילנה אביטל</writer>
+        <composer>אילנה אביטל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תלך מכאן</head>
+        <lg number="1" type="stanza">
+          <l>נפשי כבר מוכנה</l>
+          <l>להתמסר לך</l>
+          <l>הכל עניין של זמן</l>
+          <l>רק אל תלך מכאן</l>
+          <l>הצצתי בחיי</l>
+          <l>חשבתי עד בלי די</l>
+          <l>פתאום הכל מובן</l>
+          <l>רק אל תלך מכאן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש צורך לפעמים</l>
+          <l>לשטוף את הפנים</l>
+          <l>כדי לגלות את עצמך</l>
+          <l>יש מאבק תמים</l>
+          <l>אשר חבוי בפנים</l>
+          <l>שמקבע את דמותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לו רק אפשר היה</l>
+          <l>לפתור כל בעיה</l>
+          <l>בעוד חיוך קטן</l>
+          <l>רק אל תלך מכאן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מישהו 5</title>
+        <singer classification="male singer">אייל לוי</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מישהו</head>
+        <lg number="1" type="stanza">
+          <l>מישהו, מישהו דואג</l>
+          <l>דואג לי שם למעלה</l>
+          <l>בא והדליק כמה כוכבים</l>
+          <l>והם נופלים אחד אחד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אנו סובבים בשתי דרכים שונות</l>
+          <l>יום ולילה לאורכן</l>
+          <l>עייפים ורעבים ומחכים לאות</l>
+          <l>בנתיבי אבק וזמן</l>
+          <l>אנו נפגש בסוף דרכים ושאלות</l>
+          <l>נפגש בתום ימים רבים,</l>
+          <l>בתום הרבה לילות</l>
+          <l>אני יודע שגם את קרבה עכשיו</l>
+          <l>אביב חלף, קיץ נאסף</l>
+          <l>והגשם שב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מישהו, מישהו דואג</l>
+          <l>דואג לי שם למעלה</l>
+          <l>בא ואסף כמה כוכבים</l>
+          <l>השיב אותם אחד אחד.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אנו סובבים בשתי דרכים שונות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

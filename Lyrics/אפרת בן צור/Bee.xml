@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bee</title>
+        <singer classification="female singer">אפרת בן צור</singer>
+        <writer>emily dickinson</writer>
+        <composer>אפרת בן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Bee</head>
+        <lg number="1" type="stanza">
+          <l>Bee! I'm expecting you!</l>
+          <l>Was saying Yesterday</l>
+          <l>To Somebody you know</l>
+          <l>That you were due—</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>The Frogs got Home last Week—</l>
+          <l>Are settled, and at work—</l>
+          <l>Birds, mostly back—</l>
+          <l>The Clover warm and thick—</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>You'll get my Letter by</l>
+          <l>The seventeenth; Reply</l>
+          <l>Or better, be with me—</l>
+          <l>Yours, Fly.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

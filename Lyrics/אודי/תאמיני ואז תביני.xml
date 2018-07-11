@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תאמיני ואז תביני</title>
+        <singer classification="unknown">אודי 4</singer>
+        <writer>דודי עומרד</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תאמיני ואז תביני</head>
+        <lg number="1" type="stanza">
+          <l>קחי אותי קרוב לנשמה</l>
+          <l>קחי אותי קרוב לנפש</l>
+          <l>את הראש שלי את לא תביני</l>
+          <l>ובאהבה לא תאמיני</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי זה מחכה לך לילה וגם יום</l>
+          <l>מחבק אותך בחום ילדונת</l>
+          <l>אני זה שחיכיתי לא יכול לישון</l>
+          <l>איך זה שפתאום את נעלמת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קחי אותי שותף לאהבה</l>
+          <l>לא תזכי לעוד חבר כמוני</l>
+          <l>את כולך ילדה בואי ותני לי</l>
+          <l>סולח לך על כל מה שעשית לי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי זה מחכה לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

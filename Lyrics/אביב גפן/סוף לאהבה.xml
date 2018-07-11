@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סוף לאהבה</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סוף לאהבה</head>
+        <lg number="1" type="stanza">
+          <l>אני הולך עכשיו אתה אמרת</l>
+          <l>השארת את הדלת קצת פתוחה</l>
+          <l>בגוף רועד אל דרכך יצאת</l>
+          <l>מאחורייך אהבה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את יופייה כל כך רצית לשכוח</l>
+          <l>לקלף ממך כל זיכרון</l>
+          <l>שק של תלות תלוי לך על הכתפיים</l>
+          <l>אתה חולם עליה בלי לישון</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>וכמה שאני אוהב אותך</l>
+          <l>זה רק נהיה יותר מסובך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כוכב נופל כותב את שמה בשמיים</l>
+          <l>הכאב צורח באוזנייך</l>
+          <l>מערבב כדור עם וויסקי ויין</l>
+          <l>אתה הופך לבית מרקחת את גופך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>וכמה שאני אוהב אותך</l>
+          <l>זה רק נהיה יותר מסובך</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני אוהב אותך אתה חזרת</l>
+          <l>לחצת לה חזק את הרקה</l>
+          <l>בגוף רועד אל דרכך יצאת</l>
+          <l>מאחורייך אהבה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

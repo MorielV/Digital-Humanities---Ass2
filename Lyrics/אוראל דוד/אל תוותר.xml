@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תוותר 6</title>
+        <singer classification="unknown">אוראל דוד</singer>
+        <writer>יגאל חדד</writer>
+        <composer>הנרי בן עזרא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תוותר</head>
+        <lg number="1" type="stanza">
+          <l>רציתי להביא לך פרח אדום אדום </l>
+          <l>שנשבור ת'קרח ונרקוד היום </l>
+          <l>רציתי לגרום לך להבין שליבי</l>
+          <l>ליבי שייך לך לתמיד </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ביום שני כתוב לך שתתאכזב</l>
+          <l>בשלישי הבטיחו שתתאהב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא צריך עצה מהכוכבים</l>
+          <l>מה הם מבינים </l>
+          <l>תראה איך לצדך הלב שלי ממריא</l>
+          <l>תהיה לטובתי </l>
+          <l>ואל תוותר, אל תוותר עלינו</l>
+          <l>תסתכל עלינו </l>
+          <l>ואל תוותר, אל תוותר עלינו</l>
+          <l>תסתכל עלינו... </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רציתי ללכת שתיקרע מגעגוע</l>
+          <l>במקום לצאת ולבלות כל סוף שבוע </l>
+          <l>מי ההיא ששברה את הלב שלך</l>
+          <l>אולי תפנים אני זאת האחת בשבילך </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ביום שני כתוב לך שתתאכזב</l>
+          <l>בשלישי הבטיחו שתתאהב</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לא צריך עצה מהכוכבים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

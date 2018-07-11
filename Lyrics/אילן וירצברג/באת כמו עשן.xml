@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>באת כמו עשן</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>אילן וירצברג</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>באת כמו עשן</head>
+        <lg number="1" type="stanza">
+          <l>את באת אלי כמו עשן</l>
+          <l>וגופי ישן שנת חורפו הארוכה</l>
+          <l>קמתי והבטתי בך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את באת אלי כמו עשן</l>
+          <l>וגופי ישן את שנתו הארוכה</l>
+          <l>רציתי לסלק אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז קרבו פנייך</l>
+          <l>אז נגלו שפתייך</l>
+          <l>אז פרץ גופי אל גופך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

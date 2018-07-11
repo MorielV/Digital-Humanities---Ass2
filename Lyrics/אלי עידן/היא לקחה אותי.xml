@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא לקחה אותי</title>
+        <singer classification="male singer">אלי עידן</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא לקחה אותי</head>
+        <lg number="1" type="stanza">
+          <l>היא לקחה אותי כשהייתי ילד </l>
+          <l>לימדה אותי ופתחה לי דלת </l>
+          <l>אל חיקה </l>
+          <l>היא אספה אותי ובשתי ידיה </l>
+          <l>ליטפה אותי וקירבה אליה </l>
+          <l>וחיבקה </l>
+          <l>אז התחלתי לגלות את החיים, חיים כאלה לא שוכחים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והיום אחר היא מלמדת </l>
+          <l>היא פתאום טרקה לי הדלת </l>
+          <l>ונפשי תוהה </l>
+          <l>והיום אחר היא מלטפת </l>
+          <l>היא איתו ודעתי נטרפת </l>
+          <l>ונפשי קרועה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא לקחה אותי כבר הייתי נער </l>
+          <l>לימדה אותי ופתחה לי שער </l>
+          <l>אל חיקה </l>
+          <l>היא גנבה אותי לילה ועוד לילה </l>
+          <l>משכה אותי אל חדרה בלילה </l>
+          <l>ונישקה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז התחלתי לגלות את החיים, חיים כאלה לא שוכחים </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>והיום אחר היא מלמדת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

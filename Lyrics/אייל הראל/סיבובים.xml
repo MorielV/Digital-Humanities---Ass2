@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיבובים</title>
+        <singer classification="unknown">אייל הראל</singer>
+        <writer>אייל הראל</writer>
+        <composer>אייל הראל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיבובים</head>
+        <lg number="1" type="stanza">
+          <l>פה ושם שם ופה</l>
+          <l>תיכף אתה תבוא</l>
+          <l>לראות אותי מופיע</l>
+          <l>עכשיו עושים סיבובים</l>
+          <l>זה כבר כמה שנים</l>
+          <l>שכלום אינו מצליח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פה ושם שם ופה</l>
+          <l>כמו דברים שנאמרו אתמול</l>
+          <l>השמיים צופנים עתידנו</l>
+          <l>כמו גלים אל החוף</l>
+          <l>כך אמרת אלי פתאם</l>
+          <l>אתה מתנה בשבילי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עכשיו אני חוזר מעט</l>
+          <l>אל כל מה שהייתי אז</l>
+          <l>בלי פחדים</l>
+          <l>להיות גיבור בין אנשים </l>
+          <l>וככה זה כל החיים</l>
+          <l>מחפשים ומוצאים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>פה ושם שם ופה</l>
+          <l>קודם תבין אותי</l>
+          <l>שיש לאן להגיע</l>
+          <l>כשנתחיל להמריא דרך העננים</l>
+          <l>לא נעצור לרגע</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עכשיו אני חוזר מעט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

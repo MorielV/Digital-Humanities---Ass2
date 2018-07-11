@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברכת כופה</title>
+        <singer classification="male singer">אוהד מושקוביץ</singer>
+        <writer>מן המקורות</writer>
+        <composer>john legend</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברכת כופה</head>
+        <lg number="1" type="stanza">
+          <l>"יהי רצון מלפניך ה‘ אלוקיי ואלוקי אבותיי,</l>
+          <l>שתשרה שכינתך בבית הזה.</l>
+          <l> ותסייע לחתן ולכלה לבנות בית בששון ושמחה, </l>
+          <l>בית מלא בברכת ה', </l>
+          <l>בית מלא קדושה. </l>
+          <l>אנא ה ' זכה את החתן והכלה לחיות באהבה,</l>
+          <l>זכה אותם לשמוח אחד בשני, </l>
+          <l>זכה אותם בבנים ובבנות בריאים ושלמים."</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

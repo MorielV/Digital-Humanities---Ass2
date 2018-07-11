@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האהבה חלפה</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>אילן וירצברג</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האהבה חלפה</head>
+        <lg number="1" type="stanza">
+          <l>האהבה חלפה</l>
+          <l>אהבה שהייתה</l>
+          <l>או, מי זה חשב לו ש-</l>
+          <l>יהיה סופה מר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמו בסיפור קצר</l>
+          <l>אושר שלא נגמר</l>
+          <l>או, מי זה חשב לו ש-</l>
+          <l>יהיה סופו מר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היינו, רצינו,</l>
+          <l>הכול היה רק שנינו</l>
+          <l>חיינו, אהבנו</l>
+          <l>כמו עד עולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>האהבה חלפה</l>
+          <l>כמו שמש היא כבר שקעה</l>
+          <l>או, מי זה חשב לו ש-</l>
+          <l>יהיה סופה מר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בית אבי 2</title>
+        <singer classification="unknown">אלברט מרציאנו</singer>
+        <writer>יוני רועה</writer>
+        <composer>אלברט מרציאנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בית אבי</head>
+        <lg number="1" type="stanza">
+          <l>בימים יפים מול שדות פורחים אני נוגע</l>
+          <l>זיכרון ישן ורחוק בזמן נוף ילדותי</l>
+          <l>זו הייתה תקופה מלאת שמחה חום ואהבה</l>
+          <l>רחובות צרים וריחות עולים מן השדרה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מתגעגע ושוב נוגע באותן החומות של בית אבי,</l>
+          <l>מתגעגע ושוב יודע כמה הייתה זו תקופה יפה שלי.</l>
+        </lg>
+        <lg number="3" type="stanza"/>
+        <lg number="4" type="stanza">
+          <l>הימים חולפים ברגשות עזים עודי שומע</l>
+          <l>את קולות השיר בערבי שבת לכה דודי</l>
+          <l>זו הייתה תקופה מלאת חדווה תום ונתינה</l>
+          <l>בזוכרי אותה כמו אתמול הייתה  נוף ילדותי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

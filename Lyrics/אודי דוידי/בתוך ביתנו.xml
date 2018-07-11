@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בתוך ביתנו</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בתוך ביתנו</head>
+        <lg number="1" type="stanza">
+          <l>ואם הייתי אדם אחר</l>
+          <l>מה הייתי יכול להיות</l>
+          <l>ואם היית שר שיר אחר</l>
+          <l>לאן דרכינו היו הולכות</l>
+          <l>ואם היינו גרים במקום אחר</l>
+          <l>האם היו לנו אותן תקוות</l>
+          <l>תראי את הילדים בונים בחול </l>
+          <l>מגדלים של חלומות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza" />
+        <lg number="3" type="stanza">
+          <l>פותח דלת</l>
+          <l>מלחמה בחוץ, כאן יש שקט מובן</l>
+          <l>מביט אל תוך עיניים שואלות לאן</l>
+          <l>אין כלום בחוץ, אני לוחש</l>
+          <l>זה הכל נמצא כאן, </l>
+          <l>בתוך ביתנו </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza" />
+        <lg number="5" type="stanza">
+          <l>טוב לנו עכשיו</l>
+          <l>מה עוד צריך להיות</l>
+          <l>כבר לא מתרגש מברקים ואורות</l>
+          <l>עולם של אשליות</l>
+          <l>מרפסת קטנה, כוכבים מאירים, </l>
+          <l>נדנדה תלויה על עץ</l>
+          <l>האם יש עוד מקום בו נוכל</l>
+          <l>למצוא את האמת?</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כמה התפללנו כשרצינו עולם אחר, והחיים כמו בחיים, ויש זמנים ויש טובים יותר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

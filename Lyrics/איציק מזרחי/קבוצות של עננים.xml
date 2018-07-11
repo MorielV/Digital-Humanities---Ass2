@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קבוצות של עננים</title>
+        <singer classification="unknown">איציק מזרחי</singer>
+        <writer>איציק מזרחי</writer>
+        <composer>איציק מזרחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קבוצות של עננים</head>
+        <lg number="1" type="stanza">
+          <l>כמה יפות הן שתי עינייה,</l>
+          <l>בתמונתה אני נזכר פתאום,</l>
+          <l>הלכה מכאן והיא כבר איננה,</l>
+          <l>ליבי שבור כולו רדוף קללות,</l>
+          <l>איך עזבה אותי בלילה,</l>
+          <l>קר לי עצוב וכואב,</l>
+          <l>געגועים עוטפים אותי בכל רגע,</l>
+          <l>מסתכל על הבית הריק,</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אוהב אותך עד סוף ימי אני נשבע לך,</l>
+          <l>אלך אחרייך ימים ולילות,</l>
+          <l>קבוצות של עננים ישאו אותנו הלאה,</l>
+          <l>כי לצדיך אני רוצה לחיות,</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלכה מכאן ואין יפה כמוה,</l>
+          <l>ליבי כבול ולא מתנחם,</l>
+          <l>נזכר אני שוב בעינייה,</l>
+          <l>ואז הלב נסגר שוב מכאב,</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אוהב אותך עד סוף ימי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נבגד</title>
+        <singer classification="unknown">אודי 4</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נבגד</head>
+        <lg number="1" type="stanza">
+          <l>נתתי לך את הנשמה</l>
+          <l>הייתה בינינו הבנה</l>
+          <l>היינו זוג יפה כל כך</l>
+          <l>כמו חלום בלתי נשכח</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נתת לי נשמתי להרגיש נבגד</l>
+          <l>ראית אותי כואב לא נתת לי יד</l>
+          <l>כוחה של אהבה להמשיך לשרוד</l>
+          <l>להתגבר על בעיות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הכל התחיל וכבר נגמר</l>
+          <l>את לא תראי אותי נשבר</l>
+          <l>אין לי היום אין לי מחר</l>
+          <l>את לא תראי אותי נשבר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נתת לי נשמתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

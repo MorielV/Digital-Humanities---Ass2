@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לבגידות</title>
+        <singer classification="unknown">אלי זולטא</singer>
+        <writer>אלי זולטא</writer>
+        <composer>קיימים 2 ביצועים נוספים לשיר זה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לבגידות</head>
+        <lg number="1" type="stanza">
+          <l>איך נטעת בי חיים עכשיו את שותקת</l>
+          <l>את הבטחת לא לבכות ואת שוב משקרת</l>
+          <l>אולי לא היום אל תתני לי ללכת</l>
+          <l>עם דמעות בעיניים סוגרת את הדלת</l>
+          <l>ועכשיו לבדי רק הגשם איתי</l>
+          <l>זה הלב מתנפץ לרסיסים כשאת לא איתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לבגידות יש מחיר זה הלב יודע</l>
+          <l>טוב עשיתי טעות אני מתגעגע אליה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו שיכור רועד מקור אני רודף אחריה</l>
+          <l>לעולם היא לא תחזור את זה אני יודע</l>
+          <l>אתה שומע</l>
+          <l>אלוקים זה שורף את הלב זה קורע</l>
+          <l>אני נשבע בחיי תמיד אחכה לה</l>
+          <l>ועכשיו לבדי והגשם איתי</l>
+          <l>זה הלב מתנפץ לרסיסים כשאת לא איתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לבגידות יש מחיר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

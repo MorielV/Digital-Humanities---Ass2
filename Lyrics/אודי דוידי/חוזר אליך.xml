@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חוזר אליך</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חוזר אליך</head>
+        <lg number="1" type="stanza">
+          <l>מנסה להתנתק מכל מה שהיה עבר</l>
+          <l>מחליט עכשיו מרים ת'ראש ומחכה</l>
+          <l>חשבתי שהכל קשה</l>
+          <l>חשבתי שכבר לא אהיה </l>
+          <l>ואז שמעתי קול אומר לי תנסה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם אתה מאמין שאפשר לקלקל</l>
+          <l>תאמין שאפשר לתקן</l>
+          <l>חוזר אליך חזרה</l>
+          <l>כמו בן</l>
+          <l>כמו בן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז לרחוב אני יוצא ומחייך</l>
+          <l>לכל מי שעובר מולי פתאום הלב שלי פועם</l>
+          <l>הכל מאיר באור עצום רוצה לצעוק</l>
+          <l>שטוב היום כמו חלום רוצה תמיד מחר כזה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם אתה מאמין...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הדובה הגדולה</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הדובה הגדולה</head>
+        <lg number="1" type="stanza">
+          <l>והיה ויקראו לי קולות רחוקים וזרים</l>
+          <l>ואליהם אתפתה, אחריהם אלך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הדובה הגדולה מאירה, מטורף וענוג אורה</l>
+          <l>ואותה אחבק ואוהב, תתן לי על גבה לרכב</l>
+          <l>תתן לי על גבה לרכב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>העולם הכחול שלנו, אותו נטשתי לעד</l>
+          <l>את גופי בו השארתי, כי בי הוא בגד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואוריון הצייד הבודד עם קשתו הגדולה יצעד</l>
+          <l>את ידו בידי אשים נלך נצוד בכוכבים</l>
+          <l>נלך נצוד בכוכבים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשהייתי איתכם הייתי אבוד</l>
+          <l>עולם האדם, השיעבוד</l>
+          <l>וזדון ורשע ועוון ופשע ושנאת חינם</l>
+          <l>רדפוני באשר אלך</l>
+          <l>אז הלכתי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הדובה הגדולה מאירה, מטורף וענוג אורה</l>
+          <l>ואותה אחבק ואוהב, תתן לי על גבה לרכב</l>
+          <l>תתן לי על גבה לרכב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מועקה</title>
+        <singer classification="band">אבטיפוס</singer>
+        <writer>אייל שכטר</writer>
+        <composer>אייל שכטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מועקה</head>
+        <lg number="1" type="stanza">
+          <l>במורד הגרון מתחלקת מועקה</l>
+          <l>"לא מספיק טוב", היא צועקת</l>
+          <l>"אני לא מספיק טובה"</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>העכבר מרחוב אילת שש</l>
+          <l>זה עם הרגש</l>
+          <l>אומר שהוא אוהב אותה</l>
+          <l>בכל זאת היא צועקת</l>
+          <l>"אני לא מספיק טובה"</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>וזה כואב, זה מפריע לתנועה</l>
+          <l>וזה כואב, זה מפריע לתנועה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>במורד הגרון מתחלקת מועקה</l>
+          <l>היא כואבת , מטופשת</l>
+          <l>מרגיזה את הסביבה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>העכבר מרחוב אילת שש</l>
+          <l>זה עם הרגש</l>
+          <l>זוכר שפעם היא הייתה יפה</l>
+          <l>בכל זאת היא צועקת</l>
+          <l>"אני לא מספיק טובה"</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>וזה כואב, זה מפריע לתנועה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

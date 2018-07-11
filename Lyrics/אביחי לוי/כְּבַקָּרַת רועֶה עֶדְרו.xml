@@ -1,0 +1,38 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כ ב ק ר ת רוע ה ע ד רו</title>
+        <singer classification="male singer">אביחי לוי</singer>
+        <writer>מתוך הפיוט</writer>
+        <composer>מסורתי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כְּבַקָּרַת רועֶה עֶדְרו</head>
+        <lg number="1" type="stanza">
+          <l>כְּבַקָּרַת רועֶה עֶדְרו,</l>
+          <l>מַעֲבִיר צאנו תַּחַת שִׁבְטו.</l>
+          <l>כֵּן תַּעֲבִיר וְתִסְפּר וְתִמְנֶה וְתִפְקד נֶפֶשׁ כָּל חָי.</l>
+          <l>וְתַחְתּךְ קִצְבָה לְכָל בְּרִיּותֶיך,</l>
+          <l>וְתִכְתּב אֶת גְּזַר דִּינָם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

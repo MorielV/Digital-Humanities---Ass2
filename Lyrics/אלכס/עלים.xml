@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עלים</title>
+        <singer classification="unknown">אלכס 2</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עלים</head>
+        <lg number="1" type="stanza">
+          <l>אנחנו עלים</l>
+          <l>נודדים כשנושבת הרוח</l>
+          <l>מעצים לעצים </l>
+          <l>מחליפים תצבעים בסתיו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בסוף נקברים בחול</l>
+          <l>הופכים להיות שלכת עצובה</l>
+          <l>לא יזכרו שהיינו כה יפים</l>
+          <l>אנחנו רק עלים</l>
+          <l>איש לא ישמור עלינו מצרה</l>
+          <l>כשהזמן ללכת</l>
+          <l>רק עלים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כי אנחנו עלים </l>
+          <l>נקטפים שעובר הזמן</l>
+          <l>מצמרת גבוהה</l>
+          <l>צונחים על האדמה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בסוף נקברים בחול</l>
+          <l>הופכים להיות שלכת עצובה</l>
+          <l>לא יזכרו שהיינו כה יפים</l>
+          <l>אנחנו רק עלים</l>
+          <l>איש לא ישמור עלינו מצרה</l>
+          <l>כשהזמן ללכת</l>
+          <l>רק עלים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

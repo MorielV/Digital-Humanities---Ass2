@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מסתכל על הים</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>אסף אמדורסקי</composer>
+        <album>הרי את</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מסתכל על הים</head>
+        <lg number="1" type="stanza">
+          <l>מסתכל על הים</l>
+          <l>כלום לא זז, הכל שקט</l>
+          <l>אין גלים, אין רוח</l>
+          <l>מסביב דממה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>השמיים, ההרים</l>
+          <l>המים הכחולים</l>
+          <l>מרחוק רואה ספינה</l>
+          <l>שטה לא בעיגולים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עצים ברוח זזים לאט</l>
+          <l>אפשר לשמוע איך הם רוקדים</l>
+          <l>חתול בשמש מתפנק</l>
+          <l>אני מביט בו ושותק</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>השמיים, ההרים</l>
+          <l>המים הכחולים</l>
+          <l>מרחוק רואה ספינה</l>
+          <l>שטה לא בעיגולים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והזמן עומד, לא זז</l>
+          <l>לא זז</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

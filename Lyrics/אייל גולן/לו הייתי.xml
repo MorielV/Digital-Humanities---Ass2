@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לו הייתי</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>שלומי שבת</composer>
+        <album>צליל מיתר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לו הייתי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אל תהי דלתך סוגרת</l>
+          <l>ובכאב מענה את אוהבך</l>
+          <l>תני ידך ביד אוהבת</l>
+          <l>ולעולם לא תהיי לבדך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לו הייתי כמו הרוח הנושבת בשערך</l>
+          <l>או אולי טיפה של גשם הגולשת על גבך</l>
+          <l>לו הייתי עשב דשא להניח כף רגליך</l>
+          <l>אפילו סתם אויר שכיח למלא את ריאתך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תהי דלתך סוגרת...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לו הייתי כתפוח הנשטף בכף ידך</l>
+          <l>או הייתי איזה בגד העוטף את גזרתך</l>
+          <l>לו הייתי צבע אודם המרוח על שפתך</l>
+          <l>או עדי זהב או כסף התלוי על צווארך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל תהי דלתך סוגרת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

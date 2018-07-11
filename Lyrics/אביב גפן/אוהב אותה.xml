@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אוהב אותה</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אוהב אותה</head>
+        <lg number="1" type="stanza">
+          <l>היא יפה ויש לה אופי</l>
+          <l>אז אוהב אותה, אוהב אותה</l>
+          <l>אני יודע שהיא תבגוד בי</l>
+          <l>אז שונא אותה, שונא אותה</l>
+          <l>ואוהב אותה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הגוף שלה זה חוץ לארץ</l>
+          <l>אז אוהב אותה, אוהב אותה</l>
+          <l>אבל רבים ביקרו בו מהארץ</l>
+          <l>אז שונא אותה, שונא אותה</l>
+          <l>ואוהב אותה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כתבתי שיר היא מתרגשת</l>
+          <l>אז אוהב אותה, אוהב אותה</l>
+          <l>אך עוד שירים היא מקבלת</l>
+          <l>אז שונא אותה, שונא אותה</l>
+          <l>ואוהב אותה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

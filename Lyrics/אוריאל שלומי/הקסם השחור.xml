@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הקסם השחור</title>
+        <singer classification="male singer">אוריאל שלומי</singer>
+        <writer>אנדרס אלוי בלאנקו</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הקסם השחור</head>
+        <lg number="1" type="stanza">
+          <l>היא הייתה שחורה ולוהטת</l>
+          <l>זאת לעולם לא אשכח</l>
+          <l>פעם אמרה לי ברטט</l>
+          <l>שוב ממך לא אברח</l>
+          <l>היא הייתה שחורה ולוהטת</l>
+          <l>זאת לעולם לא אשכח</l>
+          <l>פעם אמרה לי ברטט</l>
+          <l>שוב ממך לא אברח</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היה גופה שחור משחור</l>
+          <l>ולא יכולתי לעצור</l>
+          <l>ליבי הפך לעבד</l>
+          <l>לקסם השחור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גלויה לבנה ולוהטת</l>
+          <l>ואני כאן בדד</l>
+          <l>שט בספינה מתרחקת</l>
+          <l>אל חופי טרינידד</l>
+          <l>לפתע תוקפני געגוע</l>
+          <l>ומושכני שוב לשם</l>
+          <l>מה הסיבה זה ידוע</l>
+          <l>היא ספוגה בי בדם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היה גופה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

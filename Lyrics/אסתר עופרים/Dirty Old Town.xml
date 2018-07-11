@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dirty Old Town</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>Back On Stage</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Dirty Old Town</head>
+        <lg number="1" type="stanza">
+          <l>I found my love by the gasworks croft</l>
+          <l>Dreamed a dream by the old canal</l>
+          <l>Kissed my boy by the factory wall</l>
+          <l>Dirty old town, dirty old town</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Clouds are drifting across the moon</l>
+          <l>Cats are prowling on their beat</l>
+          <l>Springs a girl in the streets at night</l>
+          <l>Dirty old town, dirty old town</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Heard a sirens from the dock</l>
+          <l>a train sets the night on fire</l>
+          <l>Smell the spring in the smoky wind</l>
+          <l>Dirty old town, dirty old town</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>I'm going to take me a good sharp ax</l>
+          <l>Shining steel tempered in the fire</l>
+          <l>cut you down like an old dead tree</l>
+          <l>Dirty old town, dirty old town</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

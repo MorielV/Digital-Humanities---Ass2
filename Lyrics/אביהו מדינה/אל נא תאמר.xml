@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל נא תאמר 2</title>
+        <singer classification="male singer">אביהו מדינה</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל נא תאמר</head>
+        <lg number="1" type="stanza">
+          <l>אל נא תאמר </l>
+          <l>כי אין לך תקווה ואין מושיע </l>
+          <l>כי אין מרפא ואין מזור </l>
+          <l>אל נא תאמר </l>
+          <l>כי אין לך רצון ואין גם כח </l>
+          <l>כי רב לך היום </l>
+          <l>כי עייפה היא נפשך </l>
+          <l>ללחום על אדמתך על לחמך </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אך אין לך לאן לברוח </l>
+          <l>ואין מקום בו להחבא </l>
+          <l>כי בידך נפשך לשמור </l>
+          <l>ואל עמך יעזור </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היום עבר ושוב כבד לבך על שכשלת </l>
+          <l>ולא הטבת לעשות </l>
+          <l>ומחשבות כה רחוקות ממך עולות לפתע </l>
+          <l>ובראשך מתהמהות </l>
+          <l>אולי בהן אולי תמצא מפלט </l>
+          <l>אך בינתיים בהן תמצא מקלט </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אך אין לך לאן לברוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את המזל שלי</title>
+        <singer classification="unknown">אלי בנימין</singer>
+        <writer>אלי בנימין</writer>
+        <composer>אלי בנימין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את המזל שלי</head>
+        <lg number="1" type="stanza">
+          <l>כשאת מתחמקת איך אוכל למצוא אותך</l>
+          <l>תגידי מה את מחפשת אם אני כולי שלך</l>
+          <l>כוכבים מסרבים להאיר את פנייך</l>
+          <l>את כולך את סוגרת אם יש בך אהבה או שקור שולט בנשמה</l>
+          <l>כל כך רוצה לתת לך שקט ואהבה שלא פוסקת</l>
+          <l>לתקן מה שנשבר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את המזל שלי, כל התפילות נושאות את שמך</l>
+          <l>חולפות מעל כמו מנגינה שתשלים למענך</l>
+          <l>אתן לך מעצמי, הביני את היחידה מולה, הלב בדומיה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כעיוור שוב בדרך משוטט ברחובות</l>
+          <l>אור קטן מחדיר בי רגש רומז על הבאות</l>
+          <l>נגיעה מרחוק כמו הים לשמיים</l>
+          <l>כעפר לרגלייך ליבי מוטל, זרוק וריק בנשמה</l>
+          <l>כל כך רוצה לתת לך שקט ואת עכשיו שוב מתרחקת</l>
+          <l>אז מנגן מה שנשאר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את המזל שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

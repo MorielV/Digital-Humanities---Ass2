@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דרור 2</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דרור</head>
+        <lg number="1" type="stanza">
+          <l>בדרך לירושלים</l>
+          <l>אני נמלא געגועים</l>
+          <l>לקולך ולעינייך.</l>
+          <l>קרעי שמיים ועצים</l>
+          <l>נוסעים אתי אלייך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חברו השמש והתכלת</l>
+          <l>בחזיונות תעתועים</l>
+          <l>להשיב לי את פנייך,</l>
+          <l>ועוד מעט אשב מולך</l>
+          <l>ונדבר בשניים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואז לרגע שב הזמר,</l>
+          <l>שירי ציון קוראים לך דרור</l>
+          <l>והמיית הלב נכספת,</l>
+          <l>כמו אל אור.</l>
+          <l>וכשנגלית פתאום העיר</l>
+          <l>מצטעפות עיני בשיר.</l>
+          <l>ואז לרגע שב הזמר</l>
+          <l>דרור, קורא לך דרור.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בדרך לירושלים</l>
+          <l>אני נמלא געגועים</l>
+          <l>לקולך ולעינייך.</l>
+          <l>בדרך העולה בהר</l>
+          <l>תמיד אסע אלייך.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואז לרגע שב הזמר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

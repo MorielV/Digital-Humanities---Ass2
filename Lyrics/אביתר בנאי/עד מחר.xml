@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד מחר</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>אביתר בנאי</composer>
+        <album>לילה כיום יאיר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד מחר</head>
+        <lg number="1" type="stanza">
+          <l>אסור לך לחשוב</l>
+          <l>כשאת כל כך עייפה</l>
+          <l>צאי לטיול לאור זריחה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רחוקה מהבית</l>
+          <l>השביל לחזור נמחק</l>
+          <l>הולכת על חבל דק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלילות ארוכים</l>
+          <l>בלי לדעת למה</l>
+          <l>בורחת ואין רודף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עד מחר</l>
+          <l>עוד מעט</l>
+          <l>ילד רץ אלייך</l>
+          <l>מחבק אותך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נקיף את הפארק</l>
+          <l>רק להפסיק לחשוב</l>
+          <l>אנשים עייפים רצים ברחוב</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>היינו פה כבר קודם</l>
+          <l>בתפקיד הפוך</l>
+          <l>הליכה מהירה, להתיש את הגוף</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>עד מחר</l>
+          <l>עוד מעט</l>
+          <l>ילד רץ אלייך</l>
+          <l>מחבק אותך</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>יש פרצה בגדר</l>
+          <l>בין הגפנים, בין ענבי הכרם</l>
+          <l>שועלים מחבלים, מייללים</l>
+          <l>ונעלמים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

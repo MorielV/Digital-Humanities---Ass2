@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שרה 3</title>
+        <singer classification="female singer">אלונה דניאל</singer>
+        <writer>אלונה דניאל</writer>
+        <composer>אלונה דניאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שרה</head>
+        <lg number="1" type="stanza">
+          <l>שרה יודעת לשחק אותה</l>
+          <l>אף אחד לא מצליח לספק אותה</l>
+          <l>היא אומרת: אני רוצה עוד</l>
+          <l>בשביל כבוד צריך לעבוד</l>
+          <l>היא מחייכת לעומד מולה</l>
+          <l>וכשהוא מנסה לומר לה עוד מילה</l>
+          <l>היא אומרת: זוז ותן לעבור</l>
+          <l>וכשהיא כאן אף אחד לא גיבור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל אחד מחוויר מולה</l>
+          <l>איזו מן אשה גדולה, שרה</l>
+          <l>אל תאמר לה עוד מילה</l>
+          <l>היא מטען של חבלה, שרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שרה יודעת לשחק אותה</l>
+          <l>אף אחד לא מצליח לספק אותה</l>
+          <l>היא קולטת כל אחד ואחד</l>
+          <l>מסובבת על אצבע אחת</l>
+          <l>היא מחייכת לעומד מולה</l>
+          <l>וכשהוא מנסה לומר לה עוד מילה</l>
+          <l>היא אומרת: שתוק, אני כאן הבוס</l>
+          <l>את מקומי אף אחד לא יתפוס</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל אחד מחוויר מולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

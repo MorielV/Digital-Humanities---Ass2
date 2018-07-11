@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ביום שבו</title>
+        <singer classification="unknown">ארז ביטון</singer>
+        <writer>ארז ביטון</writer>
+        <composer>ארז ביטון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ביום שבו</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>ביום שבו תלך המועקה</l>
+          <l>והכול יוצף בצליל מז'ור של מוסיקה</l>
+          <l>ביום שבו הכול יחזור להיות בלי תהיות</l>
+          <l>ואז יקרה מה שצריך לקרות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ביום שבו תלך המועקה</l>
+          <l>לא תהיה ברירה</l>
+          <l>נשוב להיות לגוף אחד</l>
+          <l>ביום שבו הכול יחזור להיות</l>
+          <l>ללא גבולות עם ים של אושר וסוף לדמעות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואז תבואי אלי משום מקום</l>
+          <l>אין דבר יותר טוב </l>
+          <l>אור נרות אני ואת בחדר</l>
+          <l>כשאור נרות יאיר לנו את הלב</l>
+          <l>זה אור שמקרב</l>
+          <l>רק שחררי קצת מהחבל זה כואב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ביום שבו תלך המועקה</l>
+          <l>והכול יוצף בצליל מז'ור של מוסיקה</l>
+          <l>ביום שבו הכול יחזור להיות בלי תהיות</l>
+          <l>ואז יקרה מה שצריך לקרות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואז תבואי אלי משום מקום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

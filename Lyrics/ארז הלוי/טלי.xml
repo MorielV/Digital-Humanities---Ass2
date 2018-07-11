@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טלי</title>
+        <singer classification="male singer">ארז הלוי</singer>
+        <writer>ארז הלוי</writer>
+        <composer>ארז הלוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טלי</head>
+        <lg number="1" type="stanza">
+          <l>טלי יצאה את ביתה עם שחר </l>
+          <l>אך שוב לא תשוב לעת ערב </l>
+          <l>כי רוח זדון בליבה האוהב </l>
+          <l>רוח זדון פילחה חרב </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>טלי יצאה לדרכה עם שחר </l>
+          <l>לריקוד מצמרר אחרון ימיה </l>
+          <l>חמש נשמות סוככה במגדל </l>
+          <l>חמש נשמות לכתפיה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מר ונמהר ודועך הוא היום </l>
+          <l>ורוח סער ורעם נשמע </l>
+          <l>הכה הברק במגדל </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>טלי יצאה אל מותה עם שחר </l>
+          <l>כציפור מדמם רוטשו כנפיה </l>
+          <l>צר וזועף בפתח הישטין </l>
+          <l>סר וזועף לכנפיה </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שמש גדול קפא במדרון </l>
+          <l>ורוח סער ורעם נשמע </l>
+          <l>הכה השטן במגדל </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>טלי יצאה לדרכה עם שחר </l>
+          <l>אך שוב לא תשוב לעת ערב </l>
+          <l>כי רוח זדון בליבה האוהב </l>
+          <l>רוח זדון פילחה חרב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

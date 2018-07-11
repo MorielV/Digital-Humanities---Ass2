@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הילד של כולנו</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הילד של כולנו</head>
+        <lg number="1" type="stanza">
+          <l>תקוותינו הן כמו מפרש מתוח</l>
+          <l>וכל סימן ממך זה כמו משב של רוח</l>
+          <l>ודמותך החרישית לובשת שקט</l>
+          <l>כמו הרגעים שהמוסיקה נגמרת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתה תשוב, אתה תשוב</l>
+          <l>אתה הרי הילד של כולנו</l>
+          <l>אתה תשוב, אתה תשוב</l>
+          <l>לבך פועם בלי הפסקה בלב שלנו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סדקים של אור בחשיכה הם תפילותינו</l>
+          <l>ימים של חופש ושמחה באים עלינו</l>
+          <l>ולא נשקוט עד שנראה את זיו פניך</l>
+          <l>אנחנו כאן לבד, אתה הרי יודע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אתה תשוב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מאחורי סכסוך ישן יושב לו ילד</l>
+          <l>בין הסכמים לא חתומים הוא מבקש ש...</l>
+          <l>נזכור שיש לו גם פנים וחלומות</l>
+          <l>הוא רק פרפר, פרפר של מלחמות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אתה תשוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

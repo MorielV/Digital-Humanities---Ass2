@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תצלום ישן</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תצלום ישן</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים אני זוכרת עיר גדולה,</l>
+          <l>עיר כחולה,</l>
+          <l>כמו ציור מופלא,</l>
+          <l>לפעמים היא עוד שלי, אני שלה,</l>
+          <l>ואצלה </l>
+          <l>כל הלילה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>התמונה הזאת חוזרת על עצמה</l>
+          <l>בעוצמה,</l>
+          <l>בהירה חמה</l>
+          <l>אמא שם ואבא שר לו</l>
+          <l>ברחוב שבסאן-פאולו, מזמן</l>
+          <l>מול השמיים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החיוך לא מש</l>
+          <l>לא הפרח שבתוך הדש</l>
+          <l>צל אל צל ניגש</l>
+          <l>והאור פתאום נחלש.</l>
+          <l>מישהו רוכן</l>
+          <l>ונוגע בגומות החן</l>
+          <l>מבטו בוחן</l>
+          <l>וקורא לי: חנה, חנה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שתי צמות קלועות בסרט מלמלה</l>
+          <l>בשמלה </l>
+          <l>לבנה, קלה.</l>
+          <l>אמא שם ואבא שר לו</l>
+          <l>ברחוב שבסאן-פאולו, מזמן </l>
+          <l>מול השמיים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>החיוך לא מש....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

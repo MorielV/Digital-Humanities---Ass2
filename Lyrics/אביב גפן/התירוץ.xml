@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התירוץ</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התירוץ</head>
+        <lg number="1" type="stanza">
+          <l>אתה אומר יום גרוע</l>
+          <l>אך זה נמשך כבר שבוע</l>
+          <l>אולי אתה בכלל בה לא מאוהב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זו לא בעיה מוכרת</l>
+          <l>זו גם לא טראומה מודחקת</l>
+          <l>תפסיק עם כל הפסיכולוגים שלך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ויום אחד אתה תלמד לומר לה</l>
+          <l>זה נגמר שלום</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה עכשיו בוגד בה</l>
+          <l>מרגיש גיבור רק לרגע</l>
+          <l>אתה לא רק סמרטוט</l>
+          <l>אתה סמרטוט מלוכלך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה לא משחק מותח</l>
+          <l>פה לא צריך לנצח</l>
+          <l>אהבה זה משחק</l>
+          <l>שרק צריך לאהוב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ויום אחד אתה תלמד לומר לה</l>
+          <l>זה נגמר שלום</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אז תפסיק אם התירוץ של עליות וירידות</l>
+          <l>רק תאמר שלום</l>
+          <l>תאמר שלום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מבט מקסים</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מבט מקסים</head>
+        <lg number="1" type="stanza">
+          <l>ראיתוהו מן החלון</l>
+          <l>ראיתיה מן החלון</l>
+          <l>עומד תחת עץ האלון</l>
+          <l>ורגש עז עמוק נלבב</l>
+          <l>סחף אותי בכוח רב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חייך אלי מבלי משים</l>
+          <l>שלח אלי מבט מקסים</l>
+          <l>ואושר רב נסך עלי</l>
+          <l>באומרו לי בואי אלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מאותו היום התאהבנו</l>
+          <l>ומידי יום שם ניפגשנו</l>
+          <l>התיישבנו תחת העץ</l>
+          <l>ובליבנו אושר אין קץ</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשאהובי הלך רחוק</l>
+          <l>אזכור הקול והצחוק</l>
+          <l>מבט עיניו המתנוצץ</l>
+          <l>בהיות שנינו תחת העץ</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

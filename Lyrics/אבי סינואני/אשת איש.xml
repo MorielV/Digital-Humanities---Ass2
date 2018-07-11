@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אשת איש</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>שלום צבר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אשת איש</head>
+        <lg number="1" type="stanza">
+          <l>בלכתך אחרי אני כה נרגש</l>
+          <l>לא אוכל אלייך לגשת</l>
+          <l>דימיון כה רחב לי אני מאוהב</l>
+          <l>אהבה אסורה כה מרגשת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נשמה של אשה מוסרת נפשה</l>
+          <l>בטוב וגם ברע</l>
+          <l>היא תמיד לצידך אבל לא שלך</l>
+          <l>אשת איש מאוהבת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא פחות לא יותר</l>
+          <l>נשואה לאחר</l>
+          <l>אשת איש לא בוגדת</l>
+          <l>אני שכמוך הייתי תמיד</l>
+          <l>נאמן לביתי לא אחרת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד יבואו ימים אותי את תביני</l>
+          <l>אהבה תשכח מליבך</l>
+          <l>הפיתוי לי גדול ואני אהיה חלש</l>
+          <l>בעלך חברי האמיני</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>נשמה של אשה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לא פחות לא יותר נשואה לאחר</l>
+          <l>אשת איש לא בוגדת</l>
+          <l>אני שכמוך הייתי תמיד</l>
+          <l>נאמן לביתי לא אחרת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

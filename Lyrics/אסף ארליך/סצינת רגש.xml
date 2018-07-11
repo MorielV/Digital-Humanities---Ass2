@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סצינת רגש</title>
+        <singer classification="male singer">אסף ארליך</singer>
+        <writer>אסף ארליך</writer>
+        <composer>אסף ארליך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סצינת רגש</head>
+        <lg number="1" type="stanza">
+          <l>טעות שלא חזרה אתמול</l>
+          <l>תחזור בלי התייחסות לזמן</l>
+          <l>עמוק מצד האמונה קרוב אל הטיול בגן</l>
+          <l>מי לא מכור לכל מה שנולד ונופל</l>
+          <l>הילד שנולד הפוך</l>
+          <l>יושב על התקרה מוכן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סצינת רגש גדולה מסיבה לבנה</l>
+          <l>אור אוהב בעיניים</l>
+          <l>צרבתי מוח חדש עם תאים סוערים</l>
+          <l>זה לא נגמר</l>
+          <l>זה גדול מדי</l>
+          <l>לרגע נמחק וחוזר אלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חנות ספרים לעיתונים</l>
+          <l>חנות בגדים אינטיליגנטית</l>
+          <l>כתוב בשמן תאונה</l>
+          <l>כתוב בדו"ח שנשרפנו</l>
+          <l>כדור לכל מי שנולד ונופל</l>
+          <l>אני אחרון הכותבים</l>
+          <l>אני האחרון שמדבר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סצינת רגש גדולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

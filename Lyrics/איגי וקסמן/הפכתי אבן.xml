@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הפכתי אבן</title>
+        <singer classification="female singer">איגי וקסמן</singer>
+        <writer>איגי וקסמן</writer>
+        <composer>עופר קורן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הפכתי אבן</head>
+        <lg number="1" type="stanza">
+          <l>הפכתי אבן כשחיפשתי אותך</l>
+          <l>הפכתי את הבית</l>
+          <l>מצאתי תמונה</l>
+          <l>הם לא ענו שם כשקראתי שמך</l>
+          <l>הם לא היה שם</l>
+          <l>גם לא אתה, אתה...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל הדרך ללא עצירה</l>
+          <l>ובראש שלי יש רק מילה</l>
+          <l>אפשר שזה היה השם שלך</l>
+          <l>אפשר שזאת הייתה סתם תפילה, תפילה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דייקתי בזמן</l>
+          <l>בסוף תמיד מגיעה</l>
+          <l>הייתה לי הכתובת</l>
+          <l>הייתה גם תמונה</l>
+          <l>הכל יקרה כאן וזאת לא שמועה</l>
+          <l>אני בחוץ ואיפה אתה? לא כאן...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הפכתי אבן, הפכתי אבן, הפכתי אבן....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

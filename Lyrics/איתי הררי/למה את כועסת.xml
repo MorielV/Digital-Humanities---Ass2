@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למה את כועסת</title>
+        <singer classification="unknown">איתי הררי</singer>
+        <writer>נאור סינואני</writer>
+        <composer>איתי הררי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למה את כועסת</head>
+        <lg number="1" type="stanza">
+          <l>איפה את רוצה להגיע מבלי להודיע קראתי בשמך</l>
+          <l>בואי נילך רק ביחד ואין בי שום פחד להיות לצידך</l>
+          <l>אז מי בלילות מחכה לך כל פעם כותב לך עד כמה אוהב</l>
+          <l>אז בואי תראי שגם ילד יכול לספק לך את מה שבלב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>למה את כועסת אל תהיי כל כך קשה אליי</l>
+          <l>תני לי לספר לך מה עובר עליי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>למה את לא מתייחסת לא מתרגשת רוצה שנלך</l>
+          <l>אל מקום בו השמש זורחת ואת בי נוגעת חלום לצידך</l>
+          <l>מי בלילות מחכה לך כל פעם כותב לך עד כמה אוהב </l>
+          <l>אז בואי תראי שגם ילד יכול לספק לך את מה שבלב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>למה את כועסת אל תהיי כל כך קשה אליי</l>
+          <l>תני לי לספר לך מה עובר עליי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר עצוב</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>ממנטו מורי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר עצוב</head>
+        <lg number="1" type="stanza">
+          <l>בלילה שוב קם</l>
+          <l>מחלום עלייך</l>
+          <l>חלמתי שאת</l>
+          <l>בחיים עדיין</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רציתי להגיד לך</l>
+          <l>שבכל מקום</l>
+          <l>את איתי בליבי</l>
+          <l>לא הספקתי לומר לך שלום</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שירי לי</l>
+          <l>שיר עצוב</l>
+          <l>רציתי להגיד לך שאני אוהב אותך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תודה שנתת לי להיות</l>
+          <l>מה שבא לי</l>
+          <l>ואיך לפעמים את ראית</l>
+          <l>איך כאב לי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רציתי להגיד לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אזדרכת</title>
+        <singer classification="male singer">אלי לס</singer>
+        <writer>אלי לס</writer>
+        <composer>אלי לס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אזדרכת</head>
+        <lg number="1" type="stanza">
+          <l>פה בחדר העבודה שלה </l>
+          <l>היכן שאבק הפסולת מקשט את הבטון </l>
+          <l>ראיתי איזדרכת בחוץ </l>
+          <l>צומחת מתוך העפר לתוך חלל </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בכפר השקט </l>
+          <l>הרחק מהעיר </l>
+          <l>מול הבד הגועש </l>
+          <l>ראשך הזעיר </l>
+          <l>ליבך הזהיר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בעוד אני מתבונן בבד </l>
+          <l>היכן שמבטך עמד מלכת לרגע נדיר </l>
+          <l>החשיך היום האיר הלילה </l>
+          <l>מספר על אינספור מטוסים רבי צורות </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואנחנו </l>
+          <l>חומה ומגדל </l>
+          <l>מביטים רחוק </l>
+          <l>לנאות מדבר </l>
+          <l>עצב לא מוסבר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתגלגלים</title>
+        <singer classification="male singer">אמיר דדון</singer>
+        <writer>אמיר דדון</writer>
+        <composer>אמיר דדון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתגלגלים</head>
+        <lg number="1" type="stanza">
+          <l>אדמה וקודש אדמה ואמונה</l>
+          <l>מחפש קצת חופש מחפש קצת מנוחה</l>
+          <l>איך כולנו חיים ומתגלגלים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא נשאר לי כוח לנסות ולהבין</l>
+          <l>מנסה לברוח רק בדרך להמשיך</l>
+          <l>איך כולנו חיים ומתגלגלים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הו הא מי זה בא ראש הממשלה הבא</l>
+          <l>הוא ישיר לך על שלום ומלחמה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שתבוא הרוח ותיקח את הפחדים</l>
+          <l>שיבוא משיח ויעיר את המתים</l>
+          <l>איך כולנו חיים ומתגלגלים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הו הא מי זה בא ראש הממשלה הבא</l>
+          <l>הוא ישיר לך על שלום ומלחמה</l>
+          <l>הו הא מי זה בא ראש הממשלה הבא</l>
+          <l>עם ישראל חי ורוקד את התקווה</l>
+          <l>התקווה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בים של דמעות</title>
+        <singer classification="unknown">אילן כהן</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בים של דמעות</head>
+        <lg number="1" type="stanza">
+          <l>לילות ארוכים סובב בדרכים</l>
+          <l>רוצה מנוחה לנפש בוכה</l>
+          <l>זוכר מבטך אלי מחייך</l>
+          <l>קשה לי בלילות נתת את עצמך</l>
+          <l>מאז שעזבת ואני בדד</l>
+          <l>חיי אפורים, קשים ומרים</l>
+          <l>זוכר מבטך אלי מחייך</l>
+          <l>קשה לי בלילות נתת את עצמך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בים של דמעות סובב לי שעות</l>
+          <l>קורא שוב בשמך רוצה רק לראותך</l>
+          <l>ליבי מתחנן לא נח לא ישן</l>
+          <l>בים של דמעות אבדו התקוות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אומרים שהזמן תרופה למכאוב</l>
+          <l>העתיד בלעדייך קשה לי מנשוא</l>
+          <l>השמש שקעה חלפה עוד שעה</l>
+          <l>נותרה חשכה ללא הבטחה</l>
+          <l>לילות ארוכים סובב בדרכים</l>
+          <l>לאל מתפלל שבי יסתכל</l>
+          <l>השמש שקעה חלפה עוד שעה</l>
+          <l>ואת מתברר הלכת עם אחר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בים של דמעות סובב לי שעות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

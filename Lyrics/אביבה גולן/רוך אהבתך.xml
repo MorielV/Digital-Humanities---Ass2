@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוך אהבתך</title>
+        <singer classification="unknown">אביבה גולן</singer>
+        <writer>אביבה גולן</writer>
+        <composer>טל אופק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוך אהבתך</head>
+        <lg number="1" type="stanza">
+          <l>שְׁטֹף אֶת הָעוֹלָם </l>
+          <l>בְּשִׂמְחָתְךָ </l>
+          <l>לַטֵּף אֶת הָעוֹלָם </l>
+          <l>בְּרֹךְ אַהֲבָתְךָ </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אָז תָּעִיר אוֹרוֹת </l>
+          <l>בְּמִקְסַם יְקָרוֹת </l>
+          <l>אָז יִפְלוּ חוֹמוֹת בִּשְׁבִי הַחֲלוֹמוֹת </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וְאִם בָּעֲלָטָה יִפְלוּ </l>
+          <l>פָּנֶיךָ </l>
+          <l>יֵאוֹרוּ כֹּל הַחֲלוֹמוֹת </l>
+          <l>וִיקַשְּׁטוּ בְּקָרֶיךָ</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

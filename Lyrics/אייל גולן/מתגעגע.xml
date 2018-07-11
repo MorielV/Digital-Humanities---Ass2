@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתגעגע</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>רמי לב</writer>
+        <composer>אקורדים</composer>
+        <album>מציאות אחרת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתגעגע</head>
+        <lg number="1" type="stanza">
+          <l>פתאום כמו מכת חשמל</l>
+          <l>הלב שלי נפל</l>
+          <l>אמרת שאת עוזבת</l>
+          <l>ומסתכל לתוך עינייך הכחולות</l>
+          <l>עכשיו הן חשוכות </l>
+          <l>ריקות מרגש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל הלילה לא נרדם לבד</l>
+          <l>עובר מצד לצד </l>
+          <l>ולא רגוע</l>
+          <l>זה כואב בתוך הלב </l>
+          <l>כי יש עוד געגוע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתגעגע </l>
+          <l>ולא מבין לאן הלב שלי נוסע</l>
+          <l>ומרחף</l>
+          <l>מתגעגע זה לא חולף </l>
+          <l>עוד תראי שאשתגע בגללך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>והסיפור הזה בוער</l>
+          <l>בכל הגוף עובר</l>
+          <l>ואין לי רגע שקט</l>
+          <l>רואה אותך כיאלו את בכל מקום</l>
+          <l>המציאות הזאת אותי חונקת</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כל הלילה לא נרדם לבד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Show me how to live</title>
+        <singer classification="band">אטליז</singer>
+        <writer>הדר גרין</writer>
+        <composer>הדר גרין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Show me how to live</head>
+        <lg number="1" type="stanza">
+          <l>Nothing's happening in my world silence has made it her home</l>
+          <l>In the struck of lighting something caves my heart is alive after all</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Show me your sleeve Show me its real I don't want surprises</l>
+          <l>What is your motive an inters in me is feeling kind of wasted</l>
+          <l>Show me how to live</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Always seeking advice around the room when no one else is listening</l>
+          <l>Putting face of stupid acting smart is not the way to pool it of</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>Show me your sleeve Show me its real I don't want surprises</l>
+          <l>What is your motive an inters in me is feeling kind of wasted</l>
+          <l>Show me how to live</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>Sometimes it's clearer than now</l>
+          <l>Times I can open up my eyes</l>
+          <l>And sometimes it stings sometimes it hurts</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

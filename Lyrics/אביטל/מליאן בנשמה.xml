@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מליאן בנשמה</title>
+        <singer classification="unknown">אביטל</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מליאן בנשמה</head>
+        <lg number="1" type="stanza">
+          <l>הוא היה מובטל שנתיים</l>
+          <l>אין לו גרוש ואין לו בית</l>
+          <l>אך ליבו עד השמיים</l>
+          <l>התאהב בנערה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הוא שיחק אותה כמו מלך</l>
+          <l>אבל הוא היה רק ילד</l>
+          <l>הוא פתח לה את הדלת לעולם ללא תקווה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא היה מליאן מליאן בנשמה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הוא הבטיח לה ג'קוזי</l>
+          <l>ואמר לה אל תזוזי</l>
+          <l>עד שהוא קורא לקושי</l>
+          <l>מה שתבקשי אביא</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הוא שיחק אותה כמו מלך</l>
+          <l>אבל הוא היה רק ילד</l>
+          <l>הוא פתח לה את הדלת לעולם ללא תקווה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הוא היה מליאן מליאן בנשמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היום 11</title>
+        <singer classification="unknown">אביהו שבת</singer>
+        <writer>אביהו שבת</writer>
+        <composer>אביהו שבת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היום</head>
+        <lg number="1" type="stanza">
+          <l>היום זה היום שלנו </l>
+          <l>תראי לאן הגענו</l>
+          <l>ממבט אחד קטן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היום זה היום שבו הבטחנו</l>
+          <l>אחרי כל מה שכבר עברנו </l>
+          <l>נשאר כך לעולם </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כן זה היום הגשמנו עוד חלום</l>
+          <l>אז תחייכי וכבר תביני </l>
+          <l>שזה קורה רק תאמיני</l>
+          <l>היום הגשמנו עוד חלום</l>
+          <l>הסתכלי שוב מסביבינו</l>
+          <l>הם כולם כאן בשבילנו, היום...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היום, ליום הזה חיכינו </l>
+          <l>צחקנו ובכינו </l>
+          <l>והלילה זה קורה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עכשיו כשהכל מאחורינו </l>
+          <l>מבטים רק לעברינו </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אז חבקי אותי חזק. </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>כן זה היום הגשמנו עוד חלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

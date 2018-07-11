@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עולם חדש 2</title>
+        <singer classification="band">ארבע לב אדום</singer>
+        <writer>אהוד מנור</writer>
+        <composer>יאיר קלינגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עולם חדש</head>
+        <lg number="1" type="stanza">
+          <l>אמא ואבא הקשיבו היטב</l>
+          <l>גם אם אני לא קורא או כותב</l>
+          <l>יש לי עינים , אזנים ולב</l>
+          <l>אני עליכם יום ולילה חושב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אמא ואבא הקשיבו היטב</l>
+          <l>אל תדאגו כי אני עוד אוהב</l>
+          <l>כל יום צומח וקצת כואב</l>
+          <l>אך העולם החדש מתקרב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בני ארבע חמש ושש</l>
+          <l>לא מרוצים ממה שיש</l>
+          <l>בני ארבע חמש ושש</l>
+          <l>יחד נתעקש.</l>
+          <l>בני ארבע חמש ושש</l>
+          <l>לא מדברים בשין קוף ריש</l>
+          <l>בני ארבע חמש ושש</l>
+          <l>מסרבים להתייאש.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את גן העדן נחזיר לעולם</l>
+          <l>ולא נפלה בין אדם לאדם</l>
+          <l>שם חם ויפת קבלו כאן כולם</l>
+          <l>את השמים, הארץ, הים.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עד אור הבוקר נשיר בקול רם</l>
+          <l>ונעורר את כל מי שחלם</l>
+          <l>כל יום אני קצת יותר חכם</l>
+          <l>והעולם החדש פה יוקם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בני ארבע חמש ושש...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אמא ואבא הקשיבו היטב</l>
+          <l>אל תדאגו כי אני עוד אוהב</l>
+          <l>כל יום צומח וקצת כואב</l>
+          <l>אך העולם החדש מתקרב</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>בני ארבע חמש ושש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

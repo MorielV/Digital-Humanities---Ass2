@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גולשי החלומות</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>אסף שריג</writer>
+        <composer>אסף שריג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גולשי החלומות</head>
+        <lg number="1" type="stanza">
+          <l>היא אוספת קורנפלקס היא אוהבת</l>
+          <l>היא מתבשמת במסדרונות ממתקים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גולשי החלומות עכשיו באים</l>
+          <l>בסופרמרקט של מליון צבעים</l>
+          <l>קופות רושמות עפות אל השחקים</l>
+          <l>אהה..</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא מתפשטת ליד מדף אבקות כביסה</l>
+          <l>לא ממהרת בגדים נושרים כמו עלים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גולשי החלומות עכשיו באים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

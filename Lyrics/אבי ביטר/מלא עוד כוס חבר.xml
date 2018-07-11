@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלא עוד כוס חבר</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>דני שושן</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלא עוד כוס חבר</head>
+        <lg number="1" type="stanza">
+          <l>מלא עוד כוס חבר מלא עוד</l>
+          <l>מה אומר ומה אספר בא לי לבכות</l>
+          <l>מלא עוד כוס חבר אולי אמצא נחמה</l>
+          <l>יש אנשים חבר בלי נשמה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ללכת אין לאן איבדתי את תחושת הזמן</l>
+          <l>לילי הפך ליום האם זה חלום</l>
+          <l>נשארתי לבדי בודד עם גורלי</l>
+          <l>לא הכרתי את עצמי אדם בלי שם</l>
+          <l>אלוקים מה אני עובר הכאב אותי שובר</l>
+          <l>שב לידי חבר מלא עוד כוס</l>
+          <l>מה אומר מה אספר מלא עוד כוס</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מלא עוד כוס חבר לא יכול יותר</l>
+          <l>קשה לי לספר מה עלי עובר</l>
+          <l>ראשי מסתחרר מלא עוד כוס חבר</l>
+          <l>עוד ועוד ועוד ועוד מלא לי עוד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מלא עוד כוס חבר אני לא שיכור</l>
+          <l>מלא עוד כוס חבר אני לא גיבור</l>
+          <l>אספר לך חבר את סיפור חיי</l>
+          <l>מלא עוד כוס חבר כבד עלי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ללכת אין לאן איבדתי...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מלא עוד כוס חבר לא יכול יותר</l>
+          <l>קשה לי לספר מה עלי עובר</l>
+          <l>ראשי מסתחרר מלא עוד כוס חבר</l>
+          <l>עוד ועוד ועוד ועוד מלא לי עוד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

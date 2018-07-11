@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תשתה חבר</title>
+        <singer classification="unknown">אבי כהן</singer>
+        <writer>אבי כהן</writer>
+        <composer>אבי כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תשתה חבר</head>
+        <lg number="1" type="stanza">
+          <l>אל תשתה חבר יותר, אל תשתה יותר</l>
+          <l>ככה אלוהים קבע, שתיה כבר לא עוזר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אכזבה של אהבה יודע היא קשה</l>
+          <l>איך פניך יקמטו ראשך כולו שיבה</l>
+          <l>לא לקחת חברים דוגמא מחברך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תרחם אלי קצת על מצבי</l>
+          <l>כח תן יותר בה לא נזכר</l>
+          <l>בתור ליבי ובתוך דמי</l>
+          <l>היא נמצאת עמוק דמותה רודף אותי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמה אתה סובל כמה אני סובל</l>
+          <l>שנינו באותו מצב שתיה כבר לא עוזר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש לנו תקווה קטנה</l>
+          <l>אין לנו ברירה</l>
+          <l>לחיות עם זכרונות ועם השתיה</l>
+          <l>עם פנים מקומטות ושיער שיבה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תרחם אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

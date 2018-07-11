@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנסה לשכוח</title>
+        <singer classification="unknown">אסף בר 2</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>ארלט ספדיה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנסה לשכוח</head>
+        <lg number="1" type="stanza">
+          <l>כשיורד הערב אני זוכר כיצד נפרדנו</l>
+          <l>את היית חיוורת ולא דיברת</l>
+          <l>בשתיקה רועמת עצמת את שתי עינייך</l>
+          <l>את היית נפעמת ולחשת נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מנסה אותך לשכוח</l>
+          <l>אך ליבי רודף אחר ליבך</l>
+          <l>מאשליות אוסף לי כח</l>
+          <l>אבל אני רחוק רחוק ממך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו ספן ברוח בספינה קטנה אובדת</l>
+          <l>רוצה לנוח לאן אלך</l>
+          <l>מבקש אלייך קורא בשמך ילדונת</l>
+          <l>מחפש ידייך אך את אינך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מנסה אותך לשכוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

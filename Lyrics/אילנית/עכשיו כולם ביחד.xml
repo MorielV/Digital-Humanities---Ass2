@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עכשיו כולם ביחד</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עכשיו כולם ביחד</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>מישהו מתחיל לשיר בשקט</l>
+          <l>ואחר עונה לו כמו בת קול,</l>
+          <l>תמיד אחד מתחיל, אחר ממשיך, ואש נידלקת</l>
+          <l>מחרוזת של שירי אתמול.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אחד מתחיל, אחר ממשיך</l>
+          <l>(ו)פתאום נמוג הפחד,</l>
+          <l>כך דבר לא השתנה.</l>
+          <l>אחד מתחיל אחר ממשיך</l>
+          <l>(ו)עכשיו כולם ביחד -</l>
+          <l>אין עוד כמו מילים ומנגינה.</l>
+          <l>אחד מתחיל אחר ממשיך</l>
+          <l>(ו)עכשיו כולם ביחד -</l>
+          <l>אין עוד כמו מילים ומנגינה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מישהו מתחיל לפרוט ברגש,</l>
+          <l>תו באות שוזר לו כמו תפילה.</l>
+          <l>תמיד אחד מתחיל, אחר ממשיך, ואז בין רגע</l>
+          <l>שוב זוכרים כל תו וכל מילה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אחד מתחיל, אחר ממשיך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מישהו מתחיל לרקוד בחושך,</l>
+          <l>מנסה לעוף על כנף תיקווה,</l>
+          <l>תמיד אחד מתחיל, אחד ממשיך, ואש האושר</l>
+          <l>מהבהב כמו אור, כמו להבה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אחד מתחיל, אחר ממשיך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תפסיק לאהוב אותי</title>
+        <singer classification="female singer">אסתר שמיר</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>אסתר שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תפסיק לאהוב אותי</head>
+        <lg number="1" type="stanza">
+          <l>בשבילי תקווה וצער לאט אני צועדת</l>
+          <l>הגלוי נראה גלוי והנסתר נסתר</l>
+          <l>את ידי אני נותנת בידך בשקט</l>
+          <l>שתהיה דרכנו יחד בטוב וגם במר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ולפעמים ידנו מכוונת את הדרך</l>
+          <l>אך לפעמים אות הגורל נחתם ונאמר</l>
+          <l>לכל מילה יש צליל, לכל דבר יש ערך</l>
+          <l>צעדים של היום הם השביל של המחר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואני מאמינה כי דרכנו היא טובה</l>
+          <l>שהטוב יהיה טוב והרע יתהפך</l>
+          <l>אז בוא נצעד ביחד תקווה אחר תקווה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואל תפסיק לרקוד איתי</l>
+          <l>ואל תפסיק לחלום</l>
+          <l>ואל תפסיק לגעת בי</l>
+          <l>ואל תפסיק לאהוב אותי..</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מישהו דואג לנו מפני מכאוב ופגע</l>
+          <l>גם באפילה תמיד יש משהו מואר</l>
+          <l>ואני חובקת רק את עכשיו ואת הרגע</l>
+          <l>צעדים של היום הם השביל של המחר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואני מאמינה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

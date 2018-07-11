@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שוב אהבה</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>תלמה אליגון רוז</writer>
+        <composer>תלמה אליגון רוז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שוב אהבה</head>
+        <lg number="1" type="stanza">
+          <l>יש יום שבו פתאום מגיע סתיו </l>
+          <l>מי שמביט היטב ימצא חצב </l>
+          <l>יש יום שרוח ים סביב תרחף </l>
+          <l>מלטפת ועוטפת זיכרון כואב </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עם השנים זרמנו כולנו </l>
+          <l>עם חצבים פרחנו גם אנו </l>
+          <l>עם הכאב ועם אור השחר </l>
+          <l>שוב אהבה פורחת בסתיו </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי שאהב אי פעם עוד יאהב </l>
+          <l>מי שכאב יכאב עם בוא הסתיו </l>
+          <l>מי שנפשו יוצאת אל המרחב </l>
+          <l>אל אורה של אהבה יפנה הוא את פניו </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עם השנים... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מי שבחול הים שקעו רגליו </l>
+          <l>מי שגמע שקיעות אל תוך עיניו </l>
+          <l>מי שעל חוף כורכר אהב בנעוריו </l>
+          <l>עם הרוח המלוח שוב ליבו יאהב </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עם השנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

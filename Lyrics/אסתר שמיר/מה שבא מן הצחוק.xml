@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה שבא מן הצחוק</title>
+        <singer classification="female singer">אסתר שמיר</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>אסתר שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה שבא מן הצחוק</head>
+        <lg number="1" type="stanza">
+          <l>מה שבא מן הצחוק, אל הצחוק חוזר</l>
+          <l>ומן הבכי, אליו הוא שב</l>
+          <l>ומן העפר ככלות הכל</l>
+          <l>חוזר לשכון בין רגביו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מתוך גדלות חוזר לגדול</l>
+          <l>ומן הסערה שב ונסער</l>
+          <l>מתוך העלוב או מן ההדר</l>
+          <l>מן העפר אל העפר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מי היד הנותנת מי היד הלוקחת</l>
+          <l>אתה ואני עם חלום שנגמר</l>
+          <l>מתוך גאות אל מורד העצב</l>
+          <l>מן העפר ואל העפר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מתוך ערפל או מאופק צח</l>
+          <l>בוקר אחד הלב נשבר</l>
+          <l>הלב האוהב, הלב הנזנח</l>
+          <l>מן העפר ואל העפר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>פניך יפות אך ליבך קשה</l>
+          <l>ומה ששמח לקראתי עבר</l>
+          <l>ובין כה וכה תמיד סוף לזה</l>
+          <l>מן העפר ואל העפר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מי היד הנותנת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

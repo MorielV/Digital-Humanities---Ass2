@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>וזה דבר השיר</title>
+        <singer classification="male singer">אבנר גדסי</singer>
+        <writer>אבי קורן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>וזה דבר השיר</head>
+        <lg number="1" type="stanza">
+          <l>בקול חרישי, דבר אישי</l>
+          <l>דבר אישי מאוד</l>
+          <l>למצוא מילה, שלא נוצלה</l>
+          <l>למצוא... עיצוב ואות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בצחוק שוטף ומלטף</l>
+          <l>ומלטף כל כך</l>
+          <l>למצוא מובן, בהיר לבן</l>
+          <l>לשיר ישן נשכח</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>למצוא מילים ללא כללים</l>
+          <l>בלי כתיב ובלי תחביר</l>
+          <l>למצוא צלילים ללא כלים</l>
+          <l>וזהו דבר השיר</l>
+          <l>למצוא צלילים ללא כלים</l>
+          <l>וזהו דבר השיר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מילה שקופה, מילה יפה</l>
+          <l>שאין בה עוד שימוש</l>
+          <l>בצליל חדש מתוק מדבש</l>
+          <l>שבלבבי כמוס</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לאמר דבר, שלא דובר</l>
+          <l>אף פעם לפני</l>
+          <l>מילה אחת שלי בלבד</l>
+          <l>תצא מתוך שפתי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>למצוא מילים ללא כללים...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>וכשבסוף אותך אצלוף</l>
+          <l>בספר חרוזי</l>
+          <l>יהי שלך</l>
+          <l>יהיה רק לך</l>
+          <l>קבלי אותה בשי</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>למצוא מילים ללא כללים...</l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>וזהו דבר השיר.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

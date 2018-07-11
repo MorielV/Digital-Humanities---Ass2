@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התבשר רועה חביב</title>
+        <singer classification="unknown">אילקה רווה</singer>
+        <writer>מתתיהו שלם</writer>
+        <composer>מתתיהו שלם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התבשר רועה חביב</head>
+        <lg number="1" type="stanza">
+          <l>התבשר, רועה חביב,</l>
+          <l>הן הגיע תור אביב,</l>
+          <l>רד מן ההר לבקעה. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>על פני כרים מרעה תרחיב,</l>
+          <l>יבקע שירך, בעוז ירהיב,</l>
+          <l>שירת רועים עתיקה. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רון רונו עדרים, </l>
+          <l>גלושו, גלושו מהרים,</l>
+          <l>רון רונו עדרים, רונו!</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>התבשרי, כבשה, גם עז,</l>
+          <l>הן הגיע תור הגז -</l>
+          <l>חג לצאן, לרועה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>על פני שדה הבשיל גרעין,</l>
+          <l>עדר הצאן מבהיק, מלבין.</l>
+          <l>האח מה טוב ומה נאה!</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>גוז גוזו, גוזזים, </l>
+          <l>בן-כבש, גדי עיזים,</l>
+          <l>גוז גוזו, גוזזים, גוזו!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

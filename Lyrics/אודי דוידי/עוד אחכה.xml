@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד אחכה</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד אחכה</head>
+        <lg number="1" type="stanza">
+          <l>לא יודע איך זה ירגיש לי כשהוא ינחת אל תוך חיי</l>
+          <l>לא יודע כשהוא יביט בי האדמה תרעד תחת רגלי</l>
+          <l>יום רודף לו יום, תראה איך שוב הבוקר מתדפק</l>
+          <l>את צעדיו אני שומע, ואצלי הלב דופק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני מאמין שהוא יבוא וזה יקרה</l>
+          <l>וגם אם יתעכב, אני עוד אחכה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא יודע איך נולדה בי אמונה תמימה בפנים</l>
+          <l>כבר שנים רצים קדימה, למרות הפחד ממשיכים,</l>
+          <l>תסתכל אחור, עברנו דרך, ופנינו לעתיד</l>
+          <l>אם זה יקרה היום או לא, הוא יותר קרוב מתמיד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני מאמין...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>קול המון שואג בחוץ, והלב מלא תקוות</l>
+          <l>שיבוא היום, שיבוא מחר, אני מבטיח לחכות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני מאמין...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

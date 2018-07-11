@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלוהים ברא אותי</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלוהים ברא אותי</head>
+        <lg number="1" type="stanza">
+          <l>הטעות שאת עשית אני לא אשכח</l>
+          <l>כועס על הגורל שמחייך רק לך</l>
+          <l>באהבה הזאת אשכח הכל</l>
+          <l>מי את בכלל שאני אסבול</l>
+          <l>אין לך כבוד ילדה פגעת לי בנשמה</l>
+          <l>יבואו עוד ימים את גם תבכי ילדה</l>
+          <l>אין לך כבוד ילדה פגעת לי בנשמה</l>
+          <l>יבוא עוד ימים ואת תבכי ילדה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא אשכח את היום שהרסת לי את הכל</l>
+          <l>את הכאב הזה קשה לסבול</l>
+          <l>אל תבקשי סליחה</l>
+          <l>אין לך מחילה</l>
+          <l>באהבה הזאת היית קללה</l>
+          <l>אלוקים ברא אותי והוא יקבע הכל</l>
+          <l>מי את בכלל שאני אסבול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>באהבה הזאת רעה כל כך היית</l>
+          <l>באהבה הזאת עשית מה שרצית</l>
+          <l>צחקת עליי תמיד ליד החברים</l>
+          <l>אמרתי לא חשוב יש אלוקים</l>
+          <l>אין לך כבוד ילדה פגעת לי בנשמה</l>
+          <l>יבואו עוד ימים ואת תבכי ילדה</l>
+          <l>אין לך כבוד ילדה פגעת לי בנשמה</l>
+          <l>יבואו עוד ימים ואת תבכה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא אשכח את היום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

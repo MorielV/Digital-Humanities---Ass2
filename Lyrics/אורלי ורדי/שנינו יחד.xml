@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שנינו יחד</title>
+        <singer classification="unknown">אורלי ורדי</singer>
+        <writer>איציק המרמן</writer>
+        <composer>עופר המרמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שנינו יחד</head>
+        <lg number="1" type="stanza">
+          <l>אתמול בערב,</l>
+          <l>בשמיים זרח עוד כוכב.</l>
+          <l>בילינו יחד, ככל זוג מאוהב.</l>
+          <l>על הספסל שם בלב השדרה,</l>
+          <l>אז לחשת לי אהבה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את ידי אחזת,</l>
+          <l>מבטך לא הרפה לשנייה.</l>
+          <l>ואותך רציתי, תישאר כאן לעד.</l>
+          <l>"את זאת יודעת", לחש הכוכב,</l>
+          <l>הבחור שלך מאוהב.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז בוא אלי חבק אותי לו לדקה.</l>
+          <l>תמיד רציתי תעשה זאת ולנצח.</l>
+          <l>איני רוצה שלאחרת תתמסר,</l>
+          <l>כי אתה שלי ולא אחר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חצות בלילה,</l>
+          <l>איך אוכל לחכות עד מחר?</l>
+          <l>אז בוא חבקני, אין הזמן מיותר.</l>
+          <l>לאור ירח ורוח קלילה,</l>
+          <l>נבלה עוד לילה מופלא.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז בוא אלי חבק אותי לו לדקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

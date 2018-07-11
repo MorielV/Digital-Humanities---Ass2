@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תוותר עלי</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>אילנה אביטל</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תוותר עלי</head>
+        <lg number="1" type="stanza">
+          <l>עם שלם רוצה שלום אבל רחוק משם,</l>
+          <l>כשאומדן הערכים אבד ונעלם,</l>
+          <l>מה קרה פתאום לגוף לנשמה, מה קורה היום לחום, לאהבה,</l>
+          <l>ושואלת שוב מה נשתנה, למה חיים ללא תקנה?! </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשבחדשות הרוב עצוב ואכזרי,</l>
+          <l>לא יודעת היכן למצוא מקלט קצת אנושי, </l>
+          <l>רק רוצה מקום אי שם בעולמך, רק כוון אותי, האר את דרכך,</l>
+          <l>אין מקום אחר, זו בחירתך, כי זוהי ארצי וזהו עמך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רק רוצה ממך מעט ולא יותר,</l>
+          <l>קשה עם עוד משבר, החזר בי את הכוח להתגבר.</l>
+          <l>רק רוצה ממך שלווה ולא יותר,</l>
+          <l>השלם את החסר, אני מאמינה בך, רק אל תוותר עלי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד פיגוע כאן ועוד חייל שנעלם,</l>
+          <l>מאורע שרק קרה, הוא כבר סיפור ישן,</l>
+          <l>החיים פשוטים וזאת כל התורה ואנחנו כמו חיצים בלי מטרה,</l>
+          <l>יש המון תשובה לשאלה, כי האמונה כבר לא יציבה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רק רוצה ממך מעט ולא יותר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

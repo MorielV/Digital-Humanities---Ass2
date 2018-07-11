@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השיר האחרון</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>בלעדייך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השיר האחרון</head>
+        <lg number="1" type="stanza">
+          <l>שוב חוזר כי סוף הדרך</l>
+          <l>שוב הולך אול תוך האור</l>
+          <l>אני חוזר אלייך</l>
+          <l>ואת אומרת: "לא, זה לא ילך"</l>
+          <l>וזה כואב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני אחד שאין לו דרך</l>
+          <l>אני אחד שאין לו דרור</l>
+          <l>שוב חוזר אלייך</l>
+          <l>ואת אומרת: "לא" על סף דלתך</l>
+          <l>וזה כואב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אלוהים לעולם</l>
+          <l>לא אוכל להיות בסדר</l>
+          <l>מחפש ברחובות</l>
+          <l>להתיר את סבך הקשר</l>
+          <l>את תמיד אמרת שהייתי הראשון</l>
+          <l>אז אשמור לך את השיר האחרון.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל סוף אחר חיפשתי דרך</l>
+          <l>אולי למצוא שם אהבה</l>
+          <l>חשבתי רק עלייך</l>
+          <l>ואת מזמן רציתי אחד אחר</l>
+          <l>וזה כואב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אותך אף פעם לא הבנתי</l>
+          <l>תמיד היית לי יריבה</l>
+          <l>הלכתי אחרייך</l>
+          <l>ואיך הפנית גבך אני זוכר</l>
+          <l>וזה כואב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אלוהים לעולם</l>
+          <l>לא אוכל להיות בסדר</l>
+          <l>מחפש ברחובות</l>
+          <l>להתיר את סבך הקשר</l>
+          <l>את תמיד אמרת שהייתי הראשון</l>
+          <l>אז אשמור לך את השיר האחרון.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

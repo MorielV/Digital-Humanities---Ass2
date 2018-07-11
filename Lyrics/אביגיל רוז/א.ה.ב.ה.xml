@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>א ה ב ה</title>
+        <singer classification="unknown">אביגיל רוז</singer>
+        <writer>אביגיל רוז</writer>
+        <composer>אביגיל רוז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>א.ה.ב.ה</head>
+        <lg number="1" type="stanza">
+          <l>קשה לי לומר את המילה אהבה ביום יום</l>
+          <l>היא מזכירה לי אהבות שכבר אינן</l>
+          <l>וזאת מילה חשובה מאוד</l>
+          <l>אז אני אומרת לעצמי</l>
+          <l>א.ה.ב.ה  א.ה.ב.ה</l>
+          <l>בתקווה שזה יחלחל לליבי באופן לא מודע</l>
+          <l>בכלל קשה לי לדבר בלי להיזכר</l>
+          <l>כל מילה כבר אמרתי והייתי שם </l>
+          <l>אבל עכשיו זה רק מזכיר לי מה אין לי כבר</l>
+          <l>אז הכל באותיות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza" />
+        <lg Chorus="yes" number="3" type="stanza" />
+        <lg number="4" type="stanza">
+          <l>רוצה חוויות חדשות </l>
+          <l>ממילים ישנות</l>
+          <l>יותר מדי מטענים </l>
+          <l>אז אני רק מדברת באותיות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza" />
+        <lg number="6" type="stanza">
+          <l>א.ה.ב.ה  א.ה.ב.ה</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza" />
+        <lg number="8" type="stanza">
+          <l>א.נ.י  ע.ד.י.ין  א.ו.ה.ב.ת</l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>א.נ.י  ע.ד.י.ין  א.ו.ה.ב.ת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

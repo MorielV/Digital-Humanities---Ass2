@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בן בלי בית</title>
+        <singer classification="male singer">אבנר גדסי</singer>
+        <writer>אבי קורן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בן בלי בית</head>
+        <lg number="1" type="stanza">
+          <l>על ספסל שבשדרה </l>
+          <l>ישן אדם כשערב רד </l>
+          <l>על ספסל שבשדרה </l>
+          <l>שם הוא נרדם והוא לבד</l>
+          <l>קבצן בן בלי שם בן בלי בית </l>
+          <l>ישן בגשמים בחום הקיץ </l>
+          <l>אנא ילך אנא יפנה </l>
+          <l>מה יעשה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>על ספסל שבשדרה </l>
+          <l>נעור אדם כשבוקר בא </l>
+          <l>על ספסל שבשדרה </l>
+          <l>חרש הוא קם ללא סיבה </l>
+          <l>קבצן בן בלי שם בן בלי בית </l>
+          <l>ספסל בשדרה הוא לא הבית </l>
+          <l>אנא ילך אנא יפנה </l>
+          <l>מה יעשה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

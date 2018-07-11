@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לך אשיר ילדה</title>
+        <singer classification="unknown">אביתר ארזי</singer>
+        <writer>אביתר ארזי</writer>
+        <composer>אביתר ארזי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לך אשיר ילדה</head>
+        <lg number="1" type="stanza">
+          <l>אני בך מאוהב, ולך נשבע עכשיו</l>
+          <l>שרק רוצה לדעת שתהיי שלי לעד</l>
+          <l>אביא לך שושנים, וגם אכתוב שירים</l>
+          <l>אעשה כל שתגידי שנהיה לעולמים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לך אשיר ילדה ואתן גם את הכל</l>
+          <l>כי רק הלב יודע שאיתך הכל יכול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אוהב אותך ביום, ובלילה אחלום </l>
+          <l>שנהיה תמיד ביחד כי את יפה מיהלום</l>
+          <l>גם אם תאמרי לי לא, רק אלייך אני אבוא</l>
+          <l>ואשיר לך סרנדה ואוהב אותך כל יום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לך אשיר ילדה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

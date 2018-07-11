@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד מעט 5</title>
+        <singer classification="unknown">אורית אזרח</singer>
+        <writer>אורית אזרח</writer>
+        <composer>אורית אזרח</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד מעט</head>
+        <lg number="1" type="stanza">
+          <l>עוד מעט יופיע בוקר טוב </l>
+          <l>ויציף אורות על החלון </l>
+          <l>עוד מעט נחזור שוב לאהוב </l>
+          <l>לא ניתן לזמן להיות שעון </l>
+          <l>ירקדו המים עם חלוקי הנחל </l>
+          <l>תתגנב השמש בין העלים </l>
+          <l>עוד מעט ממש עוד מעט </l>
+          <l>תראה אותנו שמחים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוד מעט תראה סביון צהוב </l>
+          <l>מאחד בתים עם השדות </l>
+          <l>עוד מעט נצא פרחים לקטוף </l>
+          <l>ונרגיש שיכור מבלי לשתות </l>
+          <l>עוד נשמע קולות ותדרים </l>
+          <l>לא אל תחפש זה כאן בחיים </l>
+          <l>עוד מעט ממש עוד מעט </l>
+          <l>תראה אותנו שמחיייים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תפתח ת'חלון תעיר את העיר </l>
+          <l>תסיר ת'וילון בזהירות לא בכח </l>
+          <l>הנה יום חדש הוא בא להכיר </l>
+          <l>חייך אליו רק אל תתן לו לברוח </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>התכסה העמק בלבן </l>
+          <l>להקות שחפים ואנפות </l>
+          <l>אל תרגיש אתה רחוק מכאן </l>
+          <l>עד אלייך הן חצו גבולות </l>
+          <l>הנה שוב הפתיע הגשם הראשון </l>
+          <l>ורגלינו שנינו עדיין יחפות </l>
+          <l>עוד מעט ממש עוד מעט </l>
+          <l>נוכל לשיר ולשתות </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תפתח ת'חלון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איזה יופי</title>
+        <singer classification="unknown">אוסמאן</singer>
+        <writer>אבי כהן</writer>
+        <composer>אורחן טורק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איזה יופי</head>
+        <lg number="1" type="stanza">
+          <l>לידי את רק רוקדת</l>
+          <l>בליבי את משחקת</l>
+          <l>ועלי את גם עובדת</l>
+          <l>ואותי את רק שורטת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איזה יופי יש עליה</l>
+          <l>ואותי זה משגע</l>
+          <l>איזה יופי יש עליה</l>
+          <l>ואותי זה משגע</l>
+          <l>אני גם נמשך אליה</l>
+          <l>אני גם דלוק עליה</l>
+          <l>אני גם דלוק עליה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני רק רוצה אלייך</l>
+          <l>אני מת גם על עינייך</l>
+          <l>מנשק לך את שפתייך</l>
+          <l>לא יכול עוד בלעדייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איזה יופי יש עליה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

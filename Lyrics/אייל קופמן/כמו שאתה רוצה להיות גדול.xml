@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו שאתה רוצה להיות גדול</title>
+        <singer classification="male singer">אייל קופמן</singer>
+        <writer>אייל קופמן</writer>
+        <composer>אייל קופמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו שאתה רוצה להיות גדול</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>כמו שאתה כמו שאתה </l>
+          <l>רוצה להיות גדול </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתה מרחף </l>
+          <l>כמו רוח סערה </l>
+          <l>המים זורמים </l>
+          <l>רחוק לנהרות </l>
+          <l>שבדשא הירוק </l>
+          <l>אתה, אתה </l>
+          <l>מרחף בדשא </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה עוד תראה </l>
+          <l>שזה לא מסובך </l>
+          <l>וזה גם לך לא יצא כזה מסובך </l>
+          <l>אז תלמד אז תלמד </l>
+          <l>קודם לעצור לנשום ולחשוב </l>
+          <l>לעשות מה שתרצה </l>
+          <l>רק עם חשיבה קטנה </l>
+          <l>אם לא תחשוב לא יצא לך בשכל </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמו שאתה כמו שאתה </l>
+          <l>רוצה להיות גדול</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רחוק 4</title>
+        <singer classification="band">אלמנה שחורה</singer>
+        <writer>אסף חסון</writer>
+        <composer>אסף חסון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רחוק</head>
+        <lg number="1" type="stanza">
+          <l>את יצרת בי מוסיקה פורצת</l>
+          <l>ואת לא מאמינה </l>
+          <l>אוי תסלחי לי </l>
+          <l>לא יצרתי בך אמון </l>
+          <l>גלים מכים בי בחוזקה </l>
+          <l>ונשברים על ירכי</l>
+          <l>אז תסלחי לי אם אמות ולא אקום </l>
+          <l>זימנתי את הצער </l>
+          <l>לבוא להתמכר </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בואי ונלך מכאן </l>
+          <l>רחוק נלך רחוק </l>
+          <l>רצית לחוש בטבע </l>
+          <l>בואי קחי אותו עכשיו </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אחרי הכל מה שאומר </l>
+          <l>אומר כדי לשתוק </l>
+          <l>ואם זה כן ואם זה לא </l>
+          <l>זה סתם </l>
+          <l>סתם... זה כל כך סתם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זיכרון של ילדות</title>
+        <singer classification="unknown">אייל הר נוי</singer>
+        <writer>אייל הר נוי</writer>
+        <composer>אייל הר נוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זיכרון של ילדות</head>
+        <lg number="1" type="stanza">
+          <l>יושב על הספסל שאיבד כבר את הצבע </l>
+          <l>גזמי העצים מפוזרים סביב </l>
+          <l>ירוק בתוך עיני שוטף כאן את הטבע </l>
+          <l>והציפורים שרות את שירי ילדותי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זיכרון של ילדות לפעמים אני שוכח </l>
+          <l>איך נהגנו לרוץ בתוך שדרות של צבע </l>
+          <l>זיכרון של תמימות אל תוכו אני פוסע </l>
+          <l>איך חיבקוני הורי עכשיו אתה יודע. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רעשים כאילו שקט והרוח הצדדית </l>
+          <l>המשילה את התחפושת שלבשו כל העצים </l>
+          <l>המרחב הזה שלא נגמר הוואדי השמיימי </l>
+          <l>הולך בתוך נוגע אל עבר חלומי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זיכרון של ילדות...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והתמונות הן מתחלפות </l>
+          <l>נוגעות כאילו לא יודעות </l>
+          <l>והצלילים הם מתחזקים </l>
+          <l>אני פה אני שם זה שלי </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זיכרון של ילדות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

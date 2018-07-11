@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא פוחד</title>
+        <singer classification="male singer">אמנון פישר</singer>
+        <writer>אמנון פישר</writer>
+        <composer>אמנון פישר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא פוחד</head>
+        <lg number="1" type="stanza">
+          <l>לא פוחד מהפחד </l>
+          <l>לא פוחד למות בסוף </l>
+          <l>כשאנחנו יחד </l>
+          <l>לא פוחד להיות לבד </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא פוחד להשתנות </l>
+          <l>לא פוחד להשתטות </l>
+          <l>ובעצם קצת כן </l>
+          <l>לא פוחד להזדקן </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפעמים כשחושב עלייך </l>
+          <l>אני לא מפחד לבכות </l>
+          <l>הסרטים של חיי </l>
+          <l>לא פוחד להיות גיבור מתוך ספר </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואני מתגעגע </l>
+          <l>אני אוהב </l>
+          <l>לא פוחד להשתגע </l>
+          <l>לא פוחד לאהוב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

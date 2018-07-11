@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלדה לשוטר 2</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלדה לשוטר</head>
+        <lg number="1" type="stanza">
+          <l>כל הרחובות כבר ריקים הסמטאות כולן שלו</l>
+          <l>שוב הוא לבדו שוב רק עם צילו</l>
+          <l>כל הרחובות כבר ריקים הסמטאות כולן שלו</l>
+          <l>אין מה למהר או לאחר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לו להשיב ניתן את מחוגי הזמן</l>
+          <l>איזה עולם נפלא הוא היה בונה לו</l>
+          <l>רק להשיב ניתן את שחלף מזמן</l>
+          <l>איך העולם אז היה משתנה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עשר שנים לפחות הוא מהלך בין הצללים</l>
+          <l>שוב ושוב סובב בין הגלגלים</l>
+          <l>עשר שנים לפחות הוא מהלך בין הצללים</l>
+          <l>אין מי לאהוב או לעזוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לו להשיב ניתן...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בוקר אפור באוויר הסמטאות כבר לא שלו</l>
+          <l>שוב אומרים לו לך, שוב אומרים לו בוא</l>
+          <l>בוקר אפור באוויר שוב משנה את התמונה</l>
+          <l>שמש אט יוצאת מנדנה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

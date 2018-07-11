@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבק זמרים</title>
+        <singer classification="unknown">אלון אולארצ יק</singer>
+        <writer>אלון אולארצ'יק</writer>
+        <composer>אלון אולארצ'יק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבק זמרים</head>
+        <lg number="1" type="stanza">
+          <l>אני חולפת בחלום</l>
+          <l>מאיטה את צעדי</l>
+          <l>אולי בפעם המליון</l>
+          <l>שאתה חולם עלי</l>
+          <l>אתה פורח ומתלקח</l>
+          <l>מנשק את לחיי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני תינוקת באדום</l>
+          <l>ואתה אדם ישן</l>
+          <l>אני נולדתי היום</l>
+          <l>ואתה כל כך מזמן</l>
+          <l>והירח לא מתווכח</l>
+          <l>כשאנחנו יחד סתם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואי בואי אלי</l>
+          <l>בואי בואי אלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ככה את רצית אותי</title>
+        <singer classification="male singer">אריאל זילבר</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ככה את רצית אותי</head>
+        <lg number="1" type="stanza">
+          <l>את אמרת לי שאני מבולבל ועצבני,</l>
+          <l>לא שומע, לא רואה, ובדרך כלל טועה.</l>
+          <l>את יודעת - זה נכון.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ככה את רצית אותי, קחי אותי</l>
+          <l>ככה, עם כל מה שיש בי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את אמרת לי לעזוב,</l>
+          <l>אז עכשיו אני ברחוב.</l>
+          <l>אין לי בית, אין לי שם</l>
+          <l>כל היום אני אשם</l>
+          <l>כל היום אני רושם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ככה את רצית אותי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז אני לא רוצה להתאמץ,</l>
+          <l>על הגג אני שורץ,</l>
+          <l>מתנשא מעל העיר</l>
+          <l>ומפציץ מהאוויר</l>
+          <l>לא רואה ולא מכיר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ככה את רצית אותי...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>לא שומע, לא רואה</l>
+          <l>ובדרך כלל טועה</l>
+          <l>את יודעת זה נכון</l>
+          <l>ככה את רצית אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

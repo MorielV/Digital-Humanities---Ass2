@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלום לירח</title>
+        <singer classification="unknown">אירית תמיר</singer>
+        <writer>אירית תמיר</writer>
+        <composer>אירית תמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלום לירח</head>
+        <lg number="1" type="stanza">
+          <l>כשהשמש אומרת שלום לירח, </l>
+          <l>סימן שהערב הגיע. </l>
+          <l>כשהשמש שוקעת עולה הירח, </l>
+          <l>סימן שהלילה כבר כאן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לילה טוב לאמא, </l>
+          <l>לילה טוב לאבא,</l>
+          <l>לילה טוב לאח הקטן.</l>
+          <l>לילה טוב לחיות, </l>
+          <l>לילה טוב מאורות,</l>
+          <l>לילה טוב לעולם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשהשמש אומרת שלום לירח, </l>
+          <l>סימן שהערב הגיע.</l>
+          <l>כשהשמש שוקעת עולה הירח, </l>
+          <l>סימן שהלילה כבר כאן.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשכוכב ברקיע עולה ומפתיע, </l>
+          <l>סימן שהערב הגיע. </l>
+          <l>כשיהלומים זעירים את השמיים מקשטים, </l>
+          <l>סימן שהלילה כבר כאן. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לילה טוב לאמא...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כשפיג'מה לובשים ושיניים מצחצחים, </l>
+          <l>סימן שהערב הגיע.</l>
+          <l>כשליד המיטה דולקת מנורה, </l>
+          <l>סימן שהלילה כבר כאן.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>לילה טוב לאמא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

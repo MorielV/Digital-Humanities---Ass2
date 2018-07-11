@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היכן אותם ימים</title>
+        <singer classification="unknown">אורית אסף</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>ארלט ספדיה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היכן אותם ימים</head>
+        <lg number="1" type="stanza">
+          <l>בתוך ביתך עומדת אבודה</l>
+          <l>הדלת לי קוראת והתחושה כבדה</l>
+          <l>עינייך בי נוגעות במן מבט מוזר</l>
+          <l>רוצות לומר שלום, עכשיו הכל נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היכן אותם ימים</l>
+          <l>היכן המבטים</l>
+          <l>איך זה הכל אבד</l>
+          <l>תן לי אותך עוד יום אחד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זוכרת איך נשקת בעורפי</l>
+          <l>ואיך פיזרת נשיקות תובעניות</l>
+          <l>האש והתמימות שלטו אז בגופי</l>
+          <l>עכשיו חלום נגוז, חולפות להן שניות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היכן אותם ימים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

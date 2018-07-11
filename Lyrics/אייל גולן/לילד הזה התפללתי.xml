@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילד הזה התפללתי</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>אילנה קליין</writer>
+        <composer>יוני רועה</composer>
+        <album>דרך לחיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילד הזה התפללתי</head>
+        <lg number="1" type="stanza">
+          <l>תן לי את השיר הזה במתנה </l>
+          <l>שילווה אותי תמיד כמו תפילה, </l>
+          <l>ומלב ללב תפרח המנגינה </l>
+          <l>אשר מחלומות יפים עולה. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תן את הדמעה שמעינך ירדה, </l>
+          <l>אשמור אותה כאגל טל בנשמתי. </l>
+          <l>בזריחה של יום חדש אלחש תודה </l>
+          <l>לתקווה הזאת שמלווה אותי. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תן לחוש באור שבקצה המנהרה, </l>
+          <l>תן ברכה ליום שבו עמלתי, </l>
+          <l>ואנא שמור לי על הילד מכל רע, </l>
+          <l>כי לילד הזה התפללתי, </l>
+          <l>כי לילד הזה התפללתי. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תן את החיבוק שבזוית נגלה, </l>
+          <l>אנצור אותו כעל בבת עיני, </l>
+          <l>והוא יאיר כמו קרן אור באפלה, </l>
+          <l>אקשור אותו על חוט שני, </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תן לי את היופי שחווינו זה עתה </l>
+          <l>ולב רחב לקלוט את המראות </l>
+          <l>לגעת באושר שבקצה העלטה, </l>
+          <l>בברכה לקבל את הבאות. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תן לחוש באור שבקצה המנהרה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

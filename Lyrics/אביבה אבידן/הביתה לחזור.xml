@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הביתה לחזור</title>
+        <singer classification="female singer">אביבה אבידן</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הביתה לחזור</head>
+        <lg number="1" type="stanza">
+          <l>שוב ידך על עיני מרחפת</l>
+          <l>זרועותיך סוגרות עלי</l>
+          <l>ואני את פניך לוטפת</l>
+          <l>אך ליבי מבקש בחשאי:</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הביתה לחזור</l>
+          <l>הביתה אל השקט</l>
+          <l>הביתה אל האור</l>
+          <l>אל אמא השותקת</l>
+          <l>הביתה לחזור</l>
+          <l>מכל תלאות ויגע</l>
+          <l>הביתה אל האור</l>
+          <l>ולו גם רק לרגע.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואתה שהלילה עזבת</l>
+          <l>מאובק מקרבות ומאש</l>
+          <l>לי נשקת קלות ואמרת</l>
+          <l>כי יותר מהכל תבקש:</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הביתה לחזור...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וגם עת ילדים לי יהיו לי</l>
+          <l>ערב ערב לפני שנתם</l>
+          <l>אז ליד מיטתם לי אשבה</l>
+          <l>ושירי אלמד גם אותם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

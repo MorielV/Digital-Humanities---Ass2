@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום חדש שירות חדרים</title>
+        <singer classification="unknown">אסי לוי</singer>
+        <writer>הנרי</writer>
+        <composer>אסי לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום חדש - שירות חדרים</head>
+        <lg number="1" type="stanza">
+          <l>יום חדש ואת עוד במקום אחר </l>
+          <l>כאילו את מתחילה את הכל מהתחלה </l>
+          <l>יום חדש עכשיו את כבר בסדר, </l>
+          <l>מתקדמת והפנים אל מול המטרה </l>
+          <l>והשמש שזורחת כבר לא מסנוורת אותך </l>
+          <l>בדרך בה את הולכת להחזיר את מה ששלך. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואור גדול שומר עלייך מליפול</l>
+          <l>כי יש מישהו שמחכה לך </l>
+          <l>וים כחול שבו את יכולה לצלול</l>
+          <l>ולמצוא את מה שחסר בך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מגאולה עד לים את חותכת</l>
+          <l>ונזכרת איך עברת פה לפני שנים, </l>
+          <l>איך כולם קראו לך אסתר</l>
+          <l>את כוכבת ואיפה הם היום אותם האנשים. </l>
+          <l>את יודעת אומרים שזמן עושה רק טוב, </l>
+          <l>את יודעת את מכירה את זה טוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואור גדול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

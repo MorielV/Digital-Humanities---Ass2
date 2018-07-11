@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>להגיד לך שלום</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>להגיד לך שלום</head>
+        <lg number="1" type="stanza">
+          <l>רק עוד חיבוק, רק עוד חיזוק</l>
+          <l>קשה לי פתאום להגיד לך שלום</l>
+          <l>עוד אנחה, עוד מילת הבטחה</l>
+          <l>בלחישה וברוך את הרגע למשוך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לאחוז בידייך לצלול בעינייך</l>
+          <l>לקרב ולנשום אותך את פנייך</l>
+          <l>עוד פעם לטעום דבש משפתייך</l>
+          <l>תני לי עוד יום להגיד לך שלום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק עוד ליטוף עוד גוף בגוף</l>
+          <l>לאט ובחום להגיד לך שלום</l>
+          <l>עוד נשיקה ארוכה ממתיקה</l>
+          <l>את הטעם המר בסיפור שנגמר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לאחוז בידייך, לצלול בעינייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

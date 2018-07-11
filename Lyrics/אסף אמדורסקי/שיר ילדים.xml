@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר ילדים</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>מיכאל גרובמן</writer>
+        <composer>missing</composer>
+        <album>אסף אמדורסקי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר ילדים</head>
+        <lg number="1" type="stanza">
+          <l>מתחת לאבן יש בית של ג'וק</l>
+          <l>הג'וק הוא מסכן ולאוכל זקוק</l>
+          <l>מתחת לשיח נפלה קרפדה</l>
+          <l>פוחדת נורא רועדה רועדה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יושבת ארנבת מתחת לעץ</l>
+          <l>ארנבת מטפחת רוצה לגהץ</l>
+          <l>מתחת שמיים הרבה ילדים</l>
+          <l>מחושך ורוח הם קצת פוחדים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

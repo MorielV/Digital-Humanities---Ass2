@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מעיין 2</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>אסף אמדורסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מעיין</head>
+        <lg number="1" type="stanza">
+          <l>מעיין שלי נפתח אליה</l>
+          <l>בעדנה רכה מושך אליה מושך</l>
+          <l>לכל דמעה קטנה יש יעוד משלה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל החורף בביתי ישבתי וחיכיתי לבואך</l>
+          <l>לילות שלמים שינה לא באה אלי</l>
+          <l>וארוכים גם הימים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כן, כל החורף בביתי חיכיתי ושמיים זועפים</l>
+          <l>אבל עכשיו החששות שוב בפתח</l>
+          <l>מתדפקים על חלוני</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם תבואי עוד היום נשברתי</l>
+          <l>את פנייך אקבל</l>
+          <l>אדע כי לא לשווא שמחתי לך שמרתי</l>
+          <l>במיוחד בשבילך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

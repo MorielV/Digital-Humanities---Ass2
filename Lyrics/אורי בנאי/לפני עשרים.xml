@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לפני עשרים</title>
+        <singer classification="male singer">אורי בנאי</singer>
+        <writer>שניאור חשין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לפני עשרים</head>
+        <lg number="1" type="stanza">
+          <l>עלומייך נגלו לי </l>
+          <l>כך פתאום לפני עשרים </l>
+          <l>ואלו נותרו צרובים בנשמתי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תשוקתי כושפה ביופייך </l>
+          <l>לפני עשרים </l>
+          <l>וזו לא יודעת שובע גם היום </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נפשי יוצאת אלייך כבראשונה </l>
+          <l>לפני עשרים, לפני עשרים </l>
+          <l>וכך נותרה כשהייתה </l>
+          <l>לפני עשרים, לפני עשרים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עשרים חלפו לי באחת </l>
+          <l>את היפות והקשות בשעותינו </l>
+          <l>אנצור ללא החלף </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בעשרים בגרת לי </l>
+          <l>מול עיני</l>
+          <l>ואת בשלותך לא אמיר בינקותך </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נפשי יוצאת אלייך...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>רק זאת אבקש, את העשרים הבאות לחבוק ביתר שאת </l>
+          <l>שלא יאבדו לי מבלי משים </l>
+          <l>רק לכך איחל, כל יום מהעשרים הבאות </l>
+          <l>שאדע לרגשך, כפי שהרעדנו יחד פעם </l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>נפשי יוצאת אלייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

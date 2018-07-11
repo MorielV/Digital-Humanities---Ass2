@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין קיפוח</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>יוני רועה</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין קיפוח</head>
+        <lg number="1" type="stanza">
+          <l>אין קיפוח יש ויכוח</l>
+          <l>אין שחור ואין לבן</l>
+          <l>בואו נא אחים ביחד</l>
+          <l>יש מקום כאן לכולם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>המזרח המערב נפגשים להם עכשיו</l>
+          <l>מתחתם האדמה בוערת</l>
+          <l>בוא נישכח את העבר</l>
+          <l>ונביט אל המחר</l>
+          <l>התקווה כל רוח רע עוצרת</l>
+          <l>אם נעיר את האפל</l>
+          <l>נגלה שאין הבדל</l>
+          <l>ונצמיח ארץ נהדרת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין קיפוח...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>האחד הוא לעצמו האחר רק לתומו</l>
+          <l>עוד אפשר לחשוב מעט אחרת</l>
+          <l>את הדלת בוא ניפתח</l>
+          <l>וחיוך רחב נישלח</l>
+          <l>והקינאה הזאת אש בוערת</l>
+          <l>בוא נתחיל מהתחלה</l>
+          <l>בוא נירקום לנו תפילה</l>
+          <l>שתהיה בינינו מגשרת.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אין קיפוח אין ויכוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

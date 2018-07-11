@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשאת 7</title>
+        <singer classification="band">אטרף</singer>
+        <writer>ראובן סלמון</writer>
+        <composer>ראובן סלמון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשאת</head>
+        <lg number="1" type="stanza">
+          <l>העתיד מאחורינו</l>
+          <l>העבר הוא העתיד</l>
+          <l>אבל מה אכפת לשנינו</l>
+          <l>הקפה מוכן כמו תמיד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מדברים פה בשכונה</l>
+          <l>אוכלים חרא ופוליטיקה</l>
+          <l>אין עתיד יש רק עבר</l>
+          <l>וגם לא חשוב כבר שום דבר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כיוון שאת מגרדת לי בגב</l>
+          <l>סימנים את משאירה</l>
+          <l>מזכירים לי חיש מיד</l>
+          <l>שיש לי רק אותך ולך יש אותי</l>
+          <l>יש אותי שתגרדי</l>
+          <l>תגרדי לי את הגב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין קפה שחור, יש נס</l>
+          <l>לא סיבה להתרגז</l>
+          <l>ואני פה מזייף</l>
+          <l>כמו הטעם של קפה נמס</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בואי נתפשט מיד</l>
+          <l>ומתחת לשמיכה</l>
+          <l>כשהחושך מסביב</l>
+          <l>אדגדג לך את הקורקבן</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כיוון שאת מגרדת לי בגב</l>
+          <l>סימנים את משאירה</l>
+          <l>מזכירים לי חיש מיד</l>
+          <l>שיש לי רק אותך ולך יש אותי</l>
+          <l>יש אותי שתגרדי</l>
+          <l>תגרדי לי את הגב</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>יש אותי שתגרדי</l>
+          <l>תגרדי לי את הגב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

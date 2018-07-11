@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאוהב כל הלילה</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>איתן אורן</writer>
+        <composer>דודו קומה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאוהב כל הלילה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>מאוהב כל הלילה, מחכה ואת לא באה</l>
+          <l>לא אשן כל הלילה, אני פה במסיבה</l>
+          <l>מחכה שתבואי, בלעדייך לא אעזוב</l>
+          <l>והלב לא נורמלי, רק איתך מרגיש קרוב.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל היום חושב עלייך, אולי יותר מדי</l>
+          <l>מחכה שאת תופיעי, שתיכנסי לחיי</l>
+          <l>את האישה לה חיכיתי, אחכה כל החיים</l>
+          <l>את אהבה שרציתי, זה עמוק בפנים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מאוהב כל הלילה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עכשיו נכנסת למועדון, את מביטה אלי</l>
+          <l>אם רק מילה אחת תאמרי, תהיי בזרועותי</l>
+          <l>את האישה לה חיכיתי אחכה כל החיים</l>
+          <l>את אהבה שרציתי כי זה עמוק בפנים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מאוהב כל הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

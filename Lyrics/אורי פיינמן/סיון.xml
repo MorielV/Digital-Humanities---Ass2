@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיון</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>שמוליק צ'יזיק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיון</head>
+        <lg number="1" type="stanza">
+          <l>כשתגדלי ותהיי לגברת</l>
+          <l>עם ניסיון שרכשת בחיים</l>
+          <l>היש סיכוי שאותי את זוכרת</l>
+          <l>היו לנו זמנים יפים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נפגשנו במסיבה, היית נהדרת</l>
+          <l>שיער גולש ועיניים תמימות</l>
+          <l>אני ניגשתי, את אמרת: לא הערב</l>
+          <l>אוהב אותך בין השורות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם תזכרי אותי סיון</l>
+          <l>האם תקדישי לי קצת זמן</l>
+          <l>עכשיו כשאת הרחק מכאן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נפרדנו בתקווה ששוב את חוזרת</l>
+          <l>חלפה שנה, לא שמעתי ממך</l>
+          <l>השארת תמונה עם חיוך במסגרת</l>
+          <l>האם נשארתי גם אצלך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם תזכרי אותי סיון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

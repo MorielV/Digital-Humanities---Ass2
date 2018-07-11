@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בדרך 9</title>
+        <singer classification="male singer">אייל קופמן</singer>
+        <writer>אייל קופמן</writer>
+        <composer>אייל קופמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בדרך</head>
+        <lg number="1" type="stanza">
+          <l>בדרך </l>
+          <l>ראיתי שדות של קוצים כחולים </l>
+          <l>ראיתי איך אני מתקשה ודוקר </l>
+          <l>רוצה לעוף למקום אחר </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בדרך </l>
+          <l>רצית להחזיק לי את היד </l>
+          <l>דיברת אליי קרוב </l>
+          <l>ולא הבנתי דבר </l>
+          <l>אבל רציתי להישאר </l>
+          <l>איתך על הדרך </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רק תבטיחי לי </l>
+          <l>שתהיי לידי כשאתעורר </l>
+          <l>שתחבקי אותי חזק אלייך </l>
+          <l>שתחייכי </l>
+          <l>רק תבטיחי לי </l>
+          <l>שתלחשי לי באוזן קסמים </l>
+          <l>שתנשקי אותי </l>
+          <l>אני נופל </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בדרך </l>
+          <l>ראיתי אותך בשמלה לבנה </l>
+          <l>מסתובבת ברוח </l>
+          <l>והשיער שלך </l>
+          <l>משוח בריח של פריחה </l>
+          <l>מסמן לי את הדרך </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רוצה רק לנוח להרגע </l>
+          <l>רוצה לישון איתי </l>
+          <l>להניח את הראש </l>
+          <l>על הריאות שלי </l>
+          <l>לפזר את שיערך על פני</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רק תבטיחי לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

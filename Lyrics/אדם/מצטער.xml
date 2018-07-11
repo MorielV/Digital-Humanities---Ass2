@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מצטער 3</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>רחל שפירא</writer>
+        <composer>יזהר אשדות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מצטער</head>
+        <lg number="1" type="stanza">
+          <l>את ניצבת כמסומרת, ופנייך המומות,</l>
+          <l>כשדרכתי ללא צורך על מקום רגיש מאוד,</l>
+          <l>והרגשתי את הדופק, שמכאיב לך ברקה,</l>
+          <l>וליבי יצא אלייך כשאיבדתי שליטה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>טו טו טו טו...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וככל שהתכווצת, התעקשתי להמשיך,</l>
+          <l>ונסחפתי והוספתי, וידעתי לא צריך,</l>
+          <l>ורציתי להגיד לך, די כבר, די כבר, זה מחוק,</l>
+          <l>אבל פי ניתק ממני כמו פושע מן החוק.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>טו טו טו טו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא יכולתי להקשיב לך,</l>
+          <l>לא הייתי מסוגל,</l>
+          <l>לא שמעתי מה אמרת לי,</l>
+          <l>מה אמרת לי אם בכלל.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ואחר כך כשהבנתי, והרגשתי מגוחך,</l>
+          <l>כבר הייתה דממה מוחלטת, ודאגתי לך כל כך,</l>
+          <l>במקום שאת נמצאת, תנסי רק לתאר,</l>
+          <l>איך אני עכשיו אומר לך, מצטער כן מצטער.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

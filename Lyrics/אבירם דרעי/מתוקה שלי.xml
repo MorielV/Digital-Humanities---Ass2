@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתוקה שלי 2</title>
+        <singer classification="unknown">אבירם דרעי</singer>
+        <writer>אבירם דרעי</writer>
+        <composer>אבירם דרעי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתוקה שלי</head>
+        <lg number="1" type="stanza">
+          <l>מאותו הלילה שבו היית איתי </l>
+          <l>כבשת כסערה חדרת אל תוך ליבי </l>
+          <l>ידעתי בתוכי אותך אני רוצה </l>
+          <l>למענך אתן הכל נשבע לך אנסה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את האהבה שלה חיכיתי כל חיי </l>
+          <l>מופיעה בחלומות שעוצם שוב את עיני</l>
+          <l>הביישנות שבך פשוט אותי כבשה </l>
+          <l>בלעדייך לא יכול אמרי כן אהובה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מתוקה שלי </l>
+          <l>בשירי קורא אלייך </l>
+          <l>הקשיבי לי </l>
+          <l>כלכך רוצה שתאהבי </l>
+          <l>הביטי בעיני</l>
+          <l>נסי לקרוא מחשבותי</l>
+          <l>אני אוהב ואוהב רק אותך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את מילות השיר כתבתי מהלב </l>
+          <l>פה רציתי שתדעי כמה שאותך אוהב </l>
+          <l>מבקש ממך רק תני לי הזדמנות </l>
+          <l>מבטיח לך שלעולם לא אאכזב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מתוקה שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

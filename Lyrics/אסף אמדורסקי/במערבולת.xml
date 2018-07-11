@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>במערבולת</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>אסף אמדורסקי</composer>
+        <album>מנועים שקטים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>במערבולת</head>
+        <lg number="1" type="stanza">
+          <l>הרגשה כל כך טובה</l>
+          <l>זורקת אותי אחורה</l>
+          <l>בתנופה אדירה</l>
+          <l>ועכשיו לא לאבד גובה</l>
+          <l>רשרושים בתוך הלב</l>
+          <l>הזיות של חום גבוה</l>
+          <l>תסתכלי בעיניים</l>
+          <l>עמוק באישונים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בלי חשש ובלי כאב</l>
+          <l>חצי תפוח הכל מרוח</l>
+          <l>קשקושים בתוך הלב</l>
+          <l>תמיד קשוח</l>
+          <l>תסתכלי בעיניים</l>
+          <l>עמוק באישונים,</l>
+          <l>במערבולת.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

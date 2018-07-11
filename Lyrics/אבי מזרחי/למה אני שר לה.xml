@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למה אני שר לה</title>
+        <singer classification="unknown">אבי מזרחי</singer>
+        <writer>אבי מזרחי</writer>
+        <composer>אבי מזרחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למה אני שר לה</head>
+        <lg number="1" type="stanza">
+          <l>יום אחד הכל בסדר</l>
+          <l>למחרת מוזר מעט</l>
+          <l>חוזר לשם....</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ממולי יש דרך</l>
+          <l>משמאלי אני רואה עפר</l>
+          <l>ושר...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם הכל קרה</l>
+          <l>כמו שאני רוצה</l>
+          <l>אז למה אני שר</l>
+          <l>לך ואת לא חלק מזה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מחפש לי דרך</l>
+          <l>שתצליח להוציא ממני כבר</l>
+          <l>אותך</l>
+          <l>משמאלי שקעה השמש</l>
+          <l>ומולי אני רואה אותך</l>
+          <l>אותך...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם הכל קרה</l>
+          <l>כמו שאני רוצה</l>
+          <l>אז למה אני שר</l>
+          <l>לך ואת לא חלק מזה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>יום אחד הכל בסדר</l>
+          <l>למחרת מוזר מעט</l>
+          <l>חוזר לשם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

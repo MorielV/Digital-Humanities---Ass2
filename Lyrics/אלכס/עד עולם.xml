@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד עולם 3</title>
+        <singer classification="unknown">אלכס 3</singer>
+        <writer>דודו ברק</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד עולם</head>
+        <lg number="1" type="stanza">
+          <l>הר עמק וים</l>
+          <l>גיא ניר ואגם</l>
+          <l>אי תזרח החמה ותדעך</l>
+          <l>שם לך בן אדם</l>
+          <l>עד קצה העולם.</l>
+          <l>באשר תבוא - תבורך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>העולם לפניך</l>
+          <l>כל הקיים הוא שלך</l>
+          <l>קח מכל אשר מותר</l>
+          <l>אך מן האסור - ברח לך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הו מה לך בן אדם</l>
+          <l>קום עכשיו נוצא הנרדם.</l>
+          <l>כל עוד שמש מאי שם</l>
+          <l>שוב עליך תזרח עד עולם.</l>
+          <l>רב חסד ותם</l>
+          <l>לך אל החכם</l>
+          <l>אי תזרח הבינה ותפרח</l>
+          <l>שם לך בן אדם</l>
+          <l>עד קצה העולם</l>
+          <l>באשר תבוא - תבורך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>העולם לפניך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

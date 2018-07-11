@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כוכב חדש</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כוכב חדש</head>
+        <lg number="1" type="stanza">
+          <l>יורד הלילה על הארץ הקשה אך לא פסקו מלחמותיה</l>
+          <l>תמיד תובעת קרבנות לאדמתה לא תשבע מדם בניה</l>
+          <l>המדורות דולקות בארץ הקדושה ולא פסקו מזבחותיה</l>
+          <l>שיות אף פעם לא חסרו לה לעולה וקנאים אליה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בין אילת לנהריה גבעת ברנר תל אביב וחיפה</l>
+          <l>אנשים עוצמים עיניים מחפשים תשובה מבקשים תקווה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כוכב חדש יאיר הלילה יזרח ברחמים עלינו</l>
+          <l>ורק ילדים יבואו אליו אנחנו ומלחמותינו</l>
+          <l>לא נבוא לא נבוא</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הארץ אחוזת חלום היא ישנה ורוח בנקיקיה</l>
+          <l>מדברותיה עתיקים מכל מדבר וזועפים הריה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בין אילת לנהריה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

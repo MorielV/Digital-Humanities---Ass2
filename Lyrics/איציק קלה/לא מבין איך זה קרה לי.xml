@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא מבין איך זה קרה לי</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא מבין איך זה קרה לי</head>
+        <lg number="1" type="stanza">
+          <l>שוב אני מרגיש בודד</l>
+          <l>מה קורה עוד לא קולט</l>
+          <l>מנסה למצוא אהבה</l>
+          <l>אבל זה כנראה חסר תקווה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא מבין איך זה קרה לי</l>
+          <l>אין כבר דרך חזרה לא מאמין</l>
+          <l>איך הדלת נסגרה לי בפנים</l>
+          <l>לא מבין</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>התחושה כל כך כבדה</l>
+          <l>באמת גם את מודה</l>
+          <l>החיים הפכו לשיגרה</l>
+          <l>זה קשה וזה נורא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא מבין איך זה קרה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

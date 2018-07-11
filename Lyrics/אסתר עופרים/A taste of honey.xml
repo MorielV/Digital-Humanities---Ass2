@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A taste of honey</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>ריק מארלו</writer>
+        <composer>ריק מארלו</composer>
+        <album>Back On Stage</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>A taste of honey</head>
+        <lg number="1" type="stanza">
+          <l>Cold winds may blow o’er the icy sea</l>
+          <l>But I'll take with me</l>
+          <l>The warmth of thee</l>
+          <l>A taste of honey,</l>
+          <l>A taste much sweeter than wine</l>
+          <l>I will return...I will return</l>
+          <l>I'll come back</l>
+          <l>For the honey and you</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>I leave behind</l>
+          <l>My heart to wear</l>
+          <l>And may it e’er remind you of</l>
+          <l>A taste of honey</l>
+          <l>A taste much sweeter than wine</l>
+          <l>I will return...I will return</l>
+          <l>I'll come back</l>
+          <l>For the honey and you.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

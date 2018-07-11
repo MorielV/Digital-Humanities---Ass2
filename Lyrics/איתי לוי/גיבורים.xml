@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גיבורים</title>
+        <singer classification="unknown">איתי לוי</singer>
+        <writer>שרית אשואל</writer>
+        <composer>נדב אסולין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גיבורים</head>
+        <lg number="1" type="stanza">
+          <l>אתמול כך הלכת, נסעת רחוק</l>
+          <l>אומרים שהשקט אלוף בלחנוק, </l>
+          <l>ולי כבר נגמר האוויר... </l>
+          <l>אז אתמול כך הלכת, מסתבר לתמיד, </l>
+          <l>אומרים שהרגש כמו פצע מגליד - </l>
+          <l>קשה ושורט ומריר...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתמול כך הלכת, חמוש במדים, </l>
+          <l>אומרים שאתה גיבור של דמים, </l>
+          <l>ולי כבה שוב האור...</l>
+          <l>אז אתמול כך הלכת, מסתבר לתמיד,</l>
+          <l>אומרים געגוע הופך לכאב - </l>
+          <l>צורב ושחור ושביר...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תחזור רק עוד פעם, </l>
+          <l>בשביל חיבוק אחרון, </l>
+          <l>תן לי לנשום עוד מבט זיכרון. </l>
+          <l>תסביר לי עוד פעם, </l>
+          <l>תשאל את אלוהים, </l>
+          <l>למה כל המלאכים שלו גיבורים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

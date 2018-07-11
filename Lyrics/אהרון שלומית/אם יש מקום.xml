@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם יש מקום 2</title>
+        <singer classification="unknown">אהרון שלומית</singer>
+        <writer>נורית פרי</writer>
+        <composer>עמנואל קרטן</composer>
+        <album>תרמיל האהבה של אמיר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם יש מקום</head>
+        <lg number="1" type="stanza">
+          <l>ישנו מקום</l>
+          <l>בקצה הזמן</l>
+          <l>מקום בו אין תקווה</l>
+          <l>בו אין תשובה</l>
+          <l>רק שקט שאליו זורם החושך</l>
+          <l>בו לא נדע דבר</l>
+          <l>בו אין מחר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פזמון:</l>
+          <l>חבק אותי עכשיו</l>
+          <l>שלא אובד ממך הלילה</l>
+          <l>היה כוכב זוהר בים סוער</l>
+          <l>מעיר את זכרוני לחזור</l>
+          <l>לחזור</l>
+          <l>לחוף שלוה ואור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אבל אפשר</l>
+          <l>שעוד מותר</l>
+          <l>כי כף ידך חמה</l>
+          <l>כמו נחמה</l>
+          <l>חבק אותי נהיה רכים</l>
+          <l>הלילה</l>
+          <l>חצי ירח</l>
+          <l>כבר מאיר דרכי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חבק אותי, נהיה רכים הלילה</l>
+          <l>חצי ירח כבר מאיר דרכי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

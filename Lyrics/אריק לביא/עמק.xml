@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עמק</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>רפאל אליעז</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עמק</head>
+        <lg number="1" type="stanza">
+          <l>פלדה כחולה הם השמיים</l>
+          <l>כבשן אדום הוא לבבי</l>
+          <l>היום אשרוף שרידי הליל</l>
+          <l>בלהבות של מכאובי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היד חורשת</l>
+          <l>הדם גועש</l>
+          <l>צבעי הקשת</l>
+          <l>עלו באש</l>
+          <l>אור, אור, אור, אור,</l>
+          <l>כל העמק הוא שיכור</l>
+          <l>הגלבוע</l>
+          <l>מתנשק עם התבור</l>
+          <l>היד חורשת</l>
+          <l>הלב יקצור</l>
+          <l>מגל הקשת</l>
+          <l>מי יעצור?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שזופת יגון כאדמה את</l>
+          <l>אך על פנייך אור יהל</l>
+          <l>נפשך עד אין סוף משתרעת</l>
+          <l>סופת אביב בה תשתולל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ובסופה נעופה שנינו</l>
+          <l>כשתי זרועות זו נגד זו</l>
+          <l>וכה דבוקות כזרועותינו</l>
+          <l>עוד שום זרועות לא נאחזו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>היד חורשת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

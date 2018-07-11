@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בתוך היד שלי</title>
+        <singer classification="male singer">ארי גורלי</singer>
+        <writer>ארי גורלי</writer>
+        <composer>ארי גורלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בתוך היד שלי</head>
+        <lg number="1" type="stanza">
+          <l>בתוך היד שלי</l>
+          <l>היד שלך</l>
+          <l>בתוך הסוד שלך, שלי</l>
+          <l>בתת מודע שלך אני איתך אני</l>
+          <l>איתך אני,</l>
+          <l>אני שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בתוך שלך אני שלי</l>
+          <l>בתוך תוכי אני איתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בתוך הלב שלך יש רק אותי</l>
+          <l>בתוך שלי זה קצת שולי</l>
+          <l>כותב לך שיר פרידה ולא זוכר ממי</l>
+          <l>זה בשבילך ובשבילי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בתוך שלך אני שלי</l>
+          <l>בתוך תוכי אני איתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

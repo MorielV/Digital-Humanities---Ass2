@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הולך לאיבוד 3</title>
+        <singer classification="unknown">אביהו שבת</singer>
+        <writer>סהר חגי</writer>
+        <composer>ניצן קייקוב</composer>
+        <album>אביהו</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הולך לאיבוד</head>
+        <lg number="1" type="stanza">
+          <l>את לוקחת את הרגע </l>
+          <l>ועושה אותו שלך </l>
+          <l>לפעמים זה לא נוגע </l>
+          <l>זה תמיד פוגע בך </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את נוסעת אל הרקע </l>
+          <l>נעלמת בתמונה </l>
+          <l>שאני כבר לא שומע </l>
+          <l>היא שומרת לעצמה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלב שמתפרע, </l>
+          <l>הגוף שמתפרק </l>
+          <l>אני כבר משתגע </l>
+          <l>מול החומות שלך אני שותק צועק </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך אני כאן כשאני שם </l>
+          <l>אל תוך עינייך נעלם </l>
+          <l>ביחד, לחוד הולך לאיבוד </l>
+          <l>עוד יום עובר וסתם </l>
+          <l>לא מקורי איתך זה מקרי </l>
+          <l>בתוך עצמי אני הולך לאיבוד </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את נוגעת לי ברגש </l>
+          <l>משחקת בו מעט </l>
+          <l>כשאני שומר על שקט </l>
+          <l>זה תמיד מפריע לך </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>את לומדת את הלקח </l>
+          <l>וצוחקת על כולם </l>
+          <l>שהיום עובר בקצב </l>
+          <l>את לוקחת את הזמן </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>איך אני כאן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

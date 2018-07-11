@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יבוא וילך</title>
+        <singer classification="unknown">אלון פרץ</singer>
+        <writer>אלון פרץ</writer>
+        <composer>אלון פרץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יבוא וילך</head>
+        <lg number="1" type="stanza">
+          <l>את ראית בו כל דבר</l>
+          <l>כל דבר שרצית לראות</l>
+          <l>והוא זה שתמיד נשאר</l>
+          <l>חיכה לך בין כל הלילות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הוא יהיה לך למפלט</l>
+          <l>רק תאמרי איזה משפט</l>
+          <l>הוא יבוא כשידע שזו את</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הוא יבוא וילך וירוץ למולך</l>
+          <l>ואם רק תשאלי איך</l>
+          <l>הוא יבוא וילך וישא את כתפך</l>
+          <l>עד סופה של הדרך</l>
+          <l>כל זה התחיל ממך</l>
+          <l>הוא יבוא וילך וירוץ למולך</l>
+          <l>עד סופה של הדרך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כן את שינית בו כל דבר</l>
+          <l>מה שבנית כבר לא נותר</l>
+          <l>והוא סוף סוף הבין הכל</l>
+          <l>הבין שזה עליו גדול</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הוא ישכח את המילים</l>
+          <l>ויצחק לך בפנים</l>
+          <l>כי חיכה לך בכל הימים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הוא יבוא וילך וירוץ למולך</l>
+          <l>ואם רק תשאלי איך</l>
+          <l>הוא יבוא וילך וישא את כתפך</l>
+          <l>עד סופה של הדרך</l>
+          <l>כל זה התחיל ממך</l>
+          <l>הוא יבוא וילך וירוץ למולך</l>
+          <l>עד סופה של הדרך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

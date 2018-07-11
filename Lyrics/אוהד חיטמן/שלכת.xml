@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלכת 4</title>
+        <singer classification="male singer">אוהד חיטמן</singer>
+        <writer>אוהד חיטמן</writer>
+        <composer>אוהד חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלכת</head>
+        <lg number="1" type="stanza">
+          <l>שוב העלים משילים את עצמם</l>
+          <l>שוב הרוחות מגיעות במקומם</l>
+          <l>יש אנשים שמאוד רגישים</l>
+          <l>שלכת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שוב היורה מיירה טיפותיו</l>
+          <l>שוב זה אני שכותב לך מכתב</l>
+          <l>כי גם לי יש תקופות</l>
+          <l>שעלי לקפל וללכת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שלום זה אני</l>
+          <l>אני הולך מכאן רחוק</l>
+          <l>וזה לא שאני אלרגי אליך</l>
+          <l>אני הולך בגלל הדמעות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>להתראות באביב</l>
+          <l>וסליחה על הכאב</l>
+          <l>וגם אם את לא חולמת אותי</l>
+          <l>תדעי שאני עוד אוהב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שוב ציפורים עפות מקינן </l>
+          <l>שוב הרקיע נצבע בענן</l>
+          <l>שוב את כמו בעונות מעבר</l>
+          <l>שלכת</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>שוב את הופכת אותי לקודר</l>
+          <l>שוב זה החום שאלי לא חודר</l>
+          <l>ולמרות שאת כאן</l>
+          <l>חשבתי מזמן ללכת</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>שלום זה אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

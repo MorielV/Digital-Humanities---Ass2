@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני רוצה שפתאום</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>יהודה אטלס</writer>
+        <composer>יוני רכטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני רוצה שפתאום</head>
+        <lg number="1" type="stanza">
+          <l>אני רוצה שפתאום,</l>
+          <l>ביריד עם המון אנשים,</l>
+          <l>יקראו ת'שם שלי ברמקול,</l>
+          <l>ויגידו: גש מיד למודיעין!</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני רוצה שפתאום,</l>
+          <l>סתם באמצע העיר,</l>
+          <l>יגש אלי ויגיד:</l>
+          <l>אותך כבר מזמן רציתי להכיר!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני רוצה שפתאום,</l>
+          <l>יגלו לי סוד צבאי,</l>
+          <l>שאפשר לגלות</l>
+          <l>רק למישהו מאוד אחראי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני רוצה שפתאום</l>
+          <l>יכתבו עלי בעיתון</l>
+          <l>וידפיסו מתחת לתמונה:</l>
+          <l>זה הילד שהציל את המדינה!</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני רוצה שפתאום</l>
+          <l>אני אשמע מישהו קורא:</l>
+          <l>בוא נלך, בוא ניסע, בוא נטוס -</l>
+          <l>העיקר שמשהו כבר יקרה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

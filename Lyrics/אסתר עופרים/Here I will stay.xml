@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Here I will stay</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>I'll See You In My Dreams – בהופעה 2009</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Here I will stay</head>
+        <lg number="1" type="stanza">
+          <l>There's a far land I'm told</l>
+          <l>Where I'll find a field of gold,</l>
+          <l>But here I'll stay with you.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>And they say there's an isle deep with clover</l>
+          <l>Where your heart wears a smile all day through.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>But I know well they're wrong</l>
+          <l>And I know where I belong</l>
+          <l>And here I'll stay with you.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>For that land is a sandy illusion,</l>
+          <l>It's the theme of a dream gone astray.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>And the world others woo</l>
+          <l>I can find loving you,</l>
+          <l>And so here I'll stay!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אגדה 6</title>
+        <singer classification="unknown">אילקה רווה</singer>
+        <writer>יעקב פיכמן</writer>
+        <composer>חנינא קרצבסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אגדה</head>
+        <lg number="1" type="stanza">
+          <l>על שפת ים כינרת</l>
+          <l>ארמון רב תפארת,</l>
+          <l>גן אל שם נטוע,</l>
+          <l>בו עץ לא ינוע.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מי גר שם? רק נער</l>
+          <l>כעוף בדמי יער!</l>
+          <l>לומד שם תורה הוא</l>
+          <l>מפי הנביא אליהו.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הס גל לא קולח.</l>
+          <l>כל עוף הפורח</l>
+          <l>עומד ושומע -</l>
+          <l>תורת אל בולע.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

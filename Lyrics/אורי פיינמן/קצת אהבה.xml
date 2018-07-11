@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קצת אהבה</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קצת אהבה</head>
+        <lg number="1" type="stanza">
+          <l>אור ניאון בחלונות מדליקים כבר את הלילה</l>
+          <l>צל של אדם, מחבק אקורדיון</l>
+          <l>זה כאילו בפריז, אבל בעצם כאן איתך</l>
+          <l>גם השקט מדבר בשפה זרה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אוסף את השקט אלי וחושב </l>
+          <l>האושר מתחיל בגעגוע   </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קחי קצת אהבה כל עוד אפשר </l>
+          <l>אל תשכחי להשאיר למחר</l>
+          <l>קצת אהבה, ללילה קר שלי איתך</l>
+          <l>שתמיד אוהב אותך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לפעמים געגועים, מציירים את הביחד </l>
+          <l>שוב האתמול מחבק את העכשיו  </l>
+          <l>בעיניים שואלות, אני קורא אותך ואת </l>
+          <l>מספרת את הכל במבט שותק</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

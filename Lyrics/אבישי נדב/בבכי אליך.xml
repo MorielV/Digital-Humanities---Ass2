@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בבכי אליך</title>
+        <singer classification="unknown">אבישי נדב</singer>
+        <writer>אבישי נדב</writer>
+        <composer>אבישי נדב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בבכי אליך</head>
+        <lg number="1" type="stanza">
+          <l>אשא תפילה </l>
+          <l>לך שוכן שמי מרומים </l>
+          <l>אב רחום צור עולמים </l>
+          <l>תן בי את הכח </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שלא אמעד מדרכך </l>
+          <l>ולו אפחד מיראתך </l>
+          <l>אהיה קשוב בקולך לשמוע </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קורא אני בבכי אליך </l>
+          <l>חוס עלי ברחמיך </l>
+          <l>ממרום </l>
+          <l>שלא אפול ואשבר </l>
+          <l>גם אם תהיה קשה הדרך </l>
+          <l>לא אשאל היכן המלך </l>
+          <l>רק אזעק בקול </l>
+          <l>אתה אותי לא תעזוב </l>
+          <l>אני יודע </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אשפיל מבט </l>
+          <l>אתה יודע כל נסתר </l>
+          <l>רם נישא הוד והדר </l>
+          <l>תן בי רק לזנוח </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את מעשי הלא טובים </l>
+          <l>ופקח עיני לראות דברים </l>
+          <l>כי בצילך אני רוצה לפרוח </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>קורא אני בבכי אליך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

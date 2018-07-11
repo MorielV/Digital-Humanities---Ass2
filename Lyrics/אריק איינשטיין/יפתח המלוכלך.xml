@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יפתח המלוכלך</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אורי סלע</writer>
+        <composer>עדה נסטוביץ'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יפתח המלוכלך</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הו, יפתח המלוכלך</l>
+          <l>מפוצלח אתה כל כך</l>
+          <l>מישהו אותך יקח</l>
+          <l>ויזרוק אל תוך הפח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>האוזניים כבר שנתיים</l>
+          <l>לא ראו טיפה של מים</l>
+          <l>לא גזרת ציפורניים</l>
+          <l>לא צחצחת השיניים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הו, יפתח...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>השיער המפוזר</l>
+          <l>לא סורק ולא סופר</l>
+          <l>וגרביים כבר חודשיים</l>
+          <l>לא החלפת - איך אפשר?</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הו, יפתח...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>רוץ מהר להסתפר</l>
+          <l>הסתרק והסתדר</l>
+          <l>שב מעט באמבט</l>
+          <l>ותהיה אדם אחר</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>הו, יפתח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

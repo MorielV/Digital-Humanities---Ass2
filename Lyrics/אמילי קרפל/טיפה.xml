@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טיפה 5</title>
+        <singer classification="female singer">אמילי קרפל</singer>
+        <writer>אמילי קרפל</writer>
+        <composer>אמילי קרפל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טיפה</head>
+        <lg number="1" type="stanza">
+          <l>מרחוק זה נראה כאילו</l>
+          <l>לא השתנה דבר</l>
+          <l>גם אתה גם אני אפילו</l>
+          <l>שנים כבר שזה נגמר</l>
+          <l>ועכשיו מסתכלים בעיניים</l>
+          <l>אין מבט וזה ריק פתאום</l>
+          <l>וידיים עוזבות בינתיים</l>
+          <l>והגוף נעצר במקום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד דקה, עוד טיפה וזה נוזל </l>
+          <l>עוד מילה, עוד שנייה הזמן אוזל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה קורה די לאט עדיין </l>
+          <l>השינוי מתעכל עמוק</l>
+          <l>געגוע אחד או שניים </l>
+          <l>למה שעכשיו כבר רחוק</l>
+          <l>למבט למגע שנראה לי</l>
+          <l>כמו חלום כמו לפתור חידה</l>
+          <l>אז הגוף נעצר ואומר לי</l>
+          <l>להמשיך גם אם אין לי תשובה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוד דקה, עוד טיפה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

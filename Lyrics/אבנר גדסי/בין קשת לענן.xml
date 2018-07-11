@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בין קשת לענן</title>
+        <singer classification="male singer">אבנר גדסי</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בין קשת לענן</head>
+        <lg number="1" type="stanza">
+          <l>בין קשת לענן</l>
+          <l>זכרונות לוקח</l>
+          <l>הולך רחוק מכאן</l>
+          <l>בלילות ירח</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובלילות</l>
+          <l>מצייר לי את דמותה</l>
+          <l>ובתוך העלטה</l>
+          <l>שוב אני לבד איתה</l>
+          <l>שוב אני לבד איתה</l>
+          <l>אהה.. היה חלום, עולה היום</l>
+          <l>והיא איננה</l>
+          <l>בלילות הקרים</l>
+          <l>מגשש באפילה</l>
+          <l>ובתוך החלומות</l>
+          <l>לפני היא שם עולה</l>
+          <l>היא שם עולה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוקע בדמיון</l>
+          <l>יורה ולא פוגע</l>
+          <l>נוגע בהמון</l>
+          <l>ועצב לא נוגע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ובלילות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

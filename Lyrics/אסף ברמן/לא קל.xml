@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא קל</title>
+        <singer classification="unknown">אסף ברמן</singer>
+        <writer>תום פטרובר</writer>
+        <composer>תום פטרובר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא קל</head>
+        <lg number="1" type="stanza">
+          <l>את כל הזמן בוכה שאין לך ילד</l>
+          <l>והפרחים אצלך בגן</l>
+          <l>הם רק נובלים</l>
+          <l>והזמן שלך הוא רץ ממש כמו ילד</l>
+          <l>ויש לו כוח</l>
+          <l>הוא מושך</l>
+          <l>אבל בגילך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה לא קל</l>
+          <l>מישהו קם וחותך הוא הולך</l>
+          <l>לא קל, תודי את פוחדת</l>
+          <l>כמה רצית להמשיך ואמרת חבל</l>
+          <l>זה לא קל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את פותחת את הראש עם איזה ספר</l>
+          <l>ומחברת את המילים לדמיונות</l>
+          <l>הפסיכולוג שלך אומר</l>
+          <l>שאין לך בעיות עם קשר,</l>
+          <l>אבל גם ככה הוא הולך</l>
+          <l>זה לא בשבילך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש משהו באוויר ואת משערת</l>
+          <l>שזהו חלק</l>
+          <l>מהיופי של הסוף</l>
+          <l>והחלום שלך</l>
+          <l>לקראת אמצע הסרט</l>
+          <l>אז את יוצאת להפסקה</l>
+          <l>ואת מחכה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זה לא קל</l>
+          <l>מישהו קם וחותך הוא הולך</l>
+          <l>לא קל, תודי את פוחדת</l>
+          <l>כמה רצית להמשיך ואמרת חבל</l>
+          <l>זה לא קל</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה לא קל</l>
+          <l>מישהו קם וחותך הוא הולך</l>
+          <l>לא קל, תודי את פוחדת</l>
+          <l>כמה רצית להמשיך ואמרת חבל</l>
+          <l>זה לא קל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הזיות</title>
+        <singer classification="male singer">איציק הרוש</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הזיות</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>כל חיי אהבתי רק אותך </l>
+          <l>כוכבי הרום ממרום יעידו </l>
+          <l>את גורלי קשרתי בך </l>
+          <l>ועלומי ציוויתי לך </l>
+          <l>או... או... אוהב אותך </l>
+          <l>כל חיי חולם אני אותך </l>
+          <l>כל מכרי וידידי יעידו </l>
+          <l>כתבתי לך מאור עיני </l>
+          <l>מכתב חתום בדמעותי או... או... אוהב אותך </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והלילות לא עברו לא חלפו לי </l>
+          <l>החלומות שחלמתי שקרו לי </l>
+          <l>את בתוכי בימים בלילות חלומות אשליות הזיות </l>
+          <l>מי אמר ויגיד מה היה לי </l>
+          <l>או... או... מה היה לי </l>
+          <l>(כל חיי אהבתי רק אותך) </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והלילות... </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל חיי... </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כל חיי אהבתי רק אותך </l>
+          <l>כוכבי הרום ממרום יעידו </l>
+          <l>את גורלי קשרתי בך </l>
+          <l>ועלומי ציוויתי לך </l>
+          <l>או... או... אוהב אותך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוקדת ברחובות</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>מני בגר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוקדת ברחובות</head>
+        <lg number="1" type="stanza">
+          <l>עם דימדומים, היא הולכת לדרכה</l>
+          <l>עוזבת בית חם מבלי לומר מילה</l>
+          <l>היתה שפויה, היתה צוחקת ושלווה</l>
+          <l>וכל כולך בוערת אש ולהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את תחכי גם אם ייפלו הכוכבים</l>
+          <l>את תחכי בין ברקים ורעמים</l>
+          <l>ותרקדי כששתי רגלייך יחפות</l>
+          <l>את צערך יישא כינור ברחובות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כן, את שורפת לילותייך בפונדק</l>
+          <l>תשתי אחת ועוד אחת, זה המשחק</l>
+          <l>כן את יודעת שזה נגמר, וזה הסוף</l>
+          <l>אז איך נשאר בך עוד הכוח לאהוב?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את תחכי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

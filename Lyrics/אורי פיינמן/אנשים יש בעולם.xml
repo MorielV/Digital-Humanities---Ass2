@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אנשים יש בעולם</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אנשים יש בעולם</head>
+        <lg number="1" type="stanza">
+          <l>אנשים בעולם, יש בתי הקטנה</l>
+          <l>ארמון לאחד, לשני אין פינה</l>
+          <l>בה ינוח ולו לשעה מאושרת</l>
+          <l>מה אומר לך בתי ואת כה קטנטנה?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אנה אפנה, אנה אבוא</l>
+          <l>אין לי אדם שייפתח לבבו</l>
+          <l>אנה אבוא, אנה אפנה</l>
+          <l>מי לקולי יענה?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אנשים בעולם יש בתי הדלה</l>
+          <l>חיינו ילדה, הם סימן שאלה</l>
+          <l>השלווה לאחד, לשני אין מנוח</l>
+          <l>מה אומר לך בתי ואת כה אומללה?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אנה אפנה, אנה אבוא...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אנשים בעולם, יש בתי הטובה</l>
+          <l>נושאים הם איתם חלומות ותקווה</l>
+          <l>עוד יאיר לך היום, עוד תאיר לך השמש</l>
+          <l>למה זה ילדתי, את עודך עצובה?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אנה אפנה, אנה אבוא...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אנשים בעולם, יש אימי היחידה,</l>
+          <l>הנה ואשאל עוד חידה וחידה</l>
+          <l>רק אמרי לי מתי ומדוע ולמה,</l>
+          <l>ואמרי לי אימי שזו רק אגדה.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>אנה אפנה, אנה אבוא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

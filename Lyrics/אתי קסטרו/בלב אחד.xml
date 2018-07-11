@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלב אחד</title>
+        <singer classification="female singer">אתי קסטרו</singer>
+        <writer>חיים חפר</writer>
+        <composer>דובי זלצר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלב אחד</head>
+        <lg number="1" type="stanza">
+          <l>לא אשן בלילה, לא אצחק ביום</l>
+          <l>לכוכב למעלה לא אומר שלום</l>
+          <l>צעירה עודני, לבדי הנני</l>
+          <l>ומי יחבקני, לילה וגם יום</l>
+          <l>אם אני נרדמת, ועיני עוצמת</l>
+          <l>אז אותו בן חמד, בא אלי הלום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סלאם עליכום, בוא תגיד שלום (בוא תגיד שלום)</l>
+          <l>סלאם עליכום, בוא תגיד שלום (בוא תגיד שלום)</l>
+          <l>קח ידי ותן לי יד, ונשיר בלב אחד</l>
+          <l>סלאם עליכום, ונאמר שלום (ונאמר שלום)</l>
+          <l>קח ידי ותן לי יד, ונשיר בלב אחד</l>
+          <l>סלאם עליכום, ונאמר שלום (ונאמר שלום)</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איזה נער פלא, פרא של אדם</l>
+          <l>בחורים כאלה, הם לא בני אדם</l>
+          <l>בוקר משתחץ הוא, לילה לץ בן לץ הוא</l>
+          <l>שכבר יתפוצץ הוא, ועליו סלאם</l>
+          <l>איך הוא בא אלינו, איך עובד עלינו</l>
+          <l>הופ, הוא כבר איננו,  מלך העולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סלאם עליכום, בוא תגיד שלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

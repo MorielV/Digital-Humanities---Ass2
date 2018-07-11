@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המערכת</title>
+        <singer classification="unknown">איה כורם</singer>
+        <writer>איה כורם</writer>
+        <composer>איה כורם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המערכת</head>
+        <lg number="1" type="stanza">
+          <l>אם הייתי יכול לחיות פעם</l>
+          <l>לפני הטלפון והמחשב</l>
+          <l>את כל מה שהייתי רוצה להגיד לך </l>
+          <l>הייתי ודאי אז יושב וכותב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עצי אקליפטוס יורדים אל המים</l>
+          <l>חולות לבנים ושמיים כוכב</l>
+          <l>וגם את הצחוק שלה בעצמה</l>
+          <l>הייתי שולח בתוך המכתב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם הייתי יכול לחיות פעם </l>
+          <l>הייתי רוצה להכנס לספרים </l>
+          <l>בתור משורר או גיבור או ממציא</l>
+          <l>לפני שהמציאו כבר את כל הדברים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עצי אקליפטוס...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם הייתי יכול לחיות פעם</l>
+          <l>אם הייתי חי אז לא הייתי חושש</l>
+          <l>הייתי כותב לה שירי אהבה</l>
+          <l>אומר לה הכל ולא מתבייש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

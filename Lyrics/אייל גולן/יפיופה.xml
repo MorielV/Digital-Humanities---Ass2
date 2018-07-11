@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יפיופה</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>אקורדים</composer>
+        <album>זה אני</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יפיופה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>יפיופה, בואי אלי</l>
+          <l>תני לי נשיקה על השפתיים</l>
+          <l>יפיופה </l>
+          <l>בואי נעוף הלילה לשמיים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ראיתי בעינייך סימנים של מבוכה</l>
+          <l>שמעתי את השקט שלפני הסערה</l>
+          <l>ואת נוגעת לא נוגעת</l>
+          <l>משאירה אותי לבד</l>
+          <l>וזה למרות שאת יודעת</l>
+          <l>חיים רק פעם אחת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יפיופה, בואי אלי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אולי את מתביישת אולי פוחדת מאהבה</l>
+          <l>הקשיבי לליבך אל תסרבי לו נערה</l>
+          <l>תני לרגשות לפרוח, לאהבה הושיטי יד</l>
+          <l>חבקי אותי בכל הכוח</l>
+          <l>חיים רק פעם אחת</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יפיופה, בואי אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

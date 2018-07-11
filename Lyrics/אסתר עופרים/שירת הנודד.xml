@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שירת הנודד 2</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>אהרון אשמן</writer>
+        <composer>מרדכי זעירא</composer>
+        <album>אסתר עופרים בהיכל התרבות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שירת הנודד</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>היי ציוניוני הדרך</l>
+          <l>אבנים לבנבנות</l>
+          <l>טוב לשוט, תרמיל על שכם</l>
+          <l>אל בלי אן הרחק לנדוד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בין איילת ומטולה,</l>
+          <l>שם עייפתי ואשב.</l>
+          <l>פרח חן לקטוף חפצתי,</l>
+          <l>וננעץ לי קוץ בלב.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>היי ציוניוני הדרך...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את היקום פתאום לפתע,</l>
+          <l>ערפילים הליטו לוט</l>
+          <l>תכול מרחב גזלו ממני</l>
+          <l>שתי עיניים כחולות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>היי ציוניוני הדרך...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בין איילת ומטולה</l>
+          <l>תרמילי נפל בגיא</l>
+          <l>יד רכה שם בליל חושך</l>
+          <l>גזזה מחלפותי</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>היי ציוניוני הדרך</l>
+          <l>אבנים לבנבנות</l>
+          <l>לא אצא עוד, לא אפליגה</l>
+          <l>אל בלי אן הרחק לנדוד.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

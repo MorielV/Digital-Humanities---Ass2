@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלח הארץ</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>יואב גינאי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלח הארץ</head>
+        <lg number="1" type="stanza">
+          <l>קנה כרטיס אל המזרח וטס בקו הזול</l>
+          <l>הנשק, החגור, הבקו"ם נשכחים עכשיו</l>
+          <l>חוצה קודח מדברים של קרח ושל חול</l>
+          <l>שואף אויר רחוק עמוק עמוק לריאותיו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הדריך הוא בתנועה והתנדב לסיירות</l>
+          <l>ובמסע כומתה הזיע אבל לא קיטר</l>
+          <l>אך בחופשות יצא לו להציץ בכותרות</l>
+          <l>הבית משתנה והוא רוצה אויר אחר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הוא מלח הארץ</l>
+          <l>אבל עכשיו הוא נודד</l>
+          <l>מחפש מחוזות מתוקים בעולם</l>
+          <l>כואב את הארץ אבל</l>
+          <l>פה ושם גם בודד</l>
+          <l>כן בסוף עוד ישוב</l>
+          <l>אל הקן כמו כולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רוקד בקרנבל בריו</l>
+          <l>שר שירי סוכנות</l>
+          <l>ומרחף במדיטציה במקדש אבוד</l>
+          <l>ברובע פנסים אדום לומד קצת אומנות</l>
+          <l>ובניו-יורק הוא משפץ עם חבר'ה מהגדוד</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>צופה בכל יבשת בדמעה המקומית</l>
+          <l>וכאביו לרגע קט שוקעים במצולות</l>
+          <l>אבל כשבחור נידח שומע הוא עברית</l>
+          <l>הוא פה צמא מגעגוע לביתו שלו</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הוא מלח הארץ...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כואב את הארץ אבל</l>
+          <l>פה ושם גם בודד</l>
+          <l>כן בסוף עוד ישוב</l>
+          <l>אל הקן כמו כולם</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>הוא מלח הארץ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

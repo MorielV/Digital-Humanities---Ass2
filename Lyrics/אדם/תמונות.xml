@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תמונות 2</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>אלונה קמחי</writer>
+        <composer>יזהר אשדות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תמונות</head>
+        <lg number="1" type="stanza">
+          <l>בזוית השפתיים סיגריה כבויה</l>
+          <l>בשלוש לפנות בוקר נוהגת שתויה</l>
+          <l>בכורסא עמוקה מנומנמת מעט</l>
+          <l>בגרביים שונות ותפוח ביד</l>
+          <l>בגלויית תיירים ובסרט ישן</l>
+          <l>רוצה אותך בצבע ובשחור לבן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את כועסת מזמן,</l>
+          <l>לא אומרת על מה</l>
+          <l>וביני לבינך עדשת מצלמה</l>
+          <l>בעיניים שלך נח עלבון ילדותי אילם</l>
+          <l>מבט ארוך אליי - מצלם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מסתירה מאחורי משקפיים כהים</l>
+          <l>עייפות של לילות ועצבות של ימים</l>
+          <l>ושפתיים פקוחות כמו שולחות בלחישה</l>
+          <l>חיוך חצי מופקר אל תוך העדשה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את כועסת מזמן...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מצלם, מתלהב</l>
+          <l>וכמו ילד קטן</l>
+          <l>ממציא אותך בצבע</l>
+          <l>ובשחור לבן.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את כועסת מזמן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

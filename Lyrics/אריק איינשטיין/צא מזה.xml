@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צא מזה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>יענקל'ה רוטבליט</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צא מזה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>שוב לא שקט,</l>
+          <l>שוב מתוח ובועט,</l>
+          <l>מין גיל כזה,</l>
+          <l>כל אחד עובר את זה,</l>
+          <l>צא מזה, מה איתך,</l>
+          <l>אמא מבשלת בשבילך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שוב בלי מנוחה,</l>
+          <l>משהו אוכל אותך,</l>
+          <l>עוד כוס קפה,</l>
+          <l>זה אוחז ולא מרפה,</l>
+          <l>קח עכשיו ספר טוב,</l>
+          <l>שם ודאי תמצא על מה לחשוב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז אולי תפסיק עם העולם לריב,</l>
+          <l>אז אולי תרגיש הרבה יותר יציב.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שוב לא שקט,</l>
+          <l>שוב מתוח ובועט,</l>
+          <l>מין גיל כזה,</l>
+          <l>כל אחד עובר את זה,</l>
+          <l>צא מזה, מה איתך,</l>
+          <l>אמא מבשלת בשבילך.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז אולי תפסיק עם העולם לריב,</l>
+          <l>אז אולי תרגיש הרבה יותר יציב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

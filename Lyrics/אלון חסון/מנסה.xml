@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנסה 3</title>
+        <singer classification="unknown">אלון חסון</singer>
+        <writer>יוש גרנות</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנסה</head>
+        <lg number="1" type="stanza">
+          <l>היא נערה משגעת</l>
+          <l>כך כולם אומרים</l>
+          <l>ומוציאה מדעת</l>
+          <l>את כל הגברים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשאלי היא מחייכת</l>
+          <l>לבבי עומד מלכת</l>
+          <l>לצידי כשהיא רוקדת</l>
+          <l>בליבי האש יוקדת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מנסה מנסה</l>
+          <l>לעמוד בפני קסמיה</l>
+          <l>אך אני מאוהב</l>
+          <l>בליבי חולה עליה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היא לפעמים חושבת</l>
+          <l>כמו ילדה קטנה</l>
+          <l>אחר כך שוב שותקת</l>
+          <l>בלי לומר מילה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יום אחד היא מאוהבת</l>
+          <l>ומחר שוב מסרבת</l>
+          <l>את ראשי היא מסחררת</l>
+          <l>היא כל כך כל כך אחרת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מנסה מנסה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תוותרי עלינו</title>
+        <singer classification="male singer">איציק שמלי</singer>
+        <writer>איציק שמלי</writer>
+        <composer>איציק שמלי</composer>
+        <album>סיפור אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תוותרי עלינו</head>
+        <lg number="1" type="stanza">
+          <l>רק אל תגידי שאת מתכוונת לעזוב</l>
+          <l>רק אל תאמרי שאת צריכה זמן לעצמך לחשוב</l>
+          <l>ושאלי את לא חוזרת ואת חדרי ליבך סוגרת</l>
+          <l>מבטיח עוד ימים של שקט ושלווה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תוותרי עלינו, על מה שיש בנינו</l>
+          <l>וכמה שאהבנו, כמו ילדים חלמנו</l>
+          <l>את כל מה שביקשתי, את כל מה שידעתי</l>
+          <l>ורק איתך זו אהבה שאין לה סוף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לצידך אני מרגיש בטוח ושלם</l>
+          <l>כן את יודעת בלעדייך אני לא נושם</l>
+          <l>אני אוהב אותך לנצח וביחד ננצח</l>
+          <l>ולא נדע יותר ימים של אכזבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תוותרי עלינו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

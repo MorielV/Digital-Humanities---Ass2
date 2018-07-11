@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השמיים הכחולים</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>אסף אמדורסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השמיים הכחולים</head>
+        <lg number="1" type="stanza">
+          <l>בוקר טוב אישה שלי יפה</l>
+          <l>תפקחי את העיניים לאט</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>השמיים הכחולים</l>
+          <l>מחכים רק בשבילך</l>
+          <l>תפקחי את העיניים לאט</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רגליים יחפות על שטיח צמרמר</l>
+          <l>בואי אלי לטפי אותי</l>
+          <l>ותפקחי את העיניים לאט</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>השמיים הכחולים</l>
+          <l>מחכים רק בשבילך</l>
+          <l>תפקחי את העיניים לאט</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש עוד יום חדש בחוץ</l>
+          <l>זה מאוד מאוד נחוץ</l>
+          <l>להציל ממנו את מה שנשאר</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ועכשיו יפה שלי </l>
+          <l>בואי אלי</l>
+          <l>לטפי אותי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

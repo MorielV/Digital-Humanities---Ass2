@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זבל דימיוני</title>
+        <singer classification="male singer">אלי לס</singer>
+        <writer>אלי לס</writer>
+        <composer>אלי לס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זבל דימיוני</head>
+        <lg number="1" type="stanza">
+          <l>הרחק מעיני השומרים </l>
+          <l>אני זורק לדוּד מקלות למים </l>
+          <l>הוא חוזר מסומר </l>
+          <l>מכוסה בוץ </l>
+          <l>נראה כמו גבר </l>
+          <l>סוף סוף אני יכול </l>
+          <l>להריח זבל דמיוני בקצה אפי </l>
+          <l>לשמוע את חריקת העולים </l>
+          <l>לצפות בדורשות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

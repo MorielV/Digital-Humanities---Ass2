@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בליבך</title>
+        <singer classification="male singer">אוהד אלישע</singer>
+        <writer>חוזה אורטגה הרדיה</writer>
+        <composer>חוזה אורטגה הרדיה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בליבך</head>
+        <lg number="1" type="stanza">
+          <l>בליבך אני נשאר כמו שיר</l>
+          <l>אל נא תנסי זאת, להסתיר</l>
+          <l>גם אם תתעלמי מזה בכלל</l>
+          <l>אי אפשר לברוח מגורל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם תראי אותי עובר ממול</l>
+          <l>ופני סגורות כגן נעול</l>
+          <l>את עולה תמיד במחשבתי</l>
+          <l>ובחלומך רואה אותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מנגינות פורחות מדמיוני</l>
+          <l>עינייך מביטות - נמס אני</l>
+          <l>על שפתייך החיוך קפא</l>
+          <l>וגופך צמא ללטיפה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את מלאך לבן בתוך חלום</l>
+          <l>את השושנה שלא אגזום</l>
+          <l>ואם לא תהיי רק את לעד</l>
+          <l>כל חיי אבכה, אשאר לבד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

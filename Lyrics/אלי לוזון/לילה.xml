@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה 14</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>יואב גינאי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה</head>
+        <lg number="1" type="stanza">
+          <l>לילה בא כמו קטיפה שחורה עוטפת</l>
+          <l>כמו ציפור שמרחפת ונופל עלי צילה</l>
+          <l>לילה בא ואיתו זיכרון פניך</l>
+          <l>וכוכבים - עיניך שאבדו באפלה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מתפללת אל האור שהעצב יעבור</l>
+          <l>כי ליבי מזמן בחושך</l>
+          <l>מתפללת לחמה שתביא לנשמה</l>
+          <l>רגע של שלווה ואושר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לילה בא וחונק את אור השמש</l>
+          <l>והזכרונות מאמש</l>
+          <l>בדמי ממש כמו אש</l>
+          <l>לילה בא, השנים חולפות בינתיים</l>
+          <l>ושחורים הם השמיים</l>
+          <l>כי אתה מזמן לא כאן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מתפללת אל האור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

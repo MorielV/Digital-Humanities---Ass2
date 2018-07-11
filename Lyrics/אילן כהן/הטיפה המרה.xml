@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הטיפה המרה</title>
+        <singer classification="unknown">אילן כהן</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הטיפה המרה</head>
+        <lg number="1" type="stanza">
+          <l>בלילה וביום לבדו הולך</l>
+          <l>מחזיק את הבקבוק ולא מחייך</l>
+          <l>היה לו כסף רב עושר ושלווה</l>
+          <l>הכל אבד פתאום בגלל אהבה</l>
+          <l>היה לו כסף רק אושר ושלווה</l>
+          <l>איך הוא הפך אומלל בגלל אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הולך ולוגם ממשקה מר</l>
+          <l>הוא רוצה לא לזכור את מה שעבר</l>
+          <l>ליבו אוהב אישה שבגדה בו</l>
+          <l>הוא לא יכול לחיות שהיא לא שלו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זועק שוב לאל רוצה קצת עזרה</l>
+          <l>הוא נופל ושואל למה קח ניברא</l>
+          <l>היה לו בית חם אושר ורק טוב</l>
+          <l>הכל עבר פתאום להוא ברחוב</l>
+          <l>היה לו בית חם אושר ורק טוב</l>
+          <l>איך הוא ימשיך לחיות מה יהיה הסוף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הולך ולוגם ממשקה מר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

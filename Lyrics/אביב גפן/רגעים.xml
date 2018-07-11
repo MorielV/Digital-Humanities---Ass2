@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רגעים</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רגעים</head>
+        <lg number="1" type="stanza">
+          <l>אף אחד לא יציל אותי הלילה</l>
+          <l>זה רק אני והכאב</l>
+          <l>היתה תאונה בין דמיון ומציאות</l>
+          <l>יש הרוגים</l>
+          <l>איך את עזבת אותי לבד הלילה</l>
+          <l>איך את קרעת לי את הלב</l>
+          <l>אני יודע שאני אשם</l>
+          <l>בזה שאני אוהב</l>
+          <l>אני פותח דף חדש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ויש רגעים שמחכה לך</l>
+          <l>ויש רגעים אני נשבר ונסגר</l>
+          <l>ויש רגעים אני קורא לך</l>
+          <l>ושוכח אותך ונזכר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>העוגן צלל למצולות לנצח</l>
+          <l>האוניה שוב מפליגה</l>
+          <l>והגלים לא ינצחו אותי יותר</l>
+          <l>בסוף אני אמצא את החוף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ויש רגעים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

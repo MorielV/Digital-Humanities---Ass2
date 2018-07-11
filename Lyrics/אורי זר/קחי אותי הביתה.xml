@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קחי אותי הביתה</title>
+        <singer classification="male singer">אורי זר</singer>
+        <writer>חמוטל בן זאב</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קחי אותי הביתה</head>
+        <lg number="1" type="stanza">
+          <l>בואי נאמר שכבר הכל נגמר </l>
+          <l>ונתחיל הכל מחדש </l>
+          <l>כשניגע נגיע לעיקר </l>
+          <l>והשאר שלי שלך </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בואי נזמין כרטיס ללא נודע </l>
+          <l>ונפריד קצוות לא פתורים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קחי אותי הביתה </l>
+          <l>ותראי לי שם שמיים כחולים </l>
+          <l>קחי אותי הביתה </l>
+          <l>כן והלאה מה </l>
+          <l>כבר לא שואלים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בואי ניקח הכל יותר לאט </l>
+          <l>ונלך בין הטיפות </l>
+          <l>אם נדע לראות בבת אחת </l>
+          <l>שאפשר עם זה לחיות </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בואי נפתח חלון אל המחר </l>
+          <l>ונשאיר סימן קטן בחיים </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>קחי אותי הביתה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

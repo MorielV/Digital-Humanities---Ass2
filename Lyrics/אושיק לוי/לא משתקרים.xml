@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא משתקרים</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>איתן גלס</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא משתקרים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>התעייפנו, התייאשנו</l>
+          <l>נהפכנו אדישים</l>
+          <l>אפשר בשקט לשקר אותנו</l>
+          <l>אנחנו לא מתרגשים</l>
+          <l>אנחנו לא מתרגשים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>התעצלנו, התלבטנו</l>
+          <l>נהפכנו אדישים</l>
+          <l>אפשר בשקט - לאלף אותנו</l>
+          <l>אנחנו לא מתקוממים</l>
+          <l>אנחנו לא מתקוממים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מקניה לקניה</l>
+          <l>מרכישה לרכישה</l>
+          <l>מחמדנות שכחנו</l>
+          <l>שהחיים קדושים</l>
+          <l>כאוויר לנשימה</l>
+          <l>מקניה לקניה</l>
+          <l>מרכישה לרכישה</l>
+          <l>מחשדנות שכחנו</l>
+          <l>שהחיים יפים</l>
+          <l>אויר לנשימה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הסתאבנו, התרגלנו</l>
+          <l>נהפכנו אדישים</l>
+          <l>אפשר בשקט לבייש אותנו</l>
+          <l>אנחנו לא מתביישים</l>
+          <l>אנחנו לא מתביישים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מקניה לקניה...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>התעייפנו, התייאשנו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בעיר זרה</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אהוד מנור</writer>
+        <composer>יוחנן זראי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בעיר זרה</head>
+        <lg number="1" type="stanza">
+          <l>אני סובב ברחובות</l>
+          <l>ללא מכר ללא כתובות</l>
+          <l>לעיר הזאת אין סוף, אין קץ</l>
+          <l>בכל פנה צומח עץ</l>
+          <l>ההיא שם בשמלה כתמה</l>
+          <l>כבר מחכה שעה תמימה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פנס דוהה בכיכר</l>
+          <l>לפתע חם לי וקר</l>
+          <l>אם לא אברח לי כעת</l>
+          <l>העיר עלי תתמוטט</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני מודד את הכבישים</l>
+          <l>סופר בתים ואנשים</l>
+          <l>הצלליות ממהרות</l>
+          <l>מתרחקות ונשברות</l>
+          <l>ההיא שם בשמלה כתומה</l>
+          <l>בנתה לה מסביבה חומה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פנס דוהה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני מביט לעננים</l>
+          <l>אבל רואה רק בנינים</l>
+          <l>שלטים בניאון מסנוור</l>
+          <l>חדים חידות ואין פותר</l>
+          <l>ההיא שם בשמלה כתמה</l>
+          <l>כבר נעלמה, כבר נעלמה....</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>פנס דוהה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איזבל 2</title>
+        <singer classification="unknown">איריס קרצר</singer>
+        <writer>דוד הררי</writer>
+        <composer>איריס קרצר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איזבל</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>בעוד שעה הכל יהיה אחרת</l>
+          <l>בעוד שעה יגיעו המורדים,</l>
+          <l>ואותי איזבל בת בתו של מלך</l>
+          <l>אותי השלך ישליכו לכלבים. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בעוד שעה נצחת אליהו</l>
+          <l>קדרות הדת תשוב כאן שוב לשלוט</l>
+          <l>בשם הדת מותר לרדוף לרצוח, </l>
+          <l>הן אצלכם הכל זה רק מצוות. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בעוד דקה אשים לי פוח בעפפיים</l>
+          <l>ולארגמן אחליף לי השמלה</l>
+          <l>לבל יראו רוצחי צרי העין</l>
+          <l>בת מלך צידונים ברגע חרדה. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בעוד שעה העם מוכה האלם</l>
+          <l>שוב ישלט בכת של קנאים</l>
+          <l>ואל קודר קנאי בשם שמיים</l>
+          <l>יגבר על פולחן עליז של פסלונים. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ונהר דם ישפך בשם אלוה</l>
+          <l>בשם הדת, בשם קודשי אומה</l>
+          <l>אולם הדם ישוב בכם לפגוע</l>
+          <l>פי אלף מונים ורק בכם אשמה. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בעוד שעה הכל יהיה אחרת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

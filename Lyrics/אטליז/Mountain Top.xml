@@ -1,0 +1,36 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mountain Top</title>
+        <singer classification="band">אטליז</singer>
+        <writer>גיא בן שיטרית</writer>
+        <composer>לי טריפון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Mountain Top</head>
+        <lg number="1" type="stanza">
+          <l>Wish me well while I’m sick, tied my Hands </l>
+          <l>Kiss me please while I’m sleep </l>
+          <l>I drew my pet’s dreams in my eyes x 2</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

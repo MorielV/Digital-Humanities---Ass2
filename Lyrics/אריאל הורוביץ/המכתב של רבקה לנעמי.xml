@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המכתב של רבקה לנעמי</title>
+        <singer classification="male singer">אריאל הורוביץ</singer>
+        <writer>אריאל הורוביץ</writer>
+        <composer>אריאל הורוביץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המכתב של רבקה לנעמי</head>
+        <lg number="1" type="stanza">
+          <l>יום העבודה נגמר וירדתי לכנרת</l>
+          <l>לענות על מכתבך ילדתי הקטנה </l>
+          <l>קשה לך שם עכשיו בעיר בה את לומדת </l>
+          <l>קשה כמו שקשה תמיד בכל התחלה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza" />
+        <lg number="3" type="stanza">
+          <l>רוח מתחילה לעלות וכבר סוער הים </l>
+          <l>כמו שסוערת נפשך שהיא נפש אמן </l>
+          <l>ובלב הים פתאום אני רואה סירה </l>
+          <l>ועליה דייג אחד שנלחם בסערה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza" />
+        <lg number="5" type="stanza">
+          <l>מה יעשה הדייג - מה הוא יכול לעשות </l>
+          <l>כדי שהסירה תגיע אל החוף </l>
+          <l>יש רק דבר אחד שיעמוד בסערה </l>
+          <l>אם הוא יוסיף מטען לבטן הסירה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza" />
+        <lg number="7" type="stanza">
+          <l>זו ילדתי התשובה גם לסערת נפשך </l>
+          <l>הלימודים שלך הם המטען על סיפונך </l>
+          <l>כאן פועלים עייפים כבר צמאים לשיר שלך </l>
+          <l>אבל את עוד צריכה לחתור </l>
+          <l>דרך כל הפוגות של באך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

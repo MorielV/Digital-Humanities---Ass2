@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה יוצא</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה יוצא</head>
+        <lg number="1" type="stanza">
+          <l>מה יוצא מהגשם אדם? הרבה יוצא לעולם מהגשם</l>
+          <l>מה יוצא מהשמש אדם? הרבה יוצא לעולם מהשמש</l>
+          <l>מה יוצא ממך בנאדם? כאן רובה - שם אקדח- מה הפשר?</l>
+          <l>מה יוצא לך בנאדם? מה יוצא לעולם מהשקר? </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני בא בחשבון עם מומחי ביטחון שגרמו לי לחיות את הפחד</l>
+          <l>גם הלילה כמו כל לילה נשתכר</l>
+          <l>מכוס של משקה או ירוק מרפא בבריחה אין סופית אל היעד</l>
+          <l>שם אין פחד בואי יחד נשתחרר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה יצא לך בנאדם אם תשב לדבר על שלום?</l>
+          <l>טוב יצא לכול העולם ולך יתגשם החלום</l>
+          <l>שב דבר יפה בנאדם הרובה האקדח הם טעות</l>
+          <l>מי שחי על חרב אדם הוא על חרב יפול וימות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני בא בחשבון עם מומחי ביטחון שגרמו לי לחיות את הפחד</l>
+          <l>גם הלילה כמו כל לילה נשתכר</l>
+          <l>מכוס של משקה או ירוק מרפא בבריחה אין סופית אל היעד</l>
+          <l>שם אין פחד בואי יחד נשתחרר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

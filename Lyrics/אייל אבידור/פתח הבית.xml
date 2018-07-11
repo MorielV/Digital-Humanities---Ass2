@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פתח הבית</title>
+        <singer classification="unknown">אייל אבידור</singer>
+        <writer>אייל אבידור</writer>
+        <composer>אייל אבידור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פתח הבית</head>
+        <lg number="1" type="stanza">
+          <l>פתח הבית גינה ועצים קטנים </l>
+          <l>כל העולם כולו. </l>
+          <l>וקרן של שמש מבעד לעננים </l>
+          <l>כל העולם כולו. </l>
+          <l>פרחים של יסמין לבן </l>
+          <l>עוגיות וקפה קטן </l>
+          <l>מעל הקיר אל תוך האויר </l>
+          <l>לאט מסטלסל עשן. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שולחן ומפה גדולה </l>
+          <l>תהילים וסידור תפילה </l>
+          <l>גיטרה קטנה לבד בפינה </l>
+          <l>מאז שעצר הזמן. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מביט לשמיים אלפי כוכבים נופלים </l>
+          <l>כל העולם כולו. </l>
+          <l>אור בעינייך האור המתוק שבי </l>
+          <l>כל העולם כולו. </l>
+          <l>מקיץ מחלון ישן </l>
+          <l>אל יום שהלכת מכאן </l>
+          <l>הרוח רעד וגשם ירד </l>
+          <l>מבלי להשאיר סימן. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שולחן ומפה גדולה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מתוך הזהיה והשער לאט נפתח </l>
+          <l>כל מה שהיה זה בשביל החיוך שלך </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>פתח הבית גינה ועצים קטנים </l>
+          <l>כל העולם כולו.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

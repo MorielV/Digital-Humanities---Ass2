@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מביטה בחלון</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>רוחות טובות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מביטה בחלון</head>
+        <lg number="1" type="stanza">
+          <l>מביטה בחלון עכשיו ורואה אותו פוסע</l>
+          <l>בשבילים הצהובים שייבשו עד תום</l>
+          <l>תרמילו על הגב המכופף ומבט נוגה על שפתיו</l>
+          <l>מעיין של דם ודמעות מלווים אותו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מסתכל על אותו הירח והיא בו מביטה</l>
+          <l>הוא מתוך הגלות והיא מהעלטה</l>
+          <l>יודע שישוב אליה, ישוב לחיקה</l>
+          <l>פתאום שומע קוראת אליו, אני עוד מחכה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מנעי קולך מבכי ועינייך מדמעה</l>
+          <l>כי דמעותייך הביאו אותם אל שלווה ונחמה </l>
+          <l>מנעי קולך מבכי ועינייך מדמעה</l>
+          <l>הביטי, רחל, הם חוזרים הביתה,</l>
+          <l>חוזרים אל אמא אדמה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>על דרך בית לחם עומדת רחל ומביטה</l>
+          <l>ורואה אותו הולך לאיטו ובעיניה דממה</l>
+          <l>יודעת שישוב לכאן בעוד אלפיים שנה</l>
+          <l>דמעות מרטיבות את לחיה ובוקעות השממה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מנעי קולך מבכי ועינייך מדמעה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מנעי את קולך מבכי, ועיניך מנעי מדמעה</l>
+          <l>כי את שנות הגלות הקשות אעבור איתם </l>
+          <l>כשיחזור למולדת אהובה ימחה דמעתך באהבה</l>
+          <l>מיוזע ועייף הוא יבוא אך ליבו אֵיתן</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>מנעי קולך מבכי ועינייך מדמעה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

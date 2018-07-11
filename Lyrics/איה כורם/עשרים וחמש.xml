@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עשרים וחמש</title>
+        <singer classification="unknown">איה כורם</singer>
+        <writer>איה כורם</writer>
+        <composer>איה כורם</composer>
+        <album>שפה זרה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עשרים וחמש</head>
+        <lg number="1" type="stanza">
+          <l>הוא זורק לי אבנים קטנות בלילה לחלון</l>
+          <l>כשאני כבר בפיג'מה ושוכבת במיטה</l>
+          <l>ואם הייתי עייפה עכשיו כבר לא אוכל לישון</l>
+          <l>הוא בא לתלות כאן רסיסים קטנים של טל.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני קצת חוששת, מטפסת לחלון לאט,</l>
+          <l>עכשיו רק להניח את הרגל באויר</l>
+          <l>והוא צוחק ממני קצת, אבל לי זה לא אכפת</l>
+          <l>ורק לתת לו יד לעוף מעל העיר.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הוא לא יבוא הלילה לחלון</l>
+          <l>משומקום הוא שוב שומע קול תיקתוק שעון</l>
+          <l>והוא כבר לא קורא לי, </l>
+          <l>רק לפעמים אולי לוחש,</l>
+          <l>וגם אני כבר לא ילדה בת עשרים וחמש.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל ההרים הרחוקים ואל היערות</l>
+          <l>אל כל המקומות האחרים</l>
+          <l>מעבר למשק כנפי הציפורים המוזרות</l>
+          <l>האגמים הירוקים הזוהרים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אבק פיות לא יעזור שום קסם בעולם</l>
+          <l>והוא מזמן כבר לא נלחם בשודדים.</l>
+          <l>הוא עף גבוה ורחוק, הוא לא חוזר אלי משם</l>
+          <l>לבד עם כל הילדים האבודים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הוא לא יבוא הלילה לחלון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

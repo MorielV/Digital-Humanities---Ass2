@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קצב הזמן</title>
+        <singer classification="band">אבטיפוס</singer>
+        <writer>שרון הולצמן</writer>
+        <composer>שרון הולצמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קצב הזמן</head>
+        <lg number="1" type="stanza">
+          <l>תקראי לי הלילה לבוא</l>
+          <l>אני לא אבין</l>
+          <l>אשה שלי, לאן הלכת</l>
+          <l>מוצאת את עצמה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איזו תחבולה נפלאה</l>
+          <l>שבאה ועולה</l>
+          <l>שורטת אותי, שורטת אותה</l>
+          <l>באה ועולה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה קצב הזמן</l>
+          <l>זה תנועות האגן</l>
+          <l>בתוך מישהי שאין לה עניין</l>
+          <l>קצב הזמן</l>
+          <l>זה תנועות האגן</l>
+          <l>שלי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>משהו חם מולחם</l>
+          <l>בתוך כסא הגלגלים של טיפש הכפר</l>
+          <l>הוא מכין את השולחן</l>
+          <l>במיוחד בשביל המשרתים הרזים</l>
+          <l>זה טיפש הכפר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זה קצב הזמן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

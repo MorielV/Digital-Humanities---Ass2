@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בית אבי</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>חיים חפר</writer>
+        <composer>אקורדים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בית אבי</head>
+        <lg number="1" type="stanza">
+          <l>מקצווי אותה שכונה דרומית</l>
+          <l>בית אבי חוזר אל חלומי</l>
+          <l>עם שעות יפות של חסד</l>
+          <l>והקיץ במרפסת</l>
+          <l>בית אבי חוזר אל חלומי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שם עומד הוא בין הדוכנים</l>
+          <l>בענן ענוג של תבלינים</l>
+          <l>בין שקים על המדרכת</l>
+          <l>שמהם הביא פת לחם</l>
+          <l>שם עומד הוא בין הדוכנים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בית אבי יושב אל השולחן</l>
+          <l>בין ימים של חול ויום של חג</l>
+          <l>בתפילות של בין ערביים</l>
+          <l>על הלחם על הבית</l>
+          <l>בית אבי יושב אל השולחן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כן, הנה בית אבי יושב אל השולחן</l>
+          <l>הנה הוא בית אבי עומד עדיין שם</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואבי עומד עדיין שם</l>
+          <l>אך ללא בניו ובלי יורשיו</l>
+          <l>ואני זוכר עדיין ריח תבלינים וקיץ</l>
+          <l>בית אבי עומד עדיין שם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

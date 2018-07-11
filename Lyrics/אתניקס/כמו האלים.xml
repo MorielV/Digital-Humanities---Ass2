@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו האלים</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו האלים</head>
+        <lg number="1" type="stanza">
+          <l>את קשורה לאדמה, </l>
+          <l>נוגעת במים אפורים </l>
+          <l>בקצות האצבעות </l>
+          <l>שלא נותנות תחושה </l>
+          <l>רוקעת, קובעת </l>
+          <l>מתנדפת כמו חנקן </l>
+          <l>בגבול האפשרות </l>
+          <l>גבול בלי מחסומים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רוקדת, רוקדת </l>
+          <l>מסתובבת סביב עצמך </l>
+          <l>ריקוד האש </l>
+          <l>רוקדת, רוקדת </l>
+          <l>ממשיכה לשלוט בגוף רעב </l>
+          <l>כמו האלים </l>
+          <l>כמו האלים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את חולפת כמו סופה </l>
+          <l>אוספת את כל שברי גופי </l>
+          <l>גם את קצות האצבעות, </l>
+          <l>שלא נותנות תחושה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רוקדת, רוקדת... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את קשורה לאדמה </l>
+          <l>נוגעת במים עכורים </l>
+          <l>בקצות האצבעות </l>
+          <l>שלא נותנות תחושה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רוקדת, רוקדת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

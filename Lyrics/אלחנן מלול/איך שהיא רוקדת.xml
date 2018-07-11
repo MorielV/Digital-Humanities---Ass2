@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך שהיא רוקדת</title>
+        <singer classification="unknown">אלחנן מלול</singer>
+        <writer>אריק לוגסי</writer>
+        <composer>אסף צרויה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך שהיא רוקדת</head>
+        <lg number="1" type="stanza">
+          <l>שעות היא מול המראה</l>
+          <l>איפור כבד שמלה קצרה</l>
+          <l>גרביון מזמין </l>
+          <l>מגף עור תנין </l>
+          <l>את כל כך שונה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יוצאת היא אל הסלון</l>
+          <l>סוגרת את החלון</l>
+          <l>מוציאה את הטיפ דאבל קסט</l>
+          <l>עכשיו היא תתן לנו סט</l>
+          <l>את כל כך שונה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איך שהיא רוקדת אהה</l>
+          <l>מזיזה תנה נה נה נה </l>
+          <l>די תפסיקי להשוויץ ותראי תציץ</l>
+          <l>לילה בא בא לי בא לה מסיבה </l>
+          <l>די תפסיקי להזיז </l>
+          <l>את לא שרון חזיז</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עכשיו היא כבר הפוכה</l>
+          <l>בסטלה חרפה כה יפה</l>
+          <l>ואין מי שאותה יספק</l>
+          <l>רק הרוקט פוקט</l>
+          <l>וואלק אחושרטוטה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>איך שהיא רוקדת...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כל כך רוצה כל כך מנסה</l>
+          <l>מחכה לך למטה ולא במקרה</l>
+          <l>לי לא נמאס אם תיתני לי רק צ'אנס</l>
+          <l>אני לך נשבע שלעולם לא</l>
+          <l>לעולם לא אשכח</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>איך שהיא רוקדת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

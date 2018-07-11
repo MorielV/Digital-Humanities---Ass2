@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מבקשים חיים 2</title>
+        <singer classification="unknown">אלי לב</singer>
+        <writer>ציון שרעבי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מבקשים חיים</head>
+        <lg number="1" type="stanza">
+          <l>ילדים בדרך ניצנים קטנים</l>
+          <l>שואלים מדוע הפרחים נובלים</l>
+          <l>שואפים למעלה כמו לעננים</l>
+          <l>מנסים להתקיים ומבקשים חיים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נערים בדרך מחפשים נתיב</l>
+          <l>מביטים ברגש על פריחת אביב</l>
+          <l>שואפים למעלה כמו לעננים</l>
+          <l>מנסים להתקיים ומבקשים חיים -</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אלוהים שומע את בכי הלב</l>
+          <l>משתתף בצער חש את הכאב</l>
+          <l>מרחם כמו אבא רוב הזמן אוהב</l>
+          <l>לפעמים קוטף גם פרח מלבלב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אנשים בדרך שואלים מתי</l>
+          <l>ייפסק הרשע, די לחרב די</l>
+          <l>הם נושאים כפיים אל האלוהים</l>
+          <l>מנסים להתקיים ומבקשים חיים -</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אלוהים שומע את בכי הלב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פרדי</title>
+        <singer classification="band">איסתרא</singer>
+        <writer>יאיר בן ישראל</writer>
+        <composer>יאיר בן ישראל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פרדי</head>
+        <lg number="1" type="stanza">
+          <l>עומד עם התמונה של האגם שראיתי בסרט</l>
+          <l>הולך איזה מאה מטר ונופל במדרגה</l>
+          <l>הזקנים מספרים שהייתה פה כינרת</l>
+          <l>אבל לי זה לא עוזר להירגע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לפני שלושים שנה זה הכל היה אחרת</l>
+          <l>וכשחוצים בתוך הסבך מדמיינים אולי שניה</l>
+          <l>לו רק היית פה תראי על מה את מוותרת</l>
+          <l>פרדי מסכים המיטה עוד חמה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>פרדי אומר זה לא מקום טוב</l>
+          <l>אבל אני מעדיף להתעלם ולשכוח</l>
+          <l>זה לא מקום טוב ולי לא אכפת</l>
+          <l>פרדי אומר זה לא מקום טוב</l>
+          <l>אבל אני מעדיף להתעלם ולצרוח</l>
+          <l>זה לא מקום טוב אני לא נרגע, לא נרגע</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חולם יותר מדי מנסה להפסיק</l>
+          <l>זה לא מצחיק זה כבר מתחיל לשרוף</l>
+          <l>מביט לשמים מנגן מפוחית</l>
+          <l>איך שבלעדייך... זה לא מקום טוב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>פרדי אומר זה לא מקום טוב...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>נפסיק לחפש אין שום תועלת</l>
+          <l>מוציא את המפתח מהסוויץ'</l>
+          <l>זה חושך אמיתי לחשוב</l>
+          <l>אולי עמוק בפנים נמצא...</l>
+          <l>לא טרחו לשים פה שלט</l>
+          <l>פרדי אומר שהוא עדיין חושב ש...</l>
+          <l>אני אומר לו "עזוב"</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>פרדי אומר זה לא מקום טוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

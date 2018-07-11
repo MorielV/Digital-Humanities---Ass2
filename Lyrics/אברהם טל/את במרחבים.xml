@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את במרחבים</title>
+        <singer classification="male singer">אברהם טל</singer>
+        <writer>אברהם טל</writer>
+        <composer>אברהם טל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את במרחבים</head>
+        <lg number="1" type="stanza">
+          <l>מילות השיר:</l>
+          <l>את במרחבים</l>
+          <l>מתוך כאב גדול</l>
+          <l>נשארת השלמה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מתוך השאלות</l>
+          <l>התהיות והפחדים</l>
+          <l>נשארת השלמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המראת מעל הכל</l>
+          <l>פרשת כנפיים</l>
+          <l>חזרת אל המקור</l>
+          <l>אין כבר שאלות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בלי לדעת למה</l>
+          <l>בלי לדעת לאן</l>
+          <l>את הולכת</l>
+          <l>שלמה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

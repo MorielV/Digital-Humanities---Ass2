@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Postcard</title>
+        <singer classification="male singer">אלי לס</singer>
+        <writer>אלי לס</writer>
+        <composer>אלי לס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Postcard</head>
+        <lg number="1" type="stanza">
+          <l>Send you a postcard </l>
+          <l>From a place you'll never like </l>
+          <l>The day it will snow hard </l>
+          <l>I'm pissed around a wrinkled line </l>
+          <l>Can't find my own stuff </l>
+          <l>You're like the passport in my drawer </l>
+          <l>Being so peaceful </l>
+          <l>You're like a cloud inside my car</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

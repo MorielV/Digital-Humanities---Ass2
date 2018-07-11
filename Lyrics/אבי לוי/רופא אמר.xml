@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רופא אמר</title>
+        <singer classification="unknown">אבי לוי</singer>
+        <writer>אבי לוי</writer>
+        <composer>אבי לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רופא אמר</head>
+        <lg number="1" type="stanza">
+          <l>בה התאהבתי לא רוצה עליה לוותר</l>
+          <l>געגועי אליה עזים יותר</l>
+          <l>את יופיה מדמיין אני בכל מקום</l>
+          <l>ביום בליל אפילו בחלום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רופא אמר לי</l>
+          <l>ולא עזר לי</l>
+          <l>אתה חולה מאהבה</l>
+          <l>כבר השתגעתי</l>
+          <l>כי לא ידעתי</l>
+          <l>כי אין תרופה למחלה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שאלתי חברים מה עושים בה מאוהב</l>
+          <l>לא רוצה לא כסף ולא זהב</l>
+          <l>גם אם תביאו לי ארמון גדול לא מתפתה</l>
+          <l>רוצה אותה ויחד נשתתה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רופא אמר לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

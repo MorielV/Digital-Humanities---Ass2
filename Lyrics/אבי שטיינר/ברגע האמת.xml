@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברגע האמת</title>
+        <singer classification="unknown">אבי שטיינר</singer>
+        <writer>אבי שטיינר</writer>
+        <composer>תמיר קליסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברגע האמת</head>
+        <lg number="1" type="stanza">
+          <l>אני עומד כאן מחכה לך</l>
+          <l>ומביט אל האורות שזוהרים סביב לי</l>
+          <l>את ניצבת ואור עינייך </l>
+          <l>משגע כמו ברק נוצץ אלי</l>
+          <l>מושיט לך יד היינו לאחד</l>
+          <l>דמעות של התרגשות זולגות לי בקלות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את מדהימה אותי</l>
+          <l>את היחידה שבחיי</l>
+          <l>אין לי עתיד אין לי עבר בלעדייך</l>
+          <l>ועכשיו אל מול כולם </l>
+          <l>אני אתן לך את מה שבלב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו מלאך כל כך יפה את</l>
+          <l>ונשלחת להאיר לי את כל החיים</l>
+          <l>בלב פועם עומד נרגש</l>
+          <l>מאוהב בך ברגע האמת שלנו </l>
+          <l>אושיט לך יד היינו לאחד </l>
+          <l>דמעות של התרגשות זולגות לי בקלות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את מדהימה אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

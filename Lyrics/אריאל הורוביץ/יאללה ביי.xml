@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יאללה ביי</title>
+        <singer classification="male singer">אריאל הורוביץ</singer>
+        <writer>אריאל הורוביץ</writer>
+        <composer>אריאל הורוביץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יאללה ביי</head>
+        <lg number="1" type="stanza">
+          <l>ובערב אצל אחותי</l>
+          <l>במרפסת הלבנה</l>
+          <l>היא סיפרה לי בפרטי פרטים</l>
+          <l>איך עזב הבן זונה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אז אמרתי יש כמה כללים</l>
+          <l>שתמיד שומרים עלי</l>
+          <l>תני לי רק לתרום לך שתי מילים</l>
+          <l>יאללה ביי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא, אל תעשי לו סצנה</l>
+          <l>לא, זה לא כדאי</l>
+          <l>אם זה גמור תאמרי לבחור</l>
+          <l>אמרת שדי אז יאללה ביי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זה נכון שהוא תמיד עשה</l>
+          <l>אוכל סיני וגם פאי</l>
+          <l>אז תאכלי החודש מקופסא</l>
+          <l>ויאללה ביי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא, אל תעשי לו סצנה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>שאף פעם את לא תבקשי</l>
+          <l>"תן לי רק עוד צ'אנס אולי"</l>
+          <l>אז יהיו לך קצת ימים קשים</l>
+          <l>ויאללה ביי!</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>לא אל תעשי לו סצינה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשישבה ליד הנחל</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>ברטולד ברכט</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשישבה ליד הנחל</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>כשישבה ליד הנחל לכבס את הסדינים</l>
+          <l>את דמותו רואה בזרם ופניו מטושטשים</l>
+          <l>עם חלוף החודשים, עם חלוף הימים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשהיא קמה וסחטה את הסדינים הלבנים</l>
+          <l>את דמותו אז היא רואה עם הרוח בעלים</l>
+          <l>וקולו נחלש עם חלוף הימים</l>
+          <l>והילד גדל עם חלוף השנים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כשישבה ליד הנחל לכבס את הסדינים</l>
+          <l>זיעתה ודמעותיה אל המים ניגרים</l>
+          <l>אנחותיה נבלעות עם קול הרוח בעלים</l>
+          <l>עם חלוף הימים, עם חלוף השנים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשישבה ליד הנחל לכבס את הסדינים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

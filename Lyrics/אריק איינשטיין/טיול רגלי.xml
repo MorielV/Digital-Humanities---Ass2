@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טיול רגלי</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>דן תורן</writer>
+        <composer>פיטר רוט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טיול רגלי</head>
+        <lg number="1" type="stanza">
+          <l>את ואני</l>
+          <l>הולכים יד ביד</l>
+          <l>את מראה לי בית ישן</l>
+          <l>הולכים לאט, הולכים לאט </l>
+          <l>יופי של טיול.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני מקשיב</l>
+          <l>ואת מפליגה בסיפור על ילדות רחוקה</l>
+          <l>ויש לי זמן</l>
+          <l>אני מוכן לעצור לשבת בגן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה טיול קצר</l>
+          <l>טיול רגלי</l>
+          <l>זה רגע מאושר</l>
+          <l>טיול קצר... </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ערב יורד ושנינו יודעים</l>
+          <l>זמן לחזור הביתה</l>
+          <l>אני ואת</l>
+          <l>הולכים לאט</l>
+          <l>זה כל הסיפור. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זה טיול קצר</l>
+          <l>טיול רגלי </l>
+          <l>זה רגע מאושר </l>
+          <l>טיול קצר... </l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

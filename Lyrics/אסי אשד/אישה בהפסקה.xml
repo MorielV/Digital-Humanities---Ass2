@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה בהפסקה</title>
+        <singer classification="unknown">אסי אשד</singer>
+        <writer>אלון גולדשטיין</writer>
+        <composer>אסי אשד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה בהפסקה</head>
+        <lg number="1" type="stanza">
+          <l>היא הולכת, נעלמת כל יום כל דקה </l>
+          <l>לא אוכלת, משתדלת להעריב את עצמה </l>
+          <l>כל הזמן מדמיינת שקוראים לה שמנה </l>
+          <l>המראה לא עוזרת זה בתת- הכרה </l>
+          <l>את האימא שואלת איך להיות חזקה </l>
+          <l>אך ת'דלת נועלת עד הבוקר הבא </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היא בת עשרים וארבע </l>
+          <l>משהו כבר מזמן נשבר בה </l>
+          <l>עשרים וארבע </l>
+          <l>משהו כבר מזמן נשבר בה </l>
+          <l>שוקלת ארבעים קילוגרם </l>
+          <l>שימותו כולם </l>
+          <l>לא מוצאת בזה פגם </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מסניפה את הריח אך בראש עדיין חישוב </l>
+          <l>לא פותחת שום פתח לקבל פחמימה בחיוב </l>
+          <l>כורעת בלי מתח מקיאה לביוב </l>
+          <l>רק אצלה זה שמח, לכולם זה עצוב </l>
+          <l>לא חושבת על נצח כי מה זה חשוב </l>
+          <l>לא לומדת ת'לקח אם תלך לא תשוב </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היא בת עשרים וארבע </l>
+          <l>משהו כבר מזמן נשבר בה </l>
+          <l>עשרים וארבע </l>
+          <l>משהו כבר מזמן נשבר בה </l>
+          <l>שוקלת ארבעים קילוגרם </l>
+          <l>שימותו כולם </l>
+          <l>לא מוצאת בזה פגם </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ממחר אני אחרת </l>
+          <l>כל יום מבטיחה </l>
+          <l>אך בבוקר מתחרטת </l>
+          <l>ושוב מקיאה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

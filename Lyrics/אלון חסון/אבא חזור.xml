@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבא חזור</title>
+        <singer classification="unknown">אלון חסון</singer>
+        <writer>אלון חסון</writer>
+        <composer>אלון חסון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבא חזור</head>
+        <lg number="1" type="stanza">
+          <l>אל נא תלך לבד אימי </l>
+          <l>מול דמעה שלה שוברת אותי </l>
+          <l>אל תעזוב עלי חשוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הדמעה שבעיני אבא חזור חזור אלי</l>
+          <l>אנא חזור למשפחה אמא בוכה </l>
+          <l>יום יבוא זה ייסגר אבא בוא אתה חסר </l>
+          <l>שוב אל הקן שלך שוב אל בנך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתם רבים לא מתסדרים </l>
+          <l>אנו הילדים אנו סובלים </l>
+          <l>אנא חיזרו כמו בעבר </l>
+          <l>לפעמים מתווכחים אבל אבא נשאר </l>
+          <l>אל תעזוב עלי חשוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הדמעה שבעיני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

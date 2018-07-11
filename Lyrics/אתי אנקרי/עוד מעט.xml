@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד מעט 2</title>
+        <singer classification="female singer">אתי אנקרי</singer>
+        <writer>שמוליק קלוסקי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד מעט</head>
+        <lg number="1" type="stanza">
+          <l>עוד מעט נהיה לבד</l>
+          <l>אור הנר רועד יאיר את שנינו</l>
+          <l>חום מוכר יציף לאט גופנו</l>
+          <l>עיר גדולה תישן בחלונך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה בינינו יש עכשיו</l>
+          <l>שניים רק, בדרך אל הטעם</l>
+          <l>אהבה שתישאר כמו פעם</l>
+          <l>מה בינינו חוץ מאהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואז אני איתך</l>
+          <l>ואז אתה איתי</l>
+          <l>עם כל החלומות</l>
+          <l>וכל המרחקים</l>
+          <l>וכל האהבה שלנו</l>
+          <l>הכל יהיה שליו</l>
+          <l>רק אתה ואני ובוקר עולה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד מעט יהיה יפה</l>
+          <l>תדבר אלי בשתי עיניך</l>
+          <l>את הדרך בה אבוא אליך</l>
+          <l>נאבד, נהיה פתאום אחד.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוד מעט יבוא האור</l>
+          <l>עיר גדולה תפתח את דלתותיה</l>
+          <l>ובדרך שאתה יודע</l>
+          <l>אהבה של שניים ממשיכה..</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואז אני איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

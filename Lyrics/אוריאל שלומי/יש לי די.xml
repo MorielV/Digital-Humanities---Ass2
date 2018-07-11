@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לי די</title>
+        <singer classification="male singer">אוריאל שלומי</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לי די</head>
+        <lg number="1" type="stanza">
+          <l>בך מצאתי מה שטוב לי,</l>
+          <l>את האור ואת הטעם ומילאת חיי.</l>
+          <l>בלעדייך מר ורע לי,</l>
+          <l>רק איתך, ילדונת, נפלאו ימי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש לי די בידי וליבי טוב עלי.</l>
+          <l>ינעמו לי חיי בלכתך אחרי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא חפצתי באחרת</l>
+          <l>כי אותך שלח אלוה להאיר פני.</l>
+          <l>אהבה שבי גוברת</l>
+          <l>ואני יודע, את מאור-עיני.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

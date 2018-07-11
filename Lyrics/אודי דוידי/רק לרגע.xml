@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק לרגע</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>רוחות טובות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק לרגע</head>
+        <lg number="1" type="stanza">
+          <l>כמו כולם גם אנחנו רצים ורודפים </l>
+          <l>כמו עכבר במבוך מסובך </l>
+          <l>שוכחים לפעמים את מטרת החיים </l>
+          <l>החיוך מאליו גם נשכח</l>
+          <l>בוא אחי נעצור ונביט לפנים </l>
+          <l>ננגב עוד דמעה מוזרה </l>
+          <l>ונזכור שיש מישהו שם בשחקים </l>
+          <l>שמושיט לי ידו לעזרה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז בוא נעצור את מרוץ החיים רק לרגע </l>
+          <l>ונביט מלמעלה נראה מה קורה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל אחד מחפש לו פינה בנשמה </l>
+          <l>שיוכל שם לשתול קצת שמחה </l>
+          <l>להפריח קצת צחוק להפסיק לרדוף </l>
+          <l>לשבת רגע במנוחה </l>
+          <l>אנשים שרצים ובורחים מהצל </l>
+          <l>מהצל של עצמם שרודף </l>
+          <l>מחפשים רק לרגע מקום בו יוכלו </l>
+          <l>לשחרר את ליבם הכואב </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז בוא נעצור את מרוץ החיים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תנסה להגיד יה - יה - יה ותראה </l>
+          <l>מסביבך שוב חיוך שכזה </l>
+          <l>תנסה לחייך ותראה איך הצחוק </l>
+          <l>יתפרץ מליבך הדווה </l>
+          <l>תעצור את מרוץ החיים ותראה </l>
+          <l>שכולם נפגשים ברמזור </l>
+          <l>אם נוסיף רק חיוך למרוץ שכזה </l>
+          <l>אז נגיע ישר אל האור </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז בוא נעצור את מרוץ החיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

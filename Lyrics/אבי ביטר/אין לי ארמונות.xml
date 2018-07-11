@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין לי ארמונות</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>אבי ביטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין לי ארמונות</head>
+        <lg number="1" type="stanza">
+          <l>את חושבת שאני המשחק שלך</l>
+          <l>את סיפרת לי סיפורים האמנתי לך</l>
+          <l>את אמרת שאת אוהבת התאבהתי בך</l>
+          <l>לא יודע מה - מה מצאתי בך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה היה הקסם שאותי משך</l>
+          <l>הייתי כמו אלכוהוליסט, לנשיקות שלך</l>
+          <l>קשרתי ת'גורל שלי בגורל שלך,</l>
+          <l>קסם האהבה איך אותי משך</l>
+          <l>קסם האהבה אותי משך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין לי ארמונות להגשים לך חלומות</l>
+          <l>יש לי לב אחד פוחד מאכזבות</l>
+          <l>די גמרת עלי לא יכול לחיות</l>
+          <l>יש לי רק לב אחד פוחד מאכזבות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני אוהב אותך סוכריה שלי</l>
+          <l>מאותו מבט ראשון איך כישפת אותי</l>
+          <l>די עם הברזים וכל המשחקים</l>
+          <l>לא בנוי לאכזבות ולתירוצים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זה היה הקסם שאותי משך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

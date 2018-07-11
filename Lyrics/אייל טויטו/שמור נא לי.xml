@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמור נא לי</title>
+        <singer classification="unknown">אייל טויטו</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>רמי לב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמור נא לי</head>
+        <lg number="1" type="stanza">
+          <l>בוקר בא והחמה זורחת </l>
+          <l>ועוד יום עולה שוב מחדש </l>
+          <l>הבריאה אל מול עיני מונחת </l>
+          <l>ואני מביט ונרגש </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שמחה בלב ואור עיניים</l>
+          <l>שנדע ימים יותר יפים </l>
+          <l>קצת שלווה וברכת שמיים </l>
+          <l>יותר מזה אנחנו לא צריכים!</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אלוקים, אלוקים אנא שמור נא לי</l>
+          <l>שמור נא לי על תקווה בנפש </l>
+          <l>אלוקים בזכותך החיים שלי </l>
+          <l>נוגעים בתקווה הנכספת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לילה בא ואפלה יורדת </l>
+          <l>ים של כוכבים מאיר בחום </l>
+          <l>על מתנת האל המושלמת</l>
+          <l>בליבי מודה אני כל יום </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שמחה בלב ואור </l>
+          <l>שנדע ימים יותר יפים </l>
+          <l>קצת שלווה וברכת שמיים </l>
+          <l>יותר מזה אנחנו לא צריכים!</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אלוקים, אלוקים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

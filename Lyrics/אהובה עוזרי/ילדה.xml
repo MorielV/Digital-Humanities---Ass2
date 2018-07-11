@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילדה 3</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילדה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>ילדה את לי הקשת בענן</l>
+          <l>ילדה לי את אוצר</l>
+          <l>ילדה את לי השמש בחיי</l>
+          <l>ילדה את פרח בר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שמרי נפשך מכל אדם זר</l>
+          <l>ליבי דואג רק לך</l>
+          <l>הלילות קשים לי בחיי</l>
+          <l>דמותך חולמת מול עיני</l>
+          <l>השיבי לי את טעם החיים</l>
+          <l>השיבי לי אותי </l>
+          <l>חבר סיפר ברגע של חולשה</l>
+          <l>זרועות אחר חובקות אותך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ילדה את לי הקשת בענן...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כך אזכור אותך אני לעד</l>
+          <l>צוחקת עד דמעה</l>
+          <l>הלילות קרים לי בחיי</l>
+          <l>עייפה נפשי מדאגה </l>
+          <l>לילות שלמים עברנו יחדיו</l>
+          <l>חיים שלמים חלפו</l>
+          <l>לראות אותי על שולחנך הקט</l>
+          <l>מביט אני בך וכואב </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ילדה את לי הקשת בענן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

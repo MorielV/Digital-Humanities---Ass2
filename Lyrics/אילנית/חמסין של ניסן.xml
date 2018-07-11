@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חמסין של ניסן</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חמסין של ניסן</head>
+        <lg number="1" type="stanza">
+          <l>אכן אדע, זה יום ללא תמורה</l>
+          <l>ולא נפל דבר ולא ארע</l>
+          <l>ולא יבדיל בינו לבין ימים</l>
+          <l>ציון ואות אשר מטוב עד רע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ורק לשמש ריח של יסמין</l>
+          <l>ורק לאבן קול של לב פועם</l>
+          <l>ורק לערב צבע של תפוז</l>
+          <l>ורק לחול שפתיים מנשקות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך אזכרנו אלמוני סתמי</l>
+          <l>איכה אשמור חסדו הפתאומי</l>
+          <l>איך אאמין שיום אחד היה</l>
+          <l>כל ניד וריח עצם מעצמי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כי כל אילן היה מפרש רוטט</l>
+          <l>ולדממה עיניים של ילדה</l>
+          <l>ולדמעות ניחוח הלבלוב</l>
+          <l>ושם העיר כשם אהבתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

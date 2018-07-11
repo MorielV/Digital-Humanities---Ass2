@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האושר 3</title>
+        <singer classification="unknown">אסנת גונן</singer>
+        <writer>נתן יונתן</writer>
+        <composer>אסנת גונן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האושר</head>
+        <lg number="1" type="stanza">
+          <l>שום דבר לא יהיה עוד כמו שהיה</l>
+          <l>כל מה שאבד לא ישוב לתחייה</l>
+          <l>אבל משהו עז וכל כך אמיתי מחבק בי אותך</l>
+          <l>מחבק בך אותי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שום דבר לא יהיה עוד כמו שהיה</l>
+          <l>כל מה שאבד לא ישוב לתחייה</l>
+          <l>אבל משהו עז וכל כך אמיתי מחבק בי אותך</l>
+          <l>מחבק בך אותי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>האושר איננו זקוק למילים</l>
+          <l>רק אני רעבה למילת אהבה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זה הזמן שכואב לי נורא</l>
+          <l>כמו פרפר שנלכד בעיגול המנורה</l>
+          <l>משהו שרציתי כל כך ולא קרה</l>
+          <l>ולמי יש עוד כוח לחזור חזרה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>האושר איננו זקוק למילים</l>
+          <l>רק אני רעבה למילת אהבה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

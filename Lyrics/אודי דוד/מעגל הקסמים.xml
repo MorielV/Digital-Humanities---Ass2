@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מעגל הקסמים</title>
+        <singer classification="male singer">אודי דוד</singer>
+        <writer>אודי דוד</writer>
+        <composer>אודי דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מעגל הקסמים</head>
+        <lg number="1" type="stanza">
+          <l>הרחובות שקטים הלילה</l>
+          <l>מסתגר לי בחדרי</l>
+          <l>דמויות של אנשים רצות סביבי</l>
+          <l>דמויות של מלאכים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וריח האויר של יפו</l>
+          <l>מזכיר לי רגעים יפים</l>
+          <l>דמעות של אנשים נופלות לצידי</l>
+          <l>דמעות של מלאכים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואני במעגל החיים</l>
+          <l>עשוי משברים ושנינו יחד</l>
+          <l>פוגעים והורסים את מעגל הקסמים</l>
+          <l>ובוכים...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מלחמות שלמות עברנו</l>
+          <l>מבחוץ ומבפנים</l>
+          <l>וחלומות שלנו רצינו להגשים</l>
+          <l>תקוות של ילדים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואני במעגל החיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

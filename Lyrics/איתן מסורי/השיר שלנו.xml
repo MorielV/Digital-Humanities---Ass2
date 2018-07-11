@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השיר שלנו 2</title>
+        <singer classification="male singer">איתן מסורי</singer>
+        <writer>סמדר שיר</writer>
+        <composer>ציונה לירון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השיר שלנו</head>
+        <lg number="1" type="stanza">
+          <l>השיר הזה צעד איתנו בדרכים האסורות,</l>
+          <l>השיר הזה חיפש איתנו את היום והאורות</l>
+          <l>השיר הזה יצא איתנו לאלפיים שנות גלות,</l>
+          <l>השיר הזה טעם ימים של סבל עם לעצמאות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>השיר הוא שיר של יום וליל</l>
+          <l>השיר הוא שיר</l>
+          <l>מיזמור הלל</l>
+          <l>שלי שלך שלך שלי</l>
+          <l>ושל כל ארץ ישראל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השיר הזה חוזר אלינו משממה וממידבר</l>
+          <l>השיר הזה אומר דבר איש עוד קודם לא אמר.</l>
+          <l>השיר הזה חוזר איתנו יספר ולא יחדל</l>
+          <l>מהזמן של אנו באנו בין חומה ובין מיגדל.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>השיר הוא שיר של יום וליל...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>השיר הזה יושר היום יביא איתו את השלום</l>
+          <l>השיר הזה ילחש אמן כי באנו עד הלום</l>
+          <l>השיר הזה יצעד איתנו בשלום לשנת יובל</l>
+          <l>השיר שלי השיר שלך ושל כל ארץ ישראל...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>השיר הוא שיר של יום וליל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

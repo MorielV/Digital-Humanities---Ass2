@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גלשן הרוח</title>
+        <singer classification="unknown">אייל גפן</singer>
+        <writer>דודו ויזר</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גלשן הרוח</head>
+        <lg number="1" type="stanza">
+          <l>יופי רוח הגלשנים</l>
+          <l>על המים מפרשים</l>
+          <l>ים פתוח כחול גלים</l>
+          <l>במהירות הם מתקדמים</l>
+          <l>אמא אבא רחוק החוף</l>
+          <l>כאן אני גולש כמו חץ</l>
+          <l>תכף רגע הביטו איך</l>
+          <l>גל גדול אני קופץ!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא אפול, אני יכול</l>
+          <l>לדאוג אין כל סיבה</l>
+          <l>על גלשן הרוח טס</l>
+          <l>חכו אני כבר בא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יופי שמש מפרש בודד</l>
+          <l>אדום לבן הם הצבעים</l>
+          <l>גלשן ברוח עולה יורד</l>
+          <l>כואבים קצת השרירים</l>
+          <l>אין בי פחד גולש לבד</l>
+          <l>ורגלי הן איתנות</l>
+          <l>יש לי כח מחזיק חזק</l>
+          <l>בידיים שזופות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא אפול, אני יכול...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אמא אבא רחוק החוף</l>
+          <l>כאן אני גולש כמו חץ</l>
+          <l>תכף רגע הביטו איך</l>
+          <l>גל גדול אני קופץ!</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא אפול, אני יכול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

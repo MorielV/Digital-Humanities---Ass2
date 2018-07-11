@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הצב ואמא</title>
+        <singer classification="male singer">אבנר שטראוס</singer>
+        <writer>אבנר שטראוס</writer>
+        <composer>אבנר שטראוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הצב ואמא</head>
+        <lg number="1" type="stanza">
+          <l>תמיד כשאני יוצא לטיול</l>
+          <l>אני מוצא איזה צב או חתול</l>
+          <l>פעם אחרונה הבאתי הביתה גוזל</l>
+          <l>ואמא אמרה שלא אביא</l>
+          <l>יותר חיות בגלל</l>
+          <l>שזו היא שצריכה</l>
+          <l>לטפל בדרך כלל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בדיוק אתמול מצאתי צב</l>
+          <l>שהיה בשדה הפוך על הגב</l>
+          <l>הבאתי אותו אליי למרפסת</l>
+          <l>ותכף ראיתי שאמא כועסת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אמרתי לה אמא רציתי חבר,</l>
+          <l>אפשר גם לגדל אותו בחצר</l>
+          <l>אז אמא באמת את לא תופסת</l>
+          <l>שצב זו חיה מאד מנומסת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש לו בית משלו</l>
+          <l>גם לאוכל הוא דואג בעצמו</l>
+          <l>אחרי זה ראיתי</l>
+          <l>שאמא מצאה לו קופסה</l>
+          <l>אמרה שנשאיר אותה לא מכוסה</l>
+          <l>אז ראיתי שהיא מתייחסת</l>
+          <l>החלטתי שנשאיר אותו במרפסת</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בדיוק אתמול מצאתי צב</l>
+          <l>שהיה בשדה הפוך על הגב</l>
+          <l>הבאתי אותו אליי למרפסת</l>
+          <l>ותכף ראיתי שאמא כועסת</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>טוב שלפעמים אני לא מוותר</l>
+          <l>אני מדבר לפעמים זה עוזר</l>
+          <l>אני מסביר והיא מתפייסת</l>
+          <l>והיא מבינה ובסוף לא כועסת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

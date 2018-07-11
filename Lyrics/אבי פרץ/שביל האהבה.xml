@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שביל האהבה</title>
+        <singer classification="male singer">אבי פרץ</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שביל האהבה</head>
+        <lg number="1" type="stanza">
+          <l>תגידי איך פתאום</l>
+          <l>נשבר לנו חלום</l>
+          <l>ולמה הנשמה</l>
+          <l>סגורה בתוך חומה</l>
+          <l>ואיך כמו שני זרים</l>
+          <l>שאהבתם כבתה</l>
+          <l>אנחנו לא חוזרים</l>
+          <l>אל שביל האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תני לי לבוא אלייך</l>
+          <l>רק לאחוז בשתי ידייך</l>
+          <l>להביט אל תוך עינייך</l>
+          <l>לראות אם יש תקווה עדיין</l>
+          <l>תני לי לבוא אלייך</l>
+          <l>רק לאחוז בשתי ידייך</l>
+          <l>להביט אל תוך עינייך</l>
+          <l>לראות אם יש עדיין</l>
+          <l>אש בעצמותייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תגידי איך פתאום</l>
+          <l>בינינו יש תיאום</l>
+          <l>מה פשר השתיקה</l>
+          <l>שאת כה רחוקה</l>
+          <l>ואיך כמו שני דבורים</l>
+          <l>שיכים הזמן נקרע</l>
+          <l>אנחנו לא מוצאים</l>
+          <l>את שביל האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תני לי לבוא אלייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

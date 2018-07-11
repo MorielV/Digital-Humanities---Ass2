@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סוסים רתומים</title>
+        <singer classification="male singer">אייל קופמן</singer>
+        <writer>אייל קופמן</writer>
+        <composer>אייל קופמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סוסים רתומים</head>
+        <lg number="1" type="stanza">
+          <l>זה כל כך נעים </l>
+          <l>שאת עומדת שם תמיד </l>
+          <l>בשבילך אהובתי </l>
+          <l>הייתי יוצא לעוד מסע </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מעניין על מה </l>
+          <l>את חולמת עכשיו </l>
+          <l>כשהיום הזה </l>
+          <l>כבר כמעט מאחורייך </l>
+          <l>בטח תתעוררי פעמיים </l>
+          <l>תסתכלי עליי ותחייכי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהובתי </l>
+          <l>אני שולח אלייך </l>
+          <l>סוסים רתומים </l>
+          <l>תבואי אליי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תחזיקי חזק </l>
+          <l>אני מספיק חלש </l>
+          <l>כדי לטפל בעצמי </l>
+          <l>ואת בשנינו </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אהובתי ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הוא לא רק מילים</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>דידי מנוסי</writer>
+        <composer>missing</composer>
+        <album>שיר הוא לא רק מילים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הוא לא רק מילים</head>
+        <lg number="1" type="stanza">
+          <l>חייל הולך, חייל חוזר</l>
+          <l>אבל תמיד אחד חסר</l>
+          <l>והחשבון שאין לו סוף</l>
+          <l>חייב לחלוף -</l>
+          <l>שירו, שירו, שירו...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שיר, שיר הוא לא רק מילים</l>
+          <l>שיר, שיר הוא לא רק צלילים</l>
+          <l>שיר, שיר הוא התחלה</l>
+          <l>שירו שיר תקווה גדולה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הקרב נגמר, אולי עוד לא -</l>
+          <l>יש ניצחונות יש מפלות</l>
+          <l>אך השלום תלוי בכם</l>
+          <l>הוא חייכם</l>
+          <l>אז - שירו, שירו, שירו...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שיר, שיר הוא לא רק מילים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

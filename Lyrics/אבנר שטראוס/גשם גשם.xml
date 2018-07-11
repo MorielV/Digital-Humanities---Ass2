@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גשם גשם</title>
+        <singer classification="male singer">אבנר שטראוס</singer>
+        <writer>אבנר שטראוס</writer>
+        <composer>אבנר שטראוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גשם גשם</head>
+        <lg number="1" type="stanza">
+          <l>גשם גשם מילים ולחן אבנר שטראוס</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תאר לך שהגשם היה מלמטה למעלה</l>
+          <l>תאר לעצמך מה יכול היה להיות</l>
+          <l>לא היו עוזרות שום מיטריות</l>
+          <l>בשמיים היו צומחות פיטריות</l>
+          <l>תאר לעצמך מה יכול היה להיות .....</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גשם גשם רוח קר ועבים.</l>
+          <l>גשם אין ירח ואין כוכבים</l>
+          <l>גשם יורד כמו איטריות של מים</l>
+          <l>גשם גשם יורד מן השמיים</l>
+          <l>גשם גשם יורד</l>
+          <l>גשם גשם עולה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תחשוב בגדול תחשוב עם חיוך</l>
+          <l>אם הגשם היה הפוך</l>
+          <l>מן הסתם אנשים היו מתחילים</l>
+          <l>ללכת על הידיים</l>
+          <l>בשמיים היו ניקוות שלוליות</l>
+          <l>תאר לעצמך מה יכול היה להיות...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>גשם גשם רוח קר ועבים ....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ובלי שאתה יודע</title>
+        <singer classification="female singer">אורטל אופק</singer>
+        <writer>אורטל אופק</writer>
+        <composer>אורטל אופק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ובלי שאתה יודע</head>
+        <lg number="1" type="stanza">
+          <l>אל תבקש אותי לחייך </l>
+          <l>לפעמים יותר קל לראות </l>
+          <l>את חצי הכוס הריקה </l>
+          <l>אל תבקש אותי להקשיב </l>
+          <l>לפעמים יותר קל לכעוס </l>
+          <l>ולפרוק את כל הצרות </l>
+          <l>ולבכות על מר גורלי </l>
+          <l>ופתאום הגעת לי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובלי שאתה יודע אתה נותן לי אומץ </l>
+          <l>להביט קדימה גם כשקשה </l>
+          <l>ובלי שאתה יודע </l>
+          <l>אתה נותן לי כוח </l>
+          <l>להפסיק לברוח </l>
+          <l>ולהתמודד </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תבקש אותי להתפשט </l>
+          <l>כי כל יום שעובר אני מרגישה </l>
+          <l>עירומה יותר </l>
+          <l>אל תבקש אותי להקשיב </l>
+          <l>לפעמים יותר קל לכעוס </l>
+          <l>ולפרוק את כל הצרות </l>
+          <l>ולבכות על מר גורלי </l>
+          <l>ופתאום הגעת לי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ובלי שאתה יודע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

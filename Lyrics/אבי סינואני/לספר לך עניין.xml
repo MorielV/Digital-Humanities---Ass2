@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לספר לך עניין</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>דודו ויזר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לספר לך עניין</head>
+        <lg number="1" type="stanza">
+          <l>עם את רואה שאני בן אדם</l>
+          <l>ואם גם חשבת שאיניני </l>
+          <l>עם את זוכרת בים גיטרה בוכה</l>
+          <l>עם ניפגש באחד הימים</l>
+          <l>ולא נתביש בעצמנו</l>
+          <l>לא השתנתי בכלל בכל זאת אבל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תני לי לספר לך עניין</l>
+          <l>נכון שהזמן מת מזמן</l>
+          <l>אז חשבתי טעיתי ילדה שאת שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נכון זאת היתה אהבה כה גדולה</l>
+          <l>ושחכנו פשוט את עצמנו</l>
+          <l>את ואני לא נשכח גיטרה בוכה</l>
+          <l>לא התגברנו על כל הקשיים</l>
+          <l>וגם אין בי טינה כמו שפעם</l>
+          <l>לא אכזבת הטירוף תביא אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תני לי לספר לך עניין...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

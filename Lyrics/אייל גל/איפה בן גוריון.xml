@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איפה בן גוריון</title>
+        <singer classification="unknown">אייל גל 2</singer>
+        <writer>אייל גל</writer>
+        <composer>אייל גל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איפה בן גוריון</head>
+        <lg number="1" type="stanza">
+          <l>שותה עיתון קורא קפה וזה אותו מזרח תיכון ישן </l>
+          <l>ומה שכאן הכי יפה שר שגנב נדבק אל השולחן </l>
+          <l>והימים יהיו חמים והלילות קודרים מהרגיל </l>
+          <l>והאנס הסדרתי הוא שוב חופשי ומי אותך יציל?! </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זו המדינה שהיה בה טוב </l>
+          <l>אך היום אתה משלם ת'חוב </l>
+          <l>משלמים ת'חוב! </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שותה עיתון קורא קפה הם מסבירים כיצד להילחם </l>
+          <l>איך ננצח מלחמות כשהשתמטות זה עסק משתלם? </l>
+          <l>זו מדינה בהקמה אך יש תחושה שדי עבר זמן רב </l>
+          <l>כמה נחזיק פה מעמד כשכל אחד משלים עם המצב?! </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זו המדינה שהיה בה טוב </l>
+          <l>אך היום אתה משלם ת'חוב </l>
+          <l>משלמים ת'חוב! </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מחפשים מנהיג שיקבע את הטון </l>
+          <l>אין לי פיתרון איפה בן גוריון? </l>
+          <l>איפה בן גוריון?! </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אין לי פיתרון איפה בן גוריון? </l>
+          <l>איפה בן גוריון?!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

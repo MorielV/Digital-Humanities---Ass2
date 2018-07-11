@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תחת השמש</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>מן המקורות</writer>
+        <composer>אודי דוידי</composer>
+        <album>רוחות טובות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תחת השמש</head>
+        <lg number="1" type="stanza">
+          <l>מה יתרון לאדם בכל עמלו </l>
+          <l>שיעמול תחת השמש </l>
+          <l>דור הולך דור בא והארץ לעולם עומדת </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה שהיה </l>
+          <l>הוא שיהיה </l>
+          <l>מה שנעשה </l>
+          <l>הוא שיעשה </l>
+          <l>ואין כל חדש </l>
+          <l>תחת השמש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

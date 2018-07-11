@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה עושה הקנאה</title>
+        <singer classification="unknown">אלון חסון</singer>
+        <writer>שי קסלר</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה עושה הקנאה</head>
+        <lg number="1" type="stanza">
+          <l>החברות שלך בנו מקנאות</l>
+          <l>ליום שניפרד הם מחכות</l>
+          <l>ביני לבינך תמיד מסכסכות</l>
+          <l>אותנו רחוקים הן רוצות לראות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>סיפורים ושקרים לך הן מספרות</l>
+          <l>שאני בלילות הולך עם אחרות</l>
+          <l>את אהבתנו לאט לאט הורסות</l>
+          <l>ואת הורייך נגדי כולן מסיטות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה עושה הקנאה לנו אלוהים</l>
+          <l>להפריד ביננו תמיד מנסים</l>
+          <l>למה כולם את הלב שלה הם אוכלים</l>
+          <l>אם אני ואת ילדה כל כך מאושרים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ההורים שלך אותי לא רוצים</l>
+          <l>אותך מליבי הם מרחיקים</l>
+          <l>הם מאמינים לכל השקרים</l>
+          <l>שאנשים רעים להם מספרים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אותך בלילות בבית הם סוגרים</l>
+          <l>לא מבינים שאנו אוהבים</l>
+          <l>בואי ילדתי נהיה חזקים</l>
+          <l>לא ניפרד בחיים בעזרת האלוהים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מה עושה הקנאה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

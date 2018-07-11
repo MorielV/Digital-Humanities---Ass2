@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתי תבואי</title>
+        <singer classification="unknown">איה כורם</singer>
+        <writer>איה כורם</writer>
+        <composer>איה כורם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתי תבואי</head>
+        <lg number="1" type="stanza">
+          <l>את שוב גרה לבד בדירה מבולגנת, </l>
+          <l>מתקשרת רק כשאת צריכה מזומן, </l>
+          <l>מה את שותה ומה את מעשנת? </l>
+          <l>ומה את עושה עם עצמך רוב הזמן? </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את לא ישנה מספיק ולא אוכלת, </l>
+          <l>את שוב מסתובבת עם כל מיני טיפוסים, </l>
+          <l>למה לא תראי מישהו, אם את קצת מבולבלת, </l>
+          <l>זה בסדר גמור, אנחנו לא כועסים. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מתי תבואי? אמא מחכה בבית, </l>
+          <l>אבא מתקשר לומר שהוא מודאג. </l>
+          <l>מתי תבואי? את שואלת את עצמך </l>
+          <l>ואת תכף בת שלושים, </l>
+          <l>ושוב לבד בחג. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ויש לך שוב איזה בחור ועוד כמה, </l>
+          <l>נדמה לנו, או שאיבדת כיוון? </l>
+          <l>את אוהבת את זה, ת'דמעות והדרמה </l>
+          <l>ושלא יגעו בך, שלא יתקרבו. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מתי תבואי? אמא מחכה בבית... </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>והסכין שלך, חותכת חותכת. </l>
+          <l>היד שלך מאוגרפת חזק. </l>
+          <l>במקום ללקק את נושכת. מושכת.. </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>מתי תבואי? אמא מחכה בבית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

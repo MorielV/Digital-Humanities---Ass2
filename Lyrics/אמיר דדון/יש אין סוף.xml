@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש אין סוף</title>
+        <singer classification="male singer">אמיר דדון</singer>
+        <writer>אמיר דדון</writer>
+        <composer>אמיר דדון</composer>
+        <album>יש אין סוף</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש אין סוף</head>
+        <lg number="1" type="stanza">
+          <l>חיכיתי שתבואי תביטי מקרוב</l>
+          <l>חיכיתי שתביני אני איתך עד הסוף</l>
+          <l>צללנו בתוך מים נשרפנו מהאש</l>
+          <l>כמעט הכל עברנו מה עוד נשאר לבקש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זוכרת איך נפגשנו מפורקים על איזה חוף</l>
+          <l>רצינו רק לגעת רצינו רק להיות</l>
+          <l>אמת אחת חיינו לא צריך יותר לרדוף</l>
+          <l>אחרי כל השמים יש אין סוף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה שנלחמנו להחזיק ולא ליפול</l>
+          <l>תראי איך נעלמנו כשנעלמו החלומות</l>
+          <l>הגשם שהפתיע שטף איתו הכול</l>
+          <l>ניסינו לא לטבוע נסינו רק טיפה לנשום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זוכרת איך נפגשנו מפורקים על איזה חוף</l>
+          <l>רצינו רק לגעת רצינו רק להיות</l>
+          <l>אמת אחת חיינו לא צריך יותר לרדוף</l>
+          <l>אחרי כל השמים יש אין סוף</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חיכיתי שתבואי</l>
+          <l>תביטי מקרוב</l>
+          <l>חיכיתי שתביני</l>
+          <l>יש אין סוף יש אין סוף</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

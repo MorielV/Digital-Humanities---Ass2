@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוף מדבר</title>
+        <singer classification="unknown">איציק מארי</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>אביחי מליחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוף מדבר</head>
+        <lg number="1" type="stanza">
+          <l>היא סיפרה לי שהייתי הראשון</l>
+          <l>שהביא לה את האושר בחייה</l>
+          <l>מסתבר שלא הייתי אחרון</l>
+          <l>שהלך בלילה שבי אחריה</l>
+          <l>אלא מה, כך לפתע בלי מילה היא נעלמה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לבד לבד כעוף מדבר</l>
+          <l>נשארתי כאן ולא אדע מדוע</l>
+          <l>לבד לבד היא מביתי יצאה לה</l>
+          <l>בחור יפה ממני היא מצאה לה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך נדלקתי כמו אש להבה</l>
+          <l>וממנה אף לרגע לא נרגעתי</l>
+          <l>רק איתה ידעתי מה זאת אהבה</l>
+          <l>ולשמור עליה בלבי נשבעתי</l>
+          <l>אלא מה, כך לפתע בלי מילה היא נעלמה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לבד לבד כעוף מדבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

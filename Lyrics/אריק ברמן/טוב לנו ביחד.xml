@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טוב לנו ביחד</title>
+        <singer classification="male singer">אריק ברמן</singer>
+        <writer>אריק ברמן</writer>
+        <composer>אריק ברמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טוב לנו ביחד</head>
+        <lg number="1" type="stanza">
+          <l>טוב לנו ביחד, טוב לך בלבד, </l>
+          <l>אני חוזר ואת בורחת, ככה זה עבד. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם היה וזה הסוף אוכל תמיד לזכור אותך ככה: </l>
+          <l>ריח השבת מן הרחוב, בטריינינג האפור את שומחת </l>
+          <l>שהפחד על הנייר. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>טוב לנו ביחד, טוב לך בלבד, </l>
+          <l>אני נובל ואת צומחת בסתיוך ה-21. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם היה וזה הסוף אוכל תמיד לזכור אותך ככה - </l>
+          <l>באה אלי נוטפת על החול, ליבך מומתק שפתך מומלחת </l>
+          <l>והפחד על הנייר.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

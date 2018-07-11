@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחרי שהסירות יוצאות</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>יואב פורת</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחרי שהסירות יוצאות</head>
+        <lg number="1" type="stanza">
+          <l>אחרי שהסירות יוצאות,</l>
+          <l>אפשר לשבת כאן שעות</l>
+          <l>ולא לשמוע אלא ים.</l>
+          <l>בלילה היא יותר קשה</l>
+          <l>אבל עיניה עצובות</l>
+          <l>וגם מגע ידיה חם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אינני קם לפגוש אותה,</l>
+          <l>אני יודע שתשוב לראות</l>
+          <l>אם לא נקרוני השחפים.</l>
+          <l>בלילה היא יותר יפה,</l>
+          <l>אך שערה קשה יותר</l>
+          <l>וצעדיה עיפים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אחרי שהסירות יצאו</l>
+          <l>תבואי עם הכלב הזאב</l>
+          <l>וגם תביאי משהו לשתות.</l>
+          <l>אני כבר לא זוכר איך מחיכים</l>
+          <l>ואת כבר לא צוחקת,</l>
+          <l>אבל איני אוהב אותך פחות.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>המזח מכוסה אצות,</l>
+          <l>דגים מתים ושמן מנועים</l>
+          <l>ורשתות קרועות ברציפים.</l>
+          <l>אחרי שהסירות יוצאות,</l>
+          <l>תבואי עם הכלב הזאב לראות</l>
+          <l>אם לא נקרוני השחפים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אינני קם לפגוש אותה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

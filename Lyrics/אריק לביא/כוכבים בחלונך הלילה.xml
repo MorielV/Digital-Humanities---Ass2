@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כוכבים בחלונך הלילה</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>אריק לביא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כוכבים בחלונך הלילה</head>
+        <lg number="1" type="stanza">
+          <l>אלף כוכבים לי יאירו את השביל </l>
+          <l>המתפתל אל מעונך הלילה </l>
+          <l>אלף אגדות לי סיפרו על רוב יופייך, </l>
+          <l>על רוב יופייך המסנוור את העיוור </l>
+          <l>המגשש אל חלונך, אל ידך, אל ליבך </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בן אדם, בן אדם, בן אדם </l>
+          <l>רק לאהוב קצת </l>
+          <l>זה כל מה שנותר </l>
+          <l>ילדתי הלילה קר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אלף חרבות בי דקרו עת ראיתיך </l>
+          <l>עם האחר בחלונך הלילה </l>
+          <l>אלף להבות בי יקדו באש קינאה </l>
+          <l>באש קינאה אל אהובך </l>
+          <l>המכניעך על משכבך</l>
+          <l>עם תשועתך עם ידך על ליבך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בן אדם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

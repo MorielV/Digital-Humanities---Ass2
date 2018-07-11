@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מטורף</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>רמי לב</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>זה אני</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מטורף</head>
+        <lg number="1" type="stanza">
+          <l>פעם בחיים לאהוב אותך</l>
+          <l>פעם בחיים להיות שלך</l>
+          <l>בך אני רוצה, בך אני מוצא</l>
+          <l>את כל סודות האהבה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פעם בחיים להרגיש חופשי</l>
+          <l>גם כשאת אינך את בתוך ראשי</l>
+          <l>תני לי קצת חיים אישה יפה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כמו מטורף אלייך,</l>
+          <l>אני עף לתוך חייך</l>
+          <l>גם, כשאת רחוקה מכאן. </l>
+          <l>כמו מטורף, צמא לך</l>
+          <l>והלב שלי קורא לך</l>
+          <l>כן, לך את נשמתי אתן!</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>פעם בחיים להקשיב ללב</l>
+          <l>להיות צמוד ולהתאהב</l>
+          <l>להבין אותך להבין אותי</l>
+          <l>זה סיפור לגמרי אמיתי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>פעם בחיים לך אני קשור</l>
+          <l>כן יפה שלי, לך אני מכור</l>
+          <l>את האור שבא אל נשמתי.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כמו מטורף אלייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

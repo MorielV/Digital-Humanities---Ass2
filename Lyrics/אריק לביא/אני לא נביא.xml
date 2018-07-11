@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני לא נביא</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>אריק לביא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני לא נביא</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אל תשאלי אותי מה יהיה מחר,</l>
+          <l>אל תשאלי, אני לא יודע,</l>
+          <l>אני לא נביא.</l>
+          <l>אני רק יודע ש... אני צריך אותך</l>
+          <l>שתהיי איתי, בתוכי, בי</l>
+          <l>ואני בך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בשדות גווע הקיץ</l>
+          <l>והערב מתגנב,</l>
+          <l>רוח סתיו תפיל שלכת,</l>
+          <l>שוב החורף מתקרב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ופתאום ברק מבריק</l>
+          <l>מפלח לילה קר.</l>
+          <l>ועיניך אז תשאלנה,</l>
+          <l>מה יהיה מחר?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תשאלי אותי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>החיטה עולה ביוקר,</l>
+          <l>הלירה הצטמקה,</l>
+          <l>הזריחה יפה הבוקר,</l>
+          <l>יהיה חם בערבה.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>וראשך ליד ראשי,</l>
+          <l>שותק אל תוך הכר.</l>
+          <l>ואני, אני לא יודע,</l>
+          <l>מה יהיה מחר.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אל תשאלי אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

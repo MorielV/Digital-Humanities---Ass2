@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל מי שאת</title>
+        <singer classification="male singer">אריאל הורוביץ</singer>
+        <writer>אריאל הורוביץ</writer>
+        <composer>אריאל הורוביץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל מי שאת</head>
+        <lg number="1" type="stanza">
+          <l>המחוגים בשעון כמו זוג מספריים</l>
+          <l>קרובים לנגיעה בפתיל חייך</l>
+          <l>ואי אפשר לתפוס במבט</l>
+          <l>את כל מי שאת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חיילים שנפלו חברים לכיתה</l>
+          <l>נאספים ליד המיטה</l>
+          <l>כשאת נשארת לבד</l>
+          <l>עם כל מי שאת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא בידינו להחליט</l>
+          <l>מתי תבוא המעלית</l>
+          <l>ויפתח עידן אחר</l>
+          <l>כשהדלת תיסגר</l>
+          <l>לא בכוחנו לשנות</l>
+          <l>רק לאסוף עוד זיכרונות</l>
+          <l>ובזמן שמחכים</l>
+          <l>במקום לבכות - אנחנו צוחקים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>המחוגים בשעון מתעקשים לזוז</l>
+          <l>בסיני אין היאחזות</l>
+          <l>וברדיו כל היום</l>
+          <l>לשיר זה כמו להיות ירקון</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אבל פרח קטן שהביא לך חבר</l>
+          <l>וספר של באך על הפסנתר</l>
+          <l>הופכים את החדר לעיר מקלט</l>
+          <l>של כל מי שאת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא בידינו להחליט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

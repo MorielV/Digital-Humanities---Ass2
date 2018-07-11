@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שום דבר לא בא</title>
+        <singer classification="male singer">אמיר דדון</singer>
+        <writer>אמיר דדון</writer>
+        <composer>אמיר דדון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שום דבר לא בא</head>
+        <lg number="1" type="stanza">
+          <l>שום דבר לא בא, </l>
+          <l>שום דבר לא בא לך טוב </l>
+          <l>ניסית כמעט הכל </l>
+          <l>ושום דבר לא בא טוב </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כששום דבר לא בא, </l>
+          <l>כששום דבר לא בא לך טוב </l>
+          <l>אז בא לך קצת למות </l>
+          <l>אבל גם זה לא בא טוב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחפשת דרך </l>
+          <l>כמו כולם בערך, </l>
+          <l>לא להשתגע </l>
+          <l>מי יציל אותך? </l>
+          <l>למי בכלל אכפת </l>
+          <l>יש מישהו ששומע... </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אף אחד לא בא, </l>
+          <l>אף אחד לא בא לך טוב </l>
+          <l>אין לך אף חבר </l>
+          <l>או סתם מישהו קרוב </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כששום דבר לא בא, </l>
+          <l>כששום דבר לא בא לך טוב </l>
+          <l>אז בא לך קצת למות </l>
+          <l>אבל גם זה לא בא טוב </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מחפשת דרך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

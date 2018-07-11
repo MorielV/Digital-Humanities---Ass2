@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בגידה</title>
+        <singer classification="male singer">אסף אברבוך</singer>
+        <writer>יעל טבת</writer>
+        <composer>רמי קלינשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בגידה</head>
+        <lg number="1" type="stanza">
+          <l>דבריך עולים בי ברגע של לילה</l>
+          <l>קורעים חלונות בנפשי</l>
+          <l>מראות בשנתי נושאים אותי הלאה</l>
+          <l>שנתי היא שלך, לא שלי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עופות טורפים בי ואין גם הלילה</l>
+          <l>מקלט או חבר לצידי</l>
+          <l>אני שלהם והם מחפשים בי</l>
+          <l>ילדה שמזמן כבר איני.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא אמצא מנוחה אפילו בלילה</l>
+          <l>אין לי מי שחס על כוחי</l>
+          <l>גם בבוקר חדש</l>
+          <l>אני עוד נושמת תמונות</l>
+          <l>וקולות של איש בוגדני.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נשים שפגשתי באמצע הלילה</l>
+          <l>שמרתי עמוק בתוכי</l>
+          <l>זכרתי אותן ואת מי שהיה בן</l>
+          <l>הוא העוף הפוקד את לילי.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא אמצא מנוחה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

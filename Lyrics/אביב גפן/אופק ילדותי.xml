@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אופק ילדותי</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אופק ילדותי</head>
+        <lg number="1" type="stanza">
+          <l>בוא ניקח את התרמיל</l>
+          <l>את הג'ינס עם החורים</l>
+          <l>שנקרעו בזמנים הכי יפים</l>
+          <l>בוא ניקח את העצים</l>
+          <l>ללהבה שחיממה</l>
+          <l>כל כך הרבה לילות קרים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אנחנו מתרחקים</l>
+          <l>אנחנו מתרחקים עם השנים</l>
+          <l>לו יכולתי לחזור לשם</l>
+          <l>לאופק ילדותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוא ניקח ת'שק שינה</l>
+          <l>וניכנס זה כיף נורא</l>
+          <l>ונביט יחדיו אל הזריחה</l>
+          <l>בוא ניקח את החשיש</l>
+          <l>ונעשן עד שנרגיש</l>
+          <l>את הכוכבים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אנחנו מתרחקים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

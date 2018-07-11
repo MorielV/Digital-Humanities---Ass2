@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נד נד</title>
+        <singer classification="unknown">אלינור אהרון</singer>
+        <writer>אלינור אהרון</writer>
+        <composer>אלינור אהרון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נד נד</head>
+        <lg number="1" type="stanza">
+          <l>נד נד, נד נד</l>
+          <l>בוא נתנדנד בגן שעשועים</l>
+          <l>נד נד, נד נד</l>
+          <l>בוא נתנדנד בגן שעשועים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא נהיה משוגעים הכל בסדר</l>
+          <l>לא נהיה משוגעים כי הכל בסדר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוא תזרוק עלי אבנים</l>
+          <l>חזק, בפנים לקלוע</l>
+          <l>בוא תזרוק עלי אבנים</l>
+          <l>חזק, בפנים לפגוע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא נהיה משוגעים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כבר אחרי שש ומחשיך</l>
+          <l>צריך לעלות הביתה</l>
+          <l>כבר אחרי שש ומחשיך</l>
+          <l>מחר ניפגש תביא אש</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא נהיה משוגעים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

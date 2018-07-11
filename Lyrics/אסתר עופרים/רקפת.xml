@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רקפת</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>לוין קיפניס</writer>
+        <composer>עממי</composer>
+        <album>אסתר עופרים בהיכל התרבות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רקפת</head>
+        <lg number="1" type="stanza">
+          <l>מתחת לסלע צומחת לפלא</l>
+          <l>רקפת נחמדת מאוד,</l>
+          <l>ושמש מזהרת נושקת, עוטרת,</l>
+          <l>עוטרת לה כתר ורוד!</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רקפת, רקפת, ציפור מצפצפת",</l>
+          <l>הציצי אך רגע אלי!"</l>
+          <l>רקפת נהדרת בסלע נסתרת,</l>
+          <l>נסתרת מנפש כל חי!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יצאה עם הרוח בת שבע לשוח,</l>
+          <l>היה אז הבוקר בהיר:</l>
+          <l>כל צמח, כל פרח אוספת בדרך,</l>
+          <l>ופיה אך זמר ושיר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מסלע וגבע יורדת בת שבע,</l>
+          <l>רקפת חן על החזה..</l>
+          <l>ציפור מצפצפת ורוח לוטפת</l>
+          <l>וסוף כבר לזמר הזה!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

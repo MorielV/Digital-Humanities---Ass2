@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאושרת 2</title>
+        <singer classification="unknown">אביטל</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאושרת</head>
+        <lg number="1" type="stanza">
+          <l>כמעט שעה שלמה אני עומדת מול מראה</l>
+          <l>מחליפה בגדים ומסתרקת</l>
+          <l>קבענו נפגשים בתשע ושלושים</l>
+          <l>מאז אני כל רגע מרחפת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מאושרת הלב שלי שמח</l>
+          <l>מאושרת צוחק לי הירח</l>
+          <l>אך ביני לבין עצמי</l>
+          <l>אני כל כך נזהרת</l>
+          <l>בסך הכל זו רק פגישה עיוורת</l>
+          <l>מאושרת הלב שלי שמח</l>
+          <l>מאושרת צוחק לי הירח</l>
+          <l>אך ביני לבין עצמי</l>
+          <l>אני כל כך נזהרת</l>
+          <l>בסך הכל זו רק פגישה עיוורת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה מזל דגים ולי ממש ממש מתאים</l>
+          <l>שנינו נבלה בחוף בטוח</l>
+          <l>אך מזה משנה עכשיו בכל מקרה</l>
+          <l>הלב שלי כבר לא יכול לנוח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מאושרת הלב שלי שמח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האור בחיי</title>
+        <singer classification="female singer">אפרת בוימולד</singer>
+        <writer>סער בדישי</writer>
+        <composer>סער בדישי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האור בחיי</head>
+        <lg number="1" type="stanza">
+          <l>רוצה שכבר תבוא</l>
+          <l>בוא אלי</l>
+          <l>האם אתה כואב בלעדי</l>
+          <l>רוצה רק לאהוב מקרוב</l>
+          <l>אותך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה לא סתם אולי</l>
+          <l>אתה האור בחיי</l>
+          <l>האור בחיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ליד הטלפון לבדי</l>
+          <l>אך משהו עוצר בעדי</l>
+          <l>האם אתה כבר ער</l>
+          <l>תתקשר אלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה לא סתם אולי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אין בליבי מקום</l>
+          <l>לא, לא נותר בי רגש</l>
+          <l>לאף אחד</l>
+          <l>לאף אחד</l>
+          <l>רוצה רק לאהוב מקרוב</l>
+          <l>אותך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה לא סתם אולי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

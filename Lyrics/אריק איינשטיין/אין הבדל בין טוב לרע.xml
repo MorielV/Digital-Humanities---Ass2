@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין הבדל בין טוב לרע</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>גיא בוקאטי</writer>
+        <composer>גיא בוקאטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין הבדל בין טוב לרע</head>
+        <lg number="1" type="stanza">
+          <l>כבר אין הבדל בין טוב לרע</l>
+          <l>אני נגמר מהבושה</l>
+          <l>לאן בעצם זה מוביל </l>
+          <l>רוצה שתחזרו ימים טובים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מספר סיפור על זמן אחר</l>
+          <l>על געגוע לחבר</l>
+          <l>לאן בעצם ממשיכים </l>
+          <l>ימים קשים עוברים ימים קשים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני עולה אני יורד</l>
+          <l>הולך אחורה וזוכר</l>
+          <l>זורק משפט שלא עוזר</l>
+          <l>בחוץ מצחיק בפנים מציק</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כבר אין הבדל בין טוב לרע</l>
+          <l>אתה אומר לעצמך</l>
+          <l>אז מה עכשיו ומה עושים</l>
+          <l>על מי לסמוך למי להאמין</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>קרה מקרה בין טוב לרע</l>
+          <l>ממשיך ללכת אין ברירה</l>
+          <l>מביט לאור מוצא תקווה </l>
+          <l>נותן שוב את עצמי מהתחלה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני עולה אני יורד...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ורק האהבה אליך היא רגע שמצדיק</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>אני עולה אני יורד...</l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>אין הבדל בין טוב לרע</l>
+          <l>אין הבדל</l>
+          <l>אין הבדל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

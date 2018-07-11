@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין לי מנוח</title>
+        <singer classification="male singer">אביהו מדינה</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין לי מנוח</head>
+        <lg number="1" type="stanza">
+          <l>דמעה נושרת לך ביתי מלחי</l>
+          <l>טיפה חמה צורבת בלבבי</l>
+          <l>שמעתי את קולך נשבר מבכי</l>
+          <l>על מה ספרי נא לי אל תפחדי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>על מה קדרו פנייך</l>
+          <l>על מה דומעות עינייך</l>
+          <l>אני אמחה את דמעתך</l>
+          <l>אין לי מנוח</l>
+          <l>אין לי שלווה</l>
+          <l>כשאת עודך דומעת בוכיה</l>
+          <l>אין כרחם אב</l>
+          <l>אין כאהבה</l>
+          <l>שאוהב אותך אבא לעולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ספרי ביתי הכל</l>
+          <l>אל נא תסתירי</l>
+          <l>את נשמתי אתן לך אם צריך</l>
+          <l>אל תיכאבי לבד</l>
+          <l>אל נא תפנימי</l>
+          <l>אני הוא מגינך</l>
+          <l>אני אביך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>על מה קדרו פנייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אף פעם לא צוחקת</title>
+        <singer classification="female singer">אסנת שטרית</singer>
+        <writer>מוטי פרלמן</writer>
+        <composer>מוטי פרלמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אף פעם לא צוחקת</head>
+        <lg number="1" type="stanza">
+          <l>אמרת שנדבר </l>
+          <l>כמעט עלה הבוקר </l>
+          <l>יודעת בעצמי לבכות </l>
+          <l>ומה שאני רוצה </l>
+          <l>עולה כל כך ביוקר </l>
+          <l>אמרת שנדבר </l>
+          <l>יודעת גם לשתוק </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מתי כבר אלמד להיות אחת שכזו </l>
+          <l>מתי כבר אלמד להיות עצמי </l>
+          <l>זה לא מאוחר לבקש את מה שצריך </l>
+          <l>אותי היום </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הייתי ילדה יפה </l>
+          <l>אף פעם לא צוחקת </l>
+          <l>בין כל האנשים נופלת </l>
+          <l>הייתי כמו טיפה </l>
+          <l>אל תוך עצמי זולגת </l>
+          <l>בין כל האנשים נופלת </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מתי כבר אלמד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

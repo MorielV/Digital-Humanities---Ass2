@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שירת הברבור</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שירת הברבור</head>
+        <lg number="1" type="stanza">
+          <l>את שירת הברבור לך אשיר</l>
+          <l>את שירת הזמיר לך אשיר</l>
+          <l>בוא אלי אהובי אל הנהר</l>
+          <l>בוא אלי אהובי עם כל</l>
+          <l>הנשמה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שנינו יחד תחת עץ</l>
+          <l>עם לב אחד,</l>
+          <l>הזמיר והדרור</l>
+          <l>מעל תמיד הנר השקט </l>
+          <l>אושר מביא</l>
+          <l>השמש</l>
+          <l>תמיד מעל</l>
+          <l>אור לנו תביא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את יופיו של העולם לך אראה</l>
+          <l>באהבה ובשמחה בה תחיה</l>
+          <l>אהבה היא יפה לי ולך</l>
+          <l>בתוך חדרי לבי ישכון לעד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שנינו יחד תחת עץ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

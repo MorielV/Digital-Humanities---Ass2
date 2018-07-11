@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבא 7</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבא</head>
+        <lg number="1" type="stanza">
+          <l>כשאצא לשדה</l>
+          <l>אצעק אליך</l>
+          <l>אבא עד מתי?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשאצא, אחפש אותך</l>
+          <l>הרי אתה כאן</l>
+          <l>הרי אתה כאן</l>
+          <l>אתה כאן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אבא, אבא, אבא</l>
+          <l>מתי ותחזינה עינינו בשובך</l>
+          <l>לציון ברחמים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

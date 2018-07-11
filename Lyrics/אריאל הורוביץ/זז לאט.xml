@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זז לאט</title>
+        <singer classification="male singer">אריאל הורוביץ</singer>
+        <writer>אריאל הורוביץ</writer>
+        <composer>אריאל הורוביץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זז לאט</head>
+        <lg number="1" type="stanza">
+          <l>החיוכים שאת שולחת</l>
+          <l>האם אלי מכוונים</l>
+          <l>או שאולי את תמי דנפתחת</l>
+          <l>כל הזמן לכל הכיוונים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והבגדים שאת לובשת</l>
+          <l>האם חשבת על זה מראש</l>
+          <l>או שתמיד את זורקת רשת</l>
+          <l>ולא חשוב את מי תצאי לפגוש</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זז לאט</l>
+          <l>האם את מבינה את מה שאת</l>
+          <l>בשבילי</l>
+          <l>זז לאט</l>
+          <l>רוצה להאמין שעוד מעט</l>
+          <l>תורי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל השיחות עד אור הבוקר</l>
+          <l>גודשות את המאפרה</l>
+          <l>נדמה לי שזה עולה לי ביוקר</l>
+          <l>אנ'לא רוצה להיות עוד חברה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מאחורי ענן הלילה</l>
+          <l>ירח שט ומהבהב</l>
+          <l>כמוהו את מאירה את חיי </l>
+          <l>את לא נותנת לי להתקרב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זז לאט</l>
+          <l>האם את מבינה את מה שאת</l>
+          <l>בשבילי</l>
+          <l>זז לאט</l>
+          <l>רוצה להאמין שעוד מעט</l>
+          <l>תורי</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>זז לאט </l>
+          <l>וזה לאט מדי </l>
+          <l>בשבילי</l>
+          <l>לאט מדי בשבילי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

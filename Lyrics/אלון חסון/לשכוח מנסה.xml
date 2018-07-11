@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לשכוח מנסה</title>
+        <singer classification="unknown">אלון חסון</singer>
+        <writer>אלון חסון</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לשכוח מנסה</head>
+        <lg number="1" type="stanza">
+          <l>ברגעי עצבות ברגעי כאב</l>
+          <l>היה עדיף למות ולא להתאהב</l>
+          <l>היא שיחקה תמימה היא משכה אותי</l>
+          <l>הייתי לה למשחק היא כישפה אותי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אנא ספר לי אח גדול</l>
+          <l>על מה תבכה על מה תסבול</l>
+          <l>כואב לך כואב גם לי</l>
+          <l>אנא ספר לי אחי</l>
+          <l>אנא ספר לי אח גדול</l>
+          <l>על מה תבכה על מה תסבול</l>
+          <l>אנא חייך למעני</l>
+          <l>אנא חזור להיות אחי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תסתכל עלי בוכה</l>
+          <l>אותה לשכוח מנסה</l>
+          <l>זוהי דרך החיים</l>
+          <l>אתה תגדל אתה תבין</l>
+          <l>אני רואה אותך בוכה</l>
+          <l>את דמעתך אני מוחה</l>
+          <l>אם זאת דרך החיים</l>
+          <l>אנא עזור לו אלוהים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין אהבה אינה פוצעת</l>
+          <l>אתה תגדל תוכל לדעת</l>
+          <l>יבוא היום אתה תבין</l>
+          <l>לכל אישה לא להאמין</l>
+          <l>דמעתך היא דמעתי</l>
+          <l>אוהב אותך בנשמתי</l>
+          <l>אח גדול זה יעבור</l>
+          <l>ולך יחזור האור</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בלילות שוכב אבל לא נרדם</l>
+          <l>היתה היא כל חיי זורמת לי בדם</l>
+          <l>חברי סיפרו ראו אהוב אחר</l>
+          <l>עכשיו נספר הזמן מתי הוא ישבר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אנא ספר לי אח גדול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

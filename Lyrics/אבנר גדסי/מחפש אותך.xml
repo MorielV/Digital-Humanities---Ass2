@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחפש אותך</title>
+        <singer classification="male singer">אבנר גדסי</singer>
+        <writer>סמדר שיר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחפש אותך</head>
+        <lg number="1" type="stanza">
+          <l>מחפש אותך, בין בתים עובר</l>
+          <l>במקומות צרים איש אינו זוכר</l>
+          <l>מסתובב עד הערב צעדי כבדים</l>
+          <l>ובדידות אילמת מלווה אותי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שיר שאהב, שיר שכאב,</l>
+          <l>שיר כמו שלי, לא לא ישכח</l>
+          <l>מחפש אותך וקורא בשמך </l>
+          <l>מחפש לשווא אבל את אינך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחפש אותך בין אלפי דמויות</l>
+          <l>באין סוף נופים בין המון קולות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לב שאהב, לב שכאב,</l>
+          <l>לב כמו שלי, לא לא ישכח</l>
+          <l>מחפש אותך וקורא בשמך </l>
+          <l>מחפש לשווא אבל את אינך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

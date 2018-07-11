@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנגן ושר</title>
+        <singer classification="male singer">אבנר גדסי</singer>
+        <writer>משה בן שאול</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנגן ושר</head>
+        <lg number="1" type="stanza">
+          <l>מנגן ושר חלומות קטנים</l>
+          <l>בלילות העיר הגדולה עלי:</l>
+          <l>מדברים בי גשם ועננים</l>
+          <l>מילים פשוטות פסוקי אולי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כך שר אני ברחוב נגמר</l>
+          <l>הלילה רב, הלילה קר</l>
+          <l>וזרח כוכב וכוכב דועך</l>
+          <l>ואני הולך וקולי הולך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מנגן ושר אפלת ראשך,</l>
+          <l>על ליבי עכשיו כפריחה שחורה:</l>
+          <l>מדבר בי לחש מלמול קולך</l>
+          <l>כאהבה שנגמרה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כך שר אני...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מנגן ושר והאור קרב</l>
+          <l>שוב מתחיל לי רחוב שוב הבוקר בא,</l>
+          <l>וחולף בי לילה שהיה כאב -</l>
+          <l>סוף היאוש, ראשית תקווה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כך שר אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

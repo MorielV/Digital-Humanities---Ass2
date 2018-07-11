@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איזקינו הדוד</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>מוריס</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איזקינו הדוד</head>
+        <lg number="1" type="stanza">
+          <l>את אותה המנגינה שאבי אהב מבית התפילה</l>
+          <l>שרו בלדינו בקולי קולות אצל הנונה בשדירה</l>
+          <l>ריחות המטעמים של ערב יום שישי עם ריח פתיליה</l>
+          <l>ליטפו את הפנים בריח משקר של אלה יווניה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והאוזו נשפך כל הליל</l>
+          <l>והראש המפוכח התבלבל</l>
+          <l>ורק אז כמו תמיד נשמע צופר מכונית</l>
+          <l>מי בא לעשות כבוד?</l>
+          <l>איזקינו הדוד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא נישק את כולם ונתן ברכה בשם אדוני</l>
+          <l>כיבד במרציפן שאשתו תמיד שלחה,</l>
+          <l>עוד הטעם בשפתי</l>
+          <l>גם כשלא היה הרבה תמיד היתה שמחה,</l>
+          <l>את זה תמיד אזכור</l>
+          <l>וכשהמצב קשה תמיד אני אדע שלא הכל שחור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שם האוזו נשפך כל הליל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

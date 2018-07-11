@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כולם יודעים 3</title>
+        <singer classification="unknown">אלירן צור</singer>
+        <writer>אלירן צור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כולם יודעים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>כולם יודעים את ילדה אבל את מיוחדת</l>
+          <l>המבט בעינייך נכנס עמוק ללב</l>
+          <l>איך בקלות בלי מילים אותי את מבלבלת</l>
+          <l>ליבי פועם כמו ילד שרץ להתאהב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כולם יודעים אותי את משגעת,</l>
+          <l>אוהב אותך אני יוצא מדעת</l>
+          <l>כולם יודעים שאת מתגעגעת </l>
+          <l>אל תגידי לו מחכה לך פה </l>
+          <l>תהיי שלי ואוהב אותך לנצח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את מתוקה ויפה כשאת מחייכת</l>
+          <l>חייכי אלי בינתיים תרגיעי את הלב</l>
+          <l>אם רק תתני לי סימן שאת אותי אוהבת</l>
+          <l>לא אוותר עלייך אמשיך להילחם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כולם יודעים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

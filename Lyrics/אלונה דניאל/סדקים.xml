@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סדקים</title>
+        <singer classification="female singer">אלונה דניאל</singer>
+        <writer>אלונה דניאל</writer>
+        <composer>אלונה דניאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סדקים</head>
+        <lg number="1" type="stanza">
+          <l>מחכה שפתאום תופיעי</l>
+          <l>כמו חבר מכוכב אחר</l>
+          <l>בשבילך חלונות פתחתי</l>
+          <l>והדלקתי נר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואותי מבקרים כל לילה</l>
+          <l>פרפרים לבושי לבן</l>
+          <l>מספרים לי דברים עלייך</l>
+          <l>קחי אותי מכאן...</l>
+          <l>קחי אותי מכאן...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הסדקים על הקירות</l>
+          <l>את הכל יגידו</l>
+          <l>הקמטים על הפנים</l>
+          <l>על הכל יעידו</l>
+          <l>מה לקחה האהבה</l>
+          <l>אי אפשר לשכוח</l>
+          <l>אם הייתי אשמה</l>
+          <l>אבקש לסלוח</l>
+          <l>לקצר מרחק מתפללת</l>
+          <l>זה כואב מדי זה מהר מדי</l>
+          <l>אם אצעק חזק תפתח הדלת</l>
+          <l>את תבואי אלי את תבואי אלי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל הלילה רעדתי מפחד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רחוקה ממגע ידייך</l>
+          <l>שלמדתי לחיות דרכן</l>
+          <l>מרגישה את געגועייך</l>
+          <l>קחי אותי מכאן</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>חלומות נמוגים בבוקר</l>
+          <l>מסדרון וחלוק לבן</l>
+          <l>פעמון מצלצל פעמיים</l>
+          <l>קחי אותי מכאן</l>
+          <l>קחי אותי מכאן</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>הסדקים על הקירות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

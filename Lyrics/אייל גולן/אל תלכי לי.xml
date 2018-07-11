@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תלכי לי</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>בשבילך נוצרתי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תלכי לי</head>
+        <lg number="1" type="stanza">
+          <l>אל תלכי לי אל תלכי לי</l>
+          <l>אין לי כוח להמשיך אולי תישארי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הייתי מחובר אלייך כמו גוף אל הנשמה</l>
+          <l>סוחב כאב ומנסה להתמודד עם הדממה</l>
+          <l>הזמן עובר לאט חושב עלייך כל דקה</l>
+          <l>איך הלכת לי לאיבוד אני מותש ממחשבה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בלילות אני מסתובב, הולך ברחוב מוציא כאב</l>
+          <l>מחפש את התקווה, קורא לאל בתפילה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את הלבד אני רוצה אנ'לא יודע מה יהיה </l>
+          <l>אני עף במחשבה כמו רוחות במלחמה X2</l>
+          <l>אל תלכי לי, אל תלכי</l>
+          <l>אין לי כוח להמשיך אולי תשארי X2</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ראיתי קסם בתוכך שעליו לא אוותר</l>
+          <l>גם אם יפלו שמיים או אטבע בים סוער</l>
+          <l>גם אם אראה אותך חובקת סתם אדם אחר</l>
+          <l>אוכל מיד לסלוח בואי אלי ונסתדר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בלילות אני מסתובב, הולך ברחוב מוציא כאב</l>
+          <l>מחפש את התקווה, קורא לאל בתפילה</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>את הלבד אני רוצה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לראות אותה היום</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>דני בסן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לראות אותה היום</head>
+        <lg number="1" type="stanza">
+          <l>שתי טיפות שקופות זולגות על החלון</l>
+          <l>מעבר לרחוב הוסט פתאום וילון,</l>
+          <l>בדלים מעושנים, עשן באישונים,</l>
+          <l>בחדר מתפורר קפה התקרר</l>
+          <l>מבוקר אחר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>השעון נראה כמו שרודף אחרי עצמו</l>
+          <l>במן דיוק מרגיז,</l>
+          <l>מתנועע סביב ממקום למקום.</l>
+          <l>לראות אותה היום,</l>
+          <l>לראות אותה היום.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוקר סתיו אחד לבד על המיטה,</l>
+          <l>עיניים בנקודה למעלה בתקרה,</l>
+          <l>חשבתי לתומי, הכל נורא סתמי,</l>
+          <l>כמה עוד אפשר לחשוב על דבר</l>
+          <l>שטרם קרה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>השעון נראה כמן...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בוקר יום אחד ישבתי לי לבד,</l>
+          <l>היא לא הופיעה כאן, היא לא נתנה לי יד,</l>
+          <l>ניתקתי את עצמי, הכל כה דמיוני,</l>
+          <l>היא לא תבוא יותר וכדאי לוותר</l>
+          <l>הקפה התקרר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>השעון נראה כמו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

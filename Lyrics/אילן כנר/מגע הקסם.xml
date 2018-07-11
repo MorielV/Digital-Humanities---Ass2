@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מגע הקסם</title>
+        <singer classification="unknown">אילן כנר</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>ניסן פרידמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מגע הקסם</head>
+        <lg number="1" type="stanza">
+          <l>מי הביא אותי אלייך?</l>
+          <l>מה הביא אותך אליי?</l>
+          <l>זה כתוב כך בשמיים.</l>
+          <l>הגורל עיוור ודאי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש לך את מגע הקסם</l>
+          <l>שעושה בי נפלאות.</l>
+          <l>יש לך את מבע החסד</l>
+          <l>שנותן לי כיף לחיות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו פייה מתוך היער,</l>
+          <l>קצת אישה וקצת ילדה,</l>
+          <l>את פתחת לי את השער</l>
+          <l>אל עולם האגדה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש לך את מגע הקסם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואני סופר עד עשר</l>
+          <l>וצובט את לחיי,</l>
+          <l>ונושם ניחוח בושם</l>
+          <l>שמציף את כל חיי.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יש לך את מגע הקסם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בן המלך</title>
+        <singer classification="unknown">אטלנטיקה</singer>
+        <writer>רמי דוידוף</writer>
+        <composer>רמי דוידוף</composer>
+        <album>שוב בבוקר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בן המלך</head>
+        <lg number="1" type="stanza">
+          <l>בן המלך יצא אל הדרך,</l>
+          <l>לקח איתו תיק,</l>
+          <l>וגם ריח של ים,</l>
+          <l>בינתיים,</l>
+          <l>שחה לו במים,</l>
+          <l>תכנן שישיר כשימצא יבשה,</l>
+          <l>כינורות, </l>
+          <l>חבורת זמרות,</l>
+          <l>בראשו הן שרות, זה,</l>
+          <l>יהיה נהדר.</l>
+          <l>והיום הוא מביט מחלון,</l>
+          <l>על, תקוות משלשום, הוא</l>
+          <l>עדיין לבד.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אולי בחלום, יש ארמון, מזהב...</l>
+          <l>אולי בעולם, העגול, המושלם.</l>
+          <l>וואו!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קצת מחנק, במרחק כל כך דק, </l>
+          <l>של,דמעות שמחק, הוא,</l>
+          <l>הגיע לשם.</l>
+          <l>בתגובות שחלקן מצחיקות, ו...</l>
+          <l>חלקן מזכירות לו, חלום שאבד...</l>
+          <l>וסמים, שעוזרים לו לכוח,</l>
+          <l>לשיר ולברוח,</l>
+          <l>ממשהו קר.</l>
+          <l>איך יחזור, הוא,</l>
+          <l>נמצא כבר בבור,</l>
+          <l>להביט לאחור זה מרגיש מאוחר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אולי בחלום, יש ארמון, מזהב,</l>
+          <l>אולי בעולם, העגול, המושלם...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שם בתוך כיכר כן...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בן המלך, יצא אל הדרך, לקח איתו תיק</l>
+          <l>וקצת ריח של ים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

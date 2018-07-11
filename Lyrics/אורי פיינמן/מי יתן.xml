@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי יתן 2</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי יתן</head>
+        <lg number="1" type="stanza">
+          <l>מי יתן וימי שלווה ירדו מעלינו,</l>
+          <l>מי יתן ברכה תנווה על העולם,</l>
+          <l>אהבה מי ישמר למעננו?</l>
+          <l>אמונה מי יחזק בלב אדם?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מי יתן ותתגשמנה תפילותינו,</l>
+          <l>מי יתן מזור ללב ולנשמה,</l>
+          <l>ומשדות הקמח יעלה לחמנו,</l>
+          <l>נחלינו שוב יבקעו בשממה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מי יתן, מי יתן</l>
+          <l>רחמי שמיים חסד וגם חן,</l>
+          <l>מי יתן, מי יתן</l>
+          <l>ונאמר שהחיינו אמן.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי יתן גשמי ברכה ירדו עלינו,</l>
+          <l>מי יתן שלווה תנווה על העולם,</l>
+          <l>אהבה מי ישמר למעננו?</l>
+          <l>אמונה מי יחזק בלב אדם?</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מי יתן ותתגשמנה תפילותינו,</l>
+          <l>מי יתן מזור ללב ולנשמה,</l>
+          <l>ומשדות הקמח יעלה לחמנו,</l>
+          <l>נחלינו שוב יבקיעו בשממה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מי יתן, מי יתן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

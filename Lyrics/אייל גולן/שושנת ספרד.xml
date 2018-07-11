@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שושנת ספרד</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שושנת ספרד</head>
+        <lg number="1" type="stanza">
+          <l>את עיניה איפרה בשחור</l>
+          <l>את שפתיה מלטף האור</l>
+          <l>אני אוהב לראות אותה,</l>
+          <l>קסטנייטות מלוות אותה</l>
+          <l>מניפה שבויה בכך ידה</l>
+          <l>היא תרקוד ודאי עד יום מותה,</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>השמיים מתכסים באורם של כוכבים</l>
+          <l>ואור נוגה שוב מלטף אותה</l>
+          <l>היא רוקדת לצלילים,</l>
+          <l>זה שירם של אוהבים</l>
+          <l>ריקוד סוחף שמהפנט אותך -</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שושנת ספרד יפה, באדום היא עטופה</l>
+          <l>נעליה רוקעות כדי ללכוד אותך,</l>
+          <l>שושנת ספרד יפה מסתובבת כמו סופה</l>
+          <l>שתי ידיה נוגעות ברגשות שלך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תמיד רואה אותה בסוף היום</l>
+          <l>היא מופיעה לי ככה בחלום</l>
+          <l>אני אוהב לראות אותה,</l>
+          <l>וכשבבוקר אני מתעורר</l>
+          <l>היא בטח בחלום של איש אחר</l>
+          <l>ואני שבוי כך בדמותה,</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>השמיים מתכסים באורם של כוכבים</l>
+          <l>ואור נוגה שוב מלטף אותה</l>
+          <l>כשאחלום אשמע צלילים,</l>
+          <l>זה שירם של אוהבים</l>
+          <l>יופיה סוחף ומהפנט אותך -</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שושנת ספרד יפה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

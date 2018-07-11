@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יושב על הגדר</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>missing</composer>
+        <album>יושב על הגדר </album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יושב על הגדר</head>
+        <lg number="1" type="stanza">
+          <l>יושב על הגדר</l>
+          <l>רגל פה, רגל שם</l>
+          <l>יושב על הגדר</l>
+          <l>בסדר עם כולם.</l>
+          <l>דופק חיוכים לכל הכיוונים</l>
+          <l>ותמיד, תמיד נמצא בעניינים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יושב על הגדר</l>
+          <l>רגל פה, רגל שם</l>
+          <l>יושב על הגדר</l>
+          <l>משקיף על העולם</l>
+          <l>דופק חיוכים לכל הכיוונים</l>
+          <l>ותמיד, תמיד נמצא בעניינים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יושב על הגדר</l>
+          <l>רגל פה, רגל שם</l>
+          <l>יושב על הגדר</l>
+          <l>לוקח את הזמן</l>
+          <l>דופק חיוכים לכל הכיוונים</l>
+          <l>ותמיד, תמיד נמצא בעניינים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יושב חושב על הגדר</l>
+          <l>מביט לפה, מציץ לשם</l>
+          <l>קורא עיתון שומע חדשות בזמן</l>
+          <l>עוטף את עצמו במסך עשן.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר העבודה</title>
+        <singer classification="unknown">אילקה רווה</singer>
+        <writer>בר נש</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר העבודה</head>
+        <lg number="1" type="stanza">
+          <l>עורו, אחיי, אל תנומו</l>
+          <l>לעבודתכם אנא קומו!</l>
+          <l>יה חי לי, לי הה עמלי!</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>העולם עומד על העבודה</l>
+          <l>הריעו, שירו בקול תודה!</l>
+          <l>יה חי לי, לי הה עמלי!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>העבודה היא כל חיינו,</l>
+          <l>מכל צרה תצילנו.</l>
+          <l>יה חי לי, לי הה עמלי!</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מטל שמיים ומכל מגד,</l>
+          <l>לחם לאכול וללבוש בגד.</l>
+          <l>יה חי לי, לי הה עמלי!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

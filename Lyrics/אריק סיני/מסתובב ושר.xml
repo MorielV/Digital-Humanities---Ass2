@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מסתובב ושר</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>יאיר שרגאי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מסתובב ושר</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים אני שוכח</l>
+          <l>את המגע החם</l>
+          <l>של עינייך הו עינייך</l>
+          <l>שראו אותי נרדם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והחורף שהשארת בי </l>
+          <l>דומה פתאום לשיר</l>
+          <l>שהיית בוכה בלילה</l>
+          <l>שעכשיו אותי מעיר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מסתובב ושר</l>
+          <l>את קירות הבית</l>
+          <l>מסתובב ושר</l>
+          <l>את הזמן ההוא</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לפעמים אני שוכח</l>
+          <l>ולפעמים זוכר</l>
+          <l>איך הרוח הצפונית </l>
+          <l>עזרה לסתיו להיגמר</l>
+          <l>וכל כך מעט נשאר בי</l>
+          <l>ממה שאת נתת</l>
+          <l>לפעמים כשבאת אוהבת</l>
+          <l>ונתתי ולקחת</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מסתובב ושר...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>והשיר המר המתוק הזה </l>
+          <l>חוזר ולא חוזר</l>
+          <l>לפעמים אני בטוח בו</l>
+          <l>ולפעמים עוצר</l>
+          <l>ונוגע במילים </l>
+          <l>שלא אמרת לי מעולם</l>
+          <l>על סף כל הצלילים</l>
+          <l>על סף המנגינה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זכרו אותי שמח</title>
+        <singer classification="male singer">אורי כהן</singer>
+        <writer>יגאל חקון</writer>
+        <composer>יגאל חקון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זכרו אותי שמח</head>
+        <lg number="1" type="stanza">
+          <l>נכון אחי, אני כבר לא אתכם</l>
+          <l>זכרו אותי שמח.</l>
+          <l>עשיתי הכל הכי טוב שלי</l>
+          <l>ועל כך אני שמח.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נלחמתי בכבוד ואין בי חרטה.</l>
+          <l>דרכי ברורה מאד, ואין בה עלטה.</l>
+          <l>לא חסר לי כלום -</l>
+          <l>הייתי עטוף בחום ואהבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני, הילד הקטן שלכם</l>
+          <l>הנה אני שמח</l>
+          <l>שנולדתי למשפחה הזאת,</l>
+          <l>את החום הזה אני לוקח.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נלחמתי בכבוד ואין בי חרטה.</l>
+          <l>דרכי ברורה מאד, ואין בה עלטה.</l>
+          <l>לא חסר לי כלום -</l>
+          <l>הייתי עטוף בחום ואהבה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>דניאל שלי, אתה כבר לא איתי</l>
+          <l>ואני מתגעגעת</l>
+          <l>לפנים היפות ולקול המנחם, </l>
+          <l>בתוכי אני נקרעת.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>נלחמת בכבוד ללא כל חרטה</l>
+          <l>הותרת ריק גדול </l>
+          <l>כמו שידעת רק אתה</l>
+          <l>עכשיו הכל נגמר. אוהבת עד כלות</l>
+          <l>עד כלות הנשמה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

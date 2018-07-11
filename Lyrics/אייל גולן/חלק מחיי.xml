@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלק מחיי</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>אביעד פניו</writer>
+        <composer>אביעד פניו</composer>
+        <album>חלק מחיי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלק מחיי</head>
+        <lg number="1" type="stanza">
+          <l>יד האל או יד גורל הביאה אותך</l>
+          <l>אל דלתי כשעוד היתה סגורה</l>
+          <l>והיום אני חוזר אותה פותח</l>
+          <l>אל דירה והיא ריקה נורא</l>
+          <l>כל אותן לשונות רעות</l>
+          <l>לבסוף יכולות לראות</l>
+          <l>איך בין מחול שדים</l>
+          <l>נותרנו שנינו עוד רוקדים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי אחרי הויכוחים נותרו רק חיוכים</l>
+          <l>זיכרונות יפים וכמובן שני מלאכים</l>
+          <l>אני לא אומר את זה מספיק אולי</l>
+          <l>כמה טוב שאת עוד חלק מחיי</l>
+          <l>כן אחרי כל הפרידות דרכינו נפרדות</l>
+          <l>יש כל כך הרבה דברים עליהם להודות</l>
+          <l>אני מודה אני מודה מעט מדי</l>
+          <l>כמה טוב שאת עוד חלק</l>
+          <l>את עוד חלק מחיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מסלולים שנפרדים ומובילים</l>
+          <l>כל אחד לכיוון אחר</l>
+          <l>נפגשים ומתחברים ברגעים</l>
+          <l>שאותם אני תמיד זוכר</l>
+          <l>כי היה לנו טוב ואז רע</l>
+          <l>גם אם לא נחזור בחזרה</l>
+          <l>איך זה למרות הכל</l>
+          <l>הצלחנו שנינו לא ליפול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי אחרי הויכוחים נותרו רק חיוכים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מכל פסגה שאני כובש</l>
+          <l>מכל רגע מרגש</l>
+          <l>כן את יודעת לך עוד יש</l>
+          <l>מקום בשְמחותי</l>
+          <l>וברגעים בהם אני שבור</l>
+          <l>זה לא סופו של הסיפור</l>
+          <l>כי התפקיד שלך שמור</l>
+          <l>בסרט של חיי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בבית</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>אביתר בנאי</composer>
+        <album>עומד על נייר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בבית</head>
+        <lg number="1" type="stanza">
+          <l>מרוב פנטזיות אין מציאות</l>
+          <l>יכפר עלי אושר לך</l>
+          <l>קיבלת אותי בגופייית משי אדומה</l>
+          <l>וחזרת בוכה באוטובוס</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני ודיאנה על הבמה</l>
+          <l>עיניים גדולות תאוות חיים דולקת</l>
+          <l>עץ פלסטיק עלים בשלכת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בהרים של שלג על אופניים</l>
+          <l>מכנסי צבא הדוקים היא מורידה</l>
+          <l>רחוק יש חופש</l>
+          <l>אורות אדומים קסומים</l>
+          <l>חוזר הביתה הביתה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בבית אין ריצפה</l>
+          <l>אני עומד על נייר</l>
+          <l>אני עומד על נייר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני ודיאנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

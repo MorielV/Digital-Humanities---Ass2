@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עצי שקד</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>עלי מוהר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עצי שקד</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>גן עצי שקד הנה נטעתי</l>
+          <l>למען שתי עינייך אהובתי</l>
+          <l>שתי עיני שקד</l>
+          <l>קוראות רק לי</l>
+          <l>מהן לא אמלט עד יום מותי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עד יום מותי</l>
+          <l>עד יום מותי</l>
+          <l>למענך אתן חיי אהובתי</l>
+          <l>עד יום מותי</l>
+          <l>עד יום מותי</l>
+          <l>שלך אני אהובתי.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>חלונך פתוח גובהים כוכבי חצות</l>
+          <l>ובעינייך הדמעות מנצנצות</l>
+          <l>באביב נגעה בי אהובתי</l>
+          <l>ויום אביב אשא עימי עד יום מותי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עד יום מותי...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את מקור שירי ואנחתי</l>
+          <l>אלייך תשוקתי ומנוחתי</l>
+          <l>אם תזוז ידך מתוך ידי</l>
+          <l>לא עוד אדע מנוח</l>
+          <l>עד יום מותי.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עד יום מותי...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>גן עצי שקד הנה נטעתי</l>
+          <l>למען שתי עינייך אהובתי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

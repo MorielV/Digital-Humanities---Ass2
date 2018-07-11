@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד מעט</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>פנחס שדה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד מעט</head>
+        <lg number="1" type="stanza">
+          <l>איך שהזמן עובר. </l>
+          <l>איך שהזמן נוהר. </l>
+          <l>ה’, תן נר. </l>
+          <l>כי אני עיור. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פה ושם אני רוקד. </l>
+          <l>פה ושם אני רועד. </l>
+          <l>עודי, אך לא רחוק שאתמוטט. </l>
+          <l>ה’ ימלוך לעולם ועד. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמתי לב אל הנשמה, </l>
+          <l>אך מי אני ואני מה </l>
+          <l>להבינה, לנחמה. </l>
+          <l>ועוד מעט ואני רימה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

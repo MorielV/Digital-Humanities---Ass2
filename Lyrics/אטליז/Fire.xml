@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fire</title>
+        <singer classification="band">אטליז</singer>
+        <writer>גיא בן שיטרית</writer>
+        <composer>לי טריפון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Fire</head>
+        <lg number="1" type="stanza">
+          <l>You have won what you wanted </l>
+          <l>All I'm giving, </l>
+          <l>You’re not the one </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Inside out shifting your doubts </l>
+          <l>Ride your highways I’m not the one </l>
+          <l>Now I get caught up in the sun </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Feels like fire </l>
+          <l>Fire </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>You have won what you hunted </l>
+          <l>All I'm giving your not the one </l>
+          <l>You are one with your moments </l>
+          <l>All I’m giving now I must run </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>How I get caught up in the sun </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>Feels like fire </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>You are one with your moments </l>
+          <l>All I've given circles the sun </l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>Fire</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

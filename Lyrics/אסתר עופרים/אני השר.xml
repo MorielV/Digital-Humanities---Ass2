@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני השר</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>שלמה אבן גבירול</writer>
+        <composer>שלמה יידוב</composer>
+        <album>אסתר עופרים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני השר</head>
+        <lg number="1" type="stanza">
+          <l>אני השר</l>
+          <l>והשיר לי לעבד</l>
+          <l>אני כינור לכל שירים ונוגנים.</l>
+          <l>ושירי כעטרה למלכים</l>
+          <l>ומגבעות בראשי הסגנים</l>
+          <l>והנני בשש עשרה שנותי</l>
+          <l>וליבי בן כלב בן השמונים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

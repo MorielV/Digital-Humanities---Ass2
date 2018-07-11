@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טטלה</title>
+        <singer classification="male singer">אברהם טל</singer>
+        <writer>אברהם טל</writer>
+        <composer>אברהם טל</composer>
+        <album>אורות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טטלה</head>
+        <lg number="1" type="stanza">
+          <l>את כל הזמן אומרת שאני נראה אחרת</l>
+          <l>ומסביב עדיין סערות רוגשות</l>
+          <l>כך קורה שבתקופה רועשת</l>
+          <l>גם אני יכול להשתנות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תלכי אליו, כבר מאוחר</l>
+          <l>עוד כמה שניות הוא מתחיל לפזול אל אחרת</l>
+          <l>שגומרת לאכול את החמין של אמא שלו</l>
+          <l>את זוכרת? את לא בסרט</l>
+          <l>כן, כמה פעמים שסגרת לו בפנים את הדלת</l>
+          <l>מה את חושבת שלנצח יישאר טטלה?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אדמה נמוכה ואני רוצה לעוף</l>
+          <l>עד אינסוף על הים מעל עננים</l>
+          <l>ואני מרגישה איך הרוח הקרה</l>
+          <l>מנעימה את ימי ואת לילותי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אנשים לפעמים נראים אחרת</l>
+          <l>הנגלה לפעמים מטעה</l>
+          <l>משתדל גם אותך לראות אחרת</l>
+          <l>בדיבור קולי משתנה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בואי אלי כי הלב בוער בי</l>
+          <l>בואי אלי כי הלב בוער</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

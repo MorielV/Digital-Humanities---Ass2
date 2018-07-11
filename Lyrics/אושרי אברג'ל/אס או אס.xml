@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אס או אס</title>
+        <singer classification="unknown">אושרי אברג ל</singer>
+        <writer>גילי זכאי</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אס או אס</head>
+        <lg number="1" type="stanza">
+          <l>רק הגעתי ואת פתאום הולכת</l>
+          <l>לא ידעתי אם את חוזרת</l>
+          <l>כבר אמרו שאת בי משחקת</l>
+          <l>ושבסוף רק תשברי לי את הלב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא הקשבתי רק עלייך</l>
+          <l>כל היום חשבתי ואחרייך</l>
+          <l>רק הלכתי כמו עיוור אלייך</l>
+          <l>שלא רואה את עצמו בשבילך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם את כאן אז זה בטח נכון</l>
+          <l>תני לי זמן כבר נמאס לי לשאול</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>למה זה למה זה</l>
+          <l>הכל הולך איתך כל כך קשה רק רוצה</l>
+          <l>אותך יאמאמי</l>
+          <l>למה זה למה זה</l>
+          <l>אני כבר לא יודע</l>
+          <l>מתי תהיי שלי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>די תפסיקי כל זה אותי הורס</l>
+          <l>מתי תביני שבלעדייך</l>
+          <l>אין לי חשק אז בואי אס.או.אס</l>
+          <l>אני צריך אותך דחוף לידי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אם את כאן אז זה בטח נכון</l>
+          <l>תני לי זמן כבר נמאס לי לשאול</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

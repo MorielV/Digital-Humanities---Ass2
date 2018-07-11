@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם אלך</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אמה מטה לוי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם אלך</head>
+        <lg number="1" type="stanza">
+          <l>אם אלך אל בית חם</l>
+          <l>שם אפגוש את כולם</l>
+          <l>אב ואם אח ואחות</l>
+          <l>סב זקן פניו קמוטות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם רק אני לעצמי</l>
+          <l>אם רק אני לבדי</l>
+          <l>יש חלום בתוכי</l>
+          <l>יש מאור בליבי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם שבת אם במועד</l>
+          <l>יש שמחה יש אמת</l>
+          <l>שם נרות שבת וחג</l>
+          <l>חם בלב חם לעד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כי רק אני לעצמי</l>
+          <l>כי רק אני לבדע</l>
+          <l>יש עצה לי משם</l>
+          <l>גם אמי בעדם</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם אלך אל ילדותי</l>
+          <l>שם אפגוש את תומי</l>
+          <l>שם נרות שבת וחג</l>
+          <l>שם הלב שם לעד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

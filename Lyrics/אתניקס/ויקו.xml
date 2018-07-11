@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ויקו</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ויקו</head>
+        <lg number="1" type="stanza">
+          <l>מתוך חלון בקצה השכונה נורתה לה ירייה אחרונה</l>
+          <l>מתוך מכנס דהוי של קטין נשלף ואז דקר הסכין</l>
+          <l>מתוך תסכול וחוסר עניין יצא אל העולם עבריין</l>
+          <l>מתוך קיפוח ואפליה יהיה מה שיהיה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לויקו הייתה מטרה דיי ברורה בגיל שלושים הוא תכנן להביא ת'מכה</l>
+          <l>עם שתי בלונדיוניות יאכטה גדולה לחופשה של שנתיים</l>
+          <l>בגלל שתמיד הוא רצה רק יותר הוא לא נזהר כשמכר קוקאין לשוטר</l>
+          <l>קיבל הוא שני כדורים ויצא לחופשה בשמיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לויקו לא השאירו ברירה בסוף בגדה בו החברה</l>
+          <l>חזה שופע האזנות עד שהיו מספיק ראיות</l>
+          <l>מוסר השכל הפשע מוביל למות בגיל צעיר כמו דביל</l>
+          <l>ואם כבר במוסר עסקינן - הוא לא העבריין!             </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לויקו הייתה מטרה דיי ברורה בגיל שלושים הוא תכנן להביא ת'מכה</l>
+          <l>עם שתי בלונדיוניות יאכטה גדולה לחופשה של שנתיים</l>
+          <l>בגלל שתמיד הוא רצה רק יותר הוא לא נזהר כשמכר קוקאין לשוטר</l>
+          <l>קיבל הוא שני כדורים ויצא לחופשה בשמיים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

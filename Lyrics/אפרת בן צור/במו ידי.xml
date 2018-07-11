@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>במו ידי</title>
+        <singer classification="female singer">אפרת בן צור</singer>
+        <writer>רחל</writer>
+        <composer>אביתר בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>במו ידי</head>
+        <lg number="1" type="stanza">
+          <l>את דלתות לבבי אנעל, </l>
+          <l>המפתח הימה אזרוק - </l>
+          <l>פן חרוד יחרד הלב </l>
+          <l>לקראתך, לקולך מרחוק. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והיו הבקרים אפלים, </l>
+          <l>והיו ערבי אנחות, </l>
+          <l>ומכל תנחומי רק אחד: </l>
+          <l>כי ידי עוללה לי זאת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

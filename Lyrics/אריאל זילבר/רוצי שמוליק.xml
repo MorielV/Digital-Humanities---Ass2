@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוצי שמוליק</title>
+        <singer classification="male singer">אריאל זילבר</singer>
+        <writer>שמוליק צ'יזיק</writer>
+        <composer>שמוליק צ'יזיק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוצי שמוליק</head>
+        <lg number="1" type="stanza">
+          <l>כשאת קמה בבוקר ומתלבשת</l>
+          <l>והשמש לך שולחת דרישת שלום,</l>
+          <l>את שותה כוס קפה ונזכרת</l>
+          <l>איך בלילה הוא הופיע בחלום.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>במהרה במדרגות את יורדת</l>
+          <l>מספיקה לתפוס ת'אוטו האחרון,</l>
+          <l>מגיעה למשרד ונזכרת</l>
+          <l>איך בלילה הוא הופיע בחלום.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רוצי, שמוליק קורא לך</l>
+          <l>ושולח אלף נשיקות.</l>
+          <l>רוצי, שמוליק מחכה לך</l>
+          <l>כמה זמן עוד תתני לו לחכות.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כך עובר כל היום, את לא יודעת</l>
+          <l>אם זו סתם מציאות, או דמיון.</l>
+          <l>את שותה עוד כוס קפה ונזכרת</l>
+          <l>איך בלילה הוא הופיע בחלום.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>דוין דוין דוין...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ובערב כשאת חוזרת הביתה</l>
+          <l>מעיפה מבט חטוף מן החלון</l>
+          <l>הוא עומד שם בפינה ומחכה לך</l>
+          <l>כן, הלילה לא צריך יותר לחלום.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>רוצי, שמוליק קורא לך</l>
+          <l>ושולח אלף נשיקות.</l>
+          <l>רוצי, שמוליק מחכה לך</l>
+          <l>כמה זמן עוד תתני לו לחכות.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

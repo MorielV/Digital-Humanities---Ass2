@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלכת היופי שלי</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>מציאות אחרת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלכת היופי שלי</head>
+        <lg number="1" type="stanza">
+          <l>בדרך לא דרך, אני בא אלייך</l>
+          <l>אולי נולדתי לשיר למענך</l>
+          <l>אור הירח מביט בלילותייך</l>
+          <l>חולם להיות כאן לצידך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם תחכי, אני מבטיח</l>
+          <l>אמצא מפתח לליבך</l>
+          <l>אקטוף כוכב מהרקיע</l>
+          <l>אקשור אותו לחלונך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את הכי יפה בעולם</l>
+          <l>מלכת היופי שלי</l>
+          <l>רק איתך אני מרגיש קיים</l>
+          <l>נולדת בשבילי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הדרך נגמרת, עוד מעט נוגע</l>
+          <l>באהבה שלך, בחלומות שלי</l>
+          <l>את מחייכת ואני יודע </l>
+          <l>שאת נולדת בשבילי.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם תחכי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

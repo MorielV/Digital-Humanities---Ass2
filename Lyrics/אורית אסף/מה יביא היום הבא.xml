@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה יביא היום הבא</title>
+        <singer classification="unknown">אורית אסף</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה יביא היום הבא</head>
+        <lg number="1" type="stanza">
+          <l>כמה רצינו לעלות</l>
+          <l>כמה נשקנו לחולות</l>
+          <l>איך זה שארץ האבות</l>
+          <l>לנו השיבה אכזבות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה יביא היום הבא</l>
+          <l>לא נבין ולא נדע</l>
+          <l>אז עכשיו כדי לחיות</l>
+          <l>בכל רגע להנות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה שמענו הבטחות</l>
+          <l>כמה חיכינו לשמחות</l>
+          <l>איך זה אותך אלפי מילים</l>
+          <l>ככה נשרו כמו עלים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה יביא היום הבא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

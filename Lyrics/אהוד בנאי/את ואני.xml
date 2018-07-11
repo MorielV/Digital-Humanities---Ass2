@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את ואני</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>יוסי בנאי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את ואני</head>
+        <lg number="1" type="stanza">
+          <l>את ואני זה המבט</l>
+          <l>המבויש הזה מעט</l>
+          <l>זה סימני השאלה</l>
+          <l>אחרי כל סוף והתחלה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את ואני זה השתיקות</l>
+          <l>הלבטים, ההפסקות</l>
+          <l>זה השניות המרגשות</l>
+          <l>זה שתי עיניי המבקשות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את ואני זה זמן חסר</l>
+          <l>זה לב אוהב ומתייסר  </l>
+          <l>זה הסיפור הלא נגמר</l>
+          <l>של המתוק הזה המר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה שנשאר זה לקוות</l>
+          <l>שאלוהי האהבות</l>
+          <l>יפרוש עלינו את כנפיו</l>
+          <l>כדי שנאהב, כדי שנאהב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את ואני זה סוד כמוס</l>
+          <l>זה האיפוק וההיסוס</l>
+          <l>הפגישות החטופות</l>
+          <l>אשר צפות וכבר חולפות</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>את ואני זו הפגישה</l>
+          <l>של איש אוהב ושל אישה</l>
+          <l>אשר קשורים מלב אל לב</l>
+          <l>באמונה ובכאב</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>את ואני זה נר תמיד</l>
+          <l>שמספר וגם מעיד</l>
+          <l>על אהבה אחת תמה</l>
+          <l>שלא מצאה לה נחמה </l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>מה שנשאר זה לקוות</l>
+          <l>שאלוהי האהבות</l>
+          <l>יפרוש עלינו את כנפיו</l>
+          <l>כדי שנאהב, כדי שנאהב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

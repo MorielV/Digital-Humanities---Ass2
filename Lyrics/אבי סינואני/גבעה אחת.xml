@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גבעה אחת</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>נתן יונתן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גבעה אחת</head>
+        <lg number="1" type="stanza">
+          <l>היה היתה גבעה אחת שטופת-פרחים, טללים הישקוה</l>
+          <l>היה היתה ביקתה אחת, צריף עץ יחיד במרחבים.</l>
+          <l>עתה, בנטות צילו הזמן על זיכרונות וגעגוע</l>
+          <l>הן רועדות בערפל עם רוח זע בעשבים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בבות-עיניך עצומות,</l>
+          <l>תקשיב עמוק אל תוך חייך,</l>
+          <l>על גבעתך האפורה רוטט מסך הערפל.</l>
+          <l>יחף תפסע, ומהורהר</l>
+          <l>על הדשאים ומעליך</l>
+          <l>ירחפו בנטות היום עטלפים מעוף יפה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ברזל ישן, גשמים וטל החלידו להב-מחרשת.</l>
+          <l>כל הכלה והכומש שב להיות פשוט עפר.</l>
+          <l>פתאום תחוש איך יד-הזמן על עפעפיך מגששת</l>
+          <l>ומניחה שנים כבדות עלי כתפך העייפה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תוסיף לנדוד במשעולים, רחוק מחסד-נעוריך,</l>
+          <l>אבל קרוב מהם לנהות אל השנים הראשונות -</l>
+          <l>אל גבעתך, אל היפה, אשריך, איש, אם אחריך</l>
+          <l>עוד תישאר גבעה כזאת שטופת פרחים וזיכרונות.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

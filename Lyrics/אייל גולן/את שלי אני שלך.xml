@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את שלי אני שלך</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>אקורדים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את שלי אני שלך</head>
+        <lg number="1" type="stanza">
+          <l>מה עוד אפשר לבקש</l>
+          <l>אם יש לי הכל משמיים </l>
+          <l>כוכב מעלי אותך מול עיני</l>
+          <l>ואת חגיגה לעיניים</l>
+          <l>היו לי בלב משאלות</l>
+          <l>כמו ילד חלמתי עלייך</l>
+          <l>היום בזכותך אני מחייך</l>
+          <l>ושר כל הדרך אלייך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את שלי אני שלך</l>
+          <l>את איתי ואני איתך</l>
+          <l>כמו השמש והים לעולם</l>
+          <l>את האור שמעלי</l>
+          <l>והחום בלילותי</l>
+          <l>את שוכנת בתוכי לעולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה רציתי אותך</l>
+          <l>ראיתי את שנינו ביחד</l>
+          <l>אני בן אדם סוער כמו הים</l>
+          <l>ואת כמו השמש זורחת</l>
+          <l>אולי זה כתוב על הלב</l>
+          <l>אולי זה פשוט מלמעלה</l>
+          <l>אני מחובר אלייך חזק</l>
+          <l>קשור כמו היום אל הלילה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את שלי אני שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

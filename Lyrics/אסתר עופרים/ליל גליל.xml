@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ליל גליל 2</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>נתן אלתרמן</writer>
+        <composer>מרדכי זעירא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ליל גליל</head>
+        <lg number="1" type="stanza">
+          <l>כל הכפר שוקט, רוגע</l>
+          <l>שבו, שבו עדרים.</l>
+          <l>אל הדרך לי אצאה</l>
+          <l>ועיני אל ההרים.</l>
+          <l>על הרים שוכן הלילה,</l>
+          <l>ערפל מלא הגיא.</l>
+          <l>שר הרוח: אביגיל,</l>
+          <l>בואי, בואי אחרי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ליל גליל, ליל גליל,</l>
+          <l>רוח בא קל קליל,</l>
+          <l>ליל גליל לילה ליל,</l>
+          <l>רוח, רוח, רוח ליל.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מעלי שמי מרום.</l>
+          <l>לרגלי - מי מרום.</l>
+          <l>על ההר שוכן ענן,</l>
+          <l>שביל בהר מוליך לדן,</l>
+          <l>ערפל בגיא שוכן,</l>
+          <l>שביל מוליך אל הירדן.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ליל גליל, ליל גליל...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שר הרוח: לילה ליל,</l>
+          <l>מי יוצא אל ההרים?</l>
+          <l>לא הגדי ולא האיל,</l>
+          <l>לא רועה ועדרים.</l>
+          <l>ועונה לו אביגיל:</l>
+          <l>לא יצא בליל הגדי,</l>
+          <l>רק לבי יוצא בליל</l>
+          <l>אל דודי, אל יחידי!</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ליל גליל, ליל גליל...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>מעלי שמי מרום.</l>
+          <l>לרגלי - מי - מרום.</l>
+          <l>על ההר שוכן ענן,</l>
+          <l>ודודי הלך לדן.</l>
+          <l>ערפל בגיא שוכן,</l>
+          <l>רד דודי אל הירדן.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>ליל גליל, ליל גליל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

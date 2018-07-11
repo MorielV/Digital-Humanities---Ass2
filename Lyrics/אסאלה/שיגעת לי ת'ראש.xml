@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיגעת לי ת ראש</title>
+        <singer classification="female singer">אסאלה</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>צ'ולי זכאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיגעת לי ת'ראש</head>
+        <lg number="1" type="stanza">
+          <l>זה אתה מופיע לי בתוך המחשבות</l>
+          <l>ואין בכלל גבולות לאהבה הזאת</l>
+          <l>אתה מחכה לי בימים ובלילות</l>
+          <l>אני יודעת שהכל יכול להיות</l>
+          <l>רבתי עם המשפחה</l>
+          <l>הכל זה בגללך</l>
+          <l>אני יודעת שהלב שלי שייך לך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא יודעת מה קורה לי</l>
+          <l>איך בלבלת לי ת'ראש</l>
+          <l>לא נרדמת בלילות אותך רוצה לפגוש</l>
+          <l>לא תבין אף פעם מה עשית לי</l>
+          <l>אתה פשוט שיגעת ת'נשמה שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני מחכה לך תבוא אלי מהר</l>
+          <l>מחכה בבית אתה שוב מאחר</l>
+          <l>אצלי המתח הולך ומתגבר</l>
+          <l>אני כועסת אתה לא מדבר</l>
+          <l>רבתי עם המשפחה</l>
+          <l>הכל זה בגללך</l>
+          <l>אני יודעת שהלב שלי שייך לך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא יודעת מה קורה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

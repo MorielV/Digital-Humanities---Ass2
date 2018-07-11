@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני עף</title>
+        <singer classification="female singer">אתי אנקרי</singer>
+        <writer>דוד ד'אור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני עף</head>
+        <lg number="1" type="stanza">
+          <l>בכל פעם כשאני רואה אותך</l>
+          <l>בכל פעם כשאני אוהב אותך</l>
+          <l>אני עף, הו אני עף</l>
+          <l>אני עף אלייך כמו ענן שיכור</l>
+          <l>נמשך אלייך כמו פרפר לאור</l>
+          <l>אני עף, הו אני עף</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אולי אנחנו מרחפים בדמיונות</l>
+          <l>כשבתוכנו כוונות שמשתנות</l>
+          <l>ובתוכנו, בתוכנו אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בכל פעם שאנחנו מדברים</l>
+          <l>ומתחברים רק במקומות המוזרים</l>
+          <l>אני עף, הו אני עף</l>
+          <l>בכל פעם כשאנחנו מתקרבים</l>
+          <l>ושוכחים את המקומות הכואבים</l>
+          <l>אני עף, הו אני עף</l>
+          <l>אולי אנחנו מרחפים בדמיונות</l>
+          <l>כשבתוכנו כוונות שמשתנות</l>
+          <l>ובתוכנו, בתוכנו אהבה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

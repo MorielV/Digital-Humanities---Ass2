@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל ההתחלות קשות</title>
+        <singer classification="male singer">איתן מסורי</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>איתן מסורי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל ההתחלות קשות</head>
+        <lg number="1" type="stanza">
+          <l>צעד בצעד</l>
+          <l>בדרך ליעד</l>
+          <l>ויש מכשולים די גבוהים.</l>
+          <l>שמש ורוח</l>
+          <l>ואין פנאי לנוח</l>
+          <l>ודאי זה בכלל לא נעים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הרחק אל האופק</l>
+          <l>בהולם הדופק</l>
+          <l>כי זה מה שיש בחיים.</l>
+          <l>הבט קצת למעלה,</l>
+          <l>עוד צעד והלאה,</l>
+          <l>ימים נחמדים שם באים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל ההתחלות קשות</l>
+          <l>אבל אחר כך קל יותר.</l>
+          <l>כל ההתחלות קשות</l>
+          <l>אסור אף-פעם לוותר!</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איך היא מסתכלת</l>
+          <l>בך ושואלת:</l>
+          <l>מדוע אתה כה עייף?!</l>
+          <l>והיא לא יודעת</l>
+          <l>כמה מייגעת</l>
+          <l>הדרך הזו עד כאב.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אבל כבר הגעת</l>
+          <l>למה שחלמת</l>
+          <l>אחרי מאמץ לא קטן.</l>
+          <l>כמעט שנפלת,</l>
+          <l>אבל התגברת.</l>
+          <l>מה טוב שהגעת לכאן!</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל ההתחלות קשות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

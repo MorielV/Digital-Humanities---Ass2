@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני ואת 5</title>
+        <singer classification="male singer">ארז דן</singer>
+        <writer>ארז דן</writer>
+        <composer>ארז דן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני ואת</head>
+        <lg number="1" type="stanza">
+          <l>אני ואת זו זעקה באפלה</l>
+          <l>עם לפידים וצעדים שלא נדע</l>
+          <l>אני ואת זה כמו תפילה כמו אמונה</l>
+          <l>רק אין מי שיוכיח לנו אותה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני ואת טיפות של גשם בחמסין </l>
+          <l>נופלים תמיד ברגעים הכי יפים</l>
+          <l>אני ואת כל כך שונים כל כך דומים</l>
+          <l>ממה לעזאזל אנחנו פוחדים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ליבך תלה בי שלט "תכף אשוב"</l>
+          <l>אני או את תגידי מה יותר חשוב</l>
+          <l>משתיקתך עוברים משב של הסכמה</l>
+          <l>אני ואת לא, זה לא מה שהיה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני ואת זו הצדעה לאשליה </l>
+          <l>שהתנפצה לי בפנים הבת...</l>
+          <l>זוכרת איך אמרנו שהכל רק לטובה</l>
+          <l>אני ואת לא כאן עברו להם דירה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני ואת כל כך שונים כל כך דומים</l>
+          <l>ממה לעזאזל אנחנו פוחדים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

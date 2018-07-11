@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שחזור 2</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אבי טולדנו</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שחזור</head>
+        <lg number="1" type="stanza">
+          <l>לא תוכל אף פעם להבין מה יש בי</l>
+          <l>לא תוכל אף פעם להרגיש מה אין בי</l>
+          <l>ואטום לזעקה וחסום לנחמה</l>
+          <l>הציפור לא תעוף</l>
+          <l>היא לא תדע לאן</l>
+          <l>הציפור אם רק תעוף</l>
+          <l>תמיד תחזור לכאן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה רק סיפור אחד חולף</l>
+          <l>ליבי עייף</l>
+          <l>בוהה במרחקים</l>
+          <l>אור בא מן השחקים</l>
+          <l>סיפור קטן ועם הזמן</l>
+          <l>עם שוך הסערה</l>
+          <l>תשוב בחזרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא תוכל אף פעם להרגיש מה יש בי</l>
+          <l>אהבה גועשת בתוכי</l>
+          <l>שבויה בי</l>
+          <l>ואטום לדמעתה</l>
+          <l>וחסום לצערה</l>
+          <l>הציפור לא תעוף</l>
+          <l>היא לא תדע לאן</l>
+          <l>הציפור אם רק תעוף</l>
+          <l>תמיד תחזור לכאן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה רק סיפור אחד חולף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

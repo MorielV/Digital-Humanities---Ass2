@@ -1,0 +1,38 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך זה שכוכב</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>נתן זך</writer>
+        <composer>אקורדים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך זה שכוכב</head>
+        <lg number="1" type="stanza">
+          <l>איך זה שכוכב אחד לבד מעז.</l>
+          <l>איך הוא מעז, למען השם.</l>
+          <l>כוכב אחד לבד.</l>
+          <l>אני לא הייתי מעז.</l>
+          <l>ואני, בעצם, לא לבד.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

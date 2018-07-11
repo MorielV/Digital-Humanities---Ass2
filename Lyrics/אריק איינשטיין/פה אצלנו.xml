@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פה אצלנו</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>גיא בוקאטי</writer>
+        <composer>גיא בוקאטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פה אצלנו</head>
+        <lg number="1" type="stanza">
+          <l>בערב, בבית, יושב בכורסה</l>
+          <l>על המסך יש אישה שבוכה ובוכה </l>
+          <l>אין לה בית, אין משפחה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אין לה בעצם מה להגיד </l>
+          <l>היא מחכה לניסים, היא בוכה לפקיד </l>
+          <l>אין לה כסף, אין עבודה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מעביר ערוץ יש כנופיה חדשה</l>
+          <l>שודדים את הזקנים, נטפלים לחולשה</l>
+          <l>מה עוד יקרה פה עד שמישהו יבין</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה פה אצלנו כל שני וחמישי</l>
+          <l>זה לידנו קבצנים בכביש ראשי</l>
+          <l>לא רוצה לעורר את המועקות</l>
+          <l>לא רוצה להתבכיין, אני רוצה לבכות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>המלחמות נמשכות בין הטובים לרעים</l>
+          <l>הכסף נשפך ואחרים רעבים</l>
+          <l>מה הולך פה, אולי מישהו יסביר</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>על כל כוכב שנולד שני אומנים נגמרים</l>
+          <l>על כל טבעת ביד יש עשרה שפוקדים</l>
+          <l>מה קורה הולך פה, אני לא מאמין</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>זה פה אצלנו כל שני וחמישי...</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>אני זוכר ימים יפים בחוף שנעלם</l>
+          <l>אמרתי לחבר, נשנה את העולם</l>
+          <l>הוא מצא את אלוהים, אני נשארתי כאן</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>זה פה אצלנו כל שני וחמישי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,39 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טוס גבוה</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>שגיא צורף</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טוס גבוה</head>
+        <lg number="1" type="stanza">
+          <l>טוס גבוה, סע רחוק</l>
+          <l>אתה תראה מלמעלה</l>
+          <l>הכל כחול</l>
+          <l>אתה תראה מלמעלה</l>
+          <l>הכל פשוט יותר</l>
+          <l>מעכשיו, עכשיו רק שמיים וים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

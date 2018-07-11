@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חור בלבנה</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>ברוך בן יצחק</writer>
+        <composer>missing</composer>
+        <album>קול וחומר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חור בלבנה</head>
+        <lg number="1" type="stanza">
+          <l>לא יכול לשכוח, את הרגע בו רציתי,</l>
+          <l>לאסוף כבר את הכל, ולא היה בי את הכוח</l>
+          <l>להמשיך ולעבור את כל מה, שאין בו כוונה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תן לי אבן דרך, ואדע איך להמשיך,</l>
+          <l>נשאר כאב עמוק בפנים, אני רציתי רק ללכת</l>
+          <l>כמו להיות תמונה שנקרעה,</l>
+          <l>חור בלבנה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>באור חיוור, במלכודת השעה,</l>
+          <l>בא מלאך, תראו מה יש לו ביד,</l>
+          <l>מה שמפריד בין טוב לרע,</l>
+          <l>זה אחי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>במילים פוגע, לפעמים לא מתכוון, אני נשאר</l>
+          <l>לבד,</l>
+          <l>אחרון על ספינה שטובעת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כמו בהזייה אני חוזר לנקודה</l>
+          <l>שבה התחלתי אז ללכת בתקווה שלא לזחול</l>
+          <l>בתוך כל זה נדמה, אני מתקרב</l>
+          <l>עומד על הקצה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלומות למבוגרים</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>חלומות למבוגרים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלומות למבוגרים</head>
+        <lg number="1" type="stanza">
+          <l>הלילה לא הייתי פה, הייתי שם</l>
+          <l>ולא הרגשת אותי קרוב בגלל הסם</l>
+          <l>הלילה לא חוויתי כלום, כמו נעלם</l>
+          <l>אוננתי ואפילו לא בכיתי סתם</l>
+          <l>הלילה לא חיבקתי, ואפילו לא נגעתי בך</l>
+          <l>היית ילדה, הייתי ילד, מה לי, מה לך</l>
+          <l>הלילה, כשהעיר עייפה מאנשים רעים</l>
+          <l>שכבנו שם, חלמנו חלומות למבוגרים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עפה הציפור, הלוואי שגם יכולתי כמותה</l>
+          <l>לרחף מעל הכל איתך </l>
+          <l>איתך</l>
+          <l>מחפשת מסתור, הלוואי וגם הייתי כמותה</l>
+          <l>ונרדם בשקט עד מחר איתך</l>
+          <l>איתך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלילה לא הייתי פה, הייתי שם</l>
+          <l>ולא הרגשת אותי קרוב בגלל הסם</l>
+          <l>הלילה לא חוויתי כלום, כמו נעלם</l>
+          <l>אוננתי ואפילו לא בכיתי סתם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

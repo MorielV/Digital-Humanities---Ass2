@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בקצה הקשת</title>
+        <singer classification="unknown">איציק ינקלביץ </singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>איציק ינקלביץ'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בקצה הקשת</head>
+        <lg number="1" type="stanza">
+          <l>בקצה הקשת </l>
+          <l>יושב מלאך </l>
+          <l>והוא משקיף עלינו. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בזמן שגשם </l>
+          <l>כבד ניתך, </l>
+          <l>הוא מחייך אלינו. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שרק תדעי שיש מלאך </l>
+          <l>גם אם הוא לא נראה לעין. </l>
+          <l>ולפעמים כשהוא ישכח, </l>
+          <l>אני אהיה איתך עדיין. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בקצה הקשת </l>
+          <l>יושב מלאך </l>
+          <l>בלובן הכנפיים. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לאור השמש </l>
+          <l>צבעו ידעך </l>
+          <l>על רקע השמיים. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שרק תדעי שיש מלאך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גם באש וגם במים</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גם באש וגם במים</head>
+        <lg number="1" type="stanza">
+          <l>את האושר את היופי רק אותך אהבתי</l>
+          <l>כל חיי בתשי ידייך נשמה שלי</l>
+          <l>בטבעת מקודשת לך אני נשבעתי</l>
+          <l>שתמיד אהיה שלך ואת תהיי שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גם באש וגם במים</l>
+          <l>לעולם נהייה בשניים</l>
+          <l>לא תכבה אהבתינו עד סוף הימים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החיוך שעל שפתייך את הכל משכיח</l>
+          <l>הוא מאיר לי את החשק והלב רוקד</l>
+          <l>בחיי אני נשבע לך לעולם מבטיח</l>
+          <l>נישאר תמיד ביחד ולא נפרד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גם באש וגם במים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יום ולילה ---- אחרייך</l>
+          <l>כל הדרך ---- בא אלייך</l>
+          <l>אל הטעם --- בשפתייך של האהבה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

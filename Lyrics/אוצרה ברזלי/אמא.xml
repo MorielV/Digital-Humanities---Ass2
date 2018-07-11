@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמא 16</title>
+        <singer classification="unknown">אוצרה ברזלי</singer>
+        <writer>אוצרה ברזלי</writer>
+        <composer>אוצרה ברזלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמא</head>
+        <lg number="1" type="stanza">
+          <l>אמא היא יד מלטפת </l>
+          <l>אמא בחום היא עוטפת </l>
+          <l>אמא נתינה גדולה </l>
+          <l>הגשמה של משאלה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אמא, אמא - לך תודה </l>
+          <l>על כל ההשקעה ועל כל העבודה </l>
+          <l>אמא - אותך אני אוהב </l>
+          <l>אמא - תודה מכל הלב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אמא היא לב רחב </l>
+          <l>אמא - ידי זהב </l>
+          <l>אמא אהבת אינסוף </l>
+          <l>אמא - תמיד יהיה לנו טוב </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אמא, אמא - לך תודה </l>
+          <l>על כל ההשקעה ועל כל העבודה </l>
+          <l>אמא - אותך אני אוהב </l>
+          <l>אמא - תודה מכל הלב </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אמא את יד מלטפת </l>
+          <l>אמא בחום את עוטפת </l>
+          <l>אמא נתינה גדולה </l>
+          <l>הגשמה של משאלה </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אמא את היא לב רחב </l>
+          <l>אמא את ידי זהב </l>
+          <l>אמא אהבת אינסוף </l>
+          <l>אמא - תמיד יהיה לנו טוב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

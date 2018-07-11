@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלב המדבר</title>
+        <singer classification="unknown">איציק ינקלביץ </singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>איציק ינקלביץ'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלב המדבר</head>
+        <lg number="1" type="stanza">
+          <l>דני פורט על גיטרה </l>
+          <l>לאור מדורה של זהב </l>
+          <l>ונועה יושבת ושרה </l>
+          <l>שירים שאביה אהב. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ג'ון מחבק את בת-שבע, </l>
+          <l>נשען בגבו על ההר </l>
+          <l>ויש לנו חלק בטבע </l>
+          <l>הלילה בלב המדבר. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בנוף הפתוח </l>
+          <l>ראש סלע מואר. </l>
+          <l>דבר לא ידוע </l>
+          <l>בלב המדבר. </l>
+          <l>עתים הוא פרוע </l>
+          <l>כמו רוח בהר </l>
+          <l>עתים הוא רגוע, </l>
+          <l>נינוח וקר. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עכשיו מתחברים אל השקט </l>
+          <l>כאבן של חול וטרשים, </l>
+          <l>ורוח חופשית מתרפקת </l>
+          <l>על כל מיתרי החושים. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אולי הנביא והמלך </l>
+          <l>דרוכים במסתור וחולמים. </l>
+          <l>אולי שיירות על הדרך </l>
+          <l>נושאות תבלינים ובשמים. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בנוף הפתוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

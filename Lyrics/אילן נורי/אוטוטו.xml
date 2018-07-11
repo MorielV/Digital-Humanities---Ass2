@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אוטוטו</title>
+        <singer classification="male singer">אילן נורי</singer>
+        <writer>מעין כץ</writer>
+        <composer>מעין כץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אוטוטו</head>
+        <lg number="1" type="stanza">
+          <l>יש בעיות את יודעת </l>
+          <l>שלא נפתרות עם הזמן </l>
+          <l>ויש דאגות את שומעת </l>
+          <l>שאין בסביבה מזומן </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז בואי ונלך עכשיו כמו פעם </l>
+          <l>נתפלל בתוך הפרדסים </l>
+          <l>שיוסיפו לחיים קצת טעם </l>
+          <l>וישלחו לנו כמה ניסים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אוטוטו נזכה בלוטו </l>
+          <l>אוטוטו אקנה לך באוטו </l>
+          <l>ונברח איתו רחוק אל ההרים </l>
+          <l>אוטוטו רק שנינו יחד </l>
+          <l>נתחבק חזק בלי פחד </l>
+          <l>נחייה חיים אחרים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את כה יפה משגעת </l>
+          <l>והבנק משגע אותי </l>
+          <l>אהבות וחובות את שומעת </l>
+          <l>מחבקות וחונקות גם אותי </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז בואי ונלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

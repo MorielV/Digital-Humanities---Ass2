@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הסמרטוטים</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הסמרטוטים</head>
+        <lg number="1" type="stanza">
+          <l>החולשה שלו</l>
+          <l>מול העצבים שלך</l>
+          <l>כשאת בוגדת בו</l>
+          <l>הוא מבקש סליחה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הוא ימות בשקט</l>
+          <l>כשאת תלכי</l>
+          <l>הוא ישיר בשקט את</l>
+          <l>שיר הסמרטוטים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את צוחקת בחיוך רחב</l>
+          <l>ולי שנה כבר לא האיר כוכב</l>
+          <l>כשאני בא את נהיית חולה</l>
+          <l>וכשאת חולה אני תמיד בא</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ולך זה נוח ככה</l>
+          <l>את לא תעזבי</l>
+          <l>את רק עושה לו קול שני</l>
+          <l>לשיר הסמרטוטים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את צוחקת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

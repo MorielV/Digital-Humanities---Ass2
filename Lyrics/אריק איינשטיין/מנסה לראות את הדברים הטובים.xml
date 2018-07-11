@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנסה לראות את הדברים הטובים</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>אוהב להיות בבית</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנסה לראות את הדברים הטובים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>מנסה לראות את הדברים הטובים</l>
+          <l>מנסה לראות את האורות הקטנים</l>
+          <l>בתוך החושך הגדול, מחפש לי דרך</l>
+          <l>מנסה לראות את הדברים הטובים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לחשוב שהים הוא תמיד תמיד כחול</l>
+          <l>ואלוהים הוא תמיד הכי גדול</l>
+          <l>בתוך החושך הגדול, מפלס לי דרך</l>
+          <l>מנסה לראות את הדברים הטובים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מנסה לסנן את מה שכתוב בעיתון</l>
+          <l>ומה שקראנו זה בכלל, בכלל לא נכון</l>
+          <l>בתוך החושך הגדול, מצייר לי דרך</l>
+          <l>מנסה לא לראות את הדברים הרעים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מחפש לי דרך, מפלס לי דרך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מנסה לחשוב שבסוף יבוא שלום</l>
+          <l>ומה שחלמנו זה בכלל, בכלל לא חלום</l>
+          <l>בתוך החושך הגדול, אני כורע ברך</l>
+          <l>מחכה שיבוא האור הגדול</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מחפש לי דרך, אני כורע ברך ...</l>
+          <l>מפלס לי דרך, אני כורע ברך</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>מנסה לראות את הדברים הטובים</l>
+          <l>מנסה לראות את האורות הקטנים</l>
+          <l>בתוך החושך הגדול, מחפש לי דרך</l>
+          <l>מנסה לראות את הדברים הטובים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

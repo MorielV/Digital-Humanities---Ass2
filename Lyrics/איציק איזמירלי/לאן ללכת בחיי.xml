@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לאן ללכת בחיי</title>
+        <singer classification="unknown">איציק איזמירלי</singer>
+        <writer>איציק איזמירלי</writer>
+        <composer>איציק איזמירלי</composer>
+        <album>חוויות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לאן ללכת בחיי</head>
+        <lg number="1" type="stanza">
+          <l>אם לפעמים נדמה לך שעזבתי</l>
+          <l>אני עוד כאן ועוד נשארתי מאוהב</l>
+          <l>ולא רציתי לוותר עד שכשלתי</l>
+          <l>אך לא יכולתי להבטיח לך דבר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך התמסרת אלי תמיד כל עוד נשארתי</l>
+          <l>ובלכתי שבור השארתי שאלה</l>
+          <l>אני רוצה עכשיו לומר לך שלא הפסקתי</l>
+          <l>לאהוב אותך כמו בהתחלה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תמיד אותה המחשבה לאן ללכת בחיי</l>
+          <l>תמיד אותה הנטייה לברוח אל מקום מוכר</l>
+          <l>תמיד אותם פחדים קרים המקפיאים את רגשותי</l>
+          <l>בחלומות שלי אני רואה אותך</l>
+          <l>ברצונות שלי אני רוצה איתך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ובמקומי רחוק ממך ואין לי שקט</l>
+          <l>ונגמרו התרוצים לאשליה</l>
+          <l>הכל נראה עכשיו ברור כן את מושלמת</l>
+          <l>לו ידעתי אך לגבור על החולשה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תמיד אותה המחשבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

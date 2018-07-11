@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנסיך הקטן</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנסיך הקטן</head>
+        <lg number="1" type="stanza">
+          <l>שן ילד שן, אתה נסיך קטן.</l>
+          <l>זרעי הבאובב, עוד לא נבטו בכלל.</l>
+          <l>וכשתקום מוקדם מהמיטה,</l>
+          <l>השושנה תלבש את שמלתה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בין אלפי כוכבים נודדות ציפורים</l>
+          <l>עם נסיך מצוייר מתוך ספר.</l>
+          <l>נודדות הן איתו להרחיב דעתו</l>
+          <l>ולדאוג שיהיה לו בסדר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שן ילד שן, המלך לא מוכן.</l>
+          <l>מותר עוד לפהק רק עוד פיהוק קטן.</l>
+          <l>גם יפהק מדליק הפנסים,</l>
+          <l>גם השתיין ואיש העסקים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בין אלפי כוכבים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואם תגיע אל כוכב הלכת שלי,</l>
+          <l>תוכל לפגוש מלייארד מבוגרים ואותי.</l>
+          <l>רק בכוכב שלך אתה הכל יכול,</l>
+          <l>אז תיזהר נסיך קטן שלא ליפול.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בין אלפי כוכבים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

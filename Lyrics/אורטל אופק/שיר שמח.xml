@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר שמח</title>
+        <singer classification="female singer">אורטל אופק</singer>
+        <writer>אורטל אופק</writer>
+        <composer>אורטל אופק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר שמח</head>
+        <lg number="1" type="stanza">
+          <l>כל כך רציתי לכתוב לך שיר שמח </l>
+          <l>שלא תהיי סתם עצובה </l>
+          <l>שלא תבכי לבד בחושך </l>
+          <l>וכל זה רק בגלל שאת </l>
+          <l>קצת אחרת </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל כך רציתי לכתוב לך שיר שמח </l>
+          <l>שלא תהיי יותר לבד </l>
+          <l>שתיזכרי במה שאת אוהבת </l>
+          <l>וכמה את יפה כשאת צוחקת </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בואי ונברח אל מחוזות רחוקים </l>
+          <l>שם הצלחה לא נמדדת בזמן או בכסף </l>
+          <l>הכל הבלים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ביום שייפלו הכוכבים </l>
+          <l>את תהיי יפה מתמיד </l>
+          <l>מקושטת בשמלה </l>
+          <l>ותשירי מעומק נשמתך </l>
+          <l>וכולם ידעו את שמך </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל כך רציתי לכתוב לך שיר שמח </l>
+          <l>שלא תאבד לך התמימות </l>
+          <l>שתאחזי בה כמו שאת אוהבת </l>
+          <l>וכמה את יפה גם כשאת סתם שותקת </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בואי ונברח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

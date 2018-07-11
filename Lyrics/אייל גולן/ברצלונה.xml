@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברצלונה</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>ג'ו עמר</writer>
+        <composer>ג'ו עמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברצלונה</head>
+        <lg number="1" type="stanza">
+          <l>אלייך בא אני</l>
+          <l>המנגן בחצרות</l>
+          <l>אלייך בא ומזמר</l>
+          <l>ומנגן על מנדולינה</l>
+          <l>להלהלהלהה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הו ברצלונה ברצלונה</l>
+          <l>על כלי מיתר</l>
+          <l>עם גיטרה ומנדולינה</l>
+          <l>ליי ליי..</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הו ברצלונה ברצלונה</l>
+          <l>על כלי מיתר</l>
+          <l>עם גיטרה ומנדולינה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עברתי דרך יבשה וים</l>
+          <l>הו הו הו</l>
+          <l>ברצלונה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לך הבאתי מיטב שירתי</l>
+          <l>נא קבלי זאת תשורתי</l>
+          <l>אנא זיכרי את הד קולי</l>
+          <l>כמזכרת לאהבה</l>
+          <l>לה לה לה לה לה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הו ברצלונה ברצלונה</l>
+          <l>על כלי מיתר</l>
+          <l>עם גיטרה ומנדולינה</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>הו ברצלונה ברצלונה על כלי מיתר</l>
+          <l>עם גיטרה ומנדולינה</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>עודך אברך כבשת את לבבי</l>
+          <l>ב-ר-צ-ל-ו-נ-ה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

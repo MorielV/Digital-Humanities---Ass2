@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ורד</title>
+        <singer classification="band">אינפקציה</singer>
+        <writer>גיא בן שיטרית</writer>
+        <composer>גיא בן שיטרית</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ורד</head>
+        <lg number="1" type="stanza">
+          <l>ורד מטפסת כל היום על הגגות,</l>
+          <l>היא עומדת לה בשקט, מביטה במכוניות,</l>
+          <l>ובוחרת בנימוס, על מי הכי פחות,</l>
+          <l>כדאי היום לנחות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וכל החברים, שעומדים עכשיו בצומת,</l>
+          <l>מחכים לה שתקפוץ למטה בלי לחשוש,</l>
+          <l>כי תמיד אפשר יהיה את הגוף,</l>
+          <l>לחבר בחוט תפירה לפרצוף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ורד משותקת מכתף עד אצבעות,</l>
+          <l>היא צולעת לה בשקט, למבנה של רב קומות,</l>
+          <l>לא הספיקה להחלים, וכבר מנסה, ת'מוות להקדים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

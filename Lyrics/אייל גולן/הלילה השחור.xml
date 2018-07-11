@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלילה השחור</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>מיכה שטרית</writer>
+        <composer>לא ידוע</composer>
+        <album>ואני קורא לך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלילה השחור</head>
+        <lg number="1" type="stanza">
+          <l>אל תוך הלילה השחור אני נוסע</l>
+          <l>חוצה גבולות ערים זרות וסמטאות</l>
+          <l>אני לא איתך כי העולם קצת השתגע</l>
+          <l>אני טובע בתוך ים של דמעות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אי שם רחוק כוכב בודד</l>
+          <l>בזוהר אחרון יפול לים המשאלות</l>
+          <l>ורק אחת בקול רועד</l>
+          <l>ביקשתי שמחר אותך אשוב לראות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עברתי יבשות</l>
+          <l>חציתי גם ימים</l>
+          <l>ובכל מקום כמו תפילה את שמך נשאתי...</l>
+          <l>ולא אפסיק לנדוד</l>
+          <l>גם אם אדע תלאות</l>
+          <l>עד שאשוב אל האחת אשר אהבתי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מתוך הלילה השחור אני נוסע</l>
+          <l>חוצה גבולות ערים זרות וסמטאות</l>
+          <l>הרבה לילות אהובתי אני יודע</l>
+          <l>אני הייתי לך חייל של חלומות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אי שם רחוק, ירח שט</l>
+          <l>מעל העיר אשר אהבתי מכל המקומות</l>
+          <l>ועל שפתיי תפילה אחת</l>
+          <l>תודה לאל על שאותך אשוב לראות...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עברתי יבשות חציתי גם ימים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

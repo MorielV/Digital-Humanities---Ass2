@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גן השקמים</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>יצחק יצחקי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גן השקמים</head>
+        <lg number="1" type="stanza">
+          <l>היה היו כאן פעם שקמים,</l>
+          <l>חולות מסביב וגם נוף.</l>
+          <l>העיר תל אביב של אותם הימים</l>
+          <l>היתה בית בודד על החוף.</l>
+          <l>ויש לפעמים נערכו ישיבות</l>
+          <l>מתחת שקמים אז בצל,</l>
+          <l>וליד העצים צחקו הבנות</l>
+          <l>וענו בזמרה: "הי ילל".</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כן, זהו, כן, זהו,</l>
+          <l>זה גן השקמים.</l>
+          <l>היו גם כאלה</l>
+          <l>אי אז בימים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גדלה תל אביב מסביבה פרוורים</l>
+          <l>הכל בה תוכנן ונבדק.</l>
+          <l>נבנו בה כבישים נשכחו השקמים</l>
+          <l>והלבין אז ראשם מאבק.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הכל כאן נבנה בקצבו של הדור -</l>
+          <l>חנויות ובתי שחקים,</l>
+          <l>אך רק אם נפנה מבטנו אחור,</l>
+          <l>ניזכר בשקמים ירוקים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כן, זהו, כן, זהו...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>היום השקמים נעלמו ואינם -</l>
+          <l>רק שלט את שמם עוד מזכיר,</l>
+          <l>כמה ציפורים וספסל מיותם</l>
+          <l>ניצב בליבה של העיר.</l>
+          <l>ומושך הוא אליו, כשהערב יורד</l>
+          <l>ונושרים מן העץ העלים,</l>
+          <l>קבצן מן הרחוב או הלך בודד</l>
+          <l>או זוג צעירים אוהבים.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>כן, זהו, כן, זהו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

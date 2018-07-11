@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בובות</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בובות</head>
+        <lg number="1" type="stanza">
+          <l>אהובתי הביטי </l>
+          <l>הנהרות יבשו </l>
+          <l>שתיקות עולות </l>
+          <l>כמו זרים במלונות </l>
+          <l>אין קשר בינינו </l>
+          <l>אין גשר לשנינו </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הו כמה כבר ניסינו </l>
+          <l>להציל את היום </l>
+          <l>שלובי פחדים </l>
+          <l>איך אנחנו מוותרים </l>
+          <l>על עצמנו </l>
+          <l>תמורת שקט בינינו </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בובות קטנות שמחייכות </l>
+          <l>חוטים עולים חוטים יורדים </l>
+          <l>תמיד קשורים תמיד יפים </l>
+          <l>חוטים עולים חוטים יורדים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>המסכות שלנו </l>
+          <l>כבדות מהדמעות </l>
+          <l>גלי לי מי את </l>
+          <l>ואגלה לך מי אני </l>
+          <l>מאז שהכרנו </l>
+          <l>מזמן לא דיברנו </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בובות קטנות שמחייכות </l>
+          <l>חוטים עולים חוטים יורדים </l>
+          <l>תמיד קשורים תמיד יפים </l>
+          <l>חוטים עולים חוטים יורדים </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>תמיד קשורים תמיד יפים </l>
+          <l>חוטים עולים חוטים יורדים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

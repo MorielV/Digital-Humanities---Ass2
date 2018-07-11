@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hey 2</title>
+        <singer classification="band">אטליז</singer>
+        <writer>מאיה דוניץ</writer>
+        <composer>גיא בן שיטרית</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Hey</head>
+        <lg number="1" type="stanza">
+          <l>Hey I long to play </l>
+          <l>All the dreams I sent out </l>
+          <l>But one stayed </l>
+          <l>Behind to play </l>
+          <l>Hand a purple crayon </l>
+          <l>And paint the rainbow </l>
+          <l>In graceful colors </l>
+          <l>You don't like it </l>
+          <l>I see it in your face </l>
+          <l>And drink it through my finger tips </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Hey I long to play </l>
+          <l>All the dreams I Shipped out </l>
+          <l>But one stayed </l>
+          <l>Behind to play </l>
+          <l>Hand another crayon </l>
+          <l>And paint the rainbow </l>
+          <l>In graceful colors </l>
+          <l>You don't like it </l>
+          <l>I see it in your face </l>
+          <l>And drink it through my finger tips </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Hey I long to play </l>
+          <l>All the babies gone now </l>
+          <l>But mine stayed </l>
+          <l>In my mind to play </l>
+          <l>Mind tricks on me now </l>
+          <l>Insanity is taking over </l>
+          <l>I don't feel a thing </l>
+          <l>You see it in my face </l>
+          <l>And drink it through my finger tip</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עושה לה קרוסלה</title>
+        <singer classification="male singer">אוהד חיטמן</singer>
+        <writer>אוהד חיטמן</writer>
+        <composer>אוהד חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עושה לה קרוסלה</head>
+        <lg number="1" type="stanza">
+          <l>הוא עושה לה קרוסלה</l>
+          <l>והיא עוד לא ראתה</l>
+          <l>שהמשוגע פוגע</l>
+          <l>כשהוא ניסה להתקרב</l>
+          <l>איבדה את דעתה</l>
+          <l>בסוף היא בטח תשתגע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היא בונה את החיים שלה במעגל</l>
+          <l>לא תהיה לה שום ברירה</l>
+          <l>רק אם היא תעזוב יהיה לה טוב</l>
+          <l>למרות שזה לא קל</l>
+          <l>הסחרחורות בראש</l>
+          <l>עושות לה רע</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רק באגדות ובסרטים הישנים</l>
+          <l>קורה משהו טוב לגיבורים</l>
+          <l>אבל בחיים יש אהבות</l>
+          <l>כמו קרוסלות נטושות</l>
+          <l>סתם מסתובבות בלי רגשות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הוא אומר לה במילים יפות</l>
+          <l>שהיא אף פעם לא תוכל</l>
+          <l>שוב אומר ולא נוגע</l>
+          <l>מנסה להתקרב</l>
+          <l>אבל תמיד ישנו "אבל"</l>
+          <l>בסוף היא בטח תשתגע</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רק באגדות ובסרטים הישנים...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>היא מאמינה שיש סיכוי לאהבה</l>
+          <l>מחכה לקרוסלה</l>
+          <l>אם רק תפקח את העיניים</l>
+          <l>היא תבין את מה שמסביבה</l>
+          <l>ותגלה שהוא לא מחכה לה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

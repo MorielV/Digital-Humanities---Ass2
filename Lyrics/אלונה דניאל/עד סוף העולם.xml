@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד סוף העולם</title>
+        <singer classification="female singer">אלונה דניאל</singer>
+        <writer>אלונה דניאל</writer>
+        <composer>אלונה דניאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד סוף העולם</head>
+        <lg number="1" type="stanza">
+          <l>אז התחלנו בספירה לאחור</l>
+          <l>אהבה שמתכסה בשחור</l>
+          <l>אתה צוחק כי אתה שיכור</l>
+          <l>אני מנסה להבין למה זה טוב בכלל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בשמיים עפה הציפור</l>
+          <l>יש לה בית, יש לאן לחזור</l>
+          <l>ואותי שוב זרקו מהקן, לא אשוב גם אם תתחנן</l>
+          <l>עד סוף העולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ריקנות בשני צידי המדרס</l>
+          <l>לא עצוב לי שביתי נהרס</l>
+          <l>ולא כואב לי שאתה אומלל</l>
+          <l>אני מנסה להבין למה זה טוב בכלל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בשמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

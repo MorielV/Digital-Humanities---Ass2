@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מוהיקני זקן</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מוהיקני זקן</head>
+        <lg number="1" type="stanza">
+          <l>נגן מוהיקני זקן</l>
+          <l>אם נשארת חבר</l>
+          <l>גם אני מזדקן</l>
+          <l>כשלו רגלי במסע</l>
+          <l>כי הדרך קשה</l>
+          <l>ואין מקום לקונן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם תלך בלי מטרה</l>
+          <l>רגע של חולשה יתפוס אותך בדרך חזרה</l>
+          <l>חברים יושיטו יד</l>
+          <l>לא תמיד כדי לרמוס אותך</l>
+          <l>לפעמים כדי לתפוס אותך</l>
+          <l>לקבל אותך באהבה</l>
+          <l>להשיב לך את התקוה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ספר מוהיקני חבר</l>
+          <l>איך ליווית אותי בכל שנות ילדותי</l>
+          <l>בודד רוכב בסרט ישן</l>
+          <l>אל הערבה הגדולה</l>
+          <l>בבית קולנוע קטן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם תלך בלי מטרה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

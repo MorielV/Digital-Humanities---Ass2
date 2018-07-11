@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמעט בסדר</title>
+        <singer classification="unknown">איריס לוי</singer>
+        <writer>דויד פרץ</writer>
+        <composer>דויד פרץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמעט בסדר</head>
+        <lg number="1" type="stanza">
+          <l>אל תתקשר אלי בערב</l>
+          <l>אל תדבר איתי בכלל </l>
+          <l>אני עכשיו כמעט בסדר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני כבר לא מחכה לך </l>
+          <l>אז אל תספר לי מה עשית</l>
+          <l>או עם מי בדיוק שכבת </l>
+          <l>כבר הוכחת שאתה יודע</l>
+          <l>איך לעשות לי רע כל כך </l>
+          <l>זה נגמר, זה נגמר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו קשה לי להאמין </l>
+          <l>שהכל בכלל קרה</l>
+          <l>וזה נראה כמו סרט גרוע </l>
+          <l>או סתם בדיחה עצובה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז אל תגיד לי שוב שקר </l>
+          <l>או שאתה עכשיו לבד</l>
+          <l>אני אף פעם לא רציתי </l>
+          <l>רק לפעמים הייתי צריכה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זה נגמר</l>
+          <l>זה נגמר </l>
+          <l>עכשיו זה נגמר</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לא זאת לא אשמתך </l>
+          <l>לא אשמתו של אף אחד</l>
+          <l>שאני התאהבתי בך </l>
+          <l>ולא אהבת אותי כמעט</l>
+          <l>אבל זה כל כך חבל לי </l>
+          <l>וזה הורס אותי בגלל</l>
+          <l>שמישהו חייב להישבר </l>
+          <l>כל פעם שזה נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>זה נגמר</l>
+          <l>זה נגמר</l>
+          <l>עכשיו זה נגמר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תביא קצת דינרוס</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תביא קצת דינרוס</head>
+        <lg number="1" type="stanza">
+          <l>אולי הלילה אני אפול שבוי בזרועותייך</l>
+          <l>תמיד הלכתי שבי אחרייך כמו מאהב עלוב</l>
+          <l>את הריקוד האחרון שמרי לי למזכרת</l>
+          <l>ברגעים כאלה את נזכרת ואז אומרת שוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תביא קצת דינרוס</l>
+          <l>כסף קונה</l>
+          <l>אז תביא קצת דינרוס</l>
+          <l>כסף קונה את הכל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחצרות תמיד חיפשתי לפגוש עשיר לטיני</l>
+          <l>אם תנסי אותי אולי תביני אני אדם פשוט</l>
+          <l>אם אין לי כסף אהבתי תקנה אותך לבטח</l>
+          <l>מאושרים יחדיו נחיה לנצח איך את אומרת שוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תביא קצת דינרוס...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את המלכה של בתי המרזח</l>
+          <l>כולם לכבודך יחגגו</l>
+          <l>אני אתן לך את מה שחסר לך</l>
+          <l>אז איך את אומרת לי שוב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תביא קצת דינרוס...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

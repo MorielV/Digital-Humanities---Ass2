@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הרצליה</title>
+        <singer classification="band">אבטיפוס</singer>
+        <writer>אייל שכטר</writer>
+        <composer>אייל שכטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הרצליה</head>
+        <lg number="1" type="stanza">
+          <l>חזרתי עכשיו מהרצליה</l>
+          <l>מסתובב חסר מנוחה</l>
+          <l>מרגיעים אותי, הכל יהיה בסדר</l>
+          <l>ואני, מה אני עושה עם כל זה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני חושב על הרצליה</l>
+          <l>שאני לא מכיר שם אף אחד</l>
+          <l>אז הסתובבתי, דיברתי, בכיתי, צחקתי</l>
+          <l>אני חייב לספר שבאמת השתדלתי</l>
+          <l>כמעט יצאתי מעורי המשתדל</l>
+          <l>לטפל, לחתל, לשמור על הכל</l>
+          <l>ובכלל, מה ישאר לי מכל זה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>במקום אחר, בזמן אחר, יהיה לי יותר טוב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חייב להפסיק לתעות</l>
+          <l>בדרכים שאני לא מכיר</l>
+          <l>לחזור למקום ממנו התחלתי</l>
+          <l>רק אז, אז אולי ישאר משהו מכל זה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

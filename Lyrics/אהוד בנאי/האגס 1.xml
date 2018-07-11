@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האגס 1</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>אהוד בנאי</writer>
+        <composer>אהוד בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האגס 1</head>
+        <lg number="1" type="stanza">
+          <l>רחוב האגס אחד</l>
+          <l>מעל לחנות הירקות,</l>
+          <l>הבית ריק עכשיו</l>
+          <l>וחשופים הם הקירות,</l>
+          <l>אבל ספוגים הם</l>
+          <l>זכרונות של חג,</l>
+          <l>ריחות של יסמין</l>
+          <l>וניגון ישן שלסעודה מזמין.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רחוב האגס אחד</l>
+          <l>ליד מורטות העופות,</l>
+          <l>ספרי קודש ישנים</l>
+          <l>מצהיבים בארונות,</l>
+          <l>ואין עצה ואין תבונה</l>
+          <l>כנגד הזמן,</l>
+          <l>הולך לו הגדול</l>
+          <l>מגיע הקטן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אסדר לסעודתא</l>
+          <l>בצפרא דשבתא,</l>
+          <l>ואזמין בה השתא</l>
+          <l>עתיקא קדישא.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נהוריה ישרי בה</l>
+          <l>בקידושא רבא,</l>
+          <l>ובחמרא טבא</l>
+          <l>דבה תחדי נפשא.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

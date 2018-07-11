@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל נא תלכי</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל נא תלכי</head>
+        <lg number="1" type="stanza">
+          <l>טוב לי איתך להלך, טוב לי יותר מתמיד</l>
+          <l>רגע שבו את אינך, על נשמתי הוא מכביד.</l>
+          <l>הן מרגע בואך יש לי על מה לחלום,</l>
+          <l>על עוד מקום בליבך שלי יקר מיהלום.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל נא תלכי לשלום, אל תתני ליבך לאחר.</l>
+          <l>תני לי לחיות בחלום שימשיך ולא ייגמר.</l>
+          <l>אנא סלקי הספקות ואמרי שזה ייתכן,</l>
+          <l>אל נא תתני לחכות, בואי ואמרי לי "כן".</l>
+          <l>תני לי לישון בשלווה, עם חיוך שקט בפני</l>
+          <l>תני לי מעט אהבה והנעימי לי את חיי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יחד נלך ונצחק, יחד נמחק את הכאב,</l>
+          <l>למה נשמור על מרחק, למה נסגור את הלב?</l>
+          <l>למה נפחד לאהוב אם זה יפה לכולם,</l>
+          <l>בואי נהיה כה קרוב, יחד נהיה לעולם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל נא תלכי...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל נא תלכי לבדך, אל נא תהיי בודדה</l>
+          <l>כל עוד אני בליבך, שחר יאיר לך, ילדה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

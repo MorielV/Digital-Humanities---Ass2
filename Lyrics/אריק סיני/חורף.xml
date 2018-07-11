@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חורף</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>רחלי שביט</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חורף</head>
+        <lg number="1" type="stanza">
+          <l>כְּמוֹ עוֹנֵשׁ, הַגֶּשֶׁם מַכֶּה </l>
+          <l>רַק בַּחַלּוֹן שֶׁאֶצְלִי </l>
+          <l>וּלְרֶגַע נִדְמֶה לִי שְׁמָהּ שֶׁקָּרָה </l>
+          <l>בְּכֹל זֹאת קָרָה בִּגְלָלִי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אֵין סִימָן שֶׁיַּסְגִּיר </l>
+          <l>שֶׁאוֹתָם רְעָמִים </l>
+          <l>מְעִירִים בַּלֵּילוֹת גַּם אוֹתָךְ </l>
+          <l>הַכֹּל פֹּה מַזְכִּיר </l>
+          <l>שֶׁהָיִינוּ טוֹבִים </l>
+          <l>פִּי כַּמָּה כְּשֶׁהָיִיתִי אִתָּךְ </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רַק אִתָּךְ שָׂרַדְתִּי חוֹרֵף </l>
+          <l>אִתָּךְ הוּא הָיָה </l>
+          <l>יָפֶה כְּמוֹ תְּמוּנָה </l>
+          <l>עַכְשָׁיו הוּא אוֹיֵב, וַאֲנִי כָּאן בָּעוֹרֵף </l>
+          <l>שׂוֹנֵא כֹּל דַּקָּה </l>
+          <l>כֹּל טִיפָּה... </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כְּמוֹ עוֹנֵשׁ, הַקּוֹר לֹא מַרְפֶּה </l>
+          <l>הוּא יֵלֵךְ כְּשֶׁתִּהְיִי שׁוּב שֶׁלִּי </l>
+          <l>עַכְשָׁיו כְּבָר בָּרוּר לִי שֶׁחוֹרֵף זֶה רַע </l>
+          <l>בְּנִפְרָד, וְזֶה רַק בִּגְלָלִי </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רַק אִתָּךְ שָׂרַדְתִּי חוֹרֵף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

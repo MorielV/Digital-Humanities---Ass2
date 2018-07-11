@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נסיכה שלי</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>תומר עג'ם</writer>
+        <composer>איציק קלה</composer>
+        <album>שיהיה רק במזל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נסיכה שלי</head>
+        <lg number="1" type="stanza">
+          <l>איך הזמן עבר מהר</l>
+          <l>לא הספקתי לדבר </l>
+          <l>את ידך שמת בידי</l>
+          <l>ידעתי תהיה שלי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ומאז אני ואת</l>
+          <l>לא הזזנו ת'מבט</l>
+          <l>רק רוצה להיות איתך</l>
+          <l>שבוי באהבה שלך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נסיכה שלי את יקרה לי</l>
+          <l>כשאת לא איתי הלב נשבר לי</l>
+          <l>נסיכה שלי את חשובה לי</l>
+          <l>רק איתך אני מרגיש מושלם </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נסיכה שלי את יקרה לי</l>
+          <l>כשאת לא איתי הלילה קר לי</l>
+          <l>נסיכה שלי את חשובה לי </l>
+          <l>רק אותך בחרתי מכולם</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>איך בכל יום שעובר</l>
+          <l>לך מרגיש שייך יותר</l>
+          <l>כל עוד את נמצאת איתי</l>
+          <l>הכל נראה לא אמיתי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הלוואי ונישאר</l>
+          <l>לעולם לא נוותר</l>
+          <l>מסביב נבנה חומה</l>
+          <l>אוהב אותך באמונה</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>נסיכה שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סטודנט</title>
+        <singer classification="male singer">אופיר נפקר</singer>
+        <writer>אופיר נפקר</writer>
+        <composer>יוסי נפקר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סטודנט</head>
+        <lg number="1" type="stanza">
+          <l>סטודנט ולא עובד במשקפיים כהים </l>
+          <l>דרך העיניים שלי עוד לא ראית </l>
+          <l>ודיבור רהוט הופך למגמגם </l>
+          <l>כדי לכבוש את ליבך צריך עוד להתאמן </l>
+          <l>ההתרגשות מושכת עוד להתקרב </l>
+          <l>אבל הפחד כמו תמיד אי שם אורב </l>
+          <l>איך היופי הזה כל כך מחשמל </l>
+          <l>כדי לכבוש את ליבך צריך עוד להתאמן </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ועכשיו על עצמי אני כועס כי נעמד ומהסס </l>
+          <l>אבל לדעת שגם את בן אדם זה עוזר אז אני חוזר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>באלגנטיות שולף כרטיס ביקור </l>
+          <l>כל אחד צריך לדעת שיש לו סיכוי </l>
+          <l>מהלך על חבל דק בין הטיפות </l>
+          <l>אם תחשוש יותר מדי בסוף עוד תיפול </l>
+          <l>אז תזמינו לי משקה אני בא מיד </l>
+          <l>נדבר על החיים ועל איך שאת </l>
+          <l>עם חיוך כזה מפשיר קרחונים </l>
+          <l>מקפל את הנייר לארבעה חלקים שווים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ועכשיו על עצמי אני כועס כי נעמד ומהסס </l>
+          <l>אבל לדעת שגם את בן אדם זה עוזר אז אני חוזר </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואחרי שהלכת אפשר לנשום לרווחה </l>
+          <l>אתה צריך ילד שלא תתרכז בעצמך </l>
+          <l>אני אהיה תמורתך ואת תמורתי </l>
+          <l>אני הוא היצור הנסתר שמושך בחוטים </l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לאן אלך</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לאן אלך</head>
+        <lg number="1" type="stanza">
+          <l>סירה אני</l>
+          <l>בלי משוטים</l>
+          <l>נסחפת נסחפת</l>
+          <l>אל בין הגלים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לאן אלך</l>
+          <l>הכל תפל</l>
+          <l>עיניי דומעות</l>
+          <l>היקום אפל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רגליי כואבות</l>
+          <l>עיניי נצרבות</l>
+          <l>נפשי עייפה</l>
+          <l>עייפה מכל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לאן אלך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היכן ביתי?</l>
+          <l>היכן אהובי?</l>
+          <l>היכן חלומי</l>
+          <l>הנכסף שלי...?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לאן אלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

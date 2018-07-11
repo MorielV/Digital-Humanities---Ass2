@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מוותרת</title>
+        <singer classification="female singer">אסאלה</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>מאיר עמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מוותרת</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>מוותרת על הכל רק בשבילך </l>
+          <l>זאת אומרת שאני תמיד איתך</l>
+          <l>מוותרת על הכל רק להיות איתך</l>
+          <l>אז תגיד לי מה הדאווין שלך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>השמש נעלמת לה במים</l>
+          <l>החושך מתקדם לכל מקום</l>
+          <l>חיפשתי את הדרך בינתיים</l>
+          <l>כבר שזמן שאין בי הגיון</l>
+          <l>רק תדע הלב מלא בגעגוע</l>
+          <l>רק תדע הלב סוער לא רגוע</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מוותרת על הכל....</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שוב אני הולכת עד אליך</l>
+          <l>בין שבילים גדולים של מועקה</l>
+          <l>גם בכיתי בדרכי הביתה</l>
+          <l>הדמעות שוברות את השתיקה</l>
+          <l>רק תבין אותי לאט יהיה בסדר</l>
+          <l>הכל עוד יסתדר לאט ולאט</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מוותרת על הכל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

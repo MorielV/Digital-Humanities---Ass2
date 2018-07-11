@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך זה פתאום</title>
+        <singer classification="band">אבטיפוס</singer>
+        <writer>אייל שכטר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך זה פתאום</head>
+        <lg number="1" type="stanza">
+          <l>ואיך זה פתאום</l>
+          <l>כשראיתי תמונה שלך</l>
+          <l>באיזה עיתון</l>
+          <l>שאיש לא רואה ואיש לא קורא</l>
+          <l>איך זה פתאום</l>
+          <l>חזרת, וכן, גם הכאב חזר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ודווקא חשבתי</l>
+          <l>ששכחתי אותך</l>
+          <l>את לא יודעת</l>
+          <l>כמה קשה זה היה לי</l>
+          <l>לחייך פתאום הרבה</l>
+          <l>אבל כמו שאמרה אחת</l>
+          <l>בחוץ אתה בסדר</l>
+          <l>והעיניים כבויות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כנראה שאת תמיד תהיי</l>
+          <l>בכל פינה</l>
+          <l>בכל מבט</l>
+          <l>בכל חלום</l>
+          <l>בכל אחת</l>
+          <l>אני נגוע בך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

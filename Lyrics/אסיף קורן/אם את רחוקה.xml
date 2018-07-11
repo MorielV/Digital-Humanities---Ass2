@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם את רחוקה</title>
+        <singer classification="unknown">אסיף קורן</singer>
+        <writer>יואב יצחק</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם את רחוקה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אם את רחוקה, לא חוזרת</l>
+          <l>אם את עצובה וכואבת</l>
+          <l>אהבה לי לא תהיה אחרת</l>
+          <l>אהבה לי לא תהיה אחרת.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רחוק מהעין, היינו רק שניים</l>
+          <l>ידענו ימים, גם לילות כואבים</l>
+          <l>ליבי רק אלייך, מחי דמעותייך</l>
+          <l>נכון לא הבטחתי לך גן של ורדים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם את רחוקה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ענוג הוא הלילה, סוחף הוא למעלה</l>
+          <l>מרעיד בי מיתר, מצפה לא נשבר</l>
+          <l>דמעות בעינייך, פסעתי אלייך</l>
+          <l>רוצה לחלום, לאהוב אם אפשר.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

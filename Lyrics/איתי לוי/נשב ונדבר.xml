@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נשב ונדבר</title>
+        <singer classification="unknown">איתי לוי</singer>
+        <writer>עדי כבירי</writer>
+        <composer>נאור סינואני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נשב ונדבר</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אולי תבואי אליי נשב ונדבר </l>
+          <l>הלב שלי עוד שלך אני רוצה יותר</l>
+          <l>אולי תבואי אליי נשב ונדבר</l>
+          <l>הלב שלי עוד שלך אני לא אוותר</l>
+        </lg>
+        <lg number="2" type="stanza" />
+        <lg number="3" type="stanza">
+          <l>שמעתי שעברת לגור מחוץ לעיר עם עוד בחור</l>
+          <l>שמך ושמו כתובים שם על הדלת</l>
+          <l>אולי זה לא סוף הסיפור זה לא פשוט עם לב שבור</l>
+          <l>אוהב אותך אבל את לא חוזרת   לא חוזרת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אולי תבואי אליי נשב ונדבר </l>
+          <l>הלב שלי עוד שלך אני רוצה יותר</l>
+          <l>אולי תבואי אליי נשב ונדבר</l>
+          <l>הלב שלי עוד שלך אני לא אוותר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חשבתי שהיה חיבור שמשמיים זה סגור </l>
+          <l>אם את שלי אז איך את מוותרת</l>
+          <l>ידעתי שאת פרי אסור מגן העדן הנצור</l>
+          <l>תגידי לי יפה מה את חושבת   מה את חושבת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

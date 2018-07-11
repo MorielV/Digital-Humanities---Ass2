@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחיבאק</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>אלי לוזון</writer>
+        <composer>אלי לוזון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחיבאק</head>
+        <lg number="1" type="stanza">
+          <l>מותק תגידי מה יהיה           </l>
+          <l>לא יכול אני יוצא מדעת</l>
+          <l>תקבלי את האמת</l>
+          <l>שאותה את כבר מזמן </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אהבה היא לא משחק </l>
+          <l>ואני לא אוותר עליה</l>
+          <l>קחי אותי אל המרחק</l>
+          <l>נעוף נאהב ונשתגע</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בחיבאק אנא בחיבאק אנא</l>
+          <l>את כל עולמי אהבתי כנה</l>
+          <l>בחיבאק אנה בחיבאק אנה</l>
+          <l>אני מאוהב ואת אינך עונה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את הרי אישה יפה</l>
+          <l>בחיוך שובב אותי כובשת</l>
+          <l>אין לי דרך חזרה</l>
+          <l>כי אני לכוד חזק ברשת </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אהבה היא לא משחק                    </l>
+          <l>ואני לא אוותר עליה           </l>
+          <l>קחי אותי אל המרחק           </l>
+          <l>נעוף נאהב ונשתגע                       </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בחיבאק אנא בחיבאק אנא</l>
+          <l>את כל עולמי אהבתי כנה</l>
+          <l>בחיבאק אנה בחיבאק אנה</l>
+          <l>אני מאוהב אהבתי כנה</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>בחיבאק אנא בחיבאק אנא</l>
+          <l>את כל עולמי אהבתי כנה</l>
+          <l>בחיבאק אנה בחיבאק אנה</l>
+          <l>אני מאוהב ואת אינך עונה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

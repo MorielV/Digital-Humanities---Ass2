@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני רואה אותך</title>
+        <singer classification="unknown">אורן כהן</singer>
+        <writer>אורן כהן</writer>
+        <composer>אורן כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני רואה אותך</head>
+        <lg number="1" type="stanza">
+          <l>אני רואה אותך, חולפת על פני. </l>
+          <l>אני רואה אותך, אומרת לא כדאי</l>
+          <l>ומחייך חיוך טיפשי</l>
+          <l>ומקווה אולי תיראי. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני רואה אותך, בשמלת פרחים ורודה.</l>
+          <l>אני רואה אותך, איתי ביחד במיטה</l>
+          <l>ומחייך חיוך טיפשי</l>
+          <l>ואת כמעט רואה אותי.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עברו שלושה ימים בינתיים, </l>
+          <l>אולי חיכית, אולי המשכת.</l>
+          <l>אני נשארתי כאן עדיין,</l>
+          <l>מחכה לראות אותך...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני רואה אותך, מביטה בשתי עיני.</l>
+          <l>אני רואה אותך, מחייכת גם אלי.</l>
+          <l>לא מדברים, רק מביטים </l>
+          <l>ומחכים ומחכים. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואת אמרת אני עוזבת,</l>
+          <l>אדע בעוד שלושה ימים.</l>
+          <l>הישארי, אני לחשתי,</l>
+          <l>אך לא יודע אם שמעת ...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עברו שלושה ימים בינתיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לי אח קטן</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לי אח קטן</head>
+        <lg number="1" type="stanza">
+          <l>יש לי אח קטן, שלא מזמן בא לעולם,</l>
+          <l>לא מדבר ולא הולך, אח קטן</l>
+          <l>עיניים לו תכולות גם צוחקות וגם בוכות,</l>
+          <l>אף כפתור תלתל זהוב וחיוך מתוק, אהוב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וכולם אוהבים אותו איתו הם משחקים</l>
+          <l>לא יודעים הם כלל וכלל, שגם אני עוד קצת עולל</l>
+          <l>וכולם אוהבים אותו, אותי הם שוכחים</l>
+          <l>כי אני כבר קצת גדול לגדולים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לי אח קטן שהוא עוד לא הולך לגן,</l>
+          <l>רק כל היום הוא משחק ככה סתם,</l>
+          <l>אני מעיף בלון וגן חובה גומר היום</l>
+          <l>קושר שרוכים בונה בתים הרבה יותר מתינוקים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכולם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש לי אח קטן, שלא מזמן בא לעולם,</l>
+          <l>אף כפתור תלתל זהוב, אח אהוב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

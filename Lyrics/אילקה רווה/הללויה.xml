@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הללויה 4</title>
+        <singer classification="unknown">אילקה רווה</singer>
+        <writer>מתוך תהילים</writer>
+        <composer>עמיחי מעיני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הללויה</head>
+        <lg number="1" type="stanza">
+          <l>הללויה הללו אל בקדשו</l>
+          <l>הללויה בגבורותיו</l>
+          <l>הללויה בתקע שופר</l>
+          <l>הללויה בתוף ומחול</l>
+          <l>הללויה בצלצלי שמע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הללוהו ברקיע עוזו</l>
+          <l>הללוהו ברוב גדלו</l>
+          <l>הללוהו בנבל וכינור</l>
+          <l>הללוהו במינים ועוגב</l>
+          <l>הללוהו בצלצלי תרועה</l>
+          <l>כל הנשמה תהליל יה הללויה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

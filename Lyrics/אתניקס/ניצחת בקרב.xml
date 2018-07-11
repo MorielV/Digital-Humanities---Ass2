@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ניצחת בקרב</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>בדרך שלך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ניצחת בקרב</head>
+        <lg number="1" type="stanza">
+          <l>אתה ראית כבר מספיק וזה הספיק לך</l>
+          <l>לראות איך אף אחד סביבך לא מסופק,</l>
+          <l>תצא לבלות, תשתחרר עד אור הבוקר</l>
+          <l>אתה מבין את הכללים של המשחק.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ניצחת בקרב</l>
+          <l>אבל לא קיבלת שכל,</l>
+          <l>נשארת לבד</l>
+          <l>רק אתה עם כל הסבל,</l>
+          <l>קרבות סינוורו את עיניך שוב כל הלילה,</l>
+          <l>אתה נשאר עם כל מה שנגמר!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה כל כמה חודשים אורז ללכת</l>
+          <l>שובר קצת לבבות בדרך הבריחה,</l>
+          <l>תלמד לעצור, ליהנות מחום ורגש,</l>
+          <l>אם תישאר אולי תמצא גם אהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ניצחת בקרב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

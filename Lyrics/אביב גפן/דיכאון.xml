@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דיכאון</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דיכאון</head>
+        <lg number="1" type="stanza">
+          <l>היה לך כבר נהדר</l>
+          <l>אבל עכשיו גם זה נגמר</l>
+          <l>הפסיכולוגית נפטרה</l>
+          <l>אתה שוב בצרה, זה בא</l>
+          <l>לשונה של הזונה</l>
+          <l>בפיו של מישהו התרסקה, כבר אין חברה</l>
+          <l>אתה יודע שזה בא</l>
+          <l>ולא אמרו לך מילה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>דיכאון, עוד סיפור עצוב בגוף ראשון</l>
+          <l>לא יכול כבר שני לילות לישון</l>
+          <l>מה אתה עושה שם בחלון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ועכשיו , פה ברחוב</l>
+          <l>אתה שיכור וזה לא טוב</l>
+          <l>ועכשיו החברים</l>
+          <l>משחקים במחבואים, מסתתרים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>דיכאון,</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

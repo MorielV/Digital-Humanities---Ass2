@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איכילוב</title>
+        <singer classification="male singer">אורי בנאי</singer>
+        <writer>אורי בנאי</writer>
+        <composer>אורי בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איכילוב</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אתמול בערב יצאתי לרחוב</l>
+          <l>לנשום אויר זה עושה לי טוב</l>
+          <l>פתאום בכביש משאית בא קרוב</l>
+          <l>למחרת התעוררתי באיכילוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>על שפת הים</l>
+          <l>בחורה חטובה</l>
+          <l>הצעתי לה לעשות אהבה</l>
+          <l>חבר שלה בא נתן לי אגרוף</l>
+          <l>למחרת התעוררתי באיכילוב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>התעוררתי באיכילוב</l>
+          <l>זה לא נעים</l>
+          <l>התעוררתי באיכילוב</l>
+          <l>האוכל לא טעים</l>
+          <l>ואין ספק אני צריך להזהר</l>
+          <l>להפסיק באיכילוב להתעורר</l>
+          <l>להפסיק באיכילוב להתעורר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ארזתי מזוודה יצאתי לחו"ל</l>
+          <l>לפצות עצמי בטיול</l>
+          <l>אבל כבר במטוס הרגשתי לא טוב</l>
+          <l>במקום בשוויץ התעוררתי באיכילוב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>התעוררתי באיכילוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

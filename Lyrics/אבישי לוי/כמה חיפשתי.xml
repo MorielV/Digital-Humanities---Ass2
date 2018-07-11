@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה חיפשתי</title>
+        <singer classification="unknown">אבישי לוי</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה חיפשתי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>כמה חיפשתי אותך ולא מצאתי</l>
+          <l>כמה הלב אותך אהב</l>
+          <l>כמה כאב וים דמעות ידעתי</l>
+          <l>למרות הכל לא אמרתי נואש</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ובימים ובלילות </l>
+          <l>נפשי צמאה אותך לראות</l>
+          <l>רק אלוקים יודע אותך אהבתי</l>
+          <l>מתי תשוב אלי אהובי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כמה חיפשתי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל השכנות ריכלו עלי, </l>
+          <l>שולחות מבט אל תוך עיני</l>
+          <l>רק אלוקים יודע אותך אהבתי</l>
+          <l>מתי תשוב אליי אהובי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כמה חיפשתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

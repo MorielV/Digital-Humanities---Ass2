@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אותו רחוב</title>
+        <singer classification="unknown">אליה בוסקילה</singer>
+        <writer>אליה בוסקילה</writer>
+        <composer>אליה בוסקילה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אותו רחוב</head>
+        <lg number="1" type="stanza">
+          <l>יקירי שלי, אל אותו רחוב, אל אותו רחוב</l>
+          <l>חוזרת כבר היום מבטיחה ללכת על הקו</l>
+          <l>שציירת לי יקירי שלי</l>
+          <l>אמרת לי לבוא כשיכאב</l>
+          <l>אמרת תמצאי אין הרבה ללכת</l>
+          <l>גם אם לא תראי אותי אני נשאר קרוב מדי</l>
+          <l>רציתי לספר לו המיטה הזאת כבר לא נוחה לי</l>
+          <l>אבל הוא אמר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה מה שיביא לך אהבה</l>
+          <l>זה מה שיביא לך אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>באותו רחוב שרקדנו בו אתמול</l>
+          <l>מחכה לכם אני נשארת לחפש רצפה </l>
+          <l>אני נשענת על החול</l>
+          <l>אמרתם לא יהיה לך קר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה מה שיביא לך אהבה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מישהו חייב להיות בפתח</l>
+          <l>מישהו חייב כבר לנשק</l>
+          <l>מישהו לומר לו כמה טוב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

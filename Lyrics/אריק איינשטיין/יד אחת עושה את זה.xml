@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יד אחת עושה את זה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יד אחת עושה את זה</head>
+        <lg number="1" type="stanza">
+          <l>את השמש והים, העצים והדגים</l>
+          <l>השקיעות הנפלאות ואינסוף המרחבים</l>
+          <l>את הפרח האדום והעז הלבנה</l>
+          <l>את כל האנשים ואת האהבה</l>
+          <l>את הפרח האדום והעז הלבנה</l>
+          <l>את כל האנשים ואת האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יד אחת עושה את זה</l>
+          <l>יד אחת עושה את זה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את הלילה והחושך, חלומות בלהה</l>
+          <l>את האבל והשכול, הנשימה האחרונה</l>
+          <l>את כל הסכנות ואת כל הפחדים</l>
+          <l>את כל הסימנים ואת הבלבולים</l>
+          <l>את כל הסכנות ואת כל הפחדים</l>
+          <l>את כל הסימנים ואת הבלבולים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יד אחת עושה את זה</l>
+          <l>יד אחת עושה את זה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יד אחת עושה את זה</l>
+          <l>יד אחת עושה את זה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>את השמש והים, העצים והדגים</l>
+          <l>השקיעות הנפלאות ואין סוף המרחבים</l>
+          <l>את הפרח האדום והעז הלבנה</l>
+          <l>את כל האנשים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

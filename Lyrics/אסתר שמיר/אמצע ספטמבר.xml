@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמצע ספטמבר</title>
+        <singer classification="female singer">אסתר שמיר</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>אסתר שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמצע ספטמבר</head>
+        <lg number="1" type="stanza">
+          <l>השנה מתחילה באמצע ספטמבר</l>
+          <l>בזעם עצום וגובר</l>
+          <l>רוחות סוערות לוחמות על כל עבר</l>
+          <l>החורף ממית וקוצר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אומרים שסוף העולם מתקרב</l>
+          <l>בלילות החשכה גוברת</l>
+          <l>כל הקיץ הרקיע היה אדום מכאב</l>
+          <l>מתחתיו האדמה בוערת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ובינינו נכנס שיגעון ויוצא</l>
+          <l>החיים משטים גם בנו</l>
+          <l>מחפש בי את השקט אבל לא מוצא</l>
+          <l>לאן זה מוביל אותנו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>השנה מתחילה באמצע ספטמבר</l>
+          <l>החורף קשה מכל</l>
+          <l>כל שירי נמלטים הרחק מקו האש</l>
+          <l>אולי הם לא רוצים לסבול</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אומרים שסוף העולם מתקרב</l>
+          <l>בלילות החשכה גוברת</l>
+          <l>כל הקיץ הרקיע היה אדום מכאב</l>
+          <l>מתחתיו האדמה בוערת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחד מן הגח ל</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>נתן אלתרמן</writer>
+        <composer>שם טוב לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחד מן הגח"ל</head>
+        <lg number="1" type="stanza">
+          <l>מסיפון אוניה מתנודדת.</l>
+          <l>הוא ירד אל רציף הנמל.</l>
+          <l>וחכתה ברציף לו מולדת</l>
+          <l>בדמות אוטו צבאי וסמל.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היא את שמו בחותמת הטביעה,</l>
+          <l>היא השליכה בגדיו אל השק.</l>
+          <l>ושבועה נוראה היא השביעה</l>
+          <l>לקולו של הגשם הדק.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ונראהו זוחל, או כורע,</l>
+          <l>או עומד עם צלחת בתור,</l>
+          <l>ונדע: ללא בית ורע</l>
+          <l>קר ללחום את מלחמת הדור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד הארץ הזאת לא נתנה לו</l>
+          <l>לא ידיד, לא פנה למקלט,</l>
+          <l>לא שמחה מן האלף הללו.</l>
+          <l>אשר לנו היה למתת.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא, כי רק את חייו, פליטי חרב</l>
+          <l>הוא קבל על החוף מידה.</l>
+          <l>אבל גם את חייו, אי בערב,</l>
+          <l>הוא השיב בנפלו בעדה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

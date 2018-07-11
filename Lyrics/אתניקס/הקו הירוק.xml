@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הקו הירוק</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הקו הירוק</head>
+        <lg number="1" type="stanza">
+          <l>ילד יושב על החול עם בובות משחק משחקי מלחמה</l>
+          <l>שני ילדים מרגיזים מסביבו מסמנים לו חלקת אדמה</l>
+          <l>אז אמא קוראת לו לחזור אל הכפר שמעבר לקו הירוק...הירוק</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>על קרוסלה הוא כבר יראה לה מה היא כוחה של תנופה</l>
+          <l>את יונת השלום הוא יוריד עם רוגטקה מיד כשתחל במעופה</l>
+          <l>ואמא עומדת צוחקת בקול:"איך הקו כבר מזמן לא ירוק-על פי חוק!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה כייף</title>
+        <singer classification="unknown">אור כהן</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>ציקי זנטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה כייף</head>
+        <lg number="1" type="stanza">
+          <l>את היית חלום חיי </l>
+          <l>חלום שהתגשם </l>
+          <l>רק אותך מנעורי</l>
+          <l>אל נשמתי אני נושם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשאלי את מסתכלת </l>
+          <l>אני מתמלא באור </l>
+          <l>בקסמייך מחשמלת </l>
+          <l>הלב מתחיל לבעור.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כייף לקום איתך בבוקר </l>
+          <l>ללטף את החיוך שלך </l>
+          <l>כייף להתגנב אל תוך האושר </l>
+          <l>בך להתעטף ולכייף איתך. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את השמש בלילי </l>
+          <l>יפה כל כך שבא לבכות </l>
+          <l>לך אהובתי שלי </l>
+          <l>היה שווה לי לחכות. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מאוהב בשתי עינייך </l>
+          <l>ביופייך המסנוור </l>
+          <l>אם אני בזרועותייך </l>
+          <l>מי בכלל צריך יותר. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כייף לקום איתך בבוקר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

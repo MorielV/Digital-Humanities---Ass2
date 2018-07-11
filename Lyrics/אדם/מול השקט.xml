@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מול השקט</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>אדם</writer>
+        <composer>קובי אייזנמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מול השקט</head>
+        <lg number="1" type="stanza">
+          <l>העיר שקטה, עוד שתי תחנות</l>
+          <l>הכביש חלק, כבר אין מה לראות</l>
+          <l>ואל מול הפחד אין סימן עצור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תקוע כאן עם כל התקוות</l>
+          <l>מבדיל בקושי בין כל השמות</l>
+          <l>שחולפים כל רגע</l>
+          <l>זה אצלי בראש</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>במי אני נלחם?</l>
+          <l>זה משחק שנמכר</l>
+          <l>אולי בסיכונים</l>
+          <l>אולי במחר</l>
+          <l>פוחד מהכאב</l>
+          <l>כמו תינוק לא מוגן</l>
+          <l>אז תני לזה עוד זמן</l>
+          <l>תני לי רק סימן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>למרות שלא אמרנו מילה</l>
+          <l>היה מגע, אחר כך שתיקה</l>
+          <l>ואל מול השקט רק סימן קריאה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לאן אקח את כל הדמעות?</l>
+          <l>לאן אברח עם כל השמות</l>
+          <l>שחולפים כל רגע?</l>
+          <l>זה אצלי בראש</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>במי אני נלחם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

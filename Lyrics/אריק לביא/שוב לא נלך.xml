@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שוב לא נלך</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>שמוליק רוזן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שוב לא נלך</head>
+        <lg number="1" type="stanza">
+          <l>ראי אבק דרכים עולה מעיר שלם</l>
+          <l>ורכב הברזל שועט אל מול עירך</l>
+          <l>ועם שלם מביט, מביט בך כחולם</l>
+          <l>כנפי פלדה חגות, חגות מעל קברך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ראי רחל, ראי</l>
+          <l>ראי ריבון עולם</l>
+          <l>ראי רחל, ראי</l>
+          <l>הם שבו אל גבולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ראי רוחות אייר נושאות טורי פלדה</l>
+          <l>גם בנימין עמנו פה, וגם יוסף</l>
+          <l>כוכב בית לחם מנצנץ ברעדה</l>
+          <l>גם החלוץ עמנו וגם המאסף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ראי רחל, ראי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מנעי קולך רחל, מנעי קולך מבכי</l>
+          <l>כולנו פה, רחל, עם התרמיל על שכם</l>
+          <l>שוב לא נלך רחל, ואת שוב לא תלכי</l>
+          <l>שוב לא נלך רחל מני שדמות בית לחם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ראי רחל, ראי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

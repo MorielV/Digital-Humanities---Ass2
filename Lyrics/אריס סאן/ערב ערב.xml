@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ערב ערב</title>
+        <singer classification="male singer">אריס סאן</singer>
+        <writer>יהודה אופן</writer>
+        <composer>אריס סאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ערב ערב</head>
+        <lg number="1" type="stanza">
+          <l>ערב מדליק הפנסים</l>
+          <l>בחלונות בין התריסים</l>
+          <l>אור לבנה רוחץ גגות</l>
+          <l>וספסלים שבשדרות</l>
+          <l>הנה הולך אחד בדד</l>
+          <l>וזוג פוסע יד ביד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ערב ערב, זוג או פרט</l>
+          <l>ברחובות הכרך</l>
+          <l>ערב ערב, זוג או פרט</l>
+          <l>הגורל הוא כך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לילה מדליק הכוכבים</l>
+          <l>בעיניהם של אוהבים</l>
+          <l>בין ענפים רוחש הקן</l>
+          <l>של גוזלים בגן סואן</l>
+          <l>הנה ידה בתוך ידו</l>
+          <l>הנה אחר כה לבדו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ערב ערב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה אתה עושה כשאתה קם בבוקר</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>שלום חנוך</writer>
+        <composer>שלום חנוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה אתה עושה כשאתה קם בבוקר</head>
+        <lg number="1" type="stanza">
+          <l>מה אתה עושה כשאתה קם בבוקר?</l>
+          <l>את אותם הדברים אבל לאט.</l>
+          <l>מה אתה רואה כשאתה קם בבוקר?</l>
+          <l>ברובם אני לא מוצא אותה אחת, לא מוצא אותה אחת</l>
+          <l>מה אתה שומע כשהרוח מייללת?</l>
+          <l>את השיר העצוב שלא נכתב.</l>
+          <l>מה אתה יודע כשהרוח על הדלת?</l>
+          <l>שנמאס לי לשמוע על הסתיו, לשמוע על הסתיו.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה אתה מרגיש בחוץ לבד כשלילה?</l>
+          <l>ששכחתי את זה שם בביתי.</l>
+          <l>מה אתה נותן לה להרגיש בלילה?</l>
+          <l>חבל שהיא איננה פה איתי, היא איננה פה איתי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה אתה זוכר בסוף כשגמרת?</l>
+          <l>את הרע והטוב בבת אחת.</l>
+          <l>מה אתה חושב כשלא קורה מה שאמרת?</l>
+          <l>שטוב לי עם ציפור אחת ביד, עם ציפור אחת ביד.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

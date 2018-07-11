@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בגן החיות</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>תרצה אתר</writer>
+        <composer>יוני רכטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בגן החיות</head>
+        <lg number="1" type="stanza">
+          <l>בגן החיות זורחת השמש</l>
+          <l>וחם, חם, חם -</l>
+          <l>כלב המים שוחה לבדו</l>
+          <l>באגם באגם באגם</l>
+          <l>ובבוץ הרטוב מתחמם התנין</l>
+          <l>וההיפופוטם גם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יפה שם בגן החיות הגדול</l>
+          <l>הדב הלבן מנמנם וחולם</l>
+          <l>והדב השחור</l>
+          <l>והדב האפור</l>
+          <l>יושבים על ספסל</l>
+          <l>וחולמים</l>
+          <l>גם הם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>והתן - מילל</l>
+          <l>הזאב - מטייל</l>
+          <l>והפיל - מנפנף באוזניו הגדולות</l>
+          <l>והרוח - קלילה, משתובבת דומם</l>
+          <l>ורכבת על גב איילות.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בגן החיות זורחת השמש</l>
+          <l>וחם, חם, חם -</l>
+          <l>כלב המים שוחה לבדו</l>
+          <l>באגם באגם באגם</l>
+          <l>והחסידות - עומדות ושותקות</l>
+          <l>על רגל אחת ויחידה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יפה שם בגן החיות הגדול</l>
+          <l>הקופים מצחיקים,</l>
+          <l>האריה - קצת עצוב,</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>והתן - מילל</l>
+          <l>הזאב - מטייל</l>
+          <l>והפיל - מנפנף באוזניו הגדולות</l>
+          <l>והרוח - קלילה, משתובבת דומם</l>
+          <l>ורכבת על גב איילות.</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>הכל כה יפה שם בגן החיות</l>
+          <l>הקופים מצחיקים,</l>
+          <l>האריה - קצת עצוב.</l>
+          <l>בגן החיות זורחת השמש</l>
+          <l>וחם, חם, חם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

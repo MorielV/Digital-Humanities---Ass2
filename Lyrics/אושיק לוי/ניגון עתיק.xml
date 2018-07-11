@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ניגון עתיק 4</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>נתן אלתרמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ניגון עתיק</head>
+        <lg number="1" type="stanza">
+          <l>אם תרדנה בליל דמעותייך,</l>
+          <l>שמחתי לך אבעיר כצרור תבן.</l>
+          <l>אם תרחפנה מקור עצמותייך,</l>
+          <l>אכסך ואשכב על אבן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם תאמרי אל מחול לרדת,</l>
+          <l>על אחרון מיתרי אנגן לך.</l>
+          <l>אם תחסר לך מתנת הולדת,</l>
+          <l>את חיי ומותי אתן לך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואם לחם תאבי או יין,</l>
+          <l>מן הבית אצא כפוף שכם</l>
+          <l>ואמכור את עיני השתיים</l>
+          <l>ואביא לך גם יין גם לחם.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אך אם פעם תהיי צוחקת</l>
+          <l>בלעדי במסיבת מרעייך,</l>
+          <l>תעבור קנאתי שותקת</l>
+          <l>ותשרוף את ביתך עלייך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

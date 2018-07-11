@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה יגידו</title>
+        <singer classification="female singer">אתי קסטרו</singer>
+        <writer>עינת הולנדר</writer>
+        <composer>תמיר קליסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה יגידו</head>
+        <lg number="1" type="stanza">
+          <l>שנה ועוד שנה נסגרות בקופסאות</l>
+          <l>עם כותרות "שביר" ו"יכול היה להיות"                         </l>
+          <l>לומדת לוותר, לומדת שוב ללכת</l>
+          <l>והיא, שכבר למדה, מחייכת...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ולא רואים עליי מה שאני עוברת</l>
+          <l>חזקה בין הרגעים בהם אני נשברת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה יגידו השכנים?</l>
+          <l>מה יגידו ההורים?</l>
+          <l>מה יגידו חברים?</l>
+          <l>מה הם יגידו?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה יגידו המורים?</l>
+          <l>מה יגידו הזרים</l>
+          <l>בחדרי חדרים?</l>
+          <l>שיגידו..</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>גילינו שאפשר, כשהרעש משתתק</l>
+          <l>לפרק את שנותר מבלי להתפרק</l>
+          <l>להפוך את היוצרות,לנהל את הפחד</l>
+          <l>היום זה סוג אחר של יחד</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>יודעת שיהיו הרבה קולות סביבי</l>
+          <l>אך רק קול אחד חשוב וזה הקול שלי</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>מה יגידו השכנים...</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>אפילו שעכשיו כל כך כואב בינינו</l>
+          <l>הפעם עשינו בשבילנו             </l>
+          <l>ולא רואים עליי מה שאני עוברת</l>
+          <l>חזקה בין הרגעים בהם אני נשברת</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>מה יגידו השכנים...שיגידו.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

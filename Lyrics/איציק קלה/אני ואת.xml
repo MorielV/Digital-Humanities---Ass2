@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני ואת 2</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני ואת</head>
+        <lg number="1" type="stanza">
+          <l>אני אינני ילד ואת לא ילדה</l>
+          <l>ומה יפים הם הימים הבאים עלינו.</l>
+          <l>נשכח את ילדותנו, מה שהיה היה</l>
+          <l>וזה הזמן שאהבה תהיה בינינו.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני ואת, אני ואת חי-שמיים,</l>
+          <l>נלך באש בוערת ובמים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סוער דמי בלילה, גועש בתוכי,</l>
+          <l>בוהה אני בחשכה, חושב עלייך.</l>
+          <l>לאט לאט עולה לו הלחץ במוחי</l>
+          <l>וחש אומלל בתוך לבי, עורג אלייך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני ואת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עדים לי שמיים גם כוכבים</l>
+          <l>ומרחבי האדמה מתחת לרגלייך</l>
+          <l>שלך, בי נשבעתי, אשמור אמונים</l>
+          <l>לו רק יהי לבך אתי בכל ימייך.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני ואת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

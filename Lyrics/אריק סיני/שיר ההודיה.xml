@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר ההודיה</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>מרדכי זעירא</writer>
+        <composer>מרדכי זעירא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר ההודיה</head>
+        <lg number="1" type="stanza">
+          <l>ליוית אותי, ארצי, בלובן שקדיה</l>
+          <l>בזהר חמתך ומרחבי שדותייך,</l>
+          <l>ושיר נתת בפי, הוא שיר ההודיה</l>
+          <l>להשמיעו הרחק הרחק מגבולותייך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והוא שמור בלב, זה שיר הרגבים,</l>
+          <l>וברחבי נכר מולדת יעטפנו</l>
+          <l>ורבבות אחי בנייך הטובים</l>
+          <l>יקשיבו לו דומם וירגעו ממנו.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ועת נשוב, ארצי, שבעי געגועים</l>
+          <l>צמאים לחמתך, לשפע טובותייך,</l>
+          <l>יוחזר לך אז השיר מלב בנים גאים</l>
+          <l>וטוב יהיה לצעוד ברחבי שדותייך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

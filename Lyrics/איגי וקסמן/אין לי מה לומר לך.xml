@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין לי מה לומר לך</title>
+        <singer classification="female singer">איגי וקסמן</singer>
+        <writer>איגי וקסמן</writer>
+        <composer>שרון הולצמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין לי מה לומר לך</head>
+        <lg number="1" type="stanza">
+          <l>כותבת לך מכתב המרחק ניכר</l>
+          <l>קר לך שם וגם פה קר</l>
+          <l>שמעתי שטוב לך אבל אתה חי בשביל שום דבר</l>
+          <l>בא מישהו עם שיער כמו שלך</l>
+          <l>דומה אבל לא דומה לך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין לי מה לומר לך אהובי רוצחי</l>
+          <l>אני סולחת לך מתגעגעת אליך</l>
+          <l>תניח לי לנפשי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני מתרחקת ואתה מאחל לי אושר לרוב</l>
+          <l>לא מתכוון באמת שיהיה לי טוב</l>
+          <l>שמעתי שטוב לך אבל אתה חי בשביל שום דבר</l>
+          <l>שטפנו את עצמנו בזיעה משותפת</l>
+          <l>הרגשתי איך אני נסחפת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין לי מה לומר לך אהובי רוצחי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

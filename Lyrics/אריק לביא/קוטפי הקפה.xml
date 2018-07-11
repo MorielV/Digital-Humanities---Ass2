@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קוטפי הקפה</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>חוזה מנזו</writer>
+        <composer>חוזה מנזו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קוטפי הקפה</head>
+        <lg number="1" type="stanza">
+          <l>כשהרוחות נושבות מעל עצי הצמרת</l>
+          <l>ואת תלכי אתי בשביל בשביל היפה</l>
+          <l>המנגינה אשר נשמע איננה אחרת</l>
+          <l>כי כאן שרים לך כל קוטפי קוטפי הקפה</l>
+          <l>הם בשורות עומדים פניהם הרוח צורבת</l>
+          <l>ורק עלי קפה קוטפים קוטפים לסלם</l>
+          <l>הם כאן בחום היום בליל ברוח צורבת</l>
+          <l>לקטוף קפה הם לא יפסיקו לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואל יום המחר הקוטף צופה</l>
+          <l>ואל יום המחר שיהיה יפה</l>
+          <l>מתי כבר יחדל לקטוף קפה לקטוף קפה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשהרוחות נושבות מעל עצי הצמרת</l>
+          <l>את תשמעי קוטפי קפה בוכים בלבם</l>
+          <l>אל אניות פולטות עשן שורה ממהרת</l>
+          <l>לקטוף קפה הם לא יפסיקו לעולם</l>
+          <l>האניות יוצאות הרחק מעבר למים</l>
+          <l>כמו אל חלום רחוק נושא כל איש את פניו</l>
+          <l>אבל מיד ישובו שוב לקטוף בינתיים</l>
+          <l>כי כאן קוטפים קפה הבן האם והאב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואל יום המחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

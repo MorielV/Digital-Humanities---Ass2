@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלוהים יקר</title>
+        <singer classification="unknown">איריס צרפתי</singer>
+        <writer>נינו אורסיאנו</writer>
+        <composer>נינו אורסיאנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלוהים יקר</head>
+        <lg number="1" type="stanza">
+          <l>אלוהים יקר, למד אותי לסלוח</l>
+          <l>למד אותי לצחוק. </l>
+          <l>כשנהיה מסובך מדי, עשה שאשתוק. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חבר אותי לרזי הנשמה </l>
+          <l>להיות קרובה לאמא אדמה </l>
+          <l>הכאב הוא כה עמוק כשאינך קרוב מאוד </l>
+          <l>אל תעזוב אותי, אל תעזוב. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אלוהים יקר, למד אותי להאמין </l>
+          <l>למד אותי לשאול ולדעת מנוחה </l>
+          <l>כשאין לי תשובות. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חבר אותי לרזי הנשמה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אלוהים יקר, אתה עכשיו כל עולמי </l>
+          <l>החזר אלי את אהבתי </l>
+          <l>השקט את לילותי </l>
+          <l>חבק את חיי </l>
+          <l>ואל תעזוב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

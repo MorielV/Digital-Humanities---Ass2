@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חייל של שוקולד</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>חנוך לוין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חייל של שוקולד</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>בוא חייל של שוקולד</l>
+          <l>בוא אלי אל המשלט</l>
+          <l>שב תנוח אל תירא</l>
+          <l>ותשוב לעפרך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הטבח מגיש בשר לרב הטבחים</l>
+          <l>רב הטבחים מגיש בשר לתותחים</l>
+          <l>כל האנשים אחים מתחת לפרחים</l>
+          <l>רועמים התותחים הילדים בוכים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בוא חייל של שוקולד...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אחי איש אמיץ היה על משמרתו נפל</l>
+          <l>חדרי ליבו פתוחים עכשיו לעשב ולטל</l>
+          <l>היה לו לאחי דם אבל הדם אזל</l>
+          <l>לא ישיבנו עוד אפילו צו הגנרל.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שמאל ימין ימין ושמאל הגדוד הולך ושר</l>
+          <l>החיים מסורבלים המות הוא קצר</l>
+          <l>כל הגדוד הולך אחר עורפו של הרס"ר</l>
+          <l>הרס"ר גם הוא הולך בדרך כל בשר.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

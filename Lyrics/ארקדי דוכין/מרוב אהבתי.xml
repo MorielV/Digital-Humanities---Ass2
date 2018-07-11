@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מרוב אהבתי</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>נקודת מבט</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מרוב אהבתי</head>
+        <lg number="1" type="stanza">
+          <l>ומרוב אהבתי, לא יכול להראות אהבה</l>
+          <l>ומרוב אהבתך את עצובה עצובה</l>
+          <l>ומרוב שמחתי החיוך נעלם</l>
+          <l>ומרוב שמחתך את בוכה בוכה</l>
+          <l>ומרוב הרגלי לחושך  לא רואה אור</l>
+          <l>ומרוב הרגלך לאשליה קשה לך לעצור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז בואי נתחזק יחד</l>
+          <l>את עם עצמך ואני איתך</l>
+          <l>וכמו שכבר אמרתי פעם</l>
+          <l>שילך הפחד, שילכו הדמעות</l>
+          <l>תהיי שלי, אהיה שלך</l>
+          <l>הכי חשוב שכל אחד יאמין בעצמו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כי מרוב אהבתי לא יכול להראות אהבה</l>
+          <l>מרוב אהבתך את עצובה עצובה</l>
+          <l>מרוב שמחתי החיוך נעלם</l>
+          <l>מרוב שמחתך את בוכה בוכה</l>
+          <l>מרוב הרגלי לחושך לא רואה אור</l>
+          <l>מרוב הרגלך לאשלייה קשה לך לעצור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז בואי נתחזק יחד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מרוב הרגלי לחושך לא רואה אור</l>
+          <l>מרוב הרגלך לאשליה קשה לך לעצור</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז בואי נתחזק יחד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

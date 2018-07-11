@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עליסה</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עליסה</head>
+        <lg number="1" type="stanza">
+          <l>קראק אופיום קוק ואקסטה</l>
+          <l>גראס חשיש והרואין</l>
+          <l>תתעוררי עכשיו עליסה</l>
+          <l>אל תוך חייך המתים</l>
+          <l>אור המגדלור כבה על חוף יופייך האבוד</l>
+          <l>את רק רצית להידלק ולהרוג את המציאות</l>
+          <l>צר לי עלייך עליסה שנכנסת לאגדות</l>
+          <l>תמסרי ד"ש לשפן עליסה להתראות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

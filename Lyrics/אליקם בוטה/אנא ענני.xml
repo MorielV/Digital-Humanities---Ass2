@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אנא ענני</title>
+        <singer classification="unknown">אליקם בוטה</singer>
+        <writer>רוני אחיאל</writer>
+        <composer>אליקם בוטה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אנא ענני</head>
+        <lg number="1" type="stanza">
+          <l>אנא ענני-מילות השיר</l>
+          <l>לבד אני הולך והשמש בי מכה</l>
+          <l>מתהלך וגופי מותש מתחננן לסליחתך</l>
+          <l>את מי אשאל ומי ישיב ומי יאיר את נתיבי</l>
+          <l>את מי אשאל ומי ישיב ומי יאיר את נתיבי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אנא ענני וסלח על חטאיי </l>
+          <l>אנא ענני ושמור אותי מרע </l>
+          <l>אנא ענני ואת קולי תשמע </l>
+          <l>אנא ענני והאר לי את חיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לך תפילתי ולך תהילתי </l>
+          <l>לך רק אספר את שעל ליבי</l>
+          <l>אותך אשאל ולי תשיב אתה תאיר את נתיבי</l>
+          <l>אותך אשאל ולי תשיב אתה תאיר את נתיבי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

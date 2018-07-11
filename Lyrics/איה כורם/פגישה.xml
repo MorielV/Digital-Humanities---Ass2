@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פגישה 3</title>
+        <singer classification="unknown">איה כורם</singer>
+        <writer>איה כורם</writer>
+        <composer>איה כורם</composer>
+        <album>איה כורם</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פגישה</head>
+        <lg number="1" type="stanza">
+          <l>ללבוש שמלה יפה, להסתרק, להתאפר.</l>
+          <l>תיק ונעליים חייבים להסתדר.</l>
+          <l>לפתוח את הדלת ועוד כמה דקות...</l>
+          <l>זה לא כזה נורא אם קצת ניתן לו לחכות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קצת נבוכה והופ, ברחה לי אנחה קטנה</l>
+          <l>שולחת רגל כדי לגעת, אבל לא בכוונה,</l>
+          <l>שלום ומה שלומך? תחזיק שלא אפול.</l>
+          <l>תדע לך זאת לא אני, זה רק האלכוהול.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לתת לו להזמין, לשבת על הבר,</l>
+          <l>לצחוק בעדינות ולשחק עם השיער.</l>
+          <l>שפתיים אדומות ועין עצומה,</l>
+          <l>אני אניח לו לחשוב שאני בחורה תמימה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קצת נבוכה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>להתעורר איתו ולא להיתקל..</l>
+          <l>ולחייך אליו כי עכשיו הוא מסתכל</l>
+          <l>אולי תלך? (שולחת רמזים עבים),</l>
+          <l>ואיך כל מי שאני לא רוצה תמיד מתאהבים?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>קצת נבוכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

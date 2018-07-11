@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הביאו את הסתיו</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הביאו את הסתיו</head>
+        <lg number="1" type="stanza">
+          <l>תל אביב מתנמנמת בחום</l>
+          <l>לשפת הים התיכון</l>
+          <l>עצלה, לא כל כך יפה</l>
+          <l>מתי כבר אוקטובר יבוא</l>
+          <l>ורוחות מערב בחובו</l>
+          <l>ונוכל לשוב להתכרבל בשמיכה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הביאו את הסתיו, שלכת</l>
+          <l>וליבנו האטום והקר</l>
+          <l>יתרחב וינשום</l>
+          <l>הביאו את הסתיו</l>
+          <l>נתרפק עליו</l>
+          <l>עלים יסתחררו ברחובות</l>
+          <l>יהיה געגוע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תל אביב התהפכה על גבה</l>
+          <l>היא הייתה לי סיפור אהבה</l>
+          <l>בסוף גיליתי שהיא פרוצה</l>
+          <l>מותר להיות עצוב</l>
+          <l>נעים לי להיות עצוב</l>
+          <l>בתפקיד האהוב</l>
+          <l>שעליי הוא כל כך אהוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הביאו את הסתיו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

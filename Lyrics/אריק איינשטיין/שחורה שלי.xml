@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שחורה שלי</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שחורה שלי</head>
+        <lg number="1" type="stanza">
+          <l>שחורה שלי, אני חולה עלייך</l>
+          <l>כל הזמן רוצה אותך קרוב</l>
+          <l>שחורה שלי, אני הרוס עלייך</l>
+          <l>ולא איכפת לי שישמע את זה הרחוב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עכשיו אני יושב לבד בחדר</l>
+          <l>כי את הלכת לקרוא בחדר השני</l>
+          <l>כאילו כלום אני ממשיך לחלות עלייך</l>
+          <l>גנבת לי את הלב, שחורה שלי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שחורה שלי, יפה שלי</l>
+          <l>את האור שבחיי</l>
+          <l>שחורה שלי, רכה שלי</l>
+          <l>את הכוכב הכי זוהר בשמיי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שחורה שלי אני אוהב אותך</l>
+          <l>בלעדייך לא יכול בכלל לסחוב</l>
+          <l>שחורה שלי אני נושם אותך</l>
+          <l>ולא איכפת לי שישמע את זה הרחוב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עכשיו אני יושב לבד בחדר...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שחורה שלי, יפה שלי</l>
+          <l>את האור שבחיי</l>
+          <l>שחורה שלי, רכה שלי</l>
+          <l>את הכוכב הכי זוהר בשמיי</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>עכשיו אני יושב לבד בחדר...</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>שחורה שלי, יפה שלי</l>
+          <l>את האור שבחיי</l>
+          <l>שחורה שלי, רכה שלי</l>
+          <l>את הטעם הגדול של חיי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

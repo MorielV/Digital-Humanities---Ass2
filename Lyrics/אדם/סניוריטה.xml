@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סניוריטה</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>יוני זיכהולץ</writer>
+        <composer>יוני זיכהולץ</composer>
+        <album>רגעים קטנים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סניוריטה</head>
+        <lg number="1" type="stanza">
+          <l>לבשת בגדי חג, עלית אל המזח, </l>
+          <l>היום היה חם, צחקת אל כולם. </l>
+          <l>הכלבים שוטטו והאיש צעק קרטיב </l>
+          <l>הילדות בים, צוחקות לכולם. </l>
+          <l>חלון חדר מנוכר, מלון בודד וקר. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שר, שר לך אני שר, שר לך נשמה. </l>
+          <l>שר לך סניוריטה, מילים של אהבה. </l>
+          <l>הימים שכבר עברו, גופך קטיפה לבן, </l>
+          <l>שר לך סניוריטה, את כל פרחי הגן. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את לבשת בגדי חג, עלית אל המזח, </l>
+          <l>אני זוכר היה חם, איך את צחקת אל כולם. </l>
+          <l>הכלבים שוטטו, האיש צעק קרטיב, </l>
+          <l>הילדות בים, צוחקות לכולם. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שורקת רוח, סוף יום אפור, </l>
+          <l>שתק הים ואין כלבים על החול החם, </l>
+          <l>בכל יום שעובר, פנייך לבנות לי יותר ויותר. </l>
+          <l>חלון חדר מנוכר, מלון בודד וקר. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שר, שר לך אני שר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

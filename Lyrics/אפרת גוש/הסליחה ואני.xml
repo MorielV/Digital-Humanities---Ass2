@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הסליחה ואני</title>
+        <singer classification="female singer">אפרת גוש</singer>
+        <writer>אפרת גוש</writer>
+        <composer>אפרת גוש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הסליחה ואני</head>
+        <lg number="1" type="stanza">
+          <l>מתי חשבת על הדרך האחרונה</l>
+          <l>שעשית מחדרי שלי</l>
+          <l>כשגילית ששיקרתי לך?</l>
+          <l>כמה מעט אמת סיפרתי אפילו לעצמי</l>
+          <l>נשארנו האשמה ואני.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מתי חשבת על הדרך האחרונה</l>
+          <l>שעשית מחיי שלי</l>
+          <l>בלי לתת לי נשיקת פרידה</l>
+          <l>כל גופי רעד מהרצון לרוץ אליך</l>
+          <l>להחזיר הכל.</l>
+          <l>נשארנו הרצון ואני.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אההה... אההה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מתי חשבת על הדרך האחרונה</l>
+          <l>שעשיתי מלבך שלך?</l>
+          <l>יופיי הלך ודעך עמך לשם סליחה.</l>
+          <l>הכוח להדביק את אהבתנו</l>
+          <l>נשארנו הסליחה ואני.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אההה... אההה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מתי חשבת על הפעם הראשונה</l>
+          <l>שהיינו יחד במיטה?</l>
+          <l>כמה חיים יכולנו להיות</l>
+          <l>רק שנינו יחד.</l>
+          <l>נשארנו בלעדיך, לבדי</l>
+          <l>נשארנו בלעדיך, אהובי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גלעד</title>
+        <singer classification="unknown">אומני ישראל</singer>
+        <writer>נילי ארונוביץ'</writer>
+        <composer>לאה שבת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גלעד</head>
+        <lg number="1" type="stanza">
+          <l>עיניים חומות פקוחות לרווחה</l>
+          <l>תמונות רודפות לא נותנות מנוחה</l>
+          <l>עברו שנים לפני שנרגיש</l>
+          <l>מנער אלמוני הפכת לאיש </l>
+          <l>בתוך חור שחור במקום לא נודע</l>
+          <l>חייל פשוט שהופך לאגדה </l>
+          <l>כותב יושב כואב חושב </l>
+          <l>גלעד העם זוכר ולא עוזב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל בוקר קמים חושבים על גלעד </l>
+          <l>איך אחרי רון שוב לא נמעד</l>
+          <l>כל בוקר קמים ואתה קם גלעד אל תדאג קולך לא נדם </l>
+          <l>בתוך חור שחור במקום לא נודע</l>
+          <l>חייל פשוט שהופך לאגדה </l>
+          <l>כואב כל כך כואב כואב גלעד נשבר לנו הלב</l>
+          <l>יום ועוד יום כל הזמן שאבד ואתה שם קרוב ורחוק ולבד </l>
+          <l>יום ועוד יום כל הזמן שאבד מבקש מחילה וסליחה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עיניים חומות פקוחות לרווחה</l>
+          <l>תמונות רודפות לא נותנות מנוחה</l>
+          <l>עברו שנים מבלי שנרגיש</l>
+          <l>מנער אלמוני הפכת לאיש </l>
+          <l>בתוך חור שחור במקום לא נודע</l>
+          <l>חייל פשוט שהופך לאגדה </l>
+          <l>כותב יושב כואב חושב </l>
+          <l>גלעד העם זוכר ולא עוזב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל בוקר קמים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

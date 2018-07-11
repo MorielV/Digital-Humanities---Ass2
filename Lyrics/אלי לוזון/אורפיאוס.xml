@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אורפיאוס</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אורפיאוס</head>
+        <lg number="1" type="stanza">
+          <l>חצי עולם רעב,</l>
+          <l>חצי עוצם עיניו.</l>
+          <l>והכדור סובב, </l>
+          <l>חורק על אופניו.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הים הזה כואב, </l>
+          <l>חופיו נאנחים.</l>
+          <l>אוהב הפך אוייב</l>
+          <l>במלחמות אחים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נגן נגן אורפיאוס,</l>
+          <l>רכך את קשי ליבם.</l>
+          <l>נגן נגן אורפיאוס, </l>
+          <l>שכך את כעסם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נגן נגן אורפיאוס</l>
+          <l>הרעד את נשמתם,</l>
+          <l>נגן נגן אורפיאוס</l>
+          <l>הער את ילדותה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>נגן נגן אורפיאוס,</l>
+          <l>עד שיבכו כלם.</l>
+          <l>נגן נגן אורפיאוס,</l>
+          <l>רפא את העולם.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ציפור חדלה לשיר,</l>
+          <l>כנפיה בוערות.</l>
+          <l>עשן מעל העיר,</l>
+          <l>מעל היערות.</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>הילדים קוראים</l>
+          <l>ולא שומעים תשובה,</l>
+          <l>ואנשים גוועים </l>
+          <l>מחוסר אהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>נגן נגן אורפיאוס...</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>נגן נגן אורפיאוס</l>
+          <l>כשף את השטן.</l>
+          <l>נגן נגן אורפיאוס</l>
+          <l>לכלה ולחתן, </l>
+          <l>לילד קטן.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

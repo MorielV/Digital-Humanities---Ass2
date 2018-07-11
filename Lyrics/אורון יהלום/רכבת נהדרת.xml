@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רכבת נהדרת</title>
+        <singer classification="unknown">אורון יהלום</singer>
+        <writer>אורון יהלום</writer>
+        <composer>אורון יהלום</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רכבת נהדרת</head>
+        <lg number="1" type="stanza">
+          <l>משהו מחזיק אותי קרוב </l>
+          <l>מחבק אותי בבוקר ואומר לי לילה טוב </l>
+          <l>משהו קורה בעולמות העליונים </l>
+          <l>כשאני מפושק על שולחן הניתוחים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שמן מנוע וחלקי חילוף </l>
+          <l>יחבקו אותי כדי שאוכל לעוף </l>
+          <l>משהו קורה במוסכים של השמיים </l>
+          <l>מנוף גדול שולף אותי מתוך המים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>משהו צריך לקרות עכשיו </l>
+          <l>פצצת אטום או הארה </l>
+          <l>או אולי רכבת נהדרת שתיקח אותי בחזרה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>משהו עוטף אותי קרוב </l>
+          <l>מחבק אותי בבוקר ואומר לי לילה טוב </l>
+          <l>משהו קורה בעולמות העליונים </l>
+          <l>כשאני מפושק על שולחן הניתוחים </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>משהו צריך לקרות עכשיו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

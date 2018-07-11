@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שער הרחמים</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>מאיר בנאי</writer>
+        <composer>מאיר בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שער הרחמים</head>
+        <lg number="1" type="stanza">
+          <l>מסתובב בעיר הישנה</l>
+          <l>ורעש בא מכל פינה</l>
+          <l>אני מכיר כבר</l>
+          <l>מכיר כבר את דרכי</l>
+          <l>בדרך לשער הרחמים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא מביט סביב</l>
+          <l>לא מקשיב</l>
+          <l>איש חולם אני</l>
+          <l>וכך היה תמיד</l>
+          <l>אבל מכיר כבר</l>
+          <l>מכיר כבר את דרכי</l>
+          <l>הדרך אל שער הרחמים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>חי פעם רק פעם</l>
+          <l>יש טעם אין טעם</l>
+          <l>עם כח בלי כח</l>
+          <l>שער הרחמים.</l>
+          <l>בואי איתי יחד</l>
+          <l>בואי מתוך הפחד</l>
+          <l>כי את, גם את חלק</l>
+          <l>משער הרחמים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>השלטים מעל החנויות</l>
+          <l>משקיפים, על הרחובות</l>
+          <l>בתוך ליבי יש צעקה והיא גדולה</l>
+          <l>הראו לי את שער הרחמים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>חי פעם רק פעם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

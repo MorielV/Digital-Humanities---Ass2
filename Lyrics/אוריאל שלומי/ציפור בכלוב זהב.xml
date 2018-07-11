@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציפור בכלוב זהב</title>
+        <singer classification="male singer">אוריאל שלומי</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציפור בכלוב זהב</head>
+        <lg number="1" type="stanza">
+          <l>מנסה לקרוא אותך זה לא הולך</l>
+          <l>את כמו ציפור בכלוב זהב</l>
+          <l>סוגרת את עצמך</l>
+          <l>ספרי ילדה אמרי מה בליבך</l>
+          <l>את לא לבד</l>
+          <l>אני כאן לצידך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פיקחי ילדה את העיניים</l>
+          <l>הביטי מעלה לשמיים</l>
+          <l>המלאכים קוראים אלייך</l>
+          <l>התעוררי ילדה אל עלומייך</l>
+          <l>התעוררי ילדה אל עלומייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלי מילים את מרחפת עם הזמן</l>
+          <l>את עוד שבויה בחלומך</l>
+          <l>שטה על ענן</l>
+          <l>שושן לבן הביטי מסביבך</l>
+          <l>פרחי הגן קראו למענך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פיקחי ילדה את העיניים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

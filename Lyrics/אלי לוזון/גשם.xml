@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גשם 7</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>יעקב גלעד</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גשם</head>
+        <lg number="1" type="stanza">
+          <l>ברחובות כיבו מזמן את הניאון</l>
+          <l>את נראית לי עייפה נלך לישון</l>
+          <l>האור דולק בחדר השני</l>
+          <l>אבל מישהו בוכה וזה לא אני.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני רוצה לשמור עלייך ועלי</l>
+          <l>היום עבר עלינו יום קשה מדי</l>
+          <l>בחוץ יורדים עכשיו גשמי ברכה</l>
+          <l>ואת בוכה, ואת בוכה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ספרי לי מה כבד עלייך</l>
+          <l>את כל מה שחבוי בך ונרדם</l>
+          <l>אני אמחה את דמעותייך</l>
+          <l>ורק שלא תבכי עוד לעולם.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין מקום לדאגה היי שקטה</l>
+          <l>אני איתך, את לא לבד לעת עתה</l>
+          <l>עכשיו הכל זורם כאן במנוחה</l>
+          <l>ואת בוכה, ואת בוכה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ספרי לי מה כבד עלייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

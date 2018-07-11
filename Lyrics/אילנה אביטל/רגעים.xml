@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רגעים 3</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>חמוטל בן זאב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רגעים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הוא נשאר אצלי לישון</l>
+          <l>ובבוקר לא שמעתי</l>
+          <l>כשצלצל לו השעון</l>
+          <l>הסתלק ולא ידעתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שמע,</l>
+          <l>לא אמרתי עדיין אף מילה</l>
+          <l>אך הייתי לך אחת ויחידה</l>
+          <l>כבר חשבתי שבאת אלי עם אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואם תשמע</l>
+          <l>את שיש לי לומר,</l>
+          <l>ומה שנשאר</l>
+          <l>רגעים של שמחה</l>
+          <l>ואתה עודך לי זר</l>
+          <l>כשקרבו נשמות זו לזו בלילה קר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם חסמתי את דרכו</l>
+          <l>בפני חופש שביקש לו</l>
+          <l>כשעברתי על ידו</l>
+          <l>למה בא והתקרב לו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שמע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

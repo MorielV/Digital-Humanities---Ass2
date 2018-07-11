@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נשרפת מבפנים</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>בדרך שלך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נשרפת מבפנים</head>
+        <lg number="1" type="stanza">
+          <l>את יושבת וקוראת שירה</l>
+          <l>צריכה שינוי באווירה</l>
+          <l>הטוב שבך הורג אותך לאט,</l>
+          <l>הוא נוסע למקום אחר</l>
+          <l>כי הוא חייב להשתחרר</l>
+          <l>משאיר תמונה - "סיגריה ומבט"</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואת נשרפת מפנים</l>
+          <l>ואת נשרפת מפנים</l>
+          <l>את לא לבד</l>
+          <l>את בודדה כמו כולם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא ישלח לך מזכרות קטנות</l>
+          <l>גלויות יפות עם הבטחות</l>
+          <l>שהוא בחור של בחורה אחת,</l>
+          <l>הוא יחזור, בסוף כולם חוזרים</l>
+          <l>אדם אחר, חפץ חיים,</l>
+          <l>חיוך אוהב, סיגריה ומבט.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואת נשרפת מפנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

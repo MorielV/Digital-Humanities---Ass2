@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאושרת</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>רמי לב</writer>
+        <composer>דורון אלימלך</composer>
+        <album>זה אני</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאושרת</head>
+        <lg number="1" type="stanza">
+          <l>קחי לך זמן ותגלי לאן</l>
+          <l>לאן את ממשיכה ללכת</l>
+          <l>איתך תמיד אני אהיה מוכן</l>
+          <l>לתת לך יד מלטפת</l>
+          <l>אם תרצי תוכלי לדמיין,</l>
+          <l>את כל מה שאין </l>
+          <l>כן, את יודעת </l>
+          <l>הכל מונח פה בשבילך,</l>
+          <l>אם רק תרצי לגעת!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מאושרת! </l>
+          <l>הכי חשוב לי שתהיי רק מאושרת ותחייכי</l>
+          <l>אני מבטיח את הכל לתת</l>
+          <l>כל מה שאת אוהבת באמת!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תבחרי לך תסריטים יפים</l>
+          <l>המציאות בידייך</l>
+          <l>זה הזמן שלך לטרוף את הקלפים </l>
+          <l>כל החיים לפנייך!</l>
+          <l>אם תרצי תוכלי לדמיין,</l>
+          <l>את כל מה שאין</l>
+          <l>כן, את יודעת</l>
+          <l>הכל מונח פה בשבילך, </l>
+          <l>אם רק תרצי לגעת!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מאושרת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

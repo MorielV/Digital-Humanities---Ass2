@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טווס זהבי</title>
+        <singer classification="female singer">אורה זיטנר</singer>
+        <writer>חיים נחמן ביאליק</writer>
+        <composer>גיל אלדמע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טווס זהבי</head>
+        <lg number="1" type="stanza">
+          <l>טווס זהבי פרח לו -</l>
+          <l>אנה תעוף, טווס זהבי?</l>
+          <l>- עף אני אל עברי ים -</l>
+          <l>- תראה שם את דוד לבבי?</l>
+          <l>- אראה ואביא מכתב לך,</l>
+          <l>ובמכתב בשורה מתוקה:</l>
+          <l>"יום החופה, אם ירצה השם -</l>
+          <l>אחר שבת של חנוכה".</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

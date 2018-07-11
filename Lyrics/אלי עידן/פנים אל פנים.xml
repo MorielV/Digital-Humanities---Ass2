@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פנים אל פנים</title>
+        <singer classification="male singer">אלי עידן</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>עמוס ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פנים אל פנים</head>
+        <lg number="1" type="stanza">
+          <l>רוצה לשוחח הערב, </l>
+          <l>רוצה שנבהיר עניינים. </l>
+          <l>ואל תחייכי לי בסתר. </l>
+          <l>הביטי פנים אל פנים. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>השקט הזה שבינינו </l>
+          <l>רועם כאלפי תותחים. </l>
+          <l>ימים מתקצרים מעלינו </l>
+          <l>וכל הלילות מתארכים. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אמרי לי עכשיו פנים אל פנים </l>
+          <l>את מה שרק לבך יודע. </l>
+          <l>אמרי לי עכשיו פנים אל פנים, </l>
+          <l>השקט הזה משגע. </l>
+          <l>ואל תחייכי </l>
+          <l>ואל תסבכי. </l>
+          <l>אני מנסה לעזור </l>
+          <l>לפני שהכול יעבור. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רוח קרה בין ערביים, </l>
+          <l>הקיץ שלנו נגמר. </l>
+          <l>עכשיו יש ללכת בשניים </l>
+          <l>לעבר השביל המוכר. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אולי באמת כבר מצאתי </l>
+          <l>את הלב החם והמתוק, </l>
+          <l>אבל מעולם לא אמרתי. </l>
+          <l>חיבקתי, המשכתי לשתוק. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אמרי לי עכשיו פנים אל פנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מעוף הפטריה</title>
+        <singer classification="band">אנרגיה חולנית</singer>
+        <writer>אריה פיין</writer>
+        <composer>אורטויה לאדנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מעוף הפטריה</head>
+        <lg number="1" type="stanza">
+          <l>הספרה האחרונה נהפכה לפטריה</l>
+          <l>הגמד שבשרטוט התגשם לעוד סיוט.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הציפורן השחורה נעוצה בשכחה</l>
+          <l>הטורף נשרף באש, רק מוחו הצף לוחש.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שם למעלה הגוונים</l>
+          <l>הם שטים בלי כוונות</l>
+          <l>הרוחות המדומות,</l>
+          <l>הפחדים, הצעקות.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>האישה העירומה התרגלה לפטריה</l>
+          <l>היא קלפה את חיוורונה ושקעה בתוך דמה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הטפטוף המתרוקן, ציפורים חוזרות לקן,</l>
+          <l>נרקיסים בעלטה, החושים אבדו שליטה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

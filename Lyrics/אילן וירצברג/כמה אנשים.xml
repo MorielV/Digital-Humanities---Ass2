@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה אנשים</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>יונה וולך</writer>
+        <composer>אילן וירצברג</composer>
+        <album>בזמן אמת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה אנשים</head>
+        <lg number="1" type="stanza">
+          <l>כמה אנשים אדם מכיר</l>
+          <l>כמה אנשים אדם זוכר</l>
+          <l>כמה אנשים עד שהוא בונה</l>
+          <l>לפני שהוא לגמרי הורס</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמה אנשים אדם אוהב</l>
+          <l>כמה אנשים אדם כואב</l>
+          <l>כמה אנשים עד שהוא פותח</l>
+          <l>לפני שהוא לגמרי סוגר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה אנשים</l>
+          <l>כמה אנשים</l>
+          <l>עד שהוא סוגר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמה אנשים אדם מכיל</l>
+          <l>כמה אנשים אדם מסתיר</l>
+          <l>כמה אנשים עד שהוא מראה</l>
+          <l>לפני שהוא מתחיל לשקר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כמה אנשים</l>
+          <l>כמה אנשים</l>
+          <l>עד שהוא מתחיל לשקר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

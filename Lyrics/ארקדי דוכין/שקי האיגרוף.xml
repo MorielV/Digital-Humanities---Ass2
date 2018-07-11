@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שקי האיגרוף</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>מאיר גולדברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שקי האיגרוף</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אותנו שמעת נופלים מעבר לדלת</l>
+          <l>אחים לעונש אלים, בנים לילדות מקוללת</l>
+          <l>הבטנו אחור בטירוף ובפחד קדימה</l>
+          <l>אנחנו שקי האיגרוף של אבא ואמא.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הלם האגרוף בפנים מלמעלה למטה</l>
+          <l>תמיד היינו שונים, אף פעם לא רצינו הביתה</l>
+          <l>עלינו דילג הליטוף, האצבע תמיד האשימה</l>
+          <l>אנחנו שקי האיגרוף של אבא ואמא.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אותנו שמעת סופגים את אבזמי המתכת</l>
+          <l>אמרת שוטים לא הורגים, לפני שהמשכת ללכת</l>
+          <l>אבל אצלנו פצעי הגוף עברו לנפש פנימה</l>
+          <l>אנחנו שקי האיגרוף של אבא ואמא.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אותנו שמעת נופלים מעבר לדלת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

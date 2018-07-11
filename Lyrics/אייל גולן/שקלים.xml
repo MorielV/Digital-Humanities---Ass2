@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שקלים</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>חייל של אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שקלים</head>
+        <lg number="1" type="stanza">
+          <l>אם המצב קשה ורע לך ואין ממה לחיות</l>
+          <l>אל תאבד תקווה חושבים עליך</l>
+          <l>נשמות טובות תמיד עובדות שעות נוספות</l>
+          <l>אז תשאיר הכל מאחוריך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הכסף רק נייר ובחיים יש עבר</l>
+          <l>והווה ועתיד לפניך</l>
+          <l>אם תחכה למחר אולי תהיה מאושר</l>
+          <l>לגלות שחושבים גם עליך -</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שקלים, שקלים</l>
+          <l>עלינו נופלים</l>
+          <l>ומישהו אחר אותם לוקח</l>
+          <l>אתה שבוי בהבטחות בלי כיסוי</l>
+          <l>לוקח קשה את הכל</l>
+          <l>אבל ממשיך לחיות.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם החשבון בבנק הופך מוגבל ויש לך חובות</l>
+          <l>לא יוותרו לך על שקל</l>
+          <l>הם דואגים שתשלם הכל צמוד לתוספות</l>
+          <l>על צווארך הניחו חבל</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רק אם תשלם ואם לא תילחם</l>
+          <l>הם יניחו לך בינתיים</l>
+          <l>בעולם המחר אתה הופך מיותר</l>
+          <l>עוד אחד עם חובות רק פי שניים -</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שקלים, שקלים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

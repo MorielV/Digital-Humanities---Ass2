@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השיר של דוקטור דוק</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>יוני רכטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השיר של דוקטור דוק</head>
+        <lg number="1" type="stanza">
+          <l>ילד מתוק,</l>
+          <l>זה אני, דוקטור דוק!</l>
+          <l>זה מאה אחוז,</l>
+          <l>העיקר - לא לזוז!</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אולי יש לו שבר?</l>
+          <l>קדחת או דבר?</l>
+          <l>אבעבועות רוח,</l>
+          <l>אולי צריך ניתוח!</l>
+          <l>דלקת אוזניים?</l>
+          <l>סיבוך במעיים?</l>
+          <l>בחילה וצרבת,</l>
+          <l>אדמת, צהבת!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נראה את הבטן,</l>
+          <l>נבדוק את השתן,</l>
+          <l>נראה את הבטן,</l>
+          <l>נבדוק את השתן,</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ילד מתוק,</l>
+          <l>הנה בא דוקטור דוק!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

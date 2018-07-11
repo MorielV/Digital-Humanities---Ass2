@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חזקה מהרוח</title>
+        <singer classification="female singer">אורנה בנאי</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חזקה מהרוח</head>
+        <lg number="1" type="stanza">
+          <l>היא היתה חזקה מהחורף</l>
+          <l>היא היתה חזקה מסופה</l>
+          <l>לצמוח מכלום שהיה לה</l>
+          <l>זה סוד הכח שלה</l>
+          <l>את ליבה היא שמרה בכספת</l>
+          <l>את גופה היא שמרה לעצמה</l>
+          <l>היא רואה או אולי מתעלמת</l>
+          <l>ממה שקורה בגללה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מתוך עולמות שבורים</l>
+          <l>היא צומחת, היא צומחת</l>
+          <l>לילות שלמים</l>
+          <l>היא רוקמת</l>
+          <l>כל מה שיקרה לה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ופתאום יום אחד הוא הגיע</l>
+          <l>כמו אל שעלה מן הים</l>
+          <l>את כל כוחותיה נתנה לו</l>
+          <l>ליבה התעורר מאי שם</l>
+          <l>אבל אהובה כמו המים</l>
+          <l>נגע בחופים וחזר</l>
+          <l>עכשיו אהבה היא יודעת</l>
+          <l>כאב שאיננו נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מתוך עולמות שבורים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

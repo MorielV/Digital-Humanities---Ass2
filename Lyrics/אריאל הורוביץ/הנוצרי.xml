@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנוצרי</title>
+        <singer classification="male singer">אריאל הורוביץ</singer>
+        <writer>אריאל הורוביץ</writer>
+        <composer>עובד אפרת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנוצרי</head>
+        <lg number="1" type="stanza">
+          <l>מכונית מטפסת בכביש אל הכפר</l>
+          <l>בתוכה איש צעיר - בכיסו מעטפה</l>
+          <l>המכשיר החדיש מצייר על הצג</l>
+          <l>בדיוק את הדרך לבית המועצה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ארוחת צהרים שעה כך עוברת</l>
+          <l>עד שראש המועצה קורא באיגרת</l>
+          <l>"רוצים לבנות אנטנה על אחד הגגות שבכפר</l>
+          <l>בתמורה יתנו שיחות חינם לדייר"</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אי שם לא רחוק זה קרה</l>
+          <l>הצפון הירוק הוא התפאורה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ליל ירח מלא - העדה מצטופפת</l>
+          <l>ראש המועצה אוסף פתקים למצנפת</l>
+          <l>אף אחד לא זז - איש אינו נושם</l>
+          <l>כשנשלף כמו פגיון - הפתק עם השם</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כבר למחרת החלו מדברים</l>
+          <l>"זה ודאי לא סתם שבחרו בנוצרי"</l>
+          <l>קוביות המשחק והכוס הנלגמת</l>
+          <l>הן עדות אילמות למזימה הנרקמת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אי שם לא רחוק...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>שבעה יצאו לדרך בטרם אור ראשון</l>
+          <l>שבעה יצאו לדרך עם טורייה וקלשון</l>
+          <l>דפקו על הדלת - עד שבעל הבית הגיע</l>
+          <l>ואז דקר הקלשון וחפרה הטורייה</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>לקח שבועיים כמעט למצוא אותו</l>
+          <l>הגיעו שוטרים - באו גם מהעיתון</l>
+          <l>וכהרף עין שב השקט לכפר</l>
+          <l>תחת צל עץ הזית ואנטנה סלולר</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>אי שם לא רחוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

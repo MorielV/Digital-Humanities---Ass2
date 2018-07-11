@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סודות הלילה</title>
+        <singer classification="male singer">אבי פרץ</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סודות הלילה</head>
+        <lg number="1" type="stanza">
+          <l>ושוב יורד הלילה ואתה שוקע</l>
+          <l>נשמה עובדת בין המחשבות</l>
+          <l>בחשקת הלילה כשהזמן רובץ</l>
+          <l>ועומד מלכת אין מה לגלות</l>
+          <l>השתיקה מולכת שם הלב נותנת</l>
+          <l>שוב עוברות בעיניך כל השאלות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תמיד מהדממה נולדות המחשבות</l>
+          <l>בן אדם שוקע בין השאלות</l>
+          <l>אל תתן לילה לשטות בך</l>
+          <l>אל תתן לחושך לכסות אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עד שתזרח השמש ארוכה הדרך</l>
+          <l>עצומות עיניך למנוחה בין חלומותיך</l>
+          <l>תנסה לשכוח תנסה לברוח לעולם אחר</l>
+          <l>לעולם השקט לא תוכל ללכת</l>
+          <l>השתיקה דועכת שם בחלומות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תמיד מהדממה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

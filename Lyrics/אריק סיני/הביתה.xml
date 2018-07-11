@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הביתה 2</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הביתה</head>
+        <lg number="1" type="stanza">
+          <l>בא רוח ופיסק את הברושים</l>
+          <l>מן השדרה הוסר מסך השקט</l>
+          <l>מעלעלי תלתן משולשים</l>
+          <l>הוצת הטל בשמש מסתלקת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ושוב דממה, הצמרות קדות</l>
+          <l>הקשב רעי לפעמי הערב</l>
+          <l>לאות כנפיים יגעות, כבדות</l>
+          <l>יורדות לנוח צפורי הטרף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בדרך זו אל מבואות הכפר</l>
+          <l>מיום עמל חזרנו יחד אמש</l>
+          <l>טובה צינת ערבית של העפר</l>
+          <l>לכף רגלנו הצרובה בשמש</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>וכן היום, וכך יהיה מחר</l>
+          <l>הדרך מעמל אלי מנוח</l>
+          <l>ברושים גבוהים עומדים על המשמר</l>
+          <l>מיום ליום יגבירו הניחוח</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

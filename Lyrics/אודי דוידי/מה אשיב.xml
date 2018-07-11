@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה אשיב</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>מתוך תהילים</writer>
+        <composer>אודי דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה אשיב</head>
+        <lg number="1" type="stanza">
+          <l>מָה-אָשִׁיב לַיהוָה כָּל-תַּגְמוּלוֹהִי עָלָי: </l>
+          <l>כּוֹס-יְשׁוּעוֹת אֶשָּׂא וּבְשֵׁם יְהוָה אֶקְרָא: </l>
+          <l>נְדָרַי לַיהוָה אֲשַׁלֵּם נֶגְדָה-נָּא לְכָל-עַמּוֹ: </l>
+          <l>יָקָר בְּעֵינֵי יְהוָה הַמָּוְתָה לַחֲסִידָיו: </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אָנָּה יְהוָה כִּי-אֲנִי עַבְדֶּךָ</l>
+          <l>אֲנִי עַבְדְּךָ בֶּן-אֲמָתֶךָ פִּתַּחְתָּ לְמוֹסֵרָי: </l>
+          <l>לְךָ-אֶזְבַּח זֶבַח תּוֹדָה וּבְשֵׁם יְהוָה אֶקְרָא: </l>
+          <l>נְדָרַי לַיהוָה אֲשַׁלֵּם נֶגְדָה-נָּא לְכָל-עַמּוֹ: </l>
+          <l>בְּחַצְרוֹת בֵּית יְהוָה בְּתוֹכֵכִי יְרוּשָׁלָם הַלְלוּיָהּ:</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

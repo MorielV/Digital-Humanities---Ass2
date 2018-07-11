@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בן אהוב</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בן אהוב</head>
+        <lg number="1" type="stanza">
+          <l>מבוהל, מפוחד שוב חזרתי אליך</l>
+          <l>מאויים מעצמי, לא רוצה להביט לאחור</l>
+          <l>לא תמיד כשנפלתי ידעתי לבוא אחריך</l>
+          <l>כמו בן שב אל אביו ממסע מהכפור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הדפוני השומרים</l>
+          <l>דלתך לא פותחים</l>
+          <l>נאבק בכל כוחי לבוא אליך</l>
+          <l>ועכשיו אני כבר כאן</l>
+          <l>מתחנן נאמן</l>
+          <l>הוא מאש - ואני בשר ודם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נשמתי שקפאה, וגופי שרתח כמו נער</l>
+          <l>ובגדי השחורים, מיוזע, חוזר מהקרב</l>
+          <l>כמו פצוע נדחף מהחוץ טרם נעילת שער</l>
+          <l>מתחנן לאביו, שיביט שוב אליו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הדפוני השומרים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשהקיץ ייסוג לאחור, ובגדי שוב ילבינו</l>
+          <l>אז אשמע את קולו של אבי שקורא לי לשוב</l>
+          <l>כשהמלך יצא לשדה לבניו יחכה הוא</l>
+          <l>שוב ארגיש בליבי כאותו בן אהוב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הדפוני השומרים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

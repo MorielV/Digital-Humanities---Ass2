@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה קטנה</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה קטנה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אישה קטנה המשחקת בגדול.</l>
+          <l>רוצה לברוח מהכל אך לא יכול.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>"אני אוהבת", את אומרת</l>
+          <l>כמו שחקנית ראשית בסרט.</l>
+          <l>את לא המצאת את החכמה</l>
+          <l>ואת גם לא כל כך תמימה.</l>
+          <l>את שקנית.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>משחקת במילים</l>
+          <l>כמו בנשק אמיתי.</l>
+          <l>לשונך מה חריפה.</l>
+          <l>אלוהים, את כה יפה!</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אומרים, אני יודע,</l>
+          <l>שאת מגן-עדן.</l>
+          <l>זה גורלי, אישה-נחש,</l>
+          <l>אני ממש מותש.</l>
+          <l>למזלי, אישה-נחש,</l>
+          <l>יש גם את הדבש.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אישה קטנה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>משחקת בלי חשש,</l>
+          <l>מתפתלת כמו נחש.</l>
+          <l>ויודעת להמשיך</l>
+          <l>או להפסיק כשצריך.</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אומרים...</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>אישה קטנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

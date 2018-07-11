@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תן לי שלום</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>דורלי חזון</writer>
+        <composer>דורלי חזון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תן לי שלום</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>תן לי שלום לי ולילדי </l>
+          <l>תן לי שלום לי ולביתי </l>
+          <l>תן לי צליל שקט ואור חמה </l>
+          <l>על פני האדמה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נשאו הרים תפילה </l>
+          <l>ביקשו שלום ואין </l>
+          <l>וקול רגלי המבשר </l>
+          <l>לא נשמע עדיין </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הגפן עוד תיתן פריה </l>
+          <l>יסמין ייתן פה ריח </l>
+          <l>יפרח הילד בימיו </l>
+          <l>שלום עד בלי ירח </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תן לי שלום... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כיכר תשא שירה </l>
+          <l>כמו שמש על המים </l>
+          <l>וישמעו כנפי יונה </l>
+          <l>מכאן עד לב שמיים </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עמוד האש עודו בוער </l>
+          <l>מבוקר ועד ערב </l>
+          <l>מחוץ, מבית נישמר </l>
+          <l>שלא תכה החרב </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>תן לי שלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

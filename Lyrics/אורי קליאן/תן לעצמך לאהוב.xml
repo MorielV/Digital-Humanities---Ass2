@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תן לעצמך לאהוב</title>
+        <singer classification="male singer">אורי קליאן</singer>
+        <writer>אורי קליאן</writer>
+        <composer>אורי קליאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תן לעצמך לאהוב</head>
+        <lg number="1" type="stanza">
+          <l>תגיד לי איפה אתה נופל</l>
+          <l>הולך לבד ישר</l>
+          <l>כי הסתובבתי הרבה</l>
+          <l>עכשיו כבר מאוחר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גלה לי עוד מקומות מסתור</l>
+          <l>הולך לבד בקור</l>
+          <l>כי הסתובבתי מספיק</l>
+          <l>אני רוצה לחזור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תן לעצמך לאהוב ( אף פעם לא נגמר)</l>
+          <l>כן תן להיות שוב קרוב (תלך לבד ישר)</l>
+          <l>תן לעצמך לאהוב (תגיד לי מה יש לך למצוא)</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תגיד לי מה יש לך למצוא </l>
+          <l>הולך בשדה מוקשים</l>
+          <l>אחרי שנים שחיכית</l>
+          <l>אל תפזר מילים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

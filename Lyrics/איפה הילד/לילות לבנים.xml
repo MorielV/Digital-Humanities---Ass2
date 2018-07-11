@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילות לבנים 2</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילות לבנים</head>
+        <lg number="1" type="stanza">
+          <l>יש לי לילות לבנים</l>
+          <l>אני יושב על הספה וקורא ספרים</l>
+          <l>נעים לי בלילה לחשוב על הכל</l>
+          <l>אולי אפשר לגעת בכוכב כחול</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בלילות של קיץ מזיע וחם</l>
+          <l>חלליות מעל תל אביב ראיתי שם</l>
+          <l>מה מחפשים פה אנשים מכוכב אחר</l>
+          <l>ליצור איתנו קשר ואתנו לדבר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הם שואלים אם יש מסיבה</l>
+          <l>הם בודדים מחפשים אהבה</l>
+          <l>הכוכב שלהם הוא רחוק וקר</l>
+          <l>יותר עצוב מכאן יותר עצוב מכאן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שקט בבית ילדתי ישנה</l>
+          <l>והחתול שלי חולם על עוגת גבינה</l>
+          <l>אני והחבר'ה מהחלל החיצון</l>
+          <l>שותים קפה אוכלים עוגיות אצלנו בסלון</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הם שואלים אם יש מסיבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

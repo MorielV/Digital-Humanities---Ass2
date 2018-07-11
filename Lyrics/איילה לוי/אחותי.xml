@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחותי 3</title>
+        <singer classification="female singer">איילה לוי</singer>
+        <writer>חמוטל בן זאב</writer>
+        <composer>ליאורה סימון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחותי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אחותי, אני רוצה לתת לך כוח</l>
+          <l>שתאספי את עצמך</l>
+          <l>ותעמדי מול חייך</l>
+          <l>מחויכת ושקטה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אחותי, ואם תוכלי לאט לפתוח</l>
+          <l>את מיצר לבך</l>
+          <l>ותתחזק אמונתך</l>
+          <l>ותצמחי איתה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אחותי</l>
+          <l>את כמותי</l>
+          <l>בואי איתי</l>
+          <l>למסעות הנפש</l>
+          <l>אחותי</l>
+          <l>שכמותי</l>
+          <l>בואי איתי...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אחותי, ושמחה רוצה לתת לך</l>
+          <l>שתתחברי אל מהותך</l>
+          <l>ותתקרבי אל נשמתך</l>
+          <l>מפויסת ורכה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אחותי, ותקוה גדולה אאיר בך</l>
+          <l>שתקשיבי לעצמך</l>
+          <l>ותאהבי את גופך</l>
+          <l>כי יפה השתיקה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אחותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

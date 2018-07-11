@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלום 6</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלום</head>
+        <lg number="1" type="stanza">
+          <l>שני גמדים של שוקולד ומרמלד אחד</l>
+          <l>אל השולחן אני קורא לך</l>
+          <l>כל העלים נשרו כבר סתיו אני לבד עכשיו</l>
+          <l>רק בחלום אני רואה אותך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חשבתי לעצמי שעד מחר בבוקר לא תהיי שלי</l>
+          <l>חשבתי לעצמי שכשאפקח עיניים לא תהיי איתי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך האישון פתאום גדול אנ'לא יכול לסבול</l>
+          <l>סוגר את עיני ובא אלייך</l>
+          <l>רק בחלום כשבודדה ממש כמו אגדה</l>
+          <l>אני הנסיך שמעלייך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חשבתי לעצמי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

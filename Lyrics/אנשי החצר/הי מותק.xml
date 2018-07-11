@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הי מותק</title>
+        <singer classification="band">אנשי החצר</singer>
+        <writer>ארז ברזוליק</writer>
+        <composer>ארז ברזוליק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הי מותק</head>
+        <lg number="1" type="stanza">
+          <l>הי מותק !</l>
+          <l>מצאת לך מאהב משוקולד</l>
+          <l>הי מותק</l>
+          <l>תאכלי הכל תהיי לבד</l>
+          <l>ותמותי סתם משעמום !!</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הי מותק!</l>
+          <l>במיטה שלושה לילות</l>
+          <l>הי מותק</l>
+          <l>הבנות כולן יודעות</l>
+          <l>ואף אחד לא אומרת כלום</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אנ'לא צריך לשאול כבר שמעתי הכל</l>
+          <l>איך ניסית לעוף והצלחת רק ליפול</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הי מותק !</l>
+          <l>בין הדמעות לנשיקות</l>
+          <l>מותק, את נשארת לחכות</l>
+          <l>כולן אותך פה מבינות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז מותק..</l>
+          <l>אף מילה על אהבה</l>
+          <l>מותק - את בחורה כל כך טובה</l>
+          <l>בתוך גן עדן של זונות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אנ'לא צריך לשאול כבר שמעתי הכל</l>
+          <l>איך ניסית לעוף והצלחת רק ליפול</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גם אם טעית</title>
+        <singer classification="unknown">אלון חסון</singer>
+        <writer>אלון חסון</writer>
+        <composer>אלון חסון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גם אם טעית</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>קום אדם ותתעורר</l>
+          <l>קום אדם זה לא עוזר</l>
+          <l>עולם יפה ממולך</l>
+          <l>כל זה יכול להיות שלך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קום אדם ותתעורר</l>
+          <l>קום חבר זה לא עוזר</l>
+          <l>זרוק מעלייך את השמיכה</l>
+          <l>שיראו כולם אינך נכנע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפעמים הולך קשה</l>
+          <l>לפעמים אתה מתקשה</l>
+          <l>אל תוותר צא לעולם</l>
+          <l>כי גם אתה חבר אינך מושלם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>גם אם טעית</l>
+          <l>גם אם לא ראית</l>
+          <l>כולנו בני אדם</l>
+          <l>גם אם טעית</l>
+          <l>לפחות ניסית</l>
+          <l>אתה אדם בשר ודם</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נישא תפילה לבורא עולם</l>
+          <l>הוא יוצר כל אדם</l>
+          <l>הוא נותן אתה תיקח</l>
+          <l>תן אמון ואל תשכח</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>קום אדם ותתעורר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתחילה לחיות</title>
+        <singer classification="female singer">איילה לוי</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>יורם צדוק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתחילה לחיות</head>
+        <lg number="1" type="stanza">
+          <l>אל תחפש אותי בקיץ</l>
+          <l>רק תחשוב על כל הטעויות</l>
+          <l>כי לא אשב דקה בבית</l>
+          <l>וסוף סוף אתחיל לחיות</l>
+          <l>אתה קר כמו ברד בחורף</l>
+          <l>בגללך ויתרתי על הכל</l>
+          <l>ממך קיבלתי רק סחרחורת</l>
+          <l>אך ידעתי לא ליפול</l>
+          <l>לא פוחדת להיות לבד</l>
+          <l>ולא חייבת כלום לאף אחד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מתחילה לחיות מחדש</l>
+          <l>זה הזמן לצאת מהמגרש</l>
+          <l>המשחק שלך כבד עלי</l>
+          <l>והמבול כבר אחרי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אמרת שנינו זה for ever</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תפוחים ותמרים</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>איתן גלס</writer>
+        <composer>רמי קלינשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תפוחים ותמרים</head>
+        <lg number="1" type="stanza">
+          <l>אם תלך אל השוק</l>
+          <l>תראה אותה בוכה</l>
+          <l>אישה יפה בין הפירות</l>
+          <l>מוציאה עוד ממחטה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הרוכלים לה צועקים</l>
+          <l>מה קרה לך חמודה</l>
+          <l>זה אהובי שלא רוצה</l>
+          <l>הוא מצא לו נערה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קחי לך תפוחים ותמרים</l>
+          <l>המתיקי את יומך</l>
+          <l>הוא לא שווה את הכאב</l>
+          <l>שמתרוצץ אצלך בלב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היא אוהבת את האיש</l>
+          <l>שלא אוהב אותה</l>
+          <l>שמלת פרחים, לחיים שושנים</l>
+          <l>לך לא מספיקים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אתה רוצה אישה פלקט</l>
+          <l>בלי נסיון חיים</l>
+          <l>אתה רוצה ילדה נערה</l>
+          <l>קפואה ובלי קמטים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>קחי לך תפוחים ותמרים...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>והיא פה מחכה</l>
+          <l>בין דוכני שווקים</l>
+          <l>שאתה תרצה אותה אהובה</l>
+          <l>רק כשנוח ומתאים</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>קחי לך תפוחים ותמרים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילדונת</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>תלמה אליגון רוז</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילדונת</head>
+        <lg number="1" type="stanza">
+          <l>ילדונת, פרח אהבה</l>
+          <l>ילדונת, קטנה ושובבה</l>
+          <l>עם תלתלים ועוד גומה</l>
+          <l>ושתי עיניים נשמה...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ילדונת, גור שמצטנף</l>
+          <l>ילדונת, ענן שמרחף</l>
+          <l>את תות שדה בחורף קר</l>
+          <l>את מעופן של ציפורי הבר.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את עדיין ילדה</l>
+          <l>את ודאי לא יודעת</l>
+          <l>את אשר שתי עינייך מבקשות.</l>
+          <l>את עדיין ילדה</l>
+          <l>את ודאי לא יודעת</l>
+          <l>שידי את ידייך מחפשות.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ילדונת, פרח אהבה</l>
+          <l>ילדונת, וכבר היא עצובה</l>
+          <l>עם תלתלים ועוד גומה</l>
+          <l>בוכים עם כל הנשמה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ילדונת, למה את בוכה</l>
+          <l>ילדונת, אין לנו מחר</l>
+          <l>פתחי עלייך הרכים</l>
+          <l>ובואי איתי אל המרחקים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את עדיין ילדה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

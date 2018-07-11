@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל שנייה</title>
+        <singer classification="unknown">אביהו שבת</singer>
+        <writer>אבי אוחיון</writer>
+        <composer>אסף צרויה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל שנייה</head>
+        <lg number="1" type="stanza">
+          <l>איך הכל קורה מהר , הזמן לרגע לא עוצר </l>
+          <l>עוד שבוע , חודש , כבר סוף שנה </l>
+          <l>השעון שמתקתק כבר מאיים להתפרק </l>
+          <l>לא יכול  הוא לנוח שנייה </l>
+          <l>חורף , סתיו , עלים של שלכת </l>
+          <l>מזכירים לי ילדות נפלאה </l>
+          <l>קיץ חם , לחות שחונקת </l>
+          <l>עוד מעט תסתיים עוד שנה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל שנייה שתעבור לא תשוב , היא לא תחזור </l>
+          <l>כל יום הוא מתנה, משתדל תמיד לזכור </l>
+          <l>לא ללכת סחור וסחור יש עוד דרך לעבור </l>
+          <l>ויש מי שישמור .  </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך הכל קורה מהר מרגיש כמו נער מתבגר </l>
+          <l>בתחפושת של ילד גדול </l>
+          <l>מנסה להתעלם אבל המציאות נושכת </l>
+          <l>לפחות נשארים זיכרונות </l>
+          <l>יום קסום פריחה מלבלבת מנציחים בי עוד רגע יקר </l>
+          <l>לילה קר חיבוק של אוהבת ונראה שהזמן נעצר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל שנייה שתעבור לא תשוב , היא לא תחזור </l>
+          <l>כל יום הוא מתנה, משתדל תמיד לזכור </l>
+          <l>לא ללכת סחור וסחור יש עוד דרך לעבור </l>
+          <l>ויש מי שישמור . </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יום קסום פריחה מלבלבת מנציחים בי עוד רגע יקר </l>
+          <l>לילה קר חיוך של אוהבת ונראה שהזמן נעצר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

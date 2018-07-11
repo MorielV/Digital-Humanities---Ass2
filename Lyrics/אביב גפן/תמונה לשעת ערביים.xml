@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תמונה לשעת ערביים</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>יומן מסע</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תמונה לשעת ערביים</head>
+        <lg number="1" type="stanza">
+          <l>הגיע סתיו קריר עכשיו</l>
+          <l>ואיזה כיף אני גם מאוהב</l>
+          <l>כשהיא כאן הכל בסדר</l>
+          <l>יושב איתה על הספה</l>
+          <l>היא בפשטות את האושר מביאה</l>
+          <l>כשהיא כאן הכל בסדר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תלכי לעולם, לא אל תלכי</l>
+          <l>אף פעם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זמר ביישן בתקליט ישן</l>
+          <l>ואני איתו רוקד איתה</l>
+          <l>כשהיא כאן הכל בסדר</l>
+          <l>מתחיל טפטוף וזה כמו ליטוף</l>
+          <l>קר לה ואני מביא שמיכה</l>
+          <l>כשהיא כאן הכל בסדר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תלכי לעולם, לא אל תלכי</l>
+          <l>אף פעם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

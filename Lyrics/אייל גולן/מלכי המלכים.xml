@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלכי המלכים</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>עדי כבירי</writer>
+        <composer>נאור סינואני</composer>
+        <album>נגעת לי בלב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלכי המלכים</head>
+        <lg number="1" type="stanza">
+          <l>סלח לי אבי כי חטאתי לך</l>
+          <l>מחול לי על כל פשעי</l>
+          <l>גם בימים ששכחתי אותך</l>
+          <l>היית תמיד</l>
+          <l>בחיי</l>
+          <l>בכל הדרכים שהלכתי בעצם</l>
+          <l>היית לי נר לרגליי</l>
+          <l>הייתי עיוור לא ראיתי מעבר </l>
+          <l>למה שהביטו עיניי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מלך מלכי המלכים תודה על חיים</l>
+          <l>על אושר על בכי על צחוק</l>
+          <l>גם כשקשה לפעמים גם אז אלוקים</l>
+          <l>אתה לעולם לא רחוק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גם כי אלך ודרכי חשוכה</l>
+          <l>בטחתי בך אלוקיי</l>
+          <l>על חצי שני על בכור וילדה</l>
+          <l>תודה גם על אושר בלי די</l>
+          <l>תודה על חגים</l>
+          <l>על שבת ששומרת</l>
+          <l>שלא יגמר לעולם</l>
+          <l>כל יום שעובר בדרכי לגן עדן</l>
+          <l>שיוויתי אותך מול</l>
+          <l>עיניי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מלך מלכי המלכים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מזמור לגלעד</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>אייל גולן</composer>
+        <album>חלק מחיי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מזמור לגלעד</head>
+        <lg number="1" type="stanza">
+          <l>מזמור לגלעד</l>
+          <l>ה' רועי לא אפחד</l>
+          <l>שפתי לוחשות הנני</l>
+          <l>רחוק מאבי מאימי</l>
+          <l>אליך אקרא מקימי</l>
+          <l>מבור אסורים השיבני</l>
+          <l>חיים אשאל אל תחרש</l>
+          <l>ענני אבי אף כי אלחש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ענני, מעיר מצור אקרא</l>
+          <l>ענני מן הדממה</l>
+          <l>אני האיש החפץ חיים</l>
+          <l>מהר להושיעני </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>למנצח שיר</l>
+          <l>מזמור לגלעד</l>
+          <l>לך גורלי עושה שמיים</l>
+          <l>שמעתי קולות רחוקים</l>
+          <l>אומרים להשיב חירותי</l>
+          <l>מילים חצובות על מים</l>
+          <l>גם איש שלומי היה לי זר</l>
+          <l>בטחתי בך, אותך לא אחסר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ענני, מעיר מצור אקרא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

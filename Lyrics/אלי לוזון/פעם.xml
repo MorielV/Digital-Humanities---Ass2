@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פעם 4</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>צרויה להב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פעם</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>פעם מוכן אולי לראות אותך עוד פעם</l>
+          <l>בתים חולמים על אש בעיר הנמה</l>
+          <l>סירות שקטות יורדות עכשיו הימה </l>
+          <l>נפליג איתם רחוק רחוק לשמה </l>
+          <l>בליל מפרץ לילי אדע עד כמה </l>
+          <l>הלילה הוא מפלט עוד חופש פעם </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מוכן אולי לראות אותך עוד פעם </l>
+          <l>ואיך שוב לא ייקחו אותך ממני</l>
+          <l>אף פעם אוהב אותך</l>
+          <l>לכאוב בלי סוף בלי סוף </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פעם אמרת שזה טירוף </l>
+          <l>את עוד אושר </l>
+          <l>הראית לי מקומות בלי צחוק וחושך</l>
+          <l>הלילה הוא מפלט עוד חופש פעם </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מוכן אולי לראות אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

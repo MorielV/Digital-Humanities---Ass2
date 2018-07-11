@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך שהיא יפה</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך שהיא יפה</head>
+        <lg number="1" type="stanza">
+          <l>למה עצובה היא העלמה,</l>
+          <l>זה סיפור כמו אגדה</l>
+          <l>יען היא ילדה יפה,</l>
+          <l>עד כי אין לה כלל חברה.</l>
+          <l>כך קורה לה בכל פעם -</l>
+          <l>היא נשארת לבדה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מקנאות בה הבנות,</l>
+          <l>איך שהיא יפה כזאת!</l>
+          <l>היא נאה כאבן-חן,</l>
+          <l>איפה היא ואיפה הן !</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשרוצה היא לבלות קמעא</l>
+          <l>בחברה של נערה</l>
+          <l>אף אחת אינה רוצה</l>
+          <l>להחוויר שם לצידה</l>
+          <l>אז כועסת היא כפליים</l>
+          <l>ו'אוכלת את עצמה'.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מקנאות בה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא רצתה להיות יפה כל-כך</l>
+          <l>כי תמיד כך זה היה</l>
+          <l>וקשה לבד בכרך -</l>
+          <l>למה כך הן עושות לה?!</l>
+          <l>שיבוא כבר נער-חמד</l>
+          <l>ומזה יפטור אותה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מקנאות בה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

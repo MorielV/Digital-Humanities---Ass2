@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נגד הגורל</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>אסתר שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נגד הגורל</head>
+        <lg number="1" type="stanza">
+          <l>ממרחק של נצח, ממרחק גדול</l>
+          <l>התמונה נפתחת, מתבהר הכל</l>
+          <l>את היית לי בוקר, את היית לי אור</l>
+          <l>ואותך חיפשתי במקומות אינספור.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה נכתב על המים</l>
+          <l>זה נכתב בשמיים</l>
+          <l>זה נכתב</l>
+          <l>על לוחות החול של ליבנו</l>
+          <l>כל ימי, כל ימייך</l>
+          <l>כמו עיוור מול עינייך</l>
+          <l>את תהיי כל הזמן מולי</l>
+          <l>ולא תהיי לי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואני בורח, לא מוצא מקלט</l>
+          <l>מחפש בחושך ובסוף זו את</l>
+          <l>אל תפני פנייך, לא יהיה לי קל</l>
+          <l>כשאבוא אלייך נגד הגורל.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה נכתב על המים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כמו אורות מנצנצים בלילה</l>
+          <l>נדלקים עם בוקר</l>
+          <l>שם ידינו מחפשות בחושך</l>
+          <l>ולא נוגעות</l>
+          <l>לא נוגעות באושר...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה נכתב על המים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

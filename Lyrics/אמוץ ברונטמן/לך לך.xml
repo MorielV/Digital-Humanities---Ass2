@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לך לך</title>
+        <singer classification="male singer">אמוץ ברונטמן</singer>
+        <writer>מן המקורות</writer>
+        <composer>אמוץ ברונטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לך לך</head>
+        <lg number="1" type="stanza">
+          <l>לך לך מארצך </l>
+          <l>וממולדתך ומבית אביך </l>
+          <l>אל הארץ אשר אראך </l>
+          <l>ואעשך לגוי גדול </l>
+          <l>ואברכך </l>
+          <l>ואגדלה שמך </l>
+          <l>והיה ברכה </l>
+          <l>ואברכה מברכיך </l>
+          <l>ומקלליך אאר </l>
+          <l>ונברכו בך כל משפחות האדמה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

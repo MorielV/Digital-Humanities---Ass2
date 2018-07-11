@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמור אלי</title>
+        <singer classification="unknown">אוצרה ברזלי</singer>
+        <writer>אוצרה ברזלי</writer>
+        <composer>אוצרה ברזלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמור אלי</head>
+        <lg number="1" type="stanza">
+          <l>אמא- נמצא כאן בעמדה </l>
+          <l>שמור עלעצמך ילדי, </l>
+          <l>אמא - יושב לי בשמירה </l>
+          <l>אל תשכח לשים צעיף, </l>
+          <l>אמא - מתי יגמרו מלחמות </l>
+          <l>בקרוב ילדי - יש לקוות </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אמא, נמצא כאן בעמדה </l>
+          <l>יושב לי בשמירה </l>
+          <l>אמא , מתי יגמרו מלחמות </l>
+          <l>רוצה לחיות </l>
+          <l>רוצה עתיד ורוד </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמור על עצמך ילדי </l>
+          <l>אל תשכח לשים צעיף </l>
+          <l>יש לקוות ולצפות </l>
+          <l>יבוא מהר שלום </l>
+          <l>תגשים את כל השאיפות </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שמור אלי , על כול החיילים והחיילות </l>
+          <l>עושים משמרתם ימים וגם לילות </l>
+          <l>שמור אלי, על כל המשפחות </l>
+          <l>הסר מליבם - כל דאגות </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שמור אלי , על כול החיילים והחיילות </l>
+          <l>עושים משמרתם ימים וגם לילות </l>
+          <l>שמור אלי, על כל המשפחות </l>
+          <l>הסר מליבם - כל דאגות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

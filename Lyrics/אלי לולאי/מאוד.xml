@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאוד 2</title>
+        <singer classification="male singer">אלי לולאי</singer>
+        <writer>אלי לולאי</writer>
+        <composer>אורנה כץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאוד</head>
+        <lg number="1" type="stanza">
+          <l>הייתי שר לך שיר תקווה</l>
+          <l>הייתי שר עלייך</l>
+          <l>ומסתכל במה שאת עושה</l>
+          <l>ולא עוצם עיניים</l>
+          <l>לאט נרגעת מחכה</l>
+          <l>לא מבקשת משהו אחר</l>
+          <l>כמה אני מרגיש אותך</l>
+          <l>מרגיש אותך, אותך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מאוד... עד סוף העולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הייתי עף </l>
+          <l>ממקום אחר</l>
+          <l>ומגלה שאין מה למהר</l>
+          <l>אנחנו כאן</l>
+          <l>אין מה למהר</l>
+          <l>אנחנו כאן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לאט נרגעת מחכה</l>
+          <l>לא מבקשת משהו אחר</l>
+          <l>מרגיש אותך, אותך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מאוד... עד סוף העולם</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מרגיש אותך, אותך</l>
+          <l>מרגיש אותך</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>מאוד... עד סוף העולם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

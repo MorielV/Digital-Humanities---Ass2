@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל קיץ</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>נתן יונתן</writer>
+        <composer>missing</composer>
+        <album>קול וחומר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל קיץ</head>
+        <lg number="1" type="stanza">
+          <l>כל קיץ קורה דבר-מה</l>
+          <l>ואף שכאילו כלום לא השתנה</l>
+          <l>מעונה לעונה הלב יותר נכנע</l>
+          <l>לפיתויי הליל של האדמה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כפוף על אהבתך הכוכבית</l>
+          <l>קינת קיץ אחרונה.</l>
+          <l>לא זכרתי איזו מתנה</l>
+          <l>ביקשת שאביא לך בשובי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זהו פזרון נפש שלאחר קציר</l>
+          <l>הכל אסוף, רק שכחה קיצית.</l>
+          <l>זו העונה המתה שלך</l>
+          <l>מישהו מקשיב, מישהו חדל לשיר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואת, מה חושבת, פרחונית שלי, שתמיד אביב?</l>
+          <l>ומה בדבר בגידת הזמן ומה בעניין העננים</l>
+          <l>שחונים בפאתי הסתיו הריחני</l>
+          <l>עד מתי את חושבת אפשר לשחק באוהבים?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

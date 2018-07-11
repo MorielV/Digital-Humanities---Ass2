@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למנוחה לנחלה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למנוחה לנחלה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>שוב מתחילים ללכת</l>
+          <l>שוב הנדודים</l>
+          <l>והגלות נמשכת</l>
+          <l>כבר אלפי שנים</l>
+          <l>כמה אפשר ללכת בין הפרדסים</l>
+          <l>למנוחה, לנחלה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הדרך היא מתפתלת</l>
+          <l>בין הרים גאים</l>
+          <l>איפה שהיא עוברת</l>
+          <l>יש כבר סימנים</l>
+          <l>כמה אפשר ללכת בין הפרדסים</l>
+          <l>למנוחה, לנחלה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה אפשר ללכת בין הפרדסים</l>
+          <l>למנוחה, לנחלה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שוב מתחילים ללכת</l>
+          <l>שוב הנדודים</l>
+          <l>והגלות נמשכת</l>
+          <l>כבר אלפי שנים</l>
+          <l>כמה אפשר ללכת בין הפרדסים</l>
+          <l>למנוחה, לנחלה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

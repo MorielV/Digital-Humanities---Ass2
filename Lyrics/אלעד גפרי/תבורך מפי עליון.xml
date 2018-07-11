@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תבורך מפי עליון</title>
+        <singer classification="unknown">אלעד גפרי</singer>
+        <writer>רמי ברזל</writer>
+        <composer>רמי ברזל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תבורך מפי עליון</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>איש יקר צדיק - תבורך מפי עליון</l>
+          <l>רבינו, רואים בעיניך</l>
+          <l>איזה אור גדול איזה אור עליון -</l>
+          <l>רבינו, רואים בעיניך!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תבורך מפי עליון - תבורך אתה,</l>
+          <l>ובכל אשר תלך - תצליח!</l>
+          <l>תבורך מפי עליון, רבינו,</l>
+          <l>ובכל אשר תלך, תצליח!</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איש יקר צדיק - תבורך מפי עליון</l>
+          <l>רבינו, רואים בעיניך</l>
+          <l>איזה אור גדול איזה אור עליון -</l>
+          <l>רבינו, אנחנו הולכים אחריך!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תבורך מפי עליון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמא 10</title>
+        <singer classification="male singer">אליקו</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>שי ראובני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמא</head>
+        <lg number="1" type="stanza">
+          <l>תמיד כשעצוב לי בלב</l>
+          <l>אני בא רק אלייך</l>
+          <l>ויש בך מקום לקבל</l>
+          <l>את כל הכאב </l>
+          <l>אוספת אותי כמו תינוק</l>
+          <l>אל תוך זרועותייך</l>
+          <l>מניח ראשי על כתפך ונרדם</l>
+          <l>כמה את דואגת כל הזמן</l>
+          <l>אמא כשאני רחוק מכאן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אמא, בגופך עלי שומרת</l>
+          <l>לעולם לא מוותרת</l>
+          <l>נותנת ת'נשמה ואת הלב</l>
+          <l>אמא את שבויה בלילותייך</l>
+          <l>לא עוצמת את עינייך</l>
+          <l>ואיך אני אותך כל כך אוהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל הזמן את איתי</l>
+          <l>וחיי קשורים בחייך</l>
+          <l>כל תפילה שיוצאת מליבך</l>
+          <l>שומרת עלי</l>
+          <l>וגם אם אטעה בדרכי</l>
+          <l>אבוא רק אלייך</l>
+          <l>כי רק את יודעת תמיד</l>
+          <l>מה טוב בשבילי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אמא, בגופך עלי שומרת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

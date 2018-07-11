@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אי בודד</title>
+        <singer classification="unknown">אורלי ורדי</singer>
+        <writer>איציק המרמן</writer>
+        <composer>עופר המרמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אי בודד</head>
+        <lg number="1" type="stanza">
+          <l>הרחק על אי בודד,</l>
+          <l>על חוף בצל דקל חרד.</l>
+          <l>שם פרשתי לי מגבת</l>
+          <l>ושכבתי להשתזף טיפה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>השמש אל הים שוקעת</l>
+          <l>וממני היא תובעת,</l>
+          <l>לפקוח שתי עיני,</l>
+          <l>להביט מעט ודי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הופיע הוא מולי.</l>
+          <l>אגוז הוא קטף בשבילי.</l>
+          <l>אז לקחתי את הקוקוס</l>
+          <l>וחלקתי עם הקוף שלי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>השמש אל הים שוקעת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשהתיישבתי על מגבת,</l>
+          <l>הוא שאל: "אפשר לשבת"?</l>
+          <l>לו הושטתי יד והוא התקרב אלי,</l>
+          <l>ליטף הוא את פני, נישק גם לשפתי.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>השמש אל הים שוקעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

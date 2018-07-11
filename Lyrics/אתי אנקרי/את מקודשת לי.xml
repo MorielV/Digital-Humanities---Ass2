@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את מקודשת לי</title>
+        <singer classification="female singer">אתי אנקרי</singer>
+        <writer>אתי אנקרי</writer>
+        <composer>אתי אנקרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את מקודשת לי</head>
+        <lg number="1" type="stanza">
+          <l>כשראיתי אותך</l>
+          <l>מתהלך מולי</l>
+          <l>היתה אהבה והייתי כולי</l>
+          <l>בבית שלי.</l>
+          <l>איך הפה הזה שקידש אותי</l>
+          <l>נועץ את שיניו בנפשי,</l>
+          <l>בגופי,</l>
+          <l>את מקודשת לי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>האמת לתמיד</l>
+          <l>חזקה מכולם</l>
+          <l>גם אתה גם אני</l>
+          <l>לא נחיה לעולם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והיית צוחק והיית איתי</l>
+          <l>כמו גשם ראשון שמעיר אותי</l>
+          <l>את מקודשת לי..</l>
+          <l>מה עוד תוכל לעשות כדי לרדוף אותי</l>
+          <l>אם תרצה את חיי</l>
+          <l>תקבל את מותי</l>
+          <l>כבר לא מפחיד אותי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האמת לתמיד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בלי אולידיי שרה בתקליט שלך</l>
+          <l>מצירת אותי בשירה חשופה</l>
+          <l>כמו חיה רדופה</l>
+          <l>ביל הולידיי שרה בתקליט שלך</l>
+          <l>והגשם יורד</l>
+          <l>בדלתי הפתוחה</l>
+          <l>כבר לא פוחדת ממך...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>האמת לתמיד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

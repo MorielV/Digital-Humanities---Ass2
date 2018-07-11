@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד אהבה</title>
+        <singer classification="unknown">אבי עברי</singer>
+        <writer>אבי עברי</writer>
+        <composer>אבי עברי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד אהבה</head>
+        <lg number="1" type="stanza">
+          <l>ושוב אני שוכב על החול</l>
+          <l>עוצר את הכל ורק לשכוח</l>
+          <l>איך זה שבאים הגלים</l>
+          <l>אל החוף ומבלי לטבוע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואז אני מוצא לידי</l>
+          <l>מושיט ידי ולוקח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד אהבה לידה נחמה</l>
+          <l>בודדה מחכה שאקרא לה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

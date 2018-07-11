@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד ועוד</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>יובל דור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד ועוד</head>
+        <lg number="1" type="stanza">
+          <l>באפלה</l>
+          <l>אלי חייכת והושטת את ידך</l>
+          <l>אני זוכרת שהלכתי לקראתך</l>
+          <l>בין האורות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בחשכה אלי דיברת</l>
+          <l>לא ראיתי את דמותך</l>
+          <l>ורק נשאתי לי אותו חיוך שלך</l>
+          <l>שאור השחר הפציע.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עוד ועוד</l>
+          <l>איתך ללכת ולצעוד ועוד</l>
+          <l>וכל הלילה רק לרקוד ועוד</l>
+          <l>עד שהבוקר יגיע.</l>
+          <l>עוד ועוד</l>
+          <l>אורות העיר צופנים לי סוד ועוד</l>
+          <l>איתך בדרך העולה לרקוד</l>
+          <l>ועוד ועוד.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הרחק מכאן אתה קורא לי</l>
+          <l>כמו מתוך חלום ישן</l>
+          <l>אני שומעת את קולך וזה סימן</l>
+          <l>של אור ראשון.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כבר מאוחר</l>
+          <l>אמצא אותך בין האורות</l>
+          <l>אולי מחר</l>
+          <l>ידך תושיט לי, תחייך ואז תאמר</l>
+          <l>שאור השחר הפציע.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עוד ועוד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

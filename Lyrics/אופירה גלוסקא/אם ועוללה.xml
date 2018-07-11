@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם ועוללה</title>
+        <singer classification="female singer">אופירה גלוסקא</singer>
+        <writer>חיים נחמן ביאליק</writer>
+        <composer>חנינא קרצבסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם ועוללה</head>
+        <lg number="1" type="stanza">
+          <l>היש כעוללי?</l>
+          <l>היש כגוזלי?</l>
+          <l>מי יתן וכפניו</l>
+          <l>כן יאיר מזלי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הביטו וראו נא</l>
+          <l>את בני בהדרו:</l>
+          <l>לבשרו כותונת</l>
+          <l>וענק לצוארו.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וראו נא חן שפתיו,</l>
+          <l>חכמתו הרבה,</l>
+          <l>בצפצפו "אמא"</l>
+          <l>ובמלמלו "אבא".</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היש כעוללי?</l>
+          <l>היש כאפרוחי?</l>
+          <l>אשרי שבני הוא</l>
+          <l>ואימו אנוכי!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

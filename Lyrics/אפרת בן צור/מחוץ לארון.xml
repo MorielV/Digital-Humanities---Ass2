@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחוץ לארון</title>
+        <singer classification="female singer">אפרת בן צור</singer>
+        <writer>מירון איזקסון</writer>
+        <composer>ורד קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחוץ לארון</head>
+        <lg number="1" type="stanza">
+          <l>אתמול נמצאתי בארוני:</l>
+          <l>פתק שחשבתי לכתוב</l>
+          <l>תמונה שזכרתי לסלק</l>
+          <l>מחשבה על ארוחה מתוקה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הנחתי מדפים נכנסים</l>
+          <l>כפי שפעם יניחו אותי,</l>
+          <l>הוצאתי ספרים זהירים</l>
+          <l>וכמו מבוכה במנעול</l>
+          <l>עפים וקרובים הדפים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מוקף הארון בקשרים,</l>
+          <l>החבילות תמיד מוכנות</l>
+          <l>להחליף מקום עם גופי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

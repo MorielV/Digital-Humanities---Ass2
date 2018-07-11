@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ימים 7</title>
+        <singer classification="male singer">אמיר גינת</singer>
+        <writer>אליעזר כגן</writer>
+        <composer>טובה פורת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ימים</head>
+        <lg number="1" type="stanza">
+          <l>אני מונה ימי שירים</l>
+          <l>ויום שלא מצא בי הד</l>
+          <l>ולא הרעיד מיתר נסתר</l>
+          <l>בסוד ימי אל יפקד</l>
+          <l>חיי מחרוזת מזמורים</l>
+          <l>אחד סחוף סער ונפתל</l>
+          <l>שני נוגה ושחוח גב</l>
+          <l>והשלישי נוצץ מטל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ברוכים יהיו ימי שירים</l>
+          <l>על ששונם ועל סבלם</l>
+          <l>האפורים אטרי הזמר</l>
+          <l>אל יבואו לעולם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

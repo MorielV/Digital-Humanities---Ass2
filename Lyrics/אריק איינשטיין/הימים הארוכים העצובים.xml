@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הימים הארוכים העצובים</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הימים הארוכים העצובים</head>
+        <lg number="1" type="stanza">
+          <l>איך הזמן שוב מזדחל לו כמו צב</l>
+          <l>איך הלילה שוב יורד לאט לאט</l>
+          <l>איך הגשם שוב דופק לו על הגג</l>
+          <l>לא אכפת שוב להיות לבד, לבד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כן, הם שוב חוזרים אלינו הימים</l>
+          <l>הימים הארוכים העצובים</l>
+          <l>שוב אשכב לבד בוהה בעננים</l>
+          <l>בואו חזרה ימים טובים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השמים מתכסים בים כבשים</l>
+          <l>והשמש מציירת עיגולים</l>
+          <l>העיניים מאירות כמו פנסים</l>
+          <l>מישהו בחוץ דורך על העלים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כן, הם שוב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שוב עולים צפים אותם הסיפורים</l>
+          <l>ששמעתי כשהייתי עוד קטן.</l>
+          <l>עכביש גדול טווה קורים דקים</l>
+          <l>מישהו שיגרש כבר את התן</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כן, הם שוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשאני איתך</title>
+        <singer classification="unknown">איציק אל</singer>
+        <writer>ברק לידני</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשאני איתך</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>כשאני איתך כמה טוב לי </l>
+          <l>נוגע בשמיים</l>
+          <l>וזה לא חלום</l>
+          <l>כשאני לא איתך כמה רע לי</l>
+          <l>האור שבעיניים נחלש פתאום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני רוצה אותך קרובה אליי לעד</l>
+          <l>הלב כבר לא יכול להיות יותר לבד</l>
+          <l>תחבקי אותי אני אוהב אותך</l>
+          <l>זה אלוקים רצה שאהיה שלך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כשאני איתך...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין לי בעולם אחרת מלבדך</l>
+          <l>אני כבר לא מושלם </l>
+          <l>שאת דקה אינך</l>
+          <l>קחי את נשמתי ממני מתנה</l>
+          <l>ועל היום הזה אני חולם שנה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כשאני איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

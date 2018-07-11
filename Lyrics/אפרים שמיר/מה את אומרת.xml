@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה את אומרת</title>
+        <singer classification="male singer">אפרים שמיר</singer>
+        <writer>יעקב גלעד</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה את אומרת</head>
+        <lg number="1" type="stanza">
+          <l>אז מה, מה את אומרת?</l>
+          <l>אז מה, מה את שותקת?</l>
+          <l>אז מה, מה את שומרת?</l>
+          <l>אז מה, מה את זורקת?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה יש לך בראש השחור</l>
+          <l>שמדליק אצלך בלילות את האור?</l>
+          <l>מה יש לך בראש השחור</l>
+          <l>שמרחיק ממך בלילות את הקור?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מנסה להתקרב</l>
+          <l>בצעדים קטנים</l>
+          <l>ואני בודק ומחשב</l>
+          <l>פרטי פרטים קטנים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואם אני כן ואם אני לא</l>
+          <l>תגידי מתי, אני רחוק למדי</l>
+          <l>ואם אני כן ואם אני לא</l>
+          <l>תגידי אולי, אני קרוב לודאי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז מה, מה את נסגרת, הא?</l>
+          <l>אז מה, מה את חושבת?</l>
+          <l>אז מה, מה את חוקרת?</l>
+          <l>אז מה, מה את אוהבת?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מה יש לך בראש השחור</l>
+          <l>שמדליק אצלך בלילות את האור?</l>
+          <l>מה יש לך בראש השחור</l>
+          <l>שמרחיק ממך בלילות את הקור?</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>מתפתה להסתנן</l>
+          <l>ככל שיש פרצה</l>
+          <l>אני מעז להסתכן</l>
+          <l>ככל שאין מוצא</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>ואם אני כן ואם אני לא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

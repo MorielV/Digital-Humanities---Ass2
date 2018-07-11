@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הצייר</title>
+        <singer classification="unknown">אילן אזולאי</singer>
+        <writer>אילן אזולאי</writer>
+        <composer>אילן אזולאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הצייר</head>
+        <lg number="1" type="stanza">
+          <l>בואי ואשיר לתוך אוזנך, כי מחר זה יום חדש </l>
+          <l>את לא רואה את התמונה, לא רואה את הצבעים </l>
+          <l>מדברים שפות שונות, דיבורים על אהבה </l>
+          <l>לא מבינה את הצייר, ורק רוצה שתבואי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואגשים את משאלתך, כי מחר זה יום חדש </l>
+          <l>מה לרצות מה לבקש, לא תוכלי להתחמק </l>
+          <l>תסתכלי לתוך עיני, תגידי מה את רואה </l>
+          <l>האם את שמה לב לקור שממלא </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>וחשבת שתמיד אהיה שם</l>
+          <l>וקיווית שרק אבוא כשאת קוראת בשמי </l>
+          <l>וידעת שאהיה שם בשבילך</l>
+          <l>וקיווית שאשאר כשאת קוראת בשמי </l>
+          <l>וחשבת, שאהיה שם בשבילך </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בואי, ותראי איך זה נגמר, כי מחר זה יום חדש </l>
+          <l>והיום שלך ימשיך עם ריצות קטנות בעיר </l>
+          <l>ובסופו של יום עייף, תחפשי את הצייר </l>
+          <l>והמכחול שהתייבש יזכיר לך </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>וחשבת שתמיד אהיה שם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

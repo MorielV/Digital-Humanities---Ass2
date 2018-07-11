@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלילה ירד הגשם</title>
+        <singer classification="male singer">אבנר שטראוס</singer>
+        <writer>אבנר שטראוס</writer>
+        <composer>אבנר שטראוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלילה ירד הגשם</head>
+        <lg number="1" type="stanza">
+          <l>היית בחלומי שנופץ</l>
+          <l>שבת בזה שהודבק מרסיסים</l>
+          <l>וכל פעם היית חוזרת</l>
+          <l>כמו רוח אל מפרשים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בלילה ירד הגשם</l>
+          <l>המים חדרו עמוק</l>
+          <l>אני ידעתי בלעדייך</l>
+          <l>לא אגיע רחוק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האנפות עברו בערב</l>
+          <l>משק כנפיהן היה כבד</l>
+          <l>אותו ערב ידעתי</l>
+          <l>הלילה הגשם ירד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בלילה ירד הגשם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הארנבות הלבנות בלילה</l>
+          <l>חצו את היער המואר</l>
+          <l>אותו ערב ידעתי</l>
+          <l>מלבדך שום דבר לא נשאר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בלילה ירד הגשם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר ארץ</title>
+        <singer classification="female singer">אורה זיטנר</singer>
+        <writer>נתן יונתן</writer>
+        <composer>סשה ארגוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר ארץ</head>
+        <lg number="1" type="stanza">
+          <l>ארץ שיושביה היא אוכלת</l>
+          <l>וזבת חלב ודבש ותכלת</l>
+          <l>לפעמים גם היא עצמה גוזלת</l>
+          <l>את כבשת הרש.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ארץ שמתקו לה רגביה</l>
+          <l>ומלוחים כבכי כל חופיה</l>
+          <l>שנתנו לה אוהביה</l>
+          <l>כל אשר יכלו לתת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שב החצב לבן לפרוח</l>
+          <l>שם בדרך יחידי</l>
+          <l>והיסמין ישיב ניחוח</l>
+          <l>שדות הזמן שלה האבודים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ארץ שמתקו לה רגביה</l>
+          <l>ומלוחים כבכי כל חופיה</l>
+          <l>שנתנו לה אוהביה</l>
+          <l>כל אשר יכלו לתת.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל אביב שבים לה סביוניה</l>
+          <l>לכסות את כל קמטי פניה</l>
+          <l>רוח קיץ עצב אבניה</l>
+          <l>ילטף באור.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>שב הסתיו עם כובד ענניה</l>
+          <l>לעטוף אפור את כל גניה</l>
+          <l>והחורף את שמורות עיניה</l>
+          <l>הבוכות יסגור.</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>שב החצב לבן לפרוח</l>
+          <l>שם בדרך יחידי</l>
+          <l>והיסמין ישיב ניחוח</l>
+          <l>שדות הזמן שלה האבודים</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>שב הסתיו עם כובד ענניה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

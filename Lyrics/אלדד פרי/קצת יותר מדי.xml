@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קצת יותר מדי</title>
+        <singer classification="unknown">אלדד פרי</singer>
+        <writer>אלדד פרי</writer>
+        <composer>אלדד פרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קצת יותר מדי</head>
+        <lg number="1" type="stanza">
+          <l>אני אוהב אותך אפילו קצת יותר מדי </l>
+          <l>וחולם עלייך על ערש יצועי</l>
+          <l>היה נפלא איתך בכל רגע שעבר </l>
+          <l>ואין בי כח לחשוב שזה נגמר </l>
+          <l>לו לקחת אותי איתך לו השמעת את הרהורייך </l>
+          <l>רגע אחד אמיתי </l>
+          <l>לו יכולתי להבין לו יכולתי לייעץ </l>
+          <l>בטח היית כאן איתי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמו אור גנוז שלא מאיר לי כלום </l>
+          <l>את יודעת כי זוהי התקופה </l>
+          <l>ואין פריחות ואין צבעים ורודים </l>
+          <l>כי זולתך אין לי תרופה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד יום בהיר של סתיו והשמש בו זרחה </l>
+          <l>הזריחות כבר לא מביאות איתן ברכה </l>
+          <l>אולי רק בענייך אולי גם בעיני</l>
+          <l>רק תדעי יפה שלא רוויתי די </l>
+          <l>השקיעות של חוף ביתי לוקחות איתן רחוק </l>
+          <l>גם את האור של דרכי </l>
+          <l>לו שמרתי לעצמי את הרהורי ליבי </l>
+          <l>בטח היית שם איתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמו אור גנוז...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

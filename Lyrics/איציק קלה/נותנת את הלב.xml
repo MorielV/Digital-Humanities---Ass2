@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נותנת את הלב</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>רמי לב</writer>
+        <composer>איציק קלה</composer>
+        <album>שיהיה רק במזל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נותנת את הלב</head>
+        <lg number="1" type="stanza">
+          <l>כל חיי חיכיתי</l>
+          <l>שאלי תבואי</l>
+          <l>ואותך רציתי נשמה שלי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בליבי נשבעתי</l>
+          <l>שנאהב לנצח</l>
+          <l>לך הכל נתתי, נשמה שלי.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את נותנת את הלב ואת הנשמה </l>
+          <l>ואני כולי שלך אישה נאמנה</l>
+          <l>את נותנת את הלב עם כל הנשמה </l>
+          <l>את הכוח בתוכי על פני האדמה. </l>
+          <l>את נותנת את הלב ואת הנשמה </l>
+          <l>אלוקים שלח אותך אלי במתנה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את אישה כובשת</l>
+          <l>שמראה לי דרך</l>
+          <l>איך שאת סוחפת, נשמה שלי.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בימים של פחד</l>
+          <l>את עלי שומרת</l>
+          <l>עד הסוף ביחד, נשמה שלי.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את נותנת את הלב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה הזמר שלי</title>
+        <singer classification="unknown">אלון אולארצ יק</singer>
+        <writer>אלון אולארצ'יק</writer>
+        <composer>אלון אולארצ'יק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה הזמר שלי</head>
+        <lg number="1" type="stanza">
+          <l>קומו יחד ונשיר</l>
+          <l>לא בקצב ולא בטון</l>
+          <l>נזמרה צליל אחר</l>
+          <l>שנקרא לו צליל ראשון</l>
+          <l>אם ליבך לך לוחש</l>
+          <l>זה לא ככה זה אחרת</l>
+          <l>אל תיפחד לי, אל תחשוש</l>
+          <l>הבושה כאן מיותרת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הללו, הללי</l>
+          <l>זגרו זגרי</l>
+          <l>מה מילל אלילי</l>
+          <l>זה הזמר שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא גבוה הוא בהיר</l>
+          <l>הוא צנוע הוא שקט</l>
+          <l>אם נקשיב לזה הצליל</l>
+          <l>לעולם לא נתחרט</l>
+          <l>אל תשאל את נשמתך</l>
+          <l>"מה כבר יש לך להציע?"</l>
+          <l>כי עמוקה היא כמו הים</l>
+          <l>רבגונית היא להפתיע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הללו, הללי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר בעיפרון</title>
+        <singer classification="unknown">אושרי אלמוריש</singer>
+        <writer>אמיר אטיאס</writer>
+        <composer>אמיר אטיאס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר בעיפרון</head>
+        <lg number="1" type="stanza">
+          <l>אל תשכח לשמוח גם בחלקי</l>
+          <l>ואל תמנע מלבכות כשעצוב</l>
+          <l>תנצל עד תום כל עוד אתה תמים</l>
+          <l>תלמד לוותר ואל תוותר על החיים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כי בחיים הכל עובר </l>
+          <l>מטעויות למד והשתפר</l>
+          <l>מה שקולך הפנימי אומר, זו האמת שלך</l>
+          <l>לא, לסלוח זו לא חולשה</l>
+          <l>נצור אהבה בדרכך</l>
+          <l>ודע, את כל הסובב אותך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תלך בדרכו של אחר</l>
+          <l>ואל תיכנע לחולשות שבגוף</l>
+          <l>שא בעול בכתפיים איתנות</l>
+          <l>ותאמין ותאמין, רק תאמין.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שבחיים הכל עובר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

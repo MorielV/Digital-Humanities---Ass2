@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לאהוב עד הסוף</title>
+        <singer classification="unknown">אור כהן</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>רביב בן מנחם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לאהוב עד הסוף</head>
+        <lg number="1" type="stanza">
+          <l>בשמיים הירח כבר נרדם </l>
+          <l>ברחוב כבר אין אף אדם</l>
+          <l>ואנחנו עדיין ערים</l>
+          <l>על חיוך לנצח שומרים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והאושר שבינינו אמיתי</l>
+          <l>כי ליבך נמצא בליבי</l>
+          <l>כל רגע שעובר</l>
+          <l>מתאהב בך יותר ויותר </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לאהוב עד הסוף לך נשבע</l>
+          <l>כי איתך מצאתי שלווה </l>
+          <l>אלוקים החליט את שלי</l>
+          <l>נולדת להיות בשבילי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מהרגע שראיתי את יופייך</l>
+          <l>השתנו חיי לצידך</l>
+          <l>כל רגע שעובר</l>
+          <l>מתאהב בך יותר ויותר </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לאהוב עד הסוף לך נשבע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

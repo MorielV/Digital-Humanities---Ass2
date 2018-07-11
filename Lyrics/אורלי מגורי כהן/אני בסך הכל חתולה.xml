@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני בסך הכל חתולה</title>
+        <singer classification="unknown">אורלי מגורי כהן</singer>
+        <writer>אורלי מגורי כהן</writer>
+        <composer>אורלי מגורי כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני בסך הכל חתולה</head>
+        <lg number="1" type="stanza">
+          <l>אתמול ראיתי את אחותי</l>
+          <l>דרוסה על הכביש,</l>
+          <l>אז חשבתי, </l>
+          <l>איזה באסה, </l>
+          <l>עסק ביש.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא אכלתי שבועיים</l>
+          <l>עד שסבתא חזרה,</l>
+          <l>ואז היא הביאה לי</l>
+          <l>חלב בקערה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני בסך הכל חתולה</l>
+          <l>וואה וואה וואה</l>
+          <l>קצת מסטולה </l>
+          <l>וואה וואה וואה </l>
+          <l>אני בסך הכל חתולה</l>
+          <l>אז אל תקרא לי פססס...</l>
+          <l>אם אין לך מה לתת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שונאת את קו 6</l>
+          <l>זה שלקח לי ת'זנב,</l>
+          <l>ואת האוזן השמאלית</l>
+          <l>אווו, כמה זה כאב.</l>
+          <l>ויש לי חברה, חתולה שחורה</l>
+          <l>איזה גזענות</l>
+          <l>בסמוחטות מלאה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני בסך הכל חתולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

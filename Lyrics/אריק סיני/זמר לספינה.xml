@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמר לספינה</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>חיים חפר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמר לספינה</head>
+        <lg number="1" type="stanza">
+          <l>שקיעה נוגה</l>
+          <l>הים אובד בערפל ודומיה גדולה</l>
+          <l>הרוח נח</l>
+          <l>על סיפוננו האפל כוכב ראשון עלה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואת ניצבת מנגד</l>
+          <l>בשולי השחקים בלילות</l>
+          <l>ואת ניצבת מנגד</l>
+          <l>בחיוך בעיניים כחולות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נא זכרי רב חובל שב אליך</l>
+          <l>בספינה רדופת בכי ושכול</l>
+          <l>הוא יגיע ילדונת אליך</l>
+          <l>והסהר יאיר בדרכו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>והליל רד</l>
+          <l>הנה גוועו המרחקים כלחש אילנות</l>
+          <l>כוכב בודד</l>
+          <l>נדלק לפתע בשחקים לזכר הספינות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אשתה אחות לחייך</l>
+          <l>מכבלים מגדרות הברזל</l>
+          <l>עוד אזכור חיוכייך</l>
+          <l>בלילות עטופי ערפל</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ועת האי הבודד יכלאני</l>
+          <l>כסופי עוד יפליגו עם ליל</l>
+          <l>ויאמרו לך ילדונת הנני</l>
+          <l>שוב אלייך חזר רב חובל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

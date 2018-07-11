@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>במילים אחרות 2</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אבי טולדנו</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>במילים אחרות</head>
+        <lg number="1" type="stanza">
+          <l>במילים אחרות</l>
+          <l>מה שאת רוצה לאמר</l>
+          <l>שהאהבה הלכה ונגמרה</l>
+          <l>ושאת לא מרגישה</l>
+          <l>יותר, שום דבר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חכי לי עוד מעט</l>
+          <l>שאהיה חזק</l>
+          <l>שאוכל להתגבר</l>
+          <l>שאוכל להתרגל</l>
+          <l>חכי לי עוד מעט</l>
+          <l>שאבין יותר</l>
+          <l>שעכשיו את לא שלי</l>
+          <l>של מישהו אחר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>במילים אחרות</l>
+          <l>נתתי לך הכל</l>
+          <l>כל האהבה בליבי הבוער</l>
+          <l>והיית בכל חלומותי</l>
+          <l>אור זוהר</l>
+          <l>עד שהכל נגמר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חכי לי עוד מעט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

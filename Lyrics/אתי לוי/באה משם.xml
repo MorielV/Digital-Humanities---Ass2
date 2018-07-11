@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>באה משם</title>
+        <singer classification="female singer">אתי לוי</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>אתי לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>באה משם</head>
+        <lg number="1" type="stanza">
+          <l>אני שרה שיר עם</l>
+          <l>על אושר נעלם</l>
+          <l>וילד שחולם על בית חם</l>
+          <l>על ארץ אפילה</l>
+          <l>ועיר של אבטלה</l>
+          <l>על צדק שנשכח</l>
+          <l>ולב שלא נפתח</l>
+          <l>על שקר וצביעות</l>
+          <l>וכל מה שיודעת המציאות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואני לא מנסה להתיפייף</l>
+          <l>ולא מחפשת הזדמנות להיחשף</l>
+          <l>זה השיר שזורם אצלי בדם</l>
+          <l>ואל תשכחו שאני באה משם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני שרה עכשיו</l>
+          <l>על גבר בלי בושה</l>
+          <l>שמשתגע ומכה אישה</l>
+          <l>על סבל של קשיש</l>
+          <l>ועל שלטון אדיש</l>
+          <l>על דרך לא קלה</l>
+          <l>ודלת נעולה</l>
+          <l>על עוני מתקדם</l>
+          <l>ועל חלום ששוב לא מתגשם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואני לא מנסה להתיפייף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

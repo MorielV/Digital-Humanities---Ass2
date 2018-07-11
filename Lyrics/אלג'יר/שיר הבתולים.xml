@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הבתולים</title>
+        <singer classification="unknown">אלג יר</singer>
+        <writer>אביב גדג'</writer>
+        <composer>אביב גדג'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הבתולים</head>
+        <lg number="1" type="stanza">
+          <l>כמו ילד זרועותיו פשוקות הצידה</l>
+          <l>כמו ילד מסתכל על הנערה</l>
+          <l>כמו הנערה שפתיה רק הבשילו</l>
+          <l>כמו הנערה שאיבדה את בתוליה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמו אישה זקנה על הדשא המחוץ</l>
+          <l>כמו תריסר בנות שמחפשות חתן</l>
+          <l>כמו אישה חולה מחפשת תרופה</l>
+          <l>כמו הרב שלא מוצא תשובה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו ילד זרועותיו נישאות אל על</l>
+          <l>כמו ילד שחולה אצלי בבטן</l>
+          <l>כמו המשורר</l>
+          <l>קורע את גרונו בבכי</l>
+          <l>כמו המשורר</l>
+          <l>שמת אצלי בבטן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

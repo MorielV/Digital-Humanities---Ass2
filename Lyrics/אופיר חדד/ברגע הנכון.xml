@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברגע הנכון</title>
+        <singer classification="unknown">אופיר חדד</singer>
+        <writer>שימי בקר</writer>
+        <composer>דודו אשכנזי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברגע הנכון</head>
+        <lg number="1" type="stanza">
+          <l>הפכנו לעיוורים מכדי לראות</l>
+          <l>אלמים לומר, חרשים לשמוע</l>
+          <l>וכמה זה מעט באהבה</l>
+          <l>הטוב חולף בצל הרוע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הפכנו למשפט בין השורות </l>
+          <l>נוחים מדי לזמן, עלה ברוח</l>
+          <l>חיים בין כעסים לנקמות</l>
+          <l>ועייפים למצוא דבר בטוח</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>וכמו ציפור כנף אני אמריא</l>
+          <l>לגעת בדברים הכי קטנים שבי</l>
+          <l>אדע לחוש ברגע הנכון</l>
+          <l>ומחדרי לבי אסיט את הווילון</l>
+          <l>רק שמור עלינו מספקות ומהזמן</l>
+          <l>הושיע נא, רפא, בורא עולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נוכחנו כי עולם גם אין בו נצח</l>
+          <l>יודעים לשמוע, אך שכחנו להקשיב</l>
+          <l>בורא עולם רפאני מן העצב</l>
+          <l>עייפתי לבקש חיים שקטים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>וכמו ציפור כנף אני אמריא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

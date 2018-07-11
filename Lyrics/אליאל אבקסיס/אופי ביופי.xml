@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אופי ביופי</title>
+        <singer classification="unknown">אליאל אבקסיס</singer>
+        <writer>אליאל אבקסיס</writer>
+        <composer>אליאל אבקסיס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אופי ביופי</head>
+        <lg number="1" type="stanza">
+          <l>אם לא בא לי לראות אני נשאר מאחור</l>
+          <l>מאוחר יותר מדמיין כשמאוחר מידיי לדמיין</l>
+          <l>אף פעם לא הבטחתי שאתנהג כמו גיבור</l>
+          <l>ואולי התבגרתי, מסתכל לאחור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין לה אופי ביופי</l>
+          <l>מתעורר מחלום ומביט בך</l>
+          <l>למה לי להיות כמוני להישאר במקום</l>
+          <l>למה לך להיות כמוני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מנסה למשש את האור זה בוהק מבחוץ</l>
+          <l>לא מצליח לנשום הכל נהיה לי לחוץ</l>
+          <l>והחדר סוגר אני נדפק בין ארבע קירות</l>
+          <l>ואז חוזר לדמיין מה שלא יהיה...יותר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין לה אופי ביופי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

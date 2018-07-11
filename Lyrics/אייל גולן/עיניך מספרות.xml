@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עיניך מספרות</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>דוד חלפון</writer>
+        <composer>אביחי מליחי</composer>
+        <album>בלעדייך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עיניך מספרות</head>
+        <lg number="1" type="stanza">
+          <l>עיניך מספרות מה עובר עליך</l>
+          <l>אם עצובים, קשים או יפים חייך</l>
+          <l>אור החיים הולך בעקבותיך</l>
+          <l>עוד תגשים כל משאלותיך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עיניך מספרות אם אתה אוהב</l>
+          <l>אם יש בליבך צער או כאב</l>
+          <l>עם החיים קשה להתמודד</l>
+          <l>אל תנסה להסתיר את האמת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי עיניך אחי כבר אומרות הכל</l>
+          <l>אותך לא צריך אפילו לשאול</l>
+          <l>כי עיניך אחי אומרות הכל</l>
+          <l>אתה מנסה אך לא יכול</l>
+          <l>ובשמיים יושב הכל יכול</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עיניך מספרות את סיפור חייך</l>
+          <l>אם רק תקרא אני אבוא אליך</l>
+          <l>תמיד אזכור את חסד נעוריך</l>
+          <l>אל תבקש רחם לא תמו תקוותיך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כי עיניך אחי אומרות הכל...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עיניך מספרות מה עובר עליך</l>
+          <l>אלוקים ישלח ברכה במעשיך</l>
+          <l>קרן אור שוב תאיר דרכיך</l>
+          <l>כל החיים עוד לפניך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

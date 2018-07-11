@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שוחה מכאן</title>
+        <singer classification="unknown">אלון ז אן</singer>
+        <writer>הנרי</writer>
+        <composer>הנרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שוחה מכאן</head>
+        <lg number="1" type="stanza">
+          <l>אולי דולפין,</l>
+          <l>תמיד הם חופשיים כאלה</l>
+          <l>אם הייתי משהו אחר </l>
+          <l>הייתי דולפין</l>
+          <l>טס במים עמוקים מאלה</l>
+          <l>חוצה ימים שוחה שנים</l>
+          <l>במרחבים פתוחים מאלה</l>
+          <l>חותך גלים שובר זרמים</l>
+          <l>בעומקים כחולים כאלה</l>
+          <l>אהה - אאה...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואם אני עוזב עכשיו </l>
+          <l>כלום כבר לא יהיה אותו דבר</l>
+          <l>אם אני עוזב עכשיו </l>
+          <l>הכל נשאר ורק אני מחר</l>
+          <l>שוחה מכאן הולך לאן..</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פרפרים, תמיד נראים קלים כאלה</l>
+          <l>רגישים לליטוף למגע</l>
+          <l>שבירים כאלה</l>
+          <l>רוצה לעוף</l>
+          <l>אווו רחוק לשם</l>
+          <l>לארצות אווו רחוק בזמן</l>
+          <l>כן.... מקומות ירוקים כאלה</l>
+          <l>אהה - אאאה...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואם אני עוזב עכשיו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם אני עוזב עכשיו</l>
+          <l>שוחה מכאן הולך לאן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

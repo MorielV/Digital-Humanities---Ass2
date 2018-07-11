@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אביב</title>
+        <singer classification="female singer">אביבה אבידן</singer>
+        <writer>רחלי שביט</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אביב</head>
+        <lg number="1" type="stanza">
+          <l>אָבִיב מִתְפַּקֵּעַ, שִׁיכּוֹר מֵעַצְמוֹ</l>
+          <l>נוֹלַד לְהַקְסִים וּמִיָּד מִתְכַּלֶּה</l>
+          <l>בְּעֶצֶם אוּלַי גַּם אֲנַחְנוּ כְּמוֹתוֹ</l>
+          <l>פּוֹרְחִים וּקְמֵלִים כְּשֶׁהַבּוֹקֶר עוֹלֶה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אָבִיב מְחַזֵּר אַחֲרֵינוּ בְּכוֹחַ</l>
+          <l>מַכֶּה בִּבְשָׂמָיו וּמַתִּיז כָּאן צְבָעִים</l>
+          <l>גַּם הוּא מַעֲדִיף בֵּינְתַיִם לִשְׁכּוֹחַ</l>
+          <l>שֶׁכֹּל הַקְּסָמִים לְבַסּוֹף נְמוֹגִים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הֶחְלַפְנוּ מַבָּט, אַךְ לֹא הִתְעַקַּשְׁנוּ לָדַעַת</l>
+          <l>בְּכַמָּה כְּאֵב כֹּל הָעוֹנֶג הַזֶּה יַעֲלֶה</l>
+          <l>מוּתָּר לָנוּ קְצָת לְאַבֵּד אֲחִיזָה וְלָגַעַת</l>
+          <l>בַּטוֹב הַמוּחְלָט הַזֶּה, גַּם אִם הוּא רַק מְדוּמֶּה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוֹד אָבִיב מֵהַתֵּל הִתְקַפֵּל וְחָמַק בְּלִי מִילָה</l>
+          <l>הוּא לֹא הִסְתּוֹבֵב לְאָחוֹר כְּשֶׁקָּרָאנוּ בִּשְׁמוֹ</l>
+          <l>פָּגַע וּבָרַח וְשָׁכַח וְכָאן שְׁנֵינוּ מִתַּחַת שְׂמִיכָה</l>
+          <l>מְחַכִּים, נֵבוֹכִים, שֶׁיָּשׁוּב וְיַרְאֶה אֶת עַצְמוֹ</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הֶחְלַפְנוּ מַבָּט, אַךְ לֹא הִתְעַקַּשְׁנוּ לָדַעַת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

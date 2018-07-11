@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא מוותר</title>
+        <singer classification="unknown">אריאל קבלן</singer>
+        <writer>דוד חלפון</writer>
+        <composer>תומר חן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא מוותר</head>
+        <lg number="1" type="stanza">
+          <l>לא מרים ידיים לא מרים</l>
+          <l>גם אם השמיים עלי נופלים</l>
+          <l>אוחז בתקווה אוחז באהבה</l>
+          <l>בכל בוקר יש התחלה חדשה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא מרים ידיים לא מרים</l>
+          <l>האמונה היא גשם בימים סוערים</l>
+          <l>רואה את האור בקצה המנהרה</l>
+          <l>אחרי לילה אפל השמש מפציעה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני לא מוותר אני לא מוותר</l>
+          <l>מי שזורע בדמעה ברינה קוצר</l>
+          <l>אני לא מוותר אני לא מוותר</l>
+          <l>תמיד מאמין שיהיה טוב יותר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא מרים ידיים לא מרים</l>
+          <l>כי למרות הכל החיים יפים</l>
+          <l>הולך קדימה לא מביט לאחור</l>
+          <l>מה שעבר לעולם לא יחזור</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא מרים ידיים לא מרים</l>
+          <l>האמונה היא גשם בימים סוערים</l>
+          <l>רואה את האור בקצה המנהרה</l>
+          <l>אחרי לילה אפל השמש מפציעה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני לא מוותר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

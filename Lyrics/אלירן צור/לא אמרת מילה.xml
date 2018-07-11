@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא אמרת מילה</title>
+        <singer classification="unknown">אלירן צור</singer>
+        <writer>אלירן צור</writer>
+        <composer>אלירן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא אמרת מילה</head>
+        <lg number="1" type="stanza">
+          <l>לא אמרת מילה</l>
+          <l>חיכיתי אהובה</l>
+          <l>שתאמרי את מה שעל הלב</l>
+          <l>שמעת את השמועות</l>
+          <l>הסקת רק מסקנות</l>
+          <l>ובליבי השארת המון כאב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שמיים מתכדרים עכשיו בעננים</l>
+          <l>ומספרים את מה שעל ליבי</l>
+          <l>אני נמצא בתוך ים של רגשות</l>
+          <l>ומעיני זולגות לי הדמעות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כואב כאב רק את יודעת</l>
+          <l>את מה שמסתתר עכשיו בלב</l>
+          <l>תני לי לומר שאת דומעת</l>
+          <l>ספרי על מה ואיך בך כאבך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בא הלילה מסתובב</l>
+          <l>מנסה לפרוק כאב</l>
+          <l>המחשבות באות שוב בראשי</l>
+          <l>ביקשתי אהבה</l>
+          <l>רציתי לטיפה</l>
+          <l>ושוב פעם נשארתי לבדי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שמיים מתכדרים עכשיו בעננים</l>
+          <l>ומספרים את מה שעל ליבי</l>
+          <l>אני נמצא בתוך ים של רגשות</l>
+          <l>ומעיניי זולגות לי הדמעות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כואב כאב רק את יודעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נלחם 2</title>
+        <singer classification="unknown">אלטנוילנד</singer>
+        <writer>עידו בסון</writer>
+        <composer>עידו בסון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נלחם</head>
+        <lg number="1" type="stanza">
+          <l>לא נוכל להיות כמותם </l>
+          <l>תמיד נרצה להיות </l>
+          <l>תקועים בעבר יתדות באדמה </l>
+          <l>בוא נעמיד פנים </l>
+          <l>בעיניים שלהם זו מלחמה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>האווירה כאן לא ברורה </l>
+          <l>אין מספיק כסף, אין מספיק זמן </l>
+          <l>תאמינו בי, תראו את הדם </l>
+          <l>על מה אני נלחם, על מה אני נלחם </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אותה תחושת זרות </l>
+          <l>מלווה כל הזמן </l>
+          <l>במחתרת הזו יש מקום לכולם </l>
+          <l>בוא נעמיד פנים </l>
+          <l>להילכד בשיטה זה ממסד מצוין </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האווירה כאן לא ברורה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אלוהים גדולים שלי </l>
+          <l>על מה אני נלחם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

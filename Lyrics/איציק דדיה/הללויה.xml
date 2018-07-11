@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הללויה 5</title>
+        <singer classification="unknown">איציק דדיה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הללויה</head>
+        <lg number="1" type="stanza">
+          <l>היום אני שמח</l>
+          <l>שמח בחלקי</l>
+          <l>מתוך הלב שולח</l>
+          <l>תודה לאלוקים</l>
+          <l>על היום הטוב הזה</l>
+          <l>וגם על האתמול</l>
+          <l>הנשמה בשיר</l>
+          <l>מודה לו על הכל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל הנשמה תהלל יה</l>
+          <l>הללויה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הכו במצלתיים</l>
+          <l>נגנו בחלילים</l>
+          <l>מלאו את השמים</l>
+          <l>בשמחה שלי</l>
+          <l>זה היום עשה השם</l>
+          <l>נגלה ונשמח</l>
+          <l>ניגון עולה בוקע</l>
+          <l>כשהלב נפתח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל הנשמה תהלל יה</l>
+          <l>הללויה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קרב איגרוף</title>
+        <singer classification="female singer">אפרת גוש</singer>
+        <writer>אפרת גוש</writer>
+        <composer>אפרת גוש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קרב איגרוף</head>
+        <lg number="1" type="stanza">
+          <l>קודם כל, הגני על הגוף</l>
+          <l>שאיש מבחוץ לא ייכנס בך.</l>
+          <l>ידיים שמרי קרוב אל הפרצוף</l>
+          <l>זה המקום הראשון, רואים מה קורה לך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עטפי היטב כל פצע חשוף</l>
+          <l>שם הוא מנסה לפגוע</l>
+          <l>שיווי משקל, שלא תיפלי לטירוף</l>
+          <l>גופך מסוגל, קרב איגרוף.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בכל כוחך...</l>
+          <l>תצחקי, תשאגי, תפגעי</l>
+          <l>תפצעי, תתלשי, תדפקי</l>
+          <l>שלא תשתקי לעולם יותר עוד.</l>
+          <l>תילחמי, תהלמי, תצעקי,</l>
+          <l>תשגעי, תדרשי, תכבשי</l>
+          <l>שלא תתביישי לעולם יותר עוד.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עמדי זקוף, עיניים פקוחות,</l>
+          <l>נותר להחזיק עוד שלושה סיבובים לפחות.</l>
+          <l>אל תיכנעי, נו, לכל הרוחות</l>
+          <l>עכשיו, מבלי לחכות, קרב איגרוף.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בכל כוחך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

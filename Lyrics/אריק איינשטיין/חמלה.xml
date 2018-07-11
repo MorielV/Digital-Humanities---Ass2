@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חמלה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חמלה</head>
+        <lg number="1" type="stanza">
+          <l>והימים ימים קורעים</l>
+          <l>הלילות לילות קרים</l>
+          <l>הקירות קירות חלקים</l>
+          <l>ואנחנו לבד לגמרי לבד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הנר רועד ודועך</l>
+          <l>הים עולה על גדותיו</l>
+          <l>והאור מתרחק והולך</l>
+          <l>שוב הוא מסתיר את פניו</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>והלב נקרע מכאב</l>
+          <l>הלב מתפוצץ מזעם</l>
+          <l>הלב מתמלא בחמלה</l>
+          <l>פעם אחר פעם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>והשקט עוטף את הכל</l>
+          <l>המבט כבוי ועייף</l>
+          <l>כבר אין לך כח לשאול</l>
+          <l>על מה ולמה ואיך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הנר רועד ודועך...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>והלב נקרע מכאב</l>
+          <l>הלב מתפוצץ מזעם</l>
+          <l>הלב מתמלא בחמלה</l>
+          <l>פעם אחר פעם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

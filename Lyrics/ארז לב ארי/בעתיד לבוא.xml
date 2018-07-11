@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בעתיד לבוא</title>
+        <singer classification="male singer">ארז לב ארי</singer>
+        <writer>ארז לב ארי</writer>
+        <composer>ארז לב ארי</composer>
+        <album>שמחת הפרטים הקטנים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בעתיד לבוא</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>לילות של תעתוע לא מוכר</l>
+          <l>לילות של געגוע לא מובן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בעתיד לבוא</l>
+          <l>נזכר בך אבא</l>
+          <l>בעתיד לבוא</l>
+          <l>כמו כשהיינו קטנים</l>
+          <l>לפני אלפני שנים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לילות של תעתוע לא מוכר</l>
+          <l>לילות של געגוע לא מובן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בעתיד לבוא</l>
+          <l>למדתי לשכוח אותך</l>
+          <l>למדתי לשנוא</l>
+          <l>לא התכוונתי</l>
+          <l>אני תינוק שנשבה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תגיד איפה אתה מתחיל</l>
+          <l>ואיפה אני נגמר</l>
+          <l>ומה יהיה היום</l>
+          <l>ואם יהיה בכלל מחר</l>
+          <l>אני נרדם</l>
+          <l>ואיפה הקצה נמצא</l>
+          <l>וכמה זמן נשאר לנו</l>
+          <l>וכל מה שקורה עכשיו</l>
+          <l>בטח כבר קרה לנו</l>
+          <l>לילות של געגוע אל המחר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

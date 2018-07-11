@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טירוף במה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>יצחק קלפטר</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>יושב על הגדר </album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טירוף במה</head>
+        <lg number="1" type="stanza">
+          <l>הדרך ארוכה ומתפתלת</l>
+          <l>מן הסתם הוא נזכר בהופעה</l>
+          <l>השמיים קודרים עכשיו</l>
+          <l>מוציא בקבוק, לוקח לגימה</l>
+          <l>האולם היה מלא מפה לשם</l>
+          <l>הלכו מכות, כן, היה שם חם</l>
+          <l>ככה זה בהופעות יש מהומה</l>
+          <l>שם באוויר שולט טרוף האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי הוא שר: "תני לי את ידך</l>
+          <l>אנ'לא רוצה יותר אהבה נכזבת</l>
+          <l>לא רוצה יותר לב שבור</l>
+          <l>לא רוצה בעוד תקווה כואבת"</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מאחור, ישן פועל במה</l>
+          <l>התעייף, כן, היתה לו עבודה</l>
+          <l>מקדימה הנהג אוחז בהגה</l>
+          <l>הוא לא דואג כי אשתו אותו אוהבת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עכברוש גדול חוצה ת'כביש</l>
+          <l>עכברוש גדול את בעסק ביש</l>
+          <l>הרדיו מנגן שירים אל תוך הלילה</l>
+          <l>קולו בוקע שוב</l>
+          <l>אני אומר יהיה כדאי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כי הוא שר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

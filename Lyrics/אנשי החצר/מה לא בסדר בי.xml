@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה לא בסדר בי</title>
+        <singer classification="band">אנשי החצר</singer>
+        <writer>ארז ברזוליק</writer>
+        <composer>רועי גוראל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה לא בסדר בי</head>
+        <lg number="1" type="stanza">
+          <l>לכולם יש חברה</l>
+          <l>איך כולן על אהבה</l>
+          <l>נראים מאושרים</l>
+          <l>החיים הזוהרים</l>
+          <l>אני רוצה לדעת...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לכולם יש עבודה</l>
+          <l>איך כולם תופסים עמדה</l>
+          <l>הם כל כך עסוקים</l>
+          <l>רצים למרחקים</l>
+          <l>אני רוצה לדעת...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה לא בסדר?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני קם מאוחר,כותב שירים</l>
+          <l>לא מחפש לי עניינים</l>
+          <l>אני לא מביט סביבי</l>
+          <l>אז אולי את תגידי לי</l>
+          <l>אני רוצה לדעת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מה לא בסדר?</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>תגידי לי עכשיו - אל תפני לי גב</l>
+          <l>דווקא עכשיו</l>
+          <l>תעמדי מולי ותגידי לי</l>
+          <l>מה לא בסדר?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

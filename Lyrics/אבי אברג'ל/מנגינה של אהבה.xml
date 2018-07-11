@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנגינה של אהבה</title>
+        <singer classification="unknown">אבי אברג ל</singer>
+        <writer>דודו מתנה</writer>
+        <composer>דודו מתנה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנגינה של אהבה</head>
+        <lg number="1" type="stanza">
+          <l>בראשי חולפת מנגינה של אהבה</l>
+          <l>איך את לא קולטת מה קרה</l>
+          <l>כל הזמן צוחקת לא רואה אני קיים</l>
+          <l>בליבי אש האהבה</l>
+          <l>איך תמיד מתרגש ובך שוב מתאהב</l>
+          <l>מחכה לך אהובה ליופייך מתמכר</l>
+          <l>עלייך רק חושב לשוב אלייך נערה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז למה בי את משחקת</l>
+          <l>כמו חתולה תופסת כל היממה</l>
+          <l>אז למה בי את משחקת</l>
+          <l>כמו חתולה שורטת בנשמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בריקוד כובש מושיטה לי את ידה</l>
+          <l>למה את צוחקת מה קרה</l>
+          <l>איך גופה שולט במשחקי האהבה</l>
+          <l>אלוקים אין בי מנוחה</l>
+          <l>איך תמיד מתרגש ובך שוב מתאהב</l>
+          <l>מחכה לך אהובה ליופייך מתמכר</l>
+          <l>עלייך רק חושב לשוב אלייך נערה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז למה בי את משחקת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

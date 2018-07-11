@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פנים 3</title>
+        <singer classification="male singer">אסף ארליך</singer>
+        <writer>אסף ארליך</writer>
+        <composer>אסף ארליך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פנים</head>
+        <lg number="1" type="stanza">
+          <l>אם יש לזה פנים </l>
+          <l>אז תהיה לזה סיבה </l>
+          <l>נשענת על פינה </l>
+          <l>נמדד בכל שניה </l>
+          <l>אם יש פה עוד מקום </l>
+          <l>אז תהיה פה עוד גומה </l>
+          <l>קרוב כמו התחלה </l>
+          <l>צפוף כמו מהומה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם טיפה אז קודם אני </l>
+          <l>תמיד הכל בעקבותייך </l>
+          <l>אם קליפה אז קודם שלי </l>
+          <l>האם את יכולה לגעת בי </l>
+          <l>האם את יכולה לדעת </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם יש לזה פנים </l>
+          <l>ותהיה לזה סיבה </l>
+          <l>נשענת על פינה </l>
+          <l>נמדד בכל שניה </l>
+          <l>אם יש פה עוד מקום </l>
+          <l>אז תהיה פה עוד גומה </l>
+          <l>קרוב כמו נחמה </l>
+          <l>צפוף כמו מהומה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם טיפה אז קודם אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

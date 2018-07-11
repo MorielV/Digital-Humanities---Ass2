@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עדן 2</title>
+        <singer classification="unknown">אורי שביט</singer>
+        <writer>אורי שביט</writer>
+        <composer>אורי שביט</composer>
+        <album>משחקת במילים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עדן</head>
+        <lg number="1" type="stanza">
+          <l>האור נעלם</l>
+          <l>הקולות מתרחקים</l>
+          <l>אני מפרפרת בין ידיך</l>
+          <l>חובטת זנב</l>
+          <l>חושקת שפתיים</l>
+          <l>אל תיקח אותי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא אהיה לעולם</l>
+          <l>מי שאתה חולם עליה	</l>
+          <l>בלילות מיוזעים</l>
+          <l>לא אחכה שתאהב אותי</l>
+          <l>מתפתלת בין אצבעותיך</l>
+          <l>בעיניים ריקות	</l>
+          <l>בחשכת הגנים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה אדם </l>
+          <l>אני חווה</l>
+          <l>אנחנו זוחלים על הרצפה</l>
+          <l>רעבים וצמאים</l>
+          <l>אני קורעת בבשרך</l>
+          <l>אל תיקח אותי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא אהיה לעולם</l>
+          <l>מי שאתה חולם עליה</l>
+          <l>בלילות מיוזעים</l>
+          <l>לא אחכה שתאהב אותי</l>
+          <l>מתפתלת בין אצבעותיך</l>
+          <l>בעיניים ריקות	</l>
+          <l>בחשכת הגנים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

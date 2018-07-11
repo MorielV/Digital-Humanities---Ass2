@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר סיכום</title>
+        <singer classification="unknown">איה כורם</singer>
+        <writer>איה כורם</writer>
+        <composer>איה כורם</composer>
+        <album>שפה זרה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר סיכום</head>
+        <lg number="1" type="stanza">
+          <l>לסיכום אפשר לומר שלא היינו מתאימים</l>
+          <l>ושמגיע לך באמת יותר</l>
+          <l>שבזבזת את הזמן שלך, שגם ככה הוא יקר</l>
+          <l>וגם לי מגיע משהו אחר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מתאימה לך איזה סטודנטית לקרמיקה, יוצרת</l>
+          <l>עם לב מחרס וידיים של זהב</l>
+          <l>שתאהב אותך רצוף, ובלי דרמה מיותרת</l>
+          <l>לא טריקות של דלת, בלי סיבוב הגב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זיפים ועיניים, קושי ורוך</l>
+          <l>אתה ידעת לאהוב אותי בכל הכוח</l>
+          <l>עד הבוקר ללחוש, לנשק ולנשוך</l>
+          <l>אתה גבר שלי, אתה ילד נבוך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ולי מגיע גבר אמיתי שלא באמת אוהב אותי</l>
+          <l>בלי לב ועם ידיים של חקלאי</l>
+          <l>שלא יודע להכאיב, מספיק טיפש כדי להקשיב לי</l>
+          <l>מדברת על עצמי ועל חיי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כי אתה הרי יודע למצות בך את הרע</l>
+          <l>ולטפטף אליי בדיוק לתוך הוריד</l>
+          <l>יורה חיצים ואז בורח, כי הלילה עוד ארוך</l>
+          <l>אתה מפסיד ומנצח כמו תמיד</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זיפים ועיניים, קושי ורוך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

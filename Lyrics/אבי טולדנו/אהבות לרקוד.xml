@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבות לרקוד</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>לאה לופנפלד</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבות לרקוד</head>
+        <lg number="1" type="stanza">
+          <l>כל האתמולים</l>
+          <l>אתה לחשת לי מילים</l>
+          <l>וכנפיים בי הצמחת</l>
+          <l>עוד לרקוד.</l>
+          <l>רק אני הן מעולם</l>
+          <l>לא ידעתי כלל את זאת</l>
+          <l>כי למדת לאמר</l>
+          <l>מילים כוזבות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל האתמולים</l>
+          <l>הן חלמתי רק אותך</l>
+          <l>וכנפיים בי הצמחת</l>
+          <l>עוד לרקוד.</l>
+          <l>ואני הן מעולם</l>
+          <l>לא ידעתי גם את זאת</l>
+          <l>כי בלב זולג דמעות</l>
+          <l>אפשר לרקוד.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בי רשמת סימנים,</l>
+          <l>גם הטבעת עקבות.</l>
+          <l>שתי רגלי למדת</l>
+          <l>אהבות לרקוד.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל האתמולים</l>
+          <l>לי היו לזכרונות</l>
+          <l>ועדיין מבקשת רק אותך!</l>
+          <l>סחור ארקוד עוד אהבות,</l>
+          <l>אהבות הכואבות.</l>
+          <l>רק אמור לי,</l>
+          <l>הנשוב עוד להיות?!</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בי רשמת סימנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

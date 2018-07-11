@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תני לי רק דקה</title>
+        <singer classification="unknown">ארנון טל</singer>
+        <writer>ארנון טל</writer>
+        <composer>ארנון טל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תני לי רק דקה</head>
+        <lg number="1" type="stanza">
+          <l>את כל המקומות הכי טובים</l>
+          <l>שמרת בשבילך</l>
+          <l>ואת כל המגרשים</l>
+          <l>הקרובים אל ליבך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אמרת לי</l>
+          <l>שאני בעצמי מאוהב</l>
+          <l>שלא אתפלא</l>
+          <l>שזה המצב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תני לי רק דקה</l>
+          <l>לתת לך אהבה</l>
+          <l>אני רוצה</l>
+          <l>לרוץ אלייך אהובה</l>
+          <l>את כל הנשיקות</l>
+          <l>אלייך אכוון</l>
+          <l>הכל אני אתן לך</l>
+          <l>רק תגידי כן</l>
+          <l>רק תגידי כן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הבטחתי לעשות לך ילדים</l>
+          <l>שנצא לטיולים</l>
+          <l>שנהיה כמו משפחה</l>
+          <l>ולא לגנוב לך ת'שמיכה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אמרת שאת</l>
+          <l>רוצה להיות לבדך</l>
+          <l>תהיי לבדך</l>
+          <l>רק תני לי להיות לידך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תני לי רק דקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

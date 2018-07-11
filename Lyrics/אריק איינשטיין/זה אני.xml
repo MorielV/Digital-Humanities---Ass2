@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה אני 2</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה אני</head>
+        <lg number="1" type="stanza">
+          <l>אני כאן לא כדי לחולל מהפכות</l>
+          <l>לרב שותק שומר על פרטיות</l>
+          <l>קצרים אצלי הם ביטויי שמחות</l>
+          <l>אך רגישות אפשר לומר מוגזמת מכל שטות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בבוקר מתעורר ומקשיב לחדשות</l>
+          <l>מודה שלפעמים זה מצמרר עד כדי שיתוק</l>
+          <l>אחר כך עבודה אני לא מבין בחשבונות</l>
+          <l>ואם היה לך יום יפה אקבל חיבוק</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אה זה אני משתדל משתלב</l>
+          <l>היי היי היי היי גם טועה וגם אוהב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אוהב את הים ולעיתים הולך לסרט</l>
+          <l>אם הגורל ירצה אפילו אהנה</l>
+          <l>את היחידה אצלי ותאמיני אין אחרת</l>
+          <l>אם מישהו מחייך לך מודה אני מקנא</l>
+          <l>מה עוד חולם על זה שאתנהג כמו ילד</l>
+          <l>ואת חולמת על שלום במדינה</l>
+          <l>נכנע לחלומות של שנינו אפשר לומר כמו עבד</l>
+          <l>עוד לא למדתי מספיק על אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אה זה אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

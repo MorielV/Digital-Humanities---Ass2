@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהובתי לנצח</title>
+        <singer classification="male singer">אורי בנאי</singer>
+        <writer>אורי בנאי</writer>
+        <composer>אורי בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהובתי לנצח</head>
+        <lg number="1" type="stanza">
+          <l>איך את נראית</l>
+          <l>על מה את חושבת</l>
+          <l>למה עדיין את לא מופיעה</l>
+          <l>מה את עושה</l>
+          <l>במה את עובדת</l>
+          <l>ולמה את לא זאת שפה איתי במיטה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהובתי</l>
+          <l>אהובתי לנצח</l>
+          <l>שבטח נמצאת שם באיזה מקום</l>
+          <l>הבנתי ת'רמז</l>
+          <l>למדתי ת'לקח</l>
+          <l>בואי אלי</l>
+          <l>בואי היום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה את רואה</l>
+          <l>את מי את שומעת</l>
+          <l>מה את אוהבת בתוך הסלט</l>
+          <l>ואיך אוכל</l>
+          <l>כשסוף סוף תבואי</l>
+          <l>לתת לך חיבוק ולדעת שאת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהובתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

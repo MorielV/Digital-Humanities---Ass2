@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה קר</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה קר</head>
+        <lg number="1" type="stanza">
+          <l>שוב חונקת אותי</l>
+          <l>בעובדות בדוקות</l>
+          <l>האמת גלויה ואת מתחת</l>
+          <l>שוב כובשת אותי</l>
+          <l>את אשה קרה</l>
+          <l>כל מה שנותנת לוקחת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את מתחת כמו אם</l>
+          <l>אוהבת את הבן הלוחם</l>
+          <l>ולא אכפת לך המוסר</l>
+          <l>אלוהים שותק הלילה</l>
+          <l>זה לילה קר</l>
+          <l>שוב את נסגרת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב כובשת אותי</l>
+          <l>עם זרי דפנה</l>
+          <l>האמת גלויה ואת מתחת</l>
+          <l>שוב כובשת אותי</l>
+          <l>את אשה קרה</l>
+          <l>כל מה שכובשת לוקחת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את מתחת כמו אם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

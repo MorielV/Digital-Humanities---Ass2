@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד מחר 3</title>
+        <singer classification="male singer">אלי עידן</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>עופר לב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד מחר</head>
+        <lg number="1" type="stanza">
+          <l>מה עובר עלי הלילה,</l>
+          <l>לא אדע דבר.</l>
+          <l>אם גופי רוצה אליה</l>
+          <l>מה יהיה מחר?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ברחוב אין איש פוסע</l>
+          <l>ריקה שוב הכיכר.</l>
+          <l>עוד ראשי מתגעגע,</l>
+          <l>מה יהיה מחר?</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עד מחר היא שוב תגיע</l>
+          <l>ואסלח לה על הכל,</l>
+          <l>אבל אם היא לא תופיע</l>
+          <l>עוד אמשיך לשאול.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בחדרי הצל נוגע</l>
+          <l>ואיתי נשאר,</l>
+          <l>אך גם הוא אינו יודע</l>
+          <l>מה יהיה מחר.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ברחוב אין איש פוסע</l>
+          <l>ריקה שוב הכיכר.</l>
+          <l>עוד ראשי מתגעגע.</l>
+          <l>מה יהיה מחר?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עד מחר היא שוב תגיע</l>
+          <l>ואסלח לה על הכל,</l>
+          <l>אבל אם היא לא תופיע</l>
+          <l>עוד אמשיך לשאול.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תבכי ילדה 2</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>בדרך שלך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תבכי ילדה</head>
+        <lg number="1" type="stanza">
+          <l>משוחרר ורגוע בארץ חמה</l>
+          <l>הודו נראית כמו ציור של צייר משוגע.</l>
+          <l>ו"אני הוא השער" - חשב לו איש עם גלימה</l>
+          <l>כתבתי לך על חוכמתו, את הפכת לנוגה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תבכי ילדה</l>
+          <l>אל תבכי ילדה</l>
+          <l>כי אני לא יכול לראות עוד סבל,</l>
+          <l>אל תבכי ילדה</l>
+          <l>אל תבכי ילדה</l>
+          <l>עוד תראי שהכל יהיה בסדר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את עצמי שם חיפשתי הוזה, מתהלך,</l>
+          <l>כבשתי פסגות חדשות בקצה העולם,</l>
+          <l>את נגבי את עינייך, אני שבוי בקסמך</l>
+          <l>נשארתי שלך לתמיד גם מעבר לים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תבכי ילדה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

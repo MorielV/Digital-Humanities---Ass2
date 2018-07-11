@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מרגיש 3</title>
+        <singer classification="unknown">אוהד בועז</singer>
+        <writer>רמי לב</writer>
+        <composer>ליאור פרחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מרגיש</head>
+        <lg number="1" type="stanza">
+          <l>נכון שלא אמרתי לך, אך עוד לא מאוחר</l>
+          <l>והוידוי הזה אולי מביך וקצת מוזר</l>
+          <l>לרגשות אף פעם לא נתתי לדבר</l>
+          <l>את האישה שלי, את אמא</l>
+          <l>את יותר מכל חבר</l>
+          <l>אוהב אותך ולנצח אשאר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מרגיש שאת האחת שבחיי</l>
+          <l>מרגיש שאת חובשת את פצעי</l>
+          <l>תישארי לנצח בתוך סיפור חיי</l>
+          <l>מרגיש שאת עיקר חלומותי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יחד נעבור ימים, חומות ומכשולים</l>
+          <l>ולצידם יהיו זמנים מאושרים          </l>
+          <l>ואת מגע של קסם שהולך ומתגבר</l>
+          <l>את האישה שלי, את אמא</l>
+          <l>את יותר מכל חבר</l>
+          <l>אוהב אותך ונצח אשאר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מרגיש שאת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

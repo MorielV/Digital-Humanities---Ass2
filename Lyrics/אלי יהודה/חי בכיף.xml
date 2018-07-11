@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חי בכיף</title>
+        <singer classification="unknown">אלי יהודה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>רפי אגרונוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חי בכיף</head>
+        <lg number="1" type="stanza">
+          <l>כשהלילה מתקרב זה עושה לי טוב בלב</l>
+          <l>כי אני אוהב לחיות ולצחוק עם בחורות</l>
+          <l>עם כולן מתחיל חופשי עד שהן בתוך חדרי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חי בכיף, מצפצף על כל העולם</l>
+          <l>מחייך לי גם כשרע לי, אין אדם מושלם</l>
+          <l>חי בכיף, מחפף ככה עם כולם</l>
+          <l>מחייך לי כי הולך לי, טוב לי בעולם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>העיניים מחזרות הידיים מתקרבות</l>
+          <l>ובתוך שנייה כמעט כל אחת אצלי ביד</l>
+          <l>לא צריך הרבה מילים שנינו כבר בעננים, אופ...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חי בכיף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלין</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>אייל גולן</composer>
+        <album>חלק מחיי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלין</head>
+        <lg number="1" type="stanza">
+          <l>חוזר הביתה, עם רדת ערב</l>
+          <l>שוב ללטף את תלתליה, מאוהב בה</l>
+          <l>רבות אהבתי אותה פי אלף</l>
+          <l>אני קורא לה נסיכה, חיים של אבא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשאותי היא מחבקת, הנשמה שלי צוחקת</l>
+          <l>ונולדת מחדש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אלין, אני אוהב אותך ילדה שלי</l>
+          <l>לעולם אשאר לצידך, אחיה ואמות בשבילך</l>
+          <l>הו אלין, אני אוהב אותך ילדה שלי</l>
+          <l>אלוהים בשמיים עדי, בלב תמיד את איתי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רחוק ממנה, חולם עליה</l>
+          <l>ומדמיין אותה יושבת מחכה לי</l>
+          <l>כשאין בי כוח, הולך אליה</l>
+          <l>ואת נפשי העייפה, היא מחייה בי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כשאותי היא מחבקת, הנשמה שלי צוחקת</l>
+          <l>ונולדת מחדש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

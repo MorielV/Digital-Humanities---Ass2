@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לך הכל</title>
+        <singer classification="unknown">אלי דג יברי</singer>
+        <writer>יוני רכטר</writer>
+        <composer>יוני רכטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לך הכל</head>
+        <lg number="1" type="stanza">
+          <l>יש לך הכל </l>
+          <l>יש בך הכל</l>
+          <l>אז מה אחד כמוני מחפש אצלך, </l>
+          <l>מחפש אצלך, אמת,</l>
+          <l>יש לך הרבה</l>
+          <l>יש בך הרבה</l>
+          <l>אז קחי אותי, טפחי אותי,</l>
+          <l>עשי בי כרצונך </l>
+          <l>ואז אלך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

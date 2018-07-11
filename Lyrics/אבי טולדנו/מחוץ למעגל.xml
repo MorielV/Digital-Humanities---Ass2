@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחוץ למעגל</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אבי טולדנו</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחוץ למעגל</head>
+        <lg number="1" type="stanza">
+          <l>לאט לאט השקט חוזר לשלטון</l>
+          <l>הוא מקפיד לרהט כל פינה</l>
+          <l>עוזרת לו הדממה כאחות נאמנה</l>
+          <l>לפזר לאופק שארית הסערה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק אתמול הרדיו הודיע</l>
+          <l>וקולי צרח את הבשורה</l>
+          <l>חלפה תקופה מאומה לא קרה</l>
+          <l>נשאר מחוץ למעגל</l>
+          <l>נשאר מחוץ למעגל.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כן החמצן כולם אומרים טמון בצלילים</l>
+          <l>שיר שותק גורם למחנק</l>
+          <l>יש מוכנים גם למות כחולי תהילה</l>
+          <l>כשמרכז החיים לא צועד במצעד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק אתמול הרדיו הודיע...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והציבור עוד רעב לבשר גיבוריו</l>
+          <l>מסתפק במזון מגוון</l>
+          <l>והדגלים שעלו יורדים בדממה</l>
+          <l>אף אחד לא מעז להפסיק ת'מנגינה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רק אתמול הרדיו הודיע...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>והסיפור שנולד עם קום המדינה</l>
+          <l>נושם כבד בין הסיבובים</l>
+          <l>רק שיר חדש פה יפתח שערי תהילה</l>
+          <l>אך מי עוד מאמין כי אין זו אגדה</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>רק אתמול הרדיו הודיע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלום מתוק</title>
+        <singer classification="unknown">אטלנטיקה</singer>
+        <writer>רמי דוידוף</writer>
+        <composer>רמי דוידוף</composer>
+        <album>שוב בבוקר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלום מתוק</head>
+        <lg number="1" type="stanza">
+          <l>בבוקר באה איזו דמיונית עם אמירה</l>
+          <l>שישו המשיח, איזו הארה</l>
+          <l>אל תעצבניני, נשבר לי כבר ממך</l>
+          <l>שלא אזרוק עליך משהו</l>
+          <l>הרים של קוקאין באפך...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא מתאים, לא מתאים</l>
+          <l>לא מתאים, לא מתאים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מגיע איזה גורו, יושב ליד נהר</l>
+          <l>אומר לי בוא איתי, אתה תהיה מואר</l>
+          <l>אומר שהוא חופשי, משחק אותה ציפור</l>
+          <l>עזוב אותי בשקט, יש לך פצעים במקור...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איזה יום, איזה יום, איזה יום, השם ישמור</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תו לחיות בשקט, חלום מתוק של שקט</l>
+          <l>תן לחיות בשקט,</l>
+          <l>אמונה תמימה ושקט</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

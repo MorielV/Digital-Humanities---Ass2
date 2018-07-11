@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מברוק עליך</title>
+        <singer classification="unknown">איציק ארזי</singer>
+        <writer>עממי עיראקי</writer>
+        <composer>עממי עיראקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מברוק עליך</head>
+        <lg number="1" type="stanza">
+          <l>מברוק עלק</l>
+          <l>יא ריס מברוק</l>
+          <l>וויל מזינגה</l>
+          <l>יא נור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מברוק עלק</l>
+          <l>יא ריס מברוק</l>
+          <l>יא אריסה</l>
+          <l>אריס מברוק</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

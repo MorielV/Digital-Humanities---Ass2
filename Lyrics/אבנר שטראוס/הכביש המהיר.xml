@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכביש המהיר 2</title>
+        <singer classification="male singer">אבנר שטראוס</singer>
+        <writer>אבנר שטראוס</writer>
+        <composer>אבנר שטראוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכביש המהיר</head>
+        <lg number="1" type="stanza">
+          <l>יוצא לכביש הפתוח</l>
+          <l>יוצא לכביש המהיר</l>
+          <l>מן המנוע עולה</l>
+          <l>ריח שמן שרוף</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בחוץ אויר בהיר</l>
+          <l>כמעט שקוף</l>
+          <l>עושה חשבון נפש</l>
+          <l>עושה חשבון גוף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כן את כבר בשלה</l>
+          <l>ואני כבר בשל</l>
+          <l>אין ההתלהבות</l>
+          <l>בפני עצמי מתנצל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ממרחק של זמן</l>
+          <l>עכשיו אפשר לראות</l>
+          <l>מזמן יכולנו</l>
+          <l>היו המראות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בואי ונחגוג את גופנו</l>
+          <l>הן אין לנו בית אחר</l>
+          <l>אם אי אפשר ללכת </l>
+          <l>נלמד להישאר</l>
+          <l>נלמד לאהוב</l>
+          <l>ונלמד לעוף</l>
+          <l>כי אם אין אמונה</l>
+          <l>צריך קצת טירוף</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אחד עטוף במולדת</l>
+          <l>אחר עטוף בגוף</l>
+          <l>איך על כל מיני שטויות</l>
+          <l>נלחמנו בחירוף</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אז איזה דלק הנפש</l>
+          <l>צריכה בשביל לעוף?</l>
+          <l>אם האהבה שגעון</l>
+          <l>חסר פה קצת טירוף</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>בואי ונחגוג את גופנו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

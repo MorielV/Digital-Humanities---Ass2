@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רומנטי</title>
+        <singer classification="male singer">איציק שמלי</singer>
+        <writer>איציק שמלי</writer>
+        <composer>איציק שמלי</composer>
+        <album>סיפור אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רומנטי</head>
+        <lg number="1" type="stanza">
+          <l>מה לעשות אני רומנטי כמו מהדור של פעם</l>
+          <l>עדיין בכל יום אביא פרחים</l>
+          <l>עדין בכל בוקר אומר משפט עם טעם</l>
+          <l>ומבשם את כל המכתבים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והנרות שבביתי לא יכבו לנצח</l>
+          <l>ביום גשום ליבך ירגיש חמים</l>
+          <l>על מיתרי אפרוט, שירים נוגעים אשיר לך</l>
+          <l>והשקיעה איתך עושה לי פרפרים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק איתך הבית מתמלא אורות של אהבה</l>
+          <l>ורק איתך הלב מוצא את התשובה</l>
+          <l>לשאלה היכן שוכנת השלווה</l>
+          <l>ורק איתך, אני כזה רומנטיקן מאהבה</l>
+          <l>ורק איתך האל מגשים כל משאלה</l>
+          <l>ואת הרע מרחיק לארץ רחוקה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה לעשות אני רומנטי כמו מהדור ההוא</l>
+          <l>עדיין בכל יום אביא פרחים</l>
+          <l>ולכל תאריך אצלי יש משמעות</l>
+          <l>כי ככה מרגישים כשאוהבים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

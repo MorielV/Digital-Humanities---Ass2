@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סדוק</title>
+        <singer classification="male singer">אלי לולאי</singer>
+        <writer>אלי לולאי</writer>
+        <composer>אורנה כץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סדוק</head>
+        <lg number="1" type="stanza">
+          <l>ישנו אחד שמסתובב ברחובות</l>
+          <l>בעיר הזאת.</l>
+          <l>במבטו הוא מתקדם הוא מחפש להשתנות.</l>
+          <l>כמו מכונה בחלקים אבל רואה את</l>
+          <l>הסדקים.</l>
+          <l>כולם אומרים לו תשתחרר אם תתפרק</l>
+          <l>תרגיש שלם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סדוק אני, סדוק אני, סדוק אני,</l>
+          <l>אני נפתח.</l>
+          <l>סדוק אני, סדוק אני, סדוק אני,</l>
+          <l>פורש כנפיים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא מותח מסביבו גומיות שמחזיקות</l>
+          <l>את השברים המאיימים הוא מפרק מה</l>
+          <l>שבפנים.</l>
+          <l>הרגשות, השקרים, מחשבות הפחדים</l>
+          <l>הוא מרפד את הפינות שנחשפו עם</l>
+          <l>השנים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סדוק אני, סדוק אני, סדוק אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

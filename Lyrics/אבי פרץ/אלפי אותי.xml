@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלפי אותי</title>
+        <singer classification="male singer">אבי פרץ</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלפי אותי</head>
+        <lg number="1" type="stanza">
+          <l>מעולם לא ניגנתי רק כינור,</l>
+          <l>ולא הייתי מחונך,</l>
+          <l>וכל חיי היו שירים,</l>
+          <l>מחייך אל החופש והדרור,</l>
+          <l>הייתי נער כמו כולם,</l>
+          <l>אוהב לחיות את החיים,</l>
+          <l>לא שמתי לב לנערות ומתרחק מאהבות,</l>
+          <l>עד שנכנסת אל תוך חיי ואז התחילו צרותי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלפי אותי כי אני כמו פרח בר עדיין,</l>
+          <l>חנכי אותי לעטוף אותך ברוך ידייך,</l>
+          <l>למדי אותי את כל רזי האהבה שלא ידעתי אז אנא אלפי אותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא בקרתי מעולם במוזיאונים של איטליה,</l>
+          <l>עד שהארת את שתי עיני,</l>
+          <l>בחגים הייתי נע בדרך בין אילת לטבריה,</l>
+          <l>כאלה הם היו חיי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>פתאום עולם חדש נגלה,</l>
+          <l>הכל איתך כל כך נפלא,</l>
+          <l>ובשבילך אני מוכן להתלבש גם כמו חתן</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אלפי אותי כי אני כמו פרח בר...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לא שמתי לב לנערות ומתרחק מאהבות,</l>
+          <l>עד שנכנסת אל תוך חיי ואז התחילו צרותי</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אלפי אותי כי אני כמו פרח בר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

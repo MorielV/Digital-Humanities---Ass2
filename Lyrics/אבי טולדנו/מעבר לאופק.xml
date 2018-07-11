@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מעבר לאופק</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>נורית בת שחר צפריר</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מעבר לאופק</head>
+        <lg number="1" type="stanza">
+          <l>מישהו על קיר חיי תפילה רושם</l>
+          <l>מישהו כמו הרוח בן בלי שם</l>
+          <l>רק מעט מזה בלי נדר יתגשם</l>
+          <l>רק מעט מזה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>משהו בנפש פנימה מתחדש</l>
+          <l>משהו מן הנשמה עולה באש</l>
+          <l>רק מעט מזה נזכור ונקדש</l>
+          <l>רק מעט מזה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה יש מעבר לאופק</l>
+          <l>מעבר לאושר</l>
+          <l>מעבר לחיים</l>
+          <l>מה יש מעבר לדופק</l>
+          <l>מעבר לחוש</l>
+          <l>אמור לי אלוהים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>משהו עומד מלמעלה באוויר</l>
+          <l>משהו כואב בפנים בלב שביר</l>
+          <l>רק מעט מזה נשאר בתוך השיר</l>
+          <l>רק מעט מזה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מה יש מעבר לאופק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תן לי יד</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>עלי מוהר</writer>
+        <composer>יוני רכטר</composer>
+        <album>Back On Stage</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תן לי יד</head>
+        <lg number="1" type="stanza">
+          <l>תני לי יד</l>
+          <l>אין לי מלבדך עוד בית</l>
+          <l>אין לי מלבדך עוד אף אחד</l>
+          <l>תני לי יד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תן לי יד</l>
+          <l>כדי שלא אפחד בדרך</l>
+          <l>כדי שלא אהיה יותר לבד</l>
+          <l>תן לי יד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה רק אנחנו שנינו</l>
+          <l>זה רק אני ואת</l>
+          <l>והעולם איננו נגדנו</l>
+          <l>ולא בעד.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>וככה לפי יכולתנו</l>
+          <l>יחד נאהב ונכאב</l>
+          <l>אני ואת, ואת...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תן לי יד</l>
+          <l>כדי שלא אפחד בדרך</l>
+          <l>כדי שלא אהיה יותר לבד</l>
+          <l>תן לי יד.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>זה רק אנחנו שנינו</l>
+          <l>זה רק אני ואת</l>
+          <l>גם במרחק ביני ובינך</l>
+          <l>את לא לבד.</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>וככה כפי יכולתנו</l>
+          <l>יחד נאהב ונכאב</l>
+          <l>אני ואת, ואת...</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>תן לי יד</l>
+          <l>כדי שלא אפחד בדרך</l>
+          <l>כדי שלא אהיה יותר לבד</l>
+          <l>תן לי יד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

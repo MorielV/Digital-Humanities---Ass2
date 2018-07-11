@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לפני שאת עוזבת</title>
+        <singer classification="male singer">איתן מסורי</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>איתן מסורי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לפני שאת עוזבת</head>
+        <lg number="1" type="stanza">
+          <l>שתיקות אחרונות, מבטים מדברים,</l>
+          <l>גלי זכרונות עולים ודוקרים.</l>
+          <l>רציתי לומר ואולי לבקש,</l>
+          <l>הנה ממחר הדף ייתלש.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חכי</l>
+          <l>לפני שאת עוזבת את ביתי.</l>
+          <l>עמדי, </l>
+          <l>אולי-אולי עוד רגע תתחרטי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הכנת מזוודה לארוז מה שיש,</l>
+          <l>ושוב לא נדע מתי ניפגש.</l>
+          <l>טבעת, תמונה, את לוקחת הרבה.</l>
+          <l>הו, מה נשתנה הלילה הזה?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חכי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הקיץ נגמר והחורף קרוב</l>
+          <l>ולו רק נשארת היה לנו טוב.</l>
+          <l>אך יום עוד יבוא ותרצי לחזור,</l>
+          <l>אלך לי מפה חופשי כציפור.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>חכי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

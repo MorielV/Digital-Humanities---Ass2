@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חכי לי 2</title>
+        <singer classification="male singer">אייל לוי</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חכי לי</head>
+        <lg number="1" type="stanza">
+          <l>אור השמש  הבוערת</l>
+          <l>מחבק אותי מעל </l>
+          <l>זו הדרך המוכרת</l>
+          <l>שסוגרת מעגל</l>
+          <l>ניצוצות באישונייך</l>
+          <l>מול עיני שוב נדלקים</l>
+          <l>מלווים אותי אליך</l>
+          <l>מאלפי המרחקים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חכי לי מאוהבת ויפה</l>
+          <l>אני חוזר אליך כמו סופה</l>
+          <l>חכי לי מלטפת וטובה</l>
+          <l>כמו שהיית לי פעם אהובה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מן החורף הפרוע</l>
+          <l>והעצב שהורס</l>
+          <l>מתחזק בי געגוע</l>
+          <l>לחיוך המתפייס</l>
+          <l>רק תאמרי שאת סולחת</l>
+          <l>על הרע והנורא</l>
+          <l>ונשוב להיות ביחד</l>
+          <l>כי חלפה הסערה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חכי לי מאוהבת ויפה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

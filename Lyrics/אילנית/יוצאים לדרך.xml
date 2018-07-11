@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יוצאים לדרך</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>לאה נאור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יוצאים לדרך</head>
+        <lg number="1" type="stanza">
+          <l>אם אתה יוצא לדרך</l>
+          <l>העולה אל ההרים,</l>
+          <l>היזהר שלא תיקח</l>
+          <l>איתך דברים מיותרים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קח חלום -</l>
+          <l>לא כבד מדי,</l>
+          <l>ושמחה -</l>
+          <l>לא גדולה מדי,</l>
+          <l>וגם שיר</l>
+          <l>לא ארוך מדי.</l>
+          <l>זה די.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש נופים יפים בדרך</l>
+          <l>העולה אל ההרים.</l>
+          <l>התרמיל מושך למטה,</l>
+          <l>פה עוזרים רק השירים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קח חלום....</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא אכפת לי מה ארזת</l>
+          <l>ואת מה אתה אוהב.</l>
+          <l>מה שבאמת חשוב</l>
+          <l>זה מה שיש לך בלב:</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>קח חלום...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>שב לנוח. זרוק לרוח</l>
+          <l>את כל מה שמיותר,</l>
+          <l>ועכשיו בלב בטוח</l>
+          <l>קח איתך מה שנשאר:</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>קח חלום - לא כבד מדי,</l>
+          <l>ושמחה - לא גדולה מדי,</l>
+          <l>וגם שיר לא ארוך מדי.</l>
+          <l>זה די.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

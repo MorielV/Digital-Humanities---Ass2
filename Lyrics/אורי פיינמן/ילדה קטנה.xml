@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילדה קטנה 2</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>סמדר שיר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילדה קטנה</head>
+        <lg number="1" type="stanza">
+          <l>את היית ילדה קטנה</l>
+          <l>עם סרטים ועם צמה</l>
+          <l>שיחקנו יחד אבא אמא</l>
+          <l>והייתי הראשון</l>
+          <l>שלימד אותך לישון</l>
+          <l>שאל הלב נכנסת לי פנימה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את היום שונה</l>
+          <l>את נראית אחרת</l>
+          <l>את קצת קרובה קצת רחוקה</l>
+          <l>את אישה קטנה</l>
+          <l>את כבר לא זוכרת</l>
+          <l>ילדה עם סרט וצמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את ידעת דרכו של איש</l>
+          <l>את לומדת להרגיש</l>
+          <l>אני מבין מה את חושבת</l>
+          <l>בואי כמו ילדה קטנה</l>
+          <l>ראי שכלום לא השתנה</l>
+          <l>שכמו ילדה את עוד אוהבת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את היום שונה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

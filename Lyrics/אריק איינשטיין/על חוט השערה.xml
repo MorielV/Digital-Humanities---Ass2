@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>על חוט השערה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>גיא בוקאטי</writer>
+        <composer>גיא בוקאטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>על חוט השערה</head>
+        <lg number="1" type="stanza">
+          <l>על חוט השערה תלויים חיינו</l>
+          <l>את יודעת</l>
+          <l>מה קורה לאלה לידנו מה...?</l>
+          <l>אבל בינתיים יש ניסים</l>
+          <l>וזה נעים בינינו</l>
+          <l>אני ואת</l>
+          <l>אני ואת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך לא הבנתי כשאמרת לי</l>
+          <l>החיים עוד לפנינו</l>
+          <l>אני תקעתי בך מבט</l>
+          <l>ואת שתקת</l>
+          <l>אבל בערב כשצחקנו</l>
+          <l>ידעתי שבינינו</l>
+          <l>יש דף חדש</l>
+          <l>יש דף חדש</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בלעדייך אין לי סיכוי</l>
+          <l>כמעט הלכת לי לאיבוד</l>
+          <l>אני ואת מול כל העולם</l>
+          <l>בלעדייך החיוך נעלם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>על חוט השערה תלויים חיינו</l>
+          <l>את יודעת</l>
+          <l>לא חשוב כבר מי צודק בינינו</l>
+          <l>די...</l>
+          <l>אני מוכן כבר לוותר</l>
+          <l>כי מה שיש בינינו</l>
+          <l>זה דף חדש</l>
+          <l>זה דף חדש</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בלעדייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

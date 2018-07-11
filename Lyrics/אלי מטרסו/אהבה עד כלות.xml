@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה עד כלות</title>
+        <singer classification="unknown">אלי מטרסו</singer>
+        <writer>אלי מטרסו</writer>
+        <composer>אלי מטרסו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה עד כלות</head>
+        <lg number="1" type="stanza">
+          <l>במקום בו הבדידות מכלה את הלב </l>
+          <l>ולחירות כבר אין חשיבות </l>
+          <l>מבליחה אהבה כברק וטורפת חושים </l>
+          <l>הולמת בגופך כגל מתנפץ האוסף את מימיו </l>
+          <l>ומאיים לסחוף למצולות </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza" />
+        <lg number="3" type="stanza">
+          <l>כשיכור מדדה בסמטה עלומה </l>
+          <l>מתמוגג עד אין קץ מתחושת הריחוף </l>
+          <l>לכוד עד חרמה בעבותות אהבתי </l>
+          <l>הבוערת כאש שלא תכלה לעולם </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza" />
+        <lg number="5" type="stanza">
+          <l>אהבה שכזו הכרוכה כפלצור על צוואר </l>
+          <l>טווה מחשבות על חופש חטוף ונכסף </l>
+          <l>כציפור כלואה העורגת לדרור </l>
+          <l>תערוג נפשי למקום בו אבדה חירותי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

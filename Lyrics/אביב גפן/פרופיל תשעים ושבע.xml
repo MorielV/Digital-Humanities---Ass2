@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פרופיל תשעים ושבע</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פרופיל תשעים ושבע</head>
+        <lg number="1" type="stanza">
+          <l>פרח עכשיו פורח והוא צורח</l>
+          <l>ילדים נובלים שם בשטחים</l>
+          <l>צמח עכשיו צומח והוא צונח</l>
+          <l>ילדים נהיים לרוב צמחים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פרופיל תשעים ושבע בפנים הרבה פחות</l>
+          <l>המפקד אמר "לירות"</l>
+          <l>בתוך מדים מצדיע נלחם על השפיות</l>
+          <l>צבא הגנה למות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דגל יש לנו דגל ואין לו רגל</l>
+          <l>ילדים נהיים לרוב דגלים</l>
+          <l>למה תגיד למה (הוא לא יודע), אתה עוד שמה</l>
+          <l>ילדים לרוב לא שואלים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פרופיל תשעים ושבע...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>פרח עכשיו פורח והוא צורח</l>
+          <l>ילדים נובלים שם בשטחים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

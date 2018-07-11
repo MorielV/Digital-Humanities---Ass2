@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קרן אור 2</title>
+        <singer classification="female singer">אורטל אופק</singer>
+        <writer>אורטל אופק</writer>
+        <composer>אורטל אופק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קרן אור</head>
+        <lg number="1" type="stanza">
+          <l>לא חשבתי שזה יקרה כל כך מהר</l>
+          <l>רק נפרדנו ומצאתי כבר חבר חדש</l>
+          <l>אפילו די מבוקש</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רק שבועיים עברו וכבר הכול שונה</l>
+          <l>פרפרים בבטן לא יודעת מה קורה לי שם</l>
+          <l>בתוך הלב הקטן שלי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>דווקא כשהכל נראה שחור</l>
+          <l>באה קרן אור</l>
+          <l>ומאירה לי</l>
+          <l>אין אף פעם מאוחר מדי</l>
+          <l>היא תבוא אלי</l>
+          <l>קרן אור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשהטלפון צלצל אתמול בשש</l>
+          <l>הוא הודיע לי שאין לו זמן להיפגש</l>
+          <l>נדמה לי שהוא עוזב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא איכפת לי כי יש עוד דגים בים</l>
+          <l>ולכל אחד יש דג שמחכה אי שם</l>
+          <l>צריך רק טיפת מזל בינתיים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>דווקא כשהכל נראה שחור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

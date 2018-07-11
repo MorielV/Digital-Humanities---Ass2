@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שאו שערים</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>אביתר בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שאו שערים</head>
+        <lg number="1" type="stanza">
+          <l>האין סופי בתוך ידייך הקטנות, החכמות </l>
+          <l>בתוך עינייך הכחולות ים רקיע, כיסא כבוד </l>
+          <l>סביב אופנייך האדומות </l>
+          <l>אופנים שרפים חיות </l>
+          <l>מצאי את בחיקך מנוח </l>
+          <l>דעי את פלא נשמתך </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שאו שערים פתחי עולם </l>
+          <l>ענן עובר </l>
+          <l>עצמי עינייך </l>
+          <l>דמעות קטנות נוטפות בחלון </l>
+          <l>גלי לו את כל סודותייך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתחת לכל פצע חסד אל מפציע </l>
+          <l>מתחת רעש האימים זורם נהר של רחמים </l>
+          <l>ברכי בתי את אדונייך </l>
+          <l>הטי אוזנך שמעי קולו </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שאו שערים פתחי עולם </l>
+          <l>ענן עובר </l>
+          <l>עצמי עינייך </l>
+          <l>דמעות קטנות נוטפות בחלון </l>
+          <l>גלי לו את כל סודותייך </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>דמעות קטנות נוטפות בחלון </l>
+          <l>גלי לו את כל סודותייך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

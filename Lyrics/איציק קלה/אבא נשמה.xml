@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבא נשמה</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>צדי אור</writer>
+        <composer>צדי אור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבא נשמה</head>
+        <lg number="1" type="stanza">
+          <l>אתה בראת עולם</l>
+          <l>נתת בי נשמה</l>
+          <l>אתה בראת את כולם</l>
+          <l>ואת הנץ החמה</l>
+          <l>במרחק אני רואה ניצוץ</l>
+          <l>כמו אור של יום ראשון</l>
+          <l>במרחק אני רואה ציפור</l>
+          <l>שעפה לחפש לה את הדרור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אבא נשמה</l>
+          <l>אבא שמיים</l>
+          <l>אבא בורא עולם</l>
+          <l>תפקח לי את העיניים</l>
+          <l>שאלך בדרך ולא אמעד</l>
+          <l>יהיה לי ערך בעולם</l>
+          <l>מודה אני לפניך</l>
+          <l>בורא עולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה בראת עולם</l>
+          <l>נתת לי נחמה</l>
+          <l>אתה יצרת בשר ודם</l>
+          <l>אדם ובהמה</l>
+          <l>ובמרחק אני רואה ניצוץ</l>
+          <l>כמו אור של יום ראשון</l>
+          <l>ובמרחב אני רואה ציפור</l>
+          <l>שעפה לחפש לה את הדרור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבא נשמה אבא שמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

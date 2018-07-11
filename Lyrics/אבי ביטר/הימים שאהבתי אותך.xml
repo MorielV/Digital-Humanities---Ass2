@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הימים שאהבתי אותך</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>אבי ביטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הימים שאהבתי אותך</head>
+        <lg number="1" type="stanza">
+          <l>כל מה שאני סובל כואב לי כל כך</l>
+          <l>הזמן עוד יעבור ואשכח אותך</l>
+          <l>אהבה כזאת לא מגיע לך</l>
+          <l>כל מה שעשיתי לי שיעשו גם לך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את עוד תבכי ואני אצחק</l>
+          <l>יום אחד תביני שאני לא משחק</l>
+          <l>הדמעות שלך יזכירו לך</l>
+          <l>את הימים שאהבתי אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלילות קרים בלי כוכבים</l>
+          <l>ראית אותי לבד ולא הושטת לי יד</l>
+          <l>בקשתי מאלוקים שישמע את תפילתי</l>
+          <l>כמו שאני בוכה שגם את תבכי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את עוד תבכי ואני אצחק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

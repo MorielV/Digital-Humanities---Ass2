@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צועדת</title>
+        <singer classification="female singer">אפרת בן צור</singer>
+        <writer>אפרת בן צור</writer>
+        <composer>אפרת בן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צועדת</head>
+        <lg number="1" type="stanza">
+          <l>צעד ועוד אחד אני מנסה ללכת</l>
+          <l>הרגליים חלשות אבל עוד אחד ועוד אחד -</l>
+          <l>אני כבר צועדת</l>
+          <l>יום אחד תבוא הביתה, יודעת</l>
+          <l>יום אחד תבוא הביתה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ילד, נחמד, משגע</l>
+          <l>מקווה שאהיה כבר רחוקה -</l>
+          <l>תצעד אתה</l>
+          <l>ורגליך כבר יהיו זקנות</l>
+          <l>והגוף כואב לי</l>
+          <l>יום אחד תבוא הביתה, יודעת</l>
+          <l>יום אחד תבוא הביתה, יודעת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד אחד ועוד אחד -</l>
+          <l>אני כבר צועדת, צועדת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לשבת לנוח כאן</l>
+          <l>כאן תמצא אותי</l>
+          <l>תמצא אותי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>(תמצא אותי...)</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

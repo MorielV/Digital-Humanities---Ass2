@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא מלאך</title>
+        <singer classification="male singer">אבנר שטראוס</singer>
+        <writer>אבנר שטראוס</writer>
+        <composer>אבנר שטראוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא מלאך</head>
+        <lg number="1" type="stanza">
+          <l>היי היי, תגידי לי מה איתך</l>
+          <l>היי היי, תגידי לי מה איתך</l>
+          <l>אני לא קדוש אני לא מלאך אבל אני אוהב אותך</l>
+          <l>היי היי, תגידי לי מה איתך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היי היי, תגידי מה איתך אישה</l>
+          <l>היי היי, תגידי איך ההרגשה</l>
+          <l>אני לא מלאך אני לא קדוש אבל את לא יוצאת לי מהראש</l>
+          <l>היי היי, תגידי מה איתך אישה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היי היי, תגידי לי מה איתך</l>
+          <l>היי היי, שהשד ייקח אותך</l>
+          <l>אני לא מלאך אני לא קדוש אבל אלוהים יסלח לי מראש</l>
+          <l>היי היי, אני אוהב אותך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

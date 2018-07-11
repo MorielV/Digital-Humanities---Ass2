@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האהבה הזאת</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>אבי ביטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האהבה הזאת</head>
+        <lg number="1" type="stanza">
+          <l>אל תזכירו לי את זאת האהבה</l>
+          <l>אל תראו לי את התמונות לא רוצה אותה</l>
+          <l>אל תדברו יותר על זאת האהבה</l>
+          <l>אל תראו לי את התמונות אל תזכירו לי אותה</l>
+          <l>אני רוצה לשכוח את כל מה שהיה</l>
+          <l>אל תספרו לי כלום אם תראו אותה</l>
+          <l>אני רוצה לשכוח את כל מה שהיה</l>
+          <l>אל תספרו לי כולם אם תראו אותה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>האהבה הזאת שרפה לי ת'נשמה</l>
+          <l>האהבה הזאת היא רק התנקמה</l>
+          <l>ת'אהבה הזאת לא רוצה יותר</l>
+          <l>על אהבה כזאת כדאי כבר לבתר</l>
+          <l>שרפתי ת'תמונות מחקתי גם את שמה</l>
+          <l>קיללתי את היום שהתאהבתי בה</l>
+          <l>אל תדברו יותר על זאת האהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חבל על השנים שבזבזתי בשבילה</l>
+          <l>חבל על הדמעות שזלגו לי בגללה</l>
+          <l>אם תראו אותה אל תדברו עלי</l>
+          <l>ואם אני אבכה אל תרחמו עלי</l>
+          <l>אני רוצה לשכוח את זאת האהבה</l>
+          <l>אל תזכירו לי אל תראו לי אף תמונה</l>
+          <l>אני רוצה לשכוח כל מה שהיה</l>
+          <l>אל תספרו לי כלום אם תראו אותה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האהבה הזאת שרפה לי ת'נשמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

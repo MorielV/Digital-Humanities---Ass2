@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחר מלבדי</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אבי טולדנו</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחר מלבדי</head>
+        <lg number="1" type="stanza">
+          <l>עצוב בי, שבור בי</l>
+          <l>שתקו בי כל הצלילים</l>
+          <l>ונדמה לי שיש עוד מה לאומר</l>
+          <l>ונדמה שהכל עוד לא נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>האין בי מה שהיה בי כל הזמן</l>
+          <l>איך אתה משתנה</l>
+          <l>אף אחד לא מזהה</l>
+          <l>אני עוד איתך בחלומך</l>
+          <l>כי כן חשוב מה שיהיה</l>
+          <l>רק ביחד נשנה</l>
+          <l>כי אין לך אחר</l>
+          <l>מלבדי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוער בי, סוער בי</l>
+          <l>עוד יש לי חול בעיני</l>
+          <l>מוכן ליפול אם אתה עוד תקום</l>
+          <l>מי שנופל לא נופל על לא כלום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האין בי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

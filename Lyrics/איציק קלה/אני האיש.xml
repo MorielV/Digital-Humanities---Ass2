@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני האיש</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>איציק קלה</writer>
+        <composer>אלעד פלד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני האיש</head>
+        <lg number="1" type="stanza">
+          <l>אני האיש</l>
+          <l>אני האיש אשר בחרת </l>
+          <l>להיות לך לנצח האחד</l>
+          <l>את ידעת </l>
+          <l>לא קלה תהיה הדרך</l>
+          <l>ואת ידעת</l>
+          <l>עולמו הוא עולמך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואת אהבת  </l>
+          <l>אותי כמו ילד </l>
+          <l>ללא תנאי</l>
+          <l>ואת עטפת </l>
+          <l>אותי באור </l>
+          <l>בלילותיי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואת אהבת                                    </l>
+          <l>אותי כמו עלם </l>
+          <l>עם חולשותיי </l>
+          <l>ואת ליטפת </l>
+          <l>את כל גופי </l>
+          <l>במכאוביי  </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואם טעיתי                                               </l>
+          <l>אם לא ראיתי             </l>
+          <l>ולא הייתי </l>
+          <l>איי פעם לצדך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם לא הקשבתי                                          </l>
+          <l>ואם שתקתי                                               </l>
+          <l>אותך אהבתי                                              </l>
+          <l>ולא ידעתי איך                                           </l>
+        </lg>
+        <lg number="6" type="stanza" />
+        <lg number="7" type="stanza">
+          <l>אני האיש</l>
+          <l>אני האיש אשר בחרת</l>
+          <l>להיות לך לנצח האחד</l>
+          <l>את נשאת                     </l>
+          <l>ילדיו בגופך</l>
+          <l>אך מעולם</l>
+          <l>לא נפלה רוחך</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>ואת נתת</l>
+          <l>שלווה בבית</l>
+          <l>שמרת מכל צרה</l>
+          <l>את היית לי </l>
+          <l>כמעגן </l>
+          <l>בסערה</l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>את נתת לי</l>
+          <l>את האושר </l>
+          <l>שלא היה בי</l>
+          <l>ואת השבת </l>
+          <l>את השמחה</l>
+          <l>               שבליבי</l>
+        </lg>
+        <lg Chorus="yes" number="10" type="stanza">
+          <l>ואם טעיתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

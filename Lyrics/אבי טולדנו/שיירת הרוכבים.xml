@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיירת הרוכבים</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>נעמי שמר</writer>
+        <composer>שמעון ישראלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיירת הרוכבים</head>
+        <lg number="1" type="stanza">
+          <l>בין הרי הסלע הכהים</l>
+          <l>בין הרי הסלע הגבוהים,</l>
+          <l>לילה, לילה, מול ירח</l>
+          <l>הפולח בעבים,</l>
+          <l>תתעורר שיירת הרוכבים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הם רוכבים ושרים</l>
+          <l>לרגלי ההרים,</l>
+          <l>הם רוכבים לבדם</l>
+          <l>שם בוואדי, מול הים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לבם הומה עצבת</l>
+          <l>גבם עייף עד מוות</l>
+          <l>ומבטם תועה בכוכבים.</l>
+          <l>אבל, אל מול הרוח,</l>
+          <l>כאיש אחד תנוע,</l>
+          <l>תנוע לה שיירת הרוכבים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הם רוכבים ושרים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הם יצאו לדרך בסערה</l>
+          <l>הם יצאו לעיר הנצורה</l>
+          <l>אך אי שם בלב הוואדי,</l>
+          <l>עת הרעימו הרובים</l>
+          <l>נלכדה שיירת הרוכבים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הם רוכבים ושרים...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>קולות הקרב תמו</l>
+          <l>ותותחיו נדמו</l>
+          <l>ושבנו אל בתינו הטובים</l>
+          <l>אבל אל מול הרוח</l>
+          <l>כאיש אחד תנוע</l>
+          <l>תנוע לה שיירת הרוכבים</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>הם רוכבים ושרים,</l>
+          <l>בשבילי ההרים</l>
+          <l>אך השביל אל הים</l>
+          <l>לא יגיע לעולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תיקח אותי</title>
+        <singer classification="unknown">אוריין רייס</singer>
+        <writer>ישראל קמחי</writer>
+        <composer>יוני אמבר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תיקח אותי</head>
+        <lg number="1" type="stanza">
+          <l>אני שלך אז בוא תיקח</l>
+          <l>תיגע בי בידי מלאך</l>
+          <l>תביט עמוק אל תוך עיני</l>
+          <l>תחזיר אלי את כוחותי</l>
+          <l>אני נושמת את גופך</l>
+          <l>ומלטפת את ראשך</l>
+          <l>יודעת את הנקודות</l>
+          <l>שמובילות אל תוך ליבך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני יודעת שעוד יבוא היום</l>
+          <l>שבו תיקח אותי כמו מתוך חלום</l>
+          <l>אתה יוצא לדרך שתביא אותך אלי</l>
+          <l>אז בוא תיקח אותי, תיקח אותי אולי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נשארת עוד דקה אחת</l>
+          <l>שלא תזוז, שלא תברח</l>
+          <l>כי כל שניה היא כמו דמעה</l>
+          <l>שמנפצת על עורך</l>
+          <l>עכשיו תלך למלחמה</l>
+          <l>אל תדבר על אהבה</l>
+          <l>תהיה חזק אתה מוכרח</l>
+          <l>אני שלך זאת אל תשכח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני יודעת ש...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היום הזה יגיע</l>
+          <l>כשתשוב בלי להודיע</l>
+          <l>תיכנס בדלת ותיגש אלי</l>
+          <l>תביט לי בעיניים</l>
+          <l>ותחזיק בשתי ידיים</l>
+          <l>ותאמר מילים של אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני יודעת ש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

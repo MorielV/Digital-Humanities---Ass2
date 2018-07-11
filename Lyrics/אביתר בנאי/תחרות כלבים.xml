@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תחרות כלבים</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>אביתר בנאי</composer>
+        <album>עומד על נייר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תחרות כלבים</head>
+        <lg number="1" type="stanza">
+          <l>תחרות כלבים</l>
+          <l>רצים במעגל</l>
+          <l>עיניים רעבות</l>
+          <l>דיבור מרומז</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בנעלים היפות</l>
+          <l>אני רץ יחף</l>
+          <l>חלומות עמוקים</l>
+          <l>אני מגיע ראשון</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נוסע במונית, לא זוכר את הכתובת</l>
+          <l>כל כך הרבה זמן בחושך</l>
+          <l>הייאוש, הבשר, הגאווה</l>
+          <l>אויבים גדולים שאני טיפחתי</l>
+          <l>להדליק את השמש</l>
+          <l>בצחוק ובכי ובמנגינה</l>
+          <l>אני כבר מגיע, אני כבר נמצא</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>המעקה רטוב</l>
+          <l>המדרגות גבוהות</l>
+          <l>לחישות שקטות</l>
+          <l>על הצוואר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שומע חצוצרות</l>
+          <l>בלילה במיטה</l>
+          <l>מכוון את התנועה</l>
+          <l>בלי לדעת לאן</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נוסע במונית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

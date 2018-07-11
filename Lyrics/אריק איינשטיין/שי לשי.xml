@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שי לשי</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>דודו אשכנזי</writer>
+        <composer>מיכה שטרית</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שי לשי</head>
+        <lg number="1" type="stanza">
+          <l>יום ב', ו' בחודש אב</l>
+          <l>שנת תש"ס תחלוף בדמי ימיו</l>
+          <l>עשרים ותשעה אביבים</l>
+          <l>ואין מזור לכאבים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קאט! סרט חיים נקטע</l>
+          <l>הלהבה עדיין לא כבתה</l>
+          <l>נר דולק, נר נשמה</l>
+          <l>על מה ולמה, על שום מה?!</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שי לשי נקדיש זה השיר</l>
+          <l>והשמש תזרח וביחד נשיר</l>
+          <l>שי כמו תמיד תמשיך לחייך</l>
+          <l>כי אנחנו שכחנו כבר איך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בשמים מלאכים</l>
+          <l>לפניך שי מחייכים</l>
+          <l>ולנצח נצח נצחים</l>
+          <l>שי אותך רק משבחים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שי לשי נקדיש זה השיר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

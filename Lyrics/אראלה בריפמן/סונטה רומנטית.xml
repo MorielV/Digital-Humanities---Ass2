@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סונטה רומנטית</title>
+        <singer classification="unknown">אראלה בריפמן</singer>
+        <writer>אראלה בריפמן</writer>
+        <composer>טובה פורת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סונטה רומנטית</head>
+        <lg number="1" type="stanza">
+          <l>זה רק הרכב קטן לקול אחד או שניים</l>
+          <l>ןשאר כלי התזמורת הם רקע במרחק</l>
+          <l>מעט פריטים בנוף השמש קצת שמיים</l>
+          <l>קצת ים מעט ענן של סתיו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני מזמן למדתי דבר אחד או שנים</l>
+          <l>וגם אתה כבר לא כל כך צעיר</l>
+          <l>אני יודעת זהו חוף זה קו המים</l>
+          <l>האופק על הגבול שבין כהה לבין בהיר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמעט קשה להאמין אבל</l>
+          <l>כמעט בכלל בלי רעד בקולי</l>
+          <l>אני פתאום אומרת </l>
+          <l>אני פתאום אומרת</l>
+          <l>יקר שלי - אהובי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זה רק הרכב קטן הנה אתה שומע</l>
+          <l>במנגינה הזאת מעט מאוד כלים</l>
+          <l>המנגינה הזאת כמעט משעממת</l>
+          <l>קצת הולם תוף רק כמה מיתרים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני מזמן למדתי...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אתה מזמן כבר מפוקח</l>
+          <l>וגם אני כבר לא כל כך ילדה</l>
+          <l>כלי התזמרת רקע במרחק</l>
+          <l>אתה וגם אני המנגינה</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כמעט קשה להאמין</l>
+          <l>אבל בכלל בלי רעד בקולי</l>
+          <l>אני פתאום אומרת </l>
+          <l>אני פתאום אומרת </l>
+          <l>יקר שלי - אהובי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

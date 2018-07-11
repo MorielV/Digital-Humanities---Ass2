@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ואנחנו</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>אהוד מנור</writer>
+        <composer>רצון כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ואנחנו</head>
+        <lg number="1" type="stanza">
+          <l>תעלה השמש, והאור ישטוף.</l>
+          <l>יעלו המים, ושוב יגעו בחוף.</l>
+          <l>יעבור החורף, ויבוא אביב.</l>
+          <l>ילבלב שוב חורש, ושדות סביב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואנחנו - רק הפעם.</l>
+          <l>ואנחנו - רק הפעם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד יגעו ידיים, נגיעה רכה.</l>
+          <l>שוב ידעו שפתיים, טעם נשיקה.</l>
+          <l>תיכנס בדלת, תכלת ממרחק.</l>
+          <l>יוולד עוד ילד, יבכה ואז יצחק.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואנחנו - רק הפעם.</l>
+          <l>ואנחנו - רק הפעם.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הכוכבים למעלה, דולקים ונצחיים.</l>
+          <l>יום יקום מלילה, אנחנו זמניים.</l>
+          <l>אז שירו את החופש, ריקדו את הקירבה.</l>
+          <l>כל שעה היא קודש, למעשים של אהבה.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כי אנחנו - רק הפעם.</l>
+          <l>כי אנחנו - רק הפעם.</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אין עוד פעם - זאת הפעם.</l>
+          <l>ואנחנו - רק הפעם!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

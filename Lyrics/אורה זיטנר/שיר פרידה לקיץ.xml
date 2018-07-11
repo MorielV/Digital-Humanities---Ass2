@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר פרידה לקיץ</title>
+        <singer classification="female singer">אורה זיטנר</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>סשה ארגוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר פרידה לקיץ</head>
+        <lg number="1" type="stanza">
+          <l>כבר לא האגסים ולא התפוחים</l>
+          <l>ולא השזיפים ולא אבטיחים</l>
+          <l>ולא המישמשים</l>
+          <l>בלירה ושלושים,</l>
+          <l>וסברס על הקרח</l>
+          <l>וקח אחד לדרך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הקיץ הולך לו מחר מחרתיים</l>
+          <l>מוכרח לוותר -</l>
+          <l>בינתיים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כבר לא תריסים סגורים עד ארבע או יותר,</l>
+          <l>ולא מרק פירות מתוך המקרר,</l>
+          <l>ולא טיפת חוצפה</l>
+          <l>לשכב על הרצפה</l>
+          <l>או בתחתונים בלבד,</l>
+          <l>לישון על המרבד.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הקיץ הולך לו מחר מחרתיים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כבר לא מכנס קצר, כבר לא בסנדלים,</l>
+          <l>כבר לא טיול בשרוולים מקופלים,</l>
+          <l>ולא כפתור פתוח,</l>
+          <l>שתכנס הרוח,</l>
+          <l>מלמעלה ומלמטה...</l>
+          <l>ולא שמלה של אתא.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הקיץ הולך לו מחר מחרתיים...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כבר לא זמזום של ממטרה מן החצר</l>
+          <l>ולא כביסה לחה תלויה על הגדר,</l>
+          <l>ולא שעת פטפוט</l>
+          <l>מתחת עץ התות</l>
+          <l>ולהחליף קצת כח</l>
+          <l>בתוך כסא מרגוע.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>הקיץ הולך לו מחר מחרתיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ימים של האהבה</title>
+        <singer classification="male singer">איציק הרוש</singer>
+        <writer>יוני רועה</writer>
+        <composer>איציק הרוש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ימים של האהבה</head>
+        <lg number="1" type="stanza">
+          <l>אני ניצב תוהה, נרגש </l>
+          <l>ומסביב יש המולת עולם </l>
+          <l>יש מלחמות, ישנן גזרות </l>
+          <l>בתוך עולם של הבטחות </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני כואב את הקיים </l>
+          <l>שבו הצדק נעלם </l>
+          <l>אחד חושק, שני עושק </l>
+          <l>ומה נותר עוד באמת </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תן לרקום בחוט זהב </l>
+          <l>עולם אחר אותו אוהב </l>
+          <l>תן ימים של אהבה </l>
+          <l>ימי שלום, ימי שלווה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני סובב, כולי נרגש </l>
+          <l>שבויה נפשי ליום חדש </l>
+          <l>לקול הדרור, ליום של אור </l>
+          <l>לבוא משיח שנזכור </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בלב הומה אשא תפילה </l>
+          <l>לך, אלי, באמונה </l>
+          <l>שעוד נדע את זה היום </l>
+          <l>בשער משאלותיי נחלום </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תן לרקום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

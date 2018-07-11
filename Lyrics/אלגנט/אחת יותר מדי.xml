@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחת יותר מדי</title>
+        <singer classification="band">אלגנט</singer>
+        <writer>אלברט סופר</writer>
+        <composer>אלברט סופר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחת יותר מדי</head>
+        <lg number="1" type="stanza">
+          <l>ידידי - אל נא תטעו בי</l>
+          <l>עיני אוהב עיני</l>
+          <l>אך אללי -</l>
+          <l>ליבי-נחוץ לו טלאי</l>
+          <l>ליבי-נחוץ לו טלאי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש חור בליבי</l>
+          <l>דרכו האהבה בורחת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ידידי - כן היא רצתה בי</l>
+          <l>בגלל מגע שפתי</l>
+          <l>אולי כפות רגלי</l>
+          <l>אך ליבי - נחוץ לו טלאי</l>
+          <l>ליבי - נחוץ לו טלאי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש חור בליבי</l>
+          <l>דרכו האהבה בורחת.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ידידי - פעם ידעתי</l>
+          <l>אחת יותר מדי</l>
+          <l>ומאז התבגרתי</l>
+          <l>וליבי - נחוץ לו טלאי</l>
+          <l>ליבי - נחוץ לו טלאי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יש חור בליבי</l>
+          <l>דרכו האהבה בורחת.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

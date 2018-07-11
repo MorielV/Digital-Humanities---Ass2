@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכנאפה מתוקה</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>אהוד בנאי</writer>
+        <composer>אהוד בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכנאפה מתוקה</head>
+        <lg number="1" type="stanza">
+          <l>מי הולך היום בשוק</l>
+          <l>בסמטאות הצוננות</l>
+          <l>יד ביד עם אהבה ראשונה</l>
+          <l>שיכור מכל הריחות החריפים</l>
+          <l>במורד רחוב הבשמים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בדרך לאנקל מוסטש</l>
+          <l>עולה לדניש טי האוס</l>
+          <l>מתרגל את האנגלית עם הציבור המקומי</l>
+          <l>מעיין חזרה, או אולי הבקרוב</l>
+          <l>של המסע העתידי...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הכנאפה מתוקה</l>
+          <l>יש ריח עדין של קטורת באוויר</l>
+          <l>הכנאפה מתוקה</l>
+          <l>אני זוכר את האור הבהיר</l>
+          <l>עשרים שנה אחר כך</l>
+          <l>לא יראו אותי בעיר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי יושב היום שעות</l>
+          <l>נספג בהוויה</l>
+          <l>עד שכל השוק הזה</l>
+          <l>נראה כמו הזייה</l>
+          <l>קונה קפה ושמן זית</l>
+          <l>נווד ליום אחד</l>
+          <l>שיער עד הכתפיים</l>
+          <l>צו גיוס ביד.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הכנאפה מתוקה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אקסקיוז מי, מבקש המלצר עד תה</l>
+          <l>והוא זז לאט, לא ממהר</l>
+          <l>איש הטמבורים בשער הפרחים</l>
+          <l>קורא לך אל תןך העננים.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>הכנאפה מתוקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

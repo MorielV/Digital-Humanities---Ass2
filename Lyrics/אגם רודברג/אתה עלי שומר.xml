@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתה עלי שומר</title>
+        <singer classification="unknown">אגם רודברג</singer>
+        <writer>עמית צח</writer>
+        <composer>עמית צח</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתה עלי שומר</head>
+        <lg number="1" type="stanza">
+          <l>כבר כמעט שכחתי בעצמי להיזכר</l>
+          <l>וכמעט ויתרתי על הסיכוי שיסתדר</l>
+          <l>ונהיה מאוחר ואני כאן לבד</l>
+          <l>כשבורחים מהכל, לא נשאר אף אחד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואני לא אפחד, אני לא אשבר</l>
+          <l>אתה כאן לידי והכל יסתדר</l>
+          <l>ואני לא אדאג, כי מחר יום אחר</l>
+          <l>כשהעולם עלי סוגר, אתה עלי שומר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כבר כמעט הלכתי, אין למה להישאר</l>
+          <l>הרצון לבית משתק ומסחרר</l>
+          <l>ונהיה מאוחר ואני כאן לבד</l>
+          <l>כשבורחים מהכל, לא נשאר אף אחד.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואני לא אפחד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ולא משנה לי מה כולם אומרים</l>
+          <l>כשהלב פועם בי, אין יותר חוקים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואני לא אפחד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש בי אהבה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש בי אהבה</head>
+        <lg number="1" type="stanza">
+          <l>בין האפל לנסתר</l>
+          <l>בעולמנו המר</l>
+          <l>אומרים שיש עוד תקווה</l>
+          <l>קוראים לזה אהבה</l>
+          <l>ומחכים לבואה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בין האתמול לעתיד</l>
+          <l>בין האוצר לתחתית</l>
+          <l>אומרים שיש עוד תקווה</l>
+          <l>קוראים לזה אהבה</l>
+          <l>ומחכים לבואה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בין הבלבול לאסון</l>
+          <l>תדעו שיש פתרון</l>
+          <l>קוראים לזה אהבה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בין הזיוף לאמת</l>
+          <l>בין כל מה שחי למת</l>
+          <l>ישנה אהבה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש בי אהבה</l>
+          <l>והיא תתעורר ותיגע</l>
+          <l>יש בי אהבה</l>
+          <l>והיא תנצח</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בין השפיות לשינה</l>
+          <l>בין הילדות לזקנה</l>
+          <l>אומרים שיש עוד תקווה</l>
+          <l>קוראים לזה אהבה</l>
+          <l>ומחכים לבואה</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>בין האתמול לעתיד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

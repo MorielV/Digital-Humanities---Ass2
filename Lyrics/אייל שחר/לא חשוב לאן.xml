@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא חשוב לאן</title>
+        <singer classification="male singer">אייל שחר</singer>
+        <writer>אייל שחר</writer>
+        <composer>אייל שחר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא חשוב לאן</head>
+        <lg number="1" type="stanza">
+          <l>מאוחר,</l>
+          <l>שוב מהלך בין קירות ושר</l>
+          <l>היא אמרה שתחזור מחר</l>
+          <l>לא יכול לחכות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והגשם כאן,</l>
+          <l>מתופף על חלון ביתך</l>
+          <l>הוא הגיע מוקדם</l>
+          <l>מחייך ונרדם...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ומכל האנשים תרים ת'ראש תראה אותה</l>
+          <l>כי לה תמיד היה את הברק שבעיניים</l>
+          <l>ובסוף מאושר ומוכן לקחת אותה איתך</l>
+          <l>לא חשוב לאן</l>
+          <l>ומכל האנשים תרים ת'ראש תראה אותה</l>
+          <l>כי לה תמיד היה את הברק שבעיניים</l>
+          <l>ובסוף מאושר ומוכן לקחת אותה איתך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מאוהב,</l>
+          <l>קח אותה איתך אל הים</l>
+          <l>קום תיסע ותראה עולם</l>
+          <l>רק שלא תעצור</l>
+          <l>היא תוביל אותך,</l>
+          <l>כמו הנר שבחשיכה</l>
+          <l>מסונוור כדי לראות</l>
+          <l>ונותן לה הכל</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ומכל האנשים תרים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

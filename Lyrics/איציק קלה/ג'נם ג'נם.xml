@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ג נם ג נם</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ג'נם ג'נם</head>
+        <lg number="1" type="stanza">
+          <l>כשהייתי נער התאהבתי בך</l>
+          <l>לא פתחת לי שער כשקראתי לך</l>
+          <l>לא שמעתי פעם אף מילה טובה</l>
+          <l>לחיי אין טעם אין לי אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תמיד איתי ג'נם ג'נם את בתוכי</l>
+          <l>בנישמתי ג'נם ג'נם בנישמתי</l>
+          <l>בתוך ליבי ג'נם ג'נם</l>
+          <l>בתוך ליבי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מעלי אור סהר את דרגי יאיר</l>
+          <l>העבור גם יער כל מיכשול הסיר</l>
+          <l>כל ימיי הם צער אמרי לי עד מתי</l>
+          <l>אך מה רע באהבה את שמחת חיי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תמיד איתי ג'נם ג'נם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

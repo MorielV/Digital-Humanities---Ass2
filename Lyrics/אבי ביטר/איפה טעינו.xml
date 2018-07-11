@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איפה טעינו</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איפה טעינו</head>
+        <lg number="1" type="stanza">
+          <l>לחיוך שלה מתגעגע</l>
+          <l>רק איתה הייתי מאושר</l>
+          <l>את חיי נתתי לידיה</l>
+          <l>עד שיום אחד הכל נגמר</l>
+          <l>זה נגמר ולא הבננו</l>
+          <l>זה נגמר שעוד אהבנו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא היית יפה ממנה</l>
+          <l>היא עזבה והיא איננה</l>
+          <l>זה לזו הכל היינו</l>
+          <l>אלוקים איפה טעינו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהבה גדולה היית ביננו</l>
+          <l>ונדמה היה שזה חלום</l>
+          <l>החלום עבר לו ואיננו</l>
+          <l>ונפרדנו בלי לומר שלום</l>
+          <l>זה נגמר ולא הבננו</l>
+          <l>זה נגמר שעוד אהבנו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא היית יפה ממנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלעדייך 2</title>
+        <singer classification="male singer">איציק שמלי</singer>
+        <writer>חגי מזרחי</writer>
+        <composer>חגי מזרחי</composer>
+        <album>סיפור אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלעדייך</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>כשאת פתאום הלכת בכיתי כל הלילה</l>
+          <l>נשארתי בלי שום דבר</l>
+          <l>אני ניסיתי רק לשמור עלינו יחד</l>
+          <l>חלמתי על אהבה ואיך זה נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יום שני את לא עונה את לא שומעת</l>
+          <l>אני מתקשר כל יום</l>
+          <l>חשבתי לעצמי אם רק היית יודעת </l>
+          <l>כמה קשה לי לנשום</l>
+          <l>ואיך זה נגמר, חלום שנשבר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואיך זה נגמר, אני בלעדייך</l>
+          <l>אני לא יכול לחיות לבד פה בלעדייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חיפשתי אהבה בכל פינה בלילה</l>
+          <l>חזרתי לישון לבד</l>
+          <l>כל כך הרבה דברים אני רוצה לומר לך</l>
+          <l>הבטחת שנאהב לעד</l>
+          <l>ואיך זה נגמר, חלום שנשבר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואיך זה נגמר...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אנשים מתקשרים אלי</l>
+          <l>שואלים אותי עלייך</l>
+          <l>אין לי מה להגיד</l>
+          <l>מעניין מה קורה איתך</l>
+          <l>מי נמצא איתך בבית</l>
+          <l>מי אוהב אותך</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>ואיך זה נגמר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

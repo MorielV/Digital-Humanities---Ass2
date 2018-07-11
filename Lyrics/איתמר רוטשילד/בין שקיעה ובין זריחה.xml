@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בין שקיעה ובין זריחה</title>
+        <singer classification="unknown">איתמר רוטשילד</singer>
+        <writer>נעם רותם</writer>
+        <composer>נעם רותם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בין שקיעה ובין זריחה</head>
+        <lg number="1" type="stanza">
+          <l>צל נופל על המרפסת, עשבים שוטים בגן</l>
+          <l>יש לטאה שמטפסת על קיר קלוף, כיסא ישן</l>
+          <l>והרוח שנכנסת לא נותנת מנוחה</l>
+          <l>יש מחסור גדול בחסד בין שקיעה ובין זריחה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רכב אחרון נוסע אל אמהות וילדים</l>
+          <l>בחצות אני שומע את נשמות האבודים</l>
+          <l>טל נוגע לא נוגע ומרטיב את השמיכה</l>
+          <l>כמה זמן יש מי יודע בין שקיעה ובין זריחה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המילים שלא אמרתי התפרקו לאותיות</l>
+          <l>בדרכים שלי הלכתי, הן לא היו אמיתיות</l>
+          <l>כשאני מביט למטה ורואה רק חשכה</l>
+          <l>מותק תחזרי הביתה בין שקיעה לבין זריחה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

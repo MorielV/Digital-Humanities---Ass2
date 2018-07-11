@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>להקיץ ולדעת</title>
+        <singer classification="female singer">אתי אנקרי</singer>
+        <writer>רחל</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>להקיץ ולדעת</head>
+        <lg number="1" type="stanza">
+          <l>להקיץ ולדעת: חלום הבעיתני,</l>
+          <l>רק חלום הוא - יראתי בכדי,</l>
+          <l>ושנית, כאתמול, להביט בעיניך</l>
+          <l>ולחוש את ידך בידי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא הכלמנו הכלם את חמדת נעורינו, </l>
+          <l>בעבר לא בגדנו בגוד,</l>
+          <l>ושמשה הנדיב של כנרת אמנו</l>
+          <l>לא שקע ומיטיב לנו עוד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כאתמול וכאז מקשרנו עדיין</l>
+          <l>זה החוט הטמיר-האמיץ</l>
+          <l>רק חלום בלהות הוא אשר הבעיתני</l>
+          <l>הה אלי! להקיץ - להקיץ -</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

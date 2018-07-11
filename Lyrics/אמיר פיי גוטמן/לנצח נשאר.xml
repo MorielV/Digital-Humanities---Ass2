@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לנצח נשאר</title>
+        <singer classification="male singer">אמיר פיי גוטמן</singer>
+        <writer>אמיר פיי גוטמן</writer>
+        <composer>נועה ברנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לנצח נשאר</head>
+        <lg number="1" type="stanza">
+          <l>יש ימים מהמציאות בא לך כל כך לברוח </l>
+          <l>עם עצמי עושה תחרות מתמכר לסכנה </l>
+          <l>לא מקשיב לקול הפחדים הם עוצרים אותי בדרך </l>
+          <l>תמיד קמים אחרי שנופלים ותמיד יש עוד תקווה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בעיניים שלך זו פנטזיה מטורפת </l>
+          <l>בעיניים שלי זה ניצחון על מה שאי אפשר </l>
+          <l>גם אחרי שתלך לנצח משהו ממך נשאר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תתן לזמן לעבור בלי לראות לתוך הנפש </l>
+          <l>מה באמת חשוב בחיים כדי שיהיה לך אותך </l>
+          <l>חלומות שלא יתגשמו יעצרו אותך בדרך </l>
+          <l>ופתאום כמה שאפשר תן לך את עצמך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בעיניים שלך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אין מחיר לחופש </l>
+          <l>אין מחיר לאושר </l>
+          <l>אין לאהבה </l>
+          <l>ואין ללי לראות מה שחלמת להיות </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בעיניים שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

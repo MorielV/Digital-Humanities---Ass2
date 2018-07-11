@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Happy birthday</title>
+        <singer classification="unknown">אורית אסף</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Happy birthday</head>
+        <lg number="1" type="stanza">
+          <l>שנה נוספת כבר נודדת</l>
+          <l>ומהיין לא נפסיק למזוג</l>
+          <l>כי היום יש יום הולדת</l>
+          <l>בואו יחד ונחגוג</l>
+          <l>נשתה לחיים כוס של יין</l>
+          <l>ונפזר נשיקות באוויר</l>
+          <l>בשמחה עד סוף הליל</l>
+          <l>מהלב יחדיו נשיר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Happy Birthday to You My Love</l>
+          <l>לכבודינו יאיר כוכב</l>
+          <l>את כל משאלות ליבנו</l>
+          <l>הוא יגשים אם רק נאהב</l>
+          <l>Happy Birthday to You My Darling</l>
+          <l>השמיים גם מברכים</l>
+          <l>את היום הזה שלנו</l>
+          <l>הם ודאי לא שוכחים</l>
+          <l>Happy Birthday to You</l>
+          <l>Happy Birthday La La La La</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ועוד תקווה יש בתוכנו</l>
+          <l>שלא נפסיק עוד להנות בעתיד</l>
+          <l>והצחוק שבעינינו</l>
+          <l>כן ימשיך, ימשיך תמיד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>Happy Birthday to You My Love...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

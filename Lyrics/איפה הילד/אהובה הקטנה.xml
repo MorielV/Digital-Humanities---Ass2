@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהובה הקטנה</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>אופיר בר עמי</writer>
+        <composer>אופיר בר עמי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהובה הקטנה</head>
+        <lg number="1" type="stanza">
+          <l>מגרש משחקים הרבה ילדים,</l>
+          <l>כולם משתוללים זה כייף לא נורמלי,</l>
+          <l>מחוץ למעגל מתחת לעץ,</l>
+          <l>יושבת ילדה ובוהה לעברם,</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לכולם יש מלאך ששומר עליהם,</l>
+          <l>את כולם הוא אוהב ואותך הוא לא,</l>
+          <l>אהובה הקטנה נשארה לבדה,</l>
+          <l>עם שם שכזה לך תמצא,</l>
+          <l>צחוק הגורל מהדהד בראשה הקטן,</l>
+          <l>של אהובה, אהובה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוקדים במעגל משחק או פולחן,</l>
+          <l>ארור מי שנופל הוא קורבן האומלל,</l>
+          <l>עכשיו היא מתפלשת בעפר</l>
+          <l>ומתפללת שתבלע אותה האדמה,</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לכולם יש...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואם היה לי חבר, הייתי מאושרת,</l>
+          <l>אם אתה אוהב אותי, תעשה איתי רק חסד,</l>
+          <l>תחבק אותי חזק עד שאחנק,</l>
+          <l>אהובה הקטנה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

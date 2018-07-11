@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ליאורה</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אבי טולדנו</writer>
+        <composer>שמרית אור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ליאורה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אם אין אני,</l>
+          <l>אם אין אני, מי לך </l>
+          <l>בעולם</l>
+          <l>אם אין אני,</l>
+          <l>אם אין אני מי לך</l>
+          <l>מכולם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הרי אני </l>
+          <l>עוד כואב, עוד רודף - את צלך</l>
+          <l>וכל כולי, עוד אוהב</l>
+          <l>עם דמותך, מהלך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תני לי, תני לי</l>
+          <l>למצוא את עצמי אולי</l>
+          <l>מחדש מחדש</l>
+          <l>תני לי, תני לי</l>
+          <l>לאסוף אותך אלי - מחדש</l>
+          <l>לנסות ולגלות</l>
+          <l>מהתחלה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם אין אני...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הרי אני </l>
+          <l>עוד חובק, עוד נושק - את צלך</l>
+          <l>וכל כולי</l>
+          <l>עוד אוהב, עוד רוצה</l>
+          <l>את כולך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הרי אני</l>
+          <l>עוד כואב, עוד רודף - את צלך</l>
+          <l>וכל כולי, עוד אוהב</l>
+          <l>עם דמותך מהלך</l>
+          <l>אם אין אני , מי לך </l>
+          <l>בעולם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

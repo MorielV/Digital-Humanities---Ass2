@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מזכרת</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>מאור כהן</writer>
+        <composer>מאור כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מזכרת</head>
+        <lg number="1" type="stanza">
+          <l>תמיד כיף לדעת שאת </l>
+          <l>חושבת לפעמים על משפט </l>
+          <l>שתוכלי להגיד לי היום </l>
+          <l>ויגרום לי בלילה לחלום </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ויש לך אהבה בשבילי </l>
+          <l>לא בבת אחת את תתני</l>
+          <l>כל יום רוצה מזה רק מעט </l>
+          <l>שיספיק לי תמיד ולאט </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי את שומרת למזכרת</l>
+          <l>את האהבה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בעדינות את מנסה לגלות </l>
+          <l>אם ניסיתי לאהוב אחרות </l>
+          <l>וגם אם נדמה לך שכן </l>
+          <l>את יודעת שזה לא ייתכן </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כי את שומרת למזכרת </l>
+          <l>את האהבה </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כי את שומרת ממסגרת</l>
+          <l>את האהבה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

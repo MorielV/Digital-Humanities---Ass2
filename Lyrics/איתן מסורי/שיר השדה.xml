@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר השדה</title>
+        <singer classification="male singer">איתן מסורי</singer>
+        <writer>עמיאל</writer>
+        <composer>דוד זהבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר השדה</head>
+        <lg number="1" type="stanza">
+          <l>על שדנו רד הערב,</l>
+          <l>עלטה על ניר וגן,</l>
+          <l>ובתלם רך הנבט,</l>
+          <l>עוד צומח הדגן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מי יגן על טף שדנו,</l>
+          <l>את לחמנו מי ינצור?</l>
+          <l>כנף הליל - מישמר לבוקר,</l>
+          <l>החלום - מיפתן לאור!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נומה, ניר עמל כפנו,</l>
+          <l>צפון הזרע - עד יגדל.</l>
+          <l>יום יבוא - תנוב בשפע,</l>
+          <l>הברכה תרד מעל.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ים של פז תהי שיבולת,</l>
+          <l>גל שוקק ביום קציר.</l>
+          <l>נומה ניר, בחיק הערב</l>
+          <l>עד יונף מגל בשיר.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני נוכרי</title>
+        <singer classification="male singer">אוריאל שלומי</singer>
+        <writer>עממי</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני נוכרי</head>
+        <lg number="1" type="stanza">
+          <l>אני נוכרי מסכן על דרך</l>
+          <l>עובר בתוך עולם של דווי</l>
+          <l>אין חולי אין מכאוב ופרך</l>
+          <l>בדרך בה אשא רגלי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני הולך לראות את אמא</l>
+          <l>אשוב ולא אוסיף לנדוד</l>
+          <l>את הירדן דרכי עוברת</l>
+          <l>רק את ביתי ארצה לראות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

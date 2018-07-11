@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמר נוגה</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>רחל</writer>
+        <composer>שמוליק קראוס</composer>
+        <album>אסתר עופרים בהיכל התרבות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמר נוגה</head>
+        <lg number="1" type="stanza">
+          <l>הֲתִשְׁמַע קוֹלִי, רְחוֹקִי שֶׁלִּי, </l>
+          <l>הֲתִשְׁמַע קוֹלִי, בַּאֲשֶׁר הִנְּךָ – </l>
+          <l>קוֹל קוֹרֵא בְּעֹז, קוֹל בּוֹכֶה בִּדְמִי </l>
+          <l>וּמֵעַל לַזְּמַן מְצַוֶּה בְּרָכָה? </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תֵּבֵל זוֹ רַבָּה וּדְרָכִים בָּה רָב. </l>
+          <l>נִפְגָּשׁוֹת לְדַק, נִפְרָדוֹת לָעַד. </l>
+          <l>מְבַקֵּשׁ אָדָם, אַךְ כּוֹשְׁלוֹת רַגְלָיו, </l>
+          <l>לֹא יוּכַל לִמְצֹא אֶת אֲשֶׁר אָבַד. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אַחֲרוֹן יָמַי כְּבָר קָרוֹב אוּלַי, </l>
+          <l>כְּבָר קָרוֹב הַיּוֹם שֶׁל דִּמְעוֹת פְּרִידָה, </l>
+          <l>אֲחַכֶּה לְךָ עַד יִכְבּוּ חַיַּי, </l>
+          <l>כְּחַכּוֹת רָחֵל לְדוֹדָהּ.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

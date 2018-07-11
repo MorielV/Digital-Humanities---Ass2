@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכדור האחרון</title>
+        <singer classification="band">אנרגיה חולנית</singer>
+        <writer>אריה פיין</writer>
+        <composer>אורטויה לאדנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכדור האחרון</head>
+        <lg number="1" type="stanza">
+          <l>היא לבשה צעיף לבן,</l>
+          <l>ועגיל זכוכית קטן</l>
+          <l>כשנצמדנו סוף כל סוף</l>
+          <l>היא החליטה לעזוב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חורף קר ברחובות</l>
+          <l>אנשים גשומים מאוד</l>
+          <l>זיכרון מתוק נרדם</l>
+          <l>מחשבות רעות מתעוררות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עוד כדור אחד נשאר לי,</l>
+          <l>אין לי תחושה</l>
+          <l>עוד כדור אחד נשאר לי,</l>
+          <l>בחירה קשה</l>
+          <l>או לבעוט בו או לבלוע,</l>
+          <l>ליירט את המנוע</l>
+          <l>עוד כדור אחד נשאר, עוד כדור אחד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עפנו יחד חופשיים,</l>
+          <l>היא חיפשה רק שינויים</l>
+          <l>אהבה חיפושיות</l>
+          <l>טוויסט אחד רקדה שעות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מיץ לימון בכוס חלב</l>
+          <l>רוח לא שינתה מצב</l>
+          <l>אין סוף טוב לאגדות</l>
+          <l>מחשבות רעות מתעוררות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עוד כדור אחד נשאר לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

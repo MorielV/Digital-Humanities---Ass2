@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קחי אותי 3</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>אלונה קמחי</writer>
+        <composer>הנרי ברטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קחי אותי</head>
+        <lg number="1" type="stanza">
+          <l>מתקרב הזמן, בו אהיה מוכן,</l>
+          <l>להתחיל מחדש ואולי...</l>
+          <l>זה עניין נלמד, להתעורר לבד,</l>
+          <l>אך לפעמים זה גדול גם עלי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואני מודה שכבר לא אהיה,</l>
+          <l>מי שפעם חלמתי להיות.</l>
+          <l>ואם בנפשי לא אהיה חופשי,</l>
+          <l>אז נאמן לעצמי לפחות.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קחי אותי מאלפי שקרים,</l>
+          <l>מתשוקות כוזבות, מנבכי עצמי.</l>
+          <l>מקרבות בהם, אני מזמן, חסר אונים.</l>
+          <l>קחי אותי, ממשחק אבוד.</l>
+          <l>את רואה, אני כולי שלך.</l>
+          <l>מתמסר, עיוור, ועכשיו פשוט אוהב אותך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ברחובות כבר סתיו, ורוצה עכשיו,</l>
+          <l>את הראש על ברכייך לשים.</l>
+          <l>כי העיר הזאת, שכולה ענן,</l>
+          <l>משאירה אותי על הקרשים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>קחי אותי מאלפי שקרים...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כן אז בואי קחי אותי מאלפי שקרים</l>
+          <l>מתשוקות כוזבות, מנבכי עצמי.</l>
+          <l>מקרבות בהם אני מזמן חסר אונים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מותק 3</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מותק</head>
+        <lg number="1" type="stanza">
+          <l>תלך אל התשוקה ברחוב הלהט בפינת הלוחשים</l>
+          <l>ושם תלחש לאוזן דמיונית כמו הנשר גם אתה</l>
+          <l>אורב מתחשבן בזמן </l>
+          <l>רעב מחפש קורבן</l>
+          <l>היא צוחקת כשאתה שואל - לאן ?</l>
+          <l>צוחקת מבינה את העניין</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מותק זה אתה שתחליט אם יהיה לך טוב או אם רע</l>
+          <l>מותק מצדי אעשה את כול מה שאפשר בשבילך</l>
+          <l>כך היא אמרה - חזרה ואמרה</l>
+          <l>אם תהיה נאמן לי אתן את חיי בשבילך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אחרי סיבוב בסמטאות של דמיונך חזור אלי</l>
+          <l>חזור הביתה אמיתי גם הנשר שב לקן</l>
+          <l>חוזר רק תבוא בזמן</l>
+          <l>שחרר אני לא קורבן</l>
+          <l>היא צוחקת כשאתה אומר - מובן</l>
+          <l>צוחקת כך אמרת כול הזמן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מותק זה אתה שתחליט אם יהיה לך טוב או אם רע</l>
+          <l>מותק מצדי אעשה את כול מה שאפשר בשבילך</l>
+          <l>כך היא אמרה - חזרה ואמרה </l>
+          <l>אם תהיה נאמן לי אתן את חיי בשבילך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

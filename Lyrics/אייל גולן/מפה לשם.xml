@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מפה לשם</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>עממי ערבי</composer>
+        <album>זר כיסופים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מפה לשם</head>
+        <lg number="1" type="stanza">
+          <l>הימים כל כך יפים ואנחנו אוהבים</l>
+          <l>בחיוך קטן שלך את עולמי כבשת</l>
+          <l>היינו ממש כמו זוג יונים</l>
+          <l>כמו הים אל הגלים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לכל אדם יש בעולם דבר אחד פשוט מושלם</l>
+          <l>זו אהבת עולם</l>
+          <l>זו מתנה מאלוקים, מיום נועדנו לחיים</l>
+          <l>האל נתן לי אותך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מפה לשם שואל היכן, לאן הלכה לה יפתי?</l>
+          <l>מסתובב לי לא יודע איך פתאום חרב לו עולמי?</l>
+          <l>עם הרוח בואי נשמתי, יוצא אלייך ליבי</l>
+          <l>למה כך לבד אני?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מפה לשם שואל היכן, לאן הלכה לה יפתי?</l>
+          <l>מסתובב לי לא יודע איך פתאום חרב לו עולמי?</l>
+          <l>עם הרוח בואי נשמתי, יוצא אלייך ליבי</l>
+          <l>למה כך אהובתי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הימים לי לא עוברים, הלילות כל כך קרים</l>
+          <l>נעלמת בלי סיבה, היכן את אהובה</l>
+          <l>לא מבין איך זה קרה</l>
+          <l>איך ידך ביד אחר שלובה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מפה לשם שואל היכן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

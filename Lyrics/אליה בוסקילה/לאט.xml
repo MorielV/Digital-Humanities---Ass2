@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לאט 4</title>
+        <singer classification="unknown">אליה בוסקילה</singer>
+        <writer>אליה בוסקילה</writer>
+        <composer>אליה בוסקילה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לאט</head>
+        <lg number="1" type="stanza">
+          <l>בוא נדבר על הכל, אני נוסעת</l>
+          <l>מילים שמזמן נאמרו אני בולעת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מנסה להסתדר עם הטעם הקיים</l>
+          <l>מתישהוא תאמר לי את</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ורק אתה מוותר עלי לאט</l>
+          <l>מוותר עלי לאט</l>
+          <l>שירים שקטים מכים מכים בקצב אחריי</l>
+          <l>מוותר עלי לאט</l>
+          <l>מוותר עלי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כוחות שמזמן נאספו בשבילך</l>
+          <l>היום מסתכמים בשתיקה מביכה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מנסה להסתדר עם הטעם הקיים</l>
+          <l>מתישהוא תאמר לי את</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ורק אתה מוותר עלי לאט</l>
+          <l>מוותר עלי לאט </l>
+          <l>שירים שקטים מכים מכים בקצב אחריי</l>
+          <l>מוותר עלי לאט</l>
+          <l>מוותר עלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

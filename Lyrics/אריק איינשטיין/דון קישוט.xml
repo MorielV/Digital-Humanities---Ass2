@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דון קישוט</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דון קישוט</head>
+        <lg number="1" type="stanza">
+          <l>תשים את השיריון בתוך תיבה</l>
+          <l>כבר לא מתים יותר מאהבה</l>
+          <l>לדולצינאה יש שיער שיבה</l>
+          <l>וכל הגיבורים הלכו אל הצבא</l>
+          <l>לדולצינאה יש שיער שיבה</l>
+          <l>וכל הגיבורים הלכו אל הצבא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>דון קישוט אתה יכול לנוח</l>
+          <l>יש כל כך הרבה טחנות רוח</l>
+          <l>אתה לא תספיק אתה לא תספיק</l>
+          <l>אתה לא תספיק דון קישוט</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תשתול כמה חבצלות בגן</l>
+          <l>ותשלם את המיסים בזמן</l>
+          <l>המלך מת ועל כתרו נפל</l>
+          <l>וכל המלחמות עכשיו זה על חשמל</l>
+          <l>המלך מת ועל כתרו נפל</l>
+          <l>וכל המלחמות עכשיו זה על חשמל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דון קישוט אתה יכול לנוח...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>סנשו פנשו לדרכו הלך</l>
+          <l>וכל האבירים קנו אקדח</l>
+          <l>תהיה רגיל ואל תהיה גיבור</l>
+          <l>כי אם תתחיל לשבור לא תוכל לגמור</l>
+          <l>תהיה רגיל ואל תהיה גיבור</l>
+          <l>כי אם תתחיל לשבור לא תוכל לגמור</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>דון קישוט אתה יכול לנוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

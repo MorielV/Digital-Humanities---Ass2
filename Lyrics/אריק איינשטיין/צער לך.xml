@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צער לך</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אברהם חלפי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צער לך</head>
+        <lg number="1" type="stanza">
+          <l>צער לך וצער לי,</l>
+          <l>על כך מעידות העיניים.</l>
+          <l>בואי, אישה, ביום זה אוילי</l>
+          <l>לארוחת צעריים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נשב, נשוחח על דא ועל הא,</l>
+          <l>על אי השוקע במים,</l>
+          <l>על אבינו אדם, על אמנו חוה,</l>
+          <l>ועל מלאכים בשמים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואם מלאכים לא היו ואינם,</l>
+          <l>נשוב נדבר על חוה ואדם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

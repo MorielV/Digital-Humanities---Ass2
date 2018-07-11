@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גשם יורד</title>
+        <singer classification="male singer">אשר ביטנסקי</singer>
+        <writer>יהודה עמיחי</writer>
+        <composer>אשר ביטנסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גשם יורד</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>גשם יורד על פני רעי</l>
+          <l>על פני רעי החיים</l>
+          <l>אשר מכסים ראשיהם בשמיכה</l>
+          <l>ועל פני רעי המתים</l>
+          <l>אשר אינם מכסים עוד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גשם יורד על פני רעי</l>
+          <l>על פני רעי החיים</l>
+          <l>אשר מכסים ראשיהם בשמיכה</l>
+          <l>ועל פני רעי המתים</l>
+          <l>אשר אינם מכסים עוד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גשם יורד על פני רעי</l>
+          <l>גשם יורד על פני רעי החיים</l>
+          <l>גשם יורד על פני רעי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

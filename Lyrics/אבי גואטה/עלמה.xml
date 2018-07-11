@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עלמה</title>
+        <singer classification="unknown">אבי גואטה</singer>
+        <writer>אבי גואטה</writer>
+        <composer>אבי גואטה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עלמה</head>
+        <lg number="1" type="stanza">
+          <l>מסתכל לך בעיניים רואה אותך בוכה </l>
+          <l>עינייך אדומות זה לא מאהבה </l>
+          <l>מסתכל אל תוך פנייך רואה את עצובה</l>
+          <l>את הולכת מיוסרת לבד ובודדה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>על מה יושבת ובוכה</l>
+          <l>על מה את פגועה מאהבה</l>
+          <l>על מה נתתי כבר הכל</l>
+          <l>על מה אני צריך לסבול</l>
+          <l>אני הגבר שבוכה בסתר</l>
+          <l>אני האיש שתכאב מרגיש</l>
+          <l>שתי עינייך מספרות הכל</l>
+          <l>מתחנן ילדתי אל תתני לי לסבול</l>
+          <l>שתי עינייך מספרות הכל</l>
+          <l>מתחנן ילדתי אל תתני לי לסבול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוזב אותך אמצא אחרת שאותי תאהב </l>
+          <l>לא אפול בהרגשה כי זה רק יכאב</l>
+          <l>יסורי האהבה לא מותירים תקווה</l>
+          <l>אני נותר מובס בזאת המערכה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>על מה יושבת ובוכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

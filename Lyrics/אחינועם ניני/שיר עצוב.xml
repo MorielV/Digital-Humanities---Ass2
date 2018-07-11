@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר עצוב 2</title>
+        <singer classification="female singer">אחינועם ניני</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>רבקה גוילי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר עצוב</head>
+        <lg number="1" type="stanza">
+          <l>לענת יש שערות שחורות שחורות</l>
+          <l>כמו לאמא</l>
+          <l>ויש לה עיניים חומות מאירות</l>
+          <l>וצחוק מתגלגל בהמון חצרות</l>
+          <l>כמו לאמא.</l>
+          <l>לענת - לפעמים - יש על לחי דמעות</l>
+          <l>כמו של אמא.</l>
+          <l>ואלפי סיפורים, אגדות ושירים</l>
+          <l>כמו לאמא,</l>
+          <l>מילים של שמחה, חברות, חברים,</l>
+          <l>כמו לאמא.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אך לכל הילדים יש אימהות,</l>
+          <l>ורק לענת</l>
+          <l>אין אמא.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

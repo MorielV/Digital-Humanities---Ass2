@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אוצר ללא מפה</title>
+        <singer classification="unknown">איתמר מאירי</singer>
+        <writer>רועי מולד</writer>
+        <composer>איתמר מאירי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אוצר ללא מפה</head>
+        <lg number="1" type="stanza">
+          <l>חוט מאוד דק עובר ביני לעולמך </l>
+          <l>אולי יגיע לבקר </l>
+          <l>בבוקר או בערב או מתי שאמצא דרך </l>
+          <l>שאוכל בנוח להישאר </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רכבות הרים בלילה מובילות אותי לשם</l>
+          <l>ואני עומד מסתכל על העולם </l>
+          <l>לאן זה הולך? ומה מכאן?</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>היא כמו אוצר ללא מפה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>המשכנו אז ללכת בחיפוש המתמשך </l>
+          <l>שנראה לי כמו נצח מבקש להתיישב </l>
+          <l>הדליקי אור בחדר שאמצא את חלונך </l>
+          <l>ככה סתם בגשם לא נעים להירטב </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>פתחי לי את הדלת והראי לי את חדרך </l>
+          <l>משם הכל נראה הרבה יותר יפה </l>
+          <l>לאן זה מוביל עכשיו? לאן אלך?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>היא כמו אוצר ללא מפה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אז מה לעשות שהזמן לא עובר?</l>
+          <l>אני מחכה שאתפוס במקרה </l>
+          <l>מתי זה יקרה? אם זה יקרה?</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>היא כמו אוצר ללא מפה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

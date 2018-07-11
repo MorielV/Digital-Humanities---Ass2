@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סולם יעקב</title>
+        <singer classification="band">אל תקרא לי שחור</singer>
+        <writer>דן אלמגור</writer>
+        <composer>בני נגרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סולם יעקב</head>
+        <lg number="1" type="stanza">
+          <l>ויעצום יעקב את עיניו</l>
+          <l>בשדה הרחב</l>
+          <l>והנה סולם מוצב</l>
+          <l>וראשו בשמיים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ומלאכי אלוהים</l>
+          <l>יורדים ועולים,</l>
+          <l>עולים ויורדים,</l>
+          <l>יורדים ועולים בסולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ומלאכי אלוהים</l>
+          <l>שחורים ולבנים,</l>
+          <l>יורדים ועולים,</l>
+          <l>עולים ויורדים בסולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אלה שחורים</l>
+          <l>ואלה לבנים</l>
+          <l>אלה יורדים</l>
+          <l>ואלה עולים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ומלאכי אלוהים כולם</l>
+          <l>והם יורדים ועולים,</l>
+          <l>עולים ויורדים,</l>
+          <l>יורדים ועולים בסולם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

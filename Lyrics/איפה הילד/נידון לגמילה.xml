@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נידון לגמילה</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נידון לגמילה</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים רק טונה חוש הומור </l>
+          <l>תפקח לך עפעף לבוקר אור </l>
+          <l>שב בשקט אל תדאג תרגיע </l>
+          <l>החיים הם קצת חלטורה </l>
+          <l>בין אלתור טוב לאלתור רע </l>
+          <l>בן אדם הוא מתכננן לו תוכניות </l>
+          <l>ואז פתאום באות החדשות </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לפעמים אתה לא כזה חשוב </l>
+          <l>משטרה האופנה בעוד סיבוב </l>
+          <l>ועוצרים אותך על שוטטות </l>
+          <l>אתה רוצה אל הירח </l>
+          <l>ליילל אתה צורח </l>
+          <l>אבל אתה לא נושא תעודת זהות </l>
+          <l>ומצדם אתה יכול למות </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עלו כבר על זנבך </l>
+          <l>חשפו את פרצופך </l>
+          <l>אתה זה לא אתה </l>
+          <l>אתה צריך גמילה </l>
+          <l>אמרתי לא לא לא לא לא </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>החיים הם פרוורים של סתם </l>
+          <l>קצת ניו ג'רזי קצת חולון בת-ים </l>
+          <l>ולכבודם נשיר ת'הללויה </l>
+          <l>הללויה לחלטורה </l>
+          <l>הללויה לאלתור רע </l>
+          <l>זה אתה עם עצמך הולך מכות </l>
+          <l>ואתה עם עצמך צריך לחיות </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עלו כבר על זנבך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

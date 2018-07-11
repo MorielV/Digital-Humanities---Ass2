@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פרחי צבר</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>שמוליק רוזן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פרחי צבר</head>
+        <lg number="1" type="stanza">
+          <l>אלה שאמרנו הם לא מחונכים </l>
+          <l>אלה שצחקו פה לכל הערכים </l>
+          <l>אלה שברחו מכל פראזה ציונית </l>
+          <l>אלה שרדפו כל שמלה פרחונית </l>
+          <l>אלה שהלכו עם ידיים בכיסים </l>
+          <l>אלה שכפרו פה בכל הניסים </l>
+          <l>הנה הם, הנה הם, הנה הם </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הנה הם עולים </l>
+          <l>ממדבר וגדה </l>
+          <l>הנה הם עולים </l>
+          <l>כסיפור אגדה </l>
+          <l>הנה הם שבים </l>
+          <l>מרמה ומדבר </l>
+          <l>הנה הם </l>
+          <l>הינם פרחי הצבר </l>
+          <l>הצבר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אלה שאמרנו בקול כה נעצב </l>
+          <l>איזה דור אבוד, דור גיטרה ומקצב </l>
+          <l>איזה מין תלבושת ואיזה מין שיער </l>
+          <l>איזה דור קשה בלי אתמול ובלי מחר </l>
+          <l>אלה שאמרנו "כשהיינו בגילם </l>
+          <l>איזה טוב נפלא פה היינו בעולם" </l>
+          <l>הנה הם, הנה הם, הנה הם </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הנה הם עולים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך את עושה את זה</title>
+        <singer classification="unknown">אופיר לובל</singer>
+        <writer>טל לוי</writer>
+        <composer>אופיר לובל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך את עושה את זה</head>
+        <lg number="1" type="stanza">
+          <l>ואיך את עושה את זה</l>
+          <l>איך תשאירי מאחור</l>
+          <l>אולי פשוט כדאי לך להבין </l>
+          <l>ששום דבר לא בעיה לפתור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך את עושה את זה</l>
+          <l>איך תשני את העולם</l>
+          <l>אולי פשוט כדאי לך להבין</l>
+          <l>שאת הכי טובה מכולם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תקומי עם חיוך קורן</l>
+          <l>תביטי מסביב</l>
+          <l>בסך הכל העולם הזה הוא בסדר</l>
+          <l>ואפילו די חביב, די חביב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז איך את עושה את זה</l>
+          <l>איך תעמדי אל מול הזול</l>
+          <l>אולי פשוט כדאי לך להבין</l>
+          <l>שאת שווה יותר מהכל</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואיך את עושה את זה</l>
+          <l>איך תתעלמי מכל הקוהל</l>
+          <l>אולי פשוט כדאי לך להבין</l>
+          <l>שאת תמיד תלכי לפי הנוהל</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תקומי עם חיוך קורן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

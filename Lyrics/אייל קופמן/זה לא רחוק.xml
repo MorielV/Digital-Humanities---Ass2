@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה לא רחוק</title>
+        <singer classification="male singer">אייל קופמן</singer>
+        <writer>אייל קופמן</writer>
+        <composer>אייל קופמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה לא רחוק</head>
+        <lg number="1" type="stanza">
+          <l>תפתחי ת'חלונות </l>
+          <l>אני רוצה את הרוח </l>
+          <l>תפתחי לי את הלב </l>
+          <l>אני רוצה עכשיו לרוץ </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תפתחי את הדלתות </l>
+          <l>אני רוצה לברוח </l>
+          <l>רק תסתירי </l>
+          <l>תסתירי את עצמך </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה לא רחוק, זה לא רחוק </l>
+          <l>תנשכי את השפתיים </l>
+          <l>זה לא רחוק </l>
+          <l>אני יכול עכשיו </l>
+          <l>לראות את החופש </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תנתקי את הזכוכית </l>
+          <l>שתקועה עמוק בבטן </l>
+          <l>תשרטי לי את הגב </l>
+          <l>תפתחי את הכפתור </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תפתחי ת'חלונות </l>
+          <l>אני רוצה את הרוח </l>
+          <l>את הלב את הלב </l>
+          <l>אני רוצה אותך </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה לא רחוק, זה לא רחוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

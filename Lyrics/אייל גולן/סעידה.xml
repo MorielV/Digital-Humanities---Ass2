@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סעידה</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>נתנאל נועם</writer>
+        <composer>נתנאל נועם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סעידה</head>
+        <lg number="1" type="stanza">
+          <l>את היית ילדה</l>
+          <l>יפה וחייכנית</l>
+          <l>לו ידעת כמה סבא</l>
+          <l>אהב בך להביט</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את ודאי אינך יודעת את הסוד</l>
+          <l>שנעלמת בטרם רגלך למדה לצעוד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>סעידה, עוד אמא לך שרה</l>
+          <l>סעידה, תקווה וחלום</l>
+          <l>את חלק מאבא גם חלק מאמא</l>
+          <l>סעידה, נשמה של אמא</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יבשו נחלי</l>
+          <l>הדמעות והכאב</l>
+          <l>ואבא ממלמל</l>
+          <l>כל יום אני אוהב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אך לב שכואב לעולם לא שוכח</l>
+          <l>עד מתי לה לאם תבכה ותתייפח</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>סעידה, עוד אמא לך שרה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

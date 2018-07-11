@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משהו בין שנינו</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משהו בין שנינו</head>
+        <lg number="1" type="stanza">
+          <l>יש לך קעקוע על היד</l>
+          <l>ושמי רשום עליו</l>
+          <l>אבל מה זה עוזר לי עכשיו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חשבתי שתהיי איתי לעד</l>
+          <l>את לא רוצה אליו</l>
+          <l>אבל מה זה עוזר לי עכשיו</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>משהו בין שנינו נעלם</l>
+          <l>משהו הלך לו לעולם</l>
+          <l>משהו בין שנינו לא מובן</l>
+          <l>משהו נשמע לא מכוון</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כתבתי לך שירים של אהבה</l>
+          <l>כמה את מתוקה</l>
+          <l>שאת כמו סוכריה</l>
+          <l>האם להיות בך מאוהב</l>
+          <l>אבל מה זה עוזר לי עכשיו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>משהו בין שנינו...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אמרת לי שעדיף להיות לבד</l>
+          <l>אני לא בוכה כמעט</l>
+          <l>אני לא נעלב</l>
+          <l>אבל מה זה עוזר לי עכשיו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

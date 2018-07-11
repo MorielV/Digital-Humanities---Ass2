@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה קשה</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה קשה</head>
+        <lg number="1" type="stanza">
+          <l>אישה קשה אמרו לי,</l>
+          <l>ליידה תהיה כזה קטן.</l>
+          <l>אך עינייה לא ויתרו לי,</l>
+          <l>ועכשיו אני בבלאגן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך שהיא קראה לי מונמור,</l>
+          <l>איך זה בגללה אני גמור,</l>
+          <l>הקלפים שלי ביד שלה.</l>
+          <l>אך לא בנשמתה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא סיפרה ונשבעה לי,</l>
+          <l>שתמיד היתה אישה תמימה.</l>
+          <l>אך לפתע התגללה לי,</l>
+          <l>שיש עוד גברים בעולמה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך שהיא קראה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

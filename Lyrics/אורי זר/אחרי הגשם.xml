@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחרי הגשם</title>
+        <singer classification="male singer">אורי זר</singer>
+        <writer>אורי זר</writer>
+        <composer>אורי זר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחרי הגשם</head>
+        <lg number="1" type="stanza">
+          <l>יצאנו לטייל ברחוב </l>
+          <l>עננים עמדו מלכת </l>
+          <l>ורק ירח קופא לו מקור </l>
+          <l>תשמע אמרת לי </l>
+          <l>הקיץ עוד מעט יחזור </l>
+          <l>אך לפניו אני הולכת </l>
+          <l>תמשיך קדימה אין סיבה לעצור </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שמים ממילא קודרים </l>
+          <l>לבוש, אבל קר לי בפנים </l>
+          <l>מצחיק איך פתאום צריך הכל </l>
+          <l>להתחיל מהתחלה </l>
+          <l>ואני עוד זוכר, איך כשהיית </l>
+          <l>עם מישהו אחר אהבת אותי, </l>
+          <l>אהבת את מה שיכולתי לתת </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו את הולכת </l>
+          <l>קחי איתך את כל הדברים </l>
+          <l>אל תשאירי מקום להמשך </l>
+          <l>כי בכל סטירת לחי </l>
+          <l>בכל דקה לפני משבר </l>
+          <l>נשארת תקווה </l>
+          <l>שמשהו בכל זאת ישאר </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שמים ממלא קודרים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כן אחרי הגשם </l>
+          <l>יצאתי לאסוף את עצמי </l>
+          <l>כך פרידות </l>
+          <l>עושות לי חשק </l>
+          <l>תמיד יש אור </l>
+          <l>תמיד נולד איזה שיר </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שמים ממילא קודרים...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אחרי הגשם יצאתי לטייל ברחוב </l>
+          <l>עננים עמדו מלכת </l>
+          <l>ורק ירח קופא לו מקור</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

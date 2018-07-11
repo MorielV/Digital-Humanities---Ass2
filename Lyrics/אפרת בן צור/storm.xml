@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>storm</title>
+        <singer classification="female singer">אפרת בן צור</singer>
+        <writer>אמילי דיקנסון</writer>
+        <composer>אפרת בן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>storm</head>
+        <lg number="1" type="stanza">
+          <l>It sounded as if the streets were running </l>
+          <l>And then the streets stood still  </l>
+          <l>Eclipse was all we could see at the Window</l>
+          <l>And Awe was all we could feel </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>By and by the boldest stole out of his Covert   </l>
+          <l>To see if Time was there </l>
+          <l>Nature was in an Opal Apron</l>
+          <l>Mixing fresher Air</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

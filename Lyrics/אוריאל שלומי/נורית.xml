@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נורית</title>
+        <singer classification="male singer">אוריאל שלומי</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נורית</head>
+        <lg number="1" type="stanza">
+          <l>בעבר היית קטנה, מרגיזה ובכיינית</l>
+          <l>ואני רק ילדון אשר אהב אותך מאד</l>
+          <l>והיום את נערה יפהפיה ואצילית</l>
+          <l>ואני כמאז, עודני בך מאוהב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הו, נורית שלי, את כה יפה וחיננית</l>
+          <l>לא ארצה לאבדך, את מתוקה כדובשנית</l>
+          <l>ואני לעצמי רוצה אותך לעולמים.</l>
+          <l>הו, נורית שלי, את כה רכה וביישנית</l>
+          <l>ובין כל הקוצים את לי כפרח מרגנית</l>
+          <l>ואני לעצמי רוצה אותך לעולמים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשהיינו אז שכנים, היו לי כל הסיכויים</l>
+          <l>והיום אני פוחד כי אחרייך מחזרים</l>
+          <l>ולמרות כל ההבטחות איני שקט,</l>
+          <l>אני חושש לאבדך כך פתאום</l>
+          <l>כי אין כמוך בין הבנות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הו, נורית שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

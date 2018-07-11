@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יוצא לאור</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>אהוד בנאי</writer>
+        <composer>אהוד בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יוצא לאור</head>
+        <lg number="1" type="stanza">
+          <l>השביל הזה מתחיל כאן</l>
+          <l>בין סניף בנק למעין</l>
+          <l>לא סלול, לא תמיד מסומן</l>
+          <l>השביל הזה מתחיל כאן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חוצה את העיר</l>
+          <l>עולה על ההר</l>
+          <l>ממשיך על הים</l>
+          <l>ממשיך גם מחר</l>
+          <l>חותך באויר, בין הבתים</l>
+          <l>יוצא אל האור, אל חיים חדשים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לך עליו, עלה עליו עכשיו</l>
+          <l>לך עליו, עלה עליו עכשיו</l>
+          <l>מלאכי ציפורים מעליך</l>
+          <l>מלווים את צעדיך</l>
+          <l>מרחוק נדלק אור</l>
+          <l>אל תסטה כדי שתוכל לחזור.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>השיר הזה מתחיל כאן</l>
+          <l>כחול על הדף הלבן</l>
+          <l>לא גמור, לא תמיד מכוון</l>
+          <l>השיר הזה מתחיל כאן.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חוצה את העיר</l>
+          <l>עולה על ההר</l>
+          <l>ממשיך על הים</l>
+          <l>ממשיך גם מחר</l>
+          <l>חותך באויר, בין אנשים</l>
+          <l>יוצא אל האור, אל חיים חדשים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לך עליו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

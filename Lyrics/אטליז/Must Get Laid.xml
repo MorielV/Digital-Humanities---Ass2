@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Must Get Laid</title>
+        <singer classification="band">אטליז</singer>
+        <writer>גיא בן שיטרית</writer>
+        <composer>אדם שפלן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Must Get Laid</head>
+        <lg number="1" type="stanza">
+          <l>Must get laid </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Don’t need your pity cause my mama thinks I’m pretty </l>
+          <l>Hello kitty like the city kind of shitty </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>I’m in a very bad mood and I’ve had a very bad day </l>
+          <l>I’m under paid</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

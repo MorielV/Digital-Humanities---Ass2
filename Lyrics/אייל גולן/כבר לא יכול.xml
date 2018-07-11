@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כבר לא יכול</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>דניאל אמברוחו</writer>
+        <composer>דניאל אמברוחו</composer>
+        <album>בשבילך נוצרתי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כבר לא יכול</head>
+        <lg number="1" type="stanza">
+          <l>את כובשת את כל מי שפעם חלם</l>
+          <l>על היופי שלך בעולם</l>
+          <l>את שוברת מיליון חלומות אהבה</l>
+          <l>בשבילי את אחת יחידה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תני לי להזיע</l>
+          <l>תני לי להגיע</l>
+          <l>עד כוכב צפון</l>
+          <l>אני אבנה ארמון </l>
+          <l>תני לי להגשים לך</l>
+          <l>כל דבר אביא לך</l>
+          <l>תני לי להיות הראשון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כבר לא יכול</l>
+          <l>את גורמת לי לסבול</l>
+          <l>אנ'לא יכול ואוהב בך את הכל</l>
+          <l>הלילה לא, לא מוכן לישון</l>
+          <l>לא לעצום אישון</l>
+          <l>תני לי להיות הראשון</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את נוגעת בדיוק במקומות רגישים</l>
+          <l>מטריפה לי את כל החושים</l>
+          <l>את ירח זורח מלא ועגול</l>
+          <l>מסנוורת אותי בגדול</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תני לי להזיע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

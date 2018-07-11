@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שתה לחיים</title>
+        <singer classification="male singer">אריס סאן</singer>
+        <writer>משה סחר</writer>
+        <composer>אריס סאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שתה לחיים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>ספסל קורא בלי קול...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שתה לחיים</l>
+          <l>אל תשכח </l>
+          <l>שהזמן מזמן ברח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא ודאי ישנה בלילות</l>
+          <l>אל תשכח שאותה </l>
+          <l>במקומך אחר לקח</l>
+          <l>רק אתה עוד חולם חלומות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

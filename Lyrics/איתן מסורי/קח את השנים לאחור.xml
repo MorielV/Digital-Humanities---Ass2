@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קח את השנים לאחור</title>
+        <singer classification="male singer">איתן מסורי</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>איתן מסורי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קח את השנים לאחור</head>
+        <lg number="1" type="stanza">
+          <l>הימים שלי חולפים מהר מדי</l>
+          <l>ואני מרגיש שלא עשיתי די.</l>
+          <l>לו עצרתי רק לרגע את הזמן</l>
+          <l>אז הייתי עוד מספיק דבר קטן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הימים שלי טסים במהירות</l>
+          <l>ואני צריך לנהוג בזהירות.</l>
+          <l>לו יכולתי להחזיר את הגלגל</l>
+          <l>אז היה ודאי נעים יותר וקל.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כמו כדור השלג במורד</l>
+          <l>כך גלגל הזמן ממשיך לדהור.</l>
+          <l>יום חדש נולד ומת מיד,</l>
+          <l>קח את השנים קצת לאחור.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הימים שלי גולשים בלי מעצור</l>
+          <l>ודומה שעוד מעט הזמן לסגור.</l>
+          <l>ואני מרגיש רצון למנוחה</l>
+          <l>אך עדיין מרובה המלאכה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הימים שלי הולכים הם לפני</l>
+          <l>ואני חושב שלא הספקתי די.</l>
+          <l>וצריך עוד להמשיך את המירוץ.</l>
+          <l>עד מתי אפשר בקצב זה לרוץ?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כמו כדור השלג...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

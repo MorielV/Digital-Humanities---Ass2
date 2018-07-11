@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק בינתיים</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק בינתיים</head>
+        <lg number="1" type="stanza">
+          <l>אתה נושא עיניך לשמיים</l>
+          <l>אני טומנת את ראשי בחול</l>
+          <l>בכל שנה אני אומרת בינתיים</l>
+          <l>כן, בינתיים זה כמו אתמול.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הן לא נהיה פה פעמיים</l>
+          <l>רק בינתיים רק בינתיים</l>
+          <l>ועוד האש בוערת בעיניים</l>
+          <l>יפים יותר לא נוכל להיות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש רגעים בה נולד האושר</l>
+          <l>יש רגעים בהם נולד כאב</l>
+          <l>מי שרוצה לשמוע חרש את הדופק</l>
+          <l>האם יספיק לשמוע את הלב?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואולי זו היתה מתנה</l>
+          <l>ואולי אהבה אחרונה</l>
+          <l>ואולי לא היו הדברים מעולם</l>
+          <l>ואנחנו כמו כולם.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואולי זהו רגע אחד</l>
+          <l>והאושר היה ואבד</l>
+          <l>ואולי לא נשובה אליו לעולם</l>
+          <l>כי אנחנו כמו כולם.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הן לא נהיה פה פעמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל שניה</title>
+        <singer classification="male singer">ארד ריכטר</singer>
+        <writer>ארד ריכטר</writer>
+        <composer>ארד ריכטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל שניה</head>
+        <lg number="1" type="stanza">
+          <l>כמה שאת חסרה</l>
+          <l>וגם עכשיו כשאין ברירה</l>
+          <l>אמשיך לכתוב</l>
+          <l>רוצה קרוב, קרוב אליך</l>
+          <l>ואיך הדרך ארוכה</l>
+          <l>נדמה שאת כה רחוקה</l>
+          <l>בחוץ אפור, רועד מקור</l>
+          <l>ארוץ אליך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל שניה שאת לא כאן</l>
+          <l>רוצה אותך יותר ולא מוכן עוד לוותר</l>
+          <l>ועכשיו כשאת אינך הלב מפסיק לפעום</l>
+          <l>גופי רגיש, פתאום כואב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה שאוהב אותך</l>
+          <l>כמה שרוצה איתך</l>
+          <l>לבנות עוד שביל</l>
+          <l>לרוץ בשביל לא לאבד</l>
+          <l>תסתכלי עלי אני עייף</l>
+          <l>רק מרצון שוב ללטף</l>
+          <l>אל תתרחקי, אל תשחקי</l>
+          <l>ברגשותי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל שניה שאת לא כאן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

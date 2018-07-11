@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גן של שושנים</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גן של שושנים</head>
+        <lg number="1" type="stanza">
+          <l>לא הבטחתי לך אף פעם גן של שושנים</l>
+          <l>רצינו להיות ביחד כמו זוג יונים</l>
+          <l>אבל גם ליונים דוקר ויש עינינים</l>
+          <l>וזהעצוב בשובך כשאני בחוץ ואת בפנים</l>
+          <l>לא הבטחתי לך אף פעם גן של שושנים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עכשיו את שותקת אני שותק</l>
+          <l>עכשיו את צודקת אני צודק</l>
+          <l>כן זה נכון זה משאיר כתמים</l>
+          <l>לא הבטחתי לך אף פעם גן של שושנים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא תמיד אומרים מה שמתכונים</l>
+          <l>יש המון קוצים בדרל לשושנים</l>
+          <l>וזה דוקר כל כך ליד שרוצה אותך</l>
+          <l>את תמיד רואה הכל אצלי על הפנים</l>
+          <l>לא הבטחתי לך אף פעם גן של שושנים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עכשיו את שותקת אני שותק</l>
+          <l>עכשיו את צודקת אני צודק</l>
+          <l>כן זה נכון זה משאיר כתמים</l>
+          <l>לא הבטחתי לך אף פעם גן של שושנים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>גן של שושנים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חורשת האקליפטוס</title>
+        <singer classification="female singer">אופירה גלוסקא</singer>
+        <writer>נעמי שמר</writer>
+        <composer>נעמי שמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חורשת האקליפטוס</head>
+        <lg number="1" type="stanza">
+          <l>כשאמא באה הנה יפה וצעירה,</l>
+          <l>אז אבא על גבעה בנה לה בית.</l>
+          <l>חלפו האביבים, חצי מאה עברה</l>
+          <l>ותלתלים הפכו שיבה בינתיים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל על חוף ירדן כמו מאומה לא קרה,</l>
+          <l>אותה הדומיה וגם אותה התפאורה:</l>
+          <l>חורשת האקליפטוס, הגשר, הסירה</l>
+          <l>וריח המלוח על המים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בשביל הנה יורדת עדת התינוקות,</l>
+          <l>הם בירדן ישכשכו רגליים</l>
+          <l>גדלו הילדים וכבר למדו לשחות</l>
+          <l>ובני הנעורים חותרים בשניים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבל על חוף ירדן...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מעבר לירדן רעמו התותחים</l>
+          <l>והשלום חזר בסוף הקיץ</l>
+          <l>וכל התינוקות היו לאנשים</l>
+          <l>ושוב על הגבעה הקימו בית</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אבל על חוף ירדן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

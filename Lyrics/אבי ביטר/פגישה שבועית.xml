@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פגישה שבועית</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>ראובן אלוני</writer>
+        <composer>ראובן אלוני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פגישה שבועית</head>
+        <lg number="1" type="stanza">
+          <l>יום שישי בערב החבר'ה ניפגשים </l>
+          <l>זוגות זוגות הגיעו חיוך על הפנים </l>
+          <l>לגמנו וחיסלנו את כל הנישנושים </l>
+          <l>כמו בכל שבוע מתחילים הסיפורים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אחד חולם על בית בית בלי שכנים </l>
+          <l>ולאחר נמאס מהמרוץ של החיים </l>
+          <l>וכל אחד יודע מה שטוב לאחרים </l>
+          <l>ועוד מעט יהיו לנו ימים יותר קשים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כולם בוכים בוכים עד השמיים </l>
+          <l>ומספרים הכל על הפנים </l>
+          <l>קונים בזול ומחלקים לשניים </l>
+          <l>תאכל היום שלם בעוד חודשיים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יושבים לנו שעות ומרכלים על העולם </l>
+          <l>איך זה שהכסף משגע את כולם </l>
+          <l>ואיפה הבושה והכבוד שלא קיים </l>
+          <l>את כל הפתרונות תמצא אצל בורא עולם </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מי עלה למעלה ומי עומד ליפול </l>
+          <l>ומה יהיה הסוף אני רוצה לשאול </l>
+          <l>לפני שנפרדים כולנו יחד מקווים </l>
+          <l>שעוד מעט יהיו לנו ימים יותר יפים </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כולם בוכים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

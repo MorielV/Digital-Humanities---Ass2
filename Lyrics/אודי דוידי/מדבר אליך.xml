@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מדבר אליך</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מדבר אליך</head>
+        <lg number="1" type="stanza">
+          <l>בחצות הליל גם כשלא ממש קר</l>
+          <l>מוצא את עצמי עם סוודר, זה נראה לי די מוזר</l>
+          <l>מסתובב ברחוב, כאב רודף</l>
+          <l>כשירח מבטו מישיר את הפחד אני הודף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מדבר אליך דיבורים פשוטים</l>
+          <l>מדבר אליך מעומקי מעמקים</l>
+          <l>כשהנשמה זורקת אור</l>
+          <l>ערפל נמוג אחור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחצות הליל מחפש נחמה</l>
+          <l>אומרים שהעצב לא עושה טוב לנשמה</l>
+          <l>מנסה לומר ומשתתק</l>
+          <l>כמו עומד על צוק, אני פוחד כל כך, אתה שומע? אני צועק</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מדבר אליך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בחצות הליל נשמה בודדה</l>
+          <l>מחפשת עיר מקלט, שתציל ממצוקתה</l>
+          <l>צעקה תמימה שוברת קצת</l>
+          <l>אוי, הלב הזה כמו אבן, הוא נמס כל כך לאט</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מדבר אליך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

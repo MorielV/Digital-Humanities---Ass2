@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משל</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משל</head>
+        <lg number="1" type="stanza">
+          <l>על החוף טיילנו יחפים</l>
+          <l>בנינו לב גדול מכל מיני צדפים</l>
+          <l>אמרת "תראה איך הים גועש"</l>
+          <l>"זה תלוי איך את רואה,</l>
+          <l>כי בעיני הוא שר לנו שיר אהבה"</l>
+          <l>מאז חלפו כמה שנים</l>
+          <l>והחוף הזה ידע ימים יותר טובים</l>
+          <l>מאז עברו כאן הרבה זוגות</l>
+          <l>והתחלפו כל הצדפים</l>
+          <l>והשקיעה שוב התאבדה</l>
+          <l>למים אחרים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>משל החוף והצדפים</l>
+          <l>זאת אותה האהבה</l>
+          <l>זה רק אנחנו שמתחלפים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את בכית כשזה נגמר</l>
+          <l>אז אני אמרתי לך</l>
+          <l>"הים נתן , הים לקח"</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>על החוף טיילנו עצובים</l>
+          <l>ראינו זוג בונה לב</l>
+          <l>מכל מיני צדפים</l>
+          <l>אמרתי "תראי איך הים גועש"</l>
+          <l>"זה תלוי איך אתה רואה</l>
+          <l>כי בעיני הים עכשיו בוכה"</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

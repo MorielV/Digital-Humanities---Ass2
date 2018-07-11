@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילד שלי 2</title>
+        <singer classification="unknown">אריק זנטי</singer>
+        <writer>גל שריג</writer>
+        <composer>אריק זנטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילד שלי</head>
+        <lg number="1" type="stanza">
+          <l>כל השבוע חיכיתי לראות את האור בעיניך </l>
+          <l>אתה השמחה של חיי ואין לי חיים בלעדיך </l>
+          <l>קראת בשמי כשנסעתי רצית אותי כה קרוב </l>
+          <l>חשוב לי כל כך שתבין אמשיך כל דקה לאהוב </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אשמור צעדיך גם אם מרחוק </l>
+          <l>שתוכל להמשיך לחייך ולצחוק </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ילד שלי אל תבכה אחזור לבקר עוד שבוע </l>
+          <l>תדע שגם לי זה כואב לחיות כשבלב געגוע </l>
+          <l>ילד שלי אל תדאג אבא תמיד לצידך </l>
+          <l>לא אעזוב לעולם אתן את הכל בשבילך </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל השבוע ראיתי תמונה בה ליטפתי פניך </l>
+          <l>הייתי חזק שם איתך נשבר וחושב רק עליך </l>
+          <l>ולא מתבייש אולי בעוד כמה שנים </l>
+          <l>תבין שעשיתי הכל למרות הכאב שבפנים </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אשמור צעדיך גם אם מרחוק </l>
+          <l>שתוכל להמשיך לחייך ולצחוק</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

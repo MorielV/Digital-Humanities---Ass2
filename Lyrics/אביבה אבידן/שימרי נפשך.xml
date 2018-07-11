@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שימרי נפשך</title>
+        <singer classification="female singer">אביבה אבידן</singer>
+        <writer>ניקוס קרוולאס</writer>
+        <composer>ניקוס קרוולאס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שימרי נפשך</head>
+        <lg number="1" type="stanza">
+          <l>כשהלילה מתקרב והכוכב נחבא</l>
+          <l>משהו בתוך הלב פתאום קורא בשמה</l>
+          <l>לוחש לה שתלך בדרך אל ביתו</l>
+          <l>עוד פעם לראותו...</l>
+          <l>היא הבטיחה לעצמה שלא תשוב אליו</l>
+          <l>אחרי שבליבה הימר שנים לשווא</l>
+          <l>אבל היא מבלי לחשוב נסחפת לקראתו</l>
+          <l>לחוש את חום גופו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שימרי שימרי נפשך מאהובך למבטו אל תאמיני</l>
+          <l>כשהלילה בה...</l>
+          <l>כשהוא נראה צדיק תמים בשניי עניו הביטי</l>
+          <l>שימרי..שימרי נפשך מאהובך שבליבך לא תיפגעי</l>
+          <l>אל תלכי לאיבוד רק בגלל התמימות..שימרי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא נותן לה להרגיש בזרועותיו מלכה</l>
+          <l>אבל כמה הוא אדיש הוא לא אוהב אותה</l>
+          <l>בליבה היא אבודה לא מצליחה לחשוב</l>
+          <l>מתי יהיה לה טוב...?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שימרי שימרי נפשך ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

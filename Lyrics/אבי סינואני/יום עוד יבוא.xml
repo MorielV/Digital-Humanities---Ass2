@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום עוד יבוא</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום עוד יבוא</head>
+        <lg number="1" type="stanza">
+          <l>יום עוד יבוא ויאיר עליי והכאב,</l>
+          <l>ימחק פיתאום, כעקבות בשפת הים,</l>
+          <l>שנעלמות ונותר רק הקצב כמו חלום</l>
+          <l>את יודעת היטב שעוד אתגבר</l>
+          <l>ולמרות הכאב לא אשבר</l>
+          <l>כן מאז שהלכת עצוב לבד</l>
+          <l>ככה זה תמיד כשאני נפרד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מתקשה להירדם בודד בלילה</l>
+          <l>(בודד בלילה)</l>
+          <l>עוד זוכר אותך רגיל לכף ידך</l>
+          <l>ואני מקווה עמוק בלב שתחזרי אלי</l>
+          <l>ואני מתפלל בלילה, אבל אינך</l>
+          <l>לא את אינך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל הלילות המשותפים כל אותם ימים,</l>
+          <l>יפים איתך בליבי רשומים חתומים לעד</l>
+          <l>רגעים יפים של קסם שלא אשכח</l>
+          <l>את יודעת היטב שעוד אתגבר</l>
+          <l>ולמרות הכאב לא אשבר</l>
+          <l>כן מאז שהלכת עצוב לבד</l>
+          <l>ככה זה תמיד כשאני נפרד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מתקשה להירדם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

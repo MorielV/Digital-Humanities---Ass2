@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר בנאלי</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אברהם חלפי</writer>
+        <composer>שם טוב לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר בנאלי</head>
+        <lg number="1" type="stanza">
+          <l>ילדה, ילדה,</l>
+          <l>אין אגדה לי -</l>
+          <l>היא נשתתקה מזמן.</l>
+          <l>לכן יקר כל שיר באנאלי</l>
+          <l>בסוד סודות של היומן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>"נחש תמים אוהב מרגוע" -</l>
+          <l>הלחשת סודך לתוך אוזני.</l>
+          <l>ונוגה-דמות עלה גבוה</l>
+          <l>להתגורר בין כוכביי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האם לא טוב לך פה לנוח?</l>
+          <l>בדידות השניים - כפל חג.</l>
+          <l>פה כל משעול - מחסה בטוח</l>
+          <l>מרוח, רעם</l>
+          <l>וברק.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כולם שלך - כוכבי רקיע.</l>
+          <l>מי יגלה את סוד אושרי?</l>
+          <l>אני השכלתי להגיע</l>
+          <l>איתך גבוה,</l>
+          <l>בת שירי.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הביטי, מה ליאה כל צעד</l>
+          <l>על פני חולות האדמה.</l>
+          <l>האם לשמוע אין רוצה את</l>
+          <l>מה שר ירח</l>
+          <l>לחמה?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כולם שלך - כוכבי רקיע. </l>
+          <l>מי יגלה את סוד אושרי? </l>
+          <l>אני השכלתי להגיע </l>
+          <l>איתך גבוה, </l>
+          <l>בת שירי. </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>...ילדה, ילדה,</l>
+          <l>אין אגדה לי,</l>
+          <l>אשר הייתה עוד לפנים.</l>
+          <l>לכן שירי כל כך באנאלי,</l>
+          <l>כמו... כמו כל שיר תמים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

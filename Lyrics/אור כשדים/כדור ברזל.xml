@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כדור ברזל</title>
+        <singer classification="band">אור כשדים</singer>
+        <writer>רונן בן טל</writer>
+        <composer>איתמר גפני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כדור ברזל</head>
+        <lg number="1" type="stanza">
+          <l>ממש כמו רווקה זקנה עם FSH בירידה </l>
+          <l>סמרטוט שחור על העיניים אותך חיפשתי אהבה </l>
+          <l>פרה ועוד פגישה עיוורת אחת מורה אחת שוטרת </l>
+          <l>ומאחרת לי ההצתה אותך חיפשתי אהבה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא צוחק לא מאיים כמו כדור ברזל מדמם </l>
+          <l>לא בסינק לא בתאום לא שומר בבטן כלום </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וכמו תנור של גז בוער בחדר אני לא רואה אותו ממטר </l>
+          <l>ועל הקיר היתה כתוּבּה אותך חיפשתי אהבה </l>
+          <l>החברים אמרו אבוד תגיד איך נפלת יא דוד </l>
+          <l>משכו כתפיים בשתיקה אותך חיפשתי אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא צוחק לא מאיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

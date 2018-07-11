@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חדרה</title>
+        <singer classification="unknown">איה זהבי פייגלין</singer>
+        <writer>איה זהבי פייגלין</writer>
+        <composer>איה זהבי פייגלין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חדרה</head>
+        <lg number="1" type="stanza">
+          <l>יש לי מערכת יחסים אמיתית</l>
+          <l>עם הכיסא הריק של צד ימין במכונית</l>
+          <l>יש לי מערכת יחסים</l>
+          <l>לפעמים אני מניחה עליו יד</l>
+          <l>אם אעצום עיניים אולי הוא מלטף אותי גם</l>
+          <l>אם אעצום עיניים מספיק חזק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אי אפשר לעצום עיניים</l>
+          <l>באמצע הכביש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חדרה תל אביב הרצליה חדרה תל אביב הרצליה</l>
+          <l>תמיד אותם כבישים </l>
+          <l>תמיד אותה מערכת יחסים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אבא ניסה ללמד אותי קוואנטים</l>
+          <l>לא הבנתי הרבה אבל הבנתי </l>
+          <l>שיש לי סיכוי להצמיח כנפיים מהגב ולעוף</l>
+          <l>יש לי אותו הסיכוי</l>
+          <l>למות כאן ועכשיו</l>
+          <l>באמצע כביש החוף</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אי אפשר לעצום עיניים</l>
+          <l>באמצע הכביש</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>חדרה תל אביב הרצליה חדרה תל אביב הרצליה</l>
+          <l>תמיד אותם כבישים</l>
+          <l>תמיד אותה מערכת יחסים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

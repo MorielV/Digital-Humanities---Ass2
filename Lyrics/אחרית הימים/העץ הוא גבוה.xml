@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>העץ הוא גבוה</title>
+        <singer classification="band">אחרית הימים</singer>
+        <writer>חנוך לוין</writer>
+        <composer>זוהר לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>העץ הוא גבוה</head>
+        <lg number="1" type="stanza">
+          <l>העץ הוא גבוה, העץ הוא ירוק,</l>
+          <l>הים הוא מלוח, הים הוא עמוק,</l>
+          <l>אם הים הוא עמוק, מה אכפת לו לעץ,</l>
+          <l>מה אכפת לו לים שהעץ הוא ירוק.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>העץ הוא גבוה, העץ הוא ירוק,</l>
+          <l>יפה הציפור, היא תעוף לה רחוק,</l>
+          <l>אם תעוף הציפור, מה אכפת לו לעץ,</l>
+          <l>מה אכפת לציפור שהעץ הוא ירוק.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הים הוא מלוח, הים הוא עמוק,</l>
+          <l>יפה הציפור, היא תעוף לה רחוק,</l>
+          <l>אם תעוף הציפור, מה אכפת לו לים,</l>
+          <l>מה אכפת לציפור שהים הוא עמוק.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אדם שר שירים כי העץ הוא ירוק,</l>
+          <l>אדם שר שירים כי הים הוא עמוק,</l>
+          <l>אם תעוף הציפור, לא ישיר עוד שירים,</l>
+          <l>מה אכפת לציפור אם ישיר או ישתוק.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

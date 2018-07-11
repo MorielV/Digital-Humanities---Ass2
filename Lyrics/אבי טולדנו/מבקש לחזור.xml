@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מבקש לחזור</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>חני ליבנה</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מבקש לחזור</head>
+        <lg number="1" type="stanza">
+          <l>עוד מעט עוד דקה אחת</l>
+          <l>על הפסים כל חיי ארוזים</l>
+          <l>לא נותרו חלומות בשבילי</l>
+          <l>שוב אהיה לבד עם עצמי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תחנה את כבר לא עונה</l>
+          <l>השלטים סופרים מרחק</l>
+          <l>לילה כבד ואני מאבד</l>
+          <l>את עצמך ואותי לתמיד.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רוח על הפסים</l>
+          <l>ואורות צהובים</l>
+          <l>לו ידעתי לומר לך בזמן</l>
+          <l>וצללים ארוכים על הדרך נסים</l>
+          <l>ואני לא יודע לאן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד מעט עוד דקה אחת</l>
+          <l>אור חיוור יאיר את היום</l>
+          <l>איש ואישה תחנה אחרונה</l>
+          <l>וידי עוד פרוסה לשלום</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רוח על הפסים</l>
+          <l>ואורות צהובים</l>
+          <l>לו ידעתי לומר לך בזמן</l>
+          <l>וצללים ארוכים על הדרך נסים</l>
+          <l>ואני לא יודע לאן</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>רוח על הפסים</l>
+          <l>ופני מכוסים</l>
+          <l>לו יכולתי הכל לעצור</l>
+          <l>וצללים ארוכים על הדרך נסים</l>
+          <l>ואני מבקש לחזור</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

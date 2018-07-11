@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עשרים פלוס</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עשרים פלוס</head>
+        <lg number="1" type="stanza">
+          <l>רגע מתייאש ורגע מקווה</l>
+          <l>ועושה מה שהרגש מצווה</l>
+          <l>חם ומתרגש הולך ומתהווה</l>
+          <l>משחק באש ולפעמים נכווה</l>
+          <l>עשרים ו...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כלום לא מתקרב, כלום לא משתווה לעשרים ו...</l>
+          <l>עשרים וגאווה, עשרים ואהבה</l>
+          <l>עשרים ואכזבה, עשרים ושלווה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חיי את השעה תמיד בזמן הווה</l>
+          <l>איזה קסם רעד שאת הלב שווה</l>
+          <l>עשרים ו...  יום אחד נדלק ויום אחד כבה</l>
+          <l>רוב זמן מתחת מתכנן הווה עשרים ו...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כלום לא מתקרב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>צוחקים בקול בוכים בהחבא</l>
+          <l>כל סיפור חדש את מחירו גובה</l>
+          <l>כמו פרפר של משי עוד גילגול טווה</l>
+          <l>והכל אפוף מסך עשן הווה עשרים ו...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כלום לא מתקרב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

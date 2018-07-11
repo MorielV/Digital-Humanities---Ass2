@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה קורה 2</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>שמוליק קראוס</writer>
+        <composer>שמוליק קראוס</composer>
+        <album>דיוקן - האלבום</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה קורה</head>
+        <lg number="1" type="stanza">
+          <l>זה קורה</l>
+          <l>שהדרך מתמשכת</l>
+          <l>זה קורה</l>
+          <l>יש ללכת, ללכת.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שום דבר לא ידוע</l>
+          <l>לא שנה, לא שבוע</l>
+          <l>יש לנוע, לנוע</l>
+          <l>ולחשוב שהייתי יכול</l>
+          <l>לחזור על הכל</l>
+          <l>אבל בן אדם</l>
+          <l>זה קורה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה קרה</l>
+          <l>שהדרך התמשכה לי</l>
+          <l>זה קרה</l>
+          <l>לא ידעתי איך זה בא לי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שום דבר לא ידוע</l>
+          <l>לא שנה, לא שבוע</l>
+          <l>יש לנוע לנוע</l>
+          <l>ולחשוב שהייתי יכול</l>
+          <l>לחזור על הכל</l>
+          <l>אבל בן אדם</l>
+          <l>זה קרה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה יקרה</l>
+          <l>ואולי בסוף הדרך</l>
+          <l>שנראה,</l>
+          <l>כי הדרך מתמשכת.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>שום דבר לא ידוע</l>
+          <l>לא שנה, לא שבוע</l>
+          <l>יש לנוע, לנוע</l>
+          <l>ולחשוב שהייתי יכול</l>
+          <l>לחזור על הכל</l>
+          <l>אבל בן אדם</l>
+          <l>זה יקרה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

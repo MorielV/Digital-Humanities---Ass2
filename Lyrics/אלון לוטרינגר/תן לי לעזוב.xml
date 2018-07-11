@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תן לי לעזוב</title>
+        <singer classification="male singer">אלון לוטרינגר</singer>
+        <writer>אלון לוטרינגר</writer>
+        <composer>אלון לוטרינגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תן לי לעזוב</head>
+        <lg number="1" type="stanza">
+          <l>אמרת שהכל הפך עקר </l>
+          <l>ושאני הפכתי זר </l>
+          <l>שזה מה שלא אמרתי לך ששבר </l>
+          <l>ומה שבטח לא אומר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ותן לי לעזוב </l>
+          <l>תן לי לעזוב </l>
+          <l>תן לי לעזוב אותך </l>
+          <l>תן לי לעזוב </l>
+          <l>תן לי לעזוב </l>
+          <l>או תן לי לאהוב אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם לקנא ולארוב זה מה שנשאר </l>
+          <l>אולי בוא נרד מהמשמר </l>
+          <l>אני סולחת ולא אקח דבר </l>
+          <l>אבל אברח כאילו אין מחר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתנה ליום הולדת</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>ישראל ויסלר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתנה ליום הולדת</head>
+        <lg number="1" type="stanza">
+          <l>אה איזו מהומה</l>
+          <l>קנו לי מצלמה</l>
+          <l>נוצצת ויפה</l>
+          <l>עם עדשה שקופה.</l>
+          <l>גם רצועה ותיק</l>
+          <l>כפתור בשביל ה"קליק"</l>
+          <l>לא לא איני חולם</l>
+          <l>אני כבר מצלם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קליק! צילמתי יום הולדת</l>
+          <l>קליק קליק! ציפור על עץ עומדת</l>
+          <l>ילדון מביט הצידה - קליק!</l>
+          <l>ילדה לוקקת גלידה - קליק!</l>
+          <l>קליק קליק קליק.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אה איזו מהומה</l>
+          <l>קנו לי מצלמה</l>
+          <l>נוצצת ויפה</l>
+          <l>עם עדשה שקופה</l>
+          <l>גם רצועה ותיק</l>
+          <l>כפתור בשביל ה"קליק"</l>
+          <l>לא לא איני חולם</l>
+          <l>אני כבר מצלם.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קליק! צילמתי בית קולנוע</l>
+          <l>קליק קליק! אישה על אופנוע</l>
+          <l>שושן שאין לו ריח - קליק!</l>
+          <l>ואיש עובר, קרח - קליק!</l>
+          <l>קליק קליק קליק!</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אה איזו מהומה</l>
+          <l>קנו לי מצלמה</l>
+          <l>נוצצת ויפה</l>
+          <l>עם עדשה שקופה</l>
+          <l>גם רצועה ותיק</l>
+          <l>כפתור בשביל ה"קליק"</l>
+          <l>לא לא איני חולם</l>
+          <l>אני כבר מצלם.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>קליק! צילמתי את השמיים</l>
+          <l>קליק קליק! סירת נייר ומיים</l>
+          <l>וגם את אחותי - קליק</l>
+          <l>אך בעיקר אותי - קליק</l>
+          <l>קליק קליק קליק!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דרכי גורל</title>
+        <singer classification="male singer">איציק הרוש</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דרכי גורל</head>
+        <lg number="1" type="stanza">
+          <l>גורל נסתר לכל אדם </l>
+          <l>חרש יופיע ונעלם </l>
+          <l>אין איש יודע מתי יגיע </l>
+          <l>לטוב לרע הוא בעולם </l>
+          <l>לכל אדם כוכב נסתר </l>
+          <l>ולפעמים באור יזהר </l>
+          <l>יאיר הדרך לפני ההלך </l>
+          <l>מה נפלאות דרכי גורל </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תחפש לא תמצא בשום ספר </l>
+          <l>אין מענה לשאלות </l>
+          <l>אל נא תדרוש תרד לסוף חקר </l>
+          <l>דרכי גורל מה מוזרות </l>
+          <l>מה טוב היום מה טוב מחר </l>
+          <l>אתה הולך והעולם נשאר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אדם עמל יום ביומו </l>
+          <l>כי זו דרכו ועולמו </l>
+          <l>שתליו נוטע יום יום יגע </l>
+          <l>בדם ויזע על לחמו </l>
+          <l>אדם הולך עם גורלו </l>
+          <l>האם יזרח גם כוכבו </l>
+          <l>דרך יראה לו שבילים יטווה לו </l>
+          <l>כי אלו הם חיי אדם </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תחפש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

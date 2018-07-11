@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התאהבתי בילדה יפה נורא</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>שם טוב לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התאהבתי בילדה יפה נורא</head>
+        <lg number="1" type="stanza">
+          <l>אצלנו בבית ספר ישנה אחת ילדה</l>
+          <l>כמו ציור בספר, ילדה יפה נורא</l>
+          <l>התאהבתי תיכף באותה ילדה</l>
+          <l>וכל כך רציתי, אותה לחברה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה קרה! מה קרה? איזו מן צרה:</l>
+          <l>התאהבתי בילדה, ילדה יפה נורא</l>
+          <l>זה קרה! מה קרה? איזו מן צרה:</l>
+          <l>כי אותי היא לא רוצה. אני סובל נורא.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז אחרי בית ספר חיכיתי בפינה</l>
+          <l>וכשהיא עברה שם משכתי בצמה.</l>
+          <l>לפני שעוד הבנתי היא הסתובבה</l>
+          <l>וישר נתנה לי סטירה ובעיטה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה קרה! מה קרה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז כתבתי פתק לאותה ילדה</l>
+          <l>וספרתי למה אני אוהב אותה.</l>
+          <l>היא קראה הפתק, זרקה אותו לפח.</l>
+          <l>אז צעקתי: למה? אני אוהב אותך.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה קרה! מה קרה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

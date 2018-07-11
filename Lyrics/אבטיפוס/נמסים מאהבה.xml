@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נמסים מאהבה</title>
+        <singer classification="band">אבטיפוס</singer>
+        <writer>אמיר בן דוד</writer>
+        <composer>אמיר בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נמסים מאהבה</head>
+        <lg number="1" type="stanza">
+          <l>עצוב כשעולות הכותרות בסוף</l>
+          <l>והסדרן כבר קם לפתוח את הדלת</l>
+          <l>ואנשים יוצאים מהר אל הרחוב</l>
+          <l>בסוף הסרט</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הגיבור נותר תלוי על הסורג</l>
+          <l>ויום חדש עלה ברגע</l>
+          <l>ומעריץ צעיר תלש בזהירות את הכרזה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שירים יפים שמתנגנים בסוף הלילה</l>
+          <l>מחממים כמו שמיכת נוצות טובה</l>
+          <l>כל הצלילים נושרים לאט לאט מלמעלה</l>
+          <l>ונמסים מאהבה</l>
+          <l>נמסים מאהבה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הרחובות שנוצצים אחרי הגשם</l>
+          <l>עומדים מאובקים כמעט כל השנה</l>
+          <l>והתקוות שנזנחו חודרות אל תוך החלומות המתוקים</l>
+          <l>החלומות הנפלאים, החלומות האהובים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שירים יפים שמתנגנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

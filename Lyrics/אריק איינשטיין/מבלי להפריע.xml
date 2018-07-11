@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מבלי להפריע</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>נתן אלתרמן</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>יושב על הגדר </album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מבלי להפריע</head>
+        <lg number="1" type="stanza">
+          <l>העיר מזמרת בפעם האלף</l>
+          <l>עיני הירח נוגות.</l>
+          <l>אל חיק האספלט מתייפח גור כלב</l>
+          <l>הסבתא מוכרת עוגות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הסבתא זקנה, השעה מאוחרת</l>
+          <l>כל אם לילדה מספרת סיפור</l>
+          <l>עומדת הסבתא קטנה וחיוורת</l>
+          <l>מבלי להפריע את שלום הציבור.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שפתיה דקות והעיר מצלצלת</l>
+          <l>מים ועד ים נוהרים הזוגות</l>
+          <l>אנחנו אוכלים ארוחה מבושלת</l>
+          <l>אולי רק הכלב רעב לעוגות.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שפתיה דקות ובפעם האלף</l>
+          <l>אין ילד אומר לה: ספרי לי סיפור...</l>
+          <l>על חיק האספלט מנמנם גור הכלב</l>
+          <l>מבלי להפריע את שלום הציבור.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

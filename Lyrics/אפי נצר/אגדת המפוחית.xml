@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אגדת המפוחית</title>
+        <singer classification="unknown">אפי נצר</singer>
+        <writer>אפי נצר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אגדת המפוחית</head>
+        <lg number="1" type="stanza">
+          <l>היה זה באופל הליל</l>
+          <l>בלילות הצפון הקרים</l>
+          <l>אנחנו מתחנו שם תיל</l>
+          <l>ובלב לך היינו שרים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מרחוק מפוחית מזמרת</l>
+          <l>ומספרת סיפור אגדה</l>
+          <l>חלמנו על ים הכינרת</l>
+          <l>וחלמנו עליך ילדה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מרחוק מפוחית מזמרת</l>
+          <l>ומספרת סיפור אגדה</l>
+          <l>חלמנו על ים הכינרת</l>
+          <l>וחלמנו עליך ילדה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אהבנו יחדיו את הנגב</l>
+          <l>ואת נוף הגליל הפיראי</l>
+          <l>אהבנו בארץ כל רגב</l>
+          <l>ואהבתי אותך ילדתי.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מפוחית תנגן לנו זמר</l>
+          <l>תספר לנו עוד אגדה</l>
+          <l>אנחנו נאהב עד בלי גמר</l>
+          <l>ותמיד נישאר כך ילדה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מפוחית תנגן לנו זמר</l>
+          <l>תספר לנו עוד אגדה</l>
+          <l>אנחנו נאהב עד בלי גמר</l>
+          <l>ותמיד נישאר כך ילדה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואנס נוצ ס</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>ברי סחרוף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואנס נוצ'ס</head>
+        <lg number="1" type="stanza">
+          <l>עייפים מלשאול את אותן שאלות</l>
+          <l>מלקבל כל הזמן את אותן התשובות</l>
+          <l>עייפים מלבוסס באותן הביצות</l>
+          <l>ולא להבין שום דבר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עייפים מלטפס על אותם ההרים</l>
+          <l>מלכאוב כל הזמן את אותם כאבים</l>
+          <l>עייפים מללחום בקרבות אבודים</l>
+          <l>להרגיש לבד כמעט לגמרי לבד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז בואנס נוצ'ס אנחנו הולכים לישון</l>
+          <l>תעירו אותנו כשיבוא המשיח לסגור את החור באוזון</l>
+          <l>הזאב יגור עם הכבש הנמר ירבץ עם הגדי</l>
+          <l>תחת תאנה וגפן הכל יהיה כמעט אמיתי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עייפים מלחלום את אותם חלומות</l>
+          <l>להיות כלואים באותן החומות</l>
+          <l>עייפים מלשנוא את אותן השנאות</l>
+          <l>ולדחות את הכל למחר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עייפים מלרצות להיות חזקים</l>
+          <l>לצפות לאהבה מכל החברים</l>
+          <l>עייפים מהימים הארוכים העצובים</l>
+          <l>ויש עוד הרבה ברשימת המלאי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז בואנס נוצ'ס אנחנו הולכים לישון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

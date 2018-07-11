@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דני גיבור 3</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>מרים ילן שטקליס</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דני גיבור</head>
+        <lg number="1" type="stanza">
+          <l>אמא אמרה לי: דני!</l>
+          <l>ילדי הוא גיבור ונבון</l>
+          <l>ילדי לא יבכה אף פעם</l>
+          <l>כפתי קטון</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אינני בוכה אף פעם,</l>
+          <l>אינני תינוק בכיין</l>
+          <l>זה רק הדמעות, הדמעות הן בוכות</l>
+          <l>בוכות בעצמן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פרח נתתי לנורית</l>
+          <l>קטון ויפה וכחול</l>
+          <l>תפוח נתתי לנורית</l>
+          <l>נתתי הכל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נורית אכלה התפוח</l>
+          <l>הפרח זרקה בחצר</l>
+          <l>והלכה לה לשחק</l>
+          <l>עם ילד אחר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אינני בוכה אף פעם,</l>
+          <l>גיבור אני, לא בכיין</l>
+          <l>אך למה זה אמא, למה</l>
+          <l>בוכות הדמעות בעצמן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

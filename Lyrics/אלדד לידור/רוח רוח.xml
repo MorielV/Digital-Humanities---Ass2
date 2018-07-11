@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוח רוח 3</title>
+        <singer classification="unknown">אלדד לידור</singer>
+        <writer>אהרון אשמן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוח רוח</head>
+        <lg number="1" type="stanza">
+          <l>רוח, רוח, רוח, רוח,</l>
+          <l>בפרדס נפל תפוח.</l>
+          <l>הוא נפל מראש העץ,</l>
+          <l>הוא נפל והתפוצץ.</l>
+          <l>הוי חבל, חבל, חבל,</l>
+          <l>על תפוח שנפל.</l>
+          <l>שנפל מראש העץ,</l>
+          <l>שנפל והתפוצץ.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

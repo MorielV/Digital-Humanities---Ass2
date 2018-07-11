@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיפור אהבה 2</title>
+        <singer classification="male singer">איציק שמלי</singer>
+        <writer>איציק שמלי</writer>
+        <composer>משה פרץ</composer>
+        <album>סיפור אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיפור אהבה</head>
+        <lg number="1" type="stanza">
+          <l>אני היום אדם שמספר על אהבה</l>
+          <l>כי את לימדת אותי איך זה לחיות בשניים</l>
+          <l>כאב וריקנות מזמן עברו דירה</l>
+          <l>כי הם מושכים למטה לא אל השמים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איתך אני ממריא גבוהה</l>
+          <l>ולא עוצר לרגע</l>
+          <l>עד הסוף אלך איתך</l>
+          <l>לדרך בטוחה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את בתוכי</l>
+          <l>את כל האושר בליבי</l>
+          <l>את כל הטוב אני אתן לך,</l>
+          <l>אני אוהב אותך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני עדיין מספר כל יום על אהבה</l>
+          <l>כי יש בי כוח, יש בי אושר ותקווה</l>
+          <l>שאת איתי מגשים כל יום חלום נוסף</l>
+          <l>ליבי איתך מרגיש כל רגע שהוא עף</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

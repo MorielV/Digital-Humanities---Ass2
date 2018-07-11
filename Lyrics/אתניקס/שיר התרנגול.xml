@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר התרנגול</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר התרנגול</head>
+        <lg number="1" type="stanza">
+          <l>קבלי אותי בשמונה, בתשע, מעשר ועד אחרי חצות</l>
+          <l>ואז דקה אחרי, אתכסה לי בנוצות.</l>
+          <l>חבקי אותי בשמונה בתשע מעשר ועד אחרי חצות</l>
+          <l>חבקי אותי חזק, כי אני תרנגול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קוקו קוקו קוקו קוקו, כי אני תרנגול...</l>
+          <l>קוקו קוקו קוקו קוקו, קוקו קוקו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את חיה בסרט ואת פשוט לא מבינה</l>
+          <l>שאין לי אחרת, עוד לא מצאתי אהבה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קבלי אותי בשמונה...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>קוקו קוקו קוקו קוקו, כי אני תרנגול...</l>
+          <l>קוקו קוקו קוקו קוקו, קוקו קוקו</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אז איפה השקט, אני רוצה למצוא פינה</l>
+          <l>ידך המושטת, מיד הורסת או בונה</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>קבלי אותי בשמונה...</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>כי אני תרנגול</l>
+          <l>קוקו קוקו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

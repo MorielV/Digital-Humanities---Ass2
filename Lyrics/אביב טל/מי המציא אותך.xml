@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי המציא אותך</title>
+        <singer classification="unknown">אביב טל</singer>
+        <writer>מעין כץ</writer>
+        <composer>מעין כץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי המציא אותך</head>
+        <lg number="1" type="stanza">
+          <l>תגידי מה המציא אותך?</l>
+          <l>מכיר את כל השיגעונות שלך לא מכיר אותך מאתמול</l>
+          <l>מכור לכל החיוכים שלך אותי לא יצליחו לגמול </l>
+          <l>נכון שאת ענית לי על כל השאלות שהספקתי לשאול </l>
+          <l>יש רק שאלה קטנה שאת אף פעם לא עונה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תגידי מי המציא אותך? מי הגאון שהמציא אותך?</l>
+          <l>יפה כל כך את כולם את מסובבת נוגעת ועוזבת</l>
+          <l>מי הדליק אותך מי היחיד שהדליק אותך</l>
+          <l>אני שלך את כולם את מסובבת רק אותי אוהבת</l>
+          <l>איך זכיתי בך?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מכיר את כל האהבות שלך תמיד את רוצה בילויים</l>
+          <l>וחי עם כל ההוצאות שלך רק טיולים טיפולים ובגדים</l>
+          <l>נכון שאת ענית לי על כל השאלות שהספקתי לשאול</l>
+          <l>יש רק שאלה קטנה שאת אף פעם לא עונה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תגידי מי המציא אותך? מי הגאון שהמציא אותך?</l>
+          <l>יפה כל כך את כולם את מסובבת נוגעת ועוזבת</l>
+          <l>מי הדליק אותך מי היחיד שהדליק אותך</l>
+          <l>אני שלך את כולם את מסובבת רק אותי אוהבת</l>
+          <l>איך זכיתי בך?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

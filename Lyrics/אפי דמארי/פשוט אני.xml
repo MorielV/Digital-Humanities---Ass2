@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פשוט אני</title>
+        <singer classification="unknown">אפי דמארי</singer>
+        <writer>עינת הולנדר</writer>
+        <composer>אפי דמארי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פשוט אני</head>
+        <lg number="1" type="stanza">
+          <l>אַל תִראי בי </l>
+          <l>מה שאני לא. </l>
+          <l>אין אליבי, </l>
+          <l>התשובות כולן אצלו. </l>
+          <l>כי אני כאן </l>
+          <l>וּבכל זה מאמין, </l>
+          <l>אל המסע שלי </l>
+          <l>אותך היום מזמין. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פשוט אני, פשוט </l>
+          <l>ככל האדם. </l>
+          <l>עם האמת שלי </l>
+          <l>משוטט בעולם. </l>
+          <l>מבקש אהבה, </l>
+          <l>שואף לִשלמוּת, </l>
+          <l>פשוט אני, </l>
+          <l>פשוט. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין בי פחד, </l>
+          <l>אין בי חרטה. </l>
+          <l>בואי יחד </l>
+          <l>ונמצא את השיטה </l>
+          <l>לאהוב </l>
+          <l>כנגד כל הסיכויים. </l>
+          <l>האל הטוב </l>
+          <l>חיבר בינינו לחיים. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פשוט אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

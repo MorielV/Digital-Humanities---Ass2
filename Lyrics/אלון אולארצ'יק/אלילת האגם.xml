@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלילת האגם</title>
+        <singer classification="unknown">אלון אולארצ יק</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלילת האגם</head>
+        <lg number="1" type="stanza">
+          <l>עוד יורד הטל ואני כבר כאן</l>
+          <l>מחכה לך ליד האגם</l>
+          <l>זימרת ציפורים תלווה אותך</l>
+          <l>בואי נערה ובפי אהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הי נערה בואי אל האגם</l>
+          <l>ברבורים שרים שירת אהבה</l>
+          <l>הי נערה בואי אל האגם</l>
+          <l>ברבורים שרים שירת אהבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מסביב עצים נוף כה מרביה</l>
+          <l>ברבורים יפים באגם שטים</l>
+          <l>דמותך טמירה אלילת האגם</l>
+          <l>פרח לבן כעורך הזך הרך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הי נערה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ביתך הקטן ליד האגם</l>
+          <l>את היא אשר כל עלם בך ירצה</l>
+          <l>בואי נערה אלילת האגם</l>
+          <l>מה טוב יהיה אם רק תאמרי לי כן.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הי נערה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

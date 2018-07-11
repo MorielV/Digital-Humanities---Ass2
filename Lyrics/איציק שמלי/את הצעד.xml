@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את הצעד</title>
+        <singer classification="male singer">איציק שמלי</singer>
+        <writer>איציק שמלי</writer>
+        <composer>דדי מועלם</composer>
+        <album>סיפור אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את הצעד</head>
+        <lg number="1" type="stanza">
+          <l>בחלום שלי את מתגשמת </l>
+          <l>ובבוקר לי את הזריחה</l>
+          <l>את נוגעת בי רק את יודעת</l>
+          <l>את היחידה שמצליחה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את הקלף שלי שמנצח</l>
+          <l>מכירה אותי מקיר לקיר</l>
+          <l>לעירך נתת את המפתח</l>
+          <l>בעירי שלי את ראש העיר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את הצעד, את הדרך</l>
+          <l>את הבית, את השיר</l>
+          <l>את הרוח והשמש</l>
+          <l>בשמים שלי את האוויר</l>
+          <l>את הכוח את הרגש</l>
+          <l>את הטוהר והתום</l>
+          <l>את היד שמנחמת</l>
+          <l>ועוטפת את חיי בחום</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בחיוך שלי את העניים</l>
+          <l>ובאביב את לי הצבעים</l>
+          <l>ובסוף כל יום את לי המים</l>
+          <l>שמרווים את צימאוני מזה שנים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני שיכור</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני שיכור</head>
+        <lg number="1" type="stanza">
+          <l>איך שבוי נפלתי בעולם שלך</l>
+          <l>כמו שיכור נמשכתי ליופי שבך</l>
+          <l>אף פעם לא הרגשתי מאוהב כל כך</l>
+          <l>בלילות חלמתי שאני איתך</l>
+          <l>אומרים שהשתגעתי אומרים אני גמור</l>
+          <l>מאז שהתאהבתי הלב שלי שבור</l>
+          <l>אומרים שהשתגעתי אומרים אני גמור</l>
+          <l>מאז שהתאהבתי הלב שלי שבור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עשית אותי שיכור בתוך עולם אפור</l>
+          <l>האהבה כזאת כל אדם תשבור</l>
+          <l>אין לי נחמה אין לי מנוחה</l>
+          <l>לקחת אותי קורבן מה עשית לי מה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מכל השאלות לא החזרת תשובות</l>
+          <l>שיחקת עם המזל לא השארת תקוות</l>
+          <l>עכשיו אני שבוי בעולם של אשליות</l>
+          <l>אני אוהב אותך ואין מה לעשות</l>
+          <l>הסתכלתי על פנייך ראיתי ת'עולם</l>
+          <l>הכחול שבעינייך הזכרי לי את הים</l>
+          <l>הסתכלתי על פנייך ראיתי ת'עולם</l>
+          <l>הכחול שבעינייך הזכרי לי את הים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עשית אותי שיכור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

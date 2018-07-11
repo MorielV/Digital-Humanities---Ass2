@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתמול היה הרגע</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>יצחק קלפטר</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>יושב על הגדר </album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתמול היה הרגע</head>
+        <lg number="1" type="stanza">
+          <l>לא, אין זה משנה</l>
+          <l>אין זה משנה יותר</l>
+          <l>אתמול היה הרגע</l>
+          <l>אבל הוא עבר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא, אל תקחי ללב,</l>
+          <l>לי זה לא כואב יותר.</l>
+          <l>אתמול היה הרגע</l>
+          <l>אבל הוא עבר.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רגע בלי לחשוב</l>
+          <l>מה כדאי ואיך יהיה</l>
+          <l>רק לתת ולקבל עדנה לוטפת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אבל היום אני אחר</l>
+          <l>מבוגר ושומר</l>
+          <l>אולי יהיה אחרת ונדע יותר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רגע בלי לחשוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

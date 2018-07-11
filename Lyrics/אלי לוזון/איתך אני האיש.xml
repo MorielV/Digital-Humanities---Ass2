@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איתך אני האיש</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>דני ריבלין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איתך אני האיש</head>
+        <lg number="1" type="stanza">
+          <l>הגברים לוקחים רחוק </l>
+          <l>אל העצב אל הצחוק</l>
+          <l>וכך יוצא שכל דבר קטן</l>
+          <l>הוא בשבילי מסע בזמן</l>
+          <l>חוף של ים ספינה באופק </l>
+          <l>עקבות שנשארו</l>
+          <l>ואני נזכר בשקט בימים שעברו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואיתך אני מרגיש</l>
+          <l>את לי אישה </l>
+          <l>אני לך איש</l>
+          <l>אווו..</l>
+          <l>ואיתך אני מוכן ללכת עד סוף העולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והגברים לוקחים רחוק</l>
+          <l>אל העצב אל הצחוק</l>
+          <l>וכל דבר אליו אני נמשך </l>
+          <l>הרי בסוף מצאת בך</l>
+          <l>זוג נרות צלצלי בזוקי</l>
+          <l>וריחות פרחי יסמין </l>
+          <l>ואני נזכר בשקט של אותם הימים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואיתך אני מרגיש...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וספנתי חותרת</l>
+          <l>לארץ אחרת</l>
+          <l>אולי לאיזה חוף</l>
+          <l>ששם אני בסוף </l>
+          <l>אמצא אותך.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואיתך אני מרגיש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

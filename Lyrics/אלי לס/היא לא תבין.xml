@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא לא תבין</title>
+        <singer classification="male singer">אלי לס</singer>
+        <writer>אלי לס</writer>
+        <composer>אלי לס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא לא תבין</head>
+        <lg number="1" type="stanza">
+          <l>כל היום נסענו מהר </l>
+          <l>חיפשנו מקום אחר </l>
+          <l>לחשוב לרוב </l>
+          <l>כמו ענן אבק בפסטיבל </l>
+          <l>זוכר כשאסימון נפל </l>
+          <l>ראיתי מים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היא לא תבין </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ההנאה שבנסיעה </l>
+          <l>וכששעת כושר מגיעה </l>
+          <l>לוקחים סיבוב </l>
+          <l>מחוץ לכביש דו נתיבי </l>
+          <l>יושבים בשקט מביטים </l>
+          <l>נהר זורם </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היא לא תבין</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

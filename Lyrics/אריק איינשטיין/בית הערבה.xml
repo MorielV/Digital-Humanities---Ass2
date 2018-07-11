@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בית הערבה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>חיים חפר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בית הערבה</head>
+        <lg number="1" type="stanza">
+          <l>אני זוכר את בית הערבה,</l>
+          <l>פיסת מדבר צרובה בארץ חרבה,</l>
+          <l>ירדן זורם שקט כמו חלום</l>
+          <l>וים המלח מת,</l>
+          <l>מכאן ועד לסדום.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>המדבר כיסה אותה,</l>
+          <l>באבק לבן ורך</l>
+          <l>עץ ירוק בארץ חרבה,</l>
+          <l>איך נשכח את בית הערבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני זוכר את ים המלח שם,</l>
+          <l>המים הכבדים, גלים בלחשם.</l>
+          <l>אסדת אשלג לוהטת מן החום</l>
+          <l>וכל הנצורים -</l>
+          <l>עוברים את ים המוות לסדום.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>המדבר כיסה אותה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

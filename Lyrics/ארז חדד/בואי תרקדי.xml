@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי תרקדי</title>
+        <singer classification="unknown">ארז חדד</singer>
+        <writer>מיכה סופר</writer>
+        <composer>מיכה סופר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי תרקדי</head>
+        <lg number="1" type="stanza">
+          <l>הכרתי בחורה מאוד יפה</l>
+          <l>על שפת הים הולכת יחפה</l>
+          <l>שערה ארוך היה גולש</l>
+          <l>בליבי מיד הדליקה אש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי תרקדי אישה שלי</l>
+          <l>ובסיבוב תסעירי את נפשי</l>
+          <l>הנה הראש שלי כבר מסתובב</l>
+          <l>מי ידע שככה אתאהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחורה יפה וחכמה</l>
+          <l>את לבבי גנבה היא בעורמה</l>
+          <l>איך חולק ליבה אל מול עיני</l>
+          <l>לה אתן את גביע עלומיי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואי תרקדי אישה שלי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בחורה יפה אך עקשנית</l>
+          <l>מריגוש של מליבי היא נהנית</l>
+          <l>באה ולחשה לי באוזני</l>
+          <l>אתה הוא אהובי עד סוף חיי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בואי תרקדי אישה שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

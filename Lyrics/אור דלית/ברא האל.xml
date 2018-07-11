@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברא האל</title>
+        <singer classification="unknown">אור דלית</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברא האל</head>
+        <lg number="1" type="stanza">
+          <l>בואי תראי איך שאני מרגיש</l>
+          <l>כך אמרת לי בשתי עיניך</l>
+          <l>ים של אושר בא הו יפתי</l>
+          <l>עוטף אותנו יחד באהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד מאז ברא האל את העולם</l>
+          <l>יצר את האדם אישה נתן</l>
+          <l>שלח אותך כמו שמש אל היום</l>
+          <l>נסיכה כמוך יש אחת בדור.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהוב שלי תמיד תדע </l>
+          <l>אתה המזל שלי כמו אור ירח</l>
+          <l>אתה הטוב שבאדם</l>
+          <l>לך אני מכאן ועד עולם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוד מאז ברא האל את העולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

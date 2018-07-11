@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בזכותך נסיכה</title>
+        <singer classification="unknown">אלון אליאור</singer>
+        <writer>אוהד מגלי</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בזכותך נסיכה</head>
+        <lg number="1" type="stanza">
+          <l>שידך מלטפת מחסיר פעימה</l>
+          <l>הגוף משתולל בזכותך נסיכה</l>
+          <l>בזכותך נסיכה</l>
+          <l>נתראה את אומרת לך לשלום</l>
+          <l>כשאני בך מביט מטייל בחלום</l>
+          <l>עוד חיבוק ונשיקה רגע פרידה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תני לי לנצח לממש אהבתינו</l>
+          <l>נצעד ביחד לתוך חלומותינו</l>
+          <l>יחדיו נגשים משאלות ליבנו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>צמרמורת הלכה צמרמורת חזרה</l>
+          <l>שוב בגללך ליבי החסיר פעימה</l>
+          <l>בזכותך נסיכה</l>
+          <l>את הכי יפה ברחבי המדינה</l>
+          <l>על כך מדברים גם בעיר הבירה</l>
+          <l>יופייך כה זוהר לא רק אותי הוא סינוור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תני לי לנצח לממש אהבתינו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

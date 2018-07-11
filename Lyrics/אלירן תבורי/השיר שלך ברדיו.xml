@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השיר שלך ברדיו</title>
+        <singer classification="unknown">אלירן תבורי</singer>
+        <writer>שולי דאי</writer>
+        <composer>אלי אסרף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השיר שלך ברדיו</head>
+        <lg number="1" type="stanza">
+          <l>לא נרדם בלילה במרפסת אני יושב</l>
+          <l>השיר שלך ברדיו ועליך שוב חושב</l>
+          <l>הכל חלף כמו רוח ממש כואב הלב</l>
+          <l>ואותך עדיין אני כל כך אוהב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היש סיכוי שתעברי ותשרקי לי</l>
+          <l>ושוב תאמרי לי אתה תותח</l>
+          <l>מתיי יבוא היום ושוב תרציני</l>
+          <l>הו בייבי אני צריך אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החיים לא כל יום פיקניק ידעתי זאת תמיד</l>
+          <l>לא כל יום פסיפיק אך אותי זה לא הפחיד</l>
+          <l>היו זמנים ששרת לי לעולם לא נפרד</l>
+          <l>מי חלם שתעזביני שאהיה כל כך בודד.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היש סיכוי ......</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>התרנגול קורא כבר בוקר הגיע יום חדש</l>
+          <l>מסתובב מצד אל צד אבל אותך אני לא חש</l>
+          <l>כה אני מתגעגע להרגיש את חום גופך</l>
+          <l>לא קיימת עלמה שתמלא את מקומך</l>
+          <l>היש סיכוי .......</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

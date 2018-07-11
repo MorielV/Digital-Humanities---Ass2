@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משלימה אותי</title>
+        <singer classification="unknown">אליעד בן דיין</singer>
+        <writer>משה אטיאס</writer>
+        <composer>רובי ראובני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משלימה אותי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>את משלימה אותי כמו במשוואה, </l>
+          <l>להיות איתך לעד זאת משאלה אחד, </l>
+          <l>ועוד אחת הרבה יותר משניים </l>
+          <l>אז בואי ונעוף מהחופה לשמיים. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את זוהרת כמו השמש שעוד מעט יורדת, </l>
+          <l>עם מבט בתולי על עצמך את שומרת, </l>
+          <l>בחלומי לא הבחנתי אם את אמיתית,</l>
+          <l>כזאת מדהימה ולא מציאותית. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את שונה ומיוחדת מעשרות נערות, </l>
+          <l>הלב כבר בחר הוא איתך רוצה לחיות, </l>
+          <l>היכנסי נסיכה אני עוד מעט נכנע, </l>
+          <l>עונד לך טבעת ולנצח נשבע. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את משלימה אותי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את עכשיו לי אם לפרי אהבתנו, </l>
+          <l>האור הדולק המחבר בינינו, </l>
+          <l>והיום אני מבין שזו לא אגדה, </l>
+          <l>את כלה מהממת אחת ויחידה. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את משלימה אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

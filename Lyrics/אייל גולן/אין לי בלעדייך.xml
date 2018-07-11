@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין לי בלעדייך</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>אביחי מליחי</writer>
+        <composer>אביחי מליחי</composer>
+        <album>לחישה בלילה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין לי בלעדייך</head>
+        <lg number="1" type="stanza">
+          <l>נשמתי, אין לי בלעדייך</l>
+          <l>את יומי לילי וכל חיי</l>
+          <l>מה ביקשתי רק את שתי ידייך </l>
+          <l>לאהוב גם בערוב ימי </l>
+          <l>את לי די או הוו......</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תלכי, הישארי כאן </l>
+          <l>לך אקטוף פרחי הגן</l>
+          <l>אל תאמרי שכבר נגמר לך</l>
+          <l>עבר הזמן ומאוחר</l>
+          <l>אווו הוווו.....</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהובתי אין לי בלעדייך</l>
+          <l>ובעזרת האל היה רק טוב</l>
+          <l>נושא אני תפילה עד השמיים</l>
+          <l>שאל היתי תגיעי עוד היום</l>
+          <l>נאהב בחום אוו הווו.....</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תלכי, הישארי כאן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

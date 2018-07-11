@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קור אחרון</title>
+        <singer classification="female singer">אפרת גוש</singer>
+        <writer>ברק פלדמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קור אחרון</head>
+        <lg number="1" type="stanza">
+          <l>קור אחרון של החורף עבר,</l>
+          <l>בוקר עולה על אביב שנשאר.</l>
+          <l>אין מה לחזור לדברים שקרו,</l>
+          <l>אין מה לזכור ברוחות שעברו.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שמש עולה ברקיע מעל,</l>
+          <l>מי עוד זוכר את החורף בכלל,</l>
+          <l>כל טיפותיו כבר זרמו אל הים</l>
+          <l>כל ענניו נעלמו ואינם.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואין טל ומטר על פני המים,</l>
+          <l>אופק נשבר, את, אתה ואני</l>
+          <l>עד סוף הקיץ כאן.</l>
+          <l>ואין טל ומטר על פני המים,</l>
+          <l>אופק נשבר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל תעצמי את עינייך לשווא,</l>
+          <l>אל תוותרי לעצמך כי עכשיו</l>
+          <l>מחלוני עד לקו חלונך</l>
+          <l>ים של פרחים מתגבר והולך.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>גם אם היו רעמים ודמעות,</l>
+          <l>גם אם היו הם אינם יותר עוד.</l>
+          <l>בואי וראי כי מפה עד לשם</l>
+          <l>אין עננים עד לסוף העולם.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואין טל ומטר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

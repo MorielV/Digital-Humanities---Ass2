@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תן 20</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>שמרית אור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תן</head>
+        <lg number="1" type="stanza">
+          <l>כן, אינני יכולה כבר</l>
+          <l>אין לשוב להתחלה</l>
+          <l>לכן, הקשב לכל מילה</l>
+          <l>שנקראה מלב.</l>
+          <l>את מה שהיה לי כבר לתת</l>
+          <l>נתתי בעבר</l>
+          <l>כעת, מותשת ולאה</l>
+          <l>מעומס הכאב.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בוא ואמור עכשיו</l>
+          <l>בידך הקלף</l>
+          <l>סוף כל סוף נחשף</l>
+          <l>אז בוא ושבוא עכשיו את השתיקה</l>
+          <l>קולה חזק מזעקה</l>
+          <l>של פחד ושל קרב.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תן את כל מה שיש או אין</l>
+          <l>אם רק תאמר מילה</l>
+          <l>היא תישמע תפילה</l>
+          <l>תן את כל מה שיש או אין</l>
+          <l>תן לי הפעם את כולך</l>
+          <l>הטוב הרע שלך</l>
+          <l>תן רק תן.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי אמר שבמשחק תמיד</l>
+          <l>חזק נשאר חזק ומי</l>
+          <l>אמר שרק אחד צועק את הכאב.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בוא ואמור עכשיו...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תן את כל מה שיש או אין...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

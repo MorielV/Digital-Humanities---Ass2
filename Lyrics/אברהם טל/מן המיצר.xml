@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מן המיצר</title>
+        <singer classification="male singer">אברהם טל</singer>
+        <writer>אברהם טל</writer>
+        <composer>אברהם טל</composer>
+        <album>אברהם טל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מן המיצר</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>מן המיצר קראתי לה</l>
+          <l>מן המיצר קראתי לה</l>
+          <l>והיא עולה כמו מים רבים</l>
+          <l>והיא עולה כמו מים רבים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ממעמקים הנשמה מבקש</l>
+          <l>להיות חופשי פה באדמה</l>
+          <l>מנסה למצוא את החופש האמיתי</l>
+          <l>מנסה לשמוע את קול הלב מעומק אשלייתי</l>
+          <l>והנה את באה ונראה שאצלך הכל שקוף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואצלי הגלים מסעירים את הים</l>
+          <l>וכל רחש קטן מאבד</l>
+          <l>תחושת זמן ומקום ועיקר</l>
+          <l>איזה מזל שאלוהים</l>
+          <l>הביא אותנו לכאן שניים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מן המיצר קראתי לה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

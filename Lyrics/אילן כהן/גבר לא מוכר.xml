@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גבר לא מוכר</title>
+        <singer classification="unknown">אילן כהן</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גבר לא מוכר</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אל תלכי לבדך לגבר לא מוכר,</l>
+          <l>אל תתני את עצמך ואת כל היקר</l>
+          <l>את ליבך פתחי נערה</l>
+          <l>לאיש אוהב שלא רק מתעניין בגופך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>המילים היפות שהוא וודאי יאמר</l>
+          <l>ועולם ההבטחות על ילד המחר</l>
+          <l>לפעמים נשכחים מליבו</l>
+          <l>שמשקר אחרי ערב חם וסוער</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תלכי לבדך לגבר לא מוכר...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שוב ידו ושפתיו בלילה מיוחד</l>
+          <l>ואותם רגעים של אושר מעורפל</l>
+          <l>לפעמים נמחקים בחייו</l>
+          <l>ביום אחד אך אצלך נותרים הם לעד</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל תלכי לבדך לגבר לא מוכר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

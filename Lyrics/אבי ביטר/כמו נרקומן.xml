@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו נרקומן</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו נרקומן</head>
+        <lg number="1" type="stanza">
+          <l>כשהלב שלי נשבר</l>
+          <l>הכל אבוד ולא נותר לי דבר</l>
+          <l>אז אין מה לעשות</l>
+          <l>רק לבכות, רק לבכות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני אלוף הסבל</l>
+          <l>על כינור ונבל</l>
+          <l>אנגן יום ולילה בשבילך</l>
+          <l>זוכר ימים בחדר</l>
+          <l>הכל היה בסדר</l>
+          <l>אהבה שורפת את הלב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כמו אלכוהוליסט לנשיקות שלך</l>
+          <l>כמו נרקומן לחיבוקים שלך</l>
+          <l>כמו משוגע אני רוצה אותך</l>
+          <l>כמו אלכוהוליסט לנשיקות שלך</l>
+          <l>כמו נרקומן לחיבוקים שלך</l>
+          <l>כמו משוגע אני אוהב אותך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשאני לידך</l>
+          <l>אני מתבלבל ולא מוצא לי איך</l>
+          <l>לומר לך מה שבלב</l>
+          <l>לומר לך כמה שאני אוהב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני אלוף הסבל</l>
+          <l>על כינור ונבל</l>
+          <l>אנגן רק יום ולילה בשבילך</l>
+          <l>זוכר ימים בחדר</l>
+          <l>הכל היה בסדר</l>
+          <l>האהבה הזאת שורפת את הלב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כמו אלכוהוליסט לנשיקות שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

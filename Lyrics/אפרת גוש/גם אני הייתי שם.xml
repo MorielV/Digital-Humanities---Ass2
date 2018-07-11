@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גם אני הייתי שם</title>
+        <singer classification="female singer">אפרת גוש</singer>
+        <writer>ברק פלדמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גם אני הייתי שם</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו כשהוא שלך,</l>
+          <l>האם את מרגישה</l>
+          <l>את כל אותם גלים</l>
+          <l>גואים בתוך ליבך?</l>
+          <l>האם יפריע לך</l>
+          <l>אם אתקרב אליו,</l>
+          <l>אומר לו</l>
+          <l>שלום ואחייך?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עכשיו כשהוא שלך,</l>
+          <l>האם את מגלה</l>
+          <l>את כל אותן תחושות,</l>
+          <l>שקודם עוד הסתרת?</l>
+          <l>האם את פוחדת</l>
+          <l>בלילה במיטה,</l>
+          <l>שהוא יצעק את שמי</l>
+          <l>ולא יזכור מי את?</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>גם </l>
+          <l>אני הייתי שם.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עכשיו כשהוא שלך,</l>
+          <l>האם את רגועה?</l>
+          <l>לא מרעידה דמעה</l>
+          <l>כשהוא מגיע מאוחר?</l>
+          <l>האם את מקיפה</l>
+          <l>את עצמך באשליה</l>
+          <l>שהכול בסדר</l>
+          <l>ואין בעצם שום דבר?</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>גם </l>
+          <l>אני הייתי שם.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עכשיו כשהוא שלך,</l>
+          <l>האם תוכלי לראות</l>
+          <l>כיצד הוא מתפרק מול</l>
+          <l>תשוקתו הישנה?</l>
+          <l>האם כשהוא מצחיק אותי</l>
+          <l>נקוות בך הדמעות?</l>
+          <l>האם כשהוא נוגע בי</l>
+          <l>את סוף סוף מבינה?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

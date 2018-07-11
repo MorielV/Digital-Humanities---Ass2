@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הגבול הוא השמיים</title>
+        <singer classification="unknown">אוסנת זנו</singer>
+        <writer>אהוד מנור</writer>
+        <composer>קובי אושרת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הגבול הוא השמיים</head>
+        <lg number="1" type="stanza">
+          <l>ששה ימים עולם ברא</l>
+          <l>שמיים, ים ודשא</l>
+          <l>אבל הביטו מה קרה - </l>
+          <l>יירד מבול, היכן הקשת?</l>
+          <l>אך אסור להתייאש</l>
+          <l>אסור למשוך ידיים</l>
+          <l>כי אפשר לגבור על מים ועל אש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ידיך הם ידי</l>
+          <l>עיניך הם עיני</l>
+          <l>ימי חייך הם ימי חיי,</l>
+          <l>תזכור שעל מפת האהבה</l>
+          <l>הגבול הוא השמיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לכל בניו חיים נתן - </l>
+          <l>לשם, לחם, ליפת</l>
+          <l>ואם נופל כוכב קטן</l>
+          <l>אני אותו אלי אוספת</l>
+          <l>כי אסור להתייאש,</l>
+          <l>תראה אנחנו שניים</l>
+          <l>אנו יכולים עדיין לבקש...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ידיך הם ידי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

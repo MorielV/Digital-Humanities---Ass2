@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דיו</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>אביתר בנאי</composer>
+        <album>שיר טיול</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דיו</head>
+        <lg number="1" type="stanza">
+          <l>דיו כהה שפוך</l>
+          <l>רוח יורדת ועולה</l>
+          <l>זה מורט את העצבים</l>
+          <l>הגלים העולים והנמוכים</l>
+          <l>(או או או)</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גוף אני רוצה</l>
+          <l>לא את הנייר הזה</l>
+          <l>לעוף אני רוצה</l>
+          <l>האוננות המזוינת הזו</l>
+          <l>הנמוכה והשטוחה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא יפה אבל</l>
+          <l>הכהה המכוער הזה</l>
+          <l>הוא יפה אבל</l>
+          <l>הכהה המכוער הזה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בחוץ שמלות קצרות</l>
+          <l>הכל בהילוך מיני</l>
+          <l>כשרושם המחשבות ימות</l>
+          <l>אז הדוב יצא לחפש מתוק</l>
+          <l>מאישה יפה לאישה יפה לאישה יפה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>(או או או או...)</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הוא יפה אבל</l>
+          <l>הכהה המכוער הזה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

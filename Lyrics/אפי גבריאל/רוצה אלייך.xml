@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוצה אלייך</title>
+        <singer classification="unknown">אפי גבריאל</singer>
+        <writer>ישי ויסמן</writer>
+        <composer>בנצי מור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוצה אלייך</head>
+        <lg number="1" type="stanza">
+          <l>בואי וניקח, את כל האהבה</l>
+          <l>ונשמור אותה קרוב אלינו</l>
+          <l>בואי ונצמח, מתוך תקווה גדולה</l>
+          <l>שרק האור שלה, יאיר בינינו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני שלך ולא אשכח, כמה לילות חיכיתי לך</l>
+          <l>וגם אם קצת קשה, אני יודע שזו את.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רוצה אלייך, כי בלעדייך</l>
+          <l>כל העולם שלי שומם, ואין שמיים</l>
+          <l>כמה חיפשתי, עד שמצאתי</l>
+          <l>בתוך החושך הגדול, את שביקשתי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמה כינויים נתנו לאהבה</l>
+          <l>אבל היא אמיתית, והיא שלנו</l>
+          <l>כמה מנסים ולא מוצאים אותה</l>
+          <l>אז בואי נברך, שהיא איתנו</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני שלך ולא אשכח, איך שהלב שלם איתך</l>
+          <l>וגם אם קצת קשה, אני יודע שזו את.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רוצה אלייך, כי בלעדייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

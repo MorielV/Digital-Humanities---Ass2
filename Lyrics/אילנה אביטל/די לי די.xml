@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>די לי די</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>שמרית אור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>די לי די</head>
+        <lg number="1" type="stanza">
+          <l>קו לכאב וגבול לצער </l>
+          <l>סוף גם לשתיקה </l>
+          <l>לשוני חדה כתער </l>
+          <l>ליבתי רכה </l>
+          <l>קול קורא ישרי קומה </l>
+          <l>והניצן יבקע </l>
+          <l>קול קורא היי שלמה </l>
+          <l>הרי את חזקה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>די לי די רק בשתי ידי</l>
+          <l>אמצא את המסילה </l>
+          <l>די לי די גם אם לא כדאי </l>
+          <l>רק אל תאמר מילה </l>
+          <l>די לי די רק בשתי ידי</l>
+          <l>אשא את השגיאה </l>
+          <l>די לי די זה נגמר ודי </l>
+          <l>אני כבר לא פגיעה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד אפרוץ מנעול ושער </l>
+          <l>גשר לאורכו </l>
+          <l>גם זאב בודד ביער </l>
+          <l>מפלס דרכו </l>
+          <l>קול קורא </l>
+          <l>הגיע עת </l>
+          <l>ואת כבר מנוסה </l>
+          <l>קול קורא </l>
+          <l>בזמן לצאת </l>
+          <l>אל דרך המסע </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>די לי די...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

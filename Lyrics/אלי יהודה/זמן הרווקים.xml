@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמן הרווקים</title>
+        <singer classification="unknown">אלי יהודה</singer>
+        <writer>רפי אגרונוב</writer>
+        <composer>רפי אגרונוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמן הרווקים</head>
+        <lg number="1" type="stanza">
+          <l>כשבערב נפגשים</l>
+          <l>אל הרכב ניגשים</l>
+          <l>וחרקות בכבישים</l>
+          <l>לעיני האנשים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוד קצת ג'ל בשערות</l>
+          <l>ותדליקו ת'אורות</l>
+          <l>כי אנחנו מגיעים</l>
+          <l>לרחבת הריקודים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>צליל תופים וכינורות</l>
+          <l>נסיכים ונסיכות</l>
+          <l>כל אותם החלומות</l>
+          <l>מתגשמים פה בלילות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>די חבר אל תתעצל</l>
+          <l>בוא סיגריה נגלגל</l>
+          <l>ונשכח ת'כאבים</l>
+          <l>בוא נעוף לעננים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשבערב נפגשים...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כשהבוקר כבר עלה</l>
+          <l>זו שעה לעבודה</l>
+          <l>אבל אנו חוגגים</l>
+          <l>בשבילנו זו עובדה</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>והשמש במרום</l>
+          <l>תלטף היא בחום</l>
+          <l>כאן רוקדים ונהנים</l>
+          <l>והנה נשטף עוד יום</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>צליל תופים וכינורות...</l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>והנה עכשיו צרה</l>
+          <l>מגיעה לה משטרה</l>
+          <l>תכבו את האורות</l>
+          <l>זה הסוף לחגיגה</l>
+        </lg>
+        <lg number="10" type="stanza">
+          <l>אך אנחנו לא נשתוק</l>
+          <l>נעבור פה על החוק</l>
+          <l>כי חיינו הם בילוי</l>
+          <l>לא ניתן להם סיכוי </l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

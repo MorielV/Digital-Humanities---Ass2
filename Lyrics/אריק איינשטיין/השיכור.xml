@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השיכור</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אברהם חלפי</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>יושב על הגדר </album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השיכור</head>
+        <lg number="1" type="stanza">
+          <l>נושרים כוכבים אחד אחד.</l>
+          <l>אענדם, אענדם כאבני החן.</l>
+          <l>ואז אדמה, שהלילה ירד -</l>
+          <l>ולבש גופי מגן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כי מלא האויר נשימת ינשוף -</l>
+          <l>אין לראות, אין לדעת שבילי מחר.</l>
+          <l>ויכול להיות כי כבר לא תשוב</l>
+          <l>אל הבית, שבו אתה גר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואת שעותיך - פלאי הזמן,</l>
+          <l>ואת תקוותיך - פלאי האור,</l>
+          <l>אולי לא תוסיף עוד לשתות עד תומן,</l>
+          <l>אתה השיכור, השיכור.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

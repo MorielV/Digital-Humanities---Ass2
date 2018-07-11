@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי שידע אותה ידע</title>
+        <singer classification="female singer">איגי וקסמן</singer>
+        <writer>איגי וקסמן</writer>
+        <composer>יהלי סובול</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי שידע אותה ידע</head>
+        <lg number="1" type="stanza">
+          <l>מי שידע אותה ידע</l>
+          <l>שהייתה בודדה</l>
+          <l>את הכול היא עשתה לשם משחק</l>
+          <l>כשנהיה מאוחר</l>
+          <l>לא נותר לה דבר</l>
+          <l>פרט לאיש קטן, גרגר אבק</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מי שידע אותה ידע</l>
+          <l>שהייתה אהבה</l>
+          <l>לא מבט ראשון גם לא שני</l>
+          <l>היא פתחה לו את הדלת</l>
+          <l>לא בכלל לא מפוחדת</l>
+          <l>ובדרך עוד מבט חטוף בראי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה שורף</l>
+          <l>זה קשה</l>
+          <l>זה מבטיח לה הרבה ריגושים</l>
+          <l>זה ייגמר בדמעות</l>
+          <l>אין לדעת מה יהיה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי שידע אותה ידע</l>
+          <l>שאין לה משפחה</l>
+          <l>כל יום סיפרה סיפור אחר</l>
+          <l>היא הייתה, ראתה</l>
+          <l>רק את מה שרצתה</l>
+          <l>אחר כך הסתלקה משם מהר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מי שידע אותה ידע</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

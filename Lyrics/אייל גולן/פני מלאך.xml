@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פני מלאך</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>ציון שרעבי</writer>
+        <composer>ציון שרעבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פני מלאך</head>
+        <lg number="1" type="stanza">
+          <l>פני מלאך, פנייך מה יפות</l>
+          <l>מה נועזת את באהבות</l>
+          <l>מבטך שולח להבות</l>
+          <l>נהרות לא יוכלו לכבות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עזה וביישנית</l>
+          <l>רכה ועקשנית</l>
+          <l>גסה וחושנית</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דוניה דוני כמו תמיד עוקצת</l>
+          <l>כמו מלכת דבורים אהבתך</l>
+          <l>מזמינה אך בסוף הורגת</l>
+          <l>כמו שאת בונה כך הורסת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דוניה, דוני דוני דוני</l>
+          <l>דוניה, דוני דוני דוני</l>
+          <l>דוניה אההה דוניה</l>
+          <l>דוניה אההה דוניה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מכתבים של גבר בחדרך</l>
+          <l>כל מילה נוקשת בלבך</l>
+          <l>גבר שיפריח את כנפך</l>
+          <l>בך ישכון וישקה פרייך</l>
+          <l>הוא על ליבך ישים חותם באזיקים</l>
+          <l>בית לך יקים</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>דוניה דוני, כמו תמיד עוקצת</l>
+          <l>כמו מלכת דבורים אהבתך</l>
+          <l>מזמינה אך בסוף הורגת</l>
+          <l>כמו שאת בונה כך הורסת</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>דוניה, דוני דוני דוני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

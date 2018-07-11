@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עף ברוח 2</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>אסף שריג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עף ברוח</head>
+        <lg number="1" type="stanza">
+          <l>שיממון בכביש מהיר </l>
+          <l>שעמום עוטף ממאיר </l>
+          <l>נגמר כל האוויר והדלק </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מעביר בפרסומות </l>
+          <l>נגמרו התחנות </l>
+          <l>מתים בחדשות,לתפארת </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קם לי וחוזר לישון </l>
+          <l>כמו נמוך בקול ראשון </l>
+          <l>פורש כנפיים לחלון הפתוח </l>
+          <l>קיר האותיות אפור </l>
+          <l>דם עולה מתוך הבור </l>
+          <l>ואין לי כוח לעצור,עף ברוח </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מזימות באפלה </l>
+          <l>בוחשים בהשפלה </l>
+          <l>נפקד מהתחלה,במפתיע </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נשאב אל תוך האור </l>
+          <l>אל נקודת האל-חזור </l>
+          <l>לאן,כולם יודעים,לא נגיע </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>קם לי וחוזר לישון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ליבי</title>
+        <singer classification="unknown">אריאלה עדוי</singer>
+        <writer>אריאלה עדוי</writer>
+        <composer>אריאלה עדוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ליבי</head>
+        <lg number="1" type="stanza">
+          <l>ליבי חומק ממני ורץ, רץ אליך</l>
+          <l>רוצה אליך, שתחבק ותאהב</l>
+          <l>ליבי מתגנב החוצה, בסתר אליך</l>
+          <l>בלאט אל זרועותיך, שתחבק ותאהב...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואתה נושק לו</l>
+          <l>ומחזיר אותו למקומו</l>
+          <l>סוגר בעדינות את פצעי ומחייך...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ליבי פועם בי, בועט ומתהולל</l>
+          <l>בועט ומשתולל, רק תחבק, רק תאהב</l>
+          <l>הוא בורח ממני, ורץ רץ אליך</l>
+          <l>רוצה אליך, שתחבק ותאהב...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואתה נושק לו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

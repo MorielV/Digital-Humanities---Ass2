@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתרחב באור</title>
+        <singer classification="female singer">אחינועם ניני</singer>
+        <writer>אחינועם ניני</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתרחב באור</head>
+        <lg number="1" type="stanza">
+          <l>בין ריסיך</l>
+          <l>אני שותלת רקפות כל הלילה</l>
+          <l>נשימותיך</l>
+          <l>כמו רוח זעירה מן הצפון</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חום בהיר</l>
+          <l>משורג שחור</l>
+          <l>חום בהיר</l>
+          <l>מתרחב באור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ביחד</l>
+          <l>בחוץ רחוב קטן ישן, לא בשקט</l>
+          <l>והפחד</l>
+          <l>מתגלגל במדרונות חלומותי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חום בהיר</l>
+          <l>משורג שחור</l>
+          <l>חום בהיר</l>
+          <l>מתרחב באור</l>
+          <l>מתרחב באור, נוגע בלי לגעת</l>
+          <l>מתעורר אלי, מוצא אותי לדעת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בבוקר</l>
+          <l>שערי כמו גלים מסביבנו</l>
+          <l>ואנחנו</l>
+          <l>בין הרים גבוהים וערפילי שמיכה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>חום בהיר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

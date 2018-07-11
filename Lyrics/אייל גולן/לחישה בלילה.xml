@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לחישה בלילה</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>אביחי מליחי</writer>
+        <composer>אביחי מליחי</composer>
+        <album>לחישה בלילה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לחישה בלילה</head>
+        <lg number="1" type="stanza">
+          <l>לחישה בלילה והיא איננה</l>
+          <l>גם שרחוקה היא ממני</l>
+          <l>זכרונה עולה שוב בליבי הלילה</l>
+          <l>איך אותה רציתי כל חיי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ידי בידה ולאור ירח עוד יאיר לי כוכב</l>
+          <l>היא תבוא אלי ליבה פורח</l>
+          <l>כל ימי אותה אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רק זאת ביקשתי בידה אחזתי</l>
+          <l>היא כמו חלום שלא נגמר</l>
+          <l>רק זאת שאלתי שליבי נתתי</l>
+          <l>הושטתי לה פרח אני שר</l>
+          <l>רק זאת שאלתי שליבי נתתי</l>
+          <l>הושטתי לה פרח אני שר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לחישה בלילה רוח שנושבת</l>
+          <l>מכניסה בי רטט אהבה</l>
+          <l>חזרתי אליה אל זו שאוהבת</l>
+          <l>רק בה חפצתי בלבבה</l>
+          <l>ידי בידה ולאור ירח עוד יאיר לי כוכב</l>
+          <l>היא תבוא אלי ליבה פורח</l>
+          <l>כל ימי אותה אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רק זאת ביקשתי...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ידי בידה ולאור ירח עוד יאיר לי כוכב</l>
+          <l>היא תבוא אלי ליבה פורח</l>
+          <l>כל ימי אותה אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>רק זאת ביקשתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

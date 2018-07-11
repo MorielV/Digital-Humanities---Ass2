@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשאת איתו</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>אייל גולן</writer>
+        <composer>קריאקוס פופודופולוס</composer>
+        <album>נגעת לי בלב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשאת איתו</head>
+        <lg number="1" type="stanza">
+          <l>פתאום הלכת ממני הלך איתך גם החלום</l>
+          <l>אל בית ריק חזרתי מכתב השארת לי</l>
+          <l>ובו אמרת הכול</l>
+          <l>כתבת שאת אהבת אותי</l>
+          <l>שבאמת היית שלי</l>
+          <l>אך את עצמך מצאת איתו</l>
+          <l>נתת לו את הכול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני לבד יושב לי וחושב לי היכן אהבתי</l>
+          <l>היכן טעיתי מה לא נכון עשיתי</l>
+          <l>שכך פגעה היא בגאוותי</l>
+          <l>ואל נא תחפשיני כשאת תביני אני אהיה רחוק</l>
+          <l>עוד יום עובר לי ורק יותר כואב לי</l>
+          <l>הלב נשבר לי כשאת איתו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זוכר איך שאהבנו ואת היית לי לאישה</l>
+          <l>ימים יפים ידענו</l>
+          <l>איך כך פגעה בי אותה פרידה</l>
+          <l>רציתי שתהיי שלי שכול הזמן תהיי מולי</l>
+          <l>עכשיו אני נשרף באש אהבתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני לבד יושב לי וחושב לי היכן אהבתי</l>
+          <l>היכן טעיתי מה לא נכון עשיתי</l>
+          <l>שכך פגעה היא בגאוותי</l>
+          <l>ואל נא תחפשיני כשאת תביני אני אהיה רחוק</l>
+          <l>עוד יום עובר לי ורק יותר כואב לי</l>
+          <l>הלב נשבר לי כשאת איתו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

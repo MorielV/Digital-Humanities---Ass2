@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר ההד</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>יעקב שבתאי</writer>
+        <composer>missing</composer>
+        <album>דיוקן - האלבום</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר ההד</head>
+        <lg number="1" type="stanza">
+          <l>בוקר עלה בהרים הכחולים</l>
+          <l>טיפסתי נושם בשבילים עתיקים</l>
+          <l>נולד בי שיר זמר נושן:</l>
+          <l>"הו, מה כחול!"</l>
+          <l>והד לי ענה מהרי הבשן:</l>
+          <l>"הו, מה כחול, כחול, כחול, כחול!"</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שמש מכה על ראשי הגבעות</l>
+          <l>קרוע בגדי ופני לוהטות</l>
+          <l>שירי אז עלה בצמא:</l>
+          <l>"הו מה עייף!"</l>
+          <l>והד לי ענה מאבני החומה:</l>
+          <l>"הו מה עייף, עייף, עייף, עייף!"</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ערב יורד ובגיא דמדומים</l>
+          <l>פסעתי בודד בשבילים אדומים</l>
+          <l>שירי מתגלגל במדרון:</l>
+          <l>"הו מה בודד!"</l>
+          <l>והד לי ענה מהרי גוש עציון</l>
+          <l>"הו מה בודד, בודד, בודד, בודד!"</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ליל ירד בין צוקי הר נבו</l>
+          <l>צבוע בוכה אל מדבר וחולו</l>
+          <l>קולי מחפש את רעי</l>
+          <l>"הו מה רחוק!"</l>
+          <l>והד לי ענה מפסגת הר סיני:</l>
+          <l>"הו מה רחוק, רחוק, רחוק, רחוק!"</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

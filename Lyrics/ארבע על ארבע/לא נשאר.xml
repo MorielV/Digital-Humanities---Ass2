@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא נשאר 2</title>
+        <singer classification="band">ארבע על ארבע</singer>
+        <writer>דני רובס</writer>
+        <composer>יואל לרנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא נשאר</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>לא נשאר, לא נשאר איתך</l>
+          <l>אני לא נשאר, בואי ונשכח</l>
+          <l>מה יביא מחר - לא, אנ'לא נביא</l>
+          <l>מה שיביא</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כבר נרדמתÀ, אני עוד ער</l>
+          <l>מסתכל סביב, לא ממהר</l>
+          <l>סופר את מה שיש, מתלבש</l>
+          <l>ככה זה קורה תמיד</l>
+          <l>אין מחר, הלילה הוא יחיד</l>
+          <l>היה חלום קצר, וגם הוא נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא נשאר...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לך ולי היה מובן</l>
+          <l>זה בסך הכל עכשיו וכאן</l>
+          <l>מכאן אני צריך להמשיך</l>
+          <l>לא נשאר מה להגיד</l>
+          <l>לא היה לזה בכלל עתיד</l>
+          <l>רצינו רק לשכב</l>
+          <l>כאן, מהר, עכשיו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא נשאר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

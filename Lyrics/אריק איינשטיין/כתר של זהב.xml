@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כתר של זהב</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>שלום חנוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כתר של זהב</head>
+        <lg number="1" type="stanza">
+          <l>ים של כוכבים עוטף אותך</l>
+          <l>וזה יפה כל כך</l>
+          <l>כל כך</l>
+          <l>כל המלאכים שרים רק לך</l>
+          <l>והשמש מלטפת רק אותך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כתר של זהב לראש מלכה</l>
+          <l>כתר של זהב טהור</l>
+          <l>בואי ונאהב, ילדה רכה</l>
+          <l>שיערך זהב שחור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את דורכת קשת בענן</l>
+          <l>חיצי זהב טסים אליו</l>
+          <l>את צובעת את פרחי הגן</l>
+          <l>וחולפת בשמיים מעליו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כתר של זהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

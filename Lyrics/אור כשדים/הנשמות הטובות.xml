@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנשמות הטובות</title>
+        <singer classification="band">אור כשדים</singer>
+        <writer>רונן בן טל</writer>
+        <composer>רונן בן טל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנשמות הטובות</head>
+        <lg number="1" type="stanza">
+          <l>מסתכלים עלייך</l>
+          <l>בשבע עיניים</l>
+          <l>מכל הכיוונים</l>
+          <l>נשלחות ידיים</l>
+          <l>אצבעות ארוכות ודביקות</l>
+          <l>מחטטות לך בכיסים</l>
+          <l>לשונות רעות ושורטות</l>
+          <l>מושכות לך בגב</l>
+          <l>נועצות שיניים</l>
+          <l>ממששות לך מתחת לבגדים</l>
+          <l>מלקקות שפתיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הן מחכות שתיפול</l>
+          <l>מחכות שתמעד</l>
+          <l>מחכות שתצעק להן די</l>
+          <l>הנשמות הטובות</l>
+          <l>הנשמות הטובות</l>
+          <l>מחכות שתצעק להן די</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נשאר לי זכרון מכושף</l>
+          <l>מהדרך לירושלים</l>
+          <l>כשהשמש שורפת את הכביש</l>
+          <l>פוצעת לי את העיניים</l>
+          <l>פתאום מלמעלה איזה רחש מוכר</l>
+          <l>שנשמע כמו משק כנפיים</l>
+          <l>והאוויר נהיה כל כך צלול וקר</l>
+          <l>אני נזכר בזה עכשיו</l>
+          <l>נהיה לי קר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הן מחכות שתיפול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

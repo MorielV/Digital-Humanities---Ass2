@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מודה אני 3</title>
+        <singer classification="male singer">אוהד חיטמן</singer>
+        <writer>אוהד חיטמן</writer>
+        <composer>אוהד חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מודה אני</head>
+        <lg number="1" type="stanza">
+          <l>כל עוד הקולות, שבי אומרים לי להמשיך להאמין,</l>
+          <l>שקיימת אהבה גם בשבילי - מודה אני</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל יום, כשהלב מזקין, אך לא מסכים להיגמל</l>
+          <l>מחלומות וזה מה שמחזיק אותי - מודה אני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל עוד, שהגל נשבר בים גועש</l>
+          <l>אני אוכל להיות כל מה שיכול לאש, אבל את חומה לשמור - בוער אני</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מודה אני שכשלתי ונפלתי לפניך</l>
+          <l>ופניך כמו חותם בי, שלא תם בי, אתה בי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל בור מתקשה לקבור, אחרת ייאבד גם את עצמו</l>
+          <l>ולא ישוב להיות מוחלט וכוחני - וגם אני</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כל עוד, כשרוקד בזמן שהלב מזקין</l>
+          <l>בונה לי חלומות לעוד הרבה שנים, חלומות קטנים - מודה אני</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

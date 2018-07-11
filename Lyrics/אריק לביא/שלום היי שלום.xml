@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלום היי שלום</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>אריק לביא</writer>
+        <composer>אריק לביא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלום היי שלום</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>שלום, שלום, שלום </l>
+          <l>היי שלום, שלום. </l>
+          <l>שלום, שלום, שלום </l>
+          <l>היי שלום, שלום. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש לי אותי, ויש לי אותך </l>
+          <l>ויש לי שריטה מכדור של תותח </l>
+          <l>יש לי לילה ויש לי יום </l>
+          <l>אבל עוד אין לי שלום </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שלום, שלום, שלום... </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש לי דמעות ויש לי צחוק </l>
+          <l>ויש לי עץ ששתלתי עמוק </l>
+          <l>יש לי יש ויש לי חלום </l>
+          <l>אבל עוד אין לי שלום </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שלום, שלום, שלום... </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>יש לי בית ואין לי אחר </l>
+          <l>יש לי גם בן שמשחק בחצר </l>
+          <l>יש לי זמן ויש לי מקום </l>
+          <l>אבל עוד לי שלום </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>שלום, שלום, שלום... </l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>יש לי רצון ואין זו אגדה </l>
+          <l>במקום רובים נעשה אהבה </l>
+          <l>יש לי כוסית ששתיתי עד תום </l>
+          <l>אבל עוד אין לי שלום </l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>שלום, שלום, שלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

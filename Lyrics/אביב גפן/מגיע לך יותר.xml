@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מגיע לך יותר</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>יומן מסע</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מגיע לך יותר</head>
+        <lg number="1" type="stanza">
+          <l>לא יכול לראות אותך סובלת</l>
+          <l>הצלקות שעל ליבך</l>
+          <l>ורוצה לעזור, את יודעת</l>
+          <l>זה קשה</l>
+          <l>כי ככל שאני מנסה להחביא</l>
+          <l>אז ככה זה יוצא</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא יכול לראות אותך שותקת</l>
+          <l>היתדות שעל נפשך</l>
+          <l>כי אנחנו דומים ויודעים גם לוותר</l>
+          <l>אבל זה שתמים הוא גם זה שמסכים</l>
+          <l>שידרכו יותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא יכול לראות אותך מושפלת</l>
+          <l>למרות שהוא לא רק אשם</l>
+          <l>ואוהב את שניכם את יודעת</l>
+          <l>זה חוצה</l>
+          <l>את ודאי עייפה, את ודאי מבינה</l>
+          <l>מגיע לך יותר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

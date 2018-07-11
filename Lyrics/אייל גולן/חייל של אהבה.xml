@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חייל של אהבה</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>חייל של אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חייל של אהבה</head>
+        <lg number="1" type="stanza">
+          <l>זה הלילה הראשון שאת לבד נשארת</l>
+          <l>אני נמצא רחוק ממך</l>
+          <l>גשם זלעפות בחוץ אבל בי אש בוערת</l>
+          <l>בוערת בי אהבתך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חכי לי שאחזור</l>
+          <l>חכי לי שאבוא</l>
+          <l>חייל שומר בגבול נמצא רחוק ממך</l>
+          <l>אשמור תמיד עלייך ועלי למענך</l>
+          <l>חכי לי שאשוב</l>
+          <l>ואם אחזור עצוב</l>
+          <l>חייכי אלי כי את לי מנגינה בלב</l>
+          <l>לצליל מיתר ואלף כינורות</l>
+          <l>אותך אוהב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה הלילה השני ואת עוד מחכה לי</l>
+          <l>מתי אוכל כבר לבשר לך</l>
+          <l>כשאפשוט את המדים נבנה לשנינו בית</l>
+          <l>ובו אחיה לעד איתך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חכי לי שאחזור...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עכשיו אחרי ימים רבים אם את עוד מחכה לי</l>
+          <l>אומרים שהשלום בפתח</l>
+          <l>היונה העייפה תביא עלה של זית</l>
+          <l>ונחיה יחדיו לנצח</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>חכי לי שאחזור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

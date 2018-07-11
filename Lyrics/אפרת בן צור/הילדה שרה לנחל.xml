@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הילדה שרה לנחל</title>
+        <singer classification="female singer">אפרת בן צור</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>אפרת בן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הילדה שרה לנחל</head>
+        <lg number="1" type="stanza">
+          <l>לאן יישא הזרם את פני הקטנים?</l>
+          <l>למה הוא קורע את עיני?</l>
+          <l>ביתי הרחק בחורשת אורנים</l>
+          <l>עצובה איוושת אורני.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פיתני הנחל בזמר גיל,</l>
+          <l>רינן וקרא בשמי,</l>
+          <l>הלכתי אליו אחרי הצליל,</l>
+          <l>נטשתי את בית אימי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואני יחידה לה, רכה בשנים,</l>
+          <l>ונחל אכזר לפני -</l>
+          <l>לאן הוא נושא את פני הקטנים?</l>
+          <l>למה הוא קורע את עיני?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

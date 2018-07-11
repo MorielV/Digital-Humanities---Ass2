@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עבר חגי</title>
+        <singer classification="unknown">אוסנת פז</singer>
+        <writer>יצחק קצנלסון</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עבר חגי</head>
+        <lg number="1" type="stanza">
+          <l>עלי צריחי נשר רד</l>
+          <l>עמד צרח שם תמרורים</l>
+          <l>פרש כנפיו עף לעד</l>
+          <l>לא עוד ישוב תור הנעורים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כן כן אתה יודע</l>
+          <l>כן כן</l>
+          <l>כן כן אתה לבי קורע</l>
+          <l>כן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>למה תבכי עלמת חן</l>
+          <l>תשברי על שבר זרים</l>
+          <l>כוכב נפל דבר אין</l>
+          <l>הרבה יפלו עוד ממרומים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כן כן אתה יודע...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שמש זרח לי בליל</l>
+          <l>הוא החלום שרחם אותי</l>
+          <l>זרח ארח לי בצל</l>
+          <l>פתע פתאום הקיצותי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כן כן אתה יודע...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>את פני שמי כיסה עב</l>
+          <l>מן הבוקר דולף גגי</l>
+          <l>יורד טורד גשם סתיו</l>
+          <l>עבר חגי עבר חגי</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>כן כן אתה יודע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

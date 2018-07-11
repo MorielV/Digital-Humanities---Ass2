@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הקצת בליבי 2</title>
+        <singer classification="unknown">אביב מוטלה</singer>
+        <writer>משה גיוטע</writer>
+        <composer>אביב מוטלה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הקצת בליבי</head>
+        <lg number="1" type="stanza">
+          <l>רעייה זורחת כלבנה</l>
+          <l>צורבת את ליבי בתוכי</l>
+          <l>שמעתי את קולך בוכייה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הקצת בליבי אש כחמה</l>
+          <l>אמשוך אותך לזרועותיי</l>
+          <l>את אהבתי לך את כל חיי</l>
+          <l>חדרת לתוכי לא אעזבך לעולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אלוקיי רחם על אם</l>
+          <l>ספרי לי אהובה</l>
+          <l>רעיה על מה את בוכייה בלילות</l>
+          <l>לאן נעלמו כל חיוכייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הקצת בליבי אש כחמה</l>
+          <l>אמשוך אותך לזרועותיי</l>
+          <l>את אהבתי לך את כל חיי</l>
+          <l>חדרת לתוכי לא אעזבך לעולם</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רעיה שברת את לבבי</l>
+          <l>עיניי דמעו כשראיתי אותך</l>
+          <l>קודרת ובוכייה</l>
+          <l>איפה המבט שנמסתי כמו שלג</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הקצת בליבי אש כחמה</l>
+          <l>אמשוך אותך לזרועותיי</l>
+          <l>את אהבתי לך את כל חיי</l>
+          <l>חדרת לתוכי לא אעזבך לעולם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הסירי צל</title>
+        <singer classification="male singer">אורן חן</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הסירי צל</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הסירי צל מחי את דמעתך</l>
+          <l>ועננה כהה מעל ראשך</l>
+          <l>ושירי לנו חבקי אותנו</l>
+          <l>הנה איתך כולנו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>על אחרון מיתרי אנגן לך</l>
+          <l>בניגון זר ושיר מן הבית</l>
+          <l>שאורו עוד מאיר את הדרך</l>
+          <l>בנתיב המובל אל ליבך</l>
+          <l>עוד נותרה בי תורה שלימדוני</l>
+          <l>עוד זוכר שבועה שנשבעתי</l>
+          <l>הנה שבתי אליך מולדת</l>
+          <l>לקיים בך את כל נדרי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הסירי צל...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מאיתך חלפה כבר השלכת</l>
+          <l>ואביב שוב מאיר את פנייך</l>
+          <l>לא נפנה לרחוק שוב ללכת</l>
+          <l>לעולם לא תהיי לבדך</l>
+          <l>צחקי אל תסתירי פנייך</l>
+          <l>והיכוני כי בא יום חגך</l>
+          <l>התקשטי ועדי עדייך</l>
+          <l>כי חלפו ועברו ימי אבלך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

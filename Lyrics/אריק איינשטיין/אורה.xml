@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אורה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>גי ביאר</writer>
+        <composer>גי ביאר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אורה</head>
+        <lg number="1" type="stanza">
+          <l>הם תמיד שרקו לך בעודך קטנה</l>
+          <l>בצמות משכו לך, כל בני השכונה</l>
+          <l>ואני כך מן הצד, הסתכלתי בך כיצד</l>
+          <l>את חייכת לכל אחד, שובבה קטנה...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אורה, אורה, מי יזכה בך, אורה</l>
+          <l>אורה, אורה, מצבך לא רע...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>במשחק "תופסת" את תמיד ברחת</l>
+          <l>כי את לא נתפסת בקלות כל כך</l>
+          <l>ואני כך מן הצד, הסתכלתי בך כיצד</l>
+          <l>את נתת לכל אחד שיגע בך קצת...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אורה, אורה, מי יזכה בך, אורה</l>
+          <l>אורה, אורה, מצבך לא רע...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לך פרחים הגשתי, את השבת קוצים</l>
+          <l>לך שירים הקדשתי, את לי תירוצים</l>
+          <l>לחייך תפוחים, את חילקת לנתחים</l>
+          <l>בלי בושה פלחים פלחים   שי לפרחחים...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אורה, אורה, מי יזכה בך, אורה</l>
+          <l>אורה, אורה, מצבך לא רע...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>את אמרת: חפשני טרם ליל רד</l>
+          <l>מי שימצאני לו אהיה לעד</l>
+          <l>עד היום זאת לא אתפוס</l>
+          <l>איך ברחת ואין מנוס</l>
+          <l>התחתנת עם יוסל גרוס  החסיד מצפת...</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>אורה, אורה, כמצוות התורה</l>
+          <l>אורה, אורה... חסידה כשרה!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

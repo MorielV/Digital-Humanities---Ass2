@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר שמח 2</title>
+        <singer classification="unknown">אבי עברי</singer>
+        <writer>אבי עברי</writer>
+        <composer>אבי עברי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר שמח</head>
+        <lg number="1" type="stanza">
+          <l>את השיר הזה אני רוצה להקדיש </l>
+          <l>לחתול השחור שנח על הכביש, </l>
+          <l>ולא מנוחת צהריים היתה </l>
+          <l>כי אם מנוחת עולמים נחותה. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את השיר הזה אני רוצה להקדיש </l>
+          <l>לבן האדם, וקוראים לו "האיש" </l>
+          <l>זה הוא היחיד שלוחץ על כפתור, </l>
+          <l>מדליק את השמש ובורח לקור. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ועכשיו שיר שמח, ועכשיו שיר נפלא, </l>
+          <l>שיר שמח, שיר נפלא. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את השיר הזה אני רוצה להקדיש </l>
+          <l>לקדוש ברוך-הוא שהולם בפטיש, </l>
+          <l>על שולחן השופטים הוא מרחף לבדו </l>
+          <l>חורץ את הדין שלו בעצמו. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את השיר הזה אני רוצה לקדיש </l>
+          <l>לאותם קורבנות בתפילת הקדיש </l>
+          <l>ומי שנותר כאילו חי </l>
+          <l>מבשר על "בואו של משיח, אחיי" </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ועכשיו שיר שמח... </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>את השיר אני מקדיש לך, אחת- </l>
+          <l>יחידה, בצילך לכסות לי את, בת </l>
+          <l>על אף שכך את בצלם נבראת - </l>
+          <l>ברית אהבה בלבנו כורת. </l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>ועכשיו שיר שמח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

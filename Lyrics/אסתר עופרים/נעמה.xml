@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נעמה</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>אברהם בר עוז</writer>
+        <composer>שלמה בידרמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נעמה</head>
+        <lg number="1" type="stanza">
+          <l>עמק חורש - סוד ילבשו.</l>
+          <l>שמש כבר חובקה הרים</l>
+          <l>מרחבים יחדיו ירגשו:</l>
+          <l>מי יורדה אל הכרמים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אן תלכי, -</l>
+          <l>אן תסורי לבדך...</l>
+          <l>אי דרכך יורדה</l>
+          <l>ספרי לי, נעמה...</l>
+          <l>סוד לי קט - </l>
+          <l>אשוח לי בדד</l>
+          <l>לרוחות אגל </l>
+          <l>סודי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הבוצרים - שירם ירונה</l>
+          <l>בכרמים הרוח שט.</l>
+          <l>ציפורים עפות צפונה.</l>
+          <l>נעמה שרה בלאט...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אן תלכי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

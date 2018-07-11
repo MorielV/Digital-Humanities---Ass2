@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רסיסים של זכוכיות</title>
+        <singer classification="unknown">אריאלה עדוי</singer>
+        <writer>אריאלה עדוי</writer>
+        <composer>אריאלה עדוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רסיסים של זכוכיות</head>
+        <lg number="1" type="stanza">
+          <l>שוב אותן חומות מדברות אליך בפחדים</l>
+          <l>לו רק ידעת שעשויות הן מזכוכית</l>
+          <l>לו רק יכולת להתקרב לראות</l>
+          <l>בעיטה קטנה לריאות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תראו איך שהכל מתנפץ</l>
+          <l>לשברירים קטנים</l>
+          <l>רסיסים של זכוכיות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זכוכיות עפות כמעט ולא נוגעות</l>
+          <l>ילד קטן עם פצעים חשופים</l>
+          <l>לו רק יכולת להתקרב לראות </l>
+          <l>בעיטה קטנה לריאות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תראו איך שהכל מתנפץ...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוד אחד רסיסים ועוד כמה</l>
+          <l>ילד טיפש נועל מגפיים</l>
+          <l>לו רק היית יודע לסלוח</l>
+          <l>בעיטה קטנה לריאות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תראו איך שהכל מתנפץ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

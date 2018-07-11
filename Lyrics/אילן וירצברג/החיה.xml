@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החיה</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>יצחק אשכנזי</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החיה</head>
+        <lg number="1" type="stanza">
+          <l>החיה יושבת בסתר המדרגה</l>
+          <l>ומשחקת עם עצמה </l>
+          <l>שהיא אורבת לעצמה </l>
+          <l>ומאיימת על עצמה </l>
+          <l>לטרוף עצמה </l>
+          <l>ולהשליך עצמה </l>
+          <l>לרגלי עצמה </l>
+          <l>על צידה וצנופה </l>
+          <l>בסתר המדרגה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

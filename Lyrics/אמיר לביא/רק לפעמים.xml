@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק לפעמים</title>
+        <singer classification="unknown">אמיר לביא</singer>
+        <writer>אמיר לביא</writer>
+        <composer>אמיר לביא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק לפעמים</head>
+        <lg number="1" type="stanza">
+          <l>לבד לא יכול לזוז</l>
+          <l>מחכה שתחליט להציל אותי</l>
+          <l>אבל שקוף ומכור לבוז אין לי מקום בלב</l>
+          <l>שעות קשות לשינוי אין קץ</l>
+          <l>יש להזכר לא לוותר עליי</l>
+          <l>אבל אסור לפחד ולחזור על אותם טעויות שאהבתי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רק לפעמים דומה לפעם</l>
+          <l>רק לפעמים לא נגמר</l>
+          <l>רק ברגעים עדיין שם</l>
+          <l>רק לשנייה וכבר חוזרים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בין הלילות עם ההרגשה</l>
+          <l>לא מצליח לכוון אל היבשה</l>
+          <l>להתעורר להיווכח</l>
+          <l>להפנים את הבשורה שנשכח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בזמן האחרון עוד סיפור מוכר</l>
+          <l>עומד מול החלון ונשבר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

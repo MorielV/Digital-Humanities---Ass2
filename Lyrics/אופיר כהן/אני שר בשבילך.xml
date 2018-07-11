@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני שר בשבילך</title>
+        <singer classification="unknown">אופיר כהן</singer>
+        <writer>רונן ירקוני</writer>
+        <composer>יוסי חן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני שר בשבילך</head>
+        <lg number="1" type="stanza">
+          <l>אחרי שאמרתי כמעט את הכל</l>
+          <l>רציתי לומר לך תודה,</l>
+          <l>על כל הדברים שעשית בשבילי</l>
+          <l>על כל הרגעי השמחה.</l>
+          <l>כמו רוח של ים את נכנסת אל חיי</l>
+          <l>השלמת כל מה שחסר,</l>
+          <l>את היית אהבת נעורי</l>
+          <l>שלנצח בלב תישאר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני שר בשבילך</l>
+          <l>על כל השנים היפות שאהבנו.</l>
+          <l>על לילות ארוכים וקסומים</l>
+          <l>על ימים שכאבנו. </l>
+          <l>מה אוכל עוד ממך לבקש </l>
+          <l>את ננת לי את כל מה שיש</l>
+          <l>בקולי אני שר רק אלייך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל מה שתרצי אהיה בשבילך</l>
+          <l>כי גם כשקשה ועצוב.</l>
+          <l>אהיה האביר השומר בשערך </l>
+          <l>ובלילה אהיה לך אהוב. </l>
+          <l>אני מבטיח תמיד לעמוד לצידך,</l>
+          <l>איתך באהבה.</l>
+          <l>ואם תבקשי אז אשיר בשבילך</l>
+          <l>שלעולם לא תהיי עצובה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני שר בשבילך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

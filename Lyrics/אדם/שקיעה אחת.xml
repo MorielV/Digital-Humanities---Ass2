@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שקיעה אחת</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>אלונה קמחי</writer>
+        <composer>יזהר אשדות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שקיעה אחת</head>
+        <lg number="1" type="stanza">
+          <l>אז מי היה צודק ומי אשם</l>
+          <l>זאת סתם אדמת טרשים שאין לה שם</l>
+          <l>זאת לא התחנה ואין כאן איש</l>
+          <l>סתם חללית זרה לצד הכביש</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בכל זאת מי מפסיד ומי נשכר</l>
+          <l>זה סתם אבק דרכים חום אפרפר</l>
+          <l>זאת לא היד שלך, זה לא היד</l>
+          <l>סתם יד נגעה קלות בהזייה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך פרידה אחת כמו אלפי פרידות</l>
+          <l>בתופים הולמת ברקות</l>
+          <l>איך שקיעה אחת כמו אלפי שקיעות</l>
+          <l>אש כתומה שולחת בשדות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז מה היה בערפל ומה מובן</l>
+          <l>זאת לא ההצטלבות, זה לא הזמן</l>
+          <l>זה לא אויר שיכור של סוף היום</l>
+          <l>סתם רוח שנשבה לשום מקום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

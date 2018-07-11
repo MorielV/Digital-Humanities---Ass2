@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יהלום ענק</title>
+        <singer classification="unknown">איילת אובלס</singer>
+        <writer>איילת אובלס</writer>
+        <composer>איילת אובלס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יהלום ענק</head>
+        <lg number="1" type="stanza">
+          <l>הלב שלי דואב </l>
+          <l>והגוף שלי כואב </l>
+          <l>החיים כל כך יפים </l>
+          <l>הימים כל כך שקופים. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והשמש הזורחת </l>
+          <l>ממלאת אותי בחום </l>
+          <l>ובגוף הוא מתפשט </l>
+          <l>והופך ליהלום. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוא אלי ולך ממני </l>
+          <l>קח אותי ואל תיקח </l>
+          <l>כי אני של אף אחד </l>
+          <l>יהלום ענק</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

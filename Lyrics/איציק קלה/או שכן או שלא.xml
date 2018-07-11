@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>או שכן או שלא</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>או שכן או שלא</head>
+        <lg number="1" type="stanza">
+          <l>מה עובר בך לא יודע</l>
+          <l>בגללך כבר משתגע</l>
+          <l>יום אחד את לי צוחקת</l>
+          <l>יום אחר את מתחמקת</l>
+          <l>איך נפלתי בין ידייך</l>
+          <l>איך רציתי עד אלייך</l>
+          <l>אבל את לא מספרת </l>
+          <l>עם כמה את מתפרפרת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>או שכן תגידי או שלא</l>
+          <l>את שלי תחליטי או שלו</l>
+          <l>כמה טוב להיות בשניים</l>
+          <l>אבל לא ליום יומים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שנינו יחד כמו בסרט</l>
+          <l>את הולכת וחזורת</l>
+          <l>בליבי את משחקת</l>
+          <l>לא נותנת רגע שקט</l>
+          <l>יש לך ספר טלפונים</l>
+          <l>יש לך אלף עוד כמוני</l>
+          <l>ועם מי את מדברת </l>
+          <l>בתוך רגע לא זוכרת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>או שכן תגידי או שלא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

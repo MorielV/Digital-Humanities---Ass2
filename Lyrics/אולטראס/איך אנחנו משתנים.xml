@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך אנחנו משתנים</title>
+        <singer classification="unknown">אולטראס</singer>
+        <writer>ששי צור</writer>
+        <composer>ששי צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך אנחנו משתנים</head>
+        <lg number="1" type="stanza">
+          <l>בערך יחסים או בערך סתם איתך,</l>
+          <l>איך הדבר הכי פשוט הסתבך לנו כל כך?</l>
+          <l>לא נשאר יותר במה להאמין,</l>
+          <l>מתפוצץ ממחשבות שאף פעם לא אבין.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך אנחנו משתנים,</l>
+          <l>כל האמת, כל השקרים, הסיפורים, המשחקים.</l>
+          <l>איך אנחנו משתנים,</l>
+          <l>היינו במקום אחר לפני כמה חודשים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זמן שלא עובר, כל כך משועמם,</l>
+          <l>לא נשאר על מי לסמוך, מסוכסך כבר עם כולם.</l>
+          <l>מנסה אותך לקרוא בין השורות, </l>
+          <l>יודע רק דבר אחד - זמנים קשים עומדים לבוא.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הי חבר יקר, איזה שיעמום,</l>
+          <l>היינו פעם כמו אחים, מזה כבר לא נשאר כאן כלום.</l>
+          <l>בחמישי נלך, נצא אל ההיכל,</l>
+          <l>ועוד מעט שכאן נדע שכל אירופה צהובה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

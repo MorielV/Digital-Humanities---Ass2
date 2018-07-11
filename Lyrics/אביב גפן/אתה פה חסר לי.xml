@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתה פה חסר לי</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתה פה חסר לי</head>
+        <lg number="1" type="stanza">
+          <l>גשם כיסה את אספלט הכביש </l>
+          <l>ביום הכי קר בשנה, </l>
+          <l>ומעיני שלי, טפטוף מקומי, </l>
+          <l>כי יש סדק בלב אהבה. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשהלכת מכאן, לא ידעת לאן </l>
+          <l>מסגרת פני בחלון. </l>
+          <l>אבל גם בתמונות, לפעמים הדמויות </l>
+          <l>מקשיבות לתקתוק השעון. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואולי, אתה פה חסר לי. </l>
+          <l>אתה כאן, אתה שם, </l>
+          <l>ובכל זאת אתה פה חסר לי. </l>
+          <l>ואולי, אתה פה חסר לי... </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה אידיוט אמיתי אם חשבת אותי </l>
+          <l>שאבוא וארוץ עד אליך, </l>
+          <l>וכלום לא קרה כשאתה לא בסביבה. </l>
+          <l>(כן) הכל די רגיל בלעדייך. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הייתי בכיף מחבקת אותך, </l>
+          <l>מחכה לך בין הסדינים. </l>
+          <l>אני שונאת אנשים, (אנשים חלשים) </l>
+          <l>שבמקום לדבר הם זזים. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואולי, אתה פה חסר לי... </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>(מה יקרה אם פתאום תבוא אלי </l>
+          <l>ותייפה את הכל? </l>
+          <l>רגע של שקט, בחוץ שוב הגשם </l>
+          <l>ממשיך על הכביש עוד ליפול?) </l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>ואולי, אתה פה חסר לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

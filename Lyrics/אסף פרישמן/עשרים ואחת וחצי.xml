@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עשרים ואחת וחצי</title>
+        <singer classification="male singer">אסף פרישמן</singer>
+        <writer>אסף פרישמן</writer>
+        <composer>אסף פרישמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עשרים ואחת וחצי</head>
+        <lg number="1" type="stanza">
+          <l>שוב</l>
+          <l>יורד מהבמה</l>
+          <l>מזמין לי בירה מהבר</l>
+          <l>היא</l>
+          <l>עומדת שם בצד</l>
+          <l>מוקפת כמה חברות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והיא ניגשת לעברי</l>
+          <l>כולה נוטפת נעורים</l>
+          <l>אני מתחיל להזדקן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נעלם במנהרת הזמן</l>
+          <l>פתטי</l>
+          <l>והיא רק בת עשרים ואחת</l>
+          <l>וחצי</l>
+          <l>אלוהים, אם רק פעם אחת</l>
+          <l>תיתן לי</l>
+          <l>שוב להיות בן עשרים ואחת</l>
+          <l>וחצי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שוב </l>
+          <l>יוצא למועדון</l>
+          <l>ה-DJ הוא חבר קרוב</l>
+          <l>היא </l>
+          <l>רוקדת עם עצמה</l>
+          <l>גופה מזמין אותי לבוא</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשבעיניה הכחול</l>
+          <l>ובעיני האלכוהול</l>
+          <l>ושוב הגיע זמן לשאול</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נעלם במנהרת הזמן...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>סימנים של משיכה</l>
+          <l>בחסות החשיכה</l>
+          <l>מאחורי המסיכה מפלצת.</l>
+          <l>עוד דקה על השעון</l>
+          <l>רק עוד רגע אחרון</l>
+          <l>אל תתן לשד להתעורר.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

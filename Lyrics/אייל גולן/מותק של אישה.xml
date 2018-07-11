@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מותק של אישה</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>רמי לב</writer>
+        <composer>אריק זנטי</composer>
+        <album>זה אני</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מותק של אישה</head>
+        <lg number="1" type="stanza">
+          <l>איתך - אני אדם מאוהב</l>
+          <l>וכל הרגעים הופכים לקסם</l>
+          <l>איתך - הכל זה כאן ועכשיו</l>
+          <l>ולא צריך יותר בעצם.</l>
+          <l>משדר אלייך, רגשות</l>
+          <l>ואת עושה כל מה שבא לך</l>
+          <l>מתמכר לכל ההבטחות</l>
+          <l>את מבטיחה, מה שנראה לך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את מותק של אישה </l>
+          <l>רוצה אותך עכשיו</l>
+          <l>מותק של אישה </l>
+          <l>אני בך מאוהב</l>
+          <l>ואולי אני פשוט יודע</l>
+          <l>איך לתפוס לך את הלב</l>
+          <l>כי אותך אני פשוט אוהב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איתך - אני מרגיש מטורף</l>
+          <l>מרחף לאור שבעינייך</l>
+          <l>איתך - זה ריקוד מכושף</l>
+          <l>אל הצבעים שבחייך</l>
+          <l>משדר אלייך, רגשות</l>
+          <l>ואת עושה כל מה שבא לך</l>
+          <l>מתמכר לכל ההבטחות</l>
+          <l>את מבטיחה, מה שנראה לך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את מותק של אישה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קומו נעלה</title>
+        <singer classification="male singer">אהרון ירימי</singer>
+        <writer>אברהם לוי</writer>
+        <composer>משה בן מוש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קומו נעלה</head>
+        <lg number="1" type="stanza">
+          <l>לכאן הגענו מארצות ניכר</l>
+          <l>חצינו ערבות ימים וגם מדבר</l>
+          <l>אמרנו אז, נחישה צעדנו</l>
+          <l>יחדיו נפריח כל הר</l>
+          <l>קול מבשר קיבץ אז את כולנו</l>
+          <l>מקצווי כל עיר וכפר</l>
+          <l>ואיש אל אחיו אמר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קומו נעלה נשימה פעמינו</l>
+          <l>קומו נעלה לא נירא</l>
+          <l>דרך ארוכה עדיין לפנינו</l>
+          <l>דרך ארוכה לא זרועה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יום העמל רוחינו לא שבר</l>
+          <l>היינו כחולמים צפינו למחר</l>
+          <l>זמרנו אז מה טובו אהלינו</l>
+          <l>ממשכנות העבר</l>
+          <l>סוף לנדודים וקץ לסבלותינו</l>
+          <l>כי אותנו אל זכר</l>
+          <l>ואיש אל אחיו אמר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קומו נעלה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המאהב האנונימי</title>
+        <singer classification="unknown">אמיר יוסף</singer>
+        <writer>אמיר נשר</writer>
+        <composer>אמיר יוסף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המאהב האנונימי</head>
+        <lg number="1" type="stanza">
+          <l>בית קפה אני זוכר</l>
+          <l>מעט לפני שאורות העיר כבו</l>
+          <l>ביקשתי קרוב אלייך, לידך</l>
+          <l>אחרי שכולם כבר הלכו</l>
+          <l>משם הלכתי אל דרכך</l>
+          <l>מסתתר, בא והולך..בא והולך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>המאהב האנונימי שלך</l>
+          <l>בין חצות לשחרית</l>
+          <l>כל הלילה מהחלון</l>
+          <l>מביט רק בך</l>
+          <l>ולו ידעת, ולו לרגע אחד</l>
+          <l>על המכתב שהוא שלח</l>
+          <l>והפרחים שהשאיר ליד דלתך</l>
+          <l>שהשאיר רק לך</l>
+          <l>ולו ידעת ולו לרגע אחד</l>
+        </lg>
+        <lg number="3" type="stanza" />
+        <lg number="4" type="stanza">
+          <l>כל היום עד כוכב ראשון</l>
+          <l>כתבתי לך מילים של אהבה</l>
+          <l>על ספסל בקול ספרתי דקות</l>
+          <l>אל הרגע מולך אהובה</l>
+          <l>משם הלכתי אל דרכך</l>
+          <l>מסתתר, בא והולך..בא  והולך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>המאהב האנונימי שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

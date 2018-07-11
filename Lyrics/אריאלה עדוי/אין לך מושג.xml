@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין לך מושג</title>
+        <singer classification="unknown">אריאלה עדוי</singer>
+        <writer>אריאלה עדוי</writer>
+        <composer>דניאל קורן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין לך מושג</head>
+        <lg number="1" type="stanza">
+          <l>אני חושבת שנמאס לי קצת</l>
+          <l>מהמרדף הזה </l>
+          <l>המר הזה</l>
+          <l>או שזה רק אצלי</l>
+          <l>כן, זו רק אני </l>
+          <l>שנלחמת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני חושבת שנמאס לי קצת</l>
+          <l>מהטרוף הזה </l>
+          <l>המר הזה</l>
+          <l>איך זה יכול להיות רק אצלי</l>
+          <l>אני לא לבד פה בדבר הזה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואתה בשאננות עוזב</l>
+          <l>במן רוגע שמעורר בי קינאה</l>
+          <l>צועד לכיוון השני</l>
+          <l>ואין לך מושג</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני חושבת שנמאס לי קצת</l>
+          <l>מהטרוף הזה </l>
+          <l>המר הזה</l>
+          <l>איך זה יכול להיות רק אצלי</l>
+          <l>אני לא לבד פה בדבר הזה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני יודעת שלאט לאט</l>
+          <l>ניפול חזק </l>
+          <l>עם הכאב הזה</l>
+          <l>איך זה יכול להיות רק אצלי</l>
+          <l>אני לא לבד פה </l>
+          <l>בדבר הזה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ואתה בשאננות עוזב</l>
+          <l>במן רוגע שמעורר בי קינאה</l>
+          <l>צועד לכיוון השני</l>
+          <l>ואין לך מושג</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

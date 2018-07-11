@@ -1,0 +1,37 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל הארץ דגלים</title>
+        <singer classification="female singer">אפי בן ישראל</singer>
+        <writer>רפאל ספורטה</writer>
+        <composer>עמנואל עמירן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל הארץ דגלים</head>
+        <lg number="1" type="stanza">
+          <l>כל הארץ דגלים דגלים,</l>
+          <l>עם רוקד גלים גלים</l>
+          <l>עם שמח, טף צוהל -</l>
+          <l>חג היום לישראל.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

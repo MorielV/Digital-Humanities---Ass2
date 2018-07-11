@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התמונות שבאלבום</title>
+        <singer classification="unknown">אורית אסף</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התמונות שבאלבום</head>
+        <lg number="1" type="stanza">
+          <l>התמונות שבאלבום ילדות שלא נגמרת</l>
+          <l>אתה הבן אני האב ואמא שוב דואגת</l>
+          <l>אתמול קיבלנו עוד מכתב אצלך הכל בסדר</l>
+          <l>לא סיפרת על הקרב רק על כל היתר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וכשתצא לעוד שבת, נחכה בפתח</l>
+          <l>אמא לכבודך בישלה, נשקה אותך כמו פרח</l>
+          <l>גם נגהץ לך מדים אני זוכר מה שהבטחת</l>
+          <l>ישמור עליך אלוהים רק חזור הביתה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תמונה שלך בגיל שנה עם סבתא מחייכת</l>
+          <l>ושתי תמונות של גיל מצווה ואיך גדל הנכד</l>
+          <l>תמונה אחרת על מדים עם הרובה ביד</l>
+          <l>ואני הבטחתי כשתגדל לא תלחם באף אחד.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכשתצא לעוד שבת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

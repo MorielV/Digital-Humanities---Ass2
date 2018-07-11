@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ימים ברקיע</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>אלונה קמחי</writer>
+        <composer>יזהר אשדות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ימים ברקיע</head>
+        <lg number="1" type="stanza">
+          <l>אל תהפכי את שעון החול</l>
+          <l>ימים ברקיע, ימים בכחול</l>
+          <l>הפחד שלי אלייך חודר</l>
+          <l>וגובר על הזמן שזורם ועובר.</l>
+          <l>את כאן ליידי יפה וזרה</l>
+          <l>אך בכל זאת הרווחתי עוד יום</l>
+          <l>ובלהט דתי בנשימה עצורה</l>
+          <l>נצמד אל גופך העירום.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ובאויר לילי הדומם</l>
+          <l>את ריח צווארך נושם</l>
+          <l>בשקט עד שנירדם</l>
+          <l>וכמו בפעם הראשונה</l>
+          <l>הכל כל כך בלתי נמנע</l>
+          <l>כולך מן הבלתי נמנע.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המגע של הגוף מכפר על הכל</l>
+          <l>ימים ברקיע, ימים בכחול</l>
+          <l>הפעם ניצחתי את הזמן שנגדי</l>
+          <l>ועוד לילה אחד אחרון את איתי.</l>
+          <l>את כאן ליידי יפה וזרה...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ובאויר לילי דומם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה 5</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה</head>
+        <lg number="1" type="stanza">
+          <l>כל כך כבד הלילה בארץ כה זרה</l>
+          <l>קשה לתפוס מישהו רק לגלגל שיחה</l>
+          <l>כל כך כבד הלילה אני רחוק ממך</l>
+          <l>האם אתה חושב אותי כמו שאני אותך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ופה מתחיל הגשם גם קר לי בלעדיו</l>
+          <l>ואף אחד לא מחבק אותי ולא שואל אם קר לי, עכשיו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל כך עצוב הלילה הכוכבים נופלים</l>
+          <l>אולי בדיוק כמונו השמים גם בוכים</l>
+          <l>כל כך חשוך הלילה מתי כבר יתבהר</l>
+          <l>כשאחזור אליך על הלילה אספר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ופה מתחיל הגשם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

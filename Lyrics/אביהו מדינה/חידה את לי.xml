@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חידה את לי</title>
+        <singer classification="male singer">אביהו מדינה</singer>
+        <writer>עודד ספיר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חידה את לי</head>
+        <lg number="1" type="stanza">
+          <l>רק אותה אהבתי מכל, בכל ליבי לשווא</l>
+          <l>כי לי צחקה יומם וליל, לא חשתי  נעלב</l>
+          <l>לו רק חדלה מצחוק, הייתי לה אומר</l>
+          <l>את כל שיש לי בליבי, אפילו קצת יותר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חידה את לי, לא אדע למי</l>
+          <l>את ליבך נתת יחידה שלי</l>
+          <l>למה ליבי הולך רק אלייך,</l>
+          <l>אנא הגידי, חידתי שלי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כן היא יפה וחיננית זה לה ברור היטב</l>
+          <l>אך כי יודעת היא היטב את מי אני אוהב</l>
+          <l>מן החלון עם ליל עוד איש אחד יצחוק</l>
+          <l>לשיר שירים של אהבה אפשר גם מרחוק.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חידה את לי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רק גדלה לפתע, כך ברגע יפה מכל בנות,</l>
+          <l>כנחיל דבורים יסובבוה  עלמי החמודות</l>
+          <l>ויום אחד פתאום, ולא אדע דבר</l>
+          <l>ראיתי אז את חידתי חובקת בן זכר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>חידה את לי....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

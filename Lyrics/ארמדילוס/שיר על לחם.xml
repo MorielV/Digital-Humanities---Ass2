@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר על לחם</title>
+        <singer classification="unknown">ארמדילוס</singer>
+        <writer>מאור גולדשטיין</writer>
+        <composer>עידו פרנקל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר על לחם</head>
+        <lg number="1" type="stanza">
+          <l>זה שיר על לחם, לא שיר עליכם </l>
+          <l>התכוונו ללחם שאוכלים </l>
+          <l>לא עליכם אנשים </l>
+          <l>זה בפינה עם הדגנים </l>
+          <l>והוא אמר לי: "זה היה לחם מדבר!" </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כולנו קצת לחם </l>
+          <l>על מדף החיים </l>
+          <l>מחכים שמישהו ימרח עלינו ריבה </l>
+          <l>(ריבה, ריבה, ריבה) </l>
+          <l>כולנו קצת ריבה </l>
+          <l>כולנו קצת לחם </l>
+          <l>כולנו קצת לחם עם ריבה </l>
+          <l>(ריבה, ריבה, ריבה) </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואז הוא אמר לי (הלחם שהזכרתי) </l>
+          <l>שיש מבצע להיט - שבע פיתות בשקית </l>
+          <l>אז קרעתי את השקית (כי רציתי רק שתיים) </l>
+          <l>והם אמרו לי: "הן היו פיתות מדברות!" </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כולנו קצת פיתה </l>
+          <l>(שזה סוג של לחם) </l>
+          <l>כולנו בעצם חמץ! </l>
+          <l>כולנו קצת קמח (שעושים מזה לחם) </l>
+          <l>מחכים שמישהו ישפוך עלינו מים </l>
+          <l>וללוש, וללוש, וללוש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

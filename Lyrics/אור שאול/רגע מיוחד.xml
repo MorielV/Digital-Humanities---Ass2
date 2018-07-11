@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רגע מיוחד</title>
+        <singer classification="unknown">אור שאול</singer>
+        <writer>אור שאול</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רגע מיוחד</head>
+        <lg number="1" type="stanza">
+          <l>כל מה שקורה כאן הלילה,</l>
+          <l>רגע מיוחד בחיי</l>
+          <l>איך שוב פוגש את עינייך,</l>
+          <l>בין כל המבטים שעלי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני רוצה אותך קרוב ללב,</l>
+          <l>כי אני אוהב</l>
+          <l>כמו שני פרחים בלב מדבר,</l>
+          <l>שנינו זה העיקר.</l>
+          <l>ואני עומד כאן ומחכה מחפש ת'רגע שתבואי,</l>
+          <l>אז אתן לך את הנשמה והלב יודע שאיתך זו אהבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד לא נגמר לו הלילה,</l>
+          <l>רוצה לצעוק, לצאת לעולם,</l>
+          <l>מאמין שהכל מלמעלה,</l>
+          <l>רק איתך מרגיש שוב מושלם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

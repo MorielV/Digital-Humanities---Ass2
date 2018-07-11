@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני קורא לך</title>
+        <singer classification="unknown">אסי ישראלוף</singer>
+        <writer>אסי ישראלוף</writer>
+        <composer>אסי ישראלוף</composer>
+        <album>מסע עם פסנתר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני קורא לך</head>
+        <lg number="1" type="stanza">
+          <l>אני קורא לך</l>
+          <l>ומוותר</l>
+          <l>הימים לא קיימים והלילות</l>
+          <l>שנים אני בורח</l>
+          <l>ומתחמק מהעובדות</l>
+          <l>כשאת תבואי ונדבר</l>
+          <l>אני הכל זורק אלייך ומבלגן</l>
+          <l>ואז אני חוזר שוב ומנגן לעצמי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אז אני רץ בחד תנועה</l>
+          <l>הגעגוע לעולם לא מתאדה הוא מתגבר</l>
+          <l>בשבתות ובחגים אני שולח לך מכתבים</l>
+          <l>והתנועה התחבורה</l>
+          <l>ושדה התעופה נראה מזמן לזמן</l>
+          <l>כמו משהו אחר</l>
+          <l>מהטל בך</l>
+          <l>מערפל בך הכל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני צורח ושוב כואב</l>
+          <l>הימים לא קיימים והלילות</l>
+          <l>חיים שלמים אני בורח ונעלם שעות</l>
+          <l>כבר לא תבואי</l>
+          <l>לא נדבר</l>
+          <l>אנ'לא צועק אני כבר איש שמתגבר</l>
+          <l>אולי תבואי ונסתדר שעות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הוא לא ידע</l>
+          <l>שבסוף את תבואי מרחוק</l>
+          <l>הוא לא ידע</l>
+          <l>הכל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

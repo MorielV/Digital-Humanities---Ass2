@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משוגעת</title>
+        <singer classification="female singer">אמילי קרפל</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>תומר אדם לנצינגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משוגעת</head>
+        <lg number="1" type="stanza">
+          <l>איך אתה בדיוק יודע מה אני רוצה?</l>
+          <l>איך אתה מציף אותי כובש בסערה?</l>
+          <l>כשאני נופלת אתה תופס אותי</l>
+          <l>אתה יודע להרכיב ולפרק אותי</l>
+          <l>מה מושך בחוטים ומזיז אותי?</l>
+          <l>כמו שתבחר איך שתרצה אותי</l>
+          <l>וכשאתה מגיע משהו בי מתעורר</l>
+          <l>אתה אחד ואין אחר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתה עושה אותי משוגעת</l>
+          <l>כשאתה בא אלי</l>
+          <l>לא נרגעת</l>
+          <l>איך זה שעד עכשיו</l>
+          <l>לא יודעת</l>
+          <l>אתה רוצה אותי</l>
+          <l>או לא רוצה אותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הכספית שבמדחום כבר עברה את האדום</l>
+          <l>בוא תבדוק לי את החום , תאשפז אותי</l>
+          <l>אם אתה יודע מה אמת ומה משחק</l>
+          <l>כשאתה נוסע , לא חושב על המרחק</l>
+          <l>רק תגיע ותיקח את מה שיש לתת</l>
+          <l>ולמרות שתתעייף לי בבוא העת</l>
+          <l>ביקר לי לא תכננתי כך להסתבך</l>
+          <l>ועד עכשיו אנ'לא יודעת איך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אתה עושה אותי משוגעת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני רוצה אותך איתי</l>
+          <l>אני רוצה אותך עכשיו</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אתה עושה אותי משוגעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

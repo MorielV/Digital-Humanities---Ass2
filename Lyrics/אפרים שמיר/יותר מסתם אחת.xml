@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יותר מסתם אחת</title>
+        <singer classification="male singer">אפרים שמיר</singer>
+        <writer>אפרים שמיר</writer>
+        <composer>אפרים שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יותר מסתם אחת</head>
+        <lg number="1" type="stanza">
+          <l>אולי אני מגזים אך למראה גופך</l>
+          <l>אפילו מי הירדן נעמדו ללטפך.</l>
+          <l>ובמילים אחרות אני מוכרח להגיד</l>
+          <l>שאת הרבה יותר מסתם אחת.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני דואג כל דקה, כשאת דוהרת על סוס</l>
+          <l>ואז שוכב משותק בלי יכולת לזוז.</l>
+          <l>בעינייך התמימות מלאות בחומר דליק,</l>
+          <l>אני מבחין שאת הרבה יותר מסתם אחת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני מרשה לך בגאוותי לשחק</l>
+          <l>ואת זיעת הסוסים ממך מוכן ללקק</l>
+          <l>וגם מעבר לזה מהלכייך אצדיק</l>
+          <l>כי את הרבה יותר מסתם אחת.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

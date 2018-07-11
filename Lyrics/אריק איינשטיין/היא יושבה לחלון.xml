@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא יושבה לחלון</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>חיים נחמן ביאליק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא יושבה לחלון</head>
+        <lg number="1" type="stanza">
+          <l>היא יושבה לחלון</l>
+          <l>ושורקה שערה</l>
+          <l>בעיניכם היא פרוצה</l>
+          <l>ובעיני היא ברה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מר לי מר,</l>
+          <l>ליבי היום עלי רע</l>
+          <l>אם רחלה איננה</l>
+          <l>אני אנה בא</l>
+          <l>פה יש לבריות</l>
+          <l>והולכות הן רכיל</l>
+          <l>אך רחלה לי היא</l>
+          <l>ואנוכי לרחל</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הו מר לי מר...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בערב כי אצא</l>
+          <l>אל משעול הקמה</l>
+          <l>ורחל אין עמי</l>
+          <l>אין עמי הנשמה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מר לי מר...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>שיבולים, גבעולים</l>
+          <l>לרחלה שאו שלומי</l>
+          <l>וענו בי אם תאחר</l>
+          <l>ומתי במקומי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

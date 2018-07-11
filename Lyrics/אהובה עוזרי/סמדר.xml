@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סמדר</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>משה דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סמדר</head>
+        <lg number="1" type="stanza">
+          <l>הנה בא הסתיו</l>
+          <l>ים של דמעות נשפל</l>
+          <l>על קבר רענן</l>
+          <l>אותיות בשחור נכתב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>סמדר שלי סמדר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הנה שקעה השמש</l>
+          <l>ואין אור ירח</l>
+          <l>ואני עומד מעל</l>
+          <l>מבכה על קברה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הנה נושבת הרוח</l>
+          <l>גועש הים גלים גלים</l>
+          <l>על מזח ישן נושן</l>
+          <l>הזיכרונות הנעימים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הנה חלף הזמן</l>
+          <l>צללית דמותה באפילה</l>
+          <l>קול קורא לי מקברה</l>
+          <l>בוא אליי כל שנה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

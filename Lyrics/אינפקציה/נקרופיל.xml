@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נקרופיל</title>
+        <singer classification="band">אינפקציה</singer>
+        <writer>גיא בן שיטרית</writer>
+        <composer>גיא בן שיטרית</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נקרופיל</head>
+        <lg number="1" type="stanza">
+          <l>חושב על זה, שלקחו אותך ממני, לעולם</l>
+          <l>איך הם לא הבינו שאני ואת ביחד, זוג מושלם,</l>
+          <l>שני שוטרים ושני כלבי גישוש פרצו לי לדירה,</l>
+          <l>לקחו אותי לחקירה, ואת היית מוטלת במיטה,</l>
+          <l>ולא אמרת להם מילה פשוט בהית לך בתקרה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא אכפת לי שאני מדבר, ואת לא עונה,</l>
+          <l>לא אכפת לי לספר בדיחה שאת בכלל לא מבינה,</l>
+          <l>לא אכפת לי להזיז אותך מכאן לשם במריצה,</l>
+          <l>ולא אכפת לי להכין לך על הבוקר סנדוויצ' עם גבינה.</l>
+          <l>הא הא</l>
+          <l>ולא אכפת לי מה כולם אומרים כי את כל כך שווה!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא אכפת לי, שרופא קבע כבר את מותך לפני שנה,</l>
+          <l>ולא אכפת לי, שאת סתם גופה!!!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

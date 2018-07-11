@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבתך 2</title>
+        <singer classification="male singer">אריאל הורוביץ</singer>
+        <writer>אריאל הורוביץ</writer>
+        <composer>אריאל הורוביץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבתך</head>
+        <lg number="1" type="stanza">
+          <l>כל המשוגעים האלה שרואים בחדשות</l>
+          <l>קמים בבוקר יום אחד ומתחילים לירות</l>
+          <l>הם לא אשמים בעצם - אני לא יודע איך</l>
+          <l>אפשר להישאר שפוי בלי אהבתך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בגלל זה לצערי אין לי אמונה</l>
+          <l>שיש לעולם הזה סיכוי לתקנה</l>
+          <l>כי אני תמיד הולך</l>
+          <l>לשמור לעצמי את אהבתך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל האנשים שככה מנגנים ברחובות</l>
+          <l>שיר שמח וקליל - בעיניים עצובות</l>
+          <l>אני עוצר מולם לרגע - זורק מטבע והולך</l>
+          <l>ממשיך לצעוד ברחוב איתך - ועם אהבתך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בגלל זה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כמו על נר בוער ברוח שעוד רגע הוא דועך</l>
+          <l>בגופי אני שומר על אהבתך</l>
+          <l>דרך רחובות הצער שהפחד בם מולך</l>
+          <l>אני עובר בראש מורם מאהבתך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בגלל זה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

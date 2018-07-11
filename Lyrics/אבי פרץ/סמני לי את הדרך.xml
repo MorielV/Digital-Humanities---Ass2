@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סמני לי את הדרך</title>
+        <singer classification="male singer">אבי פרץ</singer>
+        <writer>עירית חמי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סמני לי את הדרך</head>
+        <lg number="1" type="stanza">
+          <l>מביט על השמים מלמטה</l>
+          <l>בהירים הם וצבעם כחול</l>
+          <l>ובמים הספינה לה שטה</l>
+          <l>מתקדמת אל האופק הגדול</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואני כך חולם ומהרהר לי</l>
+          <l>אם תחכי לי בסופו של המסע</l>
+          <l>את סודך, אולי את תגלי לי?</l>
+          <l>ואלייך אט בלאט אפסע?</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>סמני לי את הדרך</l>
+          <l>שתגיע עד אלייך</l>
+          <l>ירח שט ממעל </l>
+          <l>ומאיר לי את פנייך</l>
+          <l>האם את מחכה לי?</l>
+          <l>האם הנר עוד לא כבה?</l>
+          <l>מרחוק אני מגיע אהובה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חולף עוד יום מגיע לו עוד לילה</l>
+          <l>ועקבותייך חרוטים בחול</l>
+          <l>גם השמש כבר מזמן שקעה לה</l>
+          <l>והמים מחקו כאן את הכל.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והרוח מחייכת משטה בי</l>
+          <l>מטשטשת כל סימן היא מכסה</l>
+          <l>הדרך ארוכה ולא קלה היא</l>
+          <l>עוד נצעד יחדיו בשביל האהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>סמני לי את הדרך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

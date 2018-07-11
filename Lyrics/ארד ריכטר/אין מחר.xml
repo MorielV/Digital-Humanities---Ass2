@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין מחר</title>
+        <singer classification="male singer">ארד ריכטר</singer>
+        <writer>ארד ריכטר</writer>
+        <composer>ארד ריכטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין מחר</head>
+        <lg number="1" type="stanza">
+          <l>הזמן שלנו כאן נגמר וקר לי</l>
+          <l>כל דבר נסגר עלי ואין כאן אף אחד</l>
+          <l>אני לא מבין איך זה קורה מוזר לי</l>
+          <l>כל שניה כשאנחנו יחד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הלב בוער, הזמן עובר ולי אתה חסר</l>
+          <l>כך אמרת לי ביום שבו החלטתי לעזוב</l>
+          <l>כלום לא עוזר כבר לא חוזר הכל אני מוסר</l>
+          <l>ואמרתי שאין לנו על מה כבר לדבר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תלכי, תקחי איתך את כל הזכרונות</l>
+          <l>שלנו כי לנו כבר לא יהיה מחר</l>
+          <l>תבכי, תרגישי איך כל הדמעות זולגות</l>
+          <l>גמרנו, אמרנו שאין לנו דבר אין דבר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז מה קורה איתך זה לא חשוב כי</l>
+          <l>כל שיעור הייתי שבור, לימדת אותי לסבול</l>
+          <l>כל זיכרון איתך מזמן נמחק לי</l>
+          <l>אין סיכוי ואין פיתוי אני כבר לא יכול</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תלכי, תקחי איתך את כל הזכרונות</l>
+          <l>שלנו כי לנו כבר לא יהיה מחר</l>
+          <l>תבכי, תרגישי איך כל הדמעות זולגות</l>
+          <l>גמרנו, אמרנו שאין לנו דבר אין דבר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

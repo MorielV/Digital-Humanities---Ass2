@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לב זהב</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>מוריס</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לב זהב</head>
+        <lg number="1" type="stanza">
+          <l>בשכונת התקווה אני מצאתי אהבה</l>
+          <l>על מרפסת היא יושבת</l>
+          <l>חיננית וחטובה</l>
+          <l>בין מבט למבט היא מרגישה אלי קרובה</l>
+          <l>בעיניה מנצנץ כוכב -</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לב זהב אני בך מאוהב</l>
+          <l>אחכה לך כל הלילה</l>
+          <l>לב זהב רוצה אותך עכשיו -</l>
+          <l>אחכה רק לך</l>
+          <l>אחכה רק לך</l>
+          <l>אחכה לך כל הלילה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>במכונית כסופה בסוף נגיע לחופה</l>
+          <l>לה מבטיח שנצליח כי זו כוחה של אהבה</l>
+          <l>אם גם אתה מאוהב תבדוק שיש לה לב זהב</l>
+          <l>אל תסתכל רק בקנקן שלה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לב זהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

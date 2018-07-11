@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חתונה לבנה</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>שלום חנוך</writer>
+        <composer>שלום חנוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חתונה לבנה</head>
+        <lg number="1" type="stanza">
+          <l>פנים</l>
+          <l>מוזמנים</l>
+          <l>ואותות סכנה</l>
+          <l>מסכות</l>
+          <l>מחייכות</l>
+          <l>חתונה לבנה</l>
+          <l>ואת שבויה</l>
+          <l>בידיים זרות</l>
+          <l>אני רץ אלייך</l>
+          <l>לאורך קירות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אין לחזור</l>
+          <l>לאחור</l>
+          <l>"קח תחתום בפינה"</l>
+          <l>צלי גדי</l>
+          <l>על האש</l>
+          <l>ופירות העונה</l>
+          <l>ואת מחייכת</l>
+          <l>שיניים צחורות</l>
+          <l>ריקוד המוות</l>
+          <l>לאור הנרות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בוקר חדש</l>
+          <l>פוסעת מולי</l>
+          <l>בוקר חדש שלי</l>
+          <l>כלה, כלה</l>
+          <l>באמצע הערב</l>
+          <l>בוקר חדש עלה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אנחנו</l>
+          <l>זקנים</l>
+          <l>תסתכלי בתמונה</l>
+          <l>ילדים</l>
+          <l>אבודים</l>
+          <l>חתונה לבנה</l>
+          <l>לוקחים</l>
+          <l>פרחים</l>
+          <l>ושמים בעציץ</l>
+          <l>חלמתי</l>
+          <l>חלום</l>
+          <l>לא יכול להקיץ</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בוקר חדש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אסמכתא</title>
+        <singer classification="unknown">אורית אזרח</singer>
+        <writer>אורית אזרח</writer>
+        <composer>מיקי אסא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אסמכתא</head>
+        <lg number="1" type="stanza">
+          <l>שכחת לחתום לי כאן למטה</l>
+          <l>איתך זה ילך רק עם אסמכתא</l>
+          <l>שאתה אוהב אותי עכשיו</l>
+          <l>זה המצב </l>
+          <l>זה כן חשוב מה שאני אומרת</l>
+          <l>שמעתי שהאהבה נגמרת</l>
+          <l>גם אם תשקה אותה יומיום</l>
+          <l>זה יכול לברוח לשומקום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תחתום תכתוב תעשה לי טוב</l>
+          <l>גם אם נשאר רק עד מחר</l>
+          <l>אפילו אם תעזוב</l>
+          <l>יישאר לי הנייר</l>
+          <l>כל כך פשוט זה אמיתי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשטוב כדאי לכתוב אני אומרת</l>
+          <l>הרבה לפני שאהבה נגמרת</l>
+          <l>איך המילים יוצאות פתאום</l>
+          <l>כמו חלום</l>
+          <l>ואז אקרא מלמעלה עד למטה </l>
+          <l>כמה שאותי אתה אהבת</l>
+          <l>מן זיכרון מתוק כזה שלא נגמר</l>
+          <l>לא נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תחתום תכתוב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אתה בטח חושב, היא יצאה מדעתה</l>
+          <l>איך אפשר לחתום על אהבה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תחתום תכתוב...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אפילו אם תעזוב </l>
+          <l>אתה תלך ויישאר לי הנייר</l>
+          <l>כל כך פשוט זה אמיתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

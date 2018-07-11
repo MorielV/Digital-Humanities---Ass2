@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חושבת על זה</title>
+        <singer classification="female singer">אפרת בן צור</singer>
+        <writer>אפרת בן צור</writer>
+        <composer>אפרת בן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חושבת על זה</head>
+        <lg number="1" type="stanza">
+          <l>מטוס חוצה את השמים</l>
+          <l>אני בבית</l>
+          <l>אהובי נסעו רחוק רחוק</l>
+          <l>כתבו על ארצות יפות</l>
+          <l>וזה עשה להם טוב</l>
+          <l>אני חושבת על זה</l>
+          <l>אני חושבת על זה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ספינה על המים</l>
+          <l>אני על שפת החוף</l>
+          <l>מפליגה רחוק רחוק</l>
+          <l>כתבו על חיות אחרות</l>
+          <l>וזה עשה להם טוב</l>
+          <l>אני חושבת על זה</l>
+          <l>אני חושבת על זה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא אוהבת לעזוב</l>
+          <l>אני חולמת על זה</l>
+          <l>אני חולמת לאהוב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רוח נעימה הבית לא רחוק</l>
+          <l>אולי אקח רכבת אל מקום קרוב</l>
+          <l>אני חושבת על זה</l>
+          <l>אני חושבת הרבה</l>
+          <l>מפליגה רחוק רחוק</l>
+          <l>אני חולמת על זה</l>
+          <l>אני חולמת לאהוב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא אוהבת לעזוב</l>
+          <l>אני חולמת על זה</l>
+          <l>אני חולמת לאהוב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

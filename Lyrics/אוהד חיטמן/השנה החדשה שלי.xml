@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השנה החדשה שלי</title>
+        <singer classification="male singer">אוהד חיטמן</singer>
+        <writer>יואב גינאי</writer>
+        <composer>אוהד חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השנה החדשה שלי</head>
+        <lg number="1" type="stanza">
+          <l>השנה החדשה שלי</l>
+          <l>תהיה יותר טובה</l>
+          <l>אני יודע היא תאיר לי את פניה</l>
+          <l>הימים המתקרבים אלי</l>
+          <l>יהיו לי השראה</l>
+          <l>וישמרו עלי לפני שאשתגע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>השנה החדשה שלי</l>
+          <l>תּהיה יותר שקופה</l>
+          <l>אביט דרכה לתוך עצמי צלול כמו מים</l>
+          <l>המילים האבודות שבי</l>
+          <l>יתרגמו שפה</l>
+          <l>שתילחש בי ותיפקח את העיניים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לפרפרים בלב שלי יש פרפרים בבטן</l>
+          <l>והם עפים איתי רחוק, מעבר לכאב</l>
+          <l>ובין קרעי העננים השמש מאותתת</l>
+          <l>שהחיבוק המתקרב ירגיע את הלב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>השנה החדשה שלי</l>
+          <l>תפליג איתי לים</l>
+          <l>ותחצה איתי אוקיאנוסים של רגש</l>
+          <l>הדקות המתוקות שלי</l>
+          <l>יקחו את הקיים</l>
+          <l>וילטפו אותו לאט באור השמש</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לפרפרים בלב שלי יש פרפרים בבטן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

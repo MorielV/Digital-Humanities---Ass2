@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בפרוש השחר</title>
+        <singer classification="female singer">אסתר שמיר</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בפרוש השחר</head>
+        <lg number="1" type="stanza">
+          <l>תן לנו אור על כל הר ובית</l>
+          <l>שלא נישא תפילה לשווא</l>
+          <l>זמר עקר ענף עץ הזית</l>
+          <l>אם לא יבשיל פריו עכשיו.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ובמרחק שמים הלבינו</l>
+          <l>לא עוד יגון ישתו עד תום</l>
+          <l>לא עוד מולם ראשינו ירכינו</l>
+          <l>לא עוד נמר עם שה יתום.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא כמפרש בארץ בלי מים</l>
+          <l>לא קול קורא בתוך שממה</l>
+          <l>אלה מול אלה ישאו עינים</l>
+          <l>לא ילמדו עוד מלחמה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

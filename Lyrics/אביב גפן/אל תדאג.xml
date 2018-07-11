@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תדאג</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תדאג</head>
+        <lg number="1" type="stanza">
+          <l>אל תדאג אני חושבת עליך</l>
+          <l>אבל שוכבת עם כולם</l>
+          <l>אל תדאג אני חושבת עליך</l>
+          <l>אבל שוכבת עם כולם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואין לי אף אחד</l>
+          <l>אין לי אף אחד</l>
+          <l>אל תדאג אין לי אחר במקומך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תדאג אני חולמת עליך</l>
+          <l>ומתעוררת עם כולם</l>
+          <l>אל תדאג אני מתה עליך</l>
+          <l>וגם חיה עם כולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואין לי אף אחד</l>
+          <l>אין לי אף אחד</l>
+          <l>אל תדאג אין לי אחר במקומך</l>
+          <l>היא שיקרה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל תדאג אני חושבת עליך</l>
+          <l>אבל שוכבת עם כולם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

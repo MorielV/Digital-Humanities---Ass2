@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא כל מי</title>
+        <singer classification="male singer">אורן חן</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>עוזי חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא כל מי</head>
+        <lg number="1" type="stanza">
+          <l>לא כל מי ששר הוא מאושר</l>
+          <l>אך מי שמאושר בליבו יש שיר</l>
+          <l>לא כל מי שלבד הוא בודד</l>
+          <l>אך מי שבודד את כאבו לא יסתיר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בלעדייך אני יודע כמה את חסרה לי</l>
+          <l>ואיתך אני יודע שבלעדייך זה רע לי</l>
+          <l>בלעדייך אני יודע עד כמה אני מאוהב</l>
+          <l>אז בואי אני מבטיח לך לא לראות אותך</l>
+          <l>כמובן מאליו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא כל מי שצוחק שמח</l>
+          <l>אך מי ששמח הצחוק הוא בדמו</l>
+          <l>לא כל מי ששותק סולח</l>
+          <l>אך מי שסולח קונה את עולמו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בלעדייך אני יודע כמה את חסרה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

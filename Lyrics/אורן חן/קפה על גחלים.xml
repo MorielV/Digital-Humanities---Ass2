@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קפה על גחלים</title>
+        <singer classification="male singer">אורן חן</singer>
+        <writer>מעין אוחנה</writer>
+        <composer>דני גפני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קפה על גחלים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>והג'מעה כאן שרים</l>
+          <l>פינג'אן קפה על גחלים</l>
+          <l>נדליק נרגילה לשלום</l>
+          <l>עוד תראו זה לא חלום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בואו ונפתח שולחן</l>
+          <l>לחפלה כמובן</l>
+          <l>נזמין את השכנים כולם</l>
+          <l>ואת כל העולם</l>
+          <l>יבואו מכל העמים</l>
+          <l>בשפע טעמים</l>
+          <l>משם תעוף יונת שלום</l>
+          <l>עלה של זית עוד היום</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>והג'מעה כאן שרים...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כולנו באותו שולחן</l>
+          <l>לחפלה כמובן</l>
+          <l>ומה שלא עושה הזמן</l>
+          <l>נעשה סביב השולחן</l>
+          <l>נוריד בינינו הגדרות</l>
+          <l>נשכח דעות קדומות</l>
+          <l>נחיה בסתלבט כאן כולם</l>
+          <l>ובא שלום על העולם</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>והג'מעה כאן שרים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

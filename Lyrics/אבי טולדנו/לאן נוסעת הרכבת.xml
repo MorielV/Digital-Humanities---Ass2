@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לאן נוסעת הרכבת</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אהוד מנור</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לאן נוסעת הרכבת</head>
+        <lg number="1" type="stanza">
+          <l>אלפי רכבות נוסעות</l>
+          <l>בלילות הקרים</l>
+          <l>איך הן לא טועות</l>
+          <l>בין ההרים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אלפי רכבות נוסעות</l>
+          <l>הרכבת הזאת</l>
+          <l>היא תסע לא תשקוט</l>
+          <l>עד ארץ חלומות.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שם השמש חמה</l>
+          <l>שם גבוהה הקמה</l>
+          <l>שם ילדה עם צמה</l>
+          <l>מחכה בדממה.</l>
+          <l>והסיפור עוד לא תם,</l>
+          <l>אני נוסע לשם.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אלפי ילדים חולמים</l>
+          <l>על שמים וים</l>
+          <l>איך הם מחייכים</l>
+          <l>מתוך שנתם.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אלפי ילדים חולמים</l>
+          <l>אך הילד הזה</l>
+          <l>הוא יסע לא ישקוט</l>
+          <l>עד ארץ חלומות.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שם השמש חמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

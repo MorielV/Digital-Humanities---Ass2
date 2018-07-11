@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גיל ההתבגרות</title>
+        <singer classification="band">אבטיפוס</singer>
+        <writer>אמיר בן דוד</writer>
+        <composer>אמיר בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גיל ההתבגרות</head>
+        <lg number="1" type="stanza">
+          <l>לקח לו שעה עד שחזר והתפכח</l>
+          <l>בהתחלה הוא רק חייך, ואז התחיל לצחוק</l>
+          <l>זה היה מדבק, כעבור דקה או שתיים</l>
+          <l>כולנו צחקנו כמו ילדים</l>
+          <l>ואחר כך המשכנו לשתות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>החוף הדרומי של חיפה, לפנות בוקר</l>
+          <l>השמש עוד מעט תצא מאחורי ההר</l>
+          <l>ואנחנו עירומים, רוקדים בתוך המים</l>
+          <l>מנסים לתפוס גלים גבוהים שנשברים בחול</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כמה זמן אפשר למשוך את גיל ההתבגרות</l>
+          <l>לרקוד בלילות ולקום בצהריים</l>
+          <l>לנסוע לטייל בכרמל עם שלושה ארגזים של בירה</l>
+          <l>ולחזור עם עיגולים אדומים אדומים בעיניים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שישי בחצות, בדרך לנהריה</l>
+          <l>נוסעים במהירות ועוקפים אפילו כשהכביש אדום</l>
+          <l>הפאב של קזאס סגור וזה ממש מפתיע</l>
+          <l>אף פעם לא סגרו אותו, גם לא במלחמה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ודורית כבר עייפה, רוצה לחזור הביתה</l>
+          <l>אנחנו מרגיעים אותה, אבל היא עצבנית</l>
+          <l>לא, היא לא מוכנה לחפש מקום בעכו</l>
+          <l>או שנחזור עכשיו לקריות או שהיא תופסת מונית</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כמה זמן אפשר למשוך...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כמה זמן אפשר לצחוק עד שמתחילות לזלוג דמעות?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

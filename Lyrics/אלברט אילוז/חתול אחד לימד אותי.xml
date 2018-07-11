@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חתול אחד לימד אותי</title>
+        <singer classification="unknown">אלברט אילוז</singer>
+        <writer>חנה גולדברג</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חתול אחד לימד אותי</head>
+        <lg number="1" type="stanza">
+          <l>חתול אחד לימד אותי איך עושים - מיאו</l>
+          <l>כלב שפגשתי נבח עלי - האו</l>
+          <l>הסוס שגר ממול לימד אותי לדהור</l>
+          <l>ואבא ואימא לימדו אותי לספור:</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אחת - שתיים</l>
+          <l>שלוש - ארבע</l>
+          <l>אני הולך כמו ברווז</l>
+          <l>גע גע גע גע גע</l>
+          <l>אחת - שתיים</l>
+          <l>שלוש - ארבע </l>
+          <l>מדלג כמו ארנב</l>
+          <l>הנה אני בא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ציפור אחת ניסתה ללמד אותי לעוף</l>
+          <l>ניסיתי ונפלתי ישר על הפרצוף</l>
+          <l>החולד הקטן חפר איתי בור</l>
+          <l>ואבא ואימא לימדו אותי לספור:</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אחת - שתיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

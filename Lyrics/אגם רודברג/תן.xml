@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תן 25</title>
+        <singer classification="unknown">אגם רודברג</singer>
+        <writer>סמדר שיר</writer>
+        <composer>משה דץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תן</head>
+        <lg number="1" type="stanza">
+          <l>תן, קצת שמש תן</l>
+          <l>וברקיע צבע לי קשת כולה זהב</l>
+          <l>תן לי לחייך</l>
+          <l>בזרועותיו של הנסיך שאותי יאהב</l>
+          <l>אז תן לי מנגינה</l>
+          <l>כדי לרקוד לצליליה כמו בחלום</l>
+          <l>תן לי אמונה וסבלנות</l>
+          <l>לחכות לו יום ועוד יום.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז תן קצת שקט ושלווה</l>
+          <l>ואהבה שלא תגווע עם עלות הבוקר</l>
+          <l>אז תן חיוך וגם תקווה</l>
+          <l>כי הלבבות צמאים לאושר</l>
+          <l>אם רק תתן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תן, מרגוע תן</l>
+          <l>ואת הכוח לקבל את האכזבה</l>
+          <l>שוב שקעה חמה</l>
+          <l>ושוב ירד עלי הלילה בלי אהבה</l>
+          <l>אז תן להתפלל</l>
+          <l>להאמין שזה עדיין לא מאוחר</l>
+          <l>תן ללחוש אמן</l>
+          <l>ולשלב את הידיים עד המחר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז תן קצת שקט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

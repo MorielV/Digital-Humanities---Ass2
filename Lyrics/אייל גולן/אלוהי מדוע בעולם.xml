@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלוהי מדוע בעולם</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>ציון שרעבי</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלוהי מדוע בעולם</head>
+        <lg number="1" type="stanza">
+          <l>אלוהי מדוע בעולם, לא כל המזלות שווים</l>
+          <l>לאחד יש מעט, לשני הרבה יותר</l>
+          <l>מאז ובכל הזמנים</l>
+          <l>ביקשתי פינה לחיות בצל האושר </l>
+          <l>למצוא לי חוף מבטחים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובסוף הדרכים, לא דרכי זו אשר אחפש</l>
+          <l>כי לבית הלוגמים עוד שיכר אבוא לבקש</l>
+          <l>אלגום עד יאבד זכרוני ואוני, לא אראה ביופי האובד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אלוהי מדוע בעולם, לא כל האהבות יפות</l>
+          <l>אהבתי אישה בשנותיי הכי טובות</l>
+          <l>לפתע חדלה לאהוב</l>
+          <l>וכמו פתי אל ים רגשות נסחפתי</l>
+          <l>עמוק, הרחק מן החוף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ובסוף הדרכים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

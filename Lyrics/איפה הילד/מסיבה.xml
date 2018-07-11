@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מסיבה</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מסיבה</head>
+        <lg number="1" type="stanza">
+          <l>בואו נעשה מסיבה </l>
+          <l>לאלה שלא הזמינו אותם </l>
+          <l>בואו נעשה מסיבה </l>
+          <l>לאלה שלא הזמינו אותם </l>
+          <l>יהיה חם חם חם </l>
+          <l>חם חם חם </l>
+          <l>סוף העולם </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בואו נעשה מסיבה </l>
+          <l>לאלה שלא עכשיו באופנה </l>
+          <l>בואו נעשה מסיבה </l>
+          <l>לאלה שלא עכשיו באופנה </l>
+          <l>לא במשחק הקו מנותק </l>
+          <l>שומרים מרחק </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואני אהיה התקליטן </l>
+          <l>ואתן את המוזיקה חינם </l>
+          <l>מה אנחנו בני אדם </l>
+          <l>רוצים לרקוד ריקוד קטן </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בואו נעשה מסיבה </l>
+          <l>לאלה שלא הזמינו אותם </l>
+          <l>בואו נעשה מסיבה </l>
+          <l>לאלה שלא עכשיו באופנה </l>
+          <l>אם אתה ביישן או מפסידן </l>
+          <l>אתה מוזמן </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כי אני אהיה התקליטן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

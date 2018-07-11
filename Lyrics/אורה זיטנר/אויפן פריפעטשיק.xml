@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אויפן פריפעטשיק</title>
+        <singer classification="female singer">אורה זיטנר</singer>
+        <writer>מרק ורשבסקי</writer>
+        <composer>מרק ורשבסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אויפן פריפעטשיק</head>
+        <lg number="1" type="stanza">
+          <l>חדר יש קטנטן צר וחמים</l>
+          <l>ובאח - אש.</l>
+          <l>שם הרבי את תלמידיו</l>
+          <l>מלמד אלף בית.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את תורתי ילדי החמד</l>
+          <l>שימעו, זיכרו נא!</l>
+          <l>אימרו שנית, ככה שנית:</l>
+          <l>קמץ אלף אה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שימו אל ליבכם, הטו אוזן</l>
+          <l>אל הכתוב פה</l>
+          <l>מי שיקרא מהר עברית</l>
+          <l>דגל אתן לו.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את תורתי ילדי חמד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חדר יש קטנטן צר וחמים</l>
+          <l>ובאח - אש.</l>
+          <l>שם הרבי את תלמידיו</l>
+          <l>מלמד אלף בית.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את תורתי ילדי חמד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

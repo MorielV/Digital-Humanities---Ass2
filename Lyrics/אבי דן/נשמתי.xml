@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נשמתי</title>
+        <singer classification="unknown">אבי דן</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נשמתי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>נשמתי, ילדתי, נהדר שאת אתי</l>
+          <l>כל הזמן אוהבים, מתחבקים ומתנשקים.</l>
+          <l>נשמתי, ילדתי, את לי אור בתוך ביתי</l>
+          <l>וכשאנו שוב יחדיו השמיים צוחקים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רק אני לך מכולם, האחד בעולם</l>
+          <l>שאוהב רק אותך, לא יעזוב ונשאר.</l>
+          <l>כל הבנות בך מקנאות, בנים משתוללים;</l>
+          <l>מי היפה שבבנות, תוהים ושואלים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נשמתי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כי ידי בידך, כך נלך ונלך,</l>
+          <l>נעלה אל ביתך ושם אקח את גופך.</l>
+          <l>כל הימים לא יספרו איך שאנו מתעלסים</l>
+          <l>והלילות שיעברו יהיו כה נפלאים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>נשמתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

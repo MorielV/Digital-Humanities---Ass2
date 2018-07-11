@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ואם את עוזבת</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>אורן לב</writer>
+        <composer>אורן לב</composer>
+        <album>רגעים קטנים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ואם את עוזבת</head>
+        <lg number="1" type="stanza">
+          <l>ואם את עוזבת, </l>
+          <l>תשאירי לי את כל הטעויות </l>
+          <l>התסכולים וכל החרדות, לחיות לבד. </l>
+          <l>כן, אם את עוזבת, </l>
+          <l>תשאירי לי מזכרת של תמונה </l>
+          <l>אני אכתוב ל איזו מנגינה... מנגינה. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אמצא לי מסגרת, אולי אלך אל המתנ"ס, </l>
+          <l>אגדל חתול או כלב, עליו אף פעם לא אכעס. </l>
+          <l>ואם ארצה, אני אסע לאירופה ואטייל לי בעולם, </l>
+          <l>בתי מלון וגם קזינו, לילות פרועים מפה עד שם, </l>
+          <l>אבל אני אחייה... אבל... </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואם את עוזבת, </l>
+          <l>תשאירי לי את כל החשבונות, </l>
+          <l>אם את עושבת, אין לך בעיות, בכלל. </l>
+          <l>ואם את עוזבת, הכל ימשיך להיות כמו שהיה, </l>
+          <l>אני אמשיך לחיות לי את חיי, את חיי. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אמצא לי מסגרת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

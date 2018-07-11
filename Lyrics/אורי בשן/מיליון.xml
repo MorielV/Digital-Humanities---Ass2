@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מיליון 4</title>
+        <singer classification="male singer">אורי בשן</singer>
+        <writer>אורי בשן</writer>
+        <composer>אורי בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מיליון</head>
+        <lg number="1" type="stanza">
+          <l>פאב פינתי , במרחק הליכה מביתי,</l>
+          <l>חברי נהנים, רק אני מעמיד פנים.</l>
+          <l>יום רביעי, זה כמו ערב של חג בשבילי,</l>
+          <l>כי על הבר את תתישבי, ולדוגמן לידך תחייכי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מתי תנסי לטעום גם אותי לא דג לפתיון,</l>
+          <l>בגלל בעיות כמו שלי הבר עשה מיליון.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האביר עם הגביע הקדוש, כשהויסקי כבר עלה לו לראש,</l>
+          <l>פתאום אין לו ממה לחשוש, אז בואי הנה תגידי לי שוש.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מתי תנסי לטעום גם אותי לא דג לפיתיון,</l>
+          <l>בגלל בעיות כמו שלי הבר עשה מיליון.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר ליל שבת</title>
+        <singer classification="female singer">אתי אנקרי</singer>
+        <writer>יהודה עמיחי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר ליל שבת</head>
+        <lg number="1" type="stanza">
+          <l>התבואי אלי הלילה</l>
+          <l>כבסים כבר יבשו בחצר</l>
+          <l>מלחמה שאף פעם לא די לה</l>
+          <l>היא עכשיו במקום אחר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וכבישים שבים בלי הרף</l>
+          <l>לבדם כסוס בלי רוכבו</l>
+          <l>והבית נסגר בערב</l>
+          <l>על הטוב והרע שבו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וידענו היטב כי הגבול</l>
+          <l>הוא קרוב ואסור לנו שם</l>
+          <l>אבי התפלל ויכולו</l>
+          <l>הארץ וכל צבאם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>צבא והארץ האפילו</l>
+          <l>עוד מעט יכבה האור</l>
+          <l>המצווה בה שמיים התחילו</l>
+          <l>שוב השניים צריכים לגמור</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

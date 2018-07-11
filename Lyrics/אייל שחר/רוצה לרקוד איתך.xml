@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוצה לרקוד איתך</title>
+        <singer classification="male singer">אייל שחר</singer>
+        <writer>אייל שחר</writer>
+        <composer>גל אשר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוצה לרקוד איתך</head>
+        <lg number="1" type="stanza">
+          <l>אני שחולם אותך בלילות</l>
+          <l>רק אני מצליח לראות</l>
+          <l>(איך) את נסגרת בכלוב</l>
+          <l>ואת סוגרת איתו את הלילה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשנוצר מסביבך מעגל</l>
+          <l>את בוהקת בתוך הקהל</l>
+          <l>שצמא לך כל כך</l>
+          <l>צמא לקבל את הקטע שלך</l>
+          <l>זה הרגע שלך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני רוצה לרקוד איתך</l>
+          <l>את נותנת את הקצב</l>
+          <l>והקצב הוא שלך</l>
+          <l>כל הזמן אני בעצם</l>
+          <l>רק רוצה לרקוד איתך</l>
+          <l>את קובעת את הקצב</l>
+          <l>והקצב הוא שלך</l>
+          <l>רוצה לרקוד איתך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני שחולם אותך בלילות</l>
+          <l>רק אני יכול לגלות</l>
+          <l>מה קורה לך בפנים</l>
+          <l>מה קורה כשרוקדים את הלילה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והלילה מלא אנשים</l>
+          <l>מערבולת מכה בחושים</l>
+          <l>שצמאים לך כל כך</l>
+          <l>ואני מחכה כאן רק לרגע שלך</l>
+          <l>רק לרגע שלך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני רוצה לרקוד איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

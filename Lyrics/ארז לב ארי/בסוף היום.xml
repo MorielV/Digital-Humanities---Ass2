@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בסוף היום 2</title>
+        <singer classification="male singer">ארז לב ארי</singer>
+        <writer>פטריק סבג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בסוף היום</head>
+        <lg number="1" type="stanza">
+          <l>אם הייתי סולח הייתי מאושר </l>
+          <l>אם הייתי בורח הייתי "מסודר" </l>
+          <l>אם הייתי שביר הייתי מסוגל </l>
+          <l>אם הייתי שבוי הייתי מסוכן</l>
+          <l>אם הייתי צורח הייתי נשאר </l>
+          <l>אם הייתי שקט הייתי נרדם </l>
+          <l>אם הייתי... </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בסוף היום זה רק אני </l>
+          <l>וזה רק את והילדים ואלוהים, </l>
+          <l>וכל השאר הבל הבלים </l>
+          <l>מה שהיה הוא שיהיה - אז תכבי לי את האור </l>
+          <l>ובואי נלך לישון - יש יום חדש בקצה הלילה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם הייתי סולח הייתי מאושר </l>
+          <l>אם הייתי בורח הייתי "מסודר" </l>
+          <l>אם הייתי שביר הייתי מסוגל </l>
+          <l>אם הייתי שבוי הייתי מסוכן </l>
+          <l>אם הייתי יודע הייתי מדבר </l>
+          <l>אם הייתי אני הייתי מישהו אחר </l>
+          <l>אם הייתי...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בסוף היום זה רק אני </l>
+          <l>וזה רק את והילדים ואלוהים, </l>
+          <l>וכל השאר הבל הבלים </l>
+          <l>מה שהיה הוא שיהיה - אז תכבי לי את האור </l>
+          <l>ובואי נלך לישון - יש יום חדש בקצה הלילה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

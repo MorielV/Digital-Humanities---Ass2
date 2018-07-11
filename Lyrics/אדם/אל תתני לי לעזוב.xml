@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תתני לי לעזוב</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>חמוטל בן זאב</writer>
+        <composer>אורן לב</composer>
+        <album>רגעים קטנים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תתני לי לעזוב</head>
+        <lg number="1" type="stanza">
+          <l>בסוף תמונה אחת תמיד, אלי חוזרת </l>
+          <l>ואל הרגש שמציף את נשמתי </l>
+          <l>אני זוכר את הלילות בעיר אחרת </l>
+          <l>והבדידות שמלווה מאז אותי. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואם אני מרגיש שהסופה דוהרת, </l>
+          <l>בתוך תוכי כבר מתהפכת דעתי. </l>
+          <l>ואם עמוק בלב האש שבי נשמרת </l>
+          <l>והבטחות שאת אוהבת רק אותי. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תתני לי לעזוב, </l>
+          <l>את הרע ואת הטוב, </l>
+          <l>תלמדי אותי הכל עלייך. </l>
+          <l>אל תתני לי לוותר, </l>
+          <l>לא פחות ולא יותר, </l>
+          <l>לעולם אני אלך אלייך. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש קול פנימי, אותו עכשיו אני שומע, </l>
+          <l>רוצה לחזור אל השמחה ואל עצמי. </l>
+          <l>כי ממרחק הלב בפנים יודע, </l>
+          <l>שעל ידך זה המקום האמיתי. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל תתני לי לעזוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

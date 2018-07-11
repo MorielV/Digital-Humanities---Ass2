@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>במצב ביניים</title>
+        <singer classification="male singer">ארז הלוי</singer>
+        <writer>ארז הלוי</writer>
+        <composer>ארז הלוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>במצב ביניים</head>
+        <lg number="1" type="stanza">
+          <l>במצב ביניים שכזה </l>
+          <l>אתה נכנס באמצע מחזה </l>
+          <l>תתרגש, בסוף תצא מזה, </l>
+          <l>זה רק מצב ביניים שכזה. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הי, הי, הי... </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>במצב ביניים שכזה </l>
+          <l>שניים פה יושבים בבית קפה </l>
+          <l>מביאים לך משחק יפה </l>
+          <l>מן מצב ביניים שכזה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הי, הי, הי... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>במצב ביניים שכזה </l>
+          <l>אתה עצוב, אתה כמעט בוכה </l>
+          <l>מתי יבוא לו סוף, למחזה ? </l>
+          <l>זה מצב ביניים שכזה ! </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יה, יה, יה... </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>במצב ביניים שכזה </l>
+          <l>אתה מדעתם כמעט יוצא </l>
+          <l>הנה בא לו סוף, למחזה </l>
+          <l>על שניים שישבו בבית קפה. </l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>יה, יה, יה... </l>
+          <l>לה, לה, לה... </l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>במצב ביניים שכזה </l>
+          <l>אתה נכנס באמצע מחזה, </l>
+          <l>תתרגש, אולי גם תהנה - </l>
+          <l>זה רק מצב ביניים שכזה. </l>
+        </lg>
+        <lg Chorus="yes" number="10" type="stanza">
+          <l>יה, יה, יה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

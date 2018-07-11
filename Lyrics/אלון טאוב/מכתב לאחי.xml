@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מכתב לאחי</title>
+        <singer classification="unknown">אלון טאוב</singer>
+        <writer>עילי בוטנר</writer>
+        <composer>עילי בוטנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מכתב לאחי</head>
+        <lg number="1" type="stanza">
+          <l>אל תפחד תשאף לדעת </l>
+          <l>אל תדאג עוד תקיים </l>
+          <l>מי שבידו לגעת </l>
+          <l>יש שבליבו עוד לנחם </l>
+          <l>אל תפחד ימים יבואו </l>
+          <l>ועונות שנה תחלוף </l>
+          <l>אתה תראה שעוד נגיע אל הסוף </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל תפחד ממציאות נושכת </l>
+          <l>ואנשים קרים </l>
+          <l>כל אחד סוחב בבטן </l>
+          <l>ומעט שעליהם רואים </l>
+          <l>כמה כח יש ברגע </l>
+          <l>והנצח אין לו סוף </l>
+          <l>בכל דמעה שעוד תרד </l>
+          <l>יגיע צחוק </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>וזה הרגע </l>
+          <l>הנה באה השעה </l>
+          <l>מה תביא איתה הרוח </l>
+          <l>מה ימיס את הדממה </l>
+          <l>ויש סיבות לכל דבר </l>
+          <l>יש חלום שלא נגמר </l>
+          <l>בסוף הדרך עוד תהיה מאושר </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>וקדימה אל האופק </l>
+          <l>אל השמש הטובה </l>
+          <l>זה רחוק אבל תגיע </l>
+          <l>קצת עייף וקצת צמא לאהבה </l>
+          <l>שמחכה לך, תקטוף אותה כפרי בשל</l>
+          <l>ואז תנוח תרדם בצל</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>וזה הרגע </l>
+          <l>הנה באה השעה </l>
+          <l>מה תביא איתה הרוח </l>
+          <l>מה ימיס את הדממה </l>
+          <l>ויש סיבות לכל דבר </l>
+          <l>יש חלום שלא נגמר </l>
+          <l>בסוף הדרך עוד תהיה מאושר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

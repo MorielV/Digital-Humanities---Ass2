@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברוכים הבאים לישראל</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברוכים הבאים לישראל</head>
+        <lg number="1" type="stanza">
+          <l>בישובי הארץ השמועה פשטה</l>
+          <l>שחללית בכנסת נחתה</l>
+          <l>ובתוכה חייזר נאור</l>
+          <l>חצי לבן חצי שחור</l>
+          <l>על הצבא לקח את השליטה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש לו כח</l>
+          <l>לא לברוח</l>
+          <l>הוא ביוני</l>
+          <l>איזה שוני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>welcome to israel</l>
+          <l>מאה ועשרים חייזרים</l>
+          <l>פצצות אטום ואלף שרירים</l>
+          <l>וגם פועלים זרים</l>
+          <l>welcome to israel</l>
+          <l>הימין שונא את השמאל</l>
+          <l>הכל עניין של כסף גדול</l>
+          <l>ולנו אסור לשאול</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>והחייזר אותנו לא מבין</l>
+          <l>על מה ולמה כאן כולם רבים</l>
+          <l>יש דרך לשלום עכשיו</l>
+          <l>אפשר לחיות על הכוכב</l>
+          <l>אסור לתת לדת את הרובים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יש לו כח</l>
+          <l>לא לברוח</l>
+          <l>הוא ביוני</l>
+          <l>איזה שוני</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>welcome to israel...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

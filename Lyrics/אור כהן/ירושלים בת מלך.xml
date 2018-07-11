@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ירושלים בת מלך</title>
+        <singer classification="unknown">אור כהן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ירושלים בת מלך</head>
+        <lg number="1" type="stanza">
+          <l>היית הבית למקדש כלה לאלף מזמורים</l>
+          <l>עמים נשאו עיניים אל יופייך</l>
+          <l>תבל רוותה מהדרך, אך שיחתו בך גם זרים</l>
+          <l>ואלוקים מחה את דמעתך</l>
+          <l>ואת עלית מאפר מחורבותייך</l>
+          <l>לצליל כינור דוד בשערך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ירושלים, בירת הנצח לעולם כולו</l>
+          <l>ירושלים בחומותייך אני אבן</l>
+          <l>לשמור אותך, תפילת המלך, בת שמיים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אלפיים שש מאות שנה ואת כמעט לא משתנה</l>
+          <l>כמו יין משתבחת עם הזמן</l>
+          <l>אני עובר בסמטאות מקשיב לרחש התפילות</l>
+          <l>הכותל כמו אומר עדיין כאן</l>
+          <l>לא אשכחך ירושלים</l>
+          <l>כל עוד תזרח הקשת בענן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ירושלים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

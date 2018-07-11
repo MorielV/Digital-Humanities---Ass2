@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השעות היפות ביותר</title>
+        <singer classification="unknown">אירית דותן</singer>
+        <writer>שמרית אור</writer>
+        <composer>חנן יובל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השעות היפות ביותר</head>
+        <lg number="1" type="stanza">
+          <l>השעות הקשות ביותר הן שעות הערב </l>
+          <l>כשחיות הטרף עורבות ביערים </l>
+          <l>שעה שאת עוצמת את עינייך </l>
+          <l>וחולמת בלבך המון דברים </l>
+          <l>שאיש אותם אף פעם לא יודע </l>
+          <l>שהם שלך ולא של אחרים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תלכי עד הסוף אל תתני הכל </l>
+          <l>הוא לא צריך לדעת, הוא לא יידע לשאול </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השעות היפות ביותר הן שעות הלילה </l>
+          <l>כשממעלה השמים נפתחים </l>
+          <l>ראשו הנם חבוק בזרועותייך </l>
+          <l>וכוכבים אלייך מחייכים </l>
+          <l>ואת נשאת הרחק כמו על מים </l>
+          <l>רק עם עצמך ועם המלאכים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תלכי עד הסוף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

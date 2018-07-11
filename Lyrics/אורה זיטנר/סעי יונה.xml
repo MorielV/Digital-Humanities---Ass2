@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סעי יונה</title>
+        <singer classification="female singer">אורה זיטנר</singer>
+        <writer>רבי שלום שבזי</writer>
+        <composer>עממי תימני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סעי יונה</head>
+        <lg number="1" type="stanza">
+          <l>סעי יונה ושמעיני בכנור נגני</l>
+          <l>ופצחי זמרי רני. בשיר התבונני</l>
+          <l>ומהרי ואל תפני. לדרך שוטני</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קחי צידה ונסעה</l>
+          <l>ונתעדן ונשבעה</l>
+          <l>ונשתה מעינות דעה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ונשירה עלי נבל. וזמר תתני</l>
+          <l>עמודי מהרי יונה. והתקיני כלי</l>
+          <l>ונכנס לתוך גנה. בתמר תעלי</l>
+          <l>ונאחזה בסנסניו. ופריו תאכלי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ומהרי עדי עדייך</l>
+          <l>תני תורים עלי לחייך</l>
+          <l>וינאה בם כליל יפייך</l>
+          <l>תני נזמך עלי אפך, ועגיל תתני</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

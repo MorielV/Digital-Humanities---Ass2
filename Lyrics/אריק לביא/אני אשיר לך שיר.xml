@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני אשיר לך שיר</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>אריק לביא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני אשיר לך שיר</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אני אשיר לך שיר על דברים שלא אמרתי לך</l>
+          <l>על מה שלא העזתי להוציא מפי</l>
+          <l>אני אשיר לך שיר על מה שלא סיפרתי לך</l>
+          <l>מן מנגינה פרטית שיר רק לך ולי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואת שוב תעברי לך יפה ומרקדת</l>
+          <l>ושוב תלכי לך סתם לקנות זוג עגילים</l>
+          <l>אני אהיה עגיל בתנוך אוזנך הלילה</l>
+          <l>לשמור על זיו פנייך ילדה כמו על לבבי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני אשיר לך...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני אפול לך כמו צמה אל המותנים</l>
+          <l>אני אהיה שבוי לך ואת לי מבצרי</l>
+          <l>אצבע לך בכחול את רוב ריסי עינייך</l>
+          <l>אני אוהב אותך ילדה יותר מאשר אותי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני אשיר לך שיר...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני אצא אלייך כמו טיל אל הירח</l>
+          <l>אני אהיה ספינה לך ואת קול השלום</l>
+          <l>אלייך אתגלגל כמו גל לבן ברוח</l>
+          <l>אפול לי לרגלייך ילדה ואתיבש מחום</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אני אשיר לך שיר...</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>ואם את לא תקשיבי לי ולא תבואי לרגע</l>
+          <l>את קושי מכאובי רק קצת לי לרכך</l>
+          <l>אצא לי מאוזנך עגיל קטן ברוח</l>
+          <l>אתקע עצמי סתם כך ילדה באמצע לבבך</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>אני אשיר לך שיר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

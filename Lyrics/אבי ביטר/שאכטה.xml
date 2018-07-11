@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שאכטה</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>עידן טיירי</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שאכטה</head>
+        <lg number="1" type="stanza">
+          <l>אוי כשאני לוקח שאכטה</l>
+          <l>אז אני שוכח מצרות</l>
+          <l>אוי כשאני לוקח שאכטה</l>
+          <l>הלוואי ממאג'ה</l>
+          <l>העולם נראה ורוד</l>
+          <l>אוי כשאני לוקח שאכטה</l>
+          <l>הלוואי ממאג'ה</l>
+          <l>העולם נראה ורוד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הלוואי ואי</l>
+          <l>ואי ואי ואי ואי</l>
+          <l>הלוואי ואי</l>
+          <l>ואי ואי ואי ואי</l>
+          <l>הלוואי ואי</l>
+          <l>ואי ואי ואי ואי</l>
+          <l>הלוואי ואי</l>
+          <l>ואי ואי ואי ואי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הנה הסיבוב אליי מגיע</l>
+          <l>ותורי הגיע לעשן</l>
+          <l>אז תתקרב אחי אני לא מגיע</l>
+          <l>הלוואי ממאג'ה</l>
+          <l>כי את הבקבוק אני אוהב</l>
+          <l>אז תתקרב אחי אני לא מגיע</l>
+          <l>הלוואי ממאג'ה</l>
+          <l>כי את הבקבוק אני אוהב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

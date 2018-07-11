@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גורל האוהבים</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גורל האוהבים</head>
+        <lg number="1" type="stanza">
+          <l>ספרי לי למה את בוכה</l>
+          <l>בלילות את עצובה</l>
+          <l>כבר שנים את בודדה</l>
+          <l>מה עשתה לך האהבה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אהבתי והלב יעיד</l>
+          <l>זו אהבה ללא עתיד</l>
+          <l>הוא עזב אותי לעד</l>
+          <l>זה כואב וזה מפחיד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ככה זה באהבות</l>
+          <l>נשארים רק זיכרונות</l>
+          <l>תנגבי את הדמעות</l>
+          <l>לא מגיע לך לבכות</l>
+          <l>לא עוצרות לי הדמעות</l>
+          <l>ליבי נשרף בלהבות</l>
+          <l>שורפים אותי הזכירונות</l>
+          <l>ולמה הדמעות מרות?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איש לא יבין את כאבך</l>
+          <l>ואת הסוד שבליבך</l>
+          <l>מה עשה לך אהובך</l>
+          <l>איך הרס את עולמך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא רוצה עוד אהבות</l>
+          <l>לא רוצה יותר לבכות</l>
+          <l>שרפו אותי האהבות</l>
+          <l>לא השאירו לי דמעות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ככה זה באהבות...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>"ככה זה באהבות</l>
+          <l>זה עולם מלא דמעות</l>
+          <l>גם אני אהבתי פעם</l>
+          <l>הייתי כמו ציפו פצועה</l>
+          <l>בלי כנפיים</l>
+          <l>בין שתי ערים גבוהות גבוהות</l>
+          <l>מצאו אותי שמה שבור מהאהבה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

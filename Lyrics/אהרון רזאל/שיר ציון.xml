@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר ציון</title>
+        <singer classification="male singer">אהרון רזאל</singer>
+        <writer>אהרון רזאל</writer>
+        <composer>אהרון רזאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר ציון</head>
+        <lg number="1" type="stanza">
+          <l>שירו לנו, שירו שיר שמחה</l>
+          <l>שיבריא את היגון - את שיר ציון</l>
+          <l>שירו לנו שיר, שעד עכשיו היה בדמיון - את שיר ציון</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי לא רצינו אז</l>
+          <l>ולא ידענו אז</l>
+          <l>אבל עכשיו כשבאנו כאן</l>
+          <l>אנחנו כבר רוצים</l>
+          <l>לא מחר, היום - את שיר ציון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תנו לנו לשיר את השמחה</l>
+          <l>את הששון שעולה על כל דמיון - את שיר ציון</l>
+          <l>בואו ונשיר את הדמעה של השמחה</l>
+          <l>כי גדול הצימאון - לשיר ציון</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי לא רצינו אז...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז תן ללב שלך לשיר ולרקוד כמו</l>
+          <l>פנס של אור בחושך</l>
+          <l>תן לו, תן לו ללב שלך</l>
+          <l>לשיר ולעוף ולעוף ולעוף</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אין לנו על מי להשען אלא על אבינו שבשמיים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

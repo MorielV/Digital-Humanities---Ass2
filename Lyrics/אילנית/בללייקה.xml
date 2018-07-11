@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בללייקה</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בללייקה</head>
+        <lg number="1" type="stanza">
+          <l>בלב הלילה שמעתי קול,</l>
+          <l>זה קול אחי על נהרות בבל,</l>
+          <l>תפילה אילמת לא מנוחמת</l>
+          <l>אל ארץ ישראל.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מתוך האלם עלה קולו</l>
+          <l>לא סערה היתה בו ולא אש</l>
+          <l>רק בללייקה בדמי הלילה</l>
+          <l>וקול אדם לוחש:</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בללייקה, בללייקה,</l>
+          <l>הו, שירי לי אם אשכחך ירושלים,</l>
+          <l>בללייקה, בללייקה</l>
+          <l>עוד ישמע שירי בארץ ישראל.</l>
+          <l>בללייקה, בללייקה</l>
+          <l>עוד ישמע שירי בארץ ישראל.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בלב הלילה לחשתי לו:</l>
+          <l>את תפילתך שמעתי מן הבכי,</l>
+          <l>אני שומעת, אני יודעת,</l>
+          <l>אחי, אתה אחי.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בלב הלילה עודו נוגן,</l>
+          <l>אבל עם בוקר יאלם קולו,</l>
+          <l>אז אקחנו ואשאנו</l>
+          <l>אל העולם כולו.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בללייקה, בללייקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

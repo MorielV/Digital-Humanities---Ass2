@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בשדות של המושב</title>
+        <singer classification="female singer">אורטל אופק</singer>
+        <writer>אורטל אופק</writer>
+        <composer>אורטל אופק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בשדות של המושב</head>
+        <lg number="1" type="stanza">
+          <l>תעשה איתי טיול בשדות של המושב</l>
+          <l>ותראה לי באילו שבילים אתה בוחר ללכת</l>
+          <l>ונשכב על הגב באמצע כר דשא ענק</l>
+          <l>ותלמד אותי איך זה מרגיש להיות שייכת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז תדע שרק לך אני מוכנה</l>
+          <l>לתת את כל כולי</l>
+          <l>ולא אנ'לא אדרוש ממך דבר</l>
+          <l>רק תדע שרק לך אני מוכנה</l>
+          <l>לתת את כל כולי</l>
+          <l>ולא אנ'לא אדרוש ממך דבר</l>
+          <l>שרק תהיה כאן גם מחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תעשה איתי טיול בשדות של המושב</l>
+          <l>ונקטוף לימונים ותפוזים ואפילו שסק</l>
+          <l>ונשכב על הגב תחת עץ מנגו ענק</l>
+          <l>ופתאום אתה תתקרב ותספר שאתה אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז תדע שרק לך אני מוכנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

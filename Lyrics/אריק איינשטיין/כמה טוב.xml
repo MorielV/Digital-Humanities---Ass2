@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה טוב 2</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>יענקל'ה רוטבליט</writer>
+        <composer>מיכה שטרית</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה טוב</head>
+        <lg number="1" type="stanza">
+          <l>ימים של מור ולבונה</l>
+          <l>רודפים לילות של משי</l>
+          <l>ועיר פותחת חלונה</l>
+          <l>ללכוד חלום ברשת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הו יפתי הביטי נא</l>
+          <l>קפה על טס נחושת</l>
+          <l>על מרפסתנו הקטנה</l>
+          <l>כל ערוגות הבשם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>וכמה טוב כמה טוב</l>
+          <l>שיש לנו אותנו</l>
+          <l>ומתנגן לו מתנגן</l>
+          <l>שיר השירים שלנו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יושב בסתר מדרגה</l>
+          <l>מן החלון משגיח</l>
+          <l>את כף ידך הענוגה</l>
+          <l>בכף ידי אניח</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>וכמה טוב כמה טוב</l>
+          <l>שיש לנו אותנו</l>
+          <l>ומתנגן לו מתנגן</l>
+          <l>שיר השירים שלנו</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עשי מקום קצת לצידך</l>
+          <l>נגנוב שעה של שקט</l>
+          <l>הנה שמאלי תחת ראשך</l>
+          <l>וימיני חובקת</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>וכמה טוב כמה טוב</l>
+          <l>שיש לנו אותנו</l>
+          <l>ומתנגן לו מתנגן</l>
+          <l>שיר השירים שלנו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

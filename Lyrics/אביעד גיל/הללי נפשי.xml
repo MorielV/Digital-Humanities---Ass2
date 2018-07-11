@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הללי נפשי</title>
+        <singer classification="unknown">אביעד גיל</singer>
+        <writer>רבי שלום שבזי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הללי נפשי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הללי נפשי לצורך </l>
+          <l>שוררי בנעים זמירך </l>
+          <l>עת בכל לשון תברך </l>
+          <l>צור אשר האציל כתרים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הללי נפשי לצורך </l>
+          <l>שוררי בנעים זמירך </l>
+          <l>עת בכל לשון תברך </l>
+          <l>צור אשר האציל כתרים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם תהיי בעלת תבונה </l>
+          <l>יעלצה ליבך כחנה </l>
+          <l>עטרי ראש יום חתונה </l>
+          <l>תקשרי ארבע ועשרים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

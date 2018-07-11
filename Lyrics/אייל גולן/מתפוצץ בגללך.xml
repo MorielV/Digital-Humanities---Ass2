@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתפוצץ בגללך</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>רמי לב</writer>
+        <composer>דורון אלימלך</composer>
+        <album>חלק מחיי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתפוצץ בגללך</head>
+        <lg number="1" type="stanza">
+          <l>כבר כמעט שלוש בלילה לבדי כי את אינך איתי </l>
+          <l>מדמיין אותך הלילה, כי זו את שאהבה נפשי </l>
+          <l>כבר עבר שבוע, אני לא רגוע, לא יכול כשאת נסגרת </l>
+          <l>אני לא יודע, אני משתגע, תני לי להרגיש אחרת </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מתפוצץ בגללך, רק תגידי לי איך </l>
+          <l>לדבר אלייך </l>
+          <l>בכל יום מחדש, מחפש את הדבש </l>
+          <l>שבשפתייך </l>
+          <l>מתפוצץ בגללך, רק תגידי לי איך </l>
+          <l>לדבר אלייך </l>
+          <l>לא שודד לא גנב, סך הכל מאוהב </l>
+          <l>קחי אותי אלייך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מול קירות ריקים קורא לך, וחיי לגמרי לא חיים </l>
+          <l>תני לי את כולי לתת לך, מה עוד לא עשיתי אלוהים </l>
+          <l>כבר עבר שבוע, אני לא רגוע, לא יכול כשאת נסגרת </l>
+          <l>אני לא יודע, אני משתגע, תני לי להרגיש אחרת </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מתפוצץ בגללך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

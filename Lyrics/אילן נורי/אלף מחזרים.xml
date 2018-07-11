@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלף מחזרים</title>
+        <singer classification="male singer">אילן נורי</singer>
+        <writer>אילן נורי</writer>
+        <composer>אילן נורי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלף מחזרים</head>
+        <lg number="1" type="stanza">
+          <l>יכול להיות שיש לך אלף מחזרים</l>
+          <l>אבל בחור כמוני תמצאי רק בסרטים</l>
+          <l>מי יביא לך פרח שתהיי קצת עצובה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך את לא רואה שאני בא מאהבה?</l>
+          <l>וזה כואב לי בחזה</l>
+          <l>אני לא יוצא מזה</l>
+          <l>שנים של אכזבה</l>
+          <l>עשו אותי חולה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה את אומרת ספרי לי מה את מרגישה</l>
+          <l>הלב שלי עוד רגע מתפוצץ מאהבה</l>
+          <l>אז בואי מותק תני את התחושה</l>
+          <l>שאת גם צמאה ואת רוצה רק אהבה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

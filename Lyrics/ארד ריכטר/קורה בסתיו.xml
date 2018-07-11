@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קורה בסתיו</title>
+        <singer classification="male singer">ארד ריכטר</singer>
+        <writer>ארד ריכטר</writer>
+        <composer>ארד ריכטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קורה בסתיו</head>
+        <lg number="1" type="stanza">
+          <l>וזה קורה בסתיו</l>
+          <l>אני אז מאוהב...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נשכח, נברח מכאן למקום שבו נוכל</l>
+          <l>לחיות בלי פחד מהכל</l>
+          <l>תיקח אותי מהר, אם נרוץ לא נאחר</l>
+          <l>נרגיש ביחד אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>וזה קורה בסתיו אני אז מאוהב</l>
+          <l>שולח את היד אף פעם לא נרגיש יותר לבד</l>
+          <l>זה זמן לאהבה, אין רגע מחשבה</l>
+          <l>לפני שהמסך עולה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נגמור, נסגור, ניסע</l>
+          <l>אין אחד כאן שניסה לראות את הטוב בשנינו</l>
+          <l>לא, אני לא אשכח אני אתן ורק אקח </l>
+          <l>אותך מכאן מוכן</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>וזה קורה בסתיו אני אז מאוהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

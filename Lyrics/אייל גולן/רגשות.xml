@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רגשות</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>רמי לב</writer>
+        <composer>ליאור פרחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רגשות</head>
+        <lg number="1" type="stanza">
+          <l>נכון שהייתי לא בסדר</l>
+          <l>הייתי רגיש רק לעצמי</l>
+          <l>חיינו איבדו כיוון וסדר</l>
+          <l>בזמן שהיית כל עולמי</l>
+          <l>תביני, אין לי לאן </l>
+          <l>כשאת לא בעניין</l>
+          <l>קשה לי והבית ריק</l>
+          <l>ואת יפה גם כשאת כועסת</l>
+          <l>ולא חשוב לי מי צודק.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש לי רגשות אלייך</l>
+          <l>גם אם לפעמים הלב לא יציב</l>
+          <l>קחי אותי לתוך חייך</l>
+          <l>אמרי, שנוכל להמשיך</l>
+          <l>יש לי רגשות אלייך</l>
+          <l>גם אם לפעמים הלב לא יציב</l>
+          <l>רוב הזמן חושב עלייך</l>
+          <l>ואיך זה שאת לא איתי. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו כשהביתה את חוזרת</l>
+          <l>ושוב לחיי יש משמעות.</l>
+          <l>הכל מסביב מרגיש אחרת</l>
+          <l>פתאום נעלמה הריקנות</l>
+          <l>תביני, אין לי לאן </l>
+          <l>כשאת לא בעניין</l>
+          <l>קשה לי והבית ריק</l>
+          <l>ואת יפה גם כשאת כועסת</l>
+          <l>ולא חשוב לי מי צודק.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש לי רגשות אלייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

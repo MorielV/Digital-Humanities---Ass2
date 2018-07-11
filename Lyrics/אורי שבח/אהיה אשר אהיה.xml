@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהיה אשר אהיה</title>
+        <singer classification="male singer">אורי שבח</singer>
+        <writer>עממי תימני</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהיה אשר אהיה</head>
+        <lg number="1" type="stanza">
+          <l>אהיה אשר אהיה</l>
+          <l>רצה על עמך</l>
+          <l>ושמע תפילתי</l>
+          <l>ממעון קדשך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הנה אני כוסף לבית מקדשך</l>
+          <l>לראות גאון עוזך והוד הדרתך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רחם יחידתי</l>
+          <l>אשר היא נגדך</l>
+          <l>קצר לגלותי</l>
+          <l>אני נשען בך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הנה אני כוסף לבית מקדשך</l>
+          <l>לראות גאון עוזך והוד הדרתך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

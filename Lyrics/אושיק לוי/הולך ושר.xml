@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הולך ושר</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>שמרית אור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הולך ושר</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>לא רואה איך היום יגמר לי</l>
+          <l>לא רואה מה יביא המחר</l>
+          <l>לא חשוב אם זה נדמה לי</l>
+          <l>אבל אני פתאום כה מאושר</l>
+          <l>ותמיד כשזה קורה לי</l>
+          <l>אני הולך - הולך ושר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא חושב שזה בא עם הרוח</l>
+          <l>לא חושב שיביא לי איתה</l>
+          <l>בעינה - מבט פרוע</l>
+          <l>לא מסתדר לי עוד עם תמימותה</l>
+          <l>ותמיד מה שבטוח</l>
+          <l>אני הולך - הולך ושר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא רואה שבכלל היא חושבת</l>
+          <l>לא רואה שבכלל זה אפשר</l>
+          <l>את ראשה לא מסובבת</l>
+          <l>אבל אשה הרי תמיד אשה</l>
+          <l>את ראשי היא מסובבת</l>
+          <l>אני הולך - הולך ושר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא רואה איך היום יגמר לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

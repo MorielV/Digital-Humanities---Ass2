@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בידך אפקיד רוחי</title>
+        <singer classification="unknown">אורי דרור</singer>
+        <writer>אורי דרור</writer>
+        <composer>אורי דרור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בידך אפקיד רוחי</head>
+        <lg number="1" type="stanza">
+          <l>וְהָרֶחֶם שֶׁלָּךְ לֹא שׁוֹכֵחַ דָּבָר </l>
+          <l>אֵינוֹ מַחְסִיר טִפָּה </l>
+          <l>וּבִרְגָעִים שֶׁל מַמָּשׁ </l>
+          <l>אָנוּ הֹוִים בּוֹ </l>
+          <l>אֶת לֵילוּת צִמְאוֹנֵנוּ. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בְּיָדֵךְ אַפְקִיד רוּחִי </l>
+          <l>בְּעֵת אִישַן וְאָעִירָה. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גַּעְגּוּעַ לְבַיִת אוֹ גַּעְגּוּעַ לְגוּף?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

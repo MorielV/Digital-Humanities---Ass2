@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה אנחנו</title>
+        <singer classification="female singer">אסנת שטרית</singer>
+        <writer>רמי לב</writer>
+        <composer>רן אביב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה אנחנו</head>
+        <lg number="1" type="stanza">
+          <l>מה אנחנו, מה אנחנו</l>
+          <l>אם לא רוח, אפר </l>
+          <l>שקר ושקר או אמת כואבת</l>
+          <l>פחד לצאת, פחד להכנס</l>
+          <l>מה אנחנו, מה אנחנו</l>
+          <l>רגע לא בטוח, נפש שרוצה אהבה</l>
+          <l>עם טעם של נצח עד לרגע הבא.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>טיפה ועוד טיפה נופלת</l>
+          <l>וממלאה כוסית ועוד חיים שלמים</l>
+          <l>אני צועקת לשמים </l>
+          <l>טובעת בתוך מים </l>
+          <l>שבורה, שבורה, שבורה לחתיכות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה אנחנו, מה אנחנו</l>
+          <l>איזו נפש בודדת </l>
+          <l>זועקת לקיומה </l>
+          <l>רוצה להיות אחרת לפני התרדמה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>טיפה ועוד טיפה נופלת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מה אנחנו, מה אנחנו</l>
+          <l>צל ואור וצלם</l>
+          <l>נפש שרוצה אהבה</l>
+          <l>עם טעם של נצח עד לרגע הבא.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

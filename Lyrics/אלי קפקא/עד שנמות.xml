@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד שנמות</title>
+        <singer classification="unknown">אלי קפקא</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד שנמות</head>
+        <lg number="1" type="stanza">
+          <l>יושב לי לבדי זוכר שוב את הרגע שליטפת לי את ידי</l>
+          <l>ואמרת שאת זקוקה לתקופה של הפסקה.</l>
+          <l>חייכתי לעצמי חשבתי שאת צוחקת לא חלמתי שאני</l>
+          <l>סתם אחד בתוך ליבך שמגיע והולך.</l>
+          <l>הדמעות זולגות על פני, מחפשות אותך בין ידי</l>
+          <l>את היית האור של חיי, שמיים זועקים מעלי!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אמרת נחיה יחד עד שנמות יחד</l>
+          <l>איך שכחת והלכת לא מבין</l>
+          <l>אמרת נחיה יחד עד שנמות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הבושם של גופך מזכיר לי איך בחדר את נתת לי את עצמך</l>
+          <l>ודמעה אחת קטנה כך זלגה מהנשמה.</l>
+          <l>חשבתי זה לעד אהבתי בלי לדעת שיגיע יום אחד</l>
+          <l>שתלכי לאיש אחר ולא תרצי אותי יותר.</l>
+          <l>הדמעות זולגות על פני, מחפשות אותך בין ידי</l>
+          <l>את היית האור של חיי, שמיים זועקים מעלי!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אמרת נחיה יחד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

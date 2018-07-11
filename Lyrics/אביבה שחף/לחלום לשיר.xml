@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לחלום לשיר</title>
+        <singer classification="unknown">אביבה שחף</singer>
+        <writer>לוי בן אמיתי</writer>
+        <composer>חיים ברקני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לחלום לשיר</head>
+        <lg number="1" type="stanza">
+          <l>אחד צריך לשאת בלב חלום,</l>
+          <l>שהרבים שכחוהו.</l>
+          <l>תמיד לחלום, לחלום.</l>
+          <l>אחד צריך לנצור בלב חלום,</l>
+          <l>אפילו יוותר לבד.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מישהו צריך לשיר את החלום,</l>
+          <l>גם בלי נשמע קולו.</l>
+          <l>תמיד לשיר, לשיר.</l>
+          <l>מישהו יוסיף לשיר את החלום.</l>
+          <l>אפילו יוותר אחרון.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

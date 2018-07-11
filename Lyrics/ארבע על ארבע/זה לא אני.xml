@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה לא אני 2</title>
+        <singer classification="band">ארבע על ארבע</singer>
+        <writer>דני רובס</writer>
+        <composer>דני רובס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה לא אני</head>
+        <lg number="1" type="stanza">
+          <l>זה לא אני שאורז מזוודה ועוזב</l>
+          <l>זה לא אני שמשאיר רק מכתב</l>
+          <l>זה לא אני שחומק וסוגר את הדלת לאט</l>
+          <l>זה לא אני זו את</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה לא אני ששוחה מול הזרם עכשיו</l>
+          <l>זה לא אני שנבהל ועוצר</l>
+          <l>זה לא אני שבמה שבטוח רואה רק כמעט</l>
+          <l>זה לא אני זו את</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה לא אני שבונה מגדלים באוויר</l>
+          <l>זה לא אני שכובל אותך כך</l>
+          <l>זה לא אני שנשבע לתמיד והבטיח לעד</l>
+          <l>זה לא אני זו את</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם לא אני מי יאהב אותך עד לדמעות</l>
+          <l>אם לא אני מי יימס בתוכך</l>
+          <l>אם לא אני מה יזרום בדמך מי ירתח בדמי</l>
+          <l>אם לא אני אז מי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני רואה את הכאב</l>
+          <l>בעינייך יש צל של אולי במבט</l>
+          <l>אף פעם לא אהבתי כך אף אחת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

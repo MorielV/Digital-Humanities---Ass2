@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תחת עץ האקליפטוס</title>
+        <singer classification="band">אחרית הימים</singer>
+        <writer>חיים חפר</writer>
+        <composer>זוהר לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תחת עץ האקליפטוס</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>תחת עץ האקליפטוס, ליד הירדן,</l>
+          <l>אני שוכב לי וישן, שוכב לי וישן,</l>
+          <l>שוכב לי וישן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וממול נגש החורש לקוצר -</l>
+          <l>"מה נשמע, מרחבתין?",</l>
+          <l>הוא אומר.</l>
+          <l>והאיש תחת גפנו שואל</l>
+          <l>את בעל התאנה</l>
+          <l>"איך היה היבול השנה?".</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תחת עץ האקליפטוס...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ובתוך הכפר, קול פטיש מהדהד.</l>
+          <l>ונפח את חרבו מכתת.</l>
+          <l>הגדי והנמר יורדים,</l>
+          <l>אל אמצע הנהר,</l>
+          <l>ופורחים הבקעה וההר.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תחת עץ האקליפטוס...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ושרות נערות בקולן החמים,</l>
+          <l>את חזון אחרית הימים.</l>
+          <l>ונושבות באקליפטוס, כל רוחות נעורי,</l>
+          <l>והרבה שורשים מעלי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

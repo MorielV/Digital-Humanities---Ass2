@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בי את משטה</title>
+        <singer classification="unknown">אביה פינטו</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בי את משטה</head>
+        <lg number="1" type="stanza">
+          <l>הנה באתי בשבילך</l>
+          <l>והיום אני שמח</l>
+          <l>זה מזל בא מהאל</l>
+          <l>להאיר את עולמי</l>
+          <l>לצידך תמיד הולך</l>
+          <l>מעלינו אור ירח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את מסובבת את חיי</l>
+          <l>מאוהב בך עד בלי די</l>
+          <l>את אור דולק בשניי עיני</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בי את משטה</l>
+          <l>ואני רוצה קרוב אליך</l>
+          <l>רואים פה אהבה</l>
+          <l>איך שתמיד אני רץ לי אחרייך</l>
+          <l>בי את משטה</l>
+          <l>ואני רוצה יותר אלייך</l>
+          <l>רואים פה אהבה</l>
+          <l>איך שתמיד אני רץ לי אחרייך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בלילות איתך הולך</l>
+          <l>ודולק לי אחריך</l>
+          <l>את הרוגע בליבי</l>
+          <l>אל תסבי לי פנים</l>
+          <l>את שוכנת בתוכי</l>
+          <l>ואני כבר לא יודע</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את מסובבת את חיי</l>
+          <l>מאוהב בך עד בלי די</l>
+          <l>שיגעת אותי יותר מדי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בי את משטה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלי לנצח</title>
+        <singer classification="unknown">אביהו שבת</singer>
+        <writer>ינאי רטפן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלי לנצח</head>
+        <lg number="1" type="stanza">
+          <l>מתעורר לי מוקדם בבוקר</l>
+          <l>את שוכבת לידי </l>
+          <l>כמו ציור מפורסם של אושר</l>
+          <l>מחייך, זה סוחף אותי</l>
+          <l>את כל מה שתמיד רציתי </l>
+          <l>אישה יפה שלי</l>
+          <l>ועכשיו זה מסתדר לי</l>
+          <l>בלעדייך אני לא אני </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מי זה האחד</l>
+          <l>שאותך אוהב ורוצה תמיד רק את טובתך</l>
+          <l>את ליבי אשמור רק בשבילך את שלי לנצח </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ועכשיו כשמגיע ערב </l>
+          <l>אני בך שוב מתאהב</l>
+          <l>התשוקה רק אליך גוברת</l>
+          <l>הלב שוב מתערב</l>
+          <l>זה אני שתמיד חלמתי </l>
+          <l>שתהיי כאן לצידי </l>
+          <l>ועכשיו אנחנו יחד </l>
+          <l>תחבקי תנשקי רק אותי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי זה האחד שאותך אוהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

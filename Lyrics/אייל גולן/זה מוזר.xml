@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה מוזר</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>איציק שמלי</writer>
+        <composer>איציק שמלי</composer>
+        <album>בשבילך נוצרתי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה מוזר</head>
+        <lg number="1" type="stanza">
+          <l>יש בי אהבה שלא נגמרת</l>
+          <l>רק איתך אני שלם ואמיתי</l>
+          <l>כמו נסיכה יפה מאגדה אחרת</l>
+          <l>נכנסת אל תוך חיי חדרת אל תוך ליבי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני אולי אדם פשוט את מיוחדת</l>
+          <l>שמצליחה לגרום לי רגש כה שונה</l>
+          <l>וכשנתתי לך תחושה שלא קיימת</l>
+          <l>את נבהלת ולא היית לי מענה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי זה מוזר להיות לבד כאן בלעדייך</l>
+          <l>וזה מוזר שאין על מי להשען </l>
+          <l>להיות בלילה קר בלי לאחוז ידייך זה לא יכול </l>
+          <l>להיות אני עתיד עוד מתכנן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>וזה מוזר בלי להריח תלתלייך</l>
+          <l>וזה מוזר כי שנינו זה תמיד אחד</l>
+          <l>לאן שלא תלכי, אני אבוא אלייך</l>
+          <l>גם אם כל חיי פה אשאר לבד</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש לי עוד אלפי מילים לשיר לך</l>
+          <l>שלא אמרתי מעולם אני נשבע</l>
+          <l>כמו כל חיי את כל כולי אני אקדיש לך</l>
+          <l>רק אחרי שלי תחזירי אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי זה מוזר להיות לבד כאן בלעדייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

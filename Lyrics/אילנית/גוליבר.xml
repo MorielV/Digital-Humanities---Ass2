@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גוליבר</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גוליבר</head>
+        <lg number="1" type="stanza">
+          <l>בוקר קם לימינו</l>
+          <l>ערב רד לשמאלו</l>
+          <l>פיהק ונרדם בעמקים</l>
+          <l>על גבו הוא שכב</l>
+          <l>לא חשב, לא אהב</l>
+          <l>חרש באפו את השחקים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בימים בהירים</l>
+          <l>נחילים של דבורים</l>
+          <l>הקימו כוורת באוזניו</l>
+          <l>ודגים קטנטנים</l>
+          <l>אדומים לבנים</l>
+          <l>החליקו ושטו בעיניו</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>גולי-גוליבר,</l>
+          <l>איפה גוליבר?</l>
+          <l>לאן הוא נעלם,</l>
+          <l>היכן הוא מסתתר?</l>
+          <l>גולי-גוליבר</l>
+          <l>בוא, בוא, גוליבר</l>
+          <l>חזור עכשיו, חזור מהר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשהיה מתעורר</l>
+          <l>הוא אהב לשורר</l>
+          <l>בזמר לשמש הזהב</l>
+          <l>וכמו ילדים</l>
+          <l>אז היינו רוקדים</l>
+          <l>כל בוקר בתוך כפות ידיו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>גולי-גוליבר...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>והיו לפעמים בצחוקו רעמים</l>
+          <l>צחק לו עד שירדו דמעות</l>
+          <l>והגשם שטף</l>
+          <l>וצלף וסחף</l>
+          <l>את כל הבתים והשדות</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>גולי-גוליבר...</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>יום אחד נעלב</l>
+          <l>קם פתאום על רגליו</l>
+          <l>נטש את כל נושאי כליו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

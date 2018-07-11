@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ימי ניסים</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>מוריס</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ימי ניסים</head>
+        <lg number="1" type="stanza">
+          <l>הסתכלי אל הירח</l>
+          <l>שט מעל שדה פורח</l>
+          <l>מעליו חופה של כוכבים</l>
+          <l>חיוכך מסיט כל עצב</l>
+          <l>שנינו על מיטה של עשב</l>
+          <l>נקשרים בסבך של אוהבים</l>
+          <l>לך נשבעתי לתמיד</l>
+          <l>שנשנה את העתיד נשלים</l>
+          <l>ותמיד אשמור עלייך</l>
+          <l>לאור סהר נישאר ספונים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק האלוהים יודע</l>
+          <l>כמה שאני</l>
+          <l>אני אוהב אותך</l>
+          <l>רק האלוהים שומע</l>
+          <l>איך ליבי הולם</l>
+          <l>כשאני רואה אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הירח מתרחק</l>
+          <l>אני אותך עוד מחבק</l>
+          <l>קשה להתנתק ממצבים</l>
+          <l>אור ראשון ציוץ של שחר</l>
+          <l>ואני איתך נשאר</l>
+          <l>עד שיחזרו הכוכבים</l>
+          <l>כל פרחי הבר עדים</l>
+          <l>שהשבועה שלי לעולמים</l>
+          <l>לא אשכח ולא אבגוד בך</l>
+          <l>הימים איתך ימי ניסים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק האלוהים יודע...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אף פעם לא אשכח</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלק בעולם</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלק בעולם</head>
+        <lg number="1" type="stanza">
+          <l>כשאפקח את העיניים</l>
+          <l>ואגביה את ראשי</l>
+          <l>אז אפתח חלון או שניים</l>
+          <l>אל הרוח החופשית.</l>
+          <l>אז אפתח חלון או שניים</l>
+          <l>ואביע בקולי</l>
+          <l>מה שיש ומה שאין לי</l>
+          <l>ויכול להיות שלי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חלק בעולם</l>
+          <l>חלק כחלק</l>
+          <l>המסע עוד לא הושלם והדרך מיטלטלת</l>
+          <l>אנשים צמאים לקשר</l>
+          <l>אנשים זקוקים לגשר</l>
+          <l>על הגשר הנטוי</l>
+          <l>יש תקווה ויש סיכוי</l>
+          <l>על הגשר הנטוי</l>
+          <l>יש תקווה ויש סיכוי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה מביך אתה יודע</l>
+          <l>הפחדים החששות</l>
+          <l>ובפצע זה נוגע</l>
+          <l>וחושף את החולשות</l>
+          <l>וצריך כוחות ושקט</l>
+          <l>וגם לא מעט דמיון</l>
+          <l>שעת רצון ויד מושטת</l>
+          <l>לעמוד בניסיון.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חלק בעולם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשאפקח את העיניים</l>
+          <l>כדי לשאול וכדי לשקול</l>
+          <l>יצמחו גם לי כנפיים</l>
+          <l>וחומה אחת תיפול</l>
+          <l>כשאפתח חלון או שניים</l>
+          <l>גם אתה תראה אותי</l>
+          <l>והאור אשר בינינו</l>
+          <l>יהיה נחלתי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>חלק בעולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

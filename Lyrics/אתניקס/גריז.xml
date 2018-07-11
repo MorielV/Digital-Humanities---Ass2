@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גריז</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>מוריס</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גריז</head>
+        <lg number="1" type="stanza">
+          <l>מחפשת שינויים</l>
+          <l>מסתובבת כל הלילה</l>
+          <l>באוויר יש מתח, המלכה בשטח</l>
+          <l>והעיר כולה שלה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ברחבת הריקודים</l>
+          <l>הכל נוצץ כשהיא רוקדת.</l>
+          <l>אני כמו ג'ון טרבולטה, אולי היא כבר נאותה</l>
+          <l>שאני ארקוד איתה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את יפה ואני אוהב אותך</l>
+          <l>מחכה לך כל היום.</l>
+          <l>את יפה והריקוד הזה שלך</l>
+          <l>אל תעזביני פתאום.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היא אוספת מפיות</l>
+          <l>ועשרות בובות של ברבי</l>
+          <l>ליד בובות הפלסטיק היא נראית פנטסטי</l>
+          <l>היא איתי בראש אחד</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>על פניה האיפור</l>
+          <l>משתנה לפי החשק -</l>
+          <l>הסירי את הצבע, לך נתן הטבע</l>
+          <l>את יופייך המיוחד -</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את יפה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>[אל תעזבי אותו פתאום]</l>
+          <l>אל תעזביני פתאום.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

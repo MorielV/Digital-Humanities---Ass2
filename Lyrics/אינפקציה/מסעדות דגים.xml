@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מסעדות דגים</title>
+        <singer classification="band">אינפקציה</singer>
+        <writer>גיא בן שיטרית</writer>
+        <composer>גיא בן שיטרית</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מסעדות דגים</head>
+        <lg number="1" type="stanza">
+          <l>אני רוצה להיות טבח,</l>
+          <l>ברשת מסעדות דגים,</l>
+          <l>לא משנה לי איזה רשת,</l>
+          <l>רשת מסעדות דגים.</l>
+          <l>(עם צווארון לבן,</l>
+          <l>ברשת מסעדות דגים (על הכייפק).</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני רוצה להיות פחח,</l>
+          <l>ברשת מוסכי פחים,</l>
+          <l>אני אלבש צווארון לבן,</l>
+          <l>ברשת מוסכי פחים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

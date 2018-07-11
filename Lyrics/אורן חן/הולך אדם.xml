@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הולך אדם 2</title>
+        <singer classification="male singer">אורן חן</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הולך אדם</head>
+        <lg number="1" type="stanza">
+          <l>הולך אדם הולך והוא כנר דועך</l>
+          <l>ואין שואל ואין יודע למה זה ואיך</l>
+          <l>עצב בעיניו ועצובים שיריו</l>
+          <l>קרב יומו זאת יודע והוא סופר ימיו</l>
+          <l>קורא ואין עונה לאלוהים פונה</l>
+          <l>עד אנא יתענה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עמוק בלב יודע דבר לא יעזור</l>
+          <l>עמוק בלב יודע כי אין כי אין מזור.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ביקש בלב נשבר, בטרם הוא נגמר</l>
+          <l>בטרם יסגר השער ויבוא מלאך אכזר</l>
+          <l>לשכוח סבלותיו לשוב לראות בניו</l>
+          <l>את אהבת נעוריו, את זו אשר אהב</l>
+          <l>ושוב ניגרה דמעה מעין בוכיה</l>
+          <l>ונפש הומיה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עמוק בלב יודע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

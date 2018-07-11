@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק איתו</title>
+        <singer classification="unknown">אורית אסף</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק איתו</head>
+        <lg number="1" type="stanza">
+          <l>ברחוב אורות הדרך מולי כבו</l>
+          <l>וזוגות שאוהבים לבית שבו</l>
+          <l>רק אני עוד מחכה לאהובי</l>
+          <l>מבקשת שבסתר נשיקה הוא לי יביא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק איתו אמצא לי משענת</l>
+          <l>ובלעדיו אינני קיימת</l>
+          <l>על שפתותיו עודני חולמת</l>
+          <l>ורק איתו אמצע לי משענת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שתי עיניו שהסתכלו בי אותי שינו</l>
+          <l>וידיו האוהבות עלי הגנו</l>
+          <l>ומאז איני יודעת את נפשי</l>
+          <l>מצפה לו וזקוקה לו</l>
+          <l>כי ליבי אינו חופשי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק איתו אמצא לי משענת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

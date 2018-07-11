@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בגן עדן</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בגן עדן</head>
+        <lg number="1" type="stanza">
+          <l>בגן עדן אני יושב על המרפסת</l>
+          <l>הגעתי לחופש קצר, חצי פנסיון משולם</l>
+          <l>בגן עדן כל האורחים נוגעים בקסם</l>
+          <l>כל מי שמגיע לכאן נשאר לעולם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש גן עדן אז תתקשרי כשאת עוברת</l>
+          <l>כי בעצם זו העונה הכי בוערת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם כבר חופשה אז גן עדן מקום מועדף</l>
+          <l>הגיהנום כבר מלא והוסיפו אגף</l>
+          <l>אז איפה הקסם?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בגן עדן המסיבה הכי תוססת</l>
+          <l>כל מי שמגיע לכאן חוגג עם כולם</l>
+          <l>זה הקצב, החוויה אותך תופסת</l>
+          <l>ברוכים הבאים למלון הטוב בעולם</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בגן עדן גם את תרגישי מפויסת</l>
+          <l>זה גן עדן ואין מרדף אחר הכסף</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אם כבר חופשה אז גן עדן מקום מועדף</l>
+          <l>הגיהנום כבר מלא והוסיפו אגף</l>
+          <l>אז איפה הקסם?</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>יש גן עדן אז תשכחי מכל הסבל</l>
+          <l>בגן עדן חצי פנסיון שווה כל שקל</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>אם כבר חופשה אז גן עדן מקום מועדף</l>
+          <l>הגיהנום כבר מלא והוסיפו אגף</l>
+          <l>אז איפה הקסם?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

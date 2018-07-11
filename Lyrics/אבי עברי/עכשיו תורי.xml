@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עכשיו תורי</title>
+        <singer classification="unknown">אבי עברי</singer>
+        <writer>אבי עברי</writer>
+        <composer>אבי עברי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עכשיו תורי</head>
+        <lg number="1" type="stanza">
+          <l>אחרי שנים של הרגשה שאין אחד למעלה</l>
+          <l>עונה תשובות למי שעוד בוכה לבד בלילה</l>
+          <l>ומתעורר בהרגשה קפואה שאין מנוח</l>
+          <l>אחרי שנים ואיך אפשר ואיך אפשר לשכוח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>צועק תפילה גדולה ספק גדול מי ששומע</l>
+          <l>ומלאכים בדמות ציפור נופלים ומי פוגע</l>
+          <l>ורק נשאר לשבור הכל להזהר לפגוע</l>
+          <l>ובקשה נשארת אחרונה חייב לשמוע</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עכשיו תורי</l>
+          <l>עכשיו תורי</l>
+          <l>זה סוף הפחד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עכשיו תורי</l>
+          <l>עכשיו תורי</l>
+          <l>של שנינו יחד</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והחלל הזה חנוק מכל כיוון ידוע</l>
+          <l>אין שום חלון נפתח לראות ירוק מבלי לנוע</l>
+          <l>ואם השמש תעלה חמה הכי גבוה</l>
+          <l>אקרין אורי תקווה שלווה אחת בדיוק כמוה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עכשיו תורי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכוכב 3</title>
+        <singer classification="male singer">אוריאל שלומי</singer>
+        <writer>עממי</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכוכב</head>
+        <lg number="1" type="stanza">
+          <l>הכוכב, כוכבי בשמיים</l>
+          <l>חרש אל לך אז אתפלל</l>
+          <l>התתנני בודד לטייל כאן</l>
+          <l>נא קרבני כוכב אל רחל.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הו רחל, את ליבי לקחת בשבי </l>
+          <l>בראותי אותך הלילה</l>
+          <l>נוראה היא רחל, נוראה היא</l>
+          <l>בז ליבי לריגשותי, בז.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הכוכב, כוכבי בשמיים</l>
+          <l>חרש רק לך אלחש סודי</l>
+          <l>הן תדע עד כמה אהבתיה </l>
+          <l>מה צמאה לה נפשי לרחל.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הו רחל, למה זה פנית לי עורף </l>
+          <l>למה לאחר ליבך תבכי </l>
+          <l>נוראה היא רחל, נוראה היא </l>
+          <l>בז ליבי לריגשותי, בז.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

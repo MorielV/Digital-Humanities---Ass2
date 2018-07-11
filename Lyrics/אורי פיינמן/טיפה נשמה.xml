@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טיפה נשמה</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>יואב גינאי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טיפה נשמה</head>
+        <lg number="1" type="stanza">
+          <l>תנו טיפה נשמה</l>
+          <l>השקו מדבר, הפריחו את האדמה</l>
+          <l>נגנו אקורד אחר ולתמיד</l>
+          <l>ושירו להווה, גלו את העתיד.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>השמיים מתקדרים עלינו</l>
+          <l>זה סיפור מוכר</l>
+          <l>ההרים סוגרים מולנו</l>
+          <l>ופתאום גם קר</l>
+          <l>אולי זה רק משבר</l>
+          <l>שיחלוף מהר</l>
+          <l>הגשר צר מאד</l>
+          <l>אך עוד ניתן לצעוד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז תנו טיפה נשמה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תנו טיפה לנשמה</l>
+          <l>לחברים ולשירים על הבמה</l>
+          <l>זו לא בושה גם כן מעט לבכות</l>
+          <l>הטוב יבוא בסוף</l>
+          <l>כדאי עוד לחכות.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש פה שמש אדירה זורחת</l>
+          <l>לא צריך ניאון</l>
+          <l>אנשים טובים לבד או יחד</l>
+          <l>לא רק באסון</l>
+          <l>נמס את הקשיחות</l>
+          <l>ונגלה רכות</l>
+          <l>נתפוס מעט שלווה</l>
+          <l>נשוב לאהבה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז תנו טיפה נשמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

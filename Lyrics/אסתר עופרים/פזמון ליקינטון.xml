@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פזמון ליקינטון 3</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>רבקה גוילי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פזמון ליקינטון</head>
+        <lg number="1" type="stanza">
+          <l>לילה לילה מסתכלת הלבנה</l>
+          <l>בפרחים אשר הנצו בגינה,</l>
+          <l>בציצי היקינטון בגננו הקטון</l>
+          <l>לילה לילה מסתכלת הלבנה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואומרת הלבנה לעננים</l>
+          <l>תנו טיפה ועוד טיפונת לגנים</l>
+          <l>שיפרח היקינטון בגננו הקטון</l>
+          <l>כך אומרת הלבנה לעננים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בא הגשם וצלצל בחלוני</l>
+          <l>שר ניגון עליז לפרח בגני</l>
+          <l>וענה היקינטון בשמחה ובששון</l>
+          <l>למטר אשר צלצל בחלוני.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ומחר נצא כולנו אל הגן</l>
+          <l>ונראה שם את הפרח הלבן,</l>
+          <l>ולכבוד היקינטון, בני ישיר את הפזמון</l>
+          <l>ושמחה גדולה מאוד תהיה בגן.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

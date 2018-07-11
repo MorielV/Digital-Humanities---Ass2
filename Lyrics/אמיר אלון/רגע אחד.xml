@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רגע אחד</title>
+        <singer classification="unknown">אמיר אלון</singer>
+        <writer>אליאנה קרמרמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רגע אחד</head>
+        <lg number="1" type="stanza">
+          <l>לאן עפות הציפורים?</l>
+          <l>להסתתר מהמבול</l>
+          <l>לנשום אוויר אחר צלול</l>
+          <l>רחוק מכאן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לאן הולכים כל הצבעים?</l>
+          <l>להתרחק מהאפור</l>
+          <l>שניה לפני שהחיוורון</l>
+          <l>מכה חזק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רגע אחד שנדמה לי</l>
+          <l>שסוף העולם כבר אצלי</l>
+          <l>לאן אלך מכאן היום</l>
+          <l>אני...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לאן זורמות כל הדמעות?</l>
+          <l>להימלט מהאימה</l>
+          <l>אולי הלכו גם הן לשם</l>
+          <l>החלומות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רגע אחד שנדמה לי</l>
+          <l>שסוף העולם כבר אצלי</l>
+          <l>לאן אלך מכאן</l>
+          <l>היום אני...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>וזה מזכיר לי</l>
+          <l>את היום שנגמרה האהבה</l>
+          <l>וזה מזכיר לי</l>
+          <l>את היום שנגמרה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>רגע אחד שנדמה לי</l>
+          <l>שסוף העולם כבר אצלי</l>
+          <l>לאן אלך...</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>רגע אחד שנדמה לי</l>
+          <l>שסוף העולם כבר אצלי</l>
+          <l>לאן אלך מכאן</l>
+          <l>היום אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

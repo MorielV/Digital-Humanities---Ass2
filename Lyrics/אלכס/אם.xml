@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם 65</title>
+        <singer classification="unknown">אלכס 2</singer>
+        <writer>עופר מאירי</writer>
+        <composer>דנה עדיני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם</head>
+        <lg number="1" type="stanza">
+          <l>אם אלך עם האמת שלי ולא אפחד לומר הכל</l>
+          <l>תישאר איתי? </l>
+          <l>אם אבחר להיות דומה לכל מה שהכרת עד היום</l>
+          <l>תשתנה איתי?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לעולם אנ'לא אדע</l>
+          <l>אם טעו המדענים</l>
+          <l>אם טעו בחישובים</l>
+          <l>אם טעו בהסברים</l>
+          <l>אם נכון מה שאומרים</l>
+          <l>זה נראה קצת גדול עלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואולי </l>
+          <l>הכל אפשרי</l>
+          <l>ואולי </l>
+          <l>הכל אפשרי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין בי כוח לגלות בך צדדים לא מובנים</l>
+          <l>דבר איתי</l>
+          <l>לנסות להיות כמו כל אדם אחר, רק לא אני </l>
+          <l>תנסה אותי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לעולם אנ'לא אדע</l>
+          <l>אם טעו המדענים</l>
+          <l>אם טעם בחישובים</l>
+          <l>אם טעו בהסברים</l>
+          <l>אם סיפרו לי רק שקרים</l>
+          <l>זה נראה קצת גדול עלי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ואולי </l>
+          <l>הכל אפשרי</l>
+          <l>ואולי </l>
+          <l>הכל אפשרי</l>
+          <l>איתי...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>לעולם אנ'לא אדע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

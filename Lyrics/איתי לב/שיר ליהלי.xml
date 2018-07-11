@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר ליהלי</title>
+        <singer classification="unknown">איתי לב</singer>
+        <writer>איתי לב</writer>
+        <composer>איתי לב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר ליהלי</head>
+        <lg number="1" type="stanza">
+          <l>אל תפחדי ילדה הביטי אל האופק</l>
+          <l>יש שם חלומות שיהפכו למציאות</l>
+          <l>אל תפחדי ילדה האטי את הדופק</l>
+          <l>הנה מתחילה הגאות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל תפחדי ילדה ואל תבכי בלילה</l>
+          <l>אל תפחדי ילדה אני כאן לצידך</l>
+          <l>כל מה שהיה נגמר עכשיו המשיכי הלאה</l>
+          <l>אקטוף את הירח בשבילך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>גם אם רוחות ינשבו מכל עבר</l>
+          <l>גם אם הגשם ידפוק בחלון</l>
+          <l>אם נאמין יהיה בסדר</l>
+          <l>אם נרצה נוכל לכל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל תפחדי ילדה כי אי אפשר לקחת</l>
+          <l>את יופייך את מבטך ואת תרועות צחוקך</l>
+          <l>אל תפחדי ילדה לכי לישון בנחת</l>
+          <l>לעולם שוב לא אסור ממך.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>גם אם רוחות ינשבו מכל עבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חסידה צחורה</title>
+        <singer classification="male singer">אוריאל שלומי</singer>
+        <writer>אלכסנדר פן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חסידה צחורה</head>
+        <lg number="1" type="stanza">
+          <l>חסידה צחורה נא אמורי</l>
+          <l>התשאי ברכתי לאימי</l>
+          <l>הוי אימי דמעתי לא תכירי</l>
+          <l>מרחוק תשמעי אנחתי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מרבדי האביב נפרשו</l>
+          <l>כל היקום לתחיה כבר קם</l>
+          <l>רק עיניי מבכי נמסו</l>
+          <l>בליבי היגון והמר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הזמיר והדרור חזרו</l>
+          <l>הלכו ויחיו את קינן</l>
+          <l>מלפני הדרכים נסגרו</l>
+          <l>מלפני הבוגדים הרעים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה לי פה בנכר אסבולה</l>
+          <l>כציפור הכלואה בכלובה</l>
+          <l>אם חזון המוות יועילה</l>
+          <l>האשוב לראותה עוד פעם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

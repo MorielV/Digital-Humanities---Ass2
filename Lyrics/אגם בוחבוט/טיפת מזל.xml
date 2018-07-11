@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טיפת מזל</title>
+        <singer classification="unknown">אגם בוחבוט</singer>
+        <writer>דני שושן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טיפת מזל</head>
+        <lg number="1" type="stanza">
+          <l>אלוהים תן לי רק טיפת מזל</l>
+          <l>תן אהבה בלבבי</l>
+          <l>מר גורלי והעולם אכזר</l>
+          <l>תן נחמה בתוכי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איני רוצה ארמונות של זהב</l>
+          <l>די לי בפינה חמה</l>
+          <l>תן לי בחור שאותי רק יאהב</l>
+          <l>אתן לו את הנשמה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אלוהים, אלוהים</l>
+          <l>הוי אלוהי עד מתי</l>
+          <l>שמע קולי, תפילתי</l>
+          <l>עייפתי די בחיי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חיי כה אפורים</l>
+          <l>ולילותי קרים</l>
+          <l>כה בודדה ועצובה</l>
+          <l>רק חלומות נשארים.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תן לי שמחה ותן לי קצת אור</l>
+          <l>כי אפלים הם ימי</l>
+          <l>בנה לי שביל אל ביתי שוב לחזור</l>
+          <l>תן קצת אור לעיני</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אלוהים, אלוהים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

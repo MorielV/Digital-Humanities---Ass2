@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עזבת</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>אילן וירצברג</writer>
+        <composer>אילן וירצברג</composer>
+        <album>בזמן אמת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עזבת</head>
+        <lg number="1" type="stanza">
+          <l>עזבת את הכל</l>
+          <l>אתה הלכת</l>
+          <l>הלכת  לדרכך</l>
+          <l>הילד שם נשאר</l>
+          <l>עמוק בצער</l>
+          <l>עוד הוא מחכה</l>
+          <l>שתחזור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הלכת למקום</l>
+          <l>מקום שטוב בו</l>
+          <l>מצאת טוב אחר</l>
+          <l>הילד שם בכה</l>
+          <l>רע ומר לו</l>
+          <l>עוד הוא מבקש</l>
+          <l>שתחזור</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>השנים חלפו להן</l>
+          <l>וגם אתה </l>
+          <l>או הו או הו</l>
+          <l>מחכה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חזרת למקום</l>
+          <l>שבו היית</l>
+          <l>אתה כבר לא צעיר</l>
+          <l>הילד  כבר גדל</l>
+          <l>יצא לדרך</l>
+          <l>אתה מחכה</l>
+          <l>שיחזור</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>השנים חלפו להן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שום מקום</title>
+        <singer classification="female singer">אתי קארי</singer>
+        <writer>חמוטל בן זאב</writer>
+        <composer>אתי קארי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שום מקום</head>
+        <lg number="1" type="stanza">
+          <l>רק שהזמן אינו עובר</l>
+          <l>שהריק בי מתגבר</l>
+          <l>מעכשיו אתה תהיה זר</l>
+          <l>רק שהלב לא מסתגל</l>
+          <l>שצריך להתרגל</l>
+          <l>וקשה לצאת מזה, קשה ללכת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בוא, קח אותי ביד</l>
+          <l>קח אותי מיד</l>
+          <l>נברח אל עוד מקום</l>
+          <l>בוא , קח אותי ביד</l>
+          <l>קח אותי מיד</l>
+          <l>נברח לשום מקום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק שאמצא בי כוחות</l>
+          <l>שאכאב מחר פחות</l>
+          <l>מחכה לך הבית</l>
+          <l>רק שתזכור אותי טובה</l>
+          <l>כשאבדה האהבה</l>
+          <l>איך דרכנו הסתבכה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בוא, קח אותי ביד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רק שראשי עוד מסתחרר</l>
+          <l>שאלמד להסתדר</l>
+          <l>בשעות הקטנות של הלילה</l>
+          <l>רק שאמצא לי ניחומים</l>
+          <l>שאבחר את המילים</l>
+          <l>כשאתה תבוא אלי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בוא, קח אותי ביד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

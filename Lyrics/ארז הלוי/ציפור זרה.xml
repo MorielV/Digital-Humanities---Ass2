@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציפור זרה 3</title>
+        <singer classification="male singer">ארז הלוי</singer>
+        <writer>ארז הלוי</writer>
+        <composer>ארז הלוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציפור זרה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>ציפור זרה שינתה כיוון </l>
+          <l>וגם אני איתה פתאום. </l>
+          <l>אל תוך הלילה האפור </l>
+          <l>ביקשנו - </l>
+          <l>שאלנו. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>על פני הרים וגאיות, </l>
+          <l>בין אהבות שקטות בוכות, </l>
+          <l>חיפשנו האמת לשווא. </l>
+          <l>אבדנו. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ציפור קטנה ואין לה קן, </l>
+          <l>ציפור יפה ואין לה שם, </l>
+          <l>ציפור זרה בלילה קר </l>
+          <l>נודדת. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ציפור זרה שינתה כיוון </l>
+          <l>וגם אני איתה פתאום. </l>
+          <l>אל תוך הלילה האפור </l>
+          <l>ביקשנו - </l>
+          <l>שאלנו. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>על פני ימים ונהרות, </l>
+          <l>בין אבנים קטנות גדולות, </l>
+          <l>חיפשנו האמת לשווא. </l>
+          <l>אבדנו. </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ציפור קטנה ואין לה קן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

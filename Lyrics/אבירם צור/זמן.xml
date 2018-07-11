@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמן 13</title>
+        <singer classification="unknown">אבירם צור</singer>
+        <writer>אבירם צור</writer>
+        <composer>אבירם צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמן</head>
+        <lg number="1" type="stanza">
+          <l>זה היה כמו להתעורר בעולם מהיר </l>
+          <l>עולם שבו כל דקה היא רק שבריר </l>
+          <l>עולם בו כל החיים הם שעה אחת </l>
+          <l>עולם שבו רק תמריא וכבר תנחת </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הזמן עובר מנסה למהר </l>
+          <l>איך אפשר בזמן כל כך קצר? </l>
+          <l>הזמן עובר לא מוותר </l>
+          <l>איך אפשר לתפּוס את כל השאר? </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה היה כמו להתעורר בעולם מהיר </l>
+          <l>עולם שבו הזקן הוא גם צעיר </l>
+          <l>עולם בו שיא החיים הוא שעה אחת </l>
+          <l>עולם מהיר, לא תבין עד שתנחת </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הזמן עובר מנסה למהר... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לרגע חשבתי שנגמר </l>
+          <l>איך בִּשניה הכל עצר </l>
+          <l>פתאום הבנתי שזמן הוא נדיר </l>
+          <l>מחכה להזדמנות השנייה להתעורר בעולם מהיר </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הזמן עובר מנסה למהר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

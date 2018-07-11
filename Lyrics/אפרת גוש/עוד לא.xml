@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד לא 2</title>
+        <singer classification="female singer">אפרת גוש</singer>
+        <writer>אפרת גוש</writer>
+        <composer>אפרת גוש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד לא</head>
+        <lg number="1" type="stanza">
+          <l>שוב מתאפרת לפני הופעה</l>
+          <l>לפרוק את העצב למחות את פני</l>
+          <l>בולעת כוסית מקיאה התרגשות זה תמיד מסובך</l>
+          <l>אך נראה כה פשוט</l>
+          <l>מדרגה מדרגה עכשיו רצה מהר </l>
+          <l>שלא אתחרט גם שלא אוותר </l>
+          <l>לפני שיוצאת לרחוב משתהה מוציאה את הלב </l>
+          <l>ורק אז ממשיכה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד לא </l>
+          <l>עוד לא </l>
+          <l>עוד לא </l>
+          <l>לא מרגיש מוכן עדיין</l>
+          <l>פעימה נשימה אני לבד </l>
+          <l>עוד לא </l>
+          <l>חכי קצת אפרת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מבטים וקריאות אני לא מגיבה </l>
+          <l>למרות הטשטוש מרגישה חשופה </l>
+          <l>משננת בראש כל פינת רחובות כי מאיפה שבאתי </l>
+          <l>עלי גם לדעת לחזור </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בכניסה מתנתקת מהמציאות </l>
+          <l>גונבת חיוך מדקלמת פלרטוט </l>
+          <l>אני קצת מתביישת שבאתי לבד מטרה מסומנת </l>
+          <l>מחכה לציד</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עוד לא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

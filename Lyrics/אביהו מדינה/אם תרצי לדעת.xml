@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם תרצי לדעת</title>
+        <singer classification="male singer">אביהו מדינה</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם תרצי לדעת</head>
+        <lg number="1" type="stanza">
+          <l>אם תרצי לדעת את</l>
+          <l>סודי מה בלבבי</l>
+          <l>אם תרצי אי פעם לפתור</l>
+          <l>נשמתי את חידתי</l>
+          <l>אל תלכי סביב לשאול</l>
+          <l>אל תבקשי מאחרים</l>
+          <l>גם לא אל המנחשים</l>
+          <l>ולא ידעונים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>דברי איתי, האמיני בי</l>
+          <l>אגלה לך ואתן לך נשמתי</l>
+          <l>אין בעולם איש שיאהבך</l>
+          <l>כמו שאני אותך אוהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם תרצי לדעת מתי</l>
+          <l>אם בטוח אולי</l>
+          <l>אל תרצי יותר מדי</l>
+          <l>אל תרוצי אחרי</l>
+          <l>תני לי לאהוב יותר</l>
+          <l>אחרייך לחזר</l>
+          <l>השאירי לי מתי ואיך</l>
+          <l>לבקש ידך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דברי איתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

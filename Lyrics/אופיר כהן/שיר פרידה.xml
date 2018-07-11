@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר פרידה 2</title>
+        <singer classification="unknown">אופיר כהן</singer>
+        <writer>אופיר כהן</writer>
+        <composer>אופיר כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר פרידה</head>
+        <lg number="1" type="stanza">
+          <l>יושב לי בלילות וכותב עליה שירים</l>
+          <l>אל מול אותן תמונות </l>
+          <l>מדמיין אותה בדרכים</l>
+          <l>לחשוב שלא מזמן היתה היא</l>
+          <l>בתוך ביתי בין הסדינים</l>
+          <l>הבית ריק ולגיטרה </l>
+          <l>כבר אין את אותן הצלילים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נה נה נה נה נה נה נה נה </l>
+          <l>נה נה נה נה נה נה נה נה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל הירח אני צועק</l>
+          <l>עם הוא רואה אותה מלמעלה</l>
+          <l>הוא מביט בי ושותק </l>
+          <l>כמו אומר שהיא נסעה לה</l>
+          <l>לחשוב שלא מזמן היתה היא</l>
+          <l>בתוך ביתי בין הסדינים </l>
+          <l>בבית ריק עם הגיטרה</l>
+          <l>שוב לוחש את אותן המילים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נה נה נה נה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צעדי</title>
+        <singer classification="unknown">אבישי כהן</singer>
+        <writer>אבישי כהן</writer>
+        <composer>אבישי כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צעדי</head>
+        <lg number="1" type="stanza">
+          <l>צעדי אלי צעדי</l>
+          <l>האירי את יומי</l>
+          <l>מלאי מלאי</l>
+          <l>מלאי את כל גופי</l>
+          <l>נגני אל תוך לבי</l>
+          <l>רקדי לקול שיריי</l>
+          <l>אהובה שלי</l>
+          <l>מלאי את עולמך בעולמי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואני אשמור עלייך</l>
+          <l>אכסה את כל גופך</l>
+          <l>ואשיר לך שיר של אהבה</l>
+          <l>כשאביט אל תוך עינייך</l>
+          <l>אשמע את קול ליבך</l>
+          <l>ואדע אז שיר אהבתנו מתמשך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עלי אלי עלי</l>
+          <l>הזיני את נפשי</l>
+          <l>מלאי מלאי</l>
+          <l>מלאי את כל גופי</l>
+          <l>חבקי אותי חבקי</l>
+          <l>נגני לי את הלב</l>
+          <l>ריקדי ריקדי</l>
+          <l>עטפי את עולמך בעולמי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואני אשמור עלייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

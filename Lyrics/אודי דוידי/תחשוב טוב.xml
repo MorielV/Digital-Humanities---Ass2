@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תחשוב טוב</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תחשוב טוב</head>
+        <lg number="1" type="stanza">
+          <l>כמו במכחול את העולם אתה צובע</l>
+          <l>וקול פנימי לך קורא אתה יודע</l>
+          <l>הכל תלוי בך, מצב הרוח מסביבך</l>
+          <l>המציאות היא כמו המציאות בדמיונך </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תחשוב טוב - יהיה טוב!</l>
+          <l>תאמין בעצמך</l>
+          <l>תחשוב טוב - יהיה טוב!</l>
+          <l>אלוקים אוהב אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היום אתה רואה במשקפיים רק אפור</l>
+          <l>מחר אפשר לראות דרכם שוב את האור</l>
+          <l>הכל תלוי בקול שלך אומר בפנים </l>
+          <l>תחשוב טוב יהיה טוב! תאמין!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תחשוב טוב - יהיה טוב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש לך מלאך שאומר לך גדל </l>
+          <l>ויש מלאך אחר שאומר לך חדל</l>
+          <l>תקשיב רק לאמת שזועקת מהלב</l>
+          <l>תדע שאלוקים אותך אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תחשוב טוב - יהיה טוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא רואה</title>
+        <singer classification="unknown">אלון ז אן</singer>
+        <writer>איתי זילברשטין</writer>
+        <composer>איתי זילברשטין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא רואה</head>
+        <lg number="1" type="stanza">
+          <l>הרחוב נרדם בשקט הגדול תופס את הלילה</l>
+          <l>מסביבי אין כלום הכביש כל כך פתוח</l>
+          <l>רציתי לחפש מקום אחר מקום בטוח</l>
+          <l>אולי לחזור הביתה קצת יותר רגוע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שעה שלמה בחושך משתלב ברחובות</l>
+          <l>אני שברתי את הראש מתעקש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך את לא רואה מה את עושה לי</l>
+          <l>כל מה שאמרת לי ובכל זאת נשארתי</l>
+          <l>איך את לא רואה מה שקרה לי </l>
+          <l>וכשחזרתי כלום לא כאב לי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בגשם הראשון אני כבר לא ארוץ אליך</l>
+          <l>ואראה הכול נשטף נשטף במים</l>
+          <l>תראי הזמן קפא מקור מכל דקירות שפתייך</l>
+          <l>וכל מה שחיי בי אז רוצה למות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

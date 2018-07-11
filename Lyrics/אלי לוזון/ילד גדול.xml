@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילד גדול</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילד גדול</head>
+        <lg number="1" type="stanza">
+          <l>ילד גדול לא מבין את העולם,</l>
+          <l>רוצה ולא יודע איך להיות חכם,</l>
+          <l>שואף הוא למעלה לרחף כמו ציפור,</l>
+          <l>ומדמה כנפיים ואז נופל אחור.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מוסיף משתעשע באשליותיו,</l>
+          <l>ופעם אחר פעם נופל הוא על פניו,</l>
+          <l>ביד אחת בונה הוא ובשניה הורס,</l>
+          <l>בדרך לא דרך עדיין מחפש.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא לא לך זו הדרך שטוב בה ללכת,</l>
+          <l>רק במתנת אלוקים דרכך מבורכת,</l>
+          <l>שומע - לא מקשיב,</l>
+          <l>ושב לעצמו להכאיב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ילד גדול בחיוך שובה לבב,</l>
+          <l>את כל יפות העין מושך הוא אחריו,</l>
+          <l>יוצא אל הלילה וחי בו את היום,</l>
+          <l>וכל ידיד מוכיח בעת ההיא ידום.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בכל מתעתע בשגיונותיו, </l>
+          <l>ואחריו מושך הוא שובל כשלונותיו, </l>
+          <l>כשיכור פוסע ושוב כושלות רגליו,</l>
+          <l>וחוזר חלילה כאילו לא כאב.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא לא לך זו הדרך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני שר אני קיים</title>
+        <singer classification="male singer">אוריאל שלומי</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>אבי פרץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני שר אני קיים</head>
+        <lg number="1" type="stanza">
+          <l>עיני משכו אותי ללכת</l>
+          <l>אובד הייתי בעולם</l>
+          <l>כעץ הייתי בשלכת</l>
+          <l>כמו ספינה תועה בים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רוחות נשבו, היכו בתורן</l>
+          <l>אל המסע שאין לו סוף</l>
+          <l>ביקשתי להשליך העוגן</l>
+          <l>ולא מצאתי אל החוף.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>די, עייפו רגלי מלכת</l>
+          <l>בדרכים ההם קולי נדם</l>
+          <l>עכשיו אני חוזר</l>
+          <l>בן אדם אחר</l>
+          <l>אני שר, אני קיים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בשתי ידי אספתי כח</l>
+          <l>שלא אמעד ואשבר</l>
+          <l>אני רוצה הכל לשכוח</l>
+          <l>מהיום אני חוזר.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>במשעולים אני פוסע</l>
+          <l>ובתוכי נפשי הומה</l>
+          <l>ובדממה קולי בוקע</l>
+          <l>עולה מתוך הנשמה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>די, עייפו רגלי מלכת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

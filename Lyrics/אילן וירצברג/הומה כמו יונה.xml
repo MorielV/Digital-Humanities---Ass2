@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הומה כמו יונה</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>אילן וירצברג</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הומה כמו יונה</head>
+        <lg number="1" type="stanza">
+          <l>מטפס עלייך</l>
+          <l>כמו חתול מיילל</l>
+          <l>מקשקש בזנב שלי</l>
+          <l>אולי תרצי ללטף</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מרחף עלייך</l>
+          <l>כמו פרפר רעב</l>
+          <l>שותה את הצוף שלך</l>
+          <l>מתוך גביע נוטף</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הומה כמו יונה</l>
+          <l>מפרפרת לי בידיים</l>
+          <l>עפה כמו אל סופה</l>
+          <l>זועקת אל השמיים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מהלך אחרייך</l>
+          <l>כמו זאב בודד</l>
+          <l>רוצה לטרוף אותך</l>
+          <l>לבלוע את כל גופך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הומה כמו יונה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מתרפק עלייך</l>
+          <l>כמו תינוק מתפנק</l>
+          <l>יונק מדבשך</l>
+          <l>נשרף בחום שעוטף</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>הומה כמו יונה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

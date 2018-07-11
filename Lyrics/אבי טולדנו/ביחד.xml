@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ביחד 2</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>ענת שרים</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ביחד</head>
+        <lg number="1" type="stanza">
+          <l>ישנם ימים כאלה,</l>
+          <l>שצבועים אפור.</l>
+          <l>ימים, שרק רוצים לשכוח</l>
+          <l>לא לזכור,</l>
+          <l>ודוקא אז כשנדמה.</l>
+          <l>שרק עצוב ורק כהה</l>
+          <l>צריך רק שיר</l>
+          <l>ואחריו יבוא האור,</l>
+          <l>זה שיר, שלב נפתח</l>
+          <l>רחב אל לב אחר.</l>
+          <l>באהבה וחום</l>
+          <l>אז מי צריך יותר.</l>
+          <l>ואז קשה לא להרגיש.</l>
+          <l>שעצב זה דבר מתיש</l>
+          <l>ולא חבל עליו לרגע לותר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ביחד עם כולם</l>
+          <l>נשיר אל העולם</l>
+          <l>ויד נושיט אל יד,</l>
+          <l>כי התקוה אחת</l>
+          <l>ומשותף החלום</l>
+          <l>הלואי יהיה פתאום</l>
+          <l>רק טוב</l>
+          <l>צריך להאמין בטוב</l>
+          <l>בלי סוף.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשכוכב נדלק גבוה</l>
+          <l>זה סימן</l>
+          <l>לכל אותם שמביטים</l>
+          <l>אליו מכאן,</l>
+          <l>לכל אותם שמקוים</l>
+          <l>רק לימים טובים-טובים</l>
+          <l>שיש שומע</l>
+          <l>ואוהב כשאוהבים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ביחד עם כולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

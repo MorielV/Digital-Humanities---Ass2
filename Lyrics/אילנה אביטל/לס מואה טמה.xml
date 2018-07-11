@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לס מואה טמה</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>יואב גינאי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לס מואה טמה</head>
+        <lg number="1" type="stanza">
+          <l>אני זוכרת את עינייך</l>
+          <l>ואת כל השירים כולם</l>
+          <l>שום דבר אינו נשכח</l>
+          <l>המבטא הזר כל כך</l>
+          <l>ועוצמת האהבה שבקולך.</l>
+          <l>רק מעטים זוכים באושר</l>
+          <l>אתה ידעת זאת היטב</l>
+          <l>וביקשת גם עכשיו</l>
+          <l>תני לי לאהוב אותך</l>
+          <l>וענן שחור כיסה את הזריחה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לס מואה טמה,</l>
+          <l>הלב צמא</l>
+          <l>שוב לכישוף שאין דומה</l>
+          <l>אני קוראת</l>
+          <l>ואין עונה</l>
+          <l>אז שיר לי שוב לס מואה טמה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>למרות כל השנים האלה</l>
+          <l>אתה זורח בעוצמה</l>
+          <l>ולמרות שבעירו</l>
+          <l>הנביא וגם שירו נשכחים</l>
+          <l>אני שומעת ובוכה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לס מואה טמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

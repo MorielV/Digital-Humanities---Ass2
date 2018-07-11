@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלום לבוא שבת</title>
+        <singer classification="female singer">אופירה גלוסקא</singer>
+        <writer>רבי שלום שבזי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלום לבוא שבת</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>שלום לבוא שבת שלום שלום יום מנוחה </l>
+          <l>שלום לבוא שבת שלום מנוחה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שלום לבוא שבת שלום ושמחה </l>
+          <l>שלום לך שלום יום מנוחה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שישו בני יעקוב כי בא השביעי </l>
+          <l>גילו בלקח טוב יום שעשועי</l>
+          <l>וראו אמת מה טוב דודי ורעי</l>
+          <l>אמצע ביום זה ששון ושמחה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שלום לבוא שבת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>דיבר בהר סיני דיבור רביעי </l>
+          <l>זכור וגם שמור יום השביעי </l>
+          <l>על כן באהבתו אישתו גביעי </l>
+          <l>יום בא מיודעי השקט ובטחה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שלום לבוא שבת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

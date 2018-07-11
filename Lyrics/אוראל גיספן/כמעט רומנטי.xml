@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמעט רומנטי</title>
+        <singer classification="unknown">אוראל גיספן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>תומר הדדי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמעט רומנטי</head>
+        <lg number="1" type="stanza">
+          <l>בתי קפה כמו באירופה, עיר גדולה בלי חניה </l>
+          <l>נשמע כמעט רומנטי </l>
+          <l>איש ישן בתוך בית מקרטון </l>
+          <l>למעלה הפיח עושה עננים </l>
+          <l>קולות פעמונים ביפו דייגים ליד הים </l>
+          <l>נשמע כמעט רומנטי </l>
+          <l>שיר ישן, מנגן אקורדיון </l>
+          <l>אקדח של נדל"ן יורה מגדלים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תל אביב, סה, לה וי, קצת אחרת לטוב ולרע </l>
+          <l>כמו איזה פלא קסום </l>
+          <l>יש בך הכול ואולי זה לא כלום </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זוגות, זוגות אל תוך הלילה, בשדרות המחאה </l>
+          <l>נשמע כמעט רומנטי </l>
+          <l>מישהו במיכחול מלא דמיון </l>
+          <l>צייר שם פנטזיה להמונים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איש מוזר</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>אסף שריג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איש מוזר</head>
+        <lg number="1" type="stanza">
+          <l>מה עובר עליך איש מוזר </l>
+          <l>איך הפכת לשוטה הכפר </l>
+          <l>אין ספק שמדובר באיש מוזר </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בית מרזח קצת מוזנח,מונח </l>
+          <l>וירח מלוכלך זרח </l>
+          <l>מיילל עם הכלבים ברחוב הקר </l>
+          <l>אז עזבת את הכרך </l>
+          <l>תברח,תברח </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הלב נשבר </l>
+          <l>הכל נגמר </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז גורשת מארצות ניכר </l>
+          <l>אלמוני ומיותר,מוזר </l>
+          <l>לא היית כבר אותו דבר, </l>
+          <l>אותו דבר </l>
+          <l>איך הפכת לאדם קצת מר וזר </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הלב נשבר </l>
+          <l>הכל נגמר </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מיילל עם הכלבים ברחוב הקר </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>הלב שנבר </l>
+          <l>הכל נגמר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

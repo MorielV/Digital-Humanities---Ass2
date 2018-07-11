@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד הסוף 2</title>
+        <singer classification="male singer">אסף ארליך</singer>
+        <writer>אסף ארליך</writer>
+        <composer>אסף ארליך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד הסוף</head>
+        <lg number="1" type="stanza">
+          <l>רצים על המים</l>
+          <l>ידיים צלובות שנגעו כבר הכל</l>
+          <l>רק לא מקרוב</l>
+          <l>עכשיו זה נושם, עכשיו זה עולם</l>
+          <l>את כל מה שצריך כדי לחיות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שני קנאים, כל אחד בעצמו</l>
+          <l>מטיילים בגינה</l>
+          <l>קוטפים רעיון איך להפוך לגלולה</l>
+          <l>תחושת אהבה</l>
+          <l>הם נופלים תמיד ביום שאחרי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>והיינו כל כך טובים</l>
+          <l>כולם הסתכלו רק עלינו</l>
+          <l>כי ידענו לאהוב עד הסוף</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את אומרת עזוב זה רחוק מאיתנו</l>
+          <l>תשמור רק עלינו</l>
+          <l>הרבה יותר קשה</l>
+          <l>אל תיסע לי עכשיו</l>
+          <l>מישהו אחר</l>
+          <l>דמעות מאופרות על שמלה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אי אפשר בלעדייך</l>
+          <l>שותה את עצמי ונוזל לי לבד</l>
+          <l>המון אנשים</l>
+          <l>עכשיו זה נחנק</l>
+          <l>כבר לא מעניין</l>
+          <l>את כל מה שצריך כדי לחיות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>והיינו כל כך טובים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

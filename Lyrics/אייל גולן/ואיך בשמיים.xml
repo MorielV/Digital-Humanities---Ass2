@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ואיך בשמיים</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ואיך בשמיים</head>
+        <lg number="1" type="stanza">
+          <l>ואיך שאמרת לי את שמך ידעתי שזאת אהבה</l>
+          <l>יופייך את חושי משכר, מעולם לא חיפשתי תשובה</l>
+          <l>לכתך אחרי בחולות, הרגשתי שבוי באגדה</l>
+          <l>אמרי אם שלי את או את לי חידה -</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואיך בשמיים האיר לי כוכב כל הלילה</l>
+          <l>ואיך הוא ליטף באורו הזוהר את הלב</l>
+          <l>ואז בי נשבעתי תמיד שאקדיש את חיי לה</l>
+          <l>ואיך היא חשבה שאני רק אוהב או אויב...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואיך את רוצה להמשיך, אני לא בנוי לפרידה</l>
+          <l>קשה כל דבר להסביר, מעולם לא ידעתי בגידה</l>
+          <l>לבי לא חילק אהבות גם אם טעיתי פה ושם</l>
+          <l>אמרי אם נקשור גורלות לעולם -</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואיך בשמיים האיר לי כוכב כל הלילה</l>
+          <l>ואיך הוא ליטף באורו הזוהר את הלב</l>
+          <l>ואז בי נשבעתי תמיד שאקדיש את חיי לה</l>
+          <l>ואיך היא חשבה שאני רק אוהב או אויב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

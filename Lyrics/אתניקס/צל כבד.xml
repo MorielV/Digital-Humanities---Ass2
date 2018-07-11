@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צל כבד</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צל כבד</head>
+        <lg number="1" type="stanza">
+          <l>ילדתי, הדורים הם בגדייך</l>
+          <l>אשא את עיני אל הילת מבטך</l>
+          <l>תחזרי, תתאכזרי</l>
+          <l>בכל עת כשתרדי מן ההר ותפני לי גבך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בחדרי אדליק את הנרות</l>
+          <l>אני אקרא בשמך, אחכה לך</l>
+          <l>צל כבד נופל על הקירות</l>
+          <l>זה מול זו לאור של ירח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ילדתי, על חיטים נעשה אהבה</l>
+          <l>עד אובדן הכאב הקדמון</l>
+          <l>רגש קר, לב אכזר</l>
+          <l>את ליבי בחוד קוץ של ציפורן הכאבת אז המון</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בחדרי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

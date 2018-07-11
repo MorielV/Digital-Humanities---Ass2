@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלימור</title>
+        <singer classification="band">אור כשדים</singer>
+        <writer>רונן בן טל</writer>
+        <composer>טרטלז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלימור</head>
+        <lg number="1" type="stanza">
+          <l>את כמו תפילת הגשם</l>
+          <l>ליטוף של קרני השמש</l>
+          <l>את השמיים, אלימור שלי</l>
+          <l>את נערת החודש</l>
+          <l>ישר מארון הקודש</l>
+          <l>אל בין זרועותי את, אלימור שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלימור מותק, את הכל</l>
+          <l>הירקון נהיה כחול</l>
+          <l>כשאת עוברת כאן מולנו</l>
+          <l>אלימור מותק, את גדולה</l>
+          <l>את כמו סוף בלי התחלה</l>
+          <l>אז בואי שבי קצת לידנו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו מים מן הסלע</l>
+          <l>את פלא של הטבע</l>
+          <l>טיפה של מזל את, אלימור שלי</l>
+          <l>רק אל תהיי אחרת</l>
+          <l>כי את אומנות משולמת</l>
+          <l>את כמו מונה-ליזה, אלימור שלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלימור מותק, את הכל</l>
+          <l>הירקון נהיה כחול</l>
+          <l>כשאת עוברת כאן מולנו</l>
+          <l>אלימור מותק, את גדולה</l>
+          <l>את כמו סוף בלי התחלה</l>
+          <l>אז בואי שבי קצת לידנו</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לונדון קטנה עלייך</l>
+          <l>ונוס אבק רגלייך</l>
+          <l>את מי את אוהבת, אלימור שלי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אלימור מותק, את הכל</l>
+          <l>הירקון נהיה כחול</l>
+          <l>כשאת עוברת כאן מולנו</l>
+          <l>אלימור מותק, את גדולה</l>
+          <l>את כמו סוף בלי התחלה</l>
+          <l>אז בואי שבי קצת לידנו</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אלימור מותק, את הכל, אההה...</l>
+          <l>אלימור מותק, את הכל, אההה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

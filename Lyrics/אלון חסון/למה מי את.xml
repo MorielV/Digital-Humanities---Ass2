@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למה מי את</title>
+        <singer classification="unknown">אלון חסון</singer>
+        <writer>שיקו חייק</writer>
+        <composer>שיקו חייק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למה מי את</head>
+        <lg number="1" type="stanza">
+          <l>שאותה ראיתי אז הרגשתי</l>
+          <l>שעוברת צמרמורת בגופי</l>
+          <l>ישר הבנתי ולא ידעתי</l>
+          <l>מה לעשות עם החברה שלי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל כך יפה ומתוקה</l>
+          <l>יש לה יופי של נסיכה</l>
+          <l>באגדות בחלומות</l>
+          <l>לא חלמתי על בחורה כזאת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>למה מי את בכלל אולי תגידי</l>
+          <l>בחיים עליי את האף אל תרימי</l>
+          <l>גם אני תפסתי מעצמי</l>
+          <l>ובסוף נשארתי לבדי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>(למה מי את בכלל אולי תגידי)</l>
+          <l>(בחיים עליו את האף עליו אל תרימי)</l>
+          <l>גם אני תפסתי מעצמי</l>
+          <l>ובסוף נשארתי לבדי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חושב עליה המון</l>
+          <l>היא בראשי תמיד בזיכרון</l>
+          <l>שאני מבין שהיא לא איתי</l>
+          <l>אני נכנס לדיכאון</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>יש לי אחרת במקומה</l>
+          <l>וגם אני אוהב אותה</l>
+          <l>אני יודע זאת אשליה</l>
+          <l>אבל אני חולם על השניה</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>למה מי את בכלל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

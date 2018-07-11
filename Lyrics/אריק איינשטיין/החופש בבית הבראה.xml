@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החופש בבית הבראה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>חיים חפר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החופש בבית הבראה</head>
+        <lg number="1" type="stanza">
+          <l>אשתי נשארה בעפולה</l>
+          <l>הבעל שלי במפעל</l>
+          <l>שמי דוקטור אביבי</l>
+          <l>שמי שולה</l>
+          <l>נו, כמה הוספת במשקל?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>החופש, החופש, החופש</l>
+          <l>החופש בבית הבראה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האוכל בכלל כאן בסדר</l>
+          <l>רודנסקי מציג כאן לא רע</l>
+          <l>ניגש קצת אליך לחדר?</l>
+          <l>אוי נחה שם עוד חברה...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>החופש, החופש...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>סבלתי תמיד מצרבת</l>
+          <l>הדוקטור אמר לי לשכב</l>
+          <l>אז בואי נשכב על הדשא</l>
+          <l>שרפתי היום את הגב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>החופש, החופש...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אולי נשחק קצת בלוטו</l>
+          <l>עזוב, עוד מעט הרצאה</l>
+          <l>אז בואי נשב קצת באוטו</l>
+          <l>תנוח, זה בית הבראה.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>החופש, החופש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

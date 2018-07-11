@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תני לי לאהוב אותך</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>דורון אלימלך</writer>
+        <composer>missing</composer>
+        <album>דרך לחיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תני לי לאהוב אותך</head>
+        <lg number="1" type="stanza">
+          <l>מחפש, מתלבט רוצה לומר לך </l>
+          <l>כל יום אני אוהב אותך יותר, </l>
+          <l>מבקש, מתרגש רוצה לדעת </l>
+          <l>אם ויתרתי כבר, </l>
+          <l>אז למה זה כואב? </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בעינייך מוצא את התשובה, </l>
+          <l>הלב שואל מה זאת אהבה? </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תני לי לאהוב אותך, </l>
+          <l>לחבק אותך חזק, </l>
+          <l>תני לי את הדרך </l>
+          <l>שתוביל אל תוך ליבך, </l>
+          <l>הנשמה שלי </l>
+          <l>רוצה להתאהב בך, </l>
+          <l>ללכת כעיוור בדרכך </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא אשכח כמה את יודעת </l>
+          <l>לאהוב אותי חזק מתוך הלב, </l>
+          <l>זה נגמר ואני שואל מדוע, </l>
+          <l>אם ויתרתי כבר </l>
+          <l>אז למה זה כואב? </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בעינייך מוצא את התשובה, </l>
+          <l>תגידי את מה זאת אהבה? </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תני לי לאהוב אותך... </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>תני לי לאהוב אותך, </l>
+          <l>לחבק אותך חזק, </l>
+          <l>תני לי את הדרך </l>
+          <l>שתוביל אל תוך ליבך, </l>
+          <l>הנשמה שלי </l>
+          <l>רוצה להתאהב, </l>
+          <l>ללכת כעיוור בדרכך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

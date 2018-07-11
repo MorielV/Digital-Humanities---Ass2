@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סוסי שקיעה</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>דודו ויזר</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סוסי שקיעה</head>
+        <lg number="1" type="stanza">
+          <l>הם מחכים, אהובתי</l>
+          <l>סוסי שקיעה, מעבר להר</l>
+          <l>הם מחכים, אהובתי</l>
+          <l>סוסי מחר, מעבר להר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי אלי נהייה ביחד</l>
+          <l>גם בליבי תחושה של פחד</l>
+          <l>כמה נחייה, כמה נחייה, כמה נחייה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הן מחכות, אהובתי</l>
+          <l>זהב זריחות, מעבר להר</l>
+          <l>הן מחכות, אהובתי</l>
+          <l>זהב שקיעות, מעבר לים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואי אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

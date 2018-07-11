@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אפשר לחשוב</title>
+        <singer classification="male singer">אריק ברמן</singer>
+        <writer>אריק ברמן</writer>
+        <composer>אריק ברמן</composer>
+        <album>I</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אפשר לחשוב</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>המון מחשבות עכשיו אפשר לחשוב,</l>
+          <l>המון מחשבות עכשיו -</l>
+          <l>למה זה כך? ולמה לא כך?</l>
+          <l>ואולי היא תשמח אם הוא קם והלך.</l>
+          <l>המון מחשבות עכשיו אפשר לחשוב.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חשבת שטוב כל הזמן קרוב</l>
+          <l>ולא לעזוב ותמיד לאהוב</l>
+          <l>אבל אולי, עדיף כמו ההוא מהספר,</l>
+          <l>שתמיד בורח ברגע שמתחיל להרגיש.</l>
+          <l>אולי עדיף כמו ההוא מהספר.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>המון מחשבות...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חשבת שטוב לפרוק מהלב,</l>
+          <l>שכדאי להתעכב על מה שכואב</l>
+          <l>אבל אולי, עדיף כמו ההיא בספארי,</l>
+          <l>שבמקום להסתכל היא טומנת בחול את הפנים. </l>
+          <l>אולי עדיף כמו ההיא בספארי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>המון מחשבות...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>חשבת שטוב לתת ולתת,</l>
+          <l>להקריב באמת, לוותר על העט</l>
+          <l>אבל אולי, עדיף כמו הזוג במכולת,</l>
+          <l>שכמו זר סיגליות הוא מביא לה</l>
+          <l>שלוש מאות גרום פיצוחים.</l>
+          <l>אולי עדיף כמו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

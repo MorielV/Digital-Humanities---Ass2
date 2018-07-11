@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הצחוק שלך</title>
+        <singer classification="unknown">אביחי מליחי</singer>
+        <writer>אביחי מליחי</writer>
+        <composer>אביחי מליחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הצחוק שלך</head>
+        <lg number="1" type="stanza">
+          <l>הצחוק שלך </l>
+          <l>עושה אותי שמח </l>
+          <l>האור שבך </l>
+          <l>מחזיר אותי לחיים</l>
+          <l>איתך הזמן טס </l>
+          <l>ומהר בורח </l>
+          <l>אינו עוצר, </l>
+          <l>לא מתעכב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואם תרצי איתי </l>
+          <l>לגעת בשמיים </l>
+          <l>זה לא אני אהובתי </l>
+          <l>זה לא אני </l>
+          <l>וכל מה שנותר </l>
+          <l>נעלם מהעין </l>
+          <l>אך הכל נשאר </l>
+          <l>אצלי בלב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הקול שלך </l>
+          <l>עושה אותי רגוע</l>
+          <l>וכל שבך </l>
+          <l>הוא בדמי, הלוא תדעי</l>
+          <l>איתך הזמן </l>
+          <l>לא מתחשב, נוסע </l>
+          <l>רק מחליף נתיב אחר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואם תרצי איתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

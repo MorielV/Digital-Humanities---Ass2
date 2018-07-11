@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חץ האהבה</title>
+        <singer classification="unknown">אביטל</singer>
+        <writer>עדי לאון</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חץ האהבה</head>
+        <lg number="1" type="stanza">
+          <l>חץ האהבה פוגע לי ברגש</l>
+          <l>רק אותך רואה</l>
+          <l>בך כה מתלהבת</l>
+          <l>זה אותי מדליק</l>
+          <l>אחד שלא מציק, בוא ותגלה לי את ליבך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתה תמיד מצחיק</l>
+          <l>אותי זה משגע </l>
+          <l>כזה בחור מבריק</l>
+          <l>שבי אתה נוגע לי</l>
+          <l>לילה ועוד יום איתך זה כמו חלום</l>
+          <l>רק לומדת מהי אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רוצה שתעשה איתי חיים</l>
+          <l>רוצה שנעבור ימים יפים</l>
+          <l>שאתה שוב מלטף הכל זורם בכיף </l>
+          <l>איזה יופי שאתה אוהב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רק אתה יכול לתת ולא לקחת</l>
+          <l>שאתה אוהב הכל עובר בנחת</l>
+          <l>כמו מגע קסמים מלטף את הפנים </l>
+          <l>מושך לעולמות כה רחוקים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אותי זה מרגש המבט שבעיניך</l>
+          <l>כל החברות מדברות איתי עלייך</l>
+          <l>מלך הרחוב תעשה לי טוב</l>
+          <l>בוא אלי ותישאר קרוב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רוצה שתעשה איתי חיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

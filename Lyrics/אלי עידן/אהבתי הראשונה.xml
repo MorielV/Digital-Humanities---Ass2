@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבתי הראשונה</title>
+        <singer classification="male singer">אלי עידן</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבתי הראשונה</head>
+        <lg number="1" type="stanza">
+          <l>בלילות חושב עליה</l>
+          <l>על הילדה שאבדה לי</l>
+          <l>וילדתי עודנה</l>
+          <l>איתי בתוך חיי</l>
+          <l>איך ליבי יוצא אליה</l>
+          <l>אל הילדה שאהבתי</l>
+          <l>ויום יבוא אראנה</l>
+          <l>והיא תשוב אלי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא אדע יפה ממנה</l>
+          <l>זכרונות מתוך תמונה</l>
+          <l>ילדים תמימים היינו</l>
+          <l>ובלב תקווה קטנה</l>
+          <l>היא ישנה היא איננה</l>
+          <l>אהבתי הראשונה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך שרצתי אחריה</l>
+          <l>שם בילדות שעברנו</l>
+          <l>וזה לזו נשבענו</l>
+          <l>ולא ידענו די</l>
+          <l>והיום בוכה עליה</l>
+          <l>והדמעה שנפלה לי</l>
+          <l>שטפה את תקוותיה</l>
+          <l>האם תשוב אלי?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא אדע יפה ממנה....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

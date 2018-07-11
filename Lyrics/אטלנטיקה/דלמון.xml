@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דלמון</title>
+        <singer classification="unknown">אטלנטיקה</singer>
+        <writer>רמי דוידוף</writer>
+        <composer>רמי דוידוף</composer>
+        <album>שוב בבוקר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דלמון</head>
+        <lg number="1" type="stanza">
+          <l>איזו מישהי</l>
+          <l>הולכת ברחוב</l>
+          <l>מכשילה בפריצות היא</l>
+          <l>עובר וגם שוב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>המלאך שעבר שם</l>
+          <l>כמעט התבלבל</l>
+          <l>במוחו הוא צרח</l>
+          <l>התחיל למלמל</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תלכי ממני</l>
+          <l>תסתלקי ממני</l>
+          <l>לא ממני</l>
+          <l>לא בכלל, לא בכלל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איזו מישהי</l>
+          <l>הולכת ברחוב</l>
+          <l>מבלבלת במוח</l>
+          <l>ולי זה לא טוב</l>
+          <l>מצהירה, היא מוארת</l>
+          <l>כבר כמה שנים</l>
+          <l>היא שינתה את השם שלה</l>
+          <l>במקדש אלילים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תלכי ממני</l>
+          <l>תסתלקי ממני</l>
+          <l>לא ממני</l>
+          <l>לא בכלל, לא בכלל</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>תסתלקי ממני</l>
+          <l>ותלכי ממני</l>
+          <l>לא ממני... לא לא!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

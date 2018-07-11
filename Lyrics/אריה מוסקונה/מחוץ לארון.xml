@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחוץ לארון 3</title>
+        <singer classification="male singer">אריה מוסקונה</singer>
+        <writer>אריה מוסקונה</writer>
+        <composer>אריה מוסקונה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחוץ לארון</head>
+        <lg number="1" type="stanza">
+          <l>הוא היה גבר שבגברים</l>
+          <l>עם זאת יום אחד הוא הבין</l>
+          <l>שהוא בגוף הלא נכון</l>
+          <l>ואין שום דרך אחרת</l>
+          <l>הזריק הורמון לבש שמלה</l>
+          <l>ועכשיו הוא היא מאושרת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איזה כיף מחוץ לארון</l>
+          <l>אוויר נקי</l>
+          <l>לא לעשות חשבון</l>
+          <l>שיער ושמלות לנפנף</l>
+          <l>איזה כיף</l>
+          <l>אומר זאת שוב</l>
+          <l>איזה כיף מחוץ לארון</l>
+          <l>אוויר נקי לא לעשות חשבון</l>
+          <l>שיער ושמלות לנפנף</l>
+          <l>איזה כיף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גרביון רשת, בלונד וסיליקון</l>
+          <l>הוא גברת עם יתרון</l>
+          <l>עוסקת במתן שירותים</l>
+          <l>כי מי כמוה יודע</l>
+          <l>מה אוהבות נשים</l>
+          <l>ומה אוהבים גברים...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איזה כיף מחוץ לארון...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הורים החרימו</l>
+          <l>שכנים ריכלו</l>
+          <l>ממסד התעלם</l>
+          <l>חברים ריחמו</l>
+          <l>צה"ל ומשרד הפנים</l>
+          <l>קבעו שזו סתם רק איזו שטות</l>
+          <l>מי אמר שאלוהים</l>
+          <l>לא עושה לפעמים</l>
+          <l>רק לפעמים</l>
+          <l>טעות?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>איזה כיף מחוץ לארון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

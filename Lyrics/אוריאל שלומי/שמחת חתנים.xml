@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמחת חתנים</title>
+        <singer classification="male singer">אוריאל שלומי</singer>
+        <writer>שלמה כישור</writer>
+        <composer>פאריד אל אטרש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמחת חתנים</head>
+        <lg number="1" type="stanza">
+          <l>עלזו, ריקדו-נא ידידי, בשיר פיתחו-נא,</l>
+          <l>בשמחת-חתנים רבה נגיל ברננה.</l>
+          <l>המנגינה גוברת והשמחה זוהרת,</l>
+          <l>כטוב הלב ביין תרקוד יפת-העין.</l>
+          <l>גילו הו גילו, גילו הו גילו.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עילזו חתן וכלתו ביום-תפארת,</l>
+          <l>זירקו יגון ואנחה לתהום נפערת.</l>
+          <l>ישמח חתן בחופתו על-כן יגילה,</l>
+          <l>תשמח כלה בבן-זוגה אשר לקחה לה.</l>
+          <l>ריקדו, ריקדו בינתיים, שימחו שמחת השניים</l>
+          <l>מיזגו יינות כמים ושאו ברכת-שמיים.</l>
+          <l>גילו הו גילו, גילו הו גילו.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עילזו, ריקדו-נא...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ברכו מכל לבכם הברית אשר נשמרת,</l>
+          <l>קוו אך טוב לזוג צעיר ולו כזרת.</l>
+          <l>יגדל, ישגא ובצאצאיו ירווה הנחת,</l>
+          <l>הלואי נראה את שמחתם תמיד קולחת.</l>
+          <l>מיזגו, מיזגו היין כי השמחה עדיין</l>
+          <l>נגיל בחתננו, נשמח בכלתנו,</l>
+          <l>גילו הו גילו, גילו הו גילו.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עילזו, ריקדו-נא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

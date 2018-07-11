@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה מוכה</title>
+        <singer classification="unknown">איילה טליאס</singer>
+        <writer>שלמה כישור</writer>
+        <composer>שלמה כישור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה מוכה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אתמול הייתה מלכה, מלכה בלי כתר</l>
+          <l>היום אישה מוכה, בוכה בסתר.</l>
+          <l>הלב סגור בפנים, דמעות על הפנים,</l>
+          <l>חייה הם כעת עפר ואפר.</l>
+          <l>אין יום שלא הולך כמו נצח מתמשך</l>
+          <l>וכל זה לא היה כתוב בספר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אישה מוכה, סבלך מי יודע?</l>
+          <l>אישה בוכה, בכייך מי שומע?</l>
+          <l>האושר חולף לידך ובך לא נוגע.</l>
+          <l>אישה מוכה, סודך אל תסתירי</l>
+          <l>אישה בוכה, עינינו האירי,</l>
+          <l>ליד ארורה שמכה גופך אל תפקירי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ביום מן הימים ניתק הקשר</l>
+          <l>וחשה בלבה שכל האושר</l>
+          <l>לא יחזור לעד והיא כעת לבד</l>
+          <l>אל מול יד שמכה ואין לה גשר</l>
+          <l>אלי חוף-מבטחים שבו כולם נחים</l>
+          <l>רחוק וגם בטוח מעין-הנשר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אישה מוכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

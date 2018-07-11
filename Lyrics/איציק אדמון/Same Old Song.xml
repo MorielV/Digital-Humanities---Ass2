@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Same Old Song</title>
+        <singer classification="unknown">איציק אדמון</singer>
+        <writer>איציק אדמון</writer>
+        <composer>איציק אדמון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Same Old Song</head>
+        <lg number="1" type="stanza">
+          <l>Taking what you're taking from me </l>
+          <l>I hope I can keep my love alive </l>
+          <l>Looking back on when I was free </l>
+          <l>And how I have loved your tear stained eyes </l>
+          <l>Now I'm standing right by the door </l>
+          <l>I really don't know, what I'm looking for </l>
+          <l>You know I think I'm really not sure </l>
+          <l>If I want to let go </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>And I am waiting </l>
+          <l>I am waiting </l>
+          <l>I've been waiting far to long </l>
+          <l>And I am waiting </l>
+          <l>I am waiting </l>
+          <l>While I sing the same old song </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Now that you are back in my life </l>
+          <l>The tears are not gone, they only hide </l>
+          <l>And in the end, those feelings was right </l>
+          <l>And into my world they now collide </l>
+          <l>You know I never said I was strong </l>
+          <l>And I know I was wrong, I know I was wrong </l>
+          <l>And now I'm with my back to the wall </l>
+          <l>When you're coming home </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>And I am waiting...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

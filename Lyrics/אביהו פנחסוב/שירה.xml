@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שירה</title>
+        <singer classification="unknown">אביהו פנחסוב</singer>
+        <writer>אביהו פנחסוב</writer>
+        <composer>מארק פנחסוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שירה</head>
+        <lg number="1" type="stanza">
+          <l>אני אוהב אותך, כי אין לי שום ברירה.</l>
+          <l>אני  מכור אלייך.</l>
+          <l>אני רוצה אותך,</l>
+          <l>בגלל שאת יפה כל כך וקשה כל כך.</l>
+          <l>איך כולם מסתובבבים לך, על האצבע הקטנה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>החברים שלי אומרים לי תעזוב אותה,</l>
+          <l>היא לא בשבילך.</l>
+          <l>יום שישי יוצאים, הלילה מסיבה גדולה חגיגה גדולה.</l>
+          <l>את יפה כל כך רוקדת עם הלב שלי ביד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שירה שירה מה נהיה?</l>
+          <l>מה עשית לי נשמה.</l>
+          <l>בחלומות שלך יש מלך שיבוא אלייך, ויכבוש אותך.</l>
+          <l>ואת תהייה מלכה, צבא שלם ישמור עלייך בארמון שלך.</l>
+          <l>ומה אני רק בן אדם פשוט שחיי למענך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שירה שירה מה נהיה?</l>
+          <l>מה עשית לי נשמה?</l>
+          <l>לאהוב אותך אני רוצה הלילה.</l>
+          <l>לחבק אותך אני רוצה הלילה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

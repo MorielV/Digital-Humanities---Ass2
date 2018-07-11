@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אולי 7</title>
+        <singer classification="male singer">אלי עידן</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אולי</head>
+        <lg number="1" type="stanza">
+          <l>הלכת בלי להשאיר לי</l>
+          <l>כל רמז או סימן.</l>
+          <l>הלכת בלי להגיד לי</l>
+          <l>לאן ולכמה זמן.</l>
+          <l>הלכת בלי לומר לי</l>
+          <l>את מה שבליבך.</l>
+          <l>הלכת בלי לספר לי</l>
+          <l>גלי לי את סודך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אולי יש לך מישהו אחר</l>
+          <l>אולי לא רצית אותי יותר</l>
+          <l>אולי בא לך חופש מעלי</l>
+          <l>ואולי תבואי שוב אלי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלכת בלי להשאיר לי</l>
+          <l>מספר לכל צרה.</l>
+          <l>הלכת בלי להגיד לי</l>
+          <l>אם משהו קרה.</l>
+          <l>הלכת בלי לספר לי</l>
+          <l>באופן פתאומי.</l>
+          <l>אני לבד בבית</l>
+          <l>מדבר לי אל עצמי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אולי יש לך מישהו אחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

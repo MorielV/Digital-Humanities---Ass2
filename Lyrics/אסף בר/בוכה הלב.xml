@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוכה הלב</title>
+        <singer classification="unknown">אסף בר 2</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוכה הלב</head>
+        <lg number="1" type="stanza">
+          <l>בחצות הלילה כשהגעתי דלק האור אצלך</l>
+          <l>איש אחר ראיתי ושמעתי נוגע בגופך</l>
+          <l>כמה שניסתי לא הבנתי איך זה ליבך בגד</l>
+          <l>את הרי אמרת לי והנשבעת לי</l>
+          <l>אנחנו כמו אחד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בוכה בלב ובנשמה כשאת נסחפת</l>
+          <l>הוא שם עלייך יד חמה</l>
+          <l>ולא משאיר לי נחמה ומשאלה</l>
+          <l>הכל נגמר ביננו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חברים אמרו לי מה הקטע ישנן בנות רבות</l>
+          <l>אך אני נזכר בך בכל רגע והדמעות זולגות</l>
+          <l>מה קרה תגידי מה מצאת בו איך זה שכחת אותי</l>
+          <l>ובתוך החדר איך נגעת בו אזכור עד יום מותי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בוכה בלב ובנשמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

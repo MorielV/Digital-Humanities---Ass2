@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הסינדרלה</title>
+        <singer classification="male singer">איתן מסורי</singer>
+        <writer>שגיא אינפלוס</writer>
+        <composer>שגיא אינפלוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הסינדרלה</head>
+        <lg number="1" type="stanza">
+          <l>שנת 2003 אני כאן בתוך חלום</l>
+          <l>מסתכל על השמים הכל כל אדום</l>
+          <l>ארבעים שנה חלפו</l>
+          <l>האוהדים מאושרים</l>
+          <l>הגביע שלנו</l>
+          <l>ועכשיו כולם שרים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סינדרלה שלי זה הפועל רמת גן</l>
+          <l>סינדרלה שלי אדומה היא מכולם</l>
+          <l>הקבוצה מהמכתש שאותה כל כך אוהב</l>
+          <l>אדום לבן זה הפועל רמת גן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מכתש או לא מכתש</l>
+          <l>אביטן תמיד כובש</l>
+          <l>אלי כהן בקווים</l>
+          <l>אוהדים בעננים</l>
+          <l>רמת גן עשתה היסטוריה</l>
+          <l>רמת גן אולי קטנה</l>
+          <l>אבל הביאה לי גביע</l>
+          <l>עם הלב והנשמה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סינדרלה שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

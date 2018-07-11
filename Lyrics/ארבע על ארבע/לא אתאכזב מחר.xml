@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא אתאכזב מחר</title>
+        <singer classification="band">ארבע על ארבע</singer>
+        <writer>יואל לרנר</writer>
+        <composer>יואל לרנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא אתאכזב מחר</head>
+        <lg number="1" type="stanza">
+          <l>כמו בחלום משום מקום עפה אל תוך חיי</l>
+          <l>אם זה היה או לא היה, עכשיו זה קרוב אלי</l>
+          <l>מישהו חושב עלי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל השירים הם געגועים לאחת כמותך</l>
+          <l>והשורות הכי טובות זה להגיד את שמך</l>
+          <l>קחי אותם בשבילך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את מחייכת ואני מתלהב</l>
+          <l>אם את נשארת אז אני מתאהב</l>
+          <l>וגם אם לא הבטחת לי דבר</l>
+          <l>לא אתאכזב מחר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשמחשיך אני צריך את האור שבך</l>
+          <l>שיכוון ויסמן דרך ללב שלך</l>
+          <l>ואשאר איתך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את מחייכת ואני מתלהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

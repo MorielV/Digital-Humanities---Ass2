@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה אמרו הציפורים</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>נעמי שמר</writer>
+        <composer>נעמי שמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה אמרו הציפורים</head>
+        <lg number="1" type="stanza">
+          <l>מה אמרו הציפורים הנודדות</l>
+          <l>מה אמרו למשעולים ולשדות</l>
+          <l>הן אמרו - היו שלום</l>
+          <l>אל ערבו נוטה היום</l>
+          <l>ועלינו עוד הרחק לנדוד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה אמרה הנערה בנועם קול</l>
+          <l>אל האיש אשר אהב אותה מכל</l>
+          <l>היא אמרה לו - אין דבר</l>
+          <l>אם תשכח אותי מחר</l>
+          <l>כה בהיר הוא העולם וגדול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והרוח נושב מן ההרים</l>
+          <l>מה אמר לאילנות הנשירים</l>
+          <l>הוא אמר - עלי הסתיו</l>
+          <l>ניתקים מן הענף</l>
+          <l>באביב יוריקו אחרים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רק הנעל המסומרת לחייל</l>
+          <l>לחשה בדומית המאהל:</l>
+          <l>חול ומיים ואבק</l>
+          <l>אנוכי בך אדבק</l>
+          <l>עד יומי האחרון ועד בכלל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

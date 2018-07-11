@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני שר</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>שלום חנוך</writer>
+        <composer>שלום חנוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני שר</head>
+        <lg number="1" type="stanza">
+          <l>יש גן בצפון העיר</l>
+          <l>בצפון העיר יש גן</l>
+          <l>ושם היא תחכה לי</l>
+          <l>הבת של הגנן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם את זוכרת מי אני</l>
+          <l>מי זה הוא</l>
+          <l>מי זו היא</l>
+          <l>אם יודעת מי איני</l>
+          <l>אז מי אני?</l>
+          <l>מי אני?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני שר!</l>
+          <l>אני שר!</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש במיטה אישה</l>
+          <l>אישה יש במיטה</l>
+          <l>שמי שהיא אוהבת</l>
+          <l>יכול לישון איתה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם את זוכרת...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני שר!</l>
+          <l>אני שר!</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>יש איש בבית הכנסת - יש גן בצפון העיר</l>
+          <l>יש איש בבית הכלא - ושם היא תחכה לי</l>
+          <l>יש איש בבית היין - אישה יש במיטה</l>
+          <l>יש איש בבית שימוש</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>אם את זוכרת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

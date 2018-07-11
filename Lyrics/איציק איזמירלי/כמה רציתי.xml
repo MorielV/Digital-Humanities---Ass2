@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה רציתי</title>
+        <singer classification="unknown">איציק איזמירלי</singer>
+        <writer>איציק איזמירלי</writer>
+        <composer>איציק איזמירלי</composer>
+        <album>חוויות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה רציתי</head>
+        <lg number="1" type="stanza">
+          <l>כמה רציתי לראות אותך</l>
+          <l>כמה ביקשתי לרגע איתך</l>
+          <l>בגלל מתהלך כמו משוגע</l>
+          <l>ואחרייך עוקב במבוכה</l>
+          <l>ולא מצליח להיות בשליטה </l>
+          <l>תעזרי כי אני כבר מסובב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ולפעמים בחלומות אני נסחף איתך</l>
+          <l>לרגע אחד אני מהרר עלינו עכשיו</l>
+          <l>ואת אפילו לא יודעת שאת החלום שלי</l>
+          <l>הזמן עובר את לא איתי שוב לבדי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשראיתי אותך ממרחק</l>
+          <l>מייד שיניתי דרכי לשלך </l>
+          <l>מתאמץ מחשב כבר מה לומר</l>
+          <l>ולא זוכר איך להיות משוחרר</l>
+          <l>רק יודע שכך לא אוכל</l>
+          <l>שוב עוצר משחזר את עקבותיי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צו קריאה</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>בן ציון תומר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צו קריאה</head>
+        <lg number="1" type="stanza">
+          <l>בעוד שעה אחזור, בעוד שעה</l>
+          <l>כשאצלצל פתחי לי את הדלת</l>
+          <l>קראו לי פתאום, כרגיל</l>
+          <l>אמרו רק לשעה, רק לשעה</l>
+          <l>והם ודאי יודעים מה שאומרים</l>
+          <l>באמת, רק לשעה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לאן? איני יודע</l>
+          <l>הרי ידעת תמיד אפשר לקרוא</l>
+          <l>לא להספיק לרכוס את המעיל</l>
+          <l>ללכת ללכת ללכת</l>
+          <l>ללכת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בעוד שעה אחזור, בעוד שעה</l>
+          <l>חדלי, הבט בי בעיניים אלה</l>
+          <l>הרי אני הולך רק לשעה</l>
+          <l>כך בפירוש אמרו לי</l>
+          <l>כן, שהספר יישאר פתוח</l>
+          <l>שיישאר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בעוד שעה אחזור, בעוד שעה</l>
+          <l>כשאצלצל פתחי לי את הדלת</l>
+          <l>נו, די כבר, די</l>
+          <l>כן, כן לקחתי סוודר ומעיל</l>
+          <l>אני מוגן היטב מפני הרוח</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בעוד שעה אחזור, בעוד שעה</l>
+          <l>אם אצלצל פתחי לי את הדלת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

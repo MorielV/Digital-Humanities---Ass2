@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מקום אחר</title>
+        <singer classification="band">אפור גשום</singer>
+        <writer>מיכל ספיר</writer>
+        <composer>מיכל ספיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מקום אחר</head>
+        <lg number="1" type="stanza">
+          <l>שקט שלא יתכן בתוך הלב</l>
+          <l>זכורונות מעלים בה תמונות </l>
+          <l>וזה כואב</l>
+          <l>שמש פצועה</l>
+          <l>ורוח שנושב</l>
+          <l>משפט שנזרק</l>
+          <l>נוגע וצורב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הכוכבים עייפים</l>
+          <l>והלילה אפל</l>
+          <l>והיא רוצה כל כך</l>
+          <l>לסוע למקום אחר</l>
+          <l>יש בה חלום שזועק למחר</l>
+          <l>אבל הדלת סגורה</l>
+          <l>היא בוכה עכשיו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>למעלה למעלה</l>
+          <l>שמיים פתוחים</l>
+          <l>נץ על הכתף</l>
+          <l>אור על הפנים</l>
+          <l>נוגעים בעננים</l>
+          <l>רוכבים בסערה</l>
+          <l>שיער שנמשך ברוח הקרה</l>
+          <l>קסם עצוב</l>
+          <l>ממלא את הגוף</l>
+          <l>מעל להרים </l>
+          <l>היא תלמד לעוף</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עמוק בפנים</l>
+          <l>זה לא מפסיק לבעור</l>
+          <l>יש מחיצה</l>
+          <l>שאי אפשר לשבור</l>
+          <l>היה מקום</l>
+          <l>שבו היא היתה באור</l>
+          <l>עכשיו היא שקועה</l>
+          <l>בתוך ערפל אפור</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הכוכבים עייפים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

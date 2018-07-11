@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אשם</title>
+        <singer classification="unknown">אושרי אלמוריש</singer>
+        <writer>רועי גפן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אשם</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>עכשיו גיליתי שאני אשם</l>
+          <l>אני חושב על זה ולא נושם</l>
+          <l>רוצה לגעת בך ואת רחוקה</l>
+          <l>רוצה לדעת שאת לא בוכה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נראה לי שאת עשית הכל, הכל בכוונה</l>
+          <l>רצית יותר ממני ואני במבוכה</l>
+          <l>זה לא שלא ניסיתי </l>
+          <l>אני רציתי כן להיות ביחד</l>
+          <l>אני עף ואת עוצרת ומספרת </l>
+          <l>שזה אני ששוב טעיתי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עכשיו גיליתי שאני אשם...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קיוויתי שאולי תראי את הטוב שבי</l>
+          <l>אבל את לא רוצה את מה שיש לי להביא</l>
+          <l>חשבתי שעשיתי אבל הייתי </l>
+          <l>זה שמקווה</l>
+          <l>שאת תמיד תהיי כאן, תשארי כאן</l>
+          <l>ואת פתאום הולכת </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עכשיו גיליתי שאני אשם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

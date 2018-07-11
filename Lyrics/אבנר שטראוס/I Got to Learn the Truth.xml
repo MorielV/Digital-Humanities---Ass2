@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>I Got to Learn the Truth</title>
+        <singer classification="male singer">אבנר שטראוס</singer>
+        <writer>אבנר שטראוס</writer>
+        <composer>אבנר שטראוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>I Got to Learn the Truth</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>I Got to learn the truth before I learn how to lie.</l>
+          <l>I Got to learn the truth before I learn how to lie.</l>
+          <l>But this blues is gonna kill me before I die.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Sometimes I wonder about the future, sometimes I wonder about the past.</l>
+          <l>Sometimes I wonder about the future, sometimes I wonder about the past. Sometimes I wonder about the next thing, sometimes I wonder about the last.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Sometimes I'm blue, and other times I'm less.</l>
+          <l>Sometimes I'm blue and sometimes a little bit less.</l>
+          <l>But this blues is making, turning, turning my life into a mess.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>I Got to learn the truth before I learn how to lie.</l>
+          <l>I Got to learn the truth before I learn how to lie.</l>
+          <l>But this blues is gonna kill me before I die.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

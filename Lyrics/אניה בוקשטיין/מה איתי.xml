@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה איתי 2</title>
+        <singer classification="unknown">אניה בוקשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה איתי</head>
+        <lg number="1" type="stanza">
+          <l>מה איתי, מה איתי, מה איתי</l>
+          <l>לא מסתדר עם עצמי</l>
+          <l>מה איתי, מה איתי, מה איתי</l>
+          <l>איפה שכחתי את שמי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא יודעת למה</l>
+          <l>לא יודעת איך, איך ומה</l>
+          <l>רק רוצה לברוח,</l>
+          <l>מה זה קרה לי</l>
+          <l>טוב לי או רע לי,</l>
+          <l>תגיד לי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה איתי, מה איתי, מה איתי</l>
+          <l>בטח הוא שם לא שקט</l>
+          <l>מה איתה, מה איתה, מה איתה</l>
+          <l>מה היא רוצה באמת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא יודע למה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מה איתי, מה איתי, מה איתי,</l>
+          <l>בטח היא שם לא שקטה</l>
+          <l>מה איתי, מה איתי, מה איתי</l>
+          <l>איפה שכחתי אותה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא יודעת למה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

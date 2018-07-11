@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוא אלי 2</title>
+        <singer classification="female singer">אפרת גוש</singer>
+        <writer>ברק פלדמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוא אלי</head>
+        <lg number="1" type="stanza">
+          <l>איך אתה יכול</l>
+          <l>להיות כל כך אדיש</l>
+          <l>לחבק אותי כל פעם</l>
+          <l>ולא להרגיש</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתה בא ומעודד תמיד</l>
+          <l>כשאני בוכה</l>
+          <l>איך אתה יכול לחשוב</l>
+          <l>שזה לא בגללך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תחפש</l>
+          <l>מעלי, מצדדי</l>
+          <l>אני כאן ואף פעם</l>
+          <l>לא יכולת בלעדי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בוא אלי, בוא אלי, בוא אלי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רועדת ופוחדת</l>
+          <l>אין שום דרך להסתיר</l>
+          <l>איך אתה יכול לחשוב</l>
+          <l>שזה משהו באוויר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אל תחפש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

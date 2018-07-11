@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>באותו גל</title>
+        <singer classification="female singer">אורה זיטנר</singer>
+        <writer>נתן יונתן</writer>
+        <composer>אורי לשמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>באותו גל</head>
+        <lg number="1" type="stanza">
+          <l>לחצות ימים וארצות</l>
+          <l>בלב בני אדם</l>
+          <l>באשמורת חיים אחרונה</l>
+          <l>לפני הרדמות</l>
+          <l>לבוא בסוד האנשים והלילה</l>
+          <l>לשדר עוד מלה</l>
+          <l>לעולם</l>
+          <l>באותו גל</l>
+          <l>מאותו ים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

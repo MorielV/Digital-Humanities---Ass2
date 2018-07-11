@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הפוכים</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>ספטמבר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הפוכים</head>
+        <lg number="1" type="stanza">
+          <l>זה נובע ממצב קדום</l>
+          <l>שם נברא הרגיש קרוב אל הבורא</l>
+          <l>במקביל התחיל רחוק ושעמום</l>
+          <l>למה הדבר הזה קורה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חייבים לפתור את הבעיה</l>
+          <l>יש פתרון הוא במרחק של נגיעה</l>
+          <l>ההפכיות הזאת היא קרש קפיצה</l>
+          <l>היא תחלץ אותנו מביצה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מצד אחד קשורים זה לזה</l>
+          <l>מצד שני שונאים זה את זה</l>
+          <l>ככה זה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז איך נעשה את זה חד</l>
+          <l>ב' הפכים בנושא אחד</l>
+          <l>זה דוחף אותנו קדימה</l>
+          <l>מלווה בכאב כל כך חד</l>
+          <l>בינתים אתה מרגיש לבד</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה מפוצץ לך את הראש ואת הלב</l>
+          <l>זה מטריד וזה כואב זה לא עוזב</l>
+          <l>היסורים בדרך לברור</l>
+          <l>הטבע שלוחץ אל החבור</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מצד אחד קשורים זה לזה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>יש שני כוחות שאחראים על בעיה</l>
+          <l>זה יתגבר עד שנכיר את השנאה</l>
+          <l>בעולמות העליונים קשה יותר</l>
+          <l>שני כוחות מנוגדים לא מצליחים להסתדר</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>קשה לנו עם אהבה</l>
+          <l>החכמים אומרים זה טוב ש..</l>
+          <l>מתישהו עוד נגלה</l>
+          <l>יתרון האור מהחושך</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>מצד אחד קשורים זה לזה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

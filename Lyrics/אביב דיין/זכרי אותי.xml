@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זכרי אותי</title>
+        <singer classification="unknown">אביב דיין</singer>
+        <writer>רונן מיכאלוב</writer>
+        <composer>רונן מיכאלוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זכרי אותי</head>
+        <lg number="1" type="stanza">
+          <l>זיכרי אותי , זיכרי ילדה. </l>
+          <l>האמת איתי תדעי לך את טועה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כבר שבוע לא החלפנו מילה האם ליבך הפך לאבן </l>
+          <l>כמה עוד את יכולה לשמור הכל בבטן </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם כל לילה את דומעת אם כמוני את נקרעת </l>
+          <l>בתמונות אם את שוקעת כנראה את כבר יודעת </l>
+          <l>את יופייך רק לי שמרתי כשבכית אני נשברתי </l>
+          <l>מימך לרגע לא חדלתי רק אותך אני אהבתי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אימרי לי , ספרי על מה. </l>
+          <l>אחר במקומי מוחה לך את הדמעה. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את ודאי פגועה עדיין גם אני פגוע מימך </l>
+          <l>כשתפקחי את העיניים את תראי אותי מולך. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אם כל לילה את דומעת אם כמוני את נקרעת </l>
+          <l>בתמונות אם את שוקעת כנראה את כבר יודעת </l>
+          <l>את יופייך רק לי שמרתי כשבכית אני נשברתי </l>
+          <l>מימך לרגע לא חדלתי רק אותך אני אהבתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שאריות של החיים</title>
+        <singer classification="male singer">אמיר דדון</singer>
+        <writer>עידן רייכל</writer>
+        <composer>עידן רייכל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שאריות של החיים</head>
+        <lg number="1" type="stanza">
+          <l>מה הזמן מסמן לי</l>
+          <l>זה הכל שאריות של החיים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ולחיות את הרגע </l>
+          <l>להתחיל לאסוף את השברים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי אצא יותר</l>
+          <l>אתחיל קצת למהר</l>
+          <l>להתחיל להסתדר</l>
+          <l>ולעשות קצת רעש</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אולי מקום אחר</l>
+          <l>מקום יותר בוער</l>
+          <l>להתחיל קצת לקלקל</l>
+          <l>ולתקן עוד פעם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

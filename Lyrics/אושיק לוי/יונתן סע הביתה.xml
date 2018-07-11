@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יונתן סע הביתה</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יונתן סע הביתה</head>
+        <lg number="1" type="stanza">
+          <l>עיר גדולה בלי חיילים ואי אפשר לישון</l>
+          <l>פעמונים מצלצלים בבוקר יום ראשון</l>
+          <l>ירח קר על מגדלים וחורף אמיתי</l>
+          <l>אני מרגיש פשוט נפלא, אבל זה לא ביתי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יונתן סע הביתה</l>
+          <l>קח רכבת, קח אוירון</l>
+          <l>קח מתנה קטנה לילד</l>
+          <l>(אוירון)</l>
+          <l>יונתן לך לישון.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מייקל בא ושם תקליט ברק נדלק בחוץ</l>
+          <l>ושלום מדבר אנגלית כמו שבקיבוץ</l>
+          <l>והוא הראה לי את העיר ומאיה שגדלה</l>
+          <l>האנשים בריאים אבל השמש כאן חולה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יונתן סע הביתה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הלכנו למקום גדול לשתות אתם יודעים</l>
+          <l>ומנגנים שם רוקנרול בכל מיני צבעים</l>
+          <l>החורף בא לכאן מוקדם האור כבר לא עליז</l>
+          <l>אולי ניסע לאמסטרדם לרומא או פאריס.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יונתן סע הביתה</l>
+          <l>קח רכבת קח אוירון</l>
+          <l>קח מתנה קטנה לילד</l>
+          <l>קח תרמיל קח מקל</l>
+          <l>וסע לארץ ישראל.</l>
+          <l>(סע לארץ ישראל)</l>
+          <l>יונתן סע הביתה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

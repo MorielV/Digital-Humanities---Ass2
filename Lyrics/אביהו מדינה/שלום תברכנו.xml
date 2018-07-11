@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלום תברכנו</title>
+        <singer classification="male singer">אביהו מדינה</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלום תברכנו</head>
+        <lg number="1" type="stanza">
+          <l>מארץ רחוקה חזרתי </l>
+          <l>שדה חרשתי ובניתי </l>
+          <l>יום וליל ביתי שמרתי </l>
+          <l>לא נילאתי לא עייפתי </l>
+          <l>לבנות בה בארץ אהובה. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רק עוד שואלת ממך אלוהים </l>
+          <l>כי שלום ושלווה בה תשים </l>
+          <l>כי היא בת ארבעים הקטנה </l>
+          <l>השלום לה תתן מתנה?! </l>
+          <l>כי מיום היוולדה היא נכספת </l>
+          <l>לבואו מצפה מתרגשת </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם שלום תברכנו </l>
+          <l>נשירה כולנו </l>
+          <l>לך אלוהים שיר תודה </l>
+          <l>אם שלום תברכנו </l>
+          <l>נשירה כולנו </l>
+          <l>לך אלוהים שיר תודה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כאן אחכה עד שיגיע </l>
+          <l>לכל שואל אשוב אשמיע </l>
+          <l>לא לא אוסיף לנדוד כהלך </l>
+          <l>בלי מולדת ובלי מלך </l>
+          <l>כי שבתי לארץ אהובה </l>
+          <l>לא אוסיף לנדוד כהלך </l>
+          <l>בלי מולדת ובלי מלך </l>
+          <l>כי שבתי לארץ אהובה </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לכן שואלת ממך אלוהים </l>
+          <l>כי שלום ושלווה בה תשים </l>
+          <l>כי היא בת ארבעים הקטנה</l>
+          <l>השלום לה תתן מתנה </l>
+          <l>כי מיום היוולדת היא נכספת </l>
+          <l>לבואו מצפה מתרגשת </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אם שלום תברכנו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

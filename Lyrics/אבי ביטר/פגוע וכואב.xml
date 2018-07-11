@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פגוע וכואב</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פגוע וכואב</head>
+        <lg number="1" type="stanza">
+          <l>את זאת האהבה לא הבנת</l>
+          <l>עשית הרבה שגיאות עשית ולא חשבת</l>
+          <l>אמרת שאת עוזבת שזה נגמר</l>
+          <l>השארת אותי פגוע השארת אותי מוזר</l>
+          <l>היית צריכה לחשוב על כל מה שעשית</l>
+          <l>יבואו עוד ימים תביני שטעית</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בתוך הלב עוד אוהב פגוע וכואב</l>
+          <l>בלילות שעות מדבר עם הכאב</l>
+          <l>מעשן ושותה והסבל לא עובר</l>
+          <l>היה עדיף למות ולא להתאהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי לא חשבת אולי לא אהבת</l>
+          <l>במשחק של שקרים כל הזמן שיחקת</l>
+          <l>שברת את הלב שאותך אהב</l>
+          <l>ראית אותי בוכה ולך זה לא כאב</l>
+          <l>איך שבר את הלב שאותך אהב</l>
+          <l>ראית אותי בוכה ולך זה לא כאב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בתוך הלב עוד אוהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

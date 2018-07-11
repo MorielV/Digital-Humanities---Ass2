@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קשה לעבוד</title>
+        <singer classification="unknown">ארץ טרופית יפה</singer>
+        <writer>ויניסאוס דה מוראס</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קשה לעבוד</head>
+        <lg number="1" type="stanza">
+          <l>יום ולילה,</l>
+          <l>יום ולילה,</l>
+          <l>מהחורף עד הסתיו,</l>
+          <l>תמיד חיפשתי</l>
+          <l>עץ ובית,</l>
+          <l>ואישה אשר אוהב.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מצאתי בית,</l>
+          <l>עץ ומים,</l>
+          <l>אדמה במערב -</l>
+          <l>אבל ללא אישה אוהבת,</l>
+          <l>הרי אני עובד לשוא.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני נודד,</l>
+          <l>פעם פה ופעם שם -</l>
+          <l>אני נודד,</l>
+          <l>כן, העבודה קשה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

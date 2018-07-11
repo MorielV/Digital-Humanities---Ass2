@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שש ועשרים</title>
+        <singer classification="unknown">איה כורם</singer>
+        <writer>איה כורם</writer>
+        <composer>איה כורם</composer>
+        <album>לאלף את הסוסים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שש ועשרים</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו שש ועשרים וזה סוף הלילה שבין שישי לשבת,</l>
+          <l>עדיין אפשר להגיד שעבר רק יום מאז שנסעת.</l>
+          <l>מצאתי איזה חלק שהשארת כאן בטעות, אני לא נרדם.</l>
+          <l>מלא גוף ואישה ומהות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עכשיו רבע לשבע בבוקר וקשה לי להחליט,</l>
+          <l>אולי להתקשר ולהשאיר לך הודעה שלישית.</l>
+          <l>התחיל לרדת שלג באמצע המטבח </l>
+          <l>והוא נופל עלי לבן לבן, כמו העור שלך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הולכים יחד בלילה,</l>
+          <l>צעד אחד שלי, שני צעדים שלך,</l>
+          <l>וכל הצער נשכח.</l>
+          <l>נושמים יחד בלילה,</l>
+          <l>על כל פעימה שלי, שתי פעימות שלך,</l>
+          <l>איך כל הצער נשכח.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עכשיו שמונה וחצי בערב, ומתחיל להיות לי קר,</l>
+          <l>לקחתי אותך, אם לא אכפת לך, לטייל איתי על הנהר.</l>
+          <l>אני אשתטה קצת לכבודך, אולי תסכימי לחייך,</l>
+          <l>אני יודע שזאת אשמתי.</l>
+          <l>את לא איתי.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הולכים יחד בלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

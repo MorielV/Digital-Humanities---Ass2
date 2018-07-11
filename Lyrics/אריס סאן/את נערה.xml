@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את נערה</title>
+        <singer classification="male singer">אריס סאן</singer>
+        <writer>מוטי גלעדי</writer>
+        <composer>אריס סאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את נערה</head>
+        <lg number="1" type="stanza">
+          <l>איך זה נתפסתי ברישתך האיומה</l>
+          <l>כדג המתפתה לחכותיך</l>
+          <l>איזה מן פתי למה ועל מה</l>
+          <l>אין לי עוד דרך לפתור כל חידותייך</l>
+          <l>אין לזה ערך את תעלומה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את נערה אימרי הגידי נא</l>
+          <l>איך היית לי עיר זרה שיר בלי מנגינה</l>
+          <l>את נערה אימרי הגידי נא</l>
+          <l>איך היית לי עיר זרה שיר בלי מנגינה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל מבטיך שאמרו אותך אוהב</l>
+          <l>פילחו במטרה שקר חיציך</l>
+          <l>למה היה לי איתנך אכזב</l>
+          <l>בעלומינו שולח לבל גליך </l>
+          <l>לא אמצאנו כי הכל כזב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את נערה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

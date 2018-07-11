@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אף אחד לא רואה</title>
+        <singer classification="unknown">אביהו שבת</singer>
+        <writer>סער בדישי</writer>
+        <composer>סער בדישי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אף אחד לא רואה</head>
+        <lg number="1" type="stanza">
+          <l>את אף פעם לא אומרת </l>
+          <l>מה את מרגישה בפנים </l>
+          <l>את לא מנסה מוותרת </l>
+          <l>זה נמשך כמה שנים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הציורים שאת מצירת </l>
+          <l>על מה קורה הם מעידים </l>
+          <l>את לא מראה אותם </l>
+          <l>כי אז יבואו שדים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואף אחד לא רואה </l>
+          <l>אף אחד לא רואה </l>
+          <l>איך הוא לאט מתקרב </l>
+          <l>אף אחד לא רואה </l>
+          <l>אף אחד לא רואה </l>
+          <l>איך את בוכה מכאב </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את שוכבת במיטה מפחדת </l>
+          <l>עוד מעט הוא יכנס </l>
+          <l>את בוכה וכולך רועדת </l>
+          <l>מחכה לאיזה נס </l>
+          <l>וכמעט שאת נרדמת </l>
+          <l>נשמעים הצעדים </l>
+          <l>הוא נכנס בשקט בלי בגדים </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אף אחד לא רואה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,39 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנה לא ינום</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>מן המקורות</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנה לא ינום</head>
+        <lg number="1" type="stanza">
+          <l>הנה לא ינום</l>
+          <l>ולא יישן</l>
+          <l>ולא יישן שומר ישראל</l>
+          <l>הנה לא ינום</l>
+          <l>ולא יישן ולא יישן</l>
+          <l>שומר, שומר ישראל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

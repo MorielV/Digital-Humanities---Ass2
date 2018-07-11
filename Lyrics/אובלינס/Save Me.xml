@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Save Me</title>
+        <singer classification="unknown">אובלינס</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Save Me</head>
+        <lg number="1" type="stanza">
+          <l>It started off so well </l>
+          <l>They said we made a perfect pair </l>
+          <l>I clothed myself in your glory and your love </l>
+          <l>How I loved you, </l>
+          <l>How I cried..... </l>
+          <l>The years of care and loyalty </l>
+          <l>Were nothing but a sham it seems </l>
+          <l>The years belie we lived a lie </l>
+          <l>"I'll love you 'til I die" </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Save me Save me Save me </l>
+          <l>I can't face this life alone </l>
+          <l>Save me Save me Oh... </l>
+          <l>I'm naked and I'm far from home </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>The slate will soon be clean </l>
+          <l>I'll erase the memories, </l>
+          <l>To start again with somebody new </l>
+          <l>Was it all wasted </l>
+          <l>All that love?..... </l>
+          <l>I hang my head and I advertise </l>
+          <l>A soul for sale or rent </l>
+          <l>I have no heart, I'm cold inside </l>
+          <l>I have no real intent </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>Save me Save me Save me </l>
+          <l>I can't face this life alone </l>
+          <l>Save me Save me Oh... </l>
+          <l>I'm naked and I'm far from home </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>Each night I cry, I still believe the lie </l>
+          <l>I'll love you 'til I die</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

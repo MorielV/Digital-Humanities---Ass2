@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הולך לאיבוד 2</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>שמוליק קלוסקי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הולך לאיבוד</head>
+        <lg number="1" type="stanza">
+          <l>לא הפחד שהביא אותי לקום וללכת,</l>
+          <l>לא השכל הישר ולא מילה שנאמרה.</l>
+          <l>רץ ממך כמעט נוגע, בחלום ומציאות,	</l>
+          <l>רץ אליך לא נוגע, שם בלב אין שום טעות.</l>
+          <l>מה מושך אותי אליה, מתרחק מהמסלול,</l>
+          <l>מה מושך אותי אליה, לא רואה את קו הגבול.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי כשאני מאוהב</l>
+          <l>הכל משתבש</l>
+          <l>וזה קורה לי עכשיו</l>
+          <l>ממריא וצולל</l>
+          <l>אל מים ואש,</l>
+          <l>הולך, הולך לאיבוד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בתוכי אני יודע, שום דבר אינו שפוי</l>
+          <l>בטרוף הגעגוע בלי רצון אני שבוי.</l>
+          <l>מה מושך אותי אליה, מתרחק מהמסלול,</l>
+          <l>מה מושך אותי אליה, לא רואה את קו הגבול.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי כשאני מאוהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

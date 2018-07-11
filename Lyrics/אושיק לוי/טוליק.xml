@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טוליק</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>רמה סמסונוב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טוליק</head>
+        <lg number="1" type="stanza">
+          <l>טוליק יושב לו בשקט בחול</l>
+          <l>יושב ומביט על הים הכחול</l>
+          <l>העיניים של טוליק שני כוכבים</l>
+          <l>ואוכל הוא בנחת אשכול ענבים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>טוליק, הי טוליק, תן לי עינב</l>
+          <l>אך טוליק שותק, כמעט נעלב</l>
+          <l>העינב הוא של טוליק כל האשכול</l>
+          <l>רק לו, לו לטוליק, מותר לאכול.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>טוליק יושב לו בשקט בחול</l>
+          <l>יושב ומביט על הים הכחול</l>
+          <l>בעיניים של טוליק דמעות עגולות</l>
+          <l>כי רינה הלכה לה לבד בחולות.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

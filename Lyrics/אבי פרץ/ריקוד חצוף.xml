@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ריקוד חצוף</title>
+        <singer classification="male singer">אבי פרץ</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ריקוד חצוף</head>
+        <lg number="1" type="stanza">
+          <l>בתוך מעגל רואה אותך רוקדת</l>
+          <l>כל כך יפה ומיוחדת</l>
+          <l>אני מביט בך כחולם</l>
+          <l>ובתוכי הלב הולם</l>
+          <l>כמו נחש את מתנועעת</l>
+          <l>ואותי את משגעת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשאת רוקדת</l>
+          <l>כמו אש יוקדת</l>
+          <l>את משחקת</l>
+          <l>באה וחומקת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בא לי לחבק אותך</l>
+          <l>מתוקה שלי מלאך</l>
+          <l>לעצום את העיניים</l>
+          <l>לנשק את השפתיים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>פורשת כנף מודדת צעדייך</l>
+          <l>ומניפה את שתי ידייך</l>
+          <l>בשמלה צמודה לגוף</l>
+          <l>פורצת בריקוד חצוף</l>
+          <l>את מותנייך מנדנדת</l>
+          <l>אין כמוך כשאת רוקדת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשאת רוקדת...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בא לי לחבק אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

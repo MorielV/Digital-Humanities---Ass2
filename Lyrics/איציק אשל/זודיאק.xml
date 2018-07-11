@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זודיאק</title>
+        <singer classification="unknown">איציק אשל</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זודיאק</head>
+        <lg number="1" type="stanza">
+          <l>על השור על הקשת, על הגדי מהומה</l>
+          <l>על אריה על מאזניים, על הדלי מלחמה</l>
+          <l>על דגים קרב בשניים, לבנה בחמה</l>
+          <l>בתולה מסתערת על טלה וסרטן</l>
+          <l>תאומים במחתרת עם עקרב מסוכן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אש בשמיים שלהבת מעל</l>
+          <l>נוגה וצדק טובעים בחלל</l>
+          <l>זודיאק סובב מסתובב הגלגל, מהומה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כך אומנם בן-אדם, מסתובב בעולם</l>
+          <l>בלי כוכב בלי מזל, מאיפה לאי שם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אש בשמיים שלהבת מעל</l>
+          <l>נוגה וצדק טובעים בחלל</l>
+          <l>זודיאק סובב מסתובב הגלגל, מהומה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מי אני שם בלילה שאצא אל הקרב</l>
+          <l>לא אני שם בלילה שאפול כמו כוכב</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אש אש</l>
+          <l>אש בשמיים שלהבת מעל </l>
+          <l>נוגה וצדק טובעים בחלל</l>
+          <l>זודיאק סובב מסתובב הגלגל, מהומה</l>
+          <l>אש בשמיים שלהבת מעל </l>
+          <l>נוגה וצדק טובעים בחלל</l>
+          <l>זודיאק סובב מסתובב הגלגל, מהומה</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אש בשמיים, אש בשמיים,</l>
+          <l>אש בשמיים, אש בשמיים, אש.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

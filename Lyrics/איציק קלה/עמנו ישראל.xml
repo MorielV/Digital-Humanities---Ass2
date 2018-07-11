@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עמנו ישראל</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>איציק קלה</writer>
+        <composer>איציק קלה</composer>
+        <album>לך אלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עמנו ישראל</head>
+        <lg number="1" type="stanza">
+          <l>עמנו ישראל בך רק נתפאר</l>
+          <l>עמנו ישראל בך רק נתפאר</l>
+          <l>זוהי ארץ גאולה ארץ סגולה</l>
+          <l>זוהי ארץ גאולה ארץ סגולה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תברך... ברך אותם האל</l>
+          <l>את עמנו ישראל, תברך היהודים</l>
+          <l>יהיו תמיד מאושרים ושלח אלינו את הגואל</l>
+          <l>כן, כן, כן במהרה אמן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוא נרקוד נשמח כולנו גם נשיר ונהלל</l>
+          <l>בוא נרקוד נשמח כולנו גם נשיר ונהלל</l>
+          <l>שתחיה מדינתנו בעמנו ישראל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

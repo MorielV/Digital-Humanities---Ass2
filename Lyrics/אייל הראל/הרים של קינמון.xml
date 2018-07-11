@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הרים של קינמון</title>
+        <singer classification="unknown">אייל הראל</singer>
+        <writer>אייל הראל</writer>
+        <composer>ברק רוקנשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הרים של קינמון</head>
+        <lg number="1" type="stanza">
+          <l>הרים של קינמון</l>
+          <l>על עוגה גדולה</l>
+          <l>שנינו על דובדבן</l>
+          <l>מביטים על העולם</l>
+          <l>הים		 הו 	הים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עולים במדרגות בבית הזכוכיות</l>
+          <l>נשברים לאור הנרות</l>
+          <l>הים		   הו הים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סיפור אהבה לא הספקנו לחוות</l>
+          <l>גלים מתנפצים מול עיניים בוהות</l>
+          <l>סיפור אהבה לא הספקנו לחוות</l>
+          <l>גלים מתנפצים מתנפצים מתנפצים</l>
+          <l>הים  	הו הים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יורדים במדרגות בארץ התלאות</l>
+          <l>נמסים לאור הבטחות</l>
+          <l>הים 		הו הים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza" />
+        <lg number="6" type="stanza">
+          <l>סיפור אהבה ...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza" />
+        <lg number="8" type="stanza">
+          <l>ים פחדים</l>
+          <l>ים תקוות</l>
+          <l>ים מלא חלומות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יאסו</title>
+        <singer classification="unknown">אביעד סהר</singer>
+        <writer>אביעד סהר</writer>
+        <composer>אביעד סהר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יאסו</head>
+        <lg number="1" type="stanza">
+          <l>מילה פשוטה שמיוון</l>
+          <l>המזיזה כאן כל אגן</l>
+          <l>רק תרקוד ותשמח</l>
+          <l>את היאסו לעולם אל תשכח</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יאסו יאסו זאת מילה ביוונית</l>
+          <l>יאסו יאסו כל רחבה תעיר תקפיץ</l>
+          <l>יאסו יאסו בכל פינה בכל העיר</l>
+          <l>יאסו יאסו נכון שזה פזמון להיט</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מילה פשוטה שמיוון</l>
+          <l>המזיזה כאן כל אדם</l>
+          <l>רק תרקוד ותצחק ובקול גדול</l>
+          <l>את הפזמון אתה תצעק</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יאסו יאסו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

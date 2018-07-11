@@ -1,0 +1,35 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הניגון הטוב</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>שייקה פייקוב</writer>
+        <composer>שייקה פייקוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הניגון הטוב</head>
+        <lg number="1" type="stanza">
+          <l>כי אנחנו נושאים על כתפינו את ימייך,עם החום ועם הכאב,עם האמת אשר בלב. </l>
+          <l>כן עדיין נושאים על כתפינו את ימייך,עם הזמר הנוגע,עם הזמר האוהב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

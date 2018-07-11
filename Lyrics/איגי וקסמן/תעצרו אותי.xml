@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תעצרו אותי</title>
+        <singer classification="female singer">איגי וקסמן</singer>
+        <writer>איגי וקסמן</writer>
+        <composer>שי להב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תעצרו אותי</head>
+        <lg number="1" type="stanza">
+          <l>תעצרו אותי! תעצרו אותי!</l>
+          <l>אני מטורפת, אני אשה אחרת</l>
+          <l>הייתי כלבה, הייתי רעה</l>
+          <l>יכולתי להזיק, לך ולסביבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי אמר ששיקרתי לך</l>
+          <l>אני אוהבת אותך וגם אותך וגם אותך שם בפינה</l>
+          <l>אני אוהבת אותך וגם אותך וגם אותך שם בפינה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תנו לי לשתות</l>
+          <l>אני צמאה</l>
+          <l>תנו לי לעשות שטויות, לעשות שטויות</l>
+          <l>תנו לי להנות - אל תכבלו אותי</l>
+          <l>תוציאו אותי</l>
+          <l>אני, כן, הקטנה מאחור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי אמר ששיקרתי לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

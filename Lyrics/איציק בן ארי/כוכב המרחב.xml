@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כוכב המרחב</title>
+        <singer classification="unknown">איציק בן ארי</singer>
+        <writer>יואב גינאי</writer>
+        <composer>נחלת הכלל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כוכב המרחב</head>
+        <lg number="1" type="stanza">
+          <l>מעל הרי מזרח עד קוו המים </l>
+          <l>לאורך ים תיכון וים אדום </l>
+          <l>זורח לו כוכב מתוך שמיים </l>
+          <l>כוכב מזל קטן של המקום. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עתיק זה הכוכב בשמי הערב </l>
+          <l>אלפי שנים מביט מהחלל </l>
+          <l>ומלטף את המרחב בלי הרף </l>
+          <l>ומחבק אותו כמו עולל. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כוכב מזל כל כוחותיו כבר קלו </l>
+          <l>הוא התעייף לראות עוד חרבות </l>
+          <l>סבלנותו קצרה בסוף יפול הוא </l>
+          <l>ברגע שימאס הוא בקרבות. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יובלות יובלות צופה הוא עם העייט </l>
+          <l>מזרח תיכון יפה כמו בתנ"ך </l>
+          <l>אבל על המדבר ועץ הזית </l>
+          <l>עשן ואש יורדים כמו מסך </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כוכב מזל כל כוחותיו כבר קלו </l>
+          <l>הוא התעייף לראות עוד חרבות </l>
+          <l>סבלנותו קצרה בסוף יפול הוא </l>
+          <l>ברגע שימאס הוא בקרבות.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

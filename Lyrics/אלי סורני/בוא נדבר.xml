@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוא נדבר</title>
+        <singer classification="male singer">אלי סורני</singer>
+        <writer>ארז ברזוליק</writer>
+        <composer>אלי סורני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוא נדבר</head>
+        <lg number="1" type="stanza">
+          <l>אתה לא חייב להסכים על כל דבר</l>
+          <l>אתה בטח לא חייב את כולם לאהוב</l>
+          <l>וגם אם קשה ואתה נשבר</l>
+          <l>תעצור לשניה בצד ותחשוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש בך המון אתה יודע</l>
+          <l>ויש תמיד מי ששומע</l>
+          <l>וגם כשזה מאוד פוגע</l>
+          <l>את הכוח תשמור למשהו טוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש דרך אחרת - אפשר להסתדר</l>
+          <l>יש דרך אחרת - היא בטוחה יותר</l>
+          <l>אז בוא נדבר, בוא נדבר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>גם אם הכעס בפנים שורף נורא</l>
+          <l>ודוחף אותך פתאום לשלוף אגרוף</l>
+          <l>תמיד תדע שזה יפגע בחזרה</l>
+          <l>לאלימות יש התחלה ואין לה סוף</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יש בך המון אתה יודע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

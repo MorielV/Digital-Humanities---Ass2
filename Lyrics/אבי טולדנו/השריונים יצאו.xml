@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השריונים יצאו 2</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>חיים חפר</writer>
+        <composer>יוחנן זראי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השריונים יצאו</head>
+        <lg number="1" type="stanza">
+          <l>השריונים יצאו בחריקת שרשרת</l>
+          <l>וכל גופם צבוע צבע אדמה,</l>
+          <l>אל שער הבסיס לוותה אותו חיוורת</l>
+          <l>וכמו היתה אומרת,</l>
+          <l>הנה המלחמה...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אז את גופו הוציא הוא דרך הצריח</l>
+          <l>והאבק שיחק את משחקו באור,</l>
+          <l>ולא היה להם על מה עוד להשיח,</l>
+          <l>כי אם שוב להבטיח,</l>
+          <l>ילדה, אני אחזור...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>והיא ניצבה</l>
+          <l>כולה דוממת</l>
+          <l>ואהבה</l>
+          <l>את מבטו</l>
+          <l>והמכונה</l>
+          <l>היתה רועמת</l>
+          <l>וזיכרונה</l>
+          <l>היה איתו.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הקרב קצר היה והתחולל לפתע,</l>
+          <l>הסילונים עברו ממעל בנהימה,</l>
+          <l>וכשהטנק שלו נפגע בשתי רקטות,</l>
+          <l>הוא בתוך אש לוהטת</l>
+          <l>הוסיף ללחוש את שמה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וכשחזר הוא, בשער חרוך עם ערב,</l>
+          <l>הוא רק לחש לה, ילדתי, הו ילדתי,</l>
+          <l>הקרב הזה היה ודאי נגמר אחרת,</l>
+          <l>לולא בכל הדרך</l>
+          <l>נשאתי שמך איתי...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>והיא ניצבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

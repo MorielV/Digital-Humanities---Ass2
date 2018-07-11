@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עשן שחור</title>
+        <singer classification="unknown">אל המשורר</singer>
+        <writer>אורי מייזלמן</writer>
+        <composer>טל גולדברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עשן שחור</head>
+        <lg number="1" type="stanza">
+          <l>איך זה קרה שאין לי ברירה אלא למות היום </l>
+          <l>ביער נורא, נסה באימה על נפשי </l>
+          <l>והאש המפתה, נוראה, מכלה הכל לשחור הבערה </l>
+          <l>וזאת אני האיילה כלואה, כנועה </l>
+          <l>וגם גופי משנה צבעו לאפר ועפר. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והנה בני כנף, האם מטוס זה או מלאך? </l>
+          <l>מי יקח אותי ראשון? </l>
+          <l>ואלוהים? עשן שחור סמיך מסתיר אותי ממך היום </l>
+          <l>עשן שחור סמיך מסתיר אותי ממך היום </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וניסיתי, בחיי. תש כוחי, רפו ידי </l>
+          <l>אל מול הלהבות </l>
+          <l>לא הספקתי לומר להתראות </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והנה בני כנף...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואין עוד זמן, שנייה, לשאול </l>
+          <l>היכן זה עדן, איפה שאול? </l>
+          <l>האש ניצחה אותי היום </l>
+          <l>חושבת עליכם. אני נפרדת לשלום.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

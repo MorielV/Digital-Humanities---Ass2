@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הוא לא שווה הרבה</title>
+        <singer classification="unknown">אלון אולארצ יק</singer>
+        <writer>אירבינג מילס</writer>
+        <composer>אירבינג מילס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הוא לא שווה הרבה</head>
+        <lg number="1" type="stanza">
+          <l>זה לא שווה הרבה אם חסר לו ת'זה </l>
+          <l>הוא לא טוב לכלום - אין לו פוקוס אין לו זום </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ולא מספיק אם הוא מתוק מדבש </l>
+          <l>כי אם חסר לו גרוב אז הוא חלש </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חבל על הזמן כי חסר לו משהו קטן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

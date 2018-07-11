@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זיקוקים 2</title>
+        <singer classification="unknown">אניטה גסין</singer>
+        <writer>טל רביב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זיקוקים</head>
+        <lg number="1" type="stanza">
+          <l>עוד לא סגרה עם עצמה</l>
+          <l>שמותר לה גם לחלום </l>
+          <l>וכבר זה התגשם</l>
+          <l>עכשיו הפחד מהאור</l>
+          <l>עושה לה קצת קשה לנשום</l>
+          <l>ובטח גם בזה יש מישהו אשם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זיקוקים</l>
+          <l>השמיים שלה צמאים</l>
+          <l>לזיקוקים</l>
+          <l>הראש אולי מבין שזו טעות</l>
+          <l>אבל בשביל הלב</l>
+          <l>כל יום זה יום העצמאות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד לא סגרה עם עצמה</l>
+          <l>בת כמה היא היום</l>
+          <l>ועוד מעט יומהולדת</l>
+          <l>הלבד הזה תופס לה את כל המקום</l>
+          <l>והנה יש גם מישהו בדלת, בדלת...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זיקוקים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז אולי היא שוב תברח</l>
+          <l>או שאולי פשוט תסמוך על הזמן שייקח</l>
+          <l>אחריות</l>
+          <l>ויחליט בשבילה על הכל</l>
+          <l>אלוהים גדול</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זיקוקים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

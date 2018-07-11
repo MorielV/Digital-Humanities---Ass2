@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי נרד אל הים</title>
+        <singer classification="unknown">אדיר גץ</singer>
+        <writer>אדיר גץ</writer>
+        <composer>missing</composer>
+        <album>אדיר גץ</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי נרד אל הים</head>
+        <lg number="1" type="stanza">
+          <l>השמש מעלי וכמה חם</l>
+          <l>מגלה לי שהקיץ כאן</l>
+          <l>בקצב המנגינה הולך</l>
+          <l>בלי לשאול למה כמה ואיך</l>
+          <l>אני רוצה אותך איתי</l>
+          <l>רוצה אותך רק בשבילי</l>
+          <l>אז בואי נצא לדרך כמה שיותר מהר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי נרד אל הים</l>
+          <l>נאהב שם בין החולות</l>
+          <l>אני ואת בשמיים</l>
+          <l>באנו עם כולם להנות</l>
+          <l>אז בואי נרד אל הים</l>
+          <l>נאהב שם ללא גבולות</l>
+          <l>אני האש את המים</l>
+          <l>הולך שמח להיות </l>
+          <l>אז בואי נרד אל הים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתוך גלי הים את מופיעה</l>
+          <l>שיער פזור עוצרת נשימה</l>
+          <l>את כל החוף את משגעת</l>
+          <l>כמו שרק את יודעת</l>
+          <l>רוצה אותך צמוד אלי</l>
+          <l>רוצה אותך בין זרועתי</l>
+          <l>אז בואי נצא לדרך כמה שיותר מהר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואי נרד אל הים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

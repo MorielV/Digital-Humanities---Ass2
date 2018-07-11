@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תניח לנפשי</title>
+        <singer classification="unknown">איילה טליאס</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>אריה ברקוביץ'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תניח לנפשי</head>
+        <lg number="1" type="stanza">
+          <l>אל תמתין לי בלילות</l>
+          <l>עם תקוות ללא גבולות</l>
+          <l>אל תשלח לי חיוכים</l>
+          <l>בטח לא עוד זר פרחים</l>
+          <l>הרבה שנים בינינו מפרידות</l>
+          <l>הדרכים ביחד אבודות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אולי תניח לנפשי</l>
+          <l>ילדה גדולה הנני</l>
+          <l>תלך הלילה לחופשי</l>
+          <l>אתה צעיר ממני.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה סיפור של אהבה</l>
+          <l>בלי עתיד ובלי תקווה</l>
+          <l>כי הלב לא מאושר</l>
+          <l>והזמן שלך נגמר</l>
+          <l>נערתך לבד שוב מחכה</l>
+          <l>ואני ממך כה רחוקה. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אולי תניח לנפשי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

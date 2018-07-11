@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנסה 2</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנסה</head>
+        <lg number="1" type="stanza">
+          <l>אני שוכב על הספה הישנה </l>
+          <l>עם מחשבות בלי הפסקה </l>
+          <l>ומשחקות המחשבות תופסת </l>
+          <l>האחת בונה והשניה הורסת </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לזמן יש את הזמן שלו להתקדם </l>
+          <l>החלטנו לא להיות בקשר </l>
+          <l>ולא יודע מי רודף אחרי מי </l>
+          <l>אם הוא שאחרי או שאני </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רק מנסה להיות שפוי </l>
+          <l>אני מנסה מנסה מנסה </l>
+          <l>להיות אלוף ולא כבוי </l>
+          <l>אני מנסה מנסה מנסה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ולפעמים אני מרגיש קצת כמו עץ </l>
+          <l>נטו אותי לצד הדרך </l>
+          <l>והחיים זורמים ימינה שמאלה </l>
+          <l>ורק אני למטה ורגוע </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רק מנסה להיות שפוי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

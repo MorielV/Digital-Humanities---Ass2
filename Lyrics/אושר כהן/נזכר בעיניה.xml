@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נזכר בעיניה</title>
+        <singer classification="unknown">אושר כהן</singer>
+        <writer>רונן מיכאלוב</writer>
+        <composer>רונן מיכאלוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נזכר בעיניה</head>
+        <lg number="1" type="stanza">
+          <l>בין זרועותיי כמלכה, דאגתי תמיד שרק תחייך</l>
+          <l>גם ברגעים של שתיקה, לא האמנתי שפתאום היא תלך</l>
+          <l>עכשיו, כמו חלום שחוזר על עצמו</l>
+          <l>מדבר אל עצמי בלילות, מתגעגע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ונזכר בעיניה, בחיים שעברו בלעדיה</l>
+          <l>עוד התקף געגוע אליה</l>
+          <l>מחכה שהיום יעבור</l>
+          <l>ובשנתי היא תחזור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אפילו כשהיא רחוקה, המשכתי בשקט אותה לאהוב</l>
+          <l>איך היא כל כך חזקה, נשארתי להרגיש את הסוף</l>
+          <l>עכשיו, כמו חלום שחוזר על עצמו</l>
+          <l>מדבר אל עצמי בלילות, מתגעגע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ונזכר בעיניה, בחיים שעברו בלעדיה</l>
+          <l>עוד התקף געגוע אליה</l>
+          <l>מחכה שהיום יעבור</l>
+          <l>ובשנתי היא תחזור</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

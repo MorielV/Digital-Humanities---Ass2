@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחוף של פורטוגל</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>זאב נחמה</writer>
+        <composer>אקורדים</composer>
+        <album>חייל של אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחוף של פורטוגל</head>
+        <lg number="1" type="stanza">
+          <l>חיפשתי אהבה כל החיים</l>
+          <l>הפלגתי על ספינה נודדת</l>
+          <l>חציתי יבשות וגם ימים</l>
+          <l>ולא היתה אישה אוהבת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בנמל קטן בחוף של פורטוגל</l>
+          <l>על מיגדלור היא שם חיכתה לי</l>
+          <l>גלי הים הביאו לי מזל</l>
+          <l>חוף מבטחים אצלה מצאתי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שוב, הלילה אני אשוב</l>
+          <l>כמו פרפר לפרח</l>
+          <l>אני אצלה אורח</l>
+          <l>שוב, הלילה זה חשוב</l>
+          <l>עכשיו אני יודע</l>
+          <l>שמצאתי אהבה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל סימטאות הכפר לקחה אותי</l>
+          <l>אמרה לי: "כאן נחיה לנצח</l>
+          <l>הפלגת כבר מספיק למעני</l>
+          <l>היה לי בעל ולא אורח"</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>למענך הכל אהובתי</l>
+          <l>את הספינה אמכור עכשיו</l>
+          <l>אבנה לך מיגדלור של אוהבים</l>
+          <l>ומסביבו חומות זהב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שוב, הלילה אני אשוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

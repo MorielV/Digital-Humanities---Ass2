@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלב של אמא</title>
+        <singer classification="unknown">אופיר כהן</singer>
+        <writer>אופיר כהן</writer>
+        <composer>אופיר כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלב של אמא</head>
+        <lg number="1" type="stanza">
+          <l>כמה מילים, כמה שבחים </l>
+          <l>כבר נאמרו על אמא</l>
+          <l>כמה שירים, כמה צלילים</l>
+          <l>עוד ינגנו לאמא</l>
+          <l>כי אמא אחת יש בלב</l>
+          <l>ואותה אני אוהב</l>
+          <l>שומרת היא עליי</l>
+          <l>שלא אמעד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואם אהיה קצת עצוב אל אמא אשוב</l>
+          <l>ואדע שאני לעולם לא לבד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תהיה אשר תהיה</l>
+          <l>אתה בלב של אמא</l>
+          <l>תפילתה נושאת לאל אותך לשמור</l>
+          <l>ואם לשוב ביקשת תהיה תמיד זאת אמא</l>
+          <l>שתמתין לך עד שתחזור</l>
+          <l>שתמתין לך עד שתחזור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ים של חום ואהבה עליך הרעיפה אמא</l>
+          <l>וכשכשלת בלי תקווה מי שתמכה זאת אמא</l>
+          <l>אם אמא אחת יש בלב ואותה אני אוהב</l>
+          <l>שומרת היא עליי שלא אמעד</l>
+          <l>ואם אהיה קצת עצוב אל אמא אשוב</l>
+          <l>ואדע שאני לעולם לא לבד</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תהיה אשר תהיה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

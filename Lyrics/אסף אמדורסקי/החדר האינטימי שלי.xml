@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החדר האינטימי שלי</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החדר האינטימי שלי</head>
+        <lg number="1" type="stanza">
+          <l>אני ניצב מעל ברך ימין</l>
+          <l>והגב שלי מכופף קדימה</l>
+          <l>המבט שלי מרוכז במוט ברזל</l>
+          <l>שניצב מולי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כך ציירתי תמונה</l>
+          <l>על הקיר הלבן</l>
+          <l>וממול התמונה</l>
+          <l>יושב ומסתכל</l>
+          <l>יושב ומסתכל על התמונה</l>
+          <l>מסתכלת עלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני בתוך הבית נמצא</l>
+          <l>בתוך החדר האינטימי שלי</l>
+          <l>האינטימי שלי</l>
+          <l>שלי החדר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ולפעמים</l>
+          <l>סערה מתקרבת</l>
+          <l>והים גועש</l>
+          <l>והרוח גלים עושה</l>
+          <l>הרבה גלים על פני הים</l>
+          <l>ובימים חמים חמים</l>
+          <l>כשהשמש מלהטת</l>
+          <l>אז אנשים הולכים ומתרחצים</l>
+          <l>ומשתזפים על שפת הים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אבל אני בתוך הבית נמצא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

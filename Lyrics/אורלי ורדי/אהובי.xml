@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהובי</title>
+        <singer classification="unknown">אורלי ורדי</singer>
+        <writer>אורלי ורדי</writer>
+        <composer>מורן משיח</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהובי</head>
+        <lg number="1" type="stanza">
+          <l>בוא לכאן אהוב שלי, </l>
+          <l>הושט ידך וחבק אותי. </l>
+          <l>רוצה לחוש את גופך החם, </l>
+          <l>פרי אדמדם כשפתי דובדבן. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בוא אלי אהוב שלי, </l>
+          <l>לטף וזרום לתוך ליבי. </l>
+          <l>חיוך רחב שלחת לי, </l>
+          <l>כן, אתה הוא רק יקירי. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוא לכאן אהוב שלי, </l>
+          <l>משאלתך היא משאת ליבי. </l>
+          <l>תמיד היית לצידי, </l>
+          <l>כשרצית רק אותי. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בוא אלי אהוב שלי... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשנסתכל רק בתמונות </l>
+          <l>וניזכר בחלומות. </l>
+          <l>עודנו יחד לתמיד, </l>
+          <l>כשנהיה כך בעתיד. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בוא אלי אהוב שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

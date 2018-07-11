@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תרקדי</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>טל שגב</writer>
+        <composer>טל שגב</composer>
+        <album>מציאות אחרת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תרקדי</head>
+        <lg number="1" type="stanza">
+          <l>אני מרגיש שאני ים </l>
+          <l>כשאת באה אלי</l>
+          <l>זורקת מילים פוחדת אולי</l>
+          <l>רוצה שאני אקשיב רוצה שאני אבין </l>
+          <l>שאני אוהב אותך שנתחבק מבפנים</l>
+          <l>על העצב שלך שעובר גם עלי</l>
+          <l>ועל אמא שלך לה לה לה...</l>
+          <l>אני זוכר שהיא נסעה נסיעה רחוקה</l>
+          <l>איך הפכת לילדה דורשת מגע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תרקדי תרקדי תרקדי</l>
+          <l>כי אני לא מוכן להפסיק</l>
+          <l>את מה שבינך לביני</l>
+          <l>עד שנשלים</l>
+          <l>תרקדי תרקדי תרקדי</l>
+          <l>תיהני לך ועוד תרקדי</l>
+          <l>כי אני לא מוכן שתפסידי רגע אחד בגללי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני מרגיש שאני ים כשאת באה אלי</l>
+          <l>יושבת מולי נרגעת אולי</l>
+          <l>פושטת חולצה כי חם לך ודאי</l>
+          <l>את הכי יפה בעולם בעיני</l>
+          <l>אני מת שנחיה ושיהיה לנו טוב</l>
+          <l>שנפסיק כבר לחשוב שנאהב לאהוב</l>
+          <l>מנשק את הרע כי אין פה ברירה</l>
+          <l>גשם שוטף אני רוצה נורא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שתרקדי תרקדי תרקדי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

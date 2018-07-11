@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דגים</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>להרגיש</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דגים</head>
+        <lg number="1" type="stanza">
+          <l>דג גדול אוכל דג קטן שם בים</l>
+          <l>וכאן בן אדם מבזבז בן אדם</l>
+          <l>אני לא רוצה לאבד אותך לעולם</l>
+          <l>אני לא רוצה שהאהבה תיגמר ותשכח</l>
+          <l>החברים יעזבו לביתם</l>
+          <l>אני לא רוצה לאבד אותך לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>או לה לה לה</l>
+          <l>תמיד יהיה תמיד היה</l>
+          <l>דג גדול דג קטן</l>
+          <l>אבל אני לא מוכן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני לא רוצה שהאנשים</l>
+          <l>יסבלו ישנאו ילחמו</l>
+          <l>ישפך כאן עוד דם</l>
+          <l>אני לא רוצה לאבד אותך</l>
+          <l>לא רוצה לאבד אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>או לה לה לה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני לא רוצה שילדים</l>
+          <l>ינוצלו ויבכו</l>
+          <l>יפחדו ויגדלו אל תוך זעמם</l>
+          <l>אני לא רוצה לאבד אותך</l>
+          <l>לא רוצה לאבד אותך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>או לה לה לה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

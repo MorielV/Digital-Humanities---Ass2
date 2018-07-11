@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר בעברית</title>
+        <singer classification="band">איזולירבנד</singer>
+        <writer>מוטי דיכנה</writer>
+        <composer>רוני וייס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר בעברית</head>
+        <lg number="1" type="stanza">
+          <l>בבוקר קמתי טיאטאתי ת'תא</l>
+          <l>בערב טיאטאתי ת'תא</l>
+          <l>בלילה אתה תטאטא את התא</l>
+          <l>כי בבוקר טיאטאתי ת'תא</l>
+          <l>כיוון שטיאטאתי אני את התא</l>
+          <l>אז תורך לטאטא את התא</l>
+          <l>אני במיטה ואתה - תטאטא את התא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מטאטאים את התא</l>
+          <l>מטאטאים, מטאטאים</l>
+          <l>כי לי לטאטא זה בכלל לא מתאים</l>
+          <l>כי אתה תטאטא</l>
+          <l>ואני אשתה תה</l>
+          <l>כי אחד הוא שוטה</l>
+          <l>ושני שותה תה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז מה אם בבוקר טיאטאת את התא</l>
+          <l>בבוקר טיאטאת את התא</l>
+          <l>בבוקר את טיאטאת את התא</l>
+          <l>תטאטאי גם כעת את התא</l>
+          <l>במטותא ממך -</l>
+          <l>במטותא ממך</l>
+          <l>תטאטאי גם כעת את התא</l>
+          <l>ואם לא תטאטא - תטאטא אשתך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מטאטאים את התא...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם אני אשתה תה ואתה תשתה תה</l>
+          <l>אז מי את התא יטאטא?</l>
+          <l>אם אני אטאטא ואתה תטאטא</l>
+          <l>אז מי בכלל ישתה תה?</l>
+          <l>אם לא תטאטא אז אני אל התה</l>
+          <l>את כל הלכלוך אטאטא</l>
+          <l>וכדי לערבב את התה - תצטרך מטאטא!</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מטאטאים את התא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

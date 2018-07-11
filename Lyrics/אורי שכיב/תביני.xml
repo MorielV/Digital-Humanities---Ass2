@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תביני 2</title>
+        <singer classification="unknown">אורי שכיב</singer>
+        <writer>אורי שכיב</writer>
+        <composer>אורי שכיב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תביני</head>
+        <lg number="1" type="stanza">
+          <l>יום אחד עובר בקושי</l>
+          <l>יום אחד עובר לאט</l>
+          <l>יום אחד עובר בלי שאף אחד לא שם לב שעזבת</l>
+          <l>יום אחד מספיק להיות בלעדייך כדי להבין</l>
+          <l>את האחת</l>
+          <l>כמה ימים יעברו עד שתביני שעשית טעות שהלכת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תביני</l>
+          <l>תביני ששכחתי</l>
+          <l>איך לאהוב בכל כוחי</l>
+          <l>כי כשהלכת אני הקשתי את ליבי</l>
+          <l>תביני</l>
+          <l>תביני שחיכיתי</l>
+          <l>עד שכבר עייפה נפשי</l>
+          <l>עד שבאתי ומצאתי את החצי השני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אך הזמן עבר מאותה אהבה ישנה</l>
+          <l> זאת שכבר נראה לי נשכחה מראשך</l>
+          <l>המשכתי הלאה התאהבתי שוב וכשאני נזכר עולה לי חיוך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תביני</l>
+          <l>תביני ששכחתי</l>
+          <l>איך לאהוב בכל כוחי</l>
+          <l>כי כשהלכת אני הקשתי את ליבי</l>
+          <l>תביני</l>
+          <l>תביני שחיכיתי</l>
+          <l>עד שכבר עייפה נפשי</l>
+          <l>עד שבאתי ומצאתי את החצי השני</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

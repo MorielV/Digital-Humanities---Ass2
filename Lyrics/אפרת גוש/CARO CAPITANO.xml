@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CARO CAPITANO</title>
+        <singer classification="female singer">אפרת גוש</singer>
+        <writer>מונטי פיורי</writer>
+        <composer>מונטי פיורי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>CARO CAPITANO</head>
+        <lg number="1" type="stanza">
+          <l>Caro capitano, portami lontano…</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>E' l'ora di partire e venire da te</l>
+          <l>Con la mia moto presto saro da te</l>
+          <l>Ti portero' lontano nessun confine per me</l>
+          <l>Oh mio bel viso nessun altro vorrei</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Rosso bianco verde tricolore</l>
+          <l>Che velocita' che senzazione</l>
+          <l>Ti portero' lontano nessun confine per me</l>
+          <l>Oh mio bel viso nessun altro vorrei</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>Italiano! Italiano!</l>
+          <l>Oh che bello scoprire il mondo insieme a te</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>Caro capitano portami lontano…</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

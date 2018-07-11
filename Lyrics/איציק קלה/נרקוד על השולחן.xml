@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נרקוד על השולחן</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>דודו ברק</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נרקוד על השולחן</head>
+        <lg number="1" type="stanza">
+          <l>בואי הנה נהדרת.</l>
+          <l>בואי הנה נערה.</l>
+          <l>למה את לא מתעוררת?</l>
+          <l>מה קרה לך, מה קרה?</l>
+          <l>למה את כבר מוותרת,</l>
+          <l>מה קרה לך, מה קרה?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שושן וזעתר וריחן.</l>
+          <l>יסמין וקטורת.</l>
+          <l>שיר פולחן.</l>
+          <l>גבינות ויין.</l>
+          <l>צאן בחאן.</l>
+          <l>נרקוד בשניים על השולחן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את הכל נשכח בינתיים,</l>
+          <l>את המי ואת המה.</l>
+          <l>ונעוף אל השמיים,</l>
+          <l>משורשי האדמה.</l>
+          <l>רק אנחנו כאן, בשניים,</l>
+          <l>לירח, לחמה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שושן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

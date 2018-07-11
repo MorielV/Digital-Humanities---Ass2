@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את לי הבית</title>
+        <singer classification="male singer">אביהו מדינה</singer>
+        <writer>אביגדור קהלני</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את לי הבית</head>
+        <lg number="1" type="stanza">
+          <l>מהלך כשיכור בשדותייך</l>
+          <l>נוגע לא נוגע בגופך</l>
+          <l>כאייל מדלג בין סלעייך</l>
+          <l>וברק בעיני מיופייך</l>
+          <l>עוד אפריח פרחים בתלמייך</l>
+          <l>ובזר אעטור את ראשך</l>
+          <l>ואת לקראתי פרסי ידייך</l>
+          <l>אבוא ואשכון בחיקך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את לי הבית את קרן אור</l>
+          <l>בליבי חקקתי דמותך</l>
+          <l>ולך נולדתי לאהוב ולשמור</l>
+          <l>ולעד לא אשבע מיופייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המטר עוד ירווה את שדותייך</l>
+          <l>וטל ילטף את גופך</l>
+          <l>גם רקפת תבקע בין סלעייך</l>
+          <l>תקשט בצבעה את יופייך</l>
+          <l>עוד אפרח כאילן בתלמייך</l>
+          <l>ואגדל עד אגע בראשך</l>
+          <l>ואת תאמציני בידייך</l>
+          <l>מנוח אמצא בחיקך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את לי הבית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

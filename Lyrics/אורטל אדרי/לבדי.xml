@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לבדי 5</title>
+        <singer classification="unknown">אורטל אדרי</singer>
+        <writer>גל שריג</writer>
+        <composer>אורטל אדרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לבדי</head>
+        <lg number="1" type="stanza">
+          <l>תראה אותי</l>
+          <l>אני שבויה בתוך עצמי</l>
+          <l>מנסה לשרוד עמוק בבדידותי</l>
+          <l>שוב לבדי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קח אותי</l>
+          <l>אל העבר שבו ידענו לאהוב מבלי לחשוב</l>
+          <l>כשאפלה נופלת רק את עצמי שואלת מאיפה להתחיל</l>
+          <l>תקח ממני חלק אין בי עוד מקום אותך שוב להכיל</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מאותו היום הבטן מתהפכת</l>
+          <l>ולא נשאר מקום לאן אני הולכת</l>
+          <l>אין אוויר לנשום</l>
+          <l>תשאיר לי איזו דלת שאוכל לחזור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה איתי</l>
+          <l>נזכרת איך לאט נגעת בליבי בנשמתי</l>
+          <l>עכשיו אני בכל כוחי נלחמת</l>
+          <l>נלחמת רק על שפיותי ועל רוחי </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מאותו היום הבטן מתהפכת</l>
+          <l>ולא נשאר מקום לאן אני הולכת</l>
+          <l>אין אוויר לנשום</l>
+          <l>תשאיר לי איזו דלת שאוכל לחזור</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מתוך כל הפחדים אוספת את גופי</l>
+          <l>אני בורחת וצועקת אל השקט</l>
+          <l>רועדת מבפנים נשארתי רק אני בעולמי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

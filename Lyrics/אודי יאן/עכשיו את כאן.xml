@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עכשיו את כאן</title>
+        <singer classification="unknown">אודי יאן</singer>
+        <writer>איילה גסקו</writer>
+        <composer>אודי יאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עכשיו את כאן</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו את כאן </l>
+          <l>צילך הולך בעקבותייך </l>
+          <l>מותיר בחול עוד כמה משלו </l>
+          <l>עכשיו את כאן ומתחילה לכאוב </l>
+          <l>את כל מה שהפסדת כשלא היית קרוב </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עכשיו את כאן ומתקשה לראות </l>
+          <l>את מה שיש כבר בין ידייך </l>
+          <l>עכשיו את כאן ומתקשה לראות </l>
+          <l>את כל הטוב שעוד יבוא </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו את כאן </l>
+          <l>אל תשכחי להסתכל </l>
+          <l>מהמקום שלי לא רואים ת'צל </l>
+          <l>עכשיו את כאן </l>
+          <l>צילך הולך בעקבותייך </l>
+          <l>מותיר בחול עוד כמה משלו </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עכשיו את כאן ומתקשה לראות ...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עכשיו את כאן </l>
+          <l>אל תשכחי להסתכל </l>
+          <l>מהזווית שבה עמדתי אוהו ...</l>
+          <l>עכשיו את כאן ומתחילה לכאוב</l>
+          <l>את כל מה שהפסדת </l>
+          <l>עכשיו אני הולך </l>
+          <l>הולך ....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

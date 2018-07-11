@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איי לאב יו לנצח</title>
+        <singer classification="female singer">אסאלה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איי לאב יו לנצח</head>
+        <lg number="1" type="stanza">
+          <l>תמיד אמרתי מסוכן להתאהב</l>
+          <l>אולי פחדתי לשבור לי את הלב</l>
+          <l>היה בי פחד לתת לקחת</l>
+          <l>והתרגלתי ללבד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פתאום בבת אחת נכנסת לחיי</l>
+          <l>נבהלתי מהאושר שנפל עלי</l>
+          <l>כשהתעוררתי לך אמרתי</l>
+          <l>שנינו יחד לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איי לאב יו לנצח אתה היחיד </l>
+          <l>איי לאב יו לנצח איתך לתמיד</l>
+          <l>אני מבטיחה להיות רק שלך</l>
+          <l>לעד, לעד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה יודע למלא את הנשמה</l>
+          <l>בונה בתוך ליבי קומה ועוד קומה</l>
+          <l>אני נכנעת לך נשבעת</l>
+          <l>שנינו יחד לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>איי לאב יו לנצח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

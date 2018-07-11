@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נעימה קלה</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>שמרית אור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נעימה קלה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>כן היא שוב עולה שוב ושוב עולה</l>
+          <l>ממלאת אותי בשמחה גדולה</l>
+          <l>מתנגנת לנה בפשטות של המנגינה קלה</l>
+          <l>שוב מהתחלה כן היא שוב עולה</l>
+          <l>ורגלי נשאת כמו האיילה</l>
+          <l>ולשעה קלה העולם נפלא</l>
+          <l>בנעימה קלה</l>
+          <l>ושוב התחלה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשסביב כה אפור</l>
+          <l>והלב כה כבד</l>
+          <l>שוב דומה שאין עוד</l>
+          <l>והעצב כבר צובט</l>
+          <l>כשנדמה שזה הסוף</l>
+          <l>שכבר אי אפשר לשאת</l>
+          <l>אין את מי עוד לאהוב</l>
+          <l>ואין טעם עוד לצאת</l>
+          <l>כן היא תמיד אותי מוצאת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כן היא שוב עולה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואם האופק קודר</l>
+          <l>ואין כח עוד לתת</l>
+          <l>שוב נדמה שיותר</l>
+          <l>אי אפשר פשוט לשאת</l>
+          <l>שוב היא אותי תמיד מוצאת.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

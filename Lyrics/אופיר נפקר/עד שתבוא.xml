@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד שתבוא</title>
+        <singer classification="male singer">אופיר נפקר</singer>
+        <writer>אופיר נפקר</writer>
+        <composer>יוסי נפקר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד שתבוא</head>
+        <lg number="1" type="stanza">
+          <l>להתעורר בבוקר לשום דבר</l>
+          <l>אולי רק לקפה או לסיגר</l>
+          <l>לראות איך החיים זורמים מהר</l>
+          <l>לשתות קצת יין להשתכר</l>
+          <l>לשבת במרפסת גם בקור</l>
+          <l>ולהסתכל מהתריסים</l>
+          <l>לחכות שהסיוט כבר יעבור</l>
+          <l>עוברים כאן אנשים רבים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עד שתבוא עד שתבוא</l>
+          <l>אני לא יודע איך אחזיק מעמד</l>
+          <l>עד שהיא תבוא עד שתבוא</l>
+          <l>אני לא יודע איך אחזיק מעמד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בצהרים יש לי מנהג</l>
+          <l>לכתוב לך על כל מה שאותי פקד</l>
+          <l>באלף מכתבים אני שלך</l>
+          <l>חבל שאיש אותם עוד לא שלח</l>
+          <l>אוכל שותה שוטה נרדם</l>
+          <l>אם היה עוזר הייתי צם</l>
+          <l>קם בלילה בחמש</l>
+          <l>עם דמעות על כר יבש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עד שתבוא עד שתבוא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

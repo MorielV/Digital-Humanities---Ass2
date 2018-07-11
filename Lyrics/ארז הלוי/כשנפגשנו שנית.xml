@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשנפגשנו שנית</title>
+        <singer classification="male singer">ארז הלוי</singer>
+        <writer>ארז הלוי</writer>
+        <composer>ארז הלוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשנפגשנו שנית</head>
+        <lg number="1" type="stanza">
+          <l>כשנפגשנו שנית</l>
+          <l>את היית לבדך</l>
+          <l>לא היתה לי סיבה לקנא</l>
+          <l>את אלי קצת חייכת</l>
+          <l>את אפילו רמזת</l>
+          <l>את חשבת שאותי זה תפס</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל מה זה עוזר</l>
+          <l>ושוב זה חוזר</l>
+          <l>כמו אותה מנגינה ישנה</l>
+          <l>אבל מה זה עוזר</l>
+          <l>ושוב זה חוזר</l>
+          <l>מין אותה הרגשה מוזרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את התחלת לדבר</l>
+          <l>אז גיליתי יותר</l>
+          <l>את הבנת שאותי זה עניין</l>
+          <l>את אלי התקרבת</l>
+          <l>אותי קצת סחבת</l>
+          <l>את אמרת: הבחור התאהב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבל מה זה עוזר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בלילה ביקשת</l>
+          <l>אלי לחזור</l>
+          <l>ולי באמת זה כאב</l>
+          <l>איך בכית, איך שצחקת</l>
+          <l>כמעט שהלכת</l>
+          <l>בא הבוקר, הלילה עזב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אבל מה זה עוזר...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כי כשנפגשנו שנית</l>
+          <l>את היית לבדך</l>
+          <l>לא היתה לי סיבה לקנא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

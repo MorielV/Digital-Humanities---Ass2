@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סדום ועמורה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סדום ועמורה</head>
+        <lg number="1" type="stanza">
+          <l>אזיקים, מנעולים, אקדחים, שרשראות</l>
+          <l>שוטרים, גנבים, סורגים, חלונות</l>
+          <l>לילה יורד ועולים האורות</l>
+          <l>וכלבים גדולים סובבים בחצרות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מטיפים, משיחים, ציידים, נשמות</l>
+          <l>עניים אבודים, עניות אבודות</l>
+          <l>חברים, חיוכים ושקרים ובגידות,</l>
+          <l>וכלבים גדולים סובבים בחצרות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>סדום ו... סדום ועמורה</l>
+          <l>אז איך אתם אומרים שזה לא כל כך נורא</l>
+          <l>סדום ו... סדום ועמורה</l>
+          <l>אז איך אני אומר שבכל זאת יש תקווה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מציתים, גזענים, אנסים, עלוקות</l>
+          <l>אלוהים, מקדשים, מסגדים, כנסיות</l>
+          <l>רוצחים, מתאבדים, נביאים, נבלות</l>
+          <l>וכלבים גדולים סובבים בחצרות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>סדום ו... סדום ועמורה</l>
+          <l>אז איך אתם אומרים שזה לא כל כך נורא</l>
+          <l>סדום ו... סדום ועמורה</l>
+          <l>אז איך אני אומר שבכל זאת יש תקווה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

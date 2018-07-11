@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למד אותי</title>
+        <singer classification="female singer">אנוק</singer>
+        <writer>אנוק</writer>
+        <composer>אנוק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למד אותי</head>
+        <lg number="1" type="stanza">
+          <l>תמיד החושך משתלט כשאתה בא</l>
+          <l>מה כל כך מאיר בלקחת נשמה</l>
+          <l>ולמה זה כואב כשצבע משתנה</l>
+          <l>אומרים שגם שחור זה צבע שדוהה</l>
+        </lg>
+        <lg number="2" type="stanza" />
+        <lg number="3" type="stanza">
+          <l>איך עושים שכל זה יגמר</l>
+          <l>בורחת מעצמי והפחד מתגבר</l>
+          <l>וכמה זה כואב כשזה קרוב</l>
+          <l>הרעל יישאר איתי גם אם תעזוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם אלוהים כבר לא שומע</l>
+          <l>אז למה שאתה תשמע</l>
+          <l>למד אותי להיות כמוך</l>
+          <l>כזה גיבור ובן זונה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>המבט שלך חודר והעין לא רואה</l>
+          <l>מה כל כך מצחיק בלראות אותי בוכה</l>
+          <l>והדמעות צורבות בטעם משכר</l>
+          <l>לשנוא אותך הופך להיות משהו ממכר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אם אלוהים כבר לא שומע</l>
+          <l>אז למה שאתה תשמע</l>
+          <l>למד אותי להיות כמוך      </l>
+          <l>כזה גיבור ובן זונה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

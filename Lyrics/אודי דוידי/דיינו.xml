@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דיינו 2</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>מן המקורות</writer>
+        <composer>אודי דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דיינו</head>
+        <lg number="1" type="stanza">
+          <l>אילו הוציאנו ממצרים ולא עשה בהם שפטים</l>
+          <l>אילו הוציאנו ממצרים דיינו דיינו דיינו</l>
+          <l>אילו עשה בהם שפטים ולא עשה באלוהיהם</l>
+          <l>אילו עשה בהם שפטים דיינו דיינו דיינו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אווו די די דיינו דיינו דיינו דיינו</l>
+          <l>די די דיינו דיינו דיינו דיינו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לצרוח או לשתוק</title>
+        <singer classification="male singer">ארד ריכטר</singer>
+        <writer>ארד ריכטר</writer>
+        <composer>ארד ריכטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לצרוח או לשתוק</head>
+        <lg number="1" type="stanza">
+          <l>כמה זמן אני לא רואה אור יום</l>
+          <l>אני לא מבחין בין מציאות לחלום</l>
+          <l>מה שנשאר לי להעביר ערוצים בשלט</l>
+          <l>לדפדף בעיתון היומי, עוד פעם אחת</l>
+          <l>לפני שאני מכבה את האור,</l>
+          <l>אני לא דואג הרי מחר אחזור</l>
+          <l>לצפות בשקיעה מייד כשאקום </l>
+          <l>להתחיל בשתייה עד שאלך עקום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואם זה אני, אז מי אני בכלל</l>
+          <l>זה שנותן את התירוצים</l>
+          <l>זה שעומד כשכולם רצים</l>
+          <l>ואם זאת את, איך את כאן בכלל</l>
+          <l>כשיש עניין עוד מסביבך</l>
+          <l>אני לא מבין כבר את ליבך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מסתכל עלייך, לא אני לא יודע מה</l>
+          <l>קורה בפנים עמוק לנשמה</l>
+          <l>והרגש עולה, והטעם מתוק</l>
+          <l>כבר מזמן מבולבל אם לצרוח או לשתוק</l>
+          <l>כי כמה זמן שאני עומד עוד ברמזור</l>
+          <l>הטעות הזו כבר לא תחזור</l>
+          <l>מה שנשאר לי לשנות כיוון עתידי</l>
+          <l>ולדאוג שמחר לא תהיי כאן לצידי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי אם זה אני, אז מי אני בכלל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

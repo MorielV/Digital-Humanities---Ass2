@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בקרוב 2</title>
+        <singer classification="unknown">אבירם צור</singer>
+        <writer>אבירם צור</writer>
+        <composer>אבירם צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בקרוב</head>
+        <lg number="1" type="stanza">
+          <l>דואגת לַאֲחרים אבל לא לעצמה </l>
+          <l>חיה כל יום בִּשבילם </l>
+          <l>מתעוררת בבוקר לשגרה מַתישה </l>
+          <l>בלי לקחת נשימה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בוכה, צוחקת </l>
+          <l>לוחשת, צועקת </l>
+          <l>האם לזה התכוונת? </l>
+          <l>שותה, יורקת </l>
+          <l>נטרפת, זועקת </l>
+          <l>היכן נמצא המפלט? </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אומרים, בקרוב זה יעבור </l>
+          <l>עם סבלנות והתמדה, עוד תראי את האור </l>
+          <l>אומרים, בקרוב זה יעבור </l>
+          <l>עם מבט לעתיד, בלי לשוב לאחור </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בוכה, צוחקת... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אומרים, בקרוב זה יעבור... </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>דואגת לאחרים אבל לא לעצמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

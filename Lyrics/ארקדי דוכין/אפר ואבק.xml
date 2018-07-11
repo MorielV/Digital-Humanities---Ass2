@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אפר ואבק</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>יעקב גלעד</writer>
+        <composer>missing</composer>
+        <album>נקודת מבט</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אפר ואבק</head>
+        <lg number="1" type="stanza">
+          <l>יום אביב ריחות לילך</l>
+          <l>בין חורבות העיר שלך</l>
+          <l>יום יפה לדוג בנהר</l>
+          <l>בתוכי הלב נשבר</l>
+          <l>שם היתה ואינה</l>
+          <l>ילדותך אישה קטנה</l>
+          <l>אנשים שאיש לא מכיר</l>
+          <l>אין אפילו בית שיזכיר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואם את נוסעת לאן את נוסעת</l>
+          <l>הנצח הוא רק אפר ואבק</l>
+          <l>לאן את נוסעת לאן את נוסעת</l>
+          <l>שנים וכלום עוד לא נמחק.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קחי מעיל יהיה לך קר</l>
+          <l>כסף כיס, גביש סוכר</l>
+          <l>אם יהיו קשים הימים</l>
+          <l>הזכרי בי לפעמים</l>
+          <l>ואם זה עוד מסע נואש</l>
+          <l>אל הצריף, אל המגרש</l>
+          <l>במסילת העיר הישנה</l>
+          <l>איש לא יחכה בתחנה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואם את נוסעת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מי ימתיק לילותייך</l>
+          <l>מי יקשיב לביכייך</l>
+          <l>מי ישמור צעדייך בדרכך.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לאן את נוסעת לאן את נוסעת</l>
+          <l>הנצח הוא רק אפר ואבק</l>
+          <l>לאן את נוסעת לאן את נוסעת</l>
+          <l>שנים וכלום עוד לא נמחק.</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>קחי מעיל יהיה לך קר.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

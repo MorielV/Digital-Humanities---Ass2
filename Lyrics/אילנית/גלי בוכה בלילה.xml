@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גלי בוכה בלילה</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גלי בוכה בלילה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>גלי בוכה בלילה</l>
+          <l>גלי רואה עננים בחלון</l>
+          <l>גלי בוכה בלילה</l>
+          <l>גלי בוכה ורועד הוילון</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה יש לה לגלי, מה יש לה</l>
+          <l>אולי כבר צומחת לה שן</l>
+          <l>מה יש לה לגלי, מה יש לה</l>
+          <l>אולי עוד מעט תרדם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גלי בוכה בלילה</l>
+          <l>גלי רואה כוכבים בחלון</l>
+          <l>גלי בוכה בלילה</l>
+          <l>גלי בוכה ורועד הוילון</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה יש לה לגלי, מה יש לה</l>
+          <l>אולי היא רוצה לדבר</l>
+          <l>מה יש לה לגלי, מה יש לה</l>
+          <l>אולי היא קוראת לחבר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>גלי בוכה בלילה</l>
+          <l>גלי רואה ציורים בחלון</l>
+          <l>גלי בוכה בלילה</l>
+          <l>גלי בוכה ורועד הוילון</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מה יש לה לגלי, מה יש לה</l>
+          <l>אולי היא רוצה לאכול</l>
+          <l>מה יש לה לגלי, מה יש לה</l>
+          <l>אולי היא רוצה כבר לגדול</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>גלי בוכה בלילה</l>
+          <l>גלי רואה עננים בחלון</l>
+          <l>גלי בוכה בלילה</l>
+          <l>גלי בוכה ורועד הוילון</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

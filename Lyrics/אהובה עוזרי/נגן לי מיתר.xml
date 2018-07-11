@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נגן לי מיתר</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נגן לי מיתר</head>
+        <lg number="1" type="stanza">
+          <l>נגן נגן לי מיתר</l>
+          <l>נגן נגן בנשמה</l>
+          <l>שלח אלי את כוכבי</l>
+          <l>על מיתר עם השיר</l>
+          <l>עיני תמיד עצומות</l>
+          <l>בליבי רק מחשבות</l>
+          <l>מנגינה של אהבה</l>
+          <l>חודרת היא לעצמותי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל ספן על ספינה</l>
+          <l>פורט הוא על מיתר</l>
+          <l>מבטו למרחקים</l>
+          <l>בליבו געגועים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גיטרה לי בידי</l>
+          <l>צלילים עוברים בתוך דמי</l>
+          <l>אותך עכשיו אני ארגיש</l>
+          <l>כמו יין עם שיר</l>
+          <l>גיטרה לי בליבי</l>
+          <l>מיתר אחד בתוך נפשי</l>
+          <l>געגועים עם אהבה</l>
+          <l>לראות אותך בתוך מיתר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל ספן על ספינה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

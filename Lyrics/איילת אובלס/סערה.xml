@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סערה</title>
+        <singer classification="unknown">איילת אובלס</singer>
+        <writer>איילת אובלס</writer>
+        <composer>צליל אובלס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סערה</head>
+        <lg number="1" type="stanza">
+          <l>יש לי סערה בפנים </l>
+          <l>אני עוד רגע מתעופפת </l>
+          <l>יש לי סערה בפנים </l>
+          <l>אני עוד רגע מרחפת. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שתבוא כבר הרוח </l>
+          <l>ותיקח אותי </l>
+          <l>ותעיף אותי קדימה. </l>
+          <l>שתבוא כבר הרוח </l>
+          <l>ותיקח אותי </l>
+          <l>למקום שיש בו פנימה. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תשחקי איתי תופסת </l>
+          <l>רוח מעייפת. </l>
+          <l>תתני לי קצת לנוח רוח. </l>
+          <l>תתני לי קצת לנוח רוח. </l>
+          <l>תתני לי קצת לנוח. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני רצה </l>
+          <l>ואת עומדת. </l>
+          <l>אני שואגת </l>
+          <l>ואת שותקת. </l>
+          <l>אני נושמת </l>
+          <l>ואת זורמת. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תתני לי קצת לנוח רוח </l>
+          <l>אבל אל תלכי ממני.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

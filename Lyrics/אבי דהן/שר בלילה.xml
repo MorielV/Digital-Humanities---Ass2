@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שר בלילה</title>
+        <singer classification="unknown">אבי דהן</singer>
+        <writer>אבי דהן</writer>
+        <composer>אבי דהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שר בלילה</head>
+        <lg number="1" type="stanza">
+          <l>פתאום אנ'לא מבין מה קורה לי</l>
+          <l>ומעולם זה לא קרה בעבר</l>
+          <l>כשברחוב אני הולך סתם ומחייך לי</l>
+          <l>כי ביופייך אני נזכר</l>
+          <l>מזמזם שיר אהבה נוסטלגי</l>
+          <l>כמו תקליט שבור שחוזר כל הזמן</l>
+          <l>ואני מרגיש שהתאהבתי</l>
+          <l>איך כבשת אותי מכולן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תשמעי אותי שר בלילה</l>
+          <l>כשמתנגנים בליבי שירי נשמה</l>
+          <l>וכינורות יילוו אותנו הלאה</l>
+          <l>אל ימים קסומים עם הרבה אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואני שוב לא לא מבין מה קורה לי</l>
+          <l>כי מעולם זה לא קרה בעבר</l>
+          <l>כשברחוב הלכתי ועליך חשבתי</l>
+          <l>נכנסתי פתאום בעמוד חשמל </l>
+          <l>הפעם לעצמי לא חייכתי</l>
+          <l>רק צחקתי וצחקתי בקול רם</l>
+          <l>כי מה שאת אהובתי עושה לי </l>
+          <l>אף אחת לא עשתה מעולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תשמעי אותי שר בלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

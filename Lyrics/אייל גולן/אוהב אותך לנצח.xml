@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אוהב אותך לנצח</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>שמואל אלבז</writer>
+        <composer>שמואל אלבז</composer>
+        <album>חייל של אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אוהב אותך לנצח</head>
+        <lg number="1" type="stanza">
+          <l>אותך ראיתי מהלכת</l>
+          <l>ידעתי את אהבתי</l>
+          <l>נשמתי כמו אש בוערת</l>
+          <l>את כבשת את לבבי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חלפו שנים ואת גדלת</l>
+          <l>לא ידעתי אחרות</l>
+          <l>את נותרת חלום ישן</l>
+          <l>לך המשכתי לחכות -</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אוהב אותך לנצח</l>
+          <l>לך נשבעתי אמונים</l>
+          <l>לב חתום כמו אות על מצח</l>
+          <l>תהיי שלי לעולמים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את עכשיו כבר עם אחר</l>
+          <l>קשה עלי המחשבה</l>
+          <l>לא נמוג הוא הכאב</l>
+          <l>ממש כמו בהתחלה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אישה קטנה ונעלמת</l>
+          <l>מתנפץ הוא חלומי</l>
+          <l>לא יודע אם קיימת</l>
+          <l>את זורמת בדמי -</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אוהב אותך לנצח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

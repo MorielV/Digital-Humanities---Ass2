@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבא 5</title>
+        <singer classification="male singer">אברהם טל</singer>
+        <writer>אברהם טל</writer>
+        <composer>יונתן דגן</composer>
+        <album>אורות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבא</head>
+        <lg number="1" type="stanza">
+          <l>עולם עולה מתמלא והקצב ממלא את השמיים</l>
+          <l>מתפלל שתבוא לשטוף אותנו שוב במים</l>
+          <l>בינתיים פה בחום כולנו קצת השתגענו</l>
+          <l>ונתנו לשדים שלנו החוצה לקפוץ</l>
+          <l>חדשות, עיתונים אני קורא ונשרפות לי העיניים</l>
+          <l>נוסע אל הים ורואה איך השמש שוב שוקעת במים</l>
+          <l>בדיוק שניה לפני טביעה בים המחשבות</l>
+          <l>הוא מושיע אותי, זה לא מלאך, זה ילד בן שלוש...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבא, בקריאתך המתוקה מלאכים צוחקים מעל</l>
+          <l>ואתה מוציא אותי מכל בלאגן במוח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עולם מלא בילדים שנותנים כוח לפתוח ת'עיניים</l>
+          <l>לקום בבוקר לראות מסביב</l>
+          <l>איך אני אוסף את עצמי ונוסע לתל אביב</l>
+          <l>בינתיים על הפנים מים אפ על הרגליים</l>
+          <l>אבא, תכין לי שוקו טעים, שוקו טעים!</l>
+          <l>אל תעיז להרים יד על אחיך</l>
+          <l>גם כאלה קורים בבית</l>
+          <l>כולם מכירים את זה, לא?</l>
+          <l>עד שכמעט בא להקיא מזה, לא?</l>
+          <l>כמה פעמים אני צריך להגיד לך את אותו המשפט</l>
+          <l>לא רוצה? לא צריך!</l>
+          <l>כמו בכל המשפחות הטובות הילדים לוקחים את ההורים לקצוות</l>
+          <l>עד שמגיעים לגן בבוקר עפות להן שעות</l>
+          <l>ובדרך המכות שלא נגמרות, צעקות, וברגע אחד מילה אחת ואתה נמס...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבא, בקריאתך המתוקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

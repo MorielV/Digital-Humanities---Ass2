@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא חזרת</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>אילן וירצברג</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא חזרת</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>לא יכול לישון</l>
+          <l>שוכב ולא נרדם</l>
+          <l>לא מפסיק לחשוב</l>
+          <l>למה לא חזרת</l>
+          <l>כבר עברו הרבה שעות</l>
+          <l>ואת עוד לא חזרת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>למי את מחכה</l>
+          <l>את מי את מפתה</l>
+          <l>אולי את עייפה</l>
+          <l>אולי את סתם תועה</l>
+          <l>כבר עברו הרבה שעות</l>
+          <l>ואת עוד לא חזרת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל כך הרבה שעות</l>
+          <l>כל כך הרבה שעות</l>
+          <l>עברו</l>
+          <l>ואת עוד לא חזרת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא יכול לישון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבת חיי 3</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אמיתי נאמן</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבת חיי</head>
+        <lg number="1" type="stanza">
+          <l>הפרח נותן ריחו</l>
+          <l>האביב מפריח נשיקות</l>
+          <l>חלומות נעורי להיות יחדיו בגן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קחו אותי מהעולם</l>
+          <l>רק תשאירו אותו איתן</l>
+          <l>לא איכפת לי מחיי</l>
+          <l>אם כך נגזר עלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החיים הם סרט נע</l>
+          <l>יום אכזר ויום שמחה</l>
+          <l>בן עצי האילן</l>
+          <l>שם אכתוב סיפור חיי</l>
+          <l>השמש מעל זרחה ואני בתוך הגן</l>
+          <l>מלקטת את פרחי ובוהה בחלל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קחו אותי....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

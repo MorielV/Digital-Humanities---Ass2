@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילד אסור ילד מותר</title>
+        <singer classification="male singer">אסף אברבוך</singer>
+        <writer>יעקב גלעד</writer>
+        <composer>מתי כספי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילד אסור ילד מותר</head>
+        <lg number="1" type="stanza">
+          <l>ילד בא אל העולם</l>
+          <l>אבא קם ונעלם</l>
+          <l>אמא פה ואמא שם</l>
+          <l>הוא ניסה להתאבד</l>
+          <l>מה כבר יש לו לפחד</l>
+          <l>כאן ברחוב הכי בודד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ילד אסור ילד מותר</l>
+          <l>אל תשכח</l>
+          <l>ילד שבור ילד מוזר</l>
+          <l>ילד מלאך ילד יקר לך ישר</l>
+          <l>ילד אסור ילד מותר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זמן גוסס שעות מתות</l>
+          <l>בין חומות מתמוטטות</l>
+          <l>הוא חובש את השריטות</l>
+          <l>ריח שתן רוח ים</l>
+          <l>בר נטוש ומיותם</l>
+          <l>כאן בחוץ הבית חם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ילד אסור ילד מותר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בן חורג לאלוהים</l>
+          <l>פרח בר של החיים</l>
+          <l>לא נראה ואין רואים</l>
+          <l>מתקפל בתוך בועה</l>
+          <l>ונרגע לפי שעה</l>
+          <l>כאן בעיר הכי רעה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ילד אסור ילד מותר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

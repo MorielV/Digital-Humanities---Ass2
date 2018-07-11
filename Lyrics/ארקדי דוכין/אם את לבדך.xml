@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם את לבדך</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם את לבדך</head>
+        <lg number="1" type="stanza">
+          <l>אם את לבדך</l>
+          <l>אם את עצובה</l>
+          <l>קיץ לצידך</l>
+          <l>הולך ובא</l>
+          <l>אלייך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם בחשיכה</l>
+          <l>את חולמת</l>
+          <l>מישהו חולם</l>
+          <l>אותו דבר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>פנייך, אור פנייך</l>
+          <l>קשה לגעת בדימיון</l>
+          <l>לראות</l>
+          <l>קשה לישון</l>
+          <l>עובר עוד יום</l>
+          <l>מחכה ואין המשך</l>
+          <l>ובחלום מרגיע את גופך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם את רחוקה</l>
+          <l>אם את לא נמצאת</l>
+          <l>מישהו חושב על זה כעת</l>
+          <l>כל פעם</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשיורד האור</l>
+          <l>ים של רחובות</l>
+          <l>ממלאים אותו במחשבות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>פנייך, אור פנייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מיס תבל</title>
+        <singer classification="male singer">אבי פרץ</singer>
+        <writer>משה הדר</writer>
+        <composer>משה הדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מיס תבל</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>את משחקת אותה מיס תבל</l>
+          <l>לא יפה בכלל ואין על מה להסתכל</l>
+          <l>את עוד סתם אחת שמרחפת</l>
+          <l>הגיע הזמן שלך עכשיו ללכת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא שפוט שלך</l>
+          <l>רוצה ממך להתנתק</l>
+          <l>לא יהיה איתך</l>
+          <l>במשחק הזה לא משחק</l>
+          <l>אין מקום לשאלות ואין לי גם תשובות</l>
+          <l>אני רוצה ממך להתרחק</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את משחקת אותה מיס תבל...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נפגעתי לא יותר</l>
+          <l>את שיחקת ברגשותי</l>
+          <l>רוצה להשתחרר</l>
+          <l>כאן אציל את חיי</l>
+          <l>אין מקום לשאלות ואין לי גם תשובות</l>
+          <l>לכי לטפס על עץ אחר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

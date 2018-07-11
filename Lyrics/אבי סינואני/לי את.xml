@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לי את</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>גלוריה אלקלעי</writer>
+        <composer>גלוריה אלקלעי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לי את</head>
+        <lg number="1" type="stanza">
+          <l>להתעורר איתך, כל יום כל בוקר </l>
+          <l>להביט בך זה לראות עוד יום של אושר </l>
+          <l>ואם תהיי לבד, אהיה כמו רוח מלטפת </l>
+          <l>את ואני עד סוף הדרך </l>
+          <l>את ואני יחדיו לעד </l>
+          <l>אז תני לי יד חזק, שלא אפחד </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לי את השמש והאור </l>
+          <l>הלב רוצה אלייך </l>
+          <l>הביתה לחזור </l>
+          <l>אל השקט בעינייך </l>
+          <l>לזרום איתך </l>
+          <l>כמו נחל אל הים </l>
+          <l>להיות שלך, את לי לעולם </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוצה להיות בתוך חלומותייך </l>
+          <l>להיות שבוי, אי שם בלילותייך </l>
+          <l>את תהיי לי אור </l>
+          <l>אם חשכה אותי עוטפת </l>
+          <l>ואם ארוכה מאד הדרך </l>
+          <l>ואם כבר הגענו עד הלום </l>
+          <l>יחד בואי נצעד, נגשים חלום </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לי את השמש והאור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

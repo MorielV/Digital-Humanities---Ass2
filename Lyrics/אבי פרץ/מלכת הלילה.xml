@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלכת הלילה</title>
+        <singer classification="male singer">אבי פרץ</singer>
+        <writer>אילן גולדהירש</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלכת הלילה</head>
+        <lg number="1" type="stanza">
+          <l>את מלכת הלילה</l>
+          <l>וליבי כשי לך</l>
+          <l>אש האהבה לא די לך</l>
+          <l>והכל מתחיל ממך</l>
+          <l>בחיי מולכת</l>
+          <l>את ליבי חותכת</l>
+          <l>את ישנה ולא שייכת</l>
+          <l>לא נותנת את עצמך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין לי לילה אין לי יום</l>
+          <l>אני לא מוצא מקום</l>
+          <l>מחפש לי דרך</l>
+          <l>מרחף כמו בחלום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עד מתי עד מתי</l>
+          <l>ואולי זה לא כדאי</l>
+          <l>עד מתי עד מתי</l>
+          <l>ואולי זה לא כדאי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את הרי מושכת</l>
+          <l>אך את גם נושכת</l>
+          <l>ואני רוצה ללכת</l>
+          <l>אך נשאר בהמתנה</l>
+          <l>מי יאמר מדוע</l>
+          <l>ללבך פצוע</l>
+          <l>ומתוח הגעגוע</l>
+          <l>צל גופך בכל פינה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אין לי לילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

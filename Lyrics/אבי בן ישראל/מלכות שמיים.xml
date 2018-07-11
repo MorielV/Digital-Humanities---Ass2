@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלכות שמיים</title>
+        <singer classification="unknown">אבי בן ישראל</singer>
+        <writer>יחזקאל יוחאי</writer>
+        <composer>מוטי ארוטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלכות שמיים</head>
+        <lg number="1" type="stanza">
+          <l>במלכות שמיים</l>
+          <l>בין יבשה ומים</l>
+          <l>לתפארת בראת</l>
+          <l>גם תבונה ונשמה</l>
+          <l>אהבה והבנה</l>
+          <l>אתה בכל נתת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בקול מלכות שרים</l>
+          <l>אין גדול כאלוקים</l>
+          <l>משבחים ומהללים</l>
+          <l>כמה טוב כמה נעים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואו כולם ביחד</l>
+          <l>בקול אדיר בלי פחד</l>
+          <l>לבורא עולם בשירה בתפילה</l>
+          <l>לבורא תשובות לכל </l>
+          <l>כי הבורא הוא כל יכול</l>
+          <l>לפאר את שמו גם בשירה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בקול מלכות שרים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

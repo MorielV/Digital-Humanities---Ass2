@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שוב לשוב</title>
+        <singer classification="male singer">אבי פרץ</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שוב לשוב</head>
+        <lg number="1" type="stanza">
+          <l>אמרו לי בן אדם</l>
+          <l>בדרכים טיילת</l>
+          <l>די סובבת בעולם</l>
+          <l>הגיעה כבר הזמן</l>
+          <l>לחזור הביתה</l>
+          <l>מהדרך מאי שם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שוב לשוב</l>
+          <l>שוב לשוב הביתה</l>
+          <l>אל השקט אל חיי</l>
+          <l>שוב לשוב</l>
+          <l>שוב לשוב הביתה</l>
+          <l>ואם לא עכשיו מתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הדרך ארוכה</l>
+          <l>ואני נוסע</l>
+          <l>אל הבית האוהב</l>
+          <l>מביט מהחלון</l>
+          <l>ומרגיש לפתע</l>
+          <l>מן צביטה קטנה בלב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שוב לשוב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הגיע כבר הזמן</l>
+          <l>לחזור הביתה</l>
+          <l>מהדרך מאי שם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

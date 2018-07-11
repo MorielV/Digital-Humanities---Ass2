@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רבי מאיר אומר</title>
+        <singer classification="male singer">אוהד מושקוביץ</singer>
+        <writer>מן המקורות</writer>
+        <composer>יוסף גרין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רבי מאיר אומר</head>
+        <lg number="1" type="stanza">
+          <l>רבי מאיר אומר</l>
+          <l>כל העוסק בתורה לשמה</l>
+          <l>זוכה לדברים הרבה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ולא עוד אלא</l>
+          <l>שכל העולם כולו</l>
+          <l>כדאי הוא לו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

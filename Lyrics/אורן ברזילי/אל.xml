@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל 137</title>
+        <singer classification="unknown">אורן ברזילי</singer>
+        <writer>אורן ברזילי</writer>
+        <composer>אורן ברזילי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל</head>
+        <lg number="1" type="stanza">
+          <l>אל הצחוק אל המים</l>
+          <l>אל האור השמיים</l>
+          <l>אל הכוח אל תקווה אל הזמן</l>
+          <l>אל תפילה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל הלילה אל היום אל הבוקר שבא אל האור שמופיע פתאום</l>
+          <l>אל הלילה אל היום אל הבוקר הבא אל האור שמביא לי חלום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל הרוח אל הפעם</l>
+          <l>אל השקט אל הרעם</l>
+          <l>אל הרע אל הטוב</l>
+          <l>אל היופי לאהוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל הלילה אל היום אל הבוקר שבא אל האור שמופיע פתאום</l>
+          <l>אל הלילה אל היום אל הבוקר הבא אל האור שמביא לי חלום</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל היה אל יהיה</l>
+          <l>אל כל מה שארצה</l>
+          <l>אל הלילה אל הבוקר</l>
+          <l>אל האור שמופיע פתאום</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אל הלילה אל היום אל הבוקר שבא אל האור שמופיע פתאום</l>
+          <l>אל הלילה אל היום אל הבוקר הבא אל האור שמביא לי חלום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

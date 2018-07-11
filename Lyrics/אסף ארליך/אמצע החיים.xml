@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמצע החיים</title>
+        <singer classification="male singer">אסף ארליך</singer>
+        <writer>יוסי בלוך</writer>
+        <composer>אסף ארליך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמצע החיים</head>
+        <lg number="1" type="stanza">
+          <l>מאבד את השלווה</l>
+          <l>בין סמטת השוק לאכזבה</l>
+          <l>בסוף של אמצע החיים</l>
+          <l>הרבה אחרי האמונה</l>
+          <l>שום דבר לא קורה לך</l>
+          <l>כבר לא חולם על הפיכה</l>
+          <l>מוכן למכור את הדעות שלך</l>
+          <l>תמורת קצת התפתחות בחשיבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם אתה לא שונה מכולם</l>
+          <l>אתה לא שווה כאן כלום</l>
+          <l>אם אתה לא שונה בעיר הזאת</l>
+          <l>אתה לא שווה כאן כלום</l>
+          <l>לא שונה בעיר הזאת,</l>
+          <l>אתה לא שווה כאן כלום</l>
+          <l>לא שונה בעיר הזאת,</l>
+          <l>אתה לא שווה כאן כלום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יוצא כל בוקר מהבית</l>
+          <l>חוזר בערב מפורק</l>
+          <l>בונה פנטזיות על הבת של השכנים</l>
+          <l>כדורגל בשבת</l>
+          <l>כבר לא חושב שזה יקרה לך</l>
+          <l>מוותר על חלומות</l>
+          <l>רק בשביל ארוחה טובה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם אתה לא שונה מכולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

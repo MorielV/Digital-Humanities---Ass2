@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תל אביב 3</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תל אביב</head>
+        <lg number="1" type="stanza">
+          <l>שוב אני בתל אביב</l>
+          <l>דירה ריקה</l>
+          <l>יש כאן מישהו?</l>
+          <l>הכל איננו</l>
+          <l>איפה את?</l>
+          <l>כמה לא מפתיע</l>
+          <l>הרי אם יש משהו שראיתי בחיי</l>
+          <l>זה שאין כלום</l>
+          <l>עפים כמו פרחים לבנים ברוח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כנראה שאני עדיין לא לגמרי</l>
+          <l>מאמין שהשתניתי</l>
+          <l>השינוי היה מהיר מדי וחיצוני</l>
+          <l>כנראה שאני עדיין לא לגמרי מאמין</l>
+          <l>שאתה סולח</l>
+          <l>ועכשיו צריך לנשום את זה פנימה באמת</l>
+          <l>באמונה באמת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל אשר תלכי אלך ובאשר תליני אלין</l>
+          <l>עמך עמי ואלוהייך אלוהיי</l>
+          <l>המוות יפריד ביני ובינך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

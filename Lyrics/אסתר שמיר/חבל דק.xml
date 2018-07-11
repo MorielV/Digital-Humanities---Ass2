@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חבל דק</title>
+        <singer classification="female singer">אסתר שמיר</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>אסתר שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חבל דק</head>
+        <lg number="1" type="stanza">
+          <l>הגדלת אותי בעיניך </l>
+          <l>כדי שתגדל עוד יותר </l>
+          <l>ושמרת אותי בידיך </l>
+          <l>כדי שאתה תישמר </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וצבעת גופי ופני </l>
+          <l>בצבע אחיד וזוהר </l>
+          <l>וניפצת אותי בעיני </l>
+          <l>שלא יקחני אחר. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>חבל דק מפריד בין היום ומחר </l>
+          <l>מפריד בין התום וההבל </l>
+          <l>חבל דק יתמיד בין הטוב והמר </l>
+          <l>בין הבדידות והסבל. </l>
+          <l>צווארי נחנק הלילה </l>
+          <l>בידיך שאהבו אותי... </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואחר כך רצית לסגת </l>
+          <l>לפרוק את כבלי הדמיון </l>
+          <l>כעני שידו לא משגת </l>
+          <l>אחזת בכל תפיון </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כך אני ילדת המשומרת </l>
+          <l>הפכתי עלובה להחריד </l>
+          <l>אך אתה מתיסר בעיני </l>
+          <l>הרבה יותר מתמיד. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>חבל דק מפריד בין היום ומחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

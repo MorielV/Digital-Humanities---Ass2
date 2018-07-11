@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נועה</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>נעמי שמר</writer>
+        <composer>נעמי שמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נועה</head>
+        <lg number="1" type="stanza">
+          <l>נועה נולדה בשדה בין דשא לאבן</l>
+          <l>נועה היתה כמו אגל של טל</l>
+          <l>חרצית היא קטפה בשדה ומן הכותרת</l>
+          <l>תלשה עלעל עלעל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כן או לא, כן או לא,</l>
+          <l>אלף שירים ושיר נועה</l>
+          <l>כן או לא עלעלי</l>
+          <l>כן או לא או אולי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נועה הובילה אותו בין דשא לאבן</l>
+          <l>נועה נשקה לו עם רדת הטל</l>
+          <l>והוא בעיניה שלה הציץ חרש חרש</l>
+          <l>ובלא מילה שאל:</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כן או לא...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נועה הרחיקה נדוד מדשא מאבן</l>
+          <l>מתלתליה נמחה לו הטל</l>
+          <l>ומאה חרציות השדה צופות אחריה</l>
+          <l>וכל עלה ישאל:</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כן או לא.....</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>נועה היא שם בשדה בין דשא לאבן</l>
+          <l>שיר אחרון מזמר לה הטל</l>
+          <l>וכל חרציות השדה יפות הכותרת</l>
+          <l>בוכות עלעל על על</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>כן או לא, כן או לא</l>
+          <l>אלף שירים ושיר נועה</l>
+          <l>כן או לא אללי,</l>
+          <l>שבה נועה אלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

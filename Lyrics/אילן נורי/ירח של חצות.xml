@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ירח של חצות</title>
+        <singer classification="male singer">אילן נורי</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>יוסי גיספן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ירח של חצות</head>
+        <lg number="1" type="stanza">
+          <l>בדידותך, מחריבה ארמונות שבנו לכבודך החיים</l>
+          <l>את אביב נעורייך קצרה וזרעה בך שלכת</l>
+          <l>דמעתך, מטביעה במצולות נשמתך אהבה אמיתית</l>
+          <l>לעולם לא תוכל לכבות את האש הדועכת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והלילה שוב יורד וירח מאוהב</l>
+          <l>מרחוק את דמעותייך צובע בזהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הסתכלי אל הירח הוא מאיר בחלונך</l>
+          <l>הוא ישיב את עלומייך וימחה את דמעתך</l>
+          <l>רק ירח של חצות הוא יודע את הסוד</l>
+          <l>שסופג את הכאב ועוצר את הדמעות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שתיקתך, מנפצת הרים וחומות שהיו לך מגן</l>
+          <l>מותירה את נפשך חשופה לחרפת השמיים</l>
+          <l>וליבך, מלטף מתרי התוגה לא חדל מנגן</l>
+          <l>המילים נעלמו ונותרו חתומות על פנייך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>והלילה שוב יורד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו היום</title>
+        <singer classification="unknown">אייל הר נוי</singer>
+        <writer>אייל הר נוי</writer>
+        <composer>אייל הר נוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו היום</head>
+        <lg number="1" type="stanza">
+          <l>שוב פורט על מיתרי הלב שבי</l>
+          <l>ומתרגש כאילו זאת הפעם הראשונה</l>
+          <l>שהבטת בי חיבקת אותי </l>
+          <l>אמרת לי שאני האחד מכולם</l>
+          <l>איך הסמקתי כששמעתי לא ידעתי</l>
+          <l>שכך הרגשת כבר אז</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והדרך היא לא דרך</l>
+          <l>לא צפיתי את השבילים</l>
+          <l>שזרמנו יחד</l>
+          <l>כמו זוג נחלים</l>
+          <l>את אמרת לי ששבעת כבר </l>
+          <l>אבל בא לך עוד המון</l>
+          <l>ואני אז הרגשתי </l>
+          <l>ממש כמו היום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב פורט על מיתרי הגיטרה</l>
+          <l>כאילו לא ניגנתי כבר שנים</l>
+          <l>והתו הזה נוגן כבר פעמים</l>
+          <l>למרות שכל פעם </l>
+          <l>זה לא נשמע אותו השיר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והדרך היא לא דרך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>איך לא ידעתי </l>
+          <l>בחיי לא הרגשתי מה צופן בחובו</l>
+          <l>ולאן יוליד היום</l>
+          <l>ומה יהיה אתמול</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>והדרך היא לא דרך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחינועם לא יודעת</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחינועם לא יודעת</head>
+        <lg number="1" type="stanza">
+          <l>בעיניים עצומות שני סרטים ושתי צמות</l>
+          <l>סך הכל ילדה קטנה קטנה</l>
+          <l>בשפתיים רקומות תות שדה עם חלומות</l>
+          <l>סך הכל ילדה קטנה קטנה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היא לא יודעת כלום</l>
+          <l>את לא יודעת כלום</l>
+          <l>אחינועם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחלון מול השדרה רקפות בשיערה</l>
+          <l>לא לקטוף ילדה קטנה קטנה</l>
+          <l>מביטה במדורה שטה הלאה בסירה</l>
+          <l>רחוק רחוק ילדה קטנה קטנה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היא לא יודעת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מחייכת ענבים ואנחנו מקווים</l>
+          <l>סך הכל ילדה קטנה קטנה</l>
+          <l>והחלומות יפים בין עלים וענפים</l>
+          <l>לילה טוב ילדה קטנה קטנה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>היא לא יודעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

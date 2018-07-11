@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סימנים ברוח</title>
+        <singer classification="unknown">ארנון פרידמן</singer>
+        <writer>שירלי אהרון</writer>
+        <composer>ארנון פרידמן</composer>
+        <album>סימנים ברוח</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סימנים ברוח</head>
+        <lg number="1" type="stanza">
+          <l>יש סימנים ברוח</l>
+          <l>דרך חלון פתוח</l>
+          <l>שמש וריחות פרדסים</l>
+          <l>שוב אלי נכנסים</l>
+          <l>מבקשים</l>
+          <l>שתבואי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ריח שיערך עדיין</l>
+          <l>ממלא את כל הבית</l>
+          <l>כוס הקפה שאהבת</l>
+          <l>ותקליט ששכחת</l>
+          <l>מחכים לך</l>
+          <l>רוצים שתשובי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תני לי סימן</l>
+          <l>אני מתגעגע</l>
+          <l>תני לי סימן</l>
+          <l>עוד מעט משתגע</l>
+          <l>תני סימן</l>
+          <l>זה הזמן לומר לי שאת עוד כאן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש סימנים של עצב</l>
+          <l>לאט נידלק בי קצב</l>
+          <l>גם מיתרי הפסנתר</l>
+          <l>לא יכולים לוותר</l>
+          <l>ופורטים את עצמם</l>
+          <l>לצלילייך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תני לי סימן</l>
+          <l>אני מתגעגע</l>
+          <l>תני לי סימן</l>
+          <l>עוד מעט משתגע</l>
+          <l>תני סימן</l>
+          <l>זה הזמן לומר לי שאת עוד כאן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

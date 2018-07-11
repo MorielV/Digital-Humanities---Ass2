@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שר ברוח</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>יוני רועה</composer>
+        <album>לחישה בלילה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שר ברוח</head>
+        <lg number="1" type="stanza">
+          <l>חולפים בשניים על פני הדרכים</l>
+          <l>עם גג פתוח אל מול הסופה</l>
+          <l>ואת שופעת אלף חיוכים</l>
+          <l>לרוח לשמש חשופה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עינייך מלטפות את מבטיי</l>
+          <l>הבוקר חם כל כך בהיר</l>
+          <l>ניגון קסום עולה בשפתותיי</l>
+          <l>שבא לי בא לי רק לשיר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני שר ברוח שר לך נערה</l>
+          <l>במקצב פרוע אל תוך הסערה</l>
+          <l>אני שר ברוח שר מתוך הלב</l>
+          <l>במקצב פרוע הגלגל סובב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני שר ברוח שר לך נערה</l>
+          <l>במקצב פרוע אל תוך הסערה</l>
+          <l>אני שר ברוח שר מתוך הלב</l>
+          <l>במקצב פרוע הגלגל סובב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הדרך מביטה אל הנופים</l>
+          <l>ומסביב האופק מתבהר</l>
+          <l>לקצב יחד שנינו נסחפים</l>
+          <l>כמו ריקוד מפתיע וסוער</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני כולי באושר מתמלא</l>
+          <l>שבוי עכשיו בתוך יופייך</l>
+          <l>קולי בוקע מעמקי הלב</l>
+          <l>ושר לך שר לך את שירך</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אני שר ברוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

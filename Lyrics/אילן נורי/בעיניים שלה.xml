@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בעיניים שלה</title>
+        <singer classification="male singer">אילן נורי</singer>
+        <writer>ניסים מרי</writer>
+        <composer>מעין כץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בעיניים שלה</head>
+        <lg number="1" type="stanza">
+          <l>בעיניים שלה תמצא את הכל</l>
+          <l>את חום המדבר, ת'ים הכחול</l>
+          <l>סופת רגשות תסחוף גם אותך</l>
+          <l>לא תאמין היא כל כך יפה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שאין דבר כזה..</l>
+          <l>היא בטח לא מהעולם הזה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מבט אחד שבא מתוך עינייה</l>
+          <l>מחבר אותי ישר אליה</l>
+          <l>לא אפסיק ללכת אחריה</l>
+          <l>עד שאנשק את שפתייה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>במשפט ומבט תשבור את הלב</l>
+          <l>לאלפי חתיכות של צחוק וכאב</l>
+          <l>כישוף אהבה יסחוף גם אותך</l>
+          <l>לא תאמין היא כל כך יפה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שאין דבר כזה..</l>
+          <l>היא בטח לא מהעולם הזה.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מבט אחד שבא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

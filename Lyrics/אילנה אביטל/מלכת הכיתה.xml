@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלכת הכיתה</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלכת הכיתה</head>
+        <lg number="1" type="stanza">
+          <l>היא מלכת הכיתה</l>
+          <l>על הכל מחליטה לבד</l>
+          <l>היא מלכת הכיתה</l>
+          <l>ואני כאן בצד.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היא מלכת הכיתה</l>
+          <l>את כולם מרקידה עכשיו</l>
+          <l>היא מלכת הכיתה</l>
+          <l>אך עליי היא לא תרכב.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>היא מעצבנת, היא מתחנחנת</l>
+          <l>היא מסובבת את הבנים</l>
+          <l>אני אראה לה, זה עוד יקרה לה</l>
+          <l>אני אראה לה איך משתנים</l>
+          <l>כן, אני אראה לה עוד</l>
+          <l>מי תהיה מלכת הכיתה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היא מלכת הכיתה</l>
+          <l>אין שום סוד בשיטה שלה</l>
+          <l>היא מלכת הכיתה</l>
+          <l>לא אשמע בקולה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>היא מעצבנת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

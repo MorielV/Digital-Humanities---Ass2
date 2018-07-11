@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד סיפור אחד של אהבה</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>עוזי חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד סיפור אחד של אהבה</head>
+        <lg number="1" type="stanza">
+          <l>עוד סיפור אחד של אהבה</l>
+          <l>לפני שסוגרים את האורות</l>
+          <l>עוד סיפור אחד של אהבה</l>
+          <l>שיוצאת מבין השורות</l>
+          <l>עוד לחישה אחת קטנה</l>
+          <l>לפני שהולכים אל הבתים</l>
+          <l>זכרונות מן הפגישה הראשונה</l>
+          <l>כשהצטלבו המבטים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פעם את בוכה, ופעם את צוחקת</l>
+          <l>מזילה דמעה, כי זה הזמן ללכת</l>
+          <l>לכל האהבות יש סוף להתחלה</l>
+          <l>נפרדים רק במבט, בלי לומר מילה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד סיפור אחד של אשליה</l>
+          <l>שלא ידענו אם היא תגמר</l>
+          <l>אוספים בלב את כל מה שהיה</l>
+          <l>פעם רע ופעם טוב יותר</l>
+          <l>עוד נשיקה אחת קטנה</l>
+          <l>לפני שמכבים את האש</l>
+          <l>מין הרגשה כזאת, משונה</l>
+          <l>שזה הסוף, אבל עוד ניפגש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי פעם את בוכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

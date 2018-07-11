@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סברס קר</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סברס קר</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>סברס קר, קיץ, כפר </l>
+          <l>איך הייתי מאושר, </l>
+          <l>אותך אהבתי וזה עוד לא נגמר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סברס קר, עמק, הר, </l>
+          <l>על שפתייך פטל-בר, </l>
+          <l>אותך אהבתי וזה עוד לא נגמר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך השתכרנו </l>
+          <l>מכל אשכול של ענבים, </l>
+          <l>וכשנגענו </l>
+          <l>ירד מטר של כוכבים </l>
+          <l>ילד הייתי </l>
+          <l>ואת ילדונת חדשה </l>
+          <l>עד אור הבוקר </l>
+          <l>אשר בין עצי החורשה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סברס קר... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שמש זורחת - </l>
+          <l>אור מתוך הרים של קש, </l>
+          <l>לילה ביחד </l>
+          <l>ואת זבת חלב ודבש </l>
+          <l>ילד הייתי, ואת היית ילדונת חדשה </l>
+          <l>עד אור הבוקר - בין עצי החורשה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>סברס קר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

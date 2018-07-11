@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תחזרי כבר הביתה</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>דודו אהרון</writer>
+        <composer>דודו אהרון</composer>
+        <album>חלק מחיי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תחזרי כבר הביתה</head>
+        <lg number="1" type="stanza">
+          <l>בימים כבר מרגיש מיותם</l>
+          <l>בלילות לא נרדם את חסרה</l>
+          <l>הכאב בליבי לא עוזב</l>
+          <l>רק הולך מתעצם כי שוב נזכר</l>
+          <l>איך אז היינו הכל רק עושים</l>
+          <l>עכשיו לא ביחד כבר לא אוהבים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תחזרי כבר הביתה</l>
+          <l>הלב משתולל וקשה לי לישון</l>
+          <l>תחזרי כבר הביתה</l>
+          <l>נמאס לי לבד כבר לא יכול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הזמן עובר ואת לא מגיבה</l>
+          <l>ואני מנסה למצוא סיבה</l>
+          <l>איך פתאום נעלמה אהבה</l>
+          <l>וליבך מתרחק כבר לא רוצה</l>
+          <l>איך אז היינו הכל רק עושים</l>
+          <l>עכשיו לא ביחד כבר לא אוהבים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תחזרי כבר הביתה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

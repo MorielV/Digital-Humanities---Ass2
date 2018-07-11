@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תנו לגדול בשקט</title>
+        <singer classification="male singer">אוהד אלישע</singer>
+        <writer>יענקל'ה רוטבליט</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תנו לגדול בשקט</head>
+        <lg number="1" type="stanza">
+          <l>ומתי יבוא עלינו</l>
+          <l>איזה בוקר חינני</l>
+          <l>שיצהל לו מול פנינו</l>
+          <l>סתם בוקר חייכני</l>
+          <l>ושמחת פתאום מהממת</l>
+          <l>בלי הודעה מוקדמת</l>
+          <l>תמלא שוב את ליבנו</l>
+          <l>כשיבוא עלינו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עד מתי הרוח תסיע</l>
+          <l>עננים ודאגות</l>
+          <l>ומתי ישוב להפציע</l>
+          <l>סתם יום תענוגות</l>
+          <l>יום בלי עצב, יום בלי פחד</l>
+          <l>כל הארץ מתייפחת</l>
+          <l>כמו ילדה קטנה זועקת</l>
+          <l>תנו לחיות בשקט</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>היא זועקת - אהבוני!</l>
+          <l>מלחמה אל נא תלמדוני</l>
+          <l>את אהבתכם הראוני</l>
+          <l>תנו לגדול בשקט</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה קרה לילדותינו</l>
+          <l>היפה והתמימה</l>
+          <l>מי יביא שלום עלינו</l>
+          <l>ועל פני האדמה</l>
+          <l>הפרחים ישובו לפרוח</l>
+          <l>ונשוב לצהול ולשמוח</l>
+          <l>עם האור ועם התכלת</l>
+          <l>תנו לחיות כמו ילד</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>היא זועקת - אהבוני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

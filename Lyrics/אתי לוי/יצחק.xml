@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יצחק 2</title>
+        <singer classification="female singer">אתי לוי</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יצחק</head>
+        <lg number="1" type="stanza">
+          <l>יצחק, ממך אני בורחת, יצחק</l>
+          <l>יצחק, לא, אין לנו עתיד ביחד</l>
+          <l>יצחק, תצא מהר מתוך חיי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>צ'יק צ'אק אותך אני שוכחת, יצחק</l>
+          <l>יצחק, אתה כל כך גרוע, יצחק</l>
+          <l>יצחק, והעיקר שזה נגמר.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>די, נמאס לי כבר לשמוע</l>
+          <l>ככה לא וככה כן</l>
+          <l>קח אותי יותר רגוע</l>
+          <l>אין סיבה להתעצבן.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>פעם, הייתי מאוהבת, פעם</l>
+          <l>פעם,  וזה נגמר בזעם, פעם</l>
+          <l>הפעם זה לא יקרה עוד לעולם.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יצחק, אצלי הכל בסדר, יצחק</l>
+          <l>יצחק, איתך נגמר הסרט, יצחק</l>
+          <l>יצחק, אוי כמה טוב שזה נגמר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>די, נמאס לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

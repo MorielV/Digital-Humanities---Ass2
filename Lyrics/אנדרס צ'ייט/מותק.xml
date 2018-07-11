@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מותק 4</title>
+        <singer classification="unknown">אנדרס צ ייט</singer>
+        <writer>אנדרס צ'ייט</writer>
+        <composer>אנדרס צ'ייט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מותק</head>
+        <lg number="1" type="stanza">
+          <l>מותק אל תוציאי לי את התקווה</l>
+          <l>כי בלעדייך קשה לי לייחל</l>
+          <l>מותק אל תוציאי לי את התקווה</l>
+          <l>את כבר יודעת, לא אכפת לי מה את חושבת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מותק, בואי, לשחק לנצח</l>
+          <l>אין מה להגיד, חסר לי רק מה שאין לך</l>
+          <l>יש לך משהו שמדליק את הרגע</l>
+          <l>אין מה לומר, בואי להתכרבל בי</l>
+          <l>יש לי מצב רוח, אין סיבה להתחרט</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

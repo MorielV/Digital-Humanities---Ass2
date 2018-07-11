@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משוגע מאהבה</title>
+        <singer classification="male singer">אורן חן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>יוסי גיספן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משוגע מאהבה</head>
+        <lg number="1" type="stanza">
+          <l>אל תשאלי אותי אף פעם אם אני אוהב</l>
+          <l>את תגלי אדם עם רגשות שלא חושב</l>
+          <l>אצלי הלב לפני המחשבה</l>
+          <l>קוראים לי משוגע מאהבה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>על קיר בלב העיר</l>
+          <l>כתבתי את השם שלך</l>
+          <l>באינטרנט פירסמתי שאני אוהב אותך</l>
+          <l>רציתי שידעו את זה כולם</l>
+          <l>בכל המדינות שבעולם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>האהבה שלי גדולה מכל דמיון</l>
+          <l>אני אוהב אותך כמו שאני יודע</l>
+          <l>אל תחפשי אצלי גבולות והגיון</l>
+          <l>לי לא איכפת מאהבה להשתגע</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>על מדרגות ביתך פיזרתי אלף שושנים</l>
+          <l>שתאמיני לי ושידעו גם השכנים</l>
+          <l>שיש בחור אחד כזה חצוף</l>
+          <l>שמאוהב בך מותק עד טירוף</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>האהבה שלי גדולה מכל דמיון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

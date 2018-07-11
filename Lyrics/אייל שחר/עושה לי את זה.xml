@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עושה לי את זה</title>
+        <singer classification="male singer">אייל שחר</singer>
+        <writer>גל אשר</writer>
+        <composer>גל אשר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עושה לי את זה</head>
+        <lg number="1" type="stanza">
+          <l>עד היום אני שמרתי על שקט</l>
+          <l>שום דבר לא עשה לי את זה</l>
+          <l>אהבה הייתה פצצה מתקתקת</l>
+          <l>אנ'לא רציתי לשמוע מזה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל הגוף שלי רגיש לשפתייך</l>
+          <l>שנוגעות לי בקלות בפנים</l>
+          <l>וכל החום שבוער בעינייך</l>
+          <l>מוציא לי דברים חדשים מבפנים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני הולך איתך ילדה שלי</l>
+          <l>וכשאת פה איתי</l>
+          <l>את עושה לי טוב בלב - עושה לי את זה</l>
+          <l>אני אוהב אותך מאור ראשון</l>
+          <l>אנ'לא יכול לישון</l>
+          <l>כל הלילה ככה זה</l>
+          <l>עושה לי את זה - עושה לי את זה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא יודע אם בגלל הירח</l>
+          <l>זה הקסם שעובר באוויר</l>
+          <l>יש הרגשה שאפשר לנצח</l>
+          <l>את כל החוקים שהטבע מכיר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לתפוס ענן</l>
+          <l>לעוף איתו</l>
+          <l>לקטוף לך כוכבים</l>
+          <l>ולעצור הכל</l>
+          <l>ולחבק אותך</l>
+          <l>כי ככה זה כשאוהבים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני הולך איתך...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>וכשאני רעב</l>
+          <l>אז אני אוהב</l>
+          <l>אם זה לא עוזר</l>
+          <l>אני אוהב יותר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

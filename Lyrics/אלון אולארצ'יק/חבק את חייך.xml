@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חבק את חייך</title>
+        <singer classification="unknown">אלון אולארצ יק</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חבק את חייך</head>
+        <lg number="1" type="stanza">
+          <l>החיים הם הזדמנות אחת,</l>
+          <l>לא נחיה כאן פעמיים.</l>
+          <l>אל תגיד "רק רגע, עוד מעט",</l>
+          <l>אל תבכה אל השמיים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קח את מה שאלוהים נתן</l>
+          <l>ותנעץ את השיניים.</l>
+          <l>לא כל שד קטן הוא השטן,</l>
+          <l>אז תפתח את העיניים ו...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>חבק את חייך</l>
+          <l>חזק בידך</l>
+          <l>יש אור מעליך</l>
+          <l>ואלה ימיך -</l>
+          <l>חבק את חייך, עכשיו.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תן למה שמסתתר בפנים</l>
+          <l>לעלות על פני השטח,</l>
+          <l>לך עם זה לכל הכיוונים -</l>
+          <l>ותרגיע את המתח.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>קח עוד רגע שנשמר בלב</l>
+          <l>רגע מתחילת הדרך -</l>
+          <l>קח עוד שבר מחלום כואב</l>
+          <l>יש להם עדיין ערך. אז...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>חבק את חייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

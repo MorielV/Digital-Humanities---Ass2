@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דמעות בין העננים</title>
+        <singer classification="female singer">אתי קסטרו</singer>
+        <writer>דניאלה מזרחי</writer>
+        <composer>רן אביב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דמעות בין העננים</head>
+        <lg number="1" type="stanza">
+          <l>בין העננים, גם הלבנים, גם השחורים</l>
+          <l>מסתתרות להן טיפות של כאב</l>
+          <l>עוד מעט ירד גשם, מטח של דמעות</l>
+          <l>דמעות גדולות, דמעות של כאב מהלב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>האם אתה שם למעלה</l>
+          <l>חש את כאבי</l>
+          <l>האם אתה שם למעלה</l>
+          <l>שומע את תחינתי</l>
+          <l>האם אתה מביט כיצד אני</l>
+          <l>סוחבת את הכאב</l>
+          <l>שלא עוזב את הלב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בין העננים, גם לבנים והאפורים</l>
+          <l>מסתתרות להן טיפות של דאגה</l>
+          <l>שוב ירד מבול ואני אשאר סגורה</l>
+          <l>אמחה את הדמעה שירדה לי ללא שליטה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האם אתה שם למעלה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בין העננים, גם הלבנים, גם הצחורים</l>
+          <l>מסתתר לו גוש גדול של תקווה</l>
+          <l>אולי אתה שם למעלה שומע את תחינתי</l>
+          <l>אולי אתה שם למעלה שומע את תפילתי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>האם אתה שם למעלה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

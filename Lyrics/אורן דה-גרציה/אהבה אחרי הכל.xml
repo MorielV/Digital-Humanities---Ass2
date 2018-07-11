@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה אחרי הכל</title>
+        <singer classification="unknown">אורן דה גרציה</singer>
+        <writer>משה דה גרציה</writer>
+        <composer>משה דה גרציה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה אחרי הכל</head>
+        <lg number="1" type="stanza">
+          <l>הלילה כרתנו ברית</l>
+          <l>ברית דמים ללא מלים</l>
+          <l>ברית של אוהבים</l>
+          <l>הלילה כמו מבראשית</l>
+          <l>גבר ואשה לבד</l>
+          <l>בונים יחדיו עתיד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זאת אהבה בשניים</l>
+          <l>אחרי הכול,</l>
+          <l>אהבה היא פרח</l>
+          <l>שיכול ליבול</l>
+          <l>היא לא תחיה לנצח</l>
+          <l>היא לוקחת את הכול</l>
+          <l>זאת אהבה אחרי הכול...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בטבע, יש שווי משקל</l>
+          <l>לכל אדם שמור תפקיד</l>
+          <l>לכל אדם גורל</l>
+          <l>הלילה, מעגל נסגר</l>
+          <l>עכשיו פנינו לעתיד</l>
+          <l>גורל בתוך גורל.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זאת אהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יותר 7</title>
+        <singer classification="unknown">אבישי רוזן</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יותר</head>
+        <lg number="1" type="stanza">
+          <l>נלמד לחיות עם מה שיש לא נחפש דבר אחר </l>
+          <l>אבל נמשיך ונבקש מילת תפילה אחת יותר </l>
+          <l>מתי נהיה יותר קרובים  עד שנרגיש ונוותר </l>
+          <l>כולם רוצים להיות טובים אבל אפשר היה יותר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יותר אהבה </l>
+          <l>יותר הקשבה </l>
+          <l>יותר אמונה בין אדם לאדם </l>
+          <l>יותר שלום, יותר תקווה </l>
+          <l>פחות קנאה ושנאת חינם </l>
+          <l>יותר נשמה </l>
+          <l>יותר אלוקים </l>
+          <l>יותר הבנה ביני לבינך </l>
+          <l>יותר שמחה יותר חיים </l>
+          <l>פחות לבד יותר איתך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נלמד לחיות עם מה שיש </l>
+          <l>לא נחפש דבר אחר</l>
+          <l>אבל נמשיך ונבקש </l>
+          <l>מילת תפילה אחת יותר </l>
+          <l>יותר שמחה שלי, שלך </l>
+          <l>הרבה יותר מילים חמות </l>
+          <l>פחות שקרים פחות דמעות </l>
+          <l>פחות למות יותר לחיות </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יותר אהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא לקחתי שום דבר</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>פבלו רוזנברג</writer>
+        <composer>פבלו רוזנברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא לקחתי שום דבר</head>
+        <lg number="1" type="stanza">
+          <l>כשעזבתי אותך נסעתי לי לטבריה</l>
+          <l>כמו בחורף של מלחמת המפרץ</l>
+          <l>והופעתי לבד רציתי רק למות</l>
+          <l>המילים איבדו את כל המשמעות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם לומר את האמת</l>
+          <l>הייתי די הרוס</l>
+          <l>הרוס כמו הפיאסטה הירוקה</l>
+          <l>בה נהגתי לבד </l>
+          <l>ברחובות של חיפה</l>
+          <l>לחפש אותך מתחת לחופה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ולא לקחתי שום דבר</l>
+          <l>לא לקחתי שום דבר</l>
+          <l>והשארתי לך את הכל </l>
+          <l>גם את הלב שלי,</l>
+          <l>שהיום אני לוקח חזרה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשעזבתי אותך, רציתי רק לנוח </l>
+          <l>הרצפה הייתה קרירה ומרגיעה</l>
+          <l>והרדיו דלק עצמתי את העיניים</l>
+          <l>ושמעתי צעדים במסדרון.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ולא לקחתי שום דבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

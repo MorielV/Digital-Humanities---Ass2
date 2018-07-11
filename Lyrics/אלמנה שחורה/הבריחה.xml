@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הבריחה</title>
+        <singer classification="band">אלמנה שחורה</singer>
+        <writer>אלי זולטא</writer>
+        <composer>יגל כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הבריחה</head>
+        <lg number="1" type="stanza">
+          <l>התחלתי כמו מטורף לרוץ</l>
+          <l>אל עבר האמת בחוץ</l>
+          <l>המוח מטוגן בעצב </l>
+          <l>גופי מכור - כולו לסבל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עכשיו אני על סף דמעות</l>
+          <l>אני לא יכול להשתנות</l>
+          <l>ומה עשיתי לעצמי</l>
+          <l>לעזאזל, זה לא אני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מעבר לגדרות הפחד</l>
+          <l>כמו במסדר של הזיות</l>
+          <l>סמים קשים הם חיילים</l>
+          <l>שמלווים לשגעון</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האם את איתי כשאני לבד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עכשיו תרוץ בכל הכח</l>
+          <l>פתאום תרגיש, אתה לא מפחד</l>
+          <l>פרצת דרך אל המח</l>
+          <l>עכשיו אתה עף למקום אחר</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>וכמו חיה שעל כוונת</l>
+          <l>בלחיצה היא תתמוטט</l>
+          <l>שנאה הפכה טירוף לפחד</l>
+          <l>וזה הזמן להתאבד</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>האם את איתי כשאני לבד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

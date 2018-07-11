@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עף ברוח</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>שגיא צורף</writer>
+        <composer>שגיא צורף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עף ברוח</head>
+        <lg number="1" type="stanza">
+          <l>כמעט שלא נשאר ממני כלום</l>
+          <l>אני עף ברוח כמו ציפור</l>
+          <l>כנפיים מתוחות לצידי הראש</l>
+          <l>אני למעלה רואה הכל בצבעי כחול</l>
+          <l>והאוויר מתחת לגוף מכסה הכל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כבר לא נשאר ממני כלום</l>
+          <l>אני עם הרוח רואה הכל</l>
+          <l>כנפיים מתוחות לצידי הראש</l>
+          <l>אני למעלה דואה מעל הכל</l>
+          <l>כנפיים מתוחות</l>
+          <l>והאוויר מכסה הכל</l>
+          <l>הוא מכסה הכל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עשרה ימים</title>
+        <singer classification="male singer">אסף ארליך</singer>
+        <writer>אסף ארליך</writer>
+        <composer>אסף ארליך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עשרה ימים</head>
+        <lg number="1" type="stanza">
+          <l>עשרה ימים</l>
+          <l>שורף מדרכות חדות</l>
+          <l>ימים מתייבשים פחות</l>
+          <l>זה מרגיש כמו תמיד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עשרה ימים</l>
+          <l>לא מפסיק לשניה אחת</l>
+          <l>לא מוכן לדקה אחת</l>
+          <l>זמן צבוע</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה רחוק כמו פעם ראשונה כשנשמנו בעיניים</l>
+          <l>אני הולך ממך כי טוב לי כמעט יותר מדי</l>
+          <l>אז תגידי פעם אחרונה כי זה טוב לך עדיין</l>
+          <l>יהיה לך טוב תהיה לך אהבה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עשרה ימים</l>
+          <l>נסיעה ארוכה מדי</l>
+          <l>מתחלקת חזק מדי</l>
+          <l>לא עוצרת אותי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עשרה ימים</l>
+          <l>הנה באה סטירה קטנה</l>
+          <l>נשיכה בנחיר הבא</l>
+          <l>זה מרגיש כמו אני</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה רחוק כמו פעם ראשונה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

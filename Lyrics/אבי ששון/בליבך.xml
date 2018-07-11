@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בליבך 2</title>
+        <singer classification="unknown">אבי ששון</singer>
+        <writer>אבי ששון</writer>
+        <composer>אבי ששון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בליבך</head>
+        <lg number="1" type="stanza">
+          <l>כי אני אוהב עכשו</l>
+          <l>כי אני רוצה כל כך</l>
+          <l>כי אני חולם להיות שלך</l>
+          <l>ואין לי דרך אל ליבך</l>
+          <l>איך שרצתי לקראתך</l>
+          <l>כמה נפגעתי כאבתי בגללך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ונסעתי אחרייך אהובה</l>
+          <l>איך עזבת פתאום</l>
+          <l>אין דרך חזרה</l>
+          <l>התעוררתי בלעדייך</l>
+          <l>מבולבל כל כך כואב</l>
+          <l>ולא יכלתי שוב לנגוע בליבך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ברכבת אחרונה </l>
+          <l>קר בחוץ גופי רועד</l>
+          <l>שוב לבד נסעתי אל ביתך</l>
+          <l>מסתכל על חלונך</l>
+          <l>משתקף משם יופייך</l>
+          <l>וידו נוגעת בגופך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ונסעתי אחרייך אהובה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

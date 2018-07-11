@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבתה של תרזה דימון</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבתה של תרזה דימון</head>
+        <lg number="1" type="stanza">
+          <l>מחלוני וגם מחלונך</l>
+          <l>אותו הגן נשקף, אותו הנוף,</l>
+          <l>ויום תמים מותר לי לאהוב</l>
+          <l>את הדברים אשר ליטפה עינך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מול חלונך וגם מול חלוני</l>
+          <l>בלילה שר אותו זמיר עצמו,</l>
+          <l>ועת ירטיט ליבך בחלומו</l>
+          <l>אעור ואאזין לו גם אני.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האורן הזקן, שבו כל מחט</l>
+          <l>את מבטך נושאת כטל טהור,</l>
+          <l>(האורן הזקן, שבו כל מחט)</l>
+          <l>עם בוקר יקדמני בברכה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>דברים רבים מאוד אהבנו יחד,</l>
+          <l>אך לא זרח באשנבך האור</l>
+          <l>(דברים רבים מאוד אהבנו יחד),</l>
+          <l>עת בדידותי נגעה בבדידותך.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מול חלונך וגם מול חלוני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

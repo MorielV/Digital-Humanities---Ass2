@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דלילה</title>
+        <singer classification="unknown">איריס קרצר</singer>
+        <writer>דוד הררי</writer>
+        <composer>איריס קרצר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דלילה</head>
+        <lg number="1" type="stanza">
+          <l>אבני ברד, כותלי דגון ושבר </l>
+          <l>קריאות אימה, צווחות הגוססים, </l>
+          <l>רק עוד שניה, מבט לפני הקבר, </l>
+          <l>אהוב ליבי, פרידה ללא מילים. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אהוב ליבי, שנוא עמי ופלשת</l>
+          <l>גוף כפלדה, ארי באריות, </l>
+          <l>ולב אוהב, שכור אכול מחשק, </l>
+          <l>עז כנמר, שוחר קרבות. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בסופה של אהבה אותי עטפת, </l>
+          <l>להט לילות של בושם וענוגים, </l>
+          <l>אני דלילה, שמשון, אשר אהבת, </l>
+          <l>אני דלילה, בגידה ויסורים. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רק עוד מילה לפני שאל שמים, </l>
+          <l>יביא הקץ לכובד נשמתי, </l>
+          <l>תודה על כל שניה, תודה כפליים, </l>
+          <l>על שרוצצת היום את גולגלתי. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>על שפדית גופי מאש הזעם, </l>
+          <l>שבערה כשאול אל תוך נפשי, </l>
+          <l>על הבגידה חרון, אימה ורעם </l>
+          <l>אהבתי ופלשת בני שבטי. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בסופה של אהבה אותי עטפת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

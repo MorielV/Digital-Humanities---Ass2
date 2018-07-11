@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נשיקה 2</title>
+        <singer classification="male singer">אופיר נפקר</singer>
+        <writer>אופיר נפקר</writer>
+        <composer>יוסי נפקר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נשיקה</head>
+        <lg number="1" type="stanza">
+          <l>נשיקה כמו רפרוף של פרפר </l>
+          <l>כמו גלימה רכה של משי </l>
+          <l>כמו פרי רענן שהבשיל בגן </l>
+          <l>כמו נהר באמצע מדבר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואם נשיקה היתה ציפור </l>
+          <l>הייתי עף אלייך רחוק </l>
+          <l>ואם נשיקה היתה ציפור</l>
+          <l>הייתי עף אלייך רחוק </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני בוכה בדמעות תנין </l>
+          <l>ואת בדמעות רחל אמנו </l>
+          <l>וכשהן מתמזגות אנחות נשכחות </l>
+          <l>כמו מחיצה שהתנפצה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואם נשיקה היתה ציפור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

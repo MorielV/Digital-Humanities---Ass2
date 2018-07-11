@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מסתכל בכוכבים</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>אסף אמדורסקי</composer>
+        <album>צד א'</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מסתכל בכוכבים</head>
+        <lg number="1" type="stanza">
+          <l>יש לה כוכבים על העורף</l>
+          <l>אני רואה אותם רק כשאני</l>
+          <l>מחבק אותה מאחור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לפעמים היא מסיטה את השיער</l>
+          <l>כאילו לא בכוונה</l>
+          <l>מגלה לפני שלושה כוכבים</l>
+          <l>כוכב אחד ושניים קטנים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

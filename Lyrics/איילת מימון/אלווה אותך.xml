@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלווה אותך</title>
+        <singer classification="unknown">איילת מימון</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>מזי כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלווה אותך</head>
+        <lg number="1" type="stanza">
+          <l>אף פעם לא עזבתי עיר מולדת</l>
+          <l>להתחיל חיי שוב מחדש</l>
+          <l>אל ארץ שהשמש בה יוקדת</l>
+          <l>ודרכיה לא זרועות בדבש</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תני לי את ידך דרכך מתפתלת</l>
+          <l>אלווה אותך עד שיהיה לך קל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חלמת שיהיה לך כבר בית</l>
+          <l>שיהיו לך שורשים ממש</l>
+          <l>ועץ של פירות עץ של זית</l>
+          <l>ויותר שלא תדעי חשש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יום אחד אולי אולי זה יקרה לך</l>
+          <l>זר פרחים ורודים עד גדות הסל</l>
+          <l>תני לי את ידך דרכך מתפתלת</l>
+          <l>אלווה אותך עד שיהיה לך קל</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יום אחד אולי אולי זה יקרה לך</l>
+          <l>זר פרחים ורודים עד גדות הסל</l>
+          <l>תני לי את ידך דרכך מתפתלת</l>
+          <l>אלווה אותך עד שיהיה לך קל</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אף פעם לא עזבתי עיר מולדת</l>
+          <l>להתחיל חיי שוב מחדש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פעם אישתי</title>
+        <singer classification="male singer">אבנר שטראוס</singer>
+        <writer>אבנר שטראוס</writer>
+        <composer>אבנר שטראוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פעם אישתי</head>
+        <lg number="1" type="stanza">
+          <l>פעם אשתי היתה עושה לי קפה</l>
+          <l>היום היא רק שמה מים</l>
+          <l>פעם הייתי מבקש פעם אחת</l>
+          <l>היום מבקש פעמיים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>על חוט של מחשבה, אני משחיל חרוז</l>
+          <l>חושב על אהבה, ושוב יוצא לי בלוז</l>
+          <l>יש משבר בהפקה</l>
+          <l>ויש משבר בשיר</l>
+          <l>אם בארזים נפלה שלהבת</l>
+          <l>מה יגידו אזובי הקיר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על חוט של מחשבה, אני משחיל חרוז</l>
+          <l>חושב על אהבה, ושוב יוצא לי בלוז</l>
+          <l>יש משבר בהפקה</l>
+          <l>ויש משבר בשיר</l>
+          <l>אם בארזים נפלה שלהבת</l>
+          <l>מה יגידו אזובי הקיר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה יגידו אזובי הקיר</l>
+          <l>מה יגידו אזובי הקיר</l>
+          <l>אם בשורות נפלה שלהבת מה יגידו אזובי השיר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

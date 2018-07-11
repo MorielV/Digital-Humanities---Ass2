@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עולם וירטואלי</title>
+        <singer classification="unknown">איציק ינקלביץ </singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>איציק ינקלביץ'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עולם וירטואלי</head>
+        <lg number="1" type="stanza">
+          <l>תן לי יד, תפקח את העיניים, </l>
+          <l>צא איתי עכשיו </l>
+          <l>שתדע מה צבע השמיים </l>
+          <l>ואיך נראה כוכב. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל תשלח לי אס.אם.אסים </l>
+          <l>אל תמשוך אותי לצ'אט </l>
+          <l>כי הלב שלי עוד קלאסי </l>
+          <l>כמו שפעם באמת. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אתה בא מעולם וירטואלי </l>
+          <l>וחי במציאות מדומה, </l>
+          <l>אז תחזיר לי את מה שהיה לי: </l>
+          <l>אהבה ושירי נשמה. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה נכון ומה דמיון פרוע </l>
+          <l>מה ריאליטי. </l>
+          <l>לא חשוב ה-איך וה-מדוע </l>
+          <l>רק תהיה איתי. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שעון חיי לא דיגיטאלי </l>
+          <l>תקליד את שמי בתוך לבך. </l>
+          <l>שלח לי זר ורדים נורמאלי </l>
+          <l>עם מכתב בכתב ידך. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אתה בא מעולם וירטואלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

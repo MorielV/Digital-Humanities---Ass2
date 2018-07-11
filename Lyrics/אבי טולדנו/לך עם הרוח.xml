@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לך עם הרוח</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אבי טולדנו</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לך עם הרוח</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>כשאתה רוצה</l>
+          <l>ושוב זה לא יוצא</l>
+          <l>אל תאמר שזה סוף מעשה</l>
+          <l>זה עוד לא אבוד</l>
+          <l>תן לזה סיבוב</l>
+          <l>דבר לא קורה כשאתה עצוב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לך עם הרוח </l>
+          <l>אני כבר לא יכול</l>
+          <l>שם מעבר להרים</l>
+          <l>היא מחכה</l>
+          <l>תשאיר מאחורייך</l>
+          <l>את הזיכרונות</l>
+          <l>וקח איתך רק את החלומות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כשאתה רוצה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לך בעקבות האור</l>
+          <l>אני כבר לא רואה</l>
+          <l>שם בקצה האפלה</l>
+          <l>היא מצפה</l>
+          <l>מה שהיה היה</l>
+          <l>מה שלא יהיה</l>
+          <l>תצא גדול בסוף המחזה</l>
+          <l>מה שהיה היה</l>
+          <l>מה שלא יהיה</l>
+          <l>תצא גדול בסוף המחזה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

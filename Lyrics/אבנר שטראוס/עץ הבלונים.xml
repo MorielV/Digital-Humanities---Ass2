@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עץ הבלונים</title>
+        <singer classification="male singer">אבנר שטראוס</singer>
+        <writer>אבנר שטראוס</writer>
+        <composer>אבנר שטראוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עץ הבלונים</head>
+        <lg number="1" type="stanza">
+          <l>לכל עץ יש פרי בצבע אחד</l>
+          <l>אצלי בחצר גדל עץ מיוחד</l>
+          <l>פרי בלי ריח וגם לא טעים</l>
+          <l>אבל הוא צומח בכל הצבעים</l>
+          <l>ראו ובאו אנשים בלי סוף</l>
+          <l>וגם ילדים ביקשו לקטוף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא תאמינו אם אספר</l>
+          <l>אבל אצלנו צמח בחצר</l>
+          <l>עץ מוזר עם פירות משונים</l>
+          <l>פירות שנראים כמו מלונים</l>
+          <l>לא עץ תפוזים, לא עץ רימונים</l>
+          <l>צמח אצלנו עץ בלונים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מהעיתון רצו לראיין</l>
+          <l>מהטלויזיה רצו לצלם</l>
+          <l>באו חוקרים חשובים ביותר</l>
+          <l>אמרו שצריך לבדוק ולברר</l>
+          <l>ניסרו את העץ וכל הבלונים</l>
+          <l>עפו למעלה לעננים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ראיתי הכל מן החלון</l>
+          <l>ועכשיו למזכרת נשאר רק בלון</l>
+          <l>גדולים בכלל לא מאמינים</l>
+          <l>כשאני מספר על עץ הבלונים</l>
+          <l>אך בתוך הבלון יש לי זרעים</l>
+          <l>של עץ בלונים בכל הצבעים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא תאמינו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

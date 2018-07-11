@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחלום 3</title>
+        <singer classification="unknown">אורן לוי</singer>
+        <writer>אורן לוי</writer>
+        <composer>אורן לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחלום</head>
+        <lg number="1" type="stanza">
+          <l>ביום שאותך ראיתי,</l>
+          <l>הכל כבר השתנה</l>
+          <l>אחרי דקה או שתיים </l>
+          <l>התבהרה לי התמונה</l>
+          <l>איתך אהיה לנצח</l>
+          <l>למרות מה שאומרים</l>
+          <l>להיות איתך זה טעם החיים!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בחלום אתעורר איתך כל יום</l>
+          <l>עם חיוך על הפנים בכל מקום</l>
+          <l>נהיה מאושרים, ממש כמו זוג יונים,</l>
+          <l>רק אני ואת - כל החיים</l>
+          <l>בחלום אני ואת נזרום</l>
+          <l>נהנה מכל רגע ומקום</l>
+          <l>אני ואת נגשים, את כל מה שרוצים</l>
+          <l>ונאהב זה את זו לעולמים!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתי אלי תבואי? </l>
+          <l>אני עוד מחכה</l>
+          <l>עברו שנה-שנתיים וכלום לא משתנה!</l>
+          <l>את החלום נגשים עוד, </l>
+          <l>נוכיח לכולם</l>
+          <l>האהבה תפרח לעולם!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בחלום אתעורר איתך כל יום...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כן, היום מתגשם לו החלום!</l>
+          <l>לא להאמין איך כך פתאום</l>
+          <l>זוג כזה מדהים, אין גם בסרטים</l>
+          <l>את ואני לנצח נצחים!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

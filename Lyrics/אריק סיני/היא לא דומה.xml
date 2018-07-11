@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא לא דומה 2</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא לא דומה</head>
+        <lg number="1" type="stanza">
+          <l>היא לא דומה לאף אחת אחרת</l>
+          <l>לאף אחת שעוברת ברחוב</l>
+          <l>היא משונה וכשהיא מדברת</l>
+          <l>קולה עושה לי משהו קרוב.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היא לא רואה</l>
+          <l>אני כאן כל הלילה</l>
+          <l>עומד בצד ומסתכל</l>
+          <l>איש מאוהב,</l>
+          <l>עומד בצד ומסתכל.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והלילה העיניים עייפות עד אור הבוקר</l>
+          <l>השפתיים לוחשות ללא מנוח</l>
+          <l>לא דומה לאף אחת.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

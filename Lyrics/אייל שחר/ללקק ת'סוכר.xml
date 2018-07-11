@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ללקק ת סוכר</title>
+        <singer classification="male singer">אייל שחר</singer>
+        <writer>אייל שחר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ללקק ת'סוכר</head>
+        <lg number="1" type="stanza">
+          <l>לילה בא בלילה</l>
+          <l>ואנ'לא יכול לישון</l>
+          <l>בוקר בא בבוקר</l>
+          <l>ולא זז השעון</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בחוץ יורדת רוח</l>
+          <l>יורדת מרצון</l>
+          <l>הגשם מטפטף לו</l>
+          <l>מטפטף לו המון</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יום ועוד יום ועוד יום</l>
+          <l>למה לא זז השעון?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמה זמן כבר עבר</l>
+          <l>כמה זמן עוד אפשר</l>
+          <l>כמה זמן עוד נשאר בלי</l>
+          <l>ללקק ת'סוכר</l>
+          <l>אני ויד הגורל</l>
+          <l>תמיד שמרנו על מורל</l>
+          <l>אבל אף אחד לא נשאר בלי</l>
+          <l>ללקק ת'סוכר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אצלי בתוך החדר</l>
+          <l>מבט מהאוויר</l>
+          <l>תמונה שמתרפקת</l>
+          <l>בחיקו של הקיר</l>
+          <l>על הרצפה למטה</l>
+          <l>שתי כריות חמות</l>
+          <l>שוכבות על השטיח</l>
+          <l>שמשמיע קולות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יום ועוד יום ועוד יום</l>
+          <l>למה לא זז השעון?</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כמה זמן כבר עבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

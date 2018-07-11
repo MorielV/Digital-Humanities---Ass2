@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלה הם שירי</title>
+        <singer classification="male singer">אבנר גדסי</singer>
+        <writer>סמדר שיר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלה הם שירי</head>
+        <lg number="1" type="stanza">
+          <l>אלה הם שירי, אלה ניגוני</l>
+          <l>אלו המילים שיוצאות לי מהלב</l>
+          <l>נשמה וכאב גם שמחה ועצב</l>
+          <l>אכזבה ותקווה, חיוך קטן וקצב</l>
+          <l>על שאהבתי, על שעזבתי</l>
+          <l>על החום של מבטך</l>
+          <l>על שנשמתי, על שחלמתי</l>
+          <l>יש לי שיר רגיש מלב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עד אור הבוקר ועד הלילה</l>
+          <l>עד סוף הדרך בואו נשיר</l>
+          <l>עד אור הבוקר ועד הלילה</l>
+          <l>עד סוף הדרך שירו איתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אלה הם שירי, אלה הם חיי</l>
+          <l>אלה הקולות שאני נושא בלב</l>
+          <l>זכרונות וחוקים ועבר של שנינו</l>
+          <l>רגעים וצלילים שהיו בינינו</l>
+          <l>על שחיפשתי, על שליטפתי</l>
+          <l>על השקט הצורב</l>
+          <l>על שביקשתי, על ששכחתי</l>
+          <l>אני שר לך ועוזב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד סיפור אחד 2</title>
+        <singer classification="male singer">איתן דרור</singer>
+        <writer>איתן דרור</writer>
+        <composer>איתן דרור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד סיפור אחד</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>עוד סיפור אחד, את נזרקת לאחור</l>
+          <l>מבקשת שאזכור מה שלא אוכל לשכוח</l>
+          <l>לעולם כבר לא אדע מה לקחת איתך לשם</l>
+          <l>בשבילנו, האושר לא קיים. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גם האיש ההוא שרצה יותר מכל</l>
+          <l>לחבק אותך אליו ולבנות לך הגנות</l>
+          <l>לעולם הוא נעלם, והטעם כמובן</l>
+          <l>בשבילנו, האושר לא קיים. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי שעוד נותר לספר על העבר</l>
+          <l>מדבר על אהבה שהלכה לפני זמנה</l>
+          <l>ואני שלא אשכח, זה ילך איתי לשם</l>
+          <l>בשבילנו, האושר לא קיים. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוד סיפור אחד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

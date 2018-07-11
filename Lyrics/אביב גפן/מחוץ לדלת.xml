@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחוץ לדלת</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחוץ לדלת</head>
+        <lg number="1" type="stanza">
+          <l>עיניים מלאות באור ותום </l>
+          <l>מחפשות אותי כאילו יש לי תשובה</l>
+          <l>אני רק נראה לך גדול</l>
+          <l>מי שומר על מי יותר, אני או אתה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פזמון</l>
+          <l>מחוץ לדלת יש עוד דרך </l>
+          <l>ומשם זה רק אתה </l>
+          <l>תלך תרוץ תיפול </l>
+          <l>תבוא הביתה, בחזרה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תלמד שגם כאב צריך מקום </l>
+          <l>תדאג שבלבך תמיד יהיה איזה שיר </l>
+          <l>תחבק חזק את האויבים </l>
+          <l>אל תשאל כמה הם בודדים בחיים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פזמון</l>
+          <l>מחוץ לדלת יש עוד דרך </l>
+          <l>ומשם זה רק אתה </l>
+          <l>תלך תרוץ תיפול </l>
+          <l>תבוא הביתה, בחזרה </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואם פתאום נגמר לך הכוח </l>
+          <l>שמים בוערים</l>
+          <l>הכוכבים כבויים</l>
+          <l>אני בא</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>פזמון</l>
+          <l>מחוץ לדלת יש עוד דרך </l>
+          <l>ומשם זה רק אתה </l>
+          <l>תלך תרוץ תיפול </l>
+          <l>תבוא הביתה, בחזרה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

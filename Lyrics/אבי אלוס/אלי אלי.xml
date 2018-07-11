@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלי אלי</title>
+        <singer classification="unknown">אבי אלוס</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלי אלי</head>
+        <lg number="1" type="stanza">
+          <l>אלי אלי השכחת</l>
+          <l>כי רק בשר ודם אני?</l>
+          <l>בחטאי הלא סלחת,</l>
+          <l>הלא תמחק את עווני.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אנא סלח רק הפעם,</l>
+          <l>מעווני אני ניחם.</l>
+          <l>אל-נא תראני את הזעם,</l>
+          <l>באפך אינני קם.</l>
+          <l>אנא הראני דרך-נועם,</l>
+          <l>הלא אני בשר-ודם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בעווני רחמני</l>
+          <l>לא זד אני ולא רשע.</l>
+          <l>בחסדך טהרני,</l>
+          <l>הן תרחם לאיש יפשע.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אנא סלח...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נחה דרכי ובחסד</l>
+          <l>האר לי את נתיבותי.</l>
+          <l>הלא נפשי מתרפסת,</l>
+          <l>להיכלך אשא עיני.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אנא סלח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

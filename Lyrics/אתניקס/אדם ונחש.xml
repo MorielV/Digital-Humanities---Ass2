@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אדם ונחש</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אדם ונחש</head>
+        <lg number="1" type="stanza">
+          <l>אביא לך, אראה לך, אקח אותך לדרכים מובנות</l>
+          <l>כמו פרח, את נפתחת, האבק שלך מתוק</l>
+          <l>את לא לבד, בת יער, לא לבד, זאת מגיה בלי צבע</l>
+          <l>אראה, אראה, אראה לך..</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני הייתי לך אדם, ואת היית נחש</l>
+          <l>בגן העדן הנעול, אני הוא החלש</l>
+          <l>בחלומות הכי ורודים, היית אישה בלי גוף עד טרוף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ליער הלכתי, לחפש לי רקפות,</l>
+          <l>עמדת מוקפת דרדרים כמגדלות.</l>
+          <l>מי זאת הנישקפה כמו שחר</l>
+          <l>מה יפו פעמייך, אראה ,אראה, אראה לך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני הייתי לך אדם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ולא לבד, בת יער, לא לבד</l>
+          <l>הגן נעול ואין שם אף אחד!</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני הייתי לך אדם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

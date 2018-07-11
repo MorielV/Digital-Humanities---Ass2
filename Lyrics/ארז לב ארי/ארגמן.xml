@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ארגמן</title>
+        <singer classification="male singer">ארז לב ארי</singer>
+        <writer>ארז לב ארי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ארגמן</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אוריאל רפאל גבריאל מיכאל נוריאל </l>
+          <l>הרימוני בכנפיכם שאוני אליכם אל שכינת אל </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כי ירדה נפשי אל בור תחתית אפל </l>
+          <l>הנה אני הולך ושואל </l>
+          <l>שובי נפשי לרחף מעל מצוקים גבוהים </l>
+          <l>כושר במרומים כמלאך בין מלאכים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אוריאל... </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>השיבו לי כנפי והשיבוני אל עירי </l>
+          <l>השיבו לי מאור עיני ואשכון בבית קודשי </l>
+          <l>אדור בין אהובי ושמחה נפשי </l>
+          <l>כי עייפתי מיגון ושאול </l>
+          <l>קצתי משנתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

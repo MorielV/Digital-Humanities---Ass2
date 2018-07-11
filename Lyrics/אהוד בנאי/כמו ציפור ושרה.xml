@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו ציפור ושרה</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>אהוד בנאי</writer>
+        <composer>missing</composer>
+        <album>רסיסי לילה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו ציפור ושרה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>שמרי טוב על עצמך גם אמא מבקשת </l>
+          <l>חזרי בשלום הביתה אנחנו מחכים לך, </l>
+          <l>אל תדאגו לי אבא אני עושה חיים </l>
+          <l>מרחפת ברכבת כמו ציפור ושרה. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מקווה שאת נזהרת במקומות מסוכנים, </l>
+          <l>לא מאבדת את הראש, לא מגזימה עם עישונים, </l>
+          <l>תשתדלי להיות בקשר לפחות כל יום שישי </l>
+          <l>ואם יש משהו שאת צריכה חמודה רק תבקשי. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תדאגו לי אבא אני עושה חיים </l>
+          <l>מרחפת ברכבת מדלהי לדרמסאלה. </l>
+          <l>שמרי טוב על עצמך גם אמא מבקשת </l>
+          <l>חזרי בשלום הביתה אנחנו מחכים לך. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יושבת על הגג בתוך ענן קודיקנאל </l>
+          <l>כל כך גבוה המקום כמעט נוגעת בחלל, </l>
+          <l>מסביב ממש מגניב איזה קסם של בריאה </l>
+          <l>מטורף ממש הזוי הזריחה והשקיעה. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שמרי טוב על עצמך...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני עדיין בוושישט מכאן אסע לורנאסי </l>
+          <l>אולי אלמד שם סיטאר או מחול הודי קלאסי, </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>מחבקים אותך חזק שבת שלום ומבורך </l>
+          <l>לכל מקום שאת הולכת אלוהים איתך. </l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>שמרי טוב על עצמך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

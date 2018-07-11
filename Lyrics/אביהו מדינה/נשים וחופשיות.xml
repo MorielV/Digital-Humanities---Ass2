@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נשים וחופשיות</title>
+        <singer classification="male singer">אביהו מדינה</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נשים וחופשיות</head>
+        <lg number="1" type="stanza">
+          <l>ראיתי בעיני. פגשתי בן בכל מקום</l>
+          <l>יפות וצעירות עודן כילדות</l>
+          <l>הן רק אתמול היו הילדות של ההורים</l>
+          <l>חלף רק יום והן נשים של החיים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מסובבות בעיר ומחפשות תדיר</l>
+          <l>ומבקשות פינה קטנה של שקט ושלווה</l>
+          <l>פינה קטנה וחמימה קן של אהבה</l>
+          <l>והפרוטה איננה גם השכר שחוק</l>
+          <l>וההורים בבית אף מצבם דחוק</l>
+          <l>אך לא מרפות הן מתעקשות</l>
+          <l>להיות נשים וחופשיות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ונערות יפות ברגעים של אכזבות</l>
+          <l>נעצרות ושואלות האם כדאי</l>
+          <l>קשה להסתדר אך יש עוד זמן להתפשר</l>
+          <l>ובינתיים טוב להן כי זו דרכן.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מסובבות בעיר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

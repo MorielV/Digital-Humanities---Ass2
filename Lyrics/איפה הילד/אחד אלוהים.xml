@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחד אלוהים</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחד אלוהים</head>
+        <lg number="1" type="stanza">
+          <l>אחד אלוהים מביט מלמעלה</l>
+          <l>אחד שטן מסתובב לו למטה</l>
+          <l>הרבה אנשים גרים שם למטה</l>
+          <l>לחלקם יש צרות חלקם ערבים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמה גנרלים כולם חיילים</l>
+          <l>פוליטיקאים עיתונאים</l>
+          <l>אוהבים לאכול נוהגים לשקר</l>
+          <l>אופקיהם צרים אנשים קטנים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ועכשיו הם פתאום שואלים</l>
+          <l>איך קרה שנפלו השמיים</l>
+          <l>מחפשים בערים שהיו אולי</l>
+          <l>לשתות בהן נשאר בהן</l>
+          <l>לשתות בהן מים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>פתאום המצב נהיה פטאלי</l>
+          <l>העם התגייס העם משפחה אחת</l>
+          <l>הכוהן בירך וצחק כולנו צחקנו איתו</l>
+          <l>הא! איך צחקנו איתו</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היו יריות וכמה פצצות</l>
+          <l>היתה מלחמה ביולוגית וכימית משהו טוטאלי</l>
+          <l>אנשים הלכו ברחובות</l>
+          <l>מופצצים וצמאים למים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ועכשיו הם פתאום שואלים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

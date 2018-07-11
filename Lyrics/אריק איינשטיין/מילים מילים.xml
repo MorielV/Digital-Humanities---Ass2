@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מילים מילים</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>יענקל'ה רוטבליט</writer>
+        <composer>פיטר רוט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מילים מילים</head>
+        <lg number="1" type="stanza">
+          <l>קולף מילים לארוחת הבוקר</l>
+          <l>הוא לא אוהב אותן מדי קשות</l>
+          <l>אחרי שהן ריקות מתוכן</l>
+          <l>הוא מגלגל אותן על הלשון</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מילים גדולות שאוהבים לשמוע</l>
+          <l>מתובלנות הן טעימות מאוד</l>
+          <l>מילים יפות אשר יודעות לצבוע</l>
+          <l>שגם החושך יראה ורוד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מילים מילים עפות ברוח</l>
+          <l>מתפוצצות כזיקוקי דינור</l>
+          <l>שהשומע כבר אינו בטוח</l>
+          <l>אם הוא הבין נכון את הסיפור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל כך יפה אצלו זה מתנסח</l>
+          <l>שזה יפה להיפך א פחות</l>
+          <l>בלב נדיב תמיד לכל אורח</l>
+          <l>שמור חלקו בשק ההבטחות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הוא לא קוסם הוא מאחז עיניים</l>
+          <l>רוכל מפיץ אבקות ושיקויים</l>
+          <l>שמטפטף לך אל האוזניים</l>
+          <l>סחורה גנובה משוק הדימויים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מילים מילים עפות ברוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

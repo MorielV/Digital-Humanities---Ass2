@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מגיע לך שיר</title>
+        <singer classification="male singer">אריק ברמן</singer>
+        <writer>אריק ברמן</writer>
+        <composer>אריק ברמן</composer>
+        <album>II</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מגיע לך שיר</head>
+        <lg number="1" type="stanza">
+          <l>מגיע לך שיר אהבה ממני,</l>
+          <l>עשרה חודשים לא הבאתי לך דבר.</l>
+          <l>מגיע לך שיר אהבה ממני,</l>
+          <l>אפילו שלא קל לי לכתוב כמו בעבר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יכול להיות שאין לנו עתיד ביחד,</l>
+          <l>אבל בזה שיהיה לך, אני רוצה שיהיה לך</l>
+          <l>זכרון אחד נקי ממני,</l>
+          <l>שתדעי שאהבתי אותך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מגיע לך שיר אהבה ממני,</l>
+          <l>על כל הפעמים שהכאבתי וסלחת.</l>
+          <l>מגיע לך שיר אהבה ממני,</l>
+          <l>על הכרטיס העלוב ביום-הולדת שלך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יכול מאד להיות שאין לנו עתיד ביחד,</l>
+          <l>אבל עם זה שיהיה לך, אני רוצה שיהיה לך</l>
+          <l>זכרון אחד נקי ממני,</l>
+          <l>שידעו שאהבתי אותך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

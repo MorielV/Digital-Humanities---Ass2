@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תנו לי רוקנ רול</title>
+        <singer classification="unknown">אריאלה עדוי</singer>
+        <writer>יאיר ניצני</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תנו לי רוקנ'רול</head>
+        <lg number="1" type="stanza">
+          <l>לפני שהכרתיה הייתי כל יכול,</l>
+          <l>בעיר אז הסתובבתי גאה כמו תרנגול,</l>
+          <l>כבשתי לב הנערות - הלכתי על גדול</l>
+          <l>ובלילות רקדתי לצליל הרוקנ'רול.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תנו לי, תנו לי רוקנ'רול,</l>
+          <l>תנו לי, תנו לי רוקנ'רול -</l>
+          <l>לא רוצה עוד דיסקו, אני כבר לא יכול -</l>
+          <l>תנו לי, תנו לי רוקנ'רול,</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היתה זו חבצלת ששינתה אצלי הכל,</l>
+          <l>אמרה לי אין גיטרות - נגמר הרוקנרול,</l>
+          <l>היא אותי הכריחה מהרוק להתנתק,</l>
+          <l>אותי משכה באוזן לרחבת הדיסקוטק.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תנו לי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני אוהב גם קלאסי וגם קצת חיפושיות,</l>
+          <l>אבל בגלל הדיסקו - אני לא יכול לחיות,</l>
+          <l>הושבת אותי בחדר אתמול עד מאוחר,</l>
+          <l>לשמוע "אינדונזי" של אנשי הכפר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תנו לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טוב לי</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>שלום חנוך</writer>
+        <composer>שלום חנוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טוב לי</head>
+        <lg number="1" type="stanza">
+          <l>טוב לי לזרוח איתך,</l>
+          <l>טוב לי לשקוע איתך,</l>
+          <l>טוב לי איתך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>טוב לי לזרוח אצלך,</l>
+          <l>טוב לי לשקוע אצלך,</l>
+          <l>טוב לי אצלך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תלכי ללקוט בשדה אחר,</l>
+          <l>ללקוט בשדה אחר,</l>
+          <l>את אחת שלי, טוב לי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>טוב לי בבוקר אותך,</l>
+          <l>טוב לי לערב אותך,</l>
+          <l>טוב לי אותך.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את אחת שלי, טוב לי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

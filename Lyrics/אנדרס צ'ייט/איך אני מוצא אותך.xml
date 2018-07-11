@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך אני מוצא אותך</title>
+        <singer classification="unknown">אנדרס צ ייט</singer>
+        <writer>אנדרס צ'ייט</writer>
+        <composer>אנדרס צ'ייט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך אני מוצא אותך</head>
+        <lg number="1" type="stanza">
+          <l>הגורל לא אומר לי כלום</l>
+          <l>והחיפוש עוד לא נגמר</l>
+          <l>מי לקח את התקווה</l>
+          <l>אבל מי לקח אותה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>למה אנחנו לא ביחד</l>
+          <l>את הלכת ובלי סיבות</l>
+          <l>ולמרות שלא התקדמתי</l>
+          <l>אין לי שמץ מה לעשות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך אני מוצא אותך</l>
+          <l>הלילה נגמר ולא נותן לי להמשיך</l>
+          <l>איך אני מוצא אותך</l>
+          <l>הבוקר בורח ואני לבד כמו תמיד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל הזמן שלא חלקנו</l>
+          <l>הדמעות מול המראה (הם מול המראה)</l>
+          <l>אבל אין לי מה להגיד לך</l>
+          <l>כי למעלה ראיתי אותך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אבל אין לי מה להגיד לך</l>
+          <l>כי למעלה ראיתי אותך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

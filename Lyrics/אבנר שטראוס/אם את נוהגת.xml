@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם את נוהגת</title>
+        <singer classification="male singer">אבנר שטראוס</singer>
+        <writer>אבנר שטראוס</writer>
+        <composer>אבנר שטראוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם את נוהגת</head>
+        <lg number="1" type="stanza">
+          <l>אל החיטה לא ישוב הלחם</l>
+          <l>או היין אל הענב</l>
+          <l>לא ישוב התינוק אל הרחם</l>
+          <l>או הפרי אל שורשיו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גם הלחם שאתה אוכל היה</l>
+          <l>חיטה מתנפנפת ברוח</l>
+          <l>הגיטרה שאני מנגן היתה</l>
+          <l>עץ וענף ותפוח</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם את נוהגת</l>
+          <l>פתחי את הרדיו</l>
+          <l>אולי תשמעי אותי שר</l>
+          <l>את בטח זוכרת </l>
+          <l>היית מאושרת</l>
+          <l>גם אני הייתי מאושר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שלח לחמך על המים</l>
+          <l>יום אחד הוא יחזור</l>
+          <l>מה שזרעת</l>
+          <l>הוא מה שתקצור</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היהפוך כושי עורו</l>
+          <l>או נמר חברבורותיו</l>
+          <l>אל מחצבתה לא תשוב האבן</l>
+          <l>או הפרי אל שורשיו</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אם את נוהגת...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>בשיר הזה אין שאר רוח</l>
+          <l>הוא יישאר פשוט</l>
+          <l>לא יהפוך תפל לעיקר</l>
+          <l>ועיקר ‟ לקישוט</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>גם היין שאתה שותה</l>
+          <l>היה גפן מתנדנדת ברוח</l>
+          <l>הגיטרה שאני מנגן</l>
+          <l>היתה עץ וענף ותפוח</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

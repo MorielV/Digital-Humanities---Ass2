@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מפליגה</title>
+        <singer classification="male singer">אלי לס</singer>
+        <writer>אלי לס</writer>
+        <composer>אלי לס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מפליגה</head>
+        <lg number="1" type="stanza">
+          <l>פג'ו כחולה </l>
+          <l>מכות כולה </l>
+          <l>אוטו לא רע </l>
+          <l>ואת שיכורה </l>
+          <l>לאט לאט </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מפליגה בתוך רמזור </l>
+          <l>מרוח על הכביש </l>
+          <l>על דוושות עם בוץ </l>
+          <l>כמוץ עף בשדה קיצי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עובר לילה </l>
+          <l>במיטה ביחד </l>
+          <l>תמיד חם </l>
+          <l>המוסיקה שלי </l>
+          <l>היא כמו </l>
+          <l>עשב מכוסח </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מפליגה בתוך רמזור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

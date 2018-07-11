@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דבר אלי בפרחים 2</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>אורי אסף</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דבר אלי בפרחים</head>
+        <lg number="1" type="stanza">
+          <l>בחורף הגשם דפק על הגג</l>
+          <l>אמרה כי לבן הוא צבעה האהוב</l>
+          <l>ליד אז הגיש לה - בלב היה חג</l>
+          <l>צרור נרקיסים ריחני ורטוב</l>
+          <l>צחקה - נערי החביב</l>
+          <l>עוד נשוב נדבר באביב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>דבר אלי בפרחים, אהובי</l>
+          <l>דבר אלי בפרחים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אביב בא, ביקשה אביבית להיות</l>
+          <l>הוריקו שדות במרחב ובניר</l>
+          <l>הביא לה זרים זהבי חרציות</l>
+          <l>אך היא כבר ציפתה ליום קיץ בהיר</l>
+          <l>את פרחי התבל לי אסוף</l>
+          <l>נתראה עת אביב יחלוף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דבר אלי בפרחים, אהובי</l>
+          <l>דבר אלי בפרחים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יום קיץ לוהט והוא בביתו</l>
+          <l>יבש כל שדה פרח בר לא שרד</l>
+          <l>לפתע בפתח עמדה לקראתו</l>
+          <l>ביקשה זר פרחים, לו רק פרח אחד</l>
+          <l>איך יתן והכל כבר יבש</l>
+          <l>אבל היא עוד חזרה לבקש</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>דבר אלי בפרחים, אהובי</l>
+          <l>דבר אלי בפרחים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

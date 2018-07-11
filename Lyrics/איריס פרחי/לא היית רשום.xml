@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא היית רשום</title>
+        <singer classification="female singer">איריס פרחי</singer>
+        <writer>איריס פרחי</writer>
+        <composer>איריס פרחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא היית רשום</head>
+        <lg number="1" type="stanza">
+          <l>אלף אנשים עומדים בצפירה</l>
+          <l>אלף אנשים עומדים בצפירה</l>
+          <l>אלף אנשים עומדים בצפירה ובוכים</l>
+          <l>המצב בארץ פשוט נורא אישה עם כובע שחור אמרה</l>
+          <l>והתחילה להקריא במיקרופון שירה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כולם מתיישבים ומסתכלים אל מקהלת הזמר</l>
+          <l>שירים קשים ומרגשים של נעמי שמר</l>
+          <l>הם מדליקים אש - זה הדבר היחיד שיש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אלף אנשים מביטים בך</l>
+          <l>אלף אנשים מביטים בך</l>
+          <l>אלף אנשים מביטים בך בכבוד</l>
+          <l>וכולם נותנים ברכות, למשפחות</l>
+          <l>וגומרים ב"נתראה רק בשמחות"</l>
+          <l>רק לא מזמן ישבנו כאן עם --- על האנדרטה</l>
+          <l>וקראנו את כל השמות מלמעלה עד למטה </l>
+          <l>מעבר לזה לא ראינו כלום</l>
+          <l>אתה לא היית רשום, לא היית רשום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כולם מתיישבים ומסתכלים אל מקהלת הזמר</l>
+          <l>שירים קשים ומרגשים של נעמי שמר</l>
+          <l>הם מדליקים אש - זה הדבר היחיד שיש</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רק לא מזמן ישבנו כאן עם --- על האנדרטה</l>
+          <l>וקראנו את כל השמות מלמעלה עד למטה </l>
+          <l>מעבר לזה לא ראינו כלום</l>
+          <l>אתה לא היית רשום, לא היית רשום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

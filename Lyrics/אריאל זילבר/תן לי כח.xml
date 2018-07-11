@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תן לי כח</title>
+        <singer classification="male singer">אריאל זילבר</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תן לי כח</head>
+        <lg number="1" type="stanza">
+          <l>הו תן לי כח</l>
+          <l>הו תן לשכוח</l>
+          <l>מה מקבל אדם</l>
+          <l>מה יש לו בעולם</l>
+          <l>כשכל חייו הנם</l>
+          <l>רגע שנעלם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הו תן לי כח</l>
+          <l>הו תן לשכוח</l>
+          <l>את הסיכוי הדל</l>
+          <l>במשחקי מזל</l>
+          <l>מי מתבונן מעל</l>
+          <l>מי מתעניין בכלל</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי בן אדם שקם</l>
+          <l>למי הוא עמל</l>
+          <l>מה כבר קיבל חינם</l>
+          <l>מה יקבל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הו תן לי כח</l>
+          <l>הו תן לשכוח</l>
+          <l>אז מה אם אני זוכה</l>
+          <l>אז מה אם אני בוכה</l>
+          <l>כי מה שעתיד עבר</l>
+          <l>מה מחכה לי כבר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כי בן אדם שקם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

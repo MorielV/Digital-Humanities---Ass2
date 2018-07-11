@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ארץ החלומות</title>
+        <singer classification="unknown">אורלי ורדי</singer>
+        <writer>אורלי ורדי</writer>
+        <composer>עופר המרמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ארץ החלומות</head>
+        <lg number="1" type="stanza">
+          <l>אביר על סוס לבן עושה דרכו אלי</l>
+          <l>הזמין אותי להצטרף אליו</l>
+          <l>לארץ חלומות, קסומה וירוקה</l>
+          <l>נחיה את המאה האחרונה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בוא נרחף מעל הקשת שבורוד</l>
+          <l>נדהר לאופק הרחוק ללא גבולות</l>
+          <l>איזו תחושה עברה בינינו</l>
+          <l>מן חמימות כזאת, של חלומות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הקסם שאיתו מפר את השתיקה</l>
+          <l>עבר היום, אולי יחזור מחר</l>
+          <l>להתנתק עכשיו לא בא פה בחשבון</l>
+          <l>מסע כה אמיתי, מצית את הדמיון</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בוא נרחף מעל הקשת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עומד בשער</title>
+        <singer classification="unknown">אור טרגן</singer>
+        <writer>עמיר בניון</writer>
+        <composer>עמיר בניון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עומד בשער</head>
+        <lg number="1" type="stanza">
+          <l>שמעתי שאתה חוזר את כל הדרך</l>
+          <l>ראיתי מלאכים עורכים שולחן לבן המלך</l>
+          <l>גם ראיתי סולם, געגועים יורדים ועולים</l>
+          <l>שמעתי רוחות שמלטפות את העלים</l>
+          <l>ראיתי אותך, זה לא חזיון תעתועים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שמעתי שהים הכריז על יום שמח</l>
+          <l>ראיתי את הכוכבים והירח מרקדים</l>
+          <l>גם הם יודעים בחזרה להתגלגל</l>
+          <l>שמעתי שהשמש היא בעצם צל</l>
+          <l>ראיתי מגדל מזדעזע ונופל</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תבוא, אנחנו מחכים לך יותר מדי שנים</l>
+          <l>אנחנו השתגענו אין לנו יותר פנים </l>
+          <l>רק הולכים ומתכלים כל הזמן, אז תבוא</l>
+          <l>כן תבוא, לא נשארו כלים כדי שנוכל אותם לשבור</l>
+          <l>אנחנו לא יודעים מי פה צלול</l>
+          <l>מי השיכור שתמיד נופל לבור, מן הסתם</l>
+          <l>אז תבוא, כן תבוא.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שמעתי שאתה ממש עומד בשער</l>
+          <l>ושכל שה תמים יוכל לגור ביער ושמעתי</l>
+          <l>שגם הלב הזה יותר לא ימות</l>
+          <l>דמיון יחתום הסכם שלום עם מציאות</l>
+          <l>כל הצלילים יהיו לשיר אחד פשוט</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תבוא, אנחנו מחכים לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

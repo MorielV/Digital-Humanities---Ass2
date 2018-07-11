@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ארץ החידות</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>יואב גינאי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ארץ החידות</head>
+        <lg number="1" type="stanza">
+          <l>מה יקרה איתנו כאן מחר, בעוד עידן </l>
+          <l>מה נאמר לילדינו על חידת הזמן </l>
+          <l>מה יקרה איתנו כאן שבות השאלות </l>
+          <l>ששאלנו את עצמנו באלפי קולות </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה יהיה עלינו כאן בתום העננים</l>
+          <l>איך נדע כיצד לנהוג בדרך השנים </l>
+          <l>מי ישמור אותנו כאן ואיך נדע לשמור </l>
+          <l>על הצלם של עצמנו וזריחת האור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה השתננו כאן מאז ההתחלה</l>
+          <l>איך הזמן הערמומי דוהר על מסילה </l>
+          <l>החלום וגם שיברו מכים בנשמה </l>
+          <l>ונוטעים עוד סוד חדש בתוך האדמה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ארץ אלף החידות הכל נסתר ושוב נגלה </l>
+          <l>ארץ אלף התקוות המריבות, המחילה </l>
+          <l>ושוב הגשם ברחובות ושוב שרב ושוב תפילה </l>
+          <l>והפרחים שבים לפרוח כמו בהתחלה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

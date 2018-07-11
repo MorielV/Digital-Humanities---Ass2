@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחד ממאה</title>
+        <singer classification="female singer">אביבה אבידן</singer>
+        <writer>רמי לב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחד ממאה</head>
+        <lg number="1" type="stanza">
+          <l>אתה אחד ממאה</l>
+          <l>ואני קשורה אליך, הסיבה לקיומי</l>
+          <l>אתה אחד ממאה</l>
+          <l>והשמש בעיניך, היא האור בעולמי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל דקה איתך היא נצח</l>
+          <l>כל חלום שווה זהב</l>
+          <l>יש בך כל שאוהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מכל הגברים בחרתי בך</l>
+          <l>מכל החיוכים אהבתי את שלך</l>
+          <l>מכל המנגינות שבחיים</l>
+          <l>התרגשתי ממך ללא מילים</l>
+          <l>מכל הדמעות שרציתי לבכות</l>
+          <l>איתך זה קרה לי שעות ארוכות</l>
+          <l>מכל אהבה שהיתה בעולם</l>
+          <l>הרגשתי איתך הכי מושלם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אתה אחד ממאה</l>
+          <l>היחיד שכבר יודע, את הדרך לליבי</l>
+          <l>אתה אחד ממאה</l>
+          <l>שאיתו להשתגע, כל דקה בחלומי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל דקה איתך היא נצח </l>
+          <l>כל חלום שווה זהב </l>
+          <l>יש בך כל שאוהב </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מכל הגברים בחרתי בך...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אתה אחד ממאה </l>
+          <l>היחיד שכבר יודע, את הדרך לליבי </l>
+          <l>אתה אחד ממאה </l>
+          <l>שאיתו להשתגע, כל דקה בחלומי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לי נערה</title>
+        <singer classification="male singer">אבנר גדסי</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לי נערה</head>
+        <lg number="1" type="stanza">
+          <l>יש לי נערה קטנה, כה יפה ועדינה</l>
+          <l>שערה זהוב גולש, ואישון עיניה אש</l>
+          <l>היא איתי פתאום אינה, תרחף לעננה</l>
+          <l>שואלת היא מתי ומה,</l>
+          <l>ומה יהיה עם חלומה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל מה שאת חולמת, וכל שתבקשי</l>
+          <l>את כל מה שאת עורגת, עורגת גם נפשי</l>
+          <l>על כן חייכי אלי מלב, </l>
+          <l>אותך אני אוהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לך אתפור שמלת כלולות, לך אנעים גם בלילות</l>
+          <l>לך אהיה חומת מגן, גם כשאהיה זקן</l>
+          <l>אכסך ברוח קר, את יותר מכל יקר</l>
+          <l>יפה יותר מן היפות,</l>
+          <l>טובה מכל האחרות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

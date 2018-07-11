@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לחבק זה לא מספיק</title>
+        <singer classification="unknown">אסי אשד</singer>
+        <writer>אלון גולדשטיין</writer>
+        <composer>אסי אשד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לחבק זה לא מספיק</head>
+        <lg number="1" type="stanza">
+          <l>התרוקנתי כשהחלטנו להגיד שלום </l>
+          <l>ישבתי בשקט כמו מת על ספה בסלון </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אוהב לא אוהב, מאכזב </l>
+          <l>לא רוצה לחשוב עלייך </l>
+          <l>רוצה שתיעלם מהלב </l>
+          <l>אתה לא מפסיק לקנן במוחי </l>
+          <l>כל כך רחוק אבל כל כך תמידי </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כנראה שלחבק זה לא מספיק </l>
+          <l>כנראה שביחד הופך להיות יותר דביק </l>
+          <l>כנראה שפספסנו איזו אהבה בדרך </l>
+          <l>כנראה שלמילה הזו בכלל אין ערך </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רוצה להתפוצץ מרוב שתהיי </l>
+          <l>להשפריץ קצף סמיך </l>
+          <l>להגיד אוהב אותך ואותי </l>
+          <l>זה לא אמיתי </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה הזמן להגיד יפה שלום </l>
+          <l>ותנסה לחייך כשתראה אותי בחלום </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כנראה שלחבק זה לא מספיק </l>
+          <l>כנראה שביחד הופך להיות יותר דביק </l>
+          <l>כנראה שפספסנו איזו אהבה בדרך </l>
+          <l>כנראה שלמילה הזו בכלל אין ערך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

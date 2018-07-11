@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עורי עור</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>יומן מסע</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עורי עור</head>
+        <lg number="1" type="stanza">
+          <l>האימה האיבה</l>
+          <l>קולות המלחמה</l>
+          <l>ושנאת אחים</l>
+          <l>שבכל יום גוברת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הזיקנה מביכה</l>
+          <l>הם מתים פה מבושה</l>
+          <l>בקולם הם לוחשים</l>
+          <l>ואת שותקת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עורי עור</l>
+          <l>עורי עור</l>
+          <l>מולדת אהובה</l>
+          <l>כי אנחנו עייפים מאוד</l>
+          <l>זקוקים למנוחה</l>
+          <l>עורי עור</l>
+          <l>עורי עור</l>
+          <l>מולדת אהובה (חשוכה)</l>
+          <l>פעם בחיים אנו חיים</l>
+          <l>תתני קצת אהבה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אלימות, השפלה</l>
+          <l>גזענים לעלייה</l>
+          <l>ועוד ילד שפוחד לחזור הביתה</l>
+          <l>האימה האיבה</l>
+          <l>שירים של מלחמה</l>
+          <l>ושנאת אחים שבכל יום גוברת</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עורי עור...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ותני לי ת'כח</l>
+          <l>לאהוב אותך</l>
+          <l>מן פינה קטנה לשמוח</l>
+          <l>איך לפעמים קשה לסלוח לך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוצה אותך קרובה</title>
+        <singer classification="unknown">אביב דיין</singer>
+        <writer>רונן מיכאלוב</writer>
+        <composer>ניקי פאפאטדוראו / פוטיוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוצה אותך קרובה</head>
+        <lg number="1" type="stanza">
+          <l>לך לכעוס, אין סיבה אהובתי</l>
+          <l>תחשבי לך , מה יקרה לי כשתלכי</l>
+          <l>את יודעת, כל חיי רק בשבילך</l>
+          <l>מה תעשי, כשאבקש את סליחתך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וזו את עוד מולי, לא נרגעת ובוכה</l>
+          <l>לא נותנת לי גם רגע לדבר</l>
+          <l>אהובה אל תלכי, את שומעת תחכי</l>
+          <l>אני מבטיח לך הכל עוד יסתדר</l>
+        </lg>
+        <lg number="3" type="stanza" />
+        <lg number="4" type="stanza">
+          <l>אין לי לאן, כל הלילה לא נרדם</l>
+          <l>חיזרי את חסרה, לכל אני מוכן</l>
+          <l>אין לי שמחה, רק רוצה אותך קרובה</l>
+          <l>לא שוכח רגעים, שהיתה בך אהבה</l>
+        </lg>
+        <lg number="5" type="stanza" />
+        <lg number="6" type="stanza">
+          <l>בכל לילה אני חיכתי בחדרי,</l>
+          <l>לא נכנעתי התחננתי תחזרי.</l>
+          <l>את יודעת נגמרו לי המילים,</l>
+          <l>לא סיפרתי כמה קר לבדי.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>וזו את עוד מולי, לא נרגעת ובוכה</l>
+          <l>לא נותנת לי גם רגע לדבר</l>
+          <l>אהובה אל תלכי, את שומעת תחכי</l>
+          <l>אני מבטיח לך הכל עוד יסתדר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

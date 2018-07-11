@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיגעת אותי</title>
+        <singer classification="unknown">אביב חשמונאי</singer>
+        <writer>אביב חשמונאי</writer>
+        <composer>אביב חשמונאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיגעת אותי</head>
+        <lg number="1" type="stanza">
+          <l>רוקדת לך במועדון</l>
+          <l>הגנבת מבט אל תוך עיני</l>
+          <l>שובבה את ונועזת</l>
+          <l>יש בך קסם מיוחד</l>
+          <l>כל כך שונה ומיוחדת</l>
+          <l>עיני שקד לך אהובה</l>
+          <l>כל שתרצי אני אתן לך</l>
+          <l>את כל כולי מהנשמה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שיגעת אותי הטרפת אותי</l>
+          <l>הרסת אותי הלילה</l>
+          <l>גנבת לי את הראש</l>
+          <l>הלב שלי נמרח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מקפיץ טקילה עם לימון</l>
+          <l>מחזיר חיוך לך שובבה</l>
+          <l>חושב לגשת לא לגשת</l>
+          <l>האם אמצא בך אהבה</l>
+          <l>יש לך פוזה של כוכבת</l>
+          <l>דעי לך הערת את כל חושי</l>
+          <l>אך אם כל זה רק המשחק שלך</l>
+          <l>עזבי אותי הניחי לי ודי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שיגעת אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אושר אמיתי</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>ניסים מרי</writer>
+        <composer>רביב רם בן מנחם</composer>
+        <album>נגעת לי בלב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אושר אמיתי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>את שלי, את נולדת בשבילי</l>
+          <l>רק כשאת נמצאת איתי</l>
+          <l>אושר אמיתי, בא אל ליבי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לחיי הבאת ברכה</l>
+          <l>בך הלב שלי זכה</l>
+          <l>אין אחת שעוד דומה לך</l>
+          <l>מאוהב רק בך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החיוך שלך מתוק</l>
+          <l>את גורמת לי לצחוק</l>
+          <l>לך אני אתן הכל</l>
+          <l>אלוהים גדול</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את שלי, את נולדת בשבילי</l>
+          <l>רק כשאת נמצאת איתי :</l>
+          <l>אושר אמיתי, בא אל ליבי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>באת כמו שמש אל חיי</l>
+          <l>אהבה נתת בלי דיי</l>
+          <l>מה יכולתי עוד לרצות</l>
+          <l>רק איתך להיות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את שלי, את נולדת בשבילי</l>
+          <l>רק כשאת נמצאת איתי</l>
+          <l>אושר אמיתי, בא אל ליבי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

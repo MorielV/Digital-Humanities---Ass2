@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חבל לך על הזמן</title>
+        <singer classification="unknown">אלון חסון</singer>
+        <writer>שי קסלר</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חבל לך על הזמן</head>
+        <lg number="1" type="stanza">
+          <l>זו את ילדה אשר עזבת</l>
+          <l>ואותי לבד השארת</l>
+          <l>זו את ילדה אשר שיקרת</l>
+          <l>ועם אחר את נעלמת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בלילה קר פתאום עזבת</l>
+          <l>בלי בושה אותי חיבקת</l>
+          <l>בדמעות סליחה אמרת</l>
+          <l>ולחזור אלי ביקשת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>חבל ילדה לך על הזמן</l>
+          <l>אותך שכחתי כבר מזמן</l>
+          <l>אני בך לא מעוניין</l>
+          <l>חבל ילדה לך על הזמן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני אלייך לא אחזור</l>
+          <l>גם אם תבכי זה לא יעזור</l>
+          <l>מה שעשית אני אזכור</l>
+          <l>וכאבי לא יעבור</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אותך מחקתי ילדתי</l>
+          <l>את פנייך ואת שמך</l>
+          <l>אל תבקשי את סליחתי</l>
+          <l>לא רוצה לראותך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>חבל ילדה לך על הזמן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

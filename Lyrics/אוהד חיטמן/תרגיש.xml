@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תרגיש 2</title>
+        <singer classification="male singer">אוהד חיטמן</singer>
+        <writer>אוהד חיטמן</writer>
+        <composer>אוהד חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תרגיש</head>
+        <lg number="1" type="stanza">
+          <l>תרגיש כמה שזה טוב</l>
+          <l>תנשום את האוויר</l>
+          <l>אחר–כך תעביר למישהו קרוב</l>
+          <l>ותן לעצמך</l>
+          <l>קצת לאהוב אותך</l>
+          <l>עזוב את השטויות שלך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ולך לאן שרק תרצה</l>
+          <l>אסור שתאחר</l>
+          <l>בסוף עוד תתעורר עייף</l>
+          <l>אז לך–לך בדרכך</l>
+          <l>תאהב את עצמך</l>
+          <l>אתה הרי צודק</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עכשיו זה הזמן להתחדש</l>
+          <l>ודווקא כשרע להתרגש</l>
+          <l>בסוף אם לא תלך ייקחו אותך מכאן</l>
+          <l>תבין שלא ניצלת את הזמן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמה שזה טוב</l>
+          <l>להיות זה שבוחר</l>
+          <l>כמה משחרר לתת לזה לקרות</l>
+          <l>לזרום עם האמת</l>
+          <l>אחרת אתה מת</l>
+          <l>אתה הרי צודק</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עכשיו זה הזמן להתחדש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

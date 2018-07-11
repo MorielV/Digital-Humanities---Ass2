@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם רק תגידי כן</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם רק תגידי כן</head>
+        <lg number="1" type="stanza">
+          <l>זוכרת איך נהגנו במכונית הישנה</l>
+          <l>שער הגיא תשעים ושבע</l>
+          <l>ניחוח אורנים ליטף את אור הלבנה</l>
+          <l>תמונה רומנטית של הטבע</l>
+          <l>ברדיו הקריין דיבר על אסונות</l>
+          <l>הנחת ראשך עלי מפחד</l>
+          <l>דיברנו אז על ילדים ואהבה</l>
+          <l>אז בואי ותשאירי לי תקווה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני אביא לך כל חג שושנה</l>
+          <l>אשיר לך ביום השנה</l>
+          <l>אם רק תגידי כן</l>
+          <l>ביחד אזדקן איתך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וכשהגענו למחלף של תל אביב</l>
+          <l>קבוצת שונאי שלום הפגינה</l>
+          <l>משמאל הייתה פנייה לשביל האוהבים</l>
+          <l>ואת אמרת לי קח ימינה</l>
+          <l>לו רק ידעתי שאולי תגידי כן</l>
+          <l>הייתי עד חיפה מגיע</l>
+          <l>משם ישר לירח דבש על הירדן</l>
+          <l>כי לך הייתי את הכל נותן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני אביא לך כל חג שושנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

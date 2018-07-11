@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשאין לך מילים</title>
+        <singer classification="unknown">ארז יחיאל</singer>
+        <writer>זיו טל</writer>
+        <composer>ארז יחיאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשאין לך מילים</head>
+        <lg number="1" type="stanza">
+          <l>כשאין לך מילים ולא מוצא דרכים </l>
+          <l>אתה מרגיש שאין על מה להישען </l>
+          <l>יושב שעות בדד נרגש וקצת נפחד </l>
+          <l>חשוב על מה שיש אך אל נא תתייאש </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>האל שבמרומים פותח שערים </l>
+          <l>עוזר בכל צרה אם מלב אליו תקרא </l>
+          <l>תראה עולם נגלה ואור מלא חדווה </l>
+          <l>לך יאיר פנים באוש ושלווה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז צא מזה הכל בסדר </l>
+          <l>להיות עצוב אומרים זה לא כדאי </l>
+          <l>ואם תשכח תהיה כלי שבר </l>
+          <l>ולא תוכל לשמוח בוודאי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תפילה זכה מלב בקול ניגון ערב </l>
+          <l>ריקוד מלא שמחה ישכיחו כאבך </l>
+          <l>תזכור עולם נגלה באור מלא חדווה </l>
+          <l>לך יאיר פנים באוש ושלווה </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז צא מזה הכל בסדר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

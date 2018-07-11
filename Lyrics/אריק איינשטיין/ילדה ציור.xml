@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילדה ציור</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>מישה סגל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילדה ציור</head>
+        <lg number="1" type="stanza">
+          <l>פעם אהבתי ילדה בציור</l>
+          <l>בספר אחד עם המון גמדים מצחיקים</l>
+          <l>גמדים</l>
+          <l>ילדה שלגיה עם כיפה וכדור</l>
+          <l>תותים מתוקים וקופים עם בובות ותופים</l>
+          <l>שרוקדים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני אהבתי רק אותה</l>
+          <l>את הילדה בסיפור</l>
+          <l>ילדה ציור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אחר כך בכל הספרים</l>
+          <l>לראות מה קרה לילדה שביער הלכה</l>
+          <l>או חזרה</l>
+          <l>מצאתי שם רק ציורים אחרים</l>
+          <l>עצים, אנשים וכלבים עם בתים ועם סוס</l>
+          <l>או פרה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבל אהבתי רק אותה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>פעם אחת היא יצאה מהדף</l>
+          <l>אמרה שהיא לא מתאימה כבר יותר לסיפור</l>
+          <l>לסיפור</l>
+          <l>פתאום היא היתה נסיכה מתוקה</l>
+          <l>נשקה לי פתאום, אז החזרתי אותה לציור</l>
+          <l>לציור</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אבל אהבתי רק אותה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אודליה</title>
+        <singer classification="male singer">אבנר גדסי</singer>
+        <writer>סמדר שיר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אודליה</head>
+        <lg number="1" type="stanza">
+          <l>כשקראתי לה סיפור, שכתבתי בשבילה</l>
+          <l>הביטה בי נוגות שתקה בלי מילה.</l>
+          <l>שניסיתי לחייך ואמרת לא בשבילך,</l>
+          <l>צחקה ואמרה: שכבר מאוחר.</l>
+          <l>וביקשתי אל תלכי והיא כבר נעלמה </l>
+          <l>ובים הדמעות נותר רק שמה,</l>
+          <l>אז בכי בלי קול אודליה, אודליה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אודליה, אם נלחש אהבה</l>
+          <l>אודליה אם ישיב לי אותה את אודליה.</l>
+          <l>אודליה, אם ישיב לי אותה,</l>
+          <l>את חיוכה את לבבה של אודליה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שזימרתי לה שירים עם גיטרה עצובה,</l>
+          <l>צל הערב שירד, לחש אהבה.</l>
+          <l>היא הרכינה את ראשה וחייכה מתוך בושה </l>
+          <l>והבינה שהכל, נכתב בשבילה.</l>
+          <l>המילים לא נאמרו לא ידענו לקוות</l>
+          <l>שתי ידיה של אודליה היו זרות.</l>
+          <l>אז הבנתי הכל אודליה, אודליה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אודליה אם נלחש אהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

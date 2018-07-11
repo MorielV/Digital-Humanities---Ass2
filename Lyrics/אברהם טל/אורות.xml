@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אורות</title>
+        <singer classification="male singer">אברהם טל</singer>
+        <writer>אברהם טל</writer>
+        <composer>אברהם טל</composer>
+        <album>אורות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אורות</head>
+        <lg number="1" type="stanza">
+          <l>כל המקומות שבהם היית</l>
+          <l>עולמות שראית וגילית</l>
+          <l>כל השאלות שבדרך שאלת</l>
+          <l>לפעמים לא העזת לגלות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אורות מהבהבים</l>
+          <l>בשתי שניות</l>
+          <l>חולפים חיי אל מול עיני</l>
+          <l>קולות מזמן אחר</l>
+          <l>הלב אומר להתעורר מהר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל הדרכים נפתחות לפניך</l>
+          <l>מתגלות מול עיניך בחייך</l>
+          <l>כל התהיות נעלמות ברגע</l>
+          <l>ועכשיו ברור מה חשוב ומה פחות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אורות מהבהבים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל הזכרונות, הדמעות שבכית</l>
+          <l>שניקו את פניך מהתום</l>
+          <l>כל החוויות שהעצימו את ימיך</l>
+          <l>שהדירו שינה מעיניך בלילות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אורות מהבהבים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

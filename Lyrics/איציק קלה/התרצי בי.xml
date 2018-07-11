@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התרצי בי</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>שלמה כישור</writer>
+        <composer>אנריקו מאסיאס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התרצי בי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>התרצי בי לעולם בימי קיץ ושלכת?</l>
+          <l>היי לי חוף-ים וכמו סער שנדם.</l>
+          <l>תני מנוח לליבי, לנפשי המיוסרת,</l>
+          <l>היי כאן לידי כמו חלום שמתגשם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>התרצי בי, ילדה?</l>
+          <l>התאמרי: "יש אהבה</l>
+          <l>ואור שבלבנו</l>
+          <l>אף פעם לא כבה"?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>התאמרי לי: "אהובי, רק אותך אני אוהבת",</l>
+          <l>הלא אהבתי רק שלך היא ושלי.</l>
+          <l>הן יבער בי לבבי והאש בי מלחכת,</l>
+          <l>עמוק הוא כאבי כאשר את לא איתי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>התרצי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

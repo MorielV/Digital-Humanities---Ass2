@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To Be Alone</title>
+        <singer classification="band">ארבע עשרה אוקטבות</singer>
+        <writer>אורי שמיר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>To Be Alone</head>
+        <lg number="1" type="stanza">
+          <l>To be alone one thing I know well </l>
+          <l>Getting with the crowds on football days </l>
+          <l>Though I know, It's no use at all </l>
+          <l>It's just the same </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>To be alone one thing I know well </l>
+          <l>Walking down her street so I may say: </l>
+          <l>"lovely day, lets go away" in case we meet </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>To be alone is to join your local pub </l>
+          <l>Don't you know my friend it's just no use at all </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>To be alone one thing I know well </l>
+          <l>Getting on a bus that takes me far, far away </l>
+          <l>Could be anywhere I wouldn't mind </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>To be alone is to join your local pub </l>
+          <l>Don't you know my friend it's just no use at all </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>To be alone is to wish your dreams come true... </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>Always alone that's why I sing this song </l>
+          <l>Don't you know my friend it's just no use at all.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

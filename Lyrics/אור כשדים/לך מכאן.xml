@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לך מכאן</title>
+        <singer classification="band">אור כשדים</singer>
+        <writer>רונן בן טל</writer>
+        <composer>רונן בן טל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לך מכאן</head>
+        <lg number="1" type="stanza">
+          <l>היתה לנו סערה</l>
+          <l>חשבנו שנעלה לשמיים</l>
+          <l>היינו כמו זוג יונים, יוני קרקס רוכבות על אופניים</l>
+          <l>עכשיו, כשכבר די ברור שלא נהיה ביחד לנצח</l>
+          <l>אני לא רוצה לזכור, רוצה שתלך עכשיו ומהר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לך מכאן, לך עכשיו</l>
+          <l>צא כבר צא, רק תשאיר ת'מפתח</l>
+          <l>אל תחזור אף פעם</l>
+          <l>צא כבר צא, ואל תתווכח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה שלא תלך</l>
+          <l>למה שלא תלך</l>
+          <l>הכל היה ורוד</l>
+          <l>מדי, אולי</l>
+          <l>הבטחת לא לבגוד</l>
+          <l>אחד ודי</l>
+          <l>הכל היה ורוד מדי אולי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נמאס לי מהחיוך</l>
+          <l>מיטה מלאה בדלים על הבוקר</l>
+          <l>נמאס מהלכלוך</l>
+          <l>הפרק הזה עולה לי ביוקר</l>
+          <l>אתה לא יכול לראות</l>
+          <l>אני מתפרק ואין אהבה כבר</l>
+          <l>אז מה עם עברה שנה</l>
+          <l>רוצה שתלך עכשיו ומהר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לך מכאן...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לך מכאן לך עכשיו</l>
+          <l>צא כבר צא ותיקח את הכלב</l>
+          <l>אל תחזור אף פעם</l>
+          <l>צא כבר צא, אל תשאיר את הכלב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

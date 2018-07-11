@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מונשדו</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>אילן וירצברג</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מונשדו</head>
+        <lg number="1" type="stanza">
+          <l>שוב, בית על יד צל</l>
+          <l>צל כבד נופל</l>
+          <l>ואני נופל</l>
+          <l>שוב יום שלם הולך</l>
+          <l>יום שמתארך</l>
+          <l>לא יודע איך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שוב, מים כבר שחורים</l>
+          <l>שמיים לא נראים</l>
+          <l>ימים שלי עוברים</l>
+          <l>שוב הולך בנוף אפל</l>
+          <l>הולך לי ושואל</l>
+          <l>הולך ומתפלל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מונשדו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

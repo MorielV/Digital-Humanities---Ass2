@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לך שפעת</title>
+        <singer classification="unknown">אהרון אהרון</singer>
+        <writer>אהרון אהרון</writer>
+        <composer>ישי לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לך שפעת</head>
+        <lg number="1" type="stanza">
+          <l>לא מבין איך התקררת לי במערה</l>
+          <l>אמרתי לך להתלבש חם, יש סערה</l>
+          <l>אבל את יצאת עם גטקס וחזיה</l>
+          <l>ועכשיו את עם שפעת, נו מה נהיה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש לך שפעת, זה מדבק</l>
+          <l>אני בך לא רוצה לגעת, לא מחבק</l>
+          <l>תעזבי אותי הלילה</l>
+          <l>זה לא רומנטי, אני בורח</l>
+          <l>אותך שולח לסוף העולם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני עכשיו יושב בבית ומשתעל</l>
+          <l>החיידקים שלך גרמו לי להתפתל</l>
+          <l>כואב בראש וגם בבטן ויש לי חום</l>
+          <l>באמא ש'לך עשי טובה ואל תבואי היום.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש לך שפעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

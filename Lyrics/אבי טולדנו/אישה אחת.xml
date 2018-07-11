@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה אחת</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>יעל טבת</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה אחת</head>
+        <lg number="1" type="stanza">
+          <l>פעם פעם</l>
+          <l>ניגן בי חרש</l>
+          <l>נתן בי כוח</l>
+          <l>שיר של אהבה</l>
+          <l>לילה לילה</l>
+          <l>בתוך דמי עוברת</l>
+          <l>אישה נחשקת</l>
+          <l>אחת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סובב סובב העולם</l>
+          <l>שוכח שישנם</l>
+          <l>ימים של חלומות</l>
+          <l>אם לרגע יעצור</l>
+          <l>אולי נוכל לשמור</l>
+          <l>טיפה של אור שתעזור</l>
+          <l>לצחוק ולעבור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואי שובי</l>
+          <l>זמרי הלחש</l>
+          <l>עשי נא קסם</l>
+          <l>הביאי חזרה</l>
+          <l>רגע רגע</l>
+          <l>ימי חולפים לפתע</l>
+          <l>תני לי לחיות איתך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סובב סובב העולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

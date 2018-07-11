@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זוזי</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>להרגיש</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זוזי</head>
+        <lg number="1" type="stanza">
+          <l>מתקשרת.... קול מתוק יש לך</l>
+          <l>מותק!!! בוא אלי כבר תשע</l>
+          <l>ממשש מתחת לשמלה</l>
+          <l>אוהב את מה שיש שם</l>
+          <l>נועצת את שינייך לשפתי</l>
+          <l>מקצב מתוק וגרובי</l>
+          <l>מסתובבים לאט בתוך החלל</l>
+          <l>זוז זוזי...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קרוב אלייך</l>
+          <l>זה משגע אותי</l>
+          <l>קרוב אלייך</l>
+          <l>יוצאת מדעתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל כך חושק בך וכל דקה</l>
+          <l>שתמשך לנצח המנגינה המתוקה</l>
+          <l>לטפי לי את הפצע</l>
+          <l>נועצת את שינייך אל שפתי</l>
+          <l>מקצב מתוק וגרובי</l>
+          <l>מסתובבים לאט בתוך החלל</l>
+          <l>זוז זוזי...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קרוב אלייך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לאן שתלכי תמיד אלך איתך</l>
+          <l>שלא יפסק פתאום הצליל הזה הרך</l>
+          <l>תראי את השמיים הם לובשים גוון צהוב</l>
+          <l>רוצה אהבה... רוצה לאהוב</l>
+          <l>רוצה אהבה... רוצה אותך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

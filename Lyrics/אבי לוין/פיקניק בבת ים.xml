@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פיקניק בבת ים</title>
+        <singer classification="unknown">אבי לוין</singer>
+        <writer>אבי לוין</writer>
+        <composer>אבי לוין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פיקניק בבת ים</head>
+        <lg number="1" type="stanza">
+          <l>ביבי טאמגוצ'י, אמא גוצ'ימוצ'י והאבא נודניק </l>
+          <l>בפיקניק בבת ים </l>
+          <l>שמענו אייל גולן </l>
+          <l>בחיפושית של סבא </l>
+          <l>ועוגיות של דודה. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל המשפחה בסבבה, אצלנו זה הכל במשפחה!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

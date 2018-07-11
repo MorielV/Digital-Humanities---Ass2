@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני עף 2</title>
+        <singer classification="unknown">אפי שושני</singer>
+        <writer>אפי שושני</writer>
+        <composer>אפי שושני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני עף</head>
+        <lg number="1" type="stanza">
+          <l>שמים צלולים מעל ירח אפור</l>
+          <l>לוקח לך את היד, בורח מפה</l>
+          <l>שדות לבנים ואת שוב מבטיחה </l>
+          <l>ימים של אושר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שדות ירוקים ואני מאוהב</l>
+          <l>לוקח לך את היד ולוחש לך עכשיו</l>
+          <l>מילות אהבה מטפסות בגרון</l>
+          <l>ימים של אושר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני עף </l>
+          <l>אני עף </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>גלים מלטפים את פנייך, יפות הן כל כך</l>
+          <l>נוגעת בי גם ממרחק, מנסה שאשמח</l>
+          <l>רוחות הצפון מביאות לי עכשיו</l>
+          <l>ימים של אושר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוד רגע נוחתת, עוד רגע ואת לצידי</l>
+          <l>נפתחת הדלת ואת נוגעת בי</l>
+          <l>לוחץ על הגז הדרך פתוחה </l>
+          <l>ימים של אושר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני עף </l>
+          <l>אני עף</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

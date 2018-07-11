@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את צעדים</title>
+        <singer classification="male singer">אודי שחף</singer>
+        <writer>אודי שחף</writer>
+        <composer>אודי שחף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את צעדים</head>
+        <lg number="1" type="stanza">
+          <l>את</l>
+          <l>צעדים במדרגות</l>
+          <l>דלת שבורה וצעקות</l>
+          <l>את מכשפה ממול</l>
+          <l>עם אלוהים לילות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את</l>
+          <l>קלישאה קלושה</l>
+          <l>שעוד לא הבנתי</l>
+          <l>שונאי נכונה</l>
+          <l>זונה</l>
+          <l>אוהב אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אויה, אני דג עם שום</l>
+          <l>את ישנה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לעוף מהגוף הארור, לראות ברור</l>
+          <l>תני לי מאה שנה</l>
+          <l>את סיוט חמור</l>
+          <l>שדה</l>
+          <l>אוהב אותך, אויה</l>
+          <l>הכל גמור</l>
+          <l>אני גוויה פרטית שלך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את האמת לאמיתה</l>
+          <l>להרוג ביריה</l>
+          <l>מיום שהעולם נחלם</l>
+          <l>כל הקדושות נשרפות</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>המחלה משתנה</l>
+          <l>אופנה פושרת</l>
+          <l>את טובה לדג עם שום, אויה</l>
+          <l>אוהב אותך</l>
+          <l>השער סגור</l>
+          <l>החבל מחייך, שדה</l>
+          <l>אני גוויה רק שלך</l>
+          <l>אבל לנשמתך</l>
+          <l>הבל כיעור</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>לעוף מהגוף הארור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

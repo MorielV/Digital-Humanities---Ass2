@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחכה לך 2</title>
+        <singer classification="male singer">אייל קופמן</singer>
+        <writer>אייל קופמן</writer>
+        <composer>אייל קופמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחכה לך</head>
+        <lg number="1" type="stanza">
+          <l>אחכה לך אהובתי בחולשתך </l>
+          <l>אחכה לך אהובתי </l>
+          <l>גם אם תדהי </l>
+          <l>ותכסי את הפנים </l>
+          <l>את גופך הזוהר </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אחכה לך אהובתי </l>
+          <l>גם אם אברח </l>
+          <l>לחלומות הכי נוחים </l>
+          <l>לחלומות הרטובים </l>
+          <l>לאנשים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי את היחידה שיודעת להיות </l>
+          <l>החול מתחת לגלים </l>
+          <l>להיות האור מעל הכוכבים </l>
+          <l>להיות האבן שתקועה עמוק בתוך הגלגלים </l>
+          <l>בתוך הלב אחכה לך </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אחכה לך אהובתי </l>
+          <l>הכי קרוב שתרצי </l>
+          <l>הכי קרוב שאפשר </l>
+          <l>אחזיק לך את היד </l>
+          <l>ואחבק אותך חזק אלי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כי את היחידה שיודעת להיות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

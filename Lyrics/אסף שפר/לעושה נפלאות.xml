@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לעושה נפלאות</title>
+        <singer classification="unknown">אסף שפר</singer>
+        <writer>מן התפילה</writer>
+        <composer>אסף שפר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לעושה נפלאות</head>
+        <lg number="1" type="stanza">
+          <l>לעושה נפלאות גדולות לבדו</l>
+          <l>יהמו נא רחמיך עלינו</l>
+          <l>לעושה נפלאות גדולות לבדו</l>
+          <l>יהמו נא רחמיך עלינו.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ותן שכר, שכר טוב</l>
+          <l>לכל הבוטחים בשמך באמת </l>
+          <l>ותן שכר, שכר טוב</l>
+          <l>לכל הבוטחים בשמך באמת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ושים חלקינו עמהם</l>
+          <l>ולעולם לא נבוש כי בך בטחנו</l>
+          <l>ושים חלקינו עמהם</l>
+          <l>ולעולם לא נבוש כי בך בטחנו.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ותן שכר, שכר טוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

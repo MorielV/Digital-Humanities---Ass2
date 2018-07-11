@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מכתב אהבה</title>
+        <singer classification="male singer">אילן נורי</singer>
+        <writer>טל שגב</writer>
+        <composer>טל שגב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מכתב אהבה</head>
+        <lg number="1" type="stanza">
+          <l>זה מכתב אהבה שכתבתי</l>
+          <l>אחרי שהבנתי עוד קצת</l>
+          <l>מספר טעויות שעשיתי</l>
+          <l>וסופר עוד סליחות בידי</l>
+          <l>מסלק מחשבות שאספתי</l>
+          <l>שבהן התעסקתי מזמן</l>
+          <l>מנקה ומודה שטעיתי </l>
+          <l>את הגן של חיי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זכיתי להיות מאושר לא לברוח</l>
+          <l>הכל זה מזל ואיתך זה לעולם</l>
+          <l>זורחת אל נשימותי</l>
+          <l>זכיתי להיות מאושר לא לשכוח לעולם</l>
+          <l>שאת האתמול את היום ומחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא אהיה עוד האיש שהייתי</l>
+          <l>מה שיש לי זה כל העולם</l>
+          <l>אני לא אצטרך לדבר עוד</l>
+          <l>זכיתי באושר חיי</l>
+          <l>זה מכתב אהבה שכתבתי</l>
+          <l>אחרי שהבנתי עוד קצת</l>
+          <l>מנקה ומבין שטעיתי </l>
+          <l>את הגן של חיי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זכיתי להיות מאושר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

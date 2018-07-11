@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את יכולה לבחור</title>
+        <singer classification="unknown">אמיר ברנט</singer>
+        <writer>אמיר ברנט</writer>
+        <composer>אמיר ברנט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את יכולה לבחור</head>
+        <lg number="1" type="stanza">
+          <l>את יכולה לבחור, תבחרי לשמוח </l>
+          <l>את יכולה לרצות, תרצי את טובתך </l>
+          <l>את יכולה להסכים, תסכימי לסלוח </l>
+          <l>את יודעת לאהוב, תאהבי את עצמך </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את יכולה לגרש, גרשי את הפחד </l>
+          <l>את יכולה לוותר, ותרי על הבושה. </l>
+          <l>את יכולה לנסות, נסי גם ביחד </l>
+          <l>לפעמים זה אפילו נעים להיות חלשה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש בך ניצוץ של אלף שקיעות וזריחות, </l>
+          <l>יש לך זמן והוא קורה תמיד רק עכשיו, </l>
+          <l>יש בך יופי של אלף שנים לפחות, </l>
+          <l>עמוק בעיניים שלי תצליחי לראות. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את יכולה לגלות, גלי את הקסם </l>
+          <l>את יכולה לתפוס בקצה של החוט, </l>
+          <l>הברכה תרד עלייך כמו גשם, </l>
+          <l>חלומות הם גם חלקי מציאות </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יש בך ניצוץ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

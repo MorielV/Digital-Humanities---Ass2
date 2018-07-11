@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מכלום תקום</title>
+        <singer classification="unknown">אסי זיגדון</singer>
+        <writer>אסי זיגדון</writer>
+        <composer>אסי זיגדון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מכלום תקום</head>
+        <lg number="1" type="stanza">
+          <l>טיסה רחוקה </l>
+          <l>שמיים כחולים </l>
+          <l>אני עף לפעמים </l>
+          <l>עף בלי מילים </l>
+          <l>חוזר הביתה </l>
+          <l>חוזר לבד </l>
+          <l>נטוע בשמש </l>
+          <l>עצוב כמו נווד </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואין לי אויר שיכול לפזר </l>
+          <l>אין עוד רגש שיכול למכר </l>
+          <l>אין את הכל </l>
+          <l>אבל יש לי כלום </l>
+          <l>מכלום תתחיל </l>
+          <l>מכלום תקום </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>טיסה רחוקה </l>
+          <l>שמיים ריקים </l>
+          <l>אני עף לפעמים </l>
+          <l>שט עיגולים </l>
+          <l>חוזר לבית </l>
+          <l>חוזר אחד </l>
+          <l>נטוע בשמש </l>
+          <l>חופשי כמו נווד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

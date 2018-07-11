@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה הלילה</title>
+        <singer classification="male singer">אבי פרץ</singer>
+        <writer>אביחי מליחי</writer>
+        <composer>אביחי מליחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה הלילה</head>
+        <lg number="1" type="stanza">
+          <l>ילדתי הקשיבי, בקולי שמעי </l>
+          <l>לך אושיט את שתי ידי, מבטיח אהבה </l>
+          <l>לך ארמון בניתי, שרתי ואהבתי </l>
+          <l>את קולך שעשה לי טוב </l>
+          <l>בואי אל ביתי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כן זה הלילה, נשמתי יוצאת </l>
+          <l>ואולי מחר, יפוג הערפל </l>
+          <l>איך תדעי את שליבי רוצה? </l>
+          <l>בשמך אקרא לאל, ואתפלל.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ילדתי טעיתי, איך אוכל לחזור </l>
+          <l>אל זרועות האהבה, אל קסם ששבה? </l>
+          <l>זר פרחים שזרתי, לראשך ילדה </l>
+          <l>עד מתי עוד אחכה לך, נערה יפה? </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כן זה הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

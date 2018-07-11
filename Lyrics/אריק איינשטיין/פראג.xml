@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פראג</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>שלום חנוך</writer>
+        <composer>שלום חנוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פראג</head>
+        <lg number="1" type="stanza">
+          <l>אל העיר שבוית החלום</l>
+          <l>צל כבד וזר הגיח</l>
+          <l>וירח באדום</l>
+          <l>את מלכותו טבל בפיח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מי שלא עצם את עיניו</l>
+          <l>את לילו המר כאב הוא,</l>
+          <l>דומית כניעה בלי קרב</l>
+          <l>איש את נשקו נצר עד מוות.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איך על פראג שחר לא בקע</l>
+          <l>בשלישית כלה כוחו</l>
+          <l>איך נדם קול כיכר הומה בחג.</l>
+          <l>שיר שחלמתי על פראג -</l>
+          <l>שם השחר עוד יבקע.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמו תצלום ישן מצהיב</l>
+          <l>עיר של רפאים מטלת</l>
+          <l>לרגלי דובים חרשים</l>
+          <l>ובצוארה המאכלת.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את פתחו איש לא יוצא</l>
+          <l>ריח גטאות מלוח</l>
+          <l>מקצה ועד קצה</l>
+          <l>על פני העיר נישא ברוח</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>איך על פראג...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>רק השקט בה נותר</l>
+          <l>איש צעיר חומק בפתח</l>
+          <l>אז עלה לו אור מוזר</l>
+          <l>שם בכיכר העיר שמתה.</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>שיר שחלמתי על פראג</l>
+          <l>שם השחר עוד יבקע</l>
+          <l>שם השחר עוד יבקע</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

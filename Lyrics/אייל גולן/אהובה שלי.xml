@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהובה שלי</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>דורון אלימלך</writer>
+        <composer>אליאב מועלם</composer>
+        <album>נגעת לי בלב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהובה שלי</head>
+        <lg number="1" type="stanza">
+          <l>בכל מקום בכל חלום חיפשתי וחלמתי אהבה</l>
+          <l>במציאות האמיתית מצאתי אכזבה</l>
+          <l>את באת</l>
+          <l>פתאום משום מקום ברגע המושלם</l>
+          <l>וכמו תינוק בקול גדול יצאתי לעולם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אהובה שלי את</l>
+          <l>לי האושר שחיפשתי בחיי</l>
+          <l>כמו אור ירח שמאיר את לילותי</l>
+          <l>ואת זוהרת כמו כוכב שמלווה</l>
+          <l>אותי עכשיו</l>
+          <l>ולא עוזב אותי לרגע ומבטיח שנאהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בשתי עינייך היפות רואה עולם שלם</l>
+          <l>ונעלם</l>
+          <l>כשאת איתי אני יכול לשכוח את כולם</l>
+          <l>חץ אהבה שבי פגע הכל פתאום נפתח</l>
+          <l>ולך אומר מכל הלב אני אוהב אותך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

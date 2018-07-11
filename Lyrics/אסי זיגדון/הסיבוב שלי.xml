@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הסיבוב שלי</title>
+        <singer classification="unknown">אסי זיגדון</singer>
+        <writer>אסי זיגדון</writer>
+        <composer>אסי זיגדון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הסיבוב שלי</head>
+        <lg number="1" type="stanza">
+          <l>תנו לי לגמור את הסיבוב שלי </l>
+          <l>כן זה הסיבוב שלי </l>
+          <l>סיבוב אחד ארוך </l>
+          <l>ויש בו הכל </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תנו לי לגמור את המשקה שלי </l>
+          <l>כן </l>
+          <l>זה המשקה שלי </l>
+          <l>משקה אחד ארוך </l>
+          <l>ויש בו הכל </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>טעם וצליל </l>
+          <l>וריח של שביל </l>
+          <l>ומגע אחד ארוך </l>
+          <l>במקום שבו צריך לפתוח </l>
+          <l>כל כפתור סגור </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תנו לי לספר את הסיפור שלי </l>
+          <l>כן </l>
+          <l>זה הסיפור שלי </l>
+          <l>סיפור אחד קטן </l>
+          <l>עבר הרבה זמן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

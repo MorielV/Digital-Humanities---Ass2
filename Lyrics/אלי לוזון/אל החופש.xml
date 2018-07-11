@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל החופש</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>אלי לוזון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל החופש</head>
+        <lg number="1" type="stanza">
+          <l>יושב בתוך עולם חשוך סגור ומיוסר </l>
+          <l>והסורג מדמעותי כמעט גם הוא נשבר, </l>
+          <l>ליבי קורא ומתחנן אליך אלוקי, </l>
+          <l>ענה אלי לתפילתי ושמע תפילותי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זוהי לא דרכי כי רב שבעתי די, </l>
+          <l>תן מרגוע לנפשי אין עוול בכפי, </l>
+          <l>כי רק בך אבטח השיבני אל חיי, </l>
+          <l>אל החופש אל האור ואל משאלותיי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חולם על שקט ושלווה חולם להיות חופשי, </l>
+          <l>כמו ציפור אפרוש כנף ולא תמעד נפשי, </l>
+          <l>השיבני אל חיי בדרך מיישרים </l>
+          <l>ובליבי אשא תפילה אליך אלוקים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זוהי לא דרכי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

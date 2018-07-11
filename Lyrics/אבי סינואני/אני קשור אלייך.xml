@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני קשור אלייך</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>עדי כבירי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני קשור אלייך</head>
+        <lg number="1" type="stanza">
+          <l>כל מה שרק תרצי ילדונת</l>
+          <l>אהפוך את העולם</l>
+          <l>אמריא ישר עד השמיים</l>
+          <l>אשוט על פני הים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בשקט בדממה</l>
+          <l>עמוק בנשמה </l>
+          <l>תדעי שאת</l>
+          <l>אהבתי היחידה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני קשור אלייך</l>
+          <l>חיי בתוך חייך</l>
+          <l>אני מבטיח לך</l>
+          <l>בשם האהבה </l>
+          <l>שאין דומה לשנינו </l>
+          <l>האל ישמור עלינו</l>
+          <l>תמיד אהיה שם</l>
+          <l>בשבילך אני נשבע </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כבר לא חולם יותר בלילה </l>
+          <l>עכשיו אני איתך</l>
+          <l>דבר לא יעצור אותנו</l>
+          <l>אני נבראתי לך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בשקט בדממה</l>
+          <l>עמוק בנשמה</l>
+          <l>תדעי שאת </l>
+          <l>אהבתי היחידה </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני קשור אלייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

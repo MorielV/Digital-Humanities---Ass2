@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אח יקר</title>
+        <singer classification="male singer">אברהם טל</singer>
+        <writer>אברהם טל</writer>
+        <composer>אברהם טל</composer>
+        <album>אברהם טל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אח יקר</head>
+        <lg number="1" type="stanza">
+          <l>אח יקר תשמע</l>
+          <l>לעולמי עד אני אוהב אותך</l>
+          <l>אך בוא פה נשנה</l>
+          <l>החלומות הם כה גבוהים</l>
+          <l>ולפעמים נראים כה רחוקים</l>
+          <l>אז בוא ניקח את כל המתנות</l>
+          <l>ונוריד אותן לכאן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רוצה לרקוד רוצה לשיר</l>
+          <l>רוצה להיות איתך אחד</l>
+          <l>כה מכאיב הפער בינך לביני</l>
+          <l>ביני לביני, בינך לבינך</l>
+          <l>בינינו לאלוהים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כשאנחנו מנגנים הלב נפתח</l>
+          <l>פתאום כל הגבולות נמסים</l>
+          <l>האמת שנראתה רחוק</l>
+          <l>פתאום היא איתנו כאן</l>
+          <l>ואני אותך אוהב</l>
+          <l>אתה לי אח</l>
+          <l>אתה לי חבר</l>
+          <l>אתה לי כאלוהי</l>
+          <l>בדמות בשר ודם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>וודאי...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כשאנחנו מנגנים הלב נפתח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

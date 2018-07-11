@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ערב שגרתי</title>
+        <singer classification="male singer">אורי בנאי</singer>
+        <writer>אורי בנאי</writer>
+        <composer>אורי בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ערב שגרתי</head>
+        <lg number="1" type="stanza">
+          <l>מה אני אגיד לך כלום כבר לא אותו דבר</l>
+          <l>משהו נגמר פה ועבר</l>
+          <l>אולי זה הביחד שהולך ונעלם</l>
+          <l>אין כבר ליל ירח מול הים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יושב רואה משפחת סימפסון בסלון</l>
+          <l>את לועסת מסטיק עושה בלון</l>
+          <l>וכך עובר לו סתם עוד ערב שגרתי</l>
+          <l>אני איתך ואת איתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה אני בעצם מסבך את העניין</l>
+          <l>סך הכל שמח שאת כאן</l>
+          <l>וגם כבר התרגלתי להגיד לך בוקר טוב</l>
+          <l>ולחבק אלי קרוב קרוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יושב רואה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

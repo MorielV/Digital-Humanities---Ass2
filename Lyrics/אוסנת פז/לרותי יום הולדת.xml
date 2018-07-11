@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לרותי יום הולדת 2</title>
+        <singer classification="unknown">אוסנת פז</singer>
+        <writer>יוסף כהן צדק</writer>
+        <composer>יצחק לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לרותי יום הולדת</head>
+        <lg number="1" type="stanza">
+          <l>לרותי יום הולדת, והשמחה גדולה,</l>
+          <l>היא סרט פז עונדת ממשי השמלה</l>
+          <l>אז באו לשמח אותה בשמחתה</l>
+          <l>כולם להתבדח ילדי כל הכיתה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גם גילי, גילי לילי וצלילי הנאווה</l>
+          <l>ולילי לילי לילי וטלילי היפה.</l>
+          <l>גם נינה דינה רינה וקטינה הקטנה</l>
+          <l>ורדינה ועדינה ורינה הקטנה. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמחה כל החבריה הריעה אז בקול</l>
+          <l>ואיה מיה רעיה הציתו חיש מחול</l>
+          <l>ומעגל מחניים ערכו הילדים</l>
+          <l>הרימו הרגליים יצאו בריקודים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גם גילי, גילי לילי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

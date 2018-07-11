@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אף אחד 2</title>
+        <singer classification="unknown">אניה בוקשטיין</singer>
+        <writer>אניה בוקשטיין</writer>
+        <composer>אניה בוקשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אף אחד</head>
+        <lg number="1" type="stanza">
+          <l>אף אחד לא מחזיק  אותי יותר קצר ממני</l>
+          <l>גם בשבת ובחגים </l>
+          <l>אני עושה לי איסורים קטנים של חול</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אף אחד לא מעניש אותי יותר חמור ממני</l>
+          <l>גם בלילות של אהבה </l>
+          <l>אני נוגעת ברצפה ומתקררת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני לא נותנת בקלות </l>
+          <l>אבל כל כך רוצה</l>
+          <l>גם ברגעי הניצחון </l>
+          <l>אני חושבת כבר על ההפסד הבא</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואני דואגת כל הזמן דואגת</l>
+          <l>איך זה נולדתי דואגת</l>
+          <l>עוד כשלא היה על מה</l>
+          <l>ואני דואגת עלובה ומהממת</l>
+          <l>ואין לי דרך אחרת</l>
+          <l>חוץ מלהמשיך עם מה שיש</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אף אחד לא מפנק אותי יותר על תנאי ממני</l>
+          <l>גם בערבי האלכוהול</l>
+          <l>אני תמיד צריכה למהול הכל בשלוק של מים</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אף אחד לא מרחם עלי יותר ברוך ממני</l>
+          <l>גם כשהכל סביבי נפלא</l>
+          <l>אני אמצא לי מחלה להיות חולה בה</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אני לא נותנת בקלות </l>
+          <l>אבל כל כך רוצה</l>
+          <l>גם ברגעי הניצחון</l>
+          <l>אני חושבת כבר על ההפסד הבא</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>ואני דואגת כל הזמן דואגת...</l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>אף אחד לא נלחם עלי יותר חזק ממני</l>
+          <l>בנפילה של החיים</l>
+          <l>רוצה ליפול על הפנים</l>
+          <l>ולא לסגור עיניים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוא אלי</title>
+        <singer classification="male singer">אריאל זילבר</singer>
+        <writer>שמוליק צ'יזיק</writer>
+        <composer>שמוליק צ'יזיק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוא אלי</head>
+        <lg number="1" type="stanza">
+          <l>יום שישי בערב והשמש כבר שקעה</l>
+          <l>אני חוזר עייף מיום של עבודה קשה</l>
+          <l>הרדיו בתיקון בטלוויזיה אין תמונה</l>
+          <l>אני נמצא לבד ומשעמם לי פה נורא</l>
+          <l>ואז אז מתקשרת ושואלת "מה נשמע"</l>
+          <l>אולי תבוא אלי אני רוצה לראות אותך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בוא אלי אני מחכה</l>
+          <l>רק עוד רגע אני בא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נפגשנו במקרה ברחוב שאלת מה השעה</l>
+          <l>עניתי לך סתם בחיוך נתת לי נשיקה</l>
+          <l>אמרת שתתקשרי בהזדמנות הראשונה</l>
+          <l>חשבתי לעצמי שזוהי התחלה טובה</l>
+          <l>ואז טלפנת אלי שאלת הי! מה נשמע</l>
+          <l>אולי תבוא אלי אני רוצה לראות אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בוא אלי אני מחכה</l>
+          <l>רק עוד רגע אני בא</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מאז ועד עכשיו נשארנו שנינו ידידים</l>
+          <l>יוצאים ביחד לבלות לרקוד לראות סרטים</l>
+          <l>וכל פעם שאני נמצא בבית ולבד</l>
+          <l>אני יודע שתטלפני אלי מיד</l>
+          <l>ואז את מתקשרת ושואלת מה נשמע</l>
+          <l>אולי תבוא אלי אני רוצה לראות אותך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בוא אלי אני מחכה</l>
+          <l>רק עוד רגע אני בא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

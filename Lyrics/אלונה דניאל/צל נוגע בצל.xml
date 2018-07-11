@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צל נוגע בצל</title>
+        <singer classification="female singer">אלונה דניאל</singer>
+        <writer>אלונה דניאל</writer>
+        <composer>אלונה דניאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צל נוגע בצל</head>
+        <lg number="1" type="stanza">
+          <l>הוא יודע שאני שלו</l>
+          <l>הוא נוגע בי כמו שנוגעים במים</l>
+          <l>מה מצאתי בחיים שלו</l>
+          <l>בקלפים שלו בכישופים שלו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אה.. איזה ערפל בראש</l>
+          <l>אה.. איזה ערפל בראש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>צל נוגע בצל</l>
+          <l>על קיר הבית שתיים בלילה</l>
+          <l>צל גדול מתפתל</l>
+          <l>על קיר הבית שתיים בלילה</l>
+          <l>צל פתאום מתפצל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הוא מדליק את הנרות עכשיו</l>
+          <l>הוא קורא לצל שלי לבוא הבייתה</l>
+          <l>החיוך על הפנים שלו</l>
+          <l>החזק מכל הכישופים שלו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אה.. איזה ערפל בראש</l>
+          <l>אה.. איזה ערפל בראש</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>צל נוגע בצל</l>
+          <l>על קיר הבית שתיים בלילה</l>
+          <l>צל גדול מתפתל</l>
+          <l>על קיר הבית שתיים בלילה</l>
+          <l>צל פתאום מתפצל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ככה לא עוזבים</title>
+        <singer classification="unknown">אבי בן אבו</singer>
+        <writer>תומר ממיה</writer>
+        <composer>תומר ממיה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ככה לא עוזבים</head>
+        <lg number="1" type="stanza">
+          <l>חשבתי שתמיד תהיי כאן</l>
+          <l>שאין  דבר שיגרום לך לעזוב</l>
+          <l>הרי אמרת שזה לנצח</l>
+          <l>מתי הפסקת לאהוב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתמול בלילה התעוררתי</l>
+          <l>שהדלקתי את האור</l>
+          <l>הצד שלך נשאר בחושך</l>
+          <l>פתאום הבנתי</l>
+          <l>את לא עומדת לחזור</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה עושים עם זה מה עושים</l>
+          <l>הבית ריק אני יוצא מדעתי</l>
+          <l>מה עושים עם זה מה עושים</l>
+          <l>זה לא יכול להיות</l>
+          <l>ככה לא עוזבים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לאט לאט עלה הבוקר</l>
+          <l>הוא לא הביא איתו דבר</l>
+          <l>בצד שלך עדיין חושך</l>
+          <l>בצד שלי עדיין קר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מה עושים עם זה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מיום ליום מסתבר</l>
+          <l>זה באמת נגמר</l>
+          <l>את לא תבואי יותר</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>מה עושים עם זה...</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>חשבתי שתמיד תהיי כאן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

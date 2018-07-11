@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נחל נובע</title>
+        <singer classification="unknown">אבי הנחל</singer>
+        <writer>אופיר בר עמי</writer>
+        <composer>אופיר בר עמי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נחל נובע</head>
+        <lg number="1" type="stanza">
+          <l>הלב שותק  מתגעגע</l>
+          <l>משתוקק נמשך</l>
+          <l>מתעורר בקול שירה דקה</l>
+          <l>קורא אל המעיין</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל המעיין</l>
+          <l>נחל נובע מקור חכמה</l>
+          <l>אל המעיין</l>
+          <l>אל המעיין</l>
+          <l>נחל נובע מקור חכמה</l>
+          <l>אור האהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלב צמא</l>
+          <l>הנחל נובע</l>
+          <l>נובע ונובע</l>
+          <l>דופק על שערי הגן</l>
+          <l>צועק אל המעיין</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל המעיין</l>
+          <l>נחל נובע מקור חכמה</l>
+          <l>אל המעיין</l>
+          <l>אל המעיין</l>
+          <l>נחל נובע מקור חכמה</l>
+          <l>אור האהבה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל המעיין</l>
+          <l>נחל נובע מקור חכמה</l>
+          <l>אל המעיין</l>
+          <l>אל המעיין</l>
+          <l>נחל נובע מקור חכמה</l>
+          <l>אור האהבה</l>
+          <l>אור האהבה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

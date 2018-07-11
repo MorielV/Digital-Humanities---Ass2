@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלכויות</title>
+        <singer classification="female singer">אתי אנקרי</singer>
+        <writer>אתי אנקרי</writer>
+        <composer>אתי אנקרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלכויות</head>
+        <lg number="1" type="stanza">
+          <l>כל שערה של אור שאת מושכת </l>
+          <l>מושכת שפע בעולם הזה </l>
+          <l>אצבעותייך הקטנות את מצופפת </l>
+          <l>אוספת את האור למעשה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זאת אהבה היא נמצאת מעלינו </l>
+          <l>עוטה כמו כתר אור של מלכויות </l>
+          <l>זאת אהבה היא נמצאת מעלינו </l>
+          <l>היא לא נתפסת בעיניים גשמיות </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ובבקרים כשאת נוטלת את ידייך </l>
+          <l>רוחצת את פנייך מהצל </l>
+          <l>אותה תפילה את ממלמלת בשפתייך </l>
+          <l>שלא ידבק בך טעם של הרגל </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זאת אהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

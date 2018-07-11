@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תני חיוך</title>
+        <singer classification="unknown">אבי כהן 2</singer>
+        <writer>אבי כהן</writer>
+        <composer>אלי חיים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תני חיוך</head>
+        <lg number="1" type="stanza">
+          <l>את הלכת ועזבת</l>
+          <l>והשארת בי לב כואב</l>
+          <l>את שכחת שאני אוהב</l>
+          <l>בליבי שלהבת אש</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פנייך המאירות </l>
+          <l>עינייך הבורקות</l>
+          <l>וליבך שואל זועק </l>
+          <l>האם זו אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז תני חיוך אהובתי</l>
+          <l>דעי שאת בנשמתי</l>
+          <l>מחי דמעה מקרבי</l>
+          <l>דעי תמיד את בליבי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הו מה יפה האהבה</l>
+          <l>ומה קשה הפרידה</l>
+          <l>איך מציתה החזרה</l>
+          <l>את ניצוץ האאהבה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נותר ליבי כאוב עצוב</l>
+          <l>שואל מתי מתי תשוב </l>
+          <l>חושב עלייך כל היום</l>
+          <l>איך הלכת פתאום</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז תני חיוך אהובתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

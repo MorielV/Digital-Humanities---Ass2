@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הציפור כבר לא מזמרת</title>
+        <singer classification="band">ארבע על ארבע</singer>
+        <writer>נתן זך</writer>
+        <composer>אורי הרפז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הציפור כבר לא מזמרת</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הציפור כבר לא מזמרת</l>
+          <l>והירוק כבר לא ירוק</l>
+          <l>ומה שאמרנו אמש</l>
+          <l>רחוק, כמה רחוק</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כך מתרגלים ימינו</l>
+          <l>לחיות בשלום זה עם זה</l>
+          <l>גם בלי אהבה סוערת</l>
+          <l>וכאב מפלח חזה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הציפור כבר לא מזמרת</l>
+          <l>והירוק כבר לא ירוק</l>
+          <l>ומה שאמרנו אמש</l>
+          <l>רחוק, כמה רחוק</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כך מתרגלים ימינו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אך הזמן הקרוב ביחד</l>
+          <l>שמים זרועי כוכבים</l>
+          <l>מלמדים אותנו לקחת</l>
+          <l>את מה ששמים נותנים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

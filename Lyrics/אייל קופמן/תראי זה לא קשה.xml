@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תראי זה לא קשה</title>
+        <singer classification="male singer">אייל קופמן</singer>
+        <writer>אייל קופמן</writer>
+        <composer>אייל קופמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תראי זה לא קשה</head>
+        <lg number="1" type="stanza">
+          <l>תראי זה לא קשה </l>
+          <l>את רק צריכה להושיט </l>
+          <l>את החלק העליון של הצוואר </l>
+          <l>אני יכול לנשוך חזק </l>
+          <l>לירוק את כל הפסולת </l>
+          <l>שהצטברה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הנה באים הימים הטובים </l>
+          <l>הימים היפים </l>
+          <l>בטח נוכל להסתובב ברחובות </l>
+          <l>לקטוף פרחים </l>
+          <l>ולדבר על אהבה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בואי תתקרבי </l>
+          <l>יש לך ריח של קטיפה </l>
+          <l>וטעם של מנטה </l>
+          <l>את בטח נסיכה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל שעלייך לעשות </l>
+          <l>זה להושיט </l>
+          <l>את החלק העליון של הצוואר </l>
+          <l>קוביות של קרח </l>
+          <l>שפתייך היפות משחקות </l>
+          <l>אני רק רוצה לנשק אותך </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בואי תתקרבי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

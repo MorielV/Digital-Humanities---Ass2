@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כאב הורג</title>
+        <singer classification="unknown">אלי קפקא</singer>
+        <writer>מרטין גל</writer>
+        <composer>תומר עג'ם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כאב הורג</head>
+        <lg number="1" type="stanza">
+          <l>ביקשת קצת זמן לחשוב על הכל</l>
+          <l>מוויכוח קטן עשית עניין גדול</l>
+          <l>ואני בתמימותי לא הבנתי אז</l>
+          <l>שהכל רק תירוצים כדי להיות איתו</l>
+          <l>מדמיין אותך בין זרועותיו</l>
+          <l>והכאב הזה הורג אותי עכשיו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך הכאב הזה הורג אותי</l>
+          <l>כואב שאת איתו ולא איתי</l>
+          <l>יום הדין יבוא ואת תראי</l>
+          <l>אבגוד כמו שבגדת בי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השעה כבר חצות אני לא נירדם</l>
+          <l>מחשבות עולות את לא נירדמת גם</l>
+          <l>אין מי שינגב את הדמעות שלך</l>
+          <l>רודף אותך כאב כי אהובך הלך</l>
+          <l>את מדמיינת אחרת בין זרועותיו</l>
+          <l>והכאב הזה הורג אותך עכשיו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך הכאב הזה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

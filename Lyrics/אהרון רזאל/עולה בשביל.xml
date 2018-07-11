@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עולה בשביל</title>
+        <singer classification="male singer">אהרון רזאל</singer>
+        <writer>אהרון רזאל</writer>
+        <composer>אהרון רזאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עולה בשביל</head>
+        <lg number="1" type="stanza">
+          <l>עולה בשביל אותו מי יעצור </l>
+          <l>הליל ירד כוכב יתן לו אור</l>
+          <l>סלע יהיה מחסה בארץ עייפה</l>
+          <l>בכל מקום שבו תהיה בצל האל הנך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עלה נופל אותו מי יאסוף</l>
+          <l>הנחלים בדרך אל החוף</l>
+          <l>מנחל בדרך שתה ושלח את לחמך</l>
+          <l>בכל מקום שבו תהיה בצל האל תמיד הנך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואם יבלו בגדיך סנדל שלרגליך</l>
+          <l>חמה האדמה ושוב נפקחת עין עצומה</l>
+          <l>ועדיין לא מצאת את הניגון אליו יצאת</l>
+          <l>אך יודע שבצל האל הנך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוצר נושם הרוח מעליו</l>
+          <l>איבד דרכו וגם ריקים כיסיו</l>
+          <l>הכח לא נגמר בך, עייפו שרירי גופך</l>
+          <l>ומישהו מחזיק אותך בצל האל הנך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל יום אתה חכם מיום אתמול</l>
+          <l>מלא לבך וזכור למי הכל</l>
+          <l>לכל מקום שאדם הולך ימצא את תיקונו</l>
+          <l>אפילו איש פשוט מאד מוצא דרכו אצל קונו</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואם יבלו בגדיך...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>עומד מולך נשארתי פה לבד</l>
+          <l>ומבקש עשה שלא אפחד זוכר ניגנו שנינו את השיר</l>
+          <l>עכשיו העיר ריקה ואתה בצל האל הנך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

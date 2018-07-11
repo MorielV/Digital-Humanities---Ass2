@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ימי הבינתיים</title>
+        <singer classification="male singer">אלי סורני</singer>
+        <writer>ארז ברזוליק</writer>
+        <composer>אלון ורדי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ימי הבינתיים</head>
+        <lg number="1" type="stanza">
+          <l>זה לילה בהיר וכולם ישנים</l>
+          <l>האישה שלך ושני הקטנים</l>
+          <l>מחלון המטבח אתה מביט בעננים</l>
+          <l>באים מהים מלאים במים</l>
+          <l>אורחים לרגע בימי הבינתיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל אחד רוצה להיות שלם</l>
+          <l>להרגיש מחובר להיות מאוהב</l>
+          <l>אם אתה רוצה לחטוף מטוס</l>
+          <l>אתה חייב לעלות עליו</l>
+          <l>לחצות את קו השמיים</l>
+          <l>לא לחתום קביעות בימי הבינתיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה רצית להיות ואולי לא תהיה </l>
+          <l>מה לא עשית, או לא תעשה</l>
+          <l>מחלון המטבח אתה רואה עולם מלא </l>
+          <l>שקורא לך לחצות את קו השמיים</l>
+          <l>לא לחתום קביעות בימי הבינתיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל אחד רוצה להיות שלם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שלא עוצרים ולא נוגעים</l>
+          <l>לא שומעים ולא רואים</l>
+          <l>ולא יודעים ש... אתה בן ארבעים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל אחד רוצה להיות שלם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הולך בטל 2</title>
+        <singer classification="male singer">אסף אבידן</singer>
+        <writer>מאיר אריאל</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הולך בטל</head>
+        <lg number="1" type="stanza">
+          <l>עצמאי בשטח </l>
+          <l>לא צריך טובות </l>
+          <l>הוא אפילו לא מחזיק </l>
+          <l>רשימת כתובות </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שרוך אחד קרוע </l>
+          <l>שרוך אחד כבר אין </l>
+          <l>פעם צעד לא בטוח </l>
+          <l>פעם צעד כן </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הולך בטל, הולך </l>
+          <l>הולך בטל </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הרחובות נותנים לו </l>
+          <l>זמן בלי חשבונות </l>
+          <l>פה ושם הוא מגלגל </l>
+          <l>סימטאות קטנות </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מחפש בחושך </l>
+          <l>חומר ללחישה </l>
+          <l>למקרה שייתקל </l>
+          <l>באוזני אישה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הולך בטל, הולך </l>
+          <l>הולך בטל </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>בעיניו יש "מה זה כל זה"? </l>
+          <l>הוא גם קצת רעב </l>
+          <l>אולי גם קצת הוא נהנה </l>
+          <l>להרגיש כאב </l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>מחפש בחושך </l>
+          <l>שמץ לראותו </l>
+          <l>למקרה שייתקל </l>
+          <l>פתע במותו </l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>הולך בטל, הולך</l>
+          <l>הולך בטל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

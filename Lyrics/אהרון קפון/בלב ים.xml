@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלב ים</title>
+        <singer classification="unknown">אהרון קפון</singer>
+        <writer>מיקי אפל</writer>
+        <composer>יוני קיסר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלב ים</head>
+        <lg number="1" type="stanza">
+          <l>עני בדמעות אליך נישאות</l>
+          <l>בלב דואב נושא תפילה</l>
+          <l>ואני עודני שרוי בכאבי</l>
+          <l>כי אבדה לי דרכי אליך אבי</l>
+          <l>ואני עודני שרוי בכאבי </l>
+          <l>כי אבדה לי דרכי אליך אבי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וקול קורא לי בתמיהה </l>
+          <l>איה הדרך הברוכה</l>
+          <l>מקימי מעפר האר נא דרכי </l>
+          <l>עצמי ובשרי לך הם אבי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כגלי הים חיי עליי עוברים</l>
+          <l>יום שקט ויום סוער </l>
+          <l>בלב ים סוער נשאתי תפילה</l>
+          <l>שמעת קולי אל רם ונישא</l>
+          <l>בלב ים סוער נשאתי תפילה</l>
+          <l>שמעת קולי אל רם ונישא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וקול קורא לי בתמיהה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

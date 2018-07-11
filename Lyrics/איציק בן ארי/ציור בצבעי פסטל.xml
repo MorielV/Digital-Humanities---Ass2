@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציור בצבעי פסטל</title>
+        <singer classification="unknown">איציק בן ארי</singer>
+        <writer>דודו ברק</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציור בצבעי פסטל</head>
+        <lg number="1" type="stanza">
+          <l>רגל הך, הך,</l>
+          <l>רגל הלאה.</l>
+          <l>כך או כך,</l>
+          <l>עם מחול הרוח.</l>
+          <l>לי וגם לך,</l>
+          <l>יום ולילה.</l>
+          <l>בי ובך,</l>
+          <l>לב צעיר, שלוח.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>צמד רועים שם באחו,</l>
+          <l>מרקדים בוקר ועד לילה, הם.</l>
+          <l>צמד רועים, כך או כך הוא,</l>
+          <l>כמו ציור בצבעי פסטל הם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פה אל פה רך,</l>
+          <l>שם בחופש.</l>
+          <l>כך או כך,</l>
+          <l>עלומים ונוער.</l>
+          <l>פרח, פרח,</l>
+          <l>חג ונופש.</l>
+          <l>בי ובך,</l>
+          <l>צחוק ותום וטוהר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>צמד רועים שם באחו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>דבש וצוף שם,</l>
+          <l>על הגבע.</l>
+          <l>לב אל לב,</l>
+          <l>נערה ונער.</l>
+          <l>גוף אל גוף חם,</l>
+          <l>שם בטבע.</l>
+          <l>לב אוהב,</l>
+          <l>בין עצי היער.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>צמד רועים שם באחו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

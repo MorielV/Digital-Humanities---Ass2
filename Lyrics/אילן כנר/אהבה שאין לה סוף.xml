@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה שאין לה סוף</title>
+        <singer classification="unknown">אילן כנר</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>ניסן פרידמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה שאין לה סוף</head>
+        <lg number="1" type="stanza">
+          <l>לילות רבים יושב ליד הבר</l>
+          <l>והחיים שלי עפים.</l>
+          <l>את בליבי יותר מכל דבר.</l>
+          <l>הזכרונות תמיד יפים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הכל היה אחרת</l>
+          <l>כמו סרט אהבה.</l>
+          <l>גם את אולי זוכרת</l>
+          <l>כל ערב שעבר.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם אני נשבר כמו גל אל חוף,</l>
+          <l>אם אנחנו בני חלוף -</l>
+          <l>תני לי אהבה שאין, שאין לה סוף.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ילדה יפה ניגשה אליי לבר,</l>
+          <l>אמרה: תזמין לי עוד סיבוב.</l>
+          <l>שותה לבד, חושב שהעיקר</l>
+          <l>זה לאהוב ולהיות אהוב.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הכל היה אחרת</l>
+          <l>על דרך השלווה.</l>
+          <l>ואת כבר לא חוזרת</l>
+          <l>לזכר תקופה טובה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אם אני נשבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

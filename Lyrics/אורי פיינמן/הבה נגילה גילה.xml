@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הבה נגילה גילה</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הבה נגילה גילה</head>
+        <lg number="1" type="stanza">
+          <l>איך הלכת אחריה סבא'לה שלי</l>
+          <l>בעקבות שתי צמותיה נגב וגליל</l>
+          <l>כשליבך אחוז קדחת</l>
+          <l>השתולל כתוף מרים</l>
+          <l>סבתא'לה אמרה בנחת</l>
+          <l>קח אותי לקצה עולם</l>
+          <l>כשאמרה:"אני שלך"</l>
+          <l>שרת כך לעצמך:</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הבה,</l>
+          <l>הבה נגילה</l>
+          <l>הבה נגילה,</l>
+          <l>הבה נגילה גילה ונשמחה.</l>
+          <l>הבה,</l>
+          <l>הבה נגילה,</l>
+          <l>הבה נגילה,</l>
+          <l>הבה נגילה,</l>
+          <l>עורי בת ירושלים קומי ונלכה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גם אני בעקבותיה סבא'לה הטוב</l>
+          <l>בעקבות מבט עיניה שכל כך קרוב</l>
+          <l>ילדתי שלי סוערת</l>
+          <l>בתוכי בתוך הדם</l>
+          <l>וכמו סבתא היא אומרת:</l>
+          <l>"קח אותי לקצה עולם"</l>
+          <l>כשאמרה שהיא שלי</l>
+          <l>שרתי לה ושרתי לי:</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

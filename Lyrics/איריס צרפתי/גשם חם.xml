@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גשם חם</title>
+        <singer classification="unknown">איריס צרפתי</singer>
+        <writer>נינו אורסיאנו</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גשם חם</head>
+        <lg number="1" type="stanza">
+          <l>גשם חם ירד אתמו </l>
+          <l>ואני התחברתי ללב </l>
+          <l>כשם חם ומנחם </l>
+          <l>וראיתי הכל בבהירות. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>משהו מן החום דבק בי </l>
+          <l>וידעתי לאן אני הולך </l>
+          <l>נגנתי את השיר שלנו וחשבתי </l>
+          <l>איך נראה עכשיו </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והתפילות עלו אל השמיים </l>
+          <l>ההיה זה קולי, הידעת אותי </l>
+          <l>והורדת גשם אל האדמה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ובפעם הזו הקשבתי </l>
+          <l>ההיה זה קולי, הידעת אותי </l>
+          <l>והורדת גשם אל האדמה </l>
+          <l>על פני וגופי השכינה. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>משהו מן החום דבק בי </l>
+          <l>וידעתי לאן אני הולך </l>
+          <l>נגנתי את השיר שלנו וחשבתי </l>
+          <l>איך נראה עכשיו </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>והתפילות עלו אל השמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

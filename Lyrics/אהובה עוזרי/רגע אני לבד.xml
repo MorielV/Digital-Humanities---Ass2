@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רגע אני לבד</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רגע אני לבד</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>רגע אני כאן</l>
+          <l>רגע אני שם</l>
+          <l>רגע אני לבד</l>
+          <l>רגע אני אתך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אנשים ספרו נא לי</l>
+          <l>את חיי מי יתן לי</l>
+          <l>געגועים וכיסופים</l>
+          <l>דרכו של לב אדם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יד אחת מושיטה</l>
+          <l>יד שניה בלב לעד</l>
+          <l>ואני בתוך נפשי</l>
+          <l>אל העולם כמהה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רגע אני כאן....</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אניה מפליגה</l>
+          <l>אל המרחב הלא נודע</l>
+          <l>ואני כאן בחוף</l>
+          <l>עודני מחכה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>דרך חיים למדתי</l>
+          <l>לאהוב אותך נולדתי</l>
+          <l>ואני מאמינה</l>
+          <l>עולם זה אתה</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>רגע אני כאן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

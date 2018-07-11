@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ליום אחד</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אהוד מנור</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ליום אחד</head>
+        <lg number="1" type="stanza">
+          <l>שמש קיץ לבנה</l>
+          <l>עיר חמה ללא צללים</l>
+          <l>ולא ראיתי עננה</l>
+          <l>בעיר מולדתי</l>
+          <l>לו רק יכולתי לחזור</l>
+          <l>לעיר הזאת</l>
+          <l>ליום, ליום אחד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לילה לילה חלילים</l>
+          <l>עיר פותרת חלומות</l>
+          <l>ולא שמעתי שועלים</l>
+          <l>בעיר מולדתי</l>
+          <l>לו רק יכולתי לחזור</l>
+          <l>לעיר הזאת</l>
+          <l>ליום אחד, ליום אחד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עץ חרוב ותאנה</l>
+          <l>מלוא החופן אגוזים</l>
+          <l>ולא טעמתי לענה</l>
+          <l>בעיר מולדתי</l>
+          <l>לו יכולתי לחזור</l>
+          <l>לעיר הזאת</l>
+          <l>ליום אחד, ליום אחד</l>
+          <l>ליום אחד, ליום אחד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

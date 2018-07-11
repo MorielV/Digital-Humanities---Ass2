@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אפשר לתקן</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>רוחות טובות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אפשר לתקן</head>
+        <lg number="1" type="stanza">
+          <l>נופל וקם </l>
+          <l>ומחדש נדהם </l>
+          <l>איך את הכוח מגלה </l>
+          <l>ממש כמו סולם </l>
+          <l>ניצב מעל כולם </l>
+          <l>ועל שלביו אני עולה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ותמיד זוכר </l>
+          <l>כשהייאוש עובר </l>
+          <l>שמישהו כאן מכוון </l>
+          <l>כי כל זמן שיש </l>
+          <l>על הפתיל קצת אש </l>
+          <l>אפשר לתקן </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל זמן שהנר דולק אפשר לתקן </l>
+          <l>כל זמן שהנר דולק אתה יכול לתקן </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אחרי חצות הליל </l>
+          <l>יש עוד תקווה בלב </l>
+          <l>כמו סנדלר לאור הנר </l>
+          <l>שואף רק לתקן </l>
+          <l>שואף רק לכוון </l>
+          <l>טוב עכשיו - ויהיה טוב יותר </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נר ה' </l>
+          <l>נשמת אדם </l>
+          <l>וכל זמן שאני קיים </l>
+          <l>כל זמן שיש </l>
+          <l>בנשמתי עוד אש </l>
+          <l>אפשר לתקן </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל זמן שהנר דולק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

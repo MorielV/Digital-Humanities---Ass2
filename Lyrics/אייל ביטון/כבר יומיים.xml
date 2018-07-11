@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כבר יומיים</title>
+        <singer classification="unknown">אייל ביטון</singer>
+        <writer>אייל ביטון</writer>
+        <composer>אייל ביטון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כבר יומיים</head>
+        <lg number="1" type="stanza">
+          <l>כבר יומיים לא דיברנו</l>
+          <l>אפילו מילים בודדות לא אמרנו</l>
+          <l>כבר יומיים לא ירינו</l>
+          <l>מילים כואבות או טובות לא טעינו</l>
+          <l>אז איך זה ללכת לישון בלי ידי</l>
+          <l>האם גם אצלך השעות לא עוברות בלעדי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תגידי האם גם לך קשה כל כך</l>
+          <l>תגידי מה היה חסר לי ולך</l>
+          <l>ניסיתי בשארית כוחות לעצור את הדמעות</l>
+          <l>תגידי מה עושים כשאין אותך</l>
+          <l>תגידי כי זה לא פשוט כל כך</l>
+          <l>ניסיתי בשארית כוחות לגרום לך לחכות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כבר יומיים לא הכנתי</l>
+          <l>את הקפה שאהבת לא יכולתי</l>
+          <l>כבר יומיים ניסיתי</l>
+          <l>לסתור את כל מה ששמעת שעשיתי</l>
+          <l>אז איך זה ללכת לישון בלי ידי</l>
+          <l>האם גם אצלך השעות לא עוברות בלעדי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

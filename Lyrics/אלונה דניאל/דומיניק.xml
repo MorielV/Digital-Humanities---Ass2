@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דומיניק</title>
+        <singer classification="female singer">אלונה דניאל</singer>
+        <writer>אלונה דניאל</writer>
+        <composer>אלונה דניאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דומיניק</head>
+        <lg number="1" type="stanza">
+          <l>בזרועות כושי, בתנוחה רטובה</l>
+          <l>תמונות שער בעיתונות הצהובה</l>
+          <l>את צוחקת אלי או למצלמה</l>
+          <l>אני מוחא לך כפיים, כולי הבנה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>דומיניק קופצת למים</l>
+          <l>אולי זה מתוך בדידות</l>
+          <l>אולי היא רוצה להיות דג זהב</l>
+          <l>אולי זאת היתה התאבדות</l>
+          <l>דומיניק קופצת למים</l>
+          <l>לא לא, לא נפלה כאן טעות</l>
+          <l>לדגים יש דמעות בעיניים</l>
+          <l>על ילדה שהלכה לאיבוד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סוחרי חלומות, חובבי האופנה</l>
+          <l>מכוונים אל בטנך מצלמה טעונה</l>
+          <l>שערוריה בדלתיים סגורות</l>
+          <l>מה בא לך ילדה? מחפשת צרות?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דומיניק קופצת למים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את קופצת תמיד ממיטה למיטה</l>
+          <l>את הולכת מהר לקראת השחיטה</l>
+          <l>מה רודף אותך, מה? מה מטריד את שנתך?</l>
+          <l>ממי את בורחת לחפש את סופך?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>דומיניק קופצת למים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

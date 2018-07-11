@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מעבר לזמן</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מעבר לזמן</head>
+        <lg number="1" type="stanza">
+          <l>תסתכל לו עכשיו תסתכל בעיניים</l>
+          <l>רכבת חורקת עשן בשמיים</l>
+          <l>תסתכל בעיניו עכשיו עוד אפשר</l>
+          <l>אל תוך הדמעות אל תוך העבר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי מתוך העבר נגיע אל עתיד</l>
+          <l>מתוך כאב תצא שמחה אמיתית</l>
+          <l>מתוך הדמעות יפתחו השמיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תסתכל בו עכשיו הוא עייף ושסוע</l>
+          <l>תושיט אליו יד בפנים הוא קרוע</l>
+          <l>תסתכל בעיניו שישה מיליון איש</l>
+          <l>זה אתה שזוכר זה הוא שמרגיש.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי מתוך העבר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תסתכל לו עכשיו תסתכל בעיניים</l>
+          <l>כשיהיה לו קשה נושיט לו ידיים</l>
+          <l>תסתכל בו היטב בזכותו אתה כאן</l>
+          <l>זה בין המילים זה מעבר לזמן</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי מתוך העבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

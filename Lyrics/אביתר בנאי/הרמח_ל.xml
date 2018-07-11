@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הרמח ל</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>אביתר בנאי</composer>
+        <album>עומד על נייר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הרמח"ל</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>איזה מציאות זו היתה</l>
+          <l>בארבע בבוקר</l>
+          <l>קוראת ספר של הרמח"ל</l>
+          <l>והעיר שקטה ציפורים של בוקר</l>
+          <l>מה שחסר לא באמת חסר</l>
+          <l>וחבל אפילו למצמץ</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איזה מציאות זו היתה</l>
+          <l>בארבע בבוקר</l>
+          <l>קוראת ספר של הרמח"ל</l>
+          <l>והעיר שקטה ציפורים של בוקר</l>
+          <l>מה שחסר לא באמת חסר</l>
+          <l>וחבל אפילו למצמץ</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

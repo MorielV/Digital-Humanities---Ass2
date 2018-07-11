@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאמי 4</title>
+        <singer classification="unknown">ארנון צדוק</singer>
+        <writer>אילן גולדהירש</writer>
+        <composer>קיימים 3 ביצועים נוספים לשיר זה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאמי</head>
+        <lg number="1" type="stanza">
+          <l>אימרי לי עוד היום</l>
+          <l>את שאמרת לי בעבר</l>
+          <l>אימרי לי עוד שלום</l>
+          <l>זה עוד לא מאוחר</l>
+          <l>השמיעי את קולך</l>
+          <l>שאת ליבי שבה</l>
+          <l>לראות את חיוכך</l>
+          <l>שווה לי מרבבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מאמי מאמי מאמי מאמי</l>
+          <l>מאמי מאמי די</l>
+          <l>מאמי מאמי מאמי מאמי</l>
+          <l>מאמי חיזרי אלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ליבי הוא כגוזל</l>
+          <l>הבוכה בתוך קינו</l>
+          <l>על חוסר המזל</l>
+          <l>שאיבד הוא את אימו</l>
+          <l>בקירבי הלב פועם</l>
+          <l>בעצב לך הוא שר</l>
+          <l>וזה שמנגן</l>
+          <l>הוא בוכה עם צליל מיתר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מאמי מאמי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

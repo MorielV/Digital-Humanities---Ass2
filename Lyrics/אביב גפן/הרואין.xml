@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הרואין</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>ממנטו מורי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הרואין</head>
+        <lg number="1" type="stanza">
+          <l>עוד מעט לא יהיה מקום בורידים</l>
+          <l>אבל מה כבר אני מפסיד בחיים?</l>
+          <l>בטלוויזיה כל הזמן יורים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם היה לי את הכוח (הרואין)</l>
+          <l>רק לקום ולברוח (הרואין)</l>
+          <l>האמת שדי נוח כשצוללים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כבר ניסיתי לגמור עם זה לתמיד</l>
+          <l>אך בחוץ לא נשאר דבר בשבילי</l>
+          <l>מסגרות, חברים ושטויות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם היה לי את הכוח...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ויותר אני לא חוזר לעצמי</l>
+          <l>ויותר אני לא יוצא מחדרי</l>
+          <l>ההורים יתרסקו</l>
+          <l>מה יהיה עלי?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אם היה לי את הכוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

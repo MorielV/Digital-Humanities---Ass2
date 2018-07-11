@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברוש</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברוש</head>
+        <lg number="1" type="stanza">
+          <l>ואני ראיתי ברוש</l>
+          <l>שניצב בתוך שדה מול פני השמש</l>
+          <l>בחמסין, בקרה</l>
+          <l>אל מול פני הסערה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>על צידו נטה הברוש</l>
+          <l>לא נשבר את צמרתו הרכין עד עשב.</l>
+          <l>והנה, מול הים</l>
+          <l>קם הברוש ירוק ורם.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הנה ברוש, לבדו</l>
+          <l>מול אש ומים.</l>
+          <l>הנה ברוש, לבדו</l>
+          <l>עד השמיים.</l>
+          <l>ברוש, לבדו  איתן.</l>
+          <l>לו רק ניתן ואלמד</l>
+          <l>את דרכו של עץ אחד.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואני כמו תינוק</l>
+          <l>שנשבר ולא יכול מול פני השמש.</l>
+          <l>בחמסין, בקרה</l>
+          <l>אל מול פני הסערה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הנה ברוש, לבדו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

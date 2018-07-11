@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי נתחבק</title>
+        <singer classification="unknown">אלון אולארצ יק</singer>
+        <writer>חנה גולדברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי נתחבק</head>
+        <lg number="1" type="stanza">
+          <l>אם קצת עצוב לך</l>
+          <l>רע וכואב</l>
+          <l>אם את זקוקה לי</l>
+          <l>יש לך גבר אוהב</l>
+          <l>אם את שוכבת</l>
+          <l>שם לבדך</l>
+          <l>תני לי בחושך</l>
+          <l>לאחוז בידך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי נתחבק, נלך לאיבוד</l>
+          <l>בואי נתחבק בסלואו צמוד</l>
+          <l>בואי נתחבק, נלך לאיבוד</l>
+          <l>בואי נתחבק בסלואו צמוד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם את רועדת</l>
+          <l>בלילה החם</l>
+          <l>אם את פוחדת</l>
+          <l>שכל מה שטוב נעלם</l>
+          <l>בואי לגעת</l>
+          <l>בואי אלי</l>
+          <l>כן, את יודעת</l>
+          <l>אני ארקיד אותך לעולם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואי נתחבק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

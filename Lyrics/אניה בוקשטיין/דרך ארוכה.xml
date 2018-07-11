@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דרך ארוכה</title>
+        <singer classification="unknown">אניה בוקשטיין</singer>
+        <writer>תלמה אליגון רוז</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דרך ארוכה</head>
+        <lg number="1" type="stanza">
+          <l>דרך ארוכה</l>
+          <l>אני כעוף בנדודיו</l>
+          <l>אני כרוח חרש</l>
+          <l>ימים עוברת</l>
+          <l>שרה לה מסתיו אל סתיו.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>דרך רחוקה</l>
+          <l>ואני ציפור בליל סגריר</l>
+          <l>ציפור בלי בית,</l>
+          <l>מה היא</l>
+          <l>אל מול שמיים</l>
+          <l>כשאבד לה סוף השיר.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שיר הרוח על המים</l>
+          <l>ולו הרבה גוונים</l>
+          <l>מי אני היום ומה אני</l>
+          <l>בצלילים המשתנים בשיר?</l>
+          <l>כשהאור על פני המים</l>
+          <l>יש קשת של צבעים</l>
+          <l>מי אני היום</l>
+          <l>מה היום</l>
+          <l>מי אני בשיר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>דרך רחוקה</l>
+          <l>ובסופה אתה ניצב</l>
+          <l>אבוא אליך חרש</l>
+          <l>כרוח ערב</l>
+          <l>נלך איתה עד תום יחדיו.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>דרך ארוכה</l>
+          <l>ואני ציפור תלויה על בד</l>
+          <l>הושט ידך לי,</l>
+          <l>קרא לי,</l>
+          <l>כי בשמיים</l>
+          <l>כל השיר שלי אבד.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שיר הרוח על המים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

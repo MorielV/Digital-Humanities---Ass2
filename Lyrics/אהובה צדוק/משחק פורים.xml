@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משחק פורים</title>
+        <singer classification="female singer">אהובה צדוק</singer>
+        <writer>לוין קיפניס</writer>
+        <composer>נחום נרדי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משחק פורים</head>
+        <lg number="1" type="stanza">
+          <l>ציל, ציל, צליל</l>
+          <l>מצנפת לי וגדיל,</l>
+          <l>אל יקום איש ממקומו,</l>
+          <l>משחק פורים מתחיל.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לה לה לה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אחת, שתיים, שלוש</l>
+          <l>אני אחשוורוש,</l>
+          <l>שרביט זהב לי ביד</l>
+          <l>וכתר על הראש.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לכולנו, לכולנו</l>
+          <l>כתר על הראש,</l>
+          <l>כל אחד מאתנו</l>
+          <l>הוא אחשוורוש.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מלכה אסתר אני</l>
+          <l>וזר זהב יש לי,</l>
+          <l>יודעים אתם מי דודי?</l>
+          <l>מרדכי היהודי.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לכולנו, לכולנו</l>
+          <l>על ראשנו זר,</l>
+          <l>כל אחת מאתנו</l>
+          <l>היא מלכה אסתר.</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אני הוא מרדכי,</l>
+          <l>תכלת בגדי.</l>
+          <l>אזני המן ורעשנים</l>
+          <l>הבאתי לילדי.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>לה לה לה...</l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>וגם אני אשיר</l>
+          <l>הבאתי סוס אביר,</l>
+          <l>את מרדכי היהודי</l>
+          <l>ארכיב ברחוב העיר.</l>
+        </lg>
+        <lg Chorus="yes" number="10" type="stanza">
+          <l>לה לה לה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תעני</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>חלומות למבוגרים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תעני</head>
+        <lg number="1" type="stanza">
+          <l>מסתדר לבד, מה יכול להיות? </l>
+          <l>החברים,החלומות</l>
+          <l>בלי אף אחד שמכוון אותי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חדר בלי מראה עושה לי טוב</l>
+          <l>ואין כאן איש שמדבר או מתחבר איתי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רק את לא נמצאת פה</l>
+          <l>זה רק שיחות בטלפון </l>
+          <l>בלי חלום</l>
+          <l>וריק פה וטוב לי</l>
+          <l>אפילו אם זה רק זמני</l>
+          <l>אל תעני...</l>
+          <l>אל תעני...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ים של אנשים </l>
+          <l>כל אחד בודד</l>
+          <l>כולם צודקים, אני רושם ומחשב</l>
+          <l>ולא לומד</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ארץ בלי אויר</l>
+          <l>העננים </l>
+          <l>ולא זזים</l>
+          <l>אני צוחק, ומספק אותי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רק את לא נמצאת פה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

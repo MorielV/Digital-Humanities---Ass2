@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הזוהר לארגוב</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>אלי חוג'ה</writer>
+        <composer>עממי</composer>
+        <album>שיהיה רק במזל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הזוהר לארגוב</head>
+        <lg number="1" type="stanza">
+          <l>הנה בא סתיו</l>
+          <l>הפרחים נבלו</l>
+          <l>קול זמיר נדם</l>
+          <l>מלך שנירדם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמה בי פועמת</l>
+          <l>נעימת קולך</l>
+          <l>למה עזבתנו</l>
+          <l>למה אח יקר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כגחל דעך הזוהר</l>
+          <l>ושוב אינך</l>
+          <l>אך עמוק בתוך ליבנו</l>
+          <l>הן חי עודך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אלוקים הוא עדנו</l>
+          <l>נזכורך זוהר</l>
+          <l>אור שמיים</l>
+          <l>כך נשמור שמך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כגחל דעך הזוהר...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אלוקים הוא עדנו...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>קול נהי נשמע</l>
+          <l>אין מזור להם</l>
+          <l>אלה שהותרת</l>
+          <l>וליבם כבד</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>זמר שזימרת</l>
+          <l>לעולם נשיר</l>
+          <l>איך זה שנקטפת</l>
+          <l>בעודך צעיר</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>כגחל דעך הזוהר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

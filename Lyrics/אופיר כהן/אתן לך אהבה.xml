@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתן לך אהבה</title>
+        <singer classification="unknown">אופיר כהן</singer>
+        <writer>אופיר כהן</writer>
+        <composer>אופיר כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתן לך אהבה</head>
+        <lg number="1" type="stanza">
+          <l>עוד הלילה</l>
+          <l>אולי תתני לי את ידך</l>
+          <l>ואתגנב אל תוך ליבך</l>
+          <l>אהיה שלך הלילה</l>
+          <l>אשיר לך שיר לנשמה</l>
+          <l>ותמצאי פינה חמה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בין זרועותי היום אולי</l>
+          <l>אוהב אותך בלי די</l>
+          <l>ואז תביני...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני אתן לך אהבה</l>
+          <l>שתחמם לך את הלב</l>
+          <l>אל תשחקי ברגשותי</l>
+          <l>אני  אותך אוהב...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בין ידייך</l>
+          <l>ארצה עכשיו להישאר</l>
+          <l>לא אחפש מקום אחר</l>
+          <l>כי טוב לי בין ידייך</l>
+          <l>וכמה שאת מתוקה</l>
+          <l>אתן לך להרגיש מלכה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בין זרועותי היום אולי</l>
+          <l>אוהב אותך בלי די</l>
+          <l>ואז תביני...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני אתן לך אהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

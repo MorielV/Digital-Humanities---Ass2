@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציפיה</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>רועי נ</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציפיה</head>
+        <lg number="1" type="stanza">
+          <l>צפתה בערוב בדידומים</l>
+          <l>לבה לא שקט מהרהורים</l>
+          <l>הוא הלך אלי השכח</l>
+          <l>ויום שכח אלי היזכור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>צופה בתפילה בכליון</l>
+          <l>לבו גם כלה בשגיון</l>
+          <l>אי הבת אלי התזכור</l>
+          <l>ואם תזכור אלי התשמור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כה עמדו וצפו</l>
+          <l>יום וליל לא עיפו</l>
+          <l>ומבטם תועה בצללים</l>
+          <l>הוא במדים היא בורדים</l>
+          <l>הוא לאוייב היא לאוהב</l>
+          <l>פתע חש עצמו בדד התשמור</l>
+          <l>ומבט קט נדם היזכור</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

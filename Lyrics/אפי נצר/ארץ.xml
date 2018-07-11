@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ארץ 13</title>
+        <singer classification="unknown">אפי נצר</singer>
+        <writer>שייקה פייקוב</writer>
+        <composer>שייקה פייקוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ארץ</head>
+        <lg number="1" type="stanza">
+          <l>ארץ, ארץ, ארץ,</l>
+          <l>ארץ תכול אין עב,</l>
+          <l>והשמש לה</l>
+          <l>כדבש וחלב,</l>
+          <l>ארץ בה נולדנו</l>
+          <l>ארץ בה נחיה</l>
+          <l>ונשב בה, יהיה</l>
+          <l>מה שיהיה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ארץ שנאהב</l>
+          <l>היא לנו אם ואב</l>
+          <l>ארץ של העם</l>
+          <l>ארץ לעולם</l>
+          <l>ארץ בה נולדנו</l>
+          <l>ארץ בה נחיה</l>
+          <l>יהיה מה שיהיה.</l>
+        </lg>
+        <lg number="3" type="stanza" />
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ארץ, ארץ, ארץ,</l>
+          <l>ים אל מול החוף</l>
+          <l>ופרחים וילדים</l>
+          <l>בלי סוף.</l>
+          <l>בצפון כינרת</l>
+          <l>בדרום חולות</l>
+          <l>ומזרח למערב</l>
+          <l>נושק גבולות/ נושק בסוד</l>
+          <l>ארץ שנאהב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ארץ, ארץ, ארץ,</l>
+          <l>ארץ התורה</l>
+          <l>את מקור האור</l>
+          <l>ושפת האמונה.</l>
+          <l>ארץ, ארץ, ארץ,</l>
+          <l>ארץ יקרה,</l>
+          <l>הן הבטחת</l>
+          <l>שאין זו אגדה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ארץ שנאהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

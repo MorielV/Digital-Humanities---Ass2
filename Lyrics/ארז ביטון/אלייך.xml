@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלייך 2</title>
+        <singer classification="unknown">ארז ביטון</singer>
+        <writer>ארז ביטון</writer>
+        <composer>ניב אוליאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלייך</head>
+        <lg number="1" type="stanza">
+          <l>את הנסיכה</l>
+          <l>וכתר של מלכה אניח על ראשך תהיי קרובה</l>
+          <l>נלחם בכל הכוח איתך לשוב לפרוח</l>
+          <l>רק תישארי אלי טובה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כן את השיר</l>
+          <l>הלב רוצה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אלייך אלייך יש לי רק דבר אחת לתת</l>
+          <l>אם זה לא אני הוא שילך</l>
+          <l>כשעננים כותבים את שמך</l>
+          <l>אלייך אלייך יש לך רק דבר אחד לאומר</l>
+          <l>לידך הלב כה מאושר</l>
+          <l>אם רק תרצי אני נשאר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש הרבה לאומר לך זה רגע שבורח</l>
+          <l>אין בחוץ אביר על סוס לבן</l>
+          <l>ותשמרי עלינו על מה שיש בנינו</l>
+          <l>כי לעד הדרך היא מכאן</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כן את השיר </l>
+          <l>הלב רוצה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אלייך אלייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

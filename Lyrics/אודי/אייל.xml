@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אייל 3</title>
+        <singer classification="unknown">אודי 4</singer>
+        <writer>דודי עומרד</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אייל</head>
+        <lg number="1" type="stanza">
+          <l>הלבן הפך אפור</l>
+          <l>שחור הכל שחור</l>
+          <l>בחדרך דולק עדיין אור</l>
+          <l>לחיים יש הפתעות</l>
+          <l>וכוונות לא מובנות</l>
+          <l>ובליבי יש אינסוף שאלות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את החיוך והמבט</l>
+          <l>אייל שלנו</l>
+          <l>את הדרך הקשה</l>
+          <l>זוכרים כולנו</l>
+          <l>את החיוך והמבט</l>
+          <l>הותרת לנו</l>
+          <l>את האמת הכי קשה</l>
+          <l>יודעים אנחנו</l>
+          <l>אייל שלנו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עולה השמש במזרח</l>
+          <l>ועוד כוכב דעך</l>
+          <l>עמוק בלב הכאב שולט</l>
+          <l>החיים כמו אגוז</l>
+          <l>לפיצוח הם קשים</l>
+          <l>ובליבי צפים הריגושים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את החיוך והמבט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

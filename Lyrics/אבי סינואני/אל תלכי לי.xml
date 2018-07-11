@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תלכי לי 2</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>שמואל חזי</writer>
+        <composer>שמואל חזי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תלכי לי</head>
+        <lg number="1" type="stanza">
+          <l>אין מקום לאהבה בליבך</l>
+          <l>את כמו אבן</l>
+          <l>גם כשהשתנת ילדה</l>
+          <l>כבר לא מאוהבת</l>
+          <l>וברגעים הכי קשים של החיים</l>
+          <l>את עוזבת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא רוצה להילחם</l>
+          <l>את נשברת</l>
+          <l>ובלילות כשאת לבדיך</l>
+          <l>חולמת על גבר אחר</l>
+          <l>מה הוא כבר יתן לך</l>
+          <l>שאין בכוחי לתת לך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תלכי לי</l>
+          <l>לא לא לא לא</l>
+          <l>אל תלכי לי</l>
+          <l>לא לא לא</l>
+          <l>אל תלכי לי</l>
+          <l>לא לא לא לא</l>
+          <l>אל תלכי לי</l>
+          <l>לא לא לא</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני זוכר את הימים</l>
+          <l>שבהם עוד לחשת לי</l>
+          <l>מילים קסומות של אהבה</l>
+          <l>שלא נגמרת</l>
+          <l>ועכשיו אני פה לבד</l>
+          <l>חולם על ימים שחלפו</l>
+          <l>מי יאהב אותך</l>
+          <l>כפי שאהבתיך בליבי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל תלכי לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

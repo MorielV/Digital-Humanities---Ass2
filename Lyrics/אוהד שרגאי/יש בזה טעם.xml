@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש בזה טעם</title>
+        <singer classification="unknown">אוהד שרגאי</singer>
+        <writer>ורד קלפטר</writer>
+        <composer>ורד קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש בזה טעם</head>
+        <lg number="1" type="stanza">
+          <l>כשהגשם יורד העלים מצהיבים</l>
+          <l>הרחובות חוגגים דליחות מחודשת</l>
+          <l>אני יודעת שיש בזה טעם</l>
+          <l>למרות המחשבה שאין בזה דבר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשהבוקר מאפיר צמרות עצים</l>
+          <l>בחוץ אור, מחוץ בין שני בתים</l>
+          <l>יש מקלט מכל הזמנים אתה אומר</l>
+          <l>ואם אתה אומר אתה וודאי יודע.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא אני לא בוכה</l>
+          <l>זה רק חלון זכוכית עליו טיפות עומדות</l>
+          <l>לא אני לא נבהלת</l>
+          <l>זו רק שעה לא כל כך נוחה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עננים תלויים על וו והמרחק הוא רב</l>
+          <l>עננים תלויים על וו והמרחק הוא רב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

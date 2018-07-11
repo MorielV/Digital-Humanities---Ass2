@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחר כבר לא יבוא</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחר כבר לא יבוא</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>בוא אלי</l>
+          <l>בלי אבל</l>
+          <l>בלי אולי</l>
+          <l>בוא תלחש לי באזני</l>
+          <l>תירגע מחר כבר לא יבוא</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כתוב לי על מצבה</l>
+          <l>כתוב עם צבע שלא ידהה</l>
+          <l>עוד אסיר חיים בורח</l>
+          <l>מתוך כלא הבינוניות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וכשהשחר יעלה</l>
+          <l>אל תופתע כשתגלה</l>
+          <l>שמחר כבר לא יהיה</l>
+          <l>שמחר כבר לא יהיה</l>
+          <l>תיקח אותה עכשיו לצד</l>
+          <l>תאמר לה כמה היא יפה</l>
+          <l>ושמחר כבר לא יהיה</l>
+          <l>שמחר כבר לא יהיה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>במיטת העולם</l>
+          <l>אין תמיד מקום לכולם</l>
+          <l>כמה ישנים בחוץ</l>
+          <l>גם להם מחר כבר לא יבוא</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וכשהשחר יעלה...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בוא אלי</l>
+          <l>בלי אבל</l>
+          <l>בלי אולי</l>
+          <l>בוא תלחש לי באזני</l>
+          <l>תירגע מחר כבר לא יבוא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

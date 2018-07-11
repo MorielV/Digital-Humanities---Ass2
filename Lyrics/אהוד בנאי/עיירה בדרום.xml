@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עיירה בדרום</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>הלל מיטלפונקט</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עיירה בדרום</head>
+        <lg number="1" type="stanza">
+          <l>עיירה בדרום, יום שלישי בערב</l>
+          <l>פעמיים כי טוב במתנ"ס מתחתנים</l>
+          <l>הסמל, ניסים מלכה, חייל מילואים</l>
+          <l>ומאמי ביתם של השכנים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עננים של גשם ושל מלחמה</l>
+          <l>שטים מעל מפעל הטקסטיל הנטוש</l>
+          <l>לזוג הצעיר יש תקווה ויש אהבה</l>
+          <l>לכלה אין מקצוע ולחתן אין גרוש</l>
+          <l>לכלה אין מקצוע ולחתן אין גרוש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני אמשיך במזנון תחנת הדלק</l>
+          <l>תמשיך עוד שנה במפעל, אחר כך נחשוב</l>
+          <l>הזמן לא דוחק, החיים לפנינו</l>
+          <l>ובערב שלישי נאמר פעמיים כי טוב, פעמיים כי טוב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בחצות השמחה נגמרת</l>
+          <l>הקרואים אוספים שאריות פרחים</l>
+          <l>ואוכל ליום המחר</l>
+          <l>החתן מחליף למדים, הוא שב אל הגדוד,</l>
+          <l>הכלה לבית הוריה</l>
+          <l>בדרום עוד יום עבר, עוד יום עבר.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עננים של גשם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

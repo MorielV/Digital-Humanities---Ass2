@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משהו טוב</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>דן תורן</writer>
+        <composer>פיטר רוט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משהו טוב</head>
+        <lg number="1" type="stanza">
+          <l>אם אתה לבד ועצוב לך בפנים</l>
+          <l>הולך לישון וקם על הפנים</l>
+          <l>אם אתה רודף אחרי הזנב של עצמך</l>
+          <l>ואין לך מקום שאתה מוצא בו מנוחה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אולי זה אומר שמשהו טוב הולך לקרות</l>
+          <l>אז אולי זה אומר שמשהו טוב חייב לקרות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם אתה מוציא יותר ממה שאתה מכניס</l>
+          <l>ובמכנסיים יש לך חור במקום כיס</l>
+          <l>אם אתה הולך אחורה במקום להתקדם</l>
+          <l>ובלילה אתה לא מצליח להירדם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז אולי זה אומר שמשהו טוב הולך לקרות</l>
+          <l>אז אולי זה אומר שמשהו טוב חייב לקרות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם אתה תלוי ברשת במקום לגלוש</l>
+          <l>וכל הזמן מציק לך כאב בראש</l>
+          <l>אם במקום לאסוף אתה תמיד מפיל</l>
+          <l>וכל זבוב נראה לך פיל</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אז אולי זה אומר שמשהו טוב הולך לקרות</l>
+          <l>אז אולי זה אומר שמשהו טוב חייב לקרות</l>
+          <l>אז אולי זה אומר שמשהו טוב הולך לקרות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

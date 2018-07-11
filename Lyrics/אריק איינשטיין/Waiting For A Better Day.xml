@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Waiting For A Better Day</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Waiting For A Better Day</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>I lie in the sun waiting for a better day</l>
+          <l>I lie in the sun dreaming of another way</l>
+          <l>So give me the answer if you know what should I do</l>
+          <l>I lie in the sun waiting for a better day</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>I sit with my friends watching how they always fight  </l>
+          <l>I sit with my friends almost every day and night</l>
+          <l>So give me the answer if you know what should I do</l>
+          <l>I sit with my friends waiting for a better day</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>I lie in the sun waiting for a better day</l>
+          <l>I lie in the sun dreaming of another way</l>
+          <l>So give me the answer if you know what should I do</l>
+          <l>I lie in the sun waiting for a better day</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

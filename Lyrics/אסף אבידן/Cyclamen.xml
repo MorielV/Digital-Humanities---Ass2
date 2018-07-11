@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Cyclamen</title>
+        <singer classification="male singer">אסף אבידן</singer>
+        <writer>אסף אבידן</writer>
+        <composer>אסף אבידן</composer>
+        <album>Different Pulses</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Cyclamen</head>
+        <lg number="1" type="stanza">
+          <l>Cyclamen, you're holding it in again</l>
+          <l>There's winter in every spring</l>
+          <l>It's time to let go</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Cyclamen, the temperature’s rising again</l>
+          <l>But you're tuber is absorbing the rain</l>
+          <l>Continues to grow</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza" />
+        <lg number="4" type="stanza">
+          <l>I know I am dying</l>
+          <l>Still I'm gonna go trying</l>
+          <l>I’ll make it better</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>It's over. It's over. It's over.  </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza" />
+        <lg number="7" type="stanza">
+          <l>Cyclamen, it's hard to breath ‘cause the air</l>
+          <l>Is filled with your prayers again</l>
+          <l>You’ve got to let go</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>Cyclamen, Time will always be lighter than Pain</l>
+          <l>It floats away from your stem</l>
+          <l>You're left with a bulb</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza" />
+        <lg number="10" type="stanza">
+          <l>I know I am dying</l>
+          <l>Still I'm gonna go trying</l>
+          <l>I’ll make it better</l>
+        </lg>
+        <lg number="11" type="stanza">
+          <l>It's over. It's over. It's over.  </l>
+          <l>It's over. It's over. It's over.  It's over. It's over. It's over. It's over. It's over. It's over.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

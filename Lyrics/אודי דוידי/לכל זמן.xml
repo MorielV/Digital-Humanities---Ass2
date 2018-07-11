@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לכל זמן 2</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>מן המקורות</writer>
+        <composer>אודי דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לכל זמן</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>לכל זמן ועת</l>
+          <l>לכל חפץ תחת השמים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עת ללדת ועת למות</l>
+          <l>עת לטעת ועת לעקור</l>
+          <l>עת להרוג ועת לרפוא</l>
+          <l>עת לפרוץ ועת לבנות</l>
+          <l>עת לבכות ועת לשחוק</l>
+          <l>עת ספוד ועת רקוד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לכל זמן ועת</l>
+          <l>לכל חפץ תחת השמים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עת לחבוק ועת לרחוק</l>
+          <l>עת לבקש ועת לאבד</l>
+          <l>עת לקרוע ועת לתפור </l>
+          <l>עת לחשות ועת לדבר</l>
+          <l>עת לאהוב ועת לשנוא</l>
+          <l>עת מלחמה ועת שלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

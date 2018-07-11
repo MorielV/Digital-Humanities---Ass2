@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תלכי 10</title>
+        <singer classification="unknown">אביה פינטו</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תלכי</head>
+        <lg number="1" type="stanza">
+          <l>מה עשית כשהלכת </l>
+          <l>ובך אני כך התאהבתי</l>
+          <l>לבדי הולך ברחוב</l>
+          <l>ואת כה חסרה לי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא נרדם בגללך </l>
+          <l>האהבה בי בוערת כמו אש</l>
+          <l>כל מילה שיוצאת</l>
+          <l>רוצה אותך לחבק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא לא זוכרת</l>
+          <l>ימים של תפארת </l>
+          <l>ברגע שלכת פתאום היא הולכת</l>
+          <l>באתי אליך בקשתי ממך אל תלכי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איך היום בא פתאום</l>
+          <l>ואת למולי מופיעה לי</l>
+          <l>בשבילי את כמו חלום</l>
+          <l>אושר תמיד מביאה לי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא נרדם בגללך</l>
+          <l>האהבה בי בוערת כמו אש</l>
+          <l>כל מילה שיוצאת</l>
+          <l>רוצה אותך לחבק</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כבר לא אותו דבר</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>יואב פורת</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כבר לא אותו דבר</head>
+        <lg number="1" type="stanza">
+          <l>כבר לא אותו דבר</l>
+          <l>כבר לא אותו החסד</l>
+          <l>והתום שבער בעינייך</l>
+          <l>התמעט התקמט וכבה</l>
+          <l>כבר לא אותו מחר</l>
+          <l>ואת שוב מתכנסת</l>
+          <l>ושקיעה אפורה בין כתלייך</l>
+          <l>רק חלמת רק חלמת אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מסתכל לך בעיניים</l>
+          <l>אני רואה אני רואה</l>
+          <l>את רוצה לפרוס כנפיים</l>
+          <l>וזה דומה זה רק נדמה</l>
+          <l>לעולם לא אמרת בליבך</l>
+          <l>כבר מאוחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כבר לא אותו דבר</l>
+          <l>כבר לא אותה נשימה</l>
+          <l>ותקווה חרבה בשפתייך</l>
+          <l>ואת לא ואת לא מבינה</l>
+          <l>הכל פתאום אבד</l>
+          <l>בצל קולך לא נשמע</l>
+          <l>וצפים עייפים אורותייך</l>
+          <l>בלילות יחפים בלי שינה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מסתכל לך בעיניים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

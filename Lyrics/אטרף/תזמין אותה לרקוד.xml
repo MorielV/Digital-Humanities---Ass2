@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תזמין אותה לרקוד</title>
+        <singer classification="band">אטרף</singer>
+        <writer>חנה גולדברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תזמין אותה לרקוד</head>
+        <lg number="1" type="stanza">
+          <l>יום שישי בבוקר</l>
+          <l>חולמת שאתה</l>
+          <l>מביא לה פתאום</l>
+          <l>קפה למיטה</l>
+          <l>חולמת שאתה</l>
+          <l>לוחץ על כפתור</l>
+          <l>והחיים שלה פתאום</l>
+          <l>מלאים באור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אז חמוד שלי, קדימה, קדימה</l>
+          <l>אל תיקח דוגמא מאבא ואמא</l>
+          <l>לא צריך להתלבש, ומותר להתרגש</l>
+          <l>תן לה היום את כל מה שתבקש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לחץ על הכפתור, אל תתבייש</l>
+          <l>ותפסיק כבר להיות כזה יבש</l>
+          <l>עזוב את העיתון, פתח איזה חלון</l>
+          <l>ותזמין אותה לרקוד על השטיח בסלון.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

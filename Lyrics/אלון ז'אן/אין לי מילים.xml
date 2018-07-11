@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין לי מילים</title>
+        <singer classification="unknown">אלון ז אן</singer>
+        <writer>יואב גינאי</writer>
+        <composer>אלון ז'אן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין לי מילים</head>
+        <lg number="1" type="stanza">
+          <l>כמה כאב מרגיש הים</l>
+          <l>שמתפרש מכאן עד שם</l>
+          <l>והרגע שנשאת הוא קודר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את בחצי כדור אחר</l>
+          <l>אבל אני כולי בוער</l>
+          <l>כשהשם שלך מוזכר</l>
+          <l>זה שובר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה שהיה בינינו כאן</l>
+          <l>הוא חד פעמי</l>
+          <l>וטסנו מעל העננים</l>
+          <l>את ואני</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין לי מילים יותר עוד לתאר</l>
+          <l>איך שהזמן עובר</l>
+          <l>קורה וחסר</l>
+          <l>ולא מתגבר</l>
+          <l>אין לי מילים יותר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא מאמין בנחמה</l>
+          <l>שהכאב שבמרחק</l>
+          <l>עוד מתפתל עם השנים כמו ענן</l>
+          <l>יש בי תחושה ברורה כל כך</l>
+          <l>שהעולם שלי איתך</l>
+          <l>עוד מתמשך למרות הכל לעולם!!!</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מה שהיה בינינו כאן</l>
+          <l>הוא חד פעמי</l>
+          <l>וטסנו מעל העננים</l>
+          <l>את ואני</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אין לי מילים יותר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

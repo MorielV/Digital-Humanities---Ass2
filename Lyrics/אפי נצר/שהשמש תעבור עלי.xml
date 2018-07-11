@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שהשמש תעבור עלי</title>
+        <singer classification="unknown">אפי נצר</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שהשמש תעבור עלי</head>
+        <lg number="1" type="stanza">
+          <l>ישנם ימים ללא מרגוע</l>
+          <l>בם לא אמצא לי נחמה</l>
+          <l>ומוכרחה אני לנגוע</l>
+          <l>בעשבים, באדמה</l>
+          <l>לפסוע באותה הדרך</l>
+          <l>בתוך פריחת הכרכומים</l>
+          <l>ולהיות כל כך אחרת</l>
+          <l>ולפרוח ערב הגשמים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק תפילה אשא</l>
+          <l>הוי אלי, אלי</l>
+          <l>שהשמש תעבור עלי</l>
+          <l>ותראה לי שוב את משעולי</l>
+          <l>הוי אלי, אלי</l>
+          <l>רק תפילה אשא</l>
+          <l>שהשמש תעבור עלי</l>
+          <l>ותיקח אותי אל המסע.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואם אשוב אל זאת הארץ</l>
+          <l>ואם אפסע שוב בדרכים</l>
+          <l>האם כקדם יכירוני</l>
+          <l>האנשים והפרחים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק תפילה אשא...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>האם אמצא את כל היופי</l>
+          <l>האהבה הנושנה</l>
+          <l>אשר היתה שם כשעזבתי</l>
+          <l>עת אהבתי פעם ראשונה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

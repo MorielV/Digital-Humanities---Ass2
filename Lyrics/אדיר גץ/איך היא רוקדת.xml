@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך היא רוקדת</title>
+        <singer classification="unknown">אדיר גץ</singer>
+        <writer>אלירז שדה</writer>
+        <composer>missing</composer>
+        <album>אדיר גץ</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך היא רוקדת</head>
+        <lg number="1" type="stanza">
+          <l>הרגש משחק והאש אותי עוטפת</l>
+          <l>המתח מתגבר תראו אותה היא מהפנטת</l>
+          <l>אני לוקח נשימה ואת אותי מושכת</l>
+          <l>ידיה לי קוראות לרקוד היא מסמנת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך היא רוקדת</l>
+          <l>כל הלילה שלה</l>
+          <l>הכוכבים מאירים לה</l>
+          <l>כשהיא רוקדת</l>
+          <l>איך היא רוקדת</l>
+          <l>כל הלילה שלה</l>
+          <l>את כל המבטים</l>
+          <l>היא גונבת</l>
+          <l>כשהיא רוקדת</l>
+          <l>כשהיא רוקדת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סיבוב ועוד סיבוב</l>
+          <l>איתה לרקוד אני מוכן לנצח</l>
+          <l>אין לה שום גבולות</l>
+          <l>היא עוד תרקיד את הירח</l>
+          <l>אחרי הערב מה יקרה</l>
+          <l>אני כבר לא יודע</l>
+          <l>אעשה מה שתרצה</l>
+          <l>אותי עוד תשגע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך היא רוקדת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

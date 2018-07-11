@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הבשורה</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>הלל מיטלפונקט</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הבשורה</head>
+        <lg number="1" type="stanza">
+          <l>כאן, זו הכתובת </l>
+          <l>מי בדלת? </l>
+          <l>שתיים בלילה - תנו לישון! </l>
+          <l>טנדר צבאי בפתח הבית, תנו לרופא לגשת ראשון </l>
+          <l>לא, הוא לא מת </l>
+          <l>הוא שותק! </l>
+          <l>מסבירים לה, הנפש הגוף והראש </l>
+          <l>בעוד יממה היא תקלוט </l>
+          <l>מזריקים לה </l>
+          <l>הטנדר עוזב בשלוש </l>
+          <l>עיניה כבויות </l>
+          <l>אין איש בחדר </l>
+          <l>אולי כשתקום יבשרו לה "טעות" </l>
+          <l>הילדה, הכלה, משנתה נמלטת, מקץ הילדות </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מאמי החייל שלך צמח </l>
+          <l>החופה היא קצרה </l>
+          <l>הנצח הוא נצח </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מאמי החייל שלך....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

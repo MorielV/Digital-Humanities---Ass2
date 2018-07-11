@@ -1,0 +1,37 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קרב יום</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>מן המקורות</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קרב יום</head>
+        <lg number="1" type="stanza">
+          <l>קָרֵב יוֹם אֲשֶׁר הוּא לֹא יוֹם וְלֹֹא לַיְלָה,</l>
+          <l>רָם הוֹדַע כִּי לְךָ הַיוֹם אַף לְךָ הַלַּיְלָה,</l>
+          <l>שׁוֹמְרִים הַפְקֵד לְעִירְךָ כָּל הַיוֹם וְכָל הַלַּיְלָה,</l>
+          <l>תָּאִיר כְּאוֹר יוֹם חֶשְׁכַּת לַיְלָה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

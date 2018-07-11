@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כתבתי לך</title>
+        <singer classification="unknown">אורן תורג מן</singer>
+        <writer>אורן תורג'מן</writer>
+        <composer>אורן תורג'מן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כתבתי לך</head>
+        <lg number="1" type="stanza">
+          <l>כתבתי לך את חיי </l>
+          <l>השארתי עוד רמז להמשך</l>
+          <l>קיוויתי לטוב רציתי לאהוב </l>
+          <l>ובך אני לא פגעתי </l>
+          <l>יש בי דאגה איתך כולי תקווה </l>
+          <l>לאושר לאור שבנשמה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תביני אולי תאמרי לי </l>
+          <l>שזה גדול עליי לרגש אותך עד בלי די </l>
+          <l>תבטחי בי אולי תרגישי </l>
+          <l>את הלב שלי שפועם בזכותך </l>
+          <l>עם כל הכאב כתבתי לך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נשארתי שוב לבדי </l>
+          <l>שקעתי לרגע בדמותך </l>
+          <l>מרגיש אותך קרוב </l>
+          <l>השקט שפתאום </l>
+          <l>חודר לתוך הנשמה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

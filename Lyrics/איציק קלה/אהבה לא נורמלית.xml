@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה לא נורמלית</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>איציק קלה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה לא נורמלית</head>
+        <lg number="1" type="stanza">
+          <l>המבט שלך מטריף ומשגע</l>
+          <l>ומעיף אותי ישר לעננים</l>
+          <l>אבל מה יש לך נגדי איני יודע</l>
+          <l>אני נותן לך את החיים</l>
+          <l>מגבוה מסתכלת וצוחקת</l>
+          <l>מוציאה לי ת'אוויר מהנשמה</l>
+          <l>את עושה בי כרצונך ושוב חומקת</l>
+          <l>מבלי לומר לי מילה חמה...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את הפכת אותי ללא נורמלי</l>
+          <l>בגללך עצוב לי וגם רע לי</l>
+          <l>את עצמי שואל איך זה קרה לי</l>
+          <l>תני לי סיכוי מתוקה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את הכתובת לליבך אני יודע</l>
+          <l>אבל את אמרת לי "מותק אין כניסה"</l>
+          <l>מנסה בכל כוחי רק לשכנע</l>
+          <l>שבשבילי את הנסיכה</l>
+          <l>במילים שלך אותי את עוקצת</l>
+          <l>ועושה ממני צחוק ליד כולם</l>
+          <l>מחזיקה אותי קצר ולא תופסת</l>
+          <l>שבשבילי את כל העולם...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את הפכת אותי ללא נורמלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

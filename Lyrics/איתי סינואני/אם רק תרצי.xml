@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם רק תרצי</title>
+        <singer classification="unknown">איתי סינואני</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם רק תרצי</head>
+        <lg number="1" type="stanza">
+          <l>איך פתאום את כך הולכת, בלי לומר להתראות</l>
+          <l>את שברי ליבי נוטשת בתוך ים מלא דמעות</l>
+          <l>ואני כל כך זקוק לך, לא יודע איך לומר</l>
+          <l>אל תלכי כי בלעדייך אין לי יום ואין מחר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם רק תרצי, את כל חיי אני אתן לך אהובתי</l>
+          <l>ואם תרצי אני אתן את נשמתי, רק תבקשי</l>
+          <l>אם רק תרצי להיות איתי, אם רק תרצי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מסתובב בתוך החדר, מנסה למצוא מילים</l>
+          <l>להגיד "יהיה בסדר" זה פשוט, אך לא מתאים</l>
+          <l>את סוגרת את הדלת, ואני לוחש "חכי"</l>
+          <l>אך בתוך תוכי יודע שליבך אינו איתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם רק תרצי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

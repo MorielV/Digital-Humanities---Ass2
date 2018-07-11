@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דבר אליו</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דבר אליו</head>
+        <lg number="1" type="stanza">
+          <l>יש אנשים שרודפים אחרי כסף</l>
+          <l>לא, זה לא אמיתי</l>
+          <l>רוצה לרדוף אחרי אמת</l>
+          <l>מחפש את מהותי</l>
+          <l>הייתי בכל מקום בעולם</l>
+          <l>לחפש את נשמתי</l>
+          <l>עד שהבנתי פתאום,</l>
+          <l>הוא בכל מקום</l>
+          <l>הוא עכשיו איתי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>דבר אליו, דבר אליו...</l>
+          <l>דבר עם ד'...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני רוצה לדבר אל ד'</l>
+          <l>אני רוצה לדבר אליו כמו לאב</l>
+          <l>אני רוצה לבכות לו כמו בן</l>
+          <l>להרגיש שהוא עונה לי עכשיו</l>
+          <l>כמה אדם צריך לעבוד</l>
+          <l>כדי לדעת שהוא יכול</l>
+          <l>לא לסמוך על אנוש,</l>
+          <l>רק לדעת שמאיתך הכל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>דבר אליו, דבר אליו...</l>
+          <l>דבר עם ד'...</l>
+          <l>כן, אני רוצה לדבר עם ד'</l>
+          <l>אני רוצה לספר לך ד'</l>
+          <l>יוצא לשדה לדבר עם ד'</l>
+          <l>רוצה כל כך לדבר איתך- ד'</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז דבר עם ד'....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

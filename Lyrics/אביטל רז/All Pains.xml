@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>All Pains</title>
+        <singer classification="unknown">אביטל רז</singer>
+        <writer>אביטל רז</writer>
+        <composer>אביטל רז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>All Pains</head>
+        <lg number="1" type="stanza">
+          <l>An Ocean of sorrow </l>
+          <l>I came to the river of bliss </l>
+          <l>Here I am praying to drown. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>The king lost his crown </l>
+          <l>The queen lost her gown </l>
+          <l>I caught the mirror frown as I fell </l>
+          <l>Down and down and down and down. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>All pains float away </l>
+          <l>Like candles on the river</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>turn</title>
+        <singer classification="male singer">אסף אבידן</singer>
+        <writer>אסף אבידן</writer>
+        <composer>אסף אבידן</composer>
+        <album>Different Pulses</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>turn</head>
+        <lg number="1" type="stanza">
+          <l>It's five in the morning where you are</l>
+          <l>You're learning a language, beginning with "far"</l>
+          <l>I'm glad you're awake now, and picking your scars</l>
+          <l>We do it all backwards, wherever we are</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Turn.</l>
+          <l>Turn around.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>You're living on the breadcrumbs of love that you found</l>
+          <l>We were never ashamed love off the ground</l>
+          <l>I'm changing my skin now from white into brown</l>
+          <l>There's sun in the winter now, things are turning around</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>Turn.</l>
+          <l>Turn around.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>Turning up, turning in my dream. I've come a long way.</l>
+          <l>Turning up. Turn. Turn it again.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

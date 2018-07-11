@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שתי אצבעות מצידון</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>אלי מדורסקי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שתי אצבעות מצידון</head>
+        <lg number="1" type="stanza">
+          <l>שתי אצבעות מצידון</l>
+          <l>אני יושב בדיכאון</l>
+          <l>כל היום סיור, שמירות</l>
+          <l>מסתכלים על מי לירות</l>
+          <l>רואה ילדה יפה בכפר</l>
+          <l>ובך אני נזכר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רחוק מהעין, רחוק מהלב</l>
+          <l>שכחת אותי וזה כואב</l>
+          <l>חושב עלייך המון</l>
+          <l>חייל שבוז, בלבנון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שתי אצבעות מצידון</l>
+          <l>פתיחת צירים דבר ראשון</l>
+          <l>קצת בטוח קצת נפחד</l>
+          <l>בשיחים מטען צד</l>
+          <l>על ענף יושב פרפר</l>
+          <l>ובך אני נזכר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רחוק מהעין, רחוק מהלב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שתי אצבעות מצידון</l>
+          <l>אני שומר אך מת לישון</l>
+          <l>מה עושים לעזאזל</l>
+          <l>במשקפת מסתכל</l>
+          <l>רואה חלון רחוק מואר</l>
+          <l>ובך אני נזכר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רחוק מהעין, רחוק מהלב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

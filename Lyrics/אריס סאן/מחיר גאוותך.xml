@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחיר גאוותך</title>
+        <singer classification="male singer">אריס סאן</singer>
+        <writer>יובב כץ</writer>
+        <composer>אריס סאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחיר גאוותך</head>
+        <lg number="1" type="stanza">
+          <l>גבך כוף, שיבה זרקה בשערך</l>
+          <l>מול העלבון של הזקנה את לבדך</l>
+          <l>זכרונותי העצובים </l>
+          <l>יודעים יופייך, יופייך בוכים</l>
+          <l>וגאות ליבך הקר כמי - שלגים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לולא דחית לפני שנים</l>
+          <l>את כף ידי הביישנית</l>
+          <l>היה לך מי שיאהב, גם, בקמטים...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הגשתי לך את כל התום של נעורי</l>
+          <l>הקדשתי לך את כל החום של תפילותי</l>
+          <l>ואת צחקת לי בפני</l>
+          <l>ואת רמסת חלומותי</l>
+          <l>ואת חיפשת אהבתך בעננים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לולא דחית לפני שנים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>גבך כפוף, שיבה זרקה בשערך</l>
+          <l>שלמת מחיר הגאווה בבדידותך</l>
+          <l>ואיך תדעי שגם אני</l>
+          <l>זקן גלמוד ותמהוני</l>
+          <l>שלא החלים ולא ישכח לעולמים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לולא דחית לפני שנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

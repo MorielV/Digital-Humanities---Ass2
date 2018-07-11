@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היום אני כזה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היום אני כזה</head>
+        <lg number="1" type="stanza">
+          <l>היום אני כזה</l>
+          <l>לא יכול לצאת מזה</l>
+          <l>אז אל תבוא אלי היום</l>
+          <l>כי היום אני כזה וזהו זה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא רוצה לצאת לשום מקום</l>
+          <l>לא רוצה לראות דבר חדש</l>
+          <l>רוצה לברוח לדברים קטנים</l>
+          <l>כמו קפה, סיגרה וגיטרה</l>
+          <l>סתם דברים קטנים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היום אני כזה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא רוצה לראות מה שכתבו</l>
+          <l>לא רוצה לשמוע מה אמרו</l>
+          <l>רוצה לברוח לדברים קטנים</l>
+          <l>כמו קפה, סיגרה וגיטרה</l>
+          <l>סתם דברים קטנים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא רוצה לצאת לשום מקום</l>
+          <l>לא רוצה לראות דבר חדש</l>
+          <l>רוצה לברוח לדברים קטנים</l>
+          <l>כמו קפה, סיגרה וגיטרה</l>
+          <l>סתם דברים קטנים</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>היום אני כזה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

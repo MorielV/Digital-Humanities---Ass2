@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא 8</title>
+        <singer classification="female singer">אחינועם ניני</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>גיל דור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא</head>
+        <lg number="1" type="stanza">
+          <l>שלחת אלי את האוח</l>
+          <l>להעירני משינה.</l>
+          <l>לימדת אותו לצווח</l>
+          <l>מילות אהבה ותחינה</l>
+          <l>אבל אני לא אבוא,</l>
+          <l>לא אבוא, לא אבוא!</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שילחת בי את ריח</l>
+          <l>האצות ואת הלבנה,</l>
+          <l>ציוית על הים להאנח</l>
+          <l>בקול אהבה ותחינה</l>
+          <l>אבל אני לא אבוא,</l>
+          <l>לא אבוא, לא אבוא!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נשקו הגלים את רגלי,</l>
+          <l>את שולי שמלתי הלבנה.</l>
+          <l>בקולך אמרו לי "בואי אלי"</l>
+          <l>בקול אהבה ותחינה.</l>
+          <l>ואני חזרתי אל ביתי,</l>
+          <l>סגרתי את דלתי,</l>
+          <l>חלוני מוגף</l>
+          <l>ליבי ישן ואני ישנה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

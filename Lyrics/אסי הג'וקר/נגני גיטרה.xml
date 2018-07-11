@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נגני גיטרה 2</title>
+        <singer classification="unknown">אסי הג וקר</singer>
+        <writer>חיה בר</writer>
+        <composer>קרן אביטן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נגני גיטרה</head>
+        <lg number="1" type="stanza">
+          <l>נגני גיטרה נגני</l>
+          <l>שירי לי נעימה שמחה</l>
+          <l>כי עצוב לי כל כך בנשמה</l>
+          <l>נגני לי שיר שמח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לזכור ימים טובים</l>
+          <l>להזכיר לי את טעם החיים</l>
+          <l>תקווה לימים שעוד ישובו</l>
+          <l>שתחזור בי השמחה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שוב נגני שירי לי מנגינה שמחה</l>
+          <l>שוב ירנין ירנין ליבי באהבה</l>
+          <l>שוב תשכון תשכון בי התקווה</l>
+          <l>שוב ישמח איתי העולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נגני גיטרה נגני</l>
+          <l>נגני לכבוד זריחה מרהיבה</l>
+          <l>יחד נרקום חלומות חדשים</l>
+          <l>לעתיד יותר שמח</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>להזכיר ימים של אושר</l>
+          <l>לרקוד לקול מיתר</l>
+          <l>לצעוד בשביל האהבה</l>
+          <l>לצעוד בשביל האושר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שוב נגני...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>נגני גיטרה נגני</l>
+          <l>לכבוד ריקוד ושיר</l>
+          <l>שיר של רינה רינה ואושר</l>
+          <l>שיר של אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>שוב נגני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

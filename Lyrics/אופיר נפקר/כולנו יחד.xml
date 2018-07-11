@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כולנו יחד</title>
+        <singer classification="male singer">אופיר נפקר</singer>
+        <writer>אופיר נפקר</writer>
+        <composer>יוסי נפקר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כולנו יחד</head>
+        <lg number="1" type="stanza">
+          <l>בואו נקום איש ואישה</l>
+          <l>ילד וישיש</l>
+          <l>בואו נצעק בקול חזק</l>
+          <l>כשהעולם מחריש</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יחד ניקח את כולם</l>
+          <l>אל אור ואהבה</l>
+          <l>יחד נאמר לעולם</l>
+          <l>שיש עוד תקווה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כולנו יחד נביא את האור</l>
+          <l>ביחד שלום כאן ישרור</l>
+          <l>ביחד כוחנו בלב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בואו נלך כאיש אחד</l>
+          <l>לקראת עולם אחר</l>
+          <l>בואו נפעל ונעשה</l>
+          <l>יחד נשפר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מתוך הלבבות שפועמים</l>
+          <l>תפרוץ שירה גדולה</l>
+          <l>שתמלא את היקום</l>
+          <l>באור ואהבה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כולנו יחד נביא את האור</l>
+          <l>ביחד שלום כאן ישרור</l>
+          <l>ביחד כוחנו בלב</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כל כוחנו בלב</l>
+          <l>כל כוחנו בלב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

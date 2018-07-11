@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כולם יודעים</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>גיא בוקאטי</writer>
+        <composer>גיא בוקאטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כולם יודעים</head>
+        <lg number="1" type="stanza">
+          <l>איך שהיא בבוקר מתעוררת יש בי דאגה</l>
+          <l>אם אותי היא עוד אוהבת שמחה או עצובה</l>
+          <l>וכשהיא פנים רוחצת אני עומד ליד</l>
+          <l>מסתכל בה במראה, כמה היא יפה...</l>
+          <l>אצבעותיה הדקיקות עושות אותי חולה</l>
+          <l>מלטפות כמו מנגינות כשהפסנתר בוכה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והרופא אומר זה יעבור אל תישבר</l>
+          <l>והשכנים רואים אותי מביא לה זר פרחים</l>
+          <l>וכולם יודעים (כולם יודעים'</l>
+          <l>אני אוהב אותה</l>
+          <l>אני אוהב אותה קצת יותר מידי, </l>
+          <l>קצת יותר מידי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשהיא מתפנקת מחייכת בזוית הפה </l>
+          <l>משהו בתוכי לוחש שהעולם יפה</l>
+          <l>לא היא לא דואגת היא יודעת ש...</l>
+          <l>אין לי תוכניות גדולות יושב כאן מחכה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והרופא אומר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

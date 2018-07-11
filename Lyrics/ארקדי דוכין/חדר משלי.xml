@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חדר משלי</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חדר משלי</head>
+        <lg number="1" type="stanza">
+          <l>יש לי חדר משלי</l>
+          <l>ובחדר יש אור</l>
+          <l>זה כרגע לא אני</l>
+          <l>או אני בשחור.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה נמשך כמעט שבוע</l>
+          <l>או כבר כמה ימים</l>
+          <l>אם תשאל אותי מדוע</l>
+          <l>זה עמוק בפנים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תתגבר תתגבר</l>
+          <l>כך אומר לי הקול</l>
+          <l>להיפגע וליפול</l>
+          <l>כל אחד יכול</l>
+          <l>לכולנו מותר</l>
+          <l>להיות חלשים</l>
+          <l>לא לאטום אזניים</l>
+          <l>לא לעצום עיניים</l>
+          <l>לא לעזוב ידיים</l>
+          <l>גם בימים קשים</l>
+          <l>אפילו בימים קשים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש לי חדר משלי</l>
+          <l>ובו אני נח</l>
+          <l>כמה כל זה ימשך</l>
+          <l>כמה שמוכרח.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בינתיים זה שבוע</l>
+          <l>או כבר כמה ימים</l>
+          <l>אם תשאל אותי מדוע</l>
+          <l>זה עמוק בפנים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תתגבר תתגבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

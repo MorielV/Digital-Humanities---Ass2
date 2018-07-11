@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילות לבד</title>
+        <singer classification="unknown">אדר גולד</singer>
+        <writer>אהוד מנור</writer>
+        <composer>ירוסלב יעקובוביץ'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילות לבד</head>
+        <lg number="1" type="stanza">
+          <l>אל החלון ניגשת</l>
+          <l>בחדר לא מואר</l>
+          <l>העיר הזאת רועשת</l>
+          <l>כאילו אין מחר</l>
+          <l>עד סוף הלילה</l>
+          <l>מצאנו תחנה</l>
+          <l>ומכאן והלאה</l>
+          <l>כל יום הוא מתנה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואולי בלילות לבד</l>
+          <l>אמצא את כל אשר אבד</l>
+          <l>ויש עוד קו רקיע</l>
+          <l>עוד יש סיכוי אחד</l>
+          <l>אפשר עוד להגיע יחד</l>
+          <l>בסוף לילות לבד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עצום את עיניך</l>
+          <l>נסה להרדם</l>
+          <l>אני אחלום עליך</l>
+          <l>כשאתה חולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואולי בלילות לבד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

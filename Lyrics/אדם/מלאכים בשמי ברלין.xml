@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלאכים בשמי ברלין</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>ברוך פרידלנד</writer>
+        <composer>בועז קביליו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלאכים בשמי ברלין</head>
+        <lg number="1" type="stanza">
+          <l>מלאכים בשמי ברלין</l>
+          <l>מנסים למצוא משמעות לחיים</l>
+          <l>הם עפים מעל קתדרלות עתיקות</l>
+          <l>הם מציצים בסימטאות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואין רואה אותם</l>
+          <l>אין שומע כל אדם</l>
+          <l>את הד משק כנפיהם...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מלאכים עפים, מלאכים יפים</l>
+          <l>מלאכים מתעייפים</l>
+          <l>מלאכים עפים, מלאכים יפים</l>
+          <l>מלאכים מתעייפים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מלאכים בשמי ברלין</l>
+          <l>מבקשים דרכים לליבות אנשים</l>
+          <l>הם בוכים מעל לכתפיים רחבות</l>
+          <l>הם מהלכים על בהונות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואין רואה אותם</l>
+          <l>אין שומע כל אדם</l>
+          <l>עת שינויי העיתים...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מלאכים עפים...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>והם שומרים על האדם</l>
+          <l>מפני מזגו, מכוכבים מתנגשים</l>
+          <l>והם שומרים על האדם</l>
+          <l>מפני עצמו ומאלים אחרים...</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>מלאכים עפים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

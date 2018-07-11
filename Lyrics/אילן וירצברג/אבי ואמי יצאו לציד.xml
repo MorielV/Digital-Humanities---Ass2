@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבי ואמי יצאו לציד</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>יונה וולך</writer>
+        <composer>אילן וירצברג</composer>
+        <album>בזמן אמת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבי ואמי יצאו לציד</head>
+        <lg number="1" type="stanza">
+          <l>אבי ואמי יצאו לציד </l>
+          <l>ואני לבד</l>
+          <l>אבי ואמי בשדות ציד נפלאים</l>
+          <l>ומה אני עושה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אבי ואמי צדים עכשיו</l>
+          <l>אבי ואמי צדים חיות רציניות</l>
+          <l>מעולם לא צדו חיות מצחיקות</l>
+          <l>גיריות או ארנבות </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אבי ואמי בשדות ציד מפוארים</l>
+          <l>ואני משתעמם ועצלני</l>
+          <l>אבי ואמי ציידים נצחיים</l>
+          <l>ואני בבית, מה זה בית</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אבי ואמי צדים עכשיו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל העבר של אבי ואמי</l>
+          <l>לא נחשב בעיניהם כשהם צדים</l>
+          <l>וגם אני מופקד כמו מזכרת</l>
+          <l>שתמיד תהיה יפה ממנה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אבי ואימי צדים עכשיו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי זוכר</title>
+        <singer classification="male singer">אלי לס</singer>
+        <writer>אלי לס</writer>
+        <composer>אלי לס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי זוכר</head>
+        <lg number="1" type="stanza">
+          <l>חיבור חיסור </l>
+          <l>מכנה משותף </l>
+          <l>שיפור הדיור </l>
+          <l>הלצות של השטן </l>
+          <l>שום דבר </l>
+          <l>הוא לא עניין </l>
+          <l>שום דבר הוא לא עניין </l>
+          <l>מה שהיה </l>
+          <l>נבלע נמחק </l>
+          <l>מי זוכר אתה עכשיו? </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רבע שליש אחד </l>
+          <l>רבע שליש שני </l>
+          <l>רבע רביעי </l>
+          <l>מה שכבר סיפרתי </l>
+          <l>הפך לתדרים </l>
+          <l>הפך לזיכרון של רובוטריק </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שום דבר הוא לא עניין </l>
+          <l>החלום הוא העניין</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

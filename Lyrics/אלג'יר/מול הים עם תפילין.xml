@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מול הים עם תפילין</title>
+        <singer classification="unknown">אלג יר</singer>
+        <writer>אביב גדג'</writer>
+        <composer>אביב גדג'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מול הים עם תפילין</head>
+        <lg number="1" type="stanza">
+          <l>מול הים עם תפילין.</l>
+          <l>האש בוורידים,</l>
+          <l>הוא בא לקחת אותך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הוא שחור כמו שק לבן. כמו מלאך.</l>
+          <l>מול הים עם תפילין.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עם ספר תפילות וספר קללות,</l>
+          <l>רד איתי למצולות</l>
+          <l>לך לאיבוד בשדות.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

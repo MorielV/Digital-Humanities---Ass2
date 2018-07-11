@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הברק היכה פעמיים</title>
+        <singer classification="male singer">אלברט דוסטן</singer>
+        <writer>אורי שרון</writer>
+        <composer>אלברט דוסטן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הברק היכה פעמיים</head>
+        <lg number="1" type="stanza">
+          <l>הברק - הוא היכה פעמיים, </l>
+          <l>וגדע באחת את חייו. </l>
+          <l>זה הבן שהיה "מספר שתיים" </l>
+          <l>של אביו שאותו כה אהב. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והרעם שבא - לא הבליע </l>
+          <l>זעקות של כאב, תדהמה </l>
+          <l>שבקעה, התעצמה והדמיעה </l>
+          <l>את עיניה של כל האומה. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>פזמון </l>
+          <l>ויעידו גרמי השמיים; </l>
+          <l>יספרו גם רגבי אדמה </l>
+          <l>איך היכה הברק פעמיים </l>
+          <l>ומדוע? ואיך? על שום מה?! </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>האילן את פריו כה השביח, </l>
+          <l>וצימח ענפים תפארה. </l>
+          <l>איך קרה שהאל לא השגיח </l>
+          <l>ונגדע עוד ענף בסערה. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וממעל, אי-שם ברקיע, </l>
+          <l>בפתחו של חלל, על הסף - </l>
+          <l>זה אסף אל האין-סוף הגיע; </l>
+          <l>אל אביו האילן נאסף. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>פזמון </l>
+          <l>ויעידו גרמי השמיים; </l>
+          <l>יספרו גם רגבי אדמה </l>
+          <l>איך היכה הברק פעמיים </l>
+          <l>ומדוע? ואיך? על שום מה?!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

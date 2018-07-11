@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל השבוע לך</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל השבוע לך</head>
+        <lg number="1" type="stanza">
+          <l>אם ביום א', אם ביום ד'</l>
+          <l>אם ביום קיץ, אם ביום חורף</l>
+          <l>אם ביום גשם, אם ביום שמש</l>
+          <l>אם יום נפלא לי, או יום עצוב לי</l>
+          <l>אם זה בלילה, אם זה בבוקר</l>
+          <l>אם זה בערב, או בין ערביים</l>
+          <l>כל השבוע לך</l>
+          <l>כל השבוע לך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם את איתי פה ואם אינך</l>
+          <l>אם לא אמרת לי למה ואיך</l>
+          <l>אם לא אמרת אפילו מה שמך</l>
+          <l>אני אוהב אותך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם הירח לנו זורח</l>
+          <l>ואם הפרח לנו פורח</l>
+          <l>אם עננים שטים בשמים</l>
+          <l>ואם דגים רוקדים על המים</l>
+          <l>אנא חבקיני, אל תעזביני</l>
+          <l>אל תעזביני, אנא תביני</l>
+          <l>כל השבוע לך</l>
+          <l>כל השבוע לך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

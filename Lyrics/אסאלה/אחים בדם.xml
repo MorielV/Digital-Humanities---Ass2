@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחים בדם</title>
+        <singer classification="female singer">אסאלה</singer>
+        <writer>דוד חלפון</writer>
+        <composer>תומר חן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחים בדם</head>
+        <lg number="1" type="stanza">
+          <l>ידך הושטת לעברי שהיית על הפנים</l>
+          <l>תמיד דאגת לי כשעזבו החברים, החברים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם רק תקרא בשמי אני אבוא אליך</l>
+          <l>כי אתה אחי וחיי הם חייך, חייך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי אנחנו אחים בדם</l>
+          <l>למענך עד סוף העולם כי אנחנו אחים בדם</l>
+          <l>אוהבת אותך בנאדם.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אנא אל תדאג עוד יבואו ימים טובים</l>
+          <l>זוכרת מה שעשית למעני בלילות לבנים, לבנים</l>
+          <l>תמיד היית לצידי יחד באש ובמים</l>
+          <l>אתה חרוט בליבי הכל תקבל רק תבקש</l>
+          <l>רק תבקש!</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כי אנחנו אחים בדם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

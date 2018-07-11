@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תמיד איתי</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>עינת הולנדר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תמיד איתי</head>
+        <lg number="1" type="stanza">
+          <l>לא ממהר</l>
+          <l>כל שנותר לי לומר לך</l>
+          <l>מעצמו כבר ייאמר</l>
+          <l>בואי מחר</l>
+          <l>תמצאי אותי כאן עומד ושר</l>
+          <l>רגע קולי לא נשבר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואם לא שלפתי</l>
+          <l>כוכב מהשחקים</l>
+          <l>זה רק כי הוא נמצא כבר בתוכנו</l>
+          <l>הרים לא הבטחתי</l>
+          <l>אבל אברא חיים</l>
+          <l>בשתי ידי</l>
+          <l>בכוחותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את תמיד איתי</l>
+          <l>חלק מדמותי</l>
+          <l>כי בנית לך בית בליבי</l>
+          <l>את תמיד איתי</l>
+          <l>את כמו נס פרטי</l>
+          <l>שמאיר מתוכי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין לי ספק</l>
+          <l>אין בי ולו צל של פחד</l>
+          <l>כי הפחד משתק</l>
+          <l>צעד ממך</l>
+          <l>מתקדם עוד פסע, בא לקראתך</l>
+          <l>ספר פתוח מולך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואם לא שלפתי</l>
+          <l>כוכב מהשחקים</l>
+          <l>זה רק כי הוא נמצא כבר בתוכנו</l>
+          <l>הרים לא הבטחתי</l>
+          <l>אבל אברא חיים</l>
+          <l>בשתי ידי</l>
+          <l>בכוחותי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>את תמיד איתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

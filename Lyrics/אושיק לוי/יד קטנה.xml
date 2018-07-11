@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יד קטנה</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יד קטנה</head>
+        <lg number="1" type="stanza">
+          <l>יד קטנה לי פרשה את הרשת</l>
+          <l>יד קטנה מענה את חושי</l>
+          <l>את חיי את בונה והורסת</l>
+          <l>יד קטנה לבנה של אישה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל ימי האתמול האפירו</l>
+          <l>כעלים נשרו לרגלי</l>
+          <l>כל חברי לעגם לא הסתירו</l>
+          <l>מי היה מאמין זאת עלי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את יפה ויופייך פוצע</l>
+          <l>כמה צריך גבר לכאוב</l>
+          <l>את יפה ואני כבר יודע</l>
+          <l>שנולדתי אותך לאהוב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יד קטנה עדינה רבת כוח</l>
+          <l>כל תנועה כמו חץ בליבי</l>
+          <l>לא רוצה לא יכול כבר לשכוח</l>
+          <l>יד קטנה מחזיקה את אושרי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את יפה ויופייך פוצע...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>יד קטנה לי פרשה את הרשת</l>
+          <l>לי שפעם הייתי צייד</l>
+          <l>את גאה ורואה איך הנשר</l>
+          <l>מסתכל בך כמו גדי שנלכד</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>את יפה ויופייך פוצע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

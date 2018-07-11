@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה קורה פה</title>
+        <singer classification="unknown">איתי הררי</singer>
+        <writer>עדי כבירי</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה קורה פה</head>
+        <lg number="1" type="stanza">
+          <l>הערב עוד מעט מתחיל </l>
+          <l>מתקשר אליך את לא עונה אולי ספרי לי מה קרה</l>
+          <l>שאת לא פה</l>
+          <l>זו את שמשלימה אותי ראיתי בך את עולמי</l>
+          <l>מבין שאת החצי שני </l>
+          <l>מה קורה פה...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רק את יפתי את כל החיים שלי</l>
+          <l>ליבי נמס ממך תראי מה את עושה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז לכי תספרי לחברות</l>
+          <l>שרק איתך רוצה להיות רקמנו יחד חלומות</l>
+          <l>עד הבוקר</l>
+          <l>אז בואי ותגידי כן ותנסי רק לפרגן </l>
+          <l>תראי אני כבר לא ישן</l>
+          <l>מה קורה פה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

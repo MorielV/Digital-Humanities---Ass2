@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אב מ</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>מיכה שטרית</writer>
+        <composer>missing</composer>
+        <album>נקודת מבט</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אב"מ</head>
+        <lg number="1" type="stanza">
+          <l>אלף שנות אור ביני ובין האיש מהכוכב שממול</l>
+          <l>שעה וארבעים דקות אל מישהו מעבר לגבול</l>
+          <l>אני אפילו לא מכיר את השכן שגר קומה אחת מעלי...</l>
+          <l>שזה עשרים מדרגות בדיוק. מן בדידות שכזאת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גם בלי אינטילגנציה מכוכב אחר</l>
+          <l>אני יודע שאני חי כמו אידיוט.</l>
+          <l>וגם אם אלף חלליות ירחפו מעלי</l>
+          <l>תמיד אהיה איש בודד מאוד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אלף שנות אור ביני ובין הקוסם מארץ חוץ</l>
+          <l>ורק דקה ועשרים שניות לפני הפיצוץ</l>
+          <l>אני אפילו לא מכיר את עצמי גם אחרי ארבעים דקות של טיפול...</l>
+          <l>פעם פרויד, פעם יונג, פעם פרויד, פעם יונג. מן בדידות שכזאת.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גם בלי אינטילגנציה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

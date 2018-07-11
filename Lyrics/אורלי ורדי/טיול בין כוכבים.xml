@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טיול בין כוכבים</title>
+        <singer classification="unknown">אורלי ורדי</singer>
+        <writer>איציק המרמן</writer>
+        <composer>עופר המרמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טיול בין כוכבים</head>
+        <lg number="1" type="stanza">
+          <l>הכוכבים האירו לי</l>
+          <l>את הדרך מרחוק.</l>
+          <l>קריר בחוץ, כבר מאוחר,</l>
+          <l>מתי אשים ראשי על כר?</l>
+          <l>גבוה אי שם במרומים</l>
+          <l>מתנשא לו עוד כוכב קטן.</l>
+          <l>אותו כן אכיר מזמן מזמן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כוכב קטן רחוק אי שם,</l>
+          <l>אתה יודע מה חסר לי.</l>
+          <l>את אהבתו אליי גלה ספר לי.</l>
+          <l>אמור לו כי רציתי בו,</l>
+          <l>תמיד אדע שהוא יקר לי.</l>
+          <l>אשמור אותו בתוך לבי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ידיד כוכב נוסף חבר</l>
+          <l>לתוך אותה ההצגה.</l>
+          <l>גם הוא חמוד, גם הוא חביב,</l>
+          <l>עלו שניהם לעגלה.</l>
+          <l>צופים שניהם וגם אני</l>
+          <l>קדימה אל קצה היצול,</l>
+          <l>שם נח לו כוכב צפון ממול.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כוכב קטן רחוק אי שם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

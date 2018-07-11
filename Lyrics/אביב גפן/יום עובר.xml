@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום עובר</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום עובר</head>
+        <lg number="1" type="stanza">
+          <l>יום עובר, יום עובר</l>
+          <l>ואני רק מבקש להישאר</l>
+          <l>כשיום עובר, יום עובר</l>
+          <l>צריך להיזהר...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוד יום עבר</l>
+          <l>פתאום נראה כל כך רחוק מחר</l>
+          <l>אני לא נשבר</l>
+          <l>עוד יום עבר</l>
+          <l>מזל שאת איתי - אנ'לא לבד</l>
+          <l>אנו ביחד אחד, ביחד אחד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יום עובר, יום עובר</l>
+          <l>רק שהשמש תחמם ותסנוור</l>
+          <l>כשיום עובר, יום עובר</l>
+          <l>מתי זה יגמר?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד יום עבר</l>
+          <l>אנחנו לא קולטים מה שקרה</l>
+          <l>כמה שרע...</l>
+          <l>עוד יום עבר</l>
+          <l>נשארנו בחיים עד למחר.</l>
+          <l>אך כמה אפשר, כמה אפשר?</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רק עוד יום עבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

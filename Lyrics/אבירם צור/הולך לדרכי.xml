@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הולך לדרכי</title>
+        <singer classification="unknown">אבירם צור</singer>
+        <writer>אבירם צור</writer>
+        <composer>אבירם צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הולך לדרכי</head>
+        <lg number="1" type="stanza">
+          <l>ידענו שיחד לא נוכל להסתדר </l>
+          <l>החלטנו לברוח בלי רצון שוב לדבר </l>
+          <l>לקחתי את התיק, סימנתי מודעות </l>
+          <l>בלי לראות בעינייך עד כמה הן עצובות </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>דחקנו הצידה, נותרנו ריקים </l>
+          <l>לא ידענו כבר אז להביט לְמֶרחקים </l>
+          <l>הִפסדנו לכעס, לא ידענו לוותר </l>
+          <l>הולך לדרכי מצטער </l>
+          <l>הולך לדרכי מצטער </l>
+          <l>הולך לדרכי.. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מצאת את חייך במקום אחר </l>
+          <l>ניסינו לשכוח, להמשיך להתגבר </l>
+          <l>אם רק היינו ערים לבעיות </l>
+          <l>השנים בלעדייך לא היו כה עצובות </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דחקנו הצידה, נותרנו ריקים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

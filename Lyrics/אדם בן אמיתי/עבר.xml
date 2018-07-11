@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עבר 5</title>
+        <singer classification="unknown">אדם בן אמיתי</singer>
+        <writer>אדם בן אמיתי</writer>
+        <composer>אדם בן אמיתי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עבר</head>
+        <lg number="1" type="stanza">
+          <l>אז איך הוא מתבזבז </l>
+          <l>הלילה </l>
+          <l>לבשת כל כך יפה </l>
+          <l>שמלה לבנה </l>
+          <l>אמרו זה לא יחזיק </l>
+          <l>בינינו </l>
+          <l>ומה מחזיק </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עבר, עבר, עבר </l>
+          <l>זה לא אותו דבר </l>
+          <l>בלי לחבק קרוב </l>
+          <l>בלי להרגיש </l>
+          <l>גם זה נגמר </l>
+          <l>שאלת אותי </l>
+          <l>מה נשאר </l>
+          <l>עבר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז איך הוא לא נופל </l>
+          <l>ירח </l>
+          <l>ואיך הוא מתעקש </l>
+          <l>ומסביבו שחור </l>
+          <l>ואיך כלום לא נשאר </l>
+          <l>בינינו </l>
+          <l>הלילה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עבר, עבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

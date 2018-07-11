@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחשבות</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>אביתר בנאי</composer>
+        <album>שיר טיול</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחשבות</head>
+        <lg number="1" type="stanza">
+          <l>מחשבות שמחוץ לתמונה</l>
+          <l>עשו את זה לפני</l>
+          <l>יש תחרות בבית למרות האהבה</l>
+          <l>אני אוהבת יותר את פעם מהיום</l>
+          <l>אני מוסר לך אהבה שתגיע אליך רק בעוד שנה</l>
+          <l>היום אני הולך ממך</l>
+          <l>אני אוהב את המספר שש</l>
+          <l>(מי אני? מה אני? איפה אני?)</l>
+          <l>אני שואל אתם עונים</l>
+          <l>אני צוחק אתם בוכים</l>
+          <l>אני צועק אתם שותקים משעמם פה לפעמים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

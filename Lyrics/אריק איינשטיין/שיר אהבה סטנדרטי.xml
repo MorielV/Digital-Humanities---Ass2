@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר אהבה סטנדרטי</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>יוני רכטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר אהבה סטנדרטי</head>
+        <lg number="1" type="stanza">
+          <l>אז התחלתי ללכת</l>
+          <l>לא חשבתי בכלל לאן.</l>
+          <l>רק רציתי ללכת,</l>
+          <l>ללכת את כל הזמן.</l>
+          <l>לא פגשתי בדרך אף אחד,</l>
+          <l>כמה מצחיק להיות לבד</l>
+          <l>כי אני אוהב אותך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשאת מחייכת</l>
+          <l>יפה החיוך שלך.</l>
+          <l>כשאת בשלכת</l>
+          <l>הכל אז עצוב כל כך.</l>
+          <l>למה בא לי ללכת? לא אדע,</l>
+          <l>בואי נתחיל מהתחלה,</l>
+          <l>כי אני אוהב אותך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>היו ימים בהם הרגשתי זר</l>
+          <l>אבל עכשיו הכל חזר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז על מה את חושבת</l>
+          <l>שקטה ויפה כל כך.</l>
+          <l>אז על מה חולמת</l>
+          <l>גלי החלום שלך.</l>
+          <l>למה בא לי ללכת? לא אדע,</l>
+          <l>בואי נתחיל מהתחלה,</l>
+          <l>כי אני אוהב אותך.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>היו ימים בהם הרגשתי זר</l>
+          <l>אבל עכשיו הכל חזר.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

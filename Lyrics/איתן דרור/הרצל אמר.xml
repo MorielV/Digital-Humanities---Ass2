@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הרצל אמר</title>
+        <singer classification="male singer">איתן דרור</singer>
+        <writer>איתן דרור</writer>
+        <composer>איתן דרור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הרצל אמר</head>
+        <lg number="1" type="stanza">
+          <l>אני ומיכה בגינת הכלבים</l>
+          <l>כששלומית מכינה הפתעה להורים</l>
+          <l>יוסי ותמר יגיעו יותר מאוחר</l>
+          <l>רק בשנות השבעים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואיש אחר עומד לבד</l>
+          <l>עם עייף נותן כתף, תרים ת'דגל תתכופף</l>
+          <l>אם הרצל אמר או לא אמר</l>
+          <l>בוא נחכה אולי מחר</l>
+          <l>ויש עוד צורך בלחישות ובקשות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אבא עומד מצלם במרפסת</l>
+          <l>אנחנו סביבו נלחמים על מקום</l>
+          <l>אחר כך העיר הופכת סואנת</l>
+          <l>הולכים אחרי אמא לטובת עוד חלום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

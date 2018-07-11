@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלדה לעליזה מזרחי</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>חנוך לוין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלדה לעליזה מזרחי</head>
+        <lg number="1" type="stanza">
+          <l>לא היו לה שמלות ולא גוף משגע </l>
+          <l>וגם לא מושג בספרים ושירה </l>
+          <l>כשעברה ברחוב, אלוהים רק יודע </l>
+          <l>איך פתאום נשמעו לה חוקי התנועה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי לפני שידעו מי ומה, התברר </l>
+          <l>השוטרים חכמים, השוטרים חכמים </l>
+          <l>אך עליזה מזרחי יותר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>צופרי ניידות סרנדה זימרו לה </l>
+          <l>לקולה השתתקו כל קציני המטה </l>
+          <l>סורגים ובריחים מעולם לא יכלו לה </l>
+          <l>כשניצבה למולם ובידה מטאטא </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי לפני שידעו מי ומה, התברר... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זהו זמר ישן על אודות סתם עוזרת </l>
+          <l>מבית קטן שליד המגדל </l>
+          <l>עוד הרבה ממשלות תתחלפנה בדרך </l>
+          <l>אך אותה להחליף אף אחד לא יוכל </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי לפני שידעו מי ומה, התברר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

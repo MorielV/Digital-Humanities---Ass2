@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הנגב</title>
+        <singer classification="female singer">איגי וקסמן</singer>
+        <writer>איגי וקסמן</writer>
+        <composer>שרון הולצמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הנגב</head>
+        <lg number="1" type="stanza">
+          <l>בחורה מתקדמת שלא היה לה הרבה</l>
+          <l>ישבה בפאב עם אליל מתקדם והביטה במבט נעלה</l>
+          <l>סכסוך קצר, ריב נהדר</l>
+          <l>הבחורה אני והאליל המהודר</l>
+          <l>היה מצחיק לחשה הבחורה</l>
+          <l>נכנסה ויצאה נכנסה ויצאה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אוהו נה נה נה נה נה נה</l>
+          <l>נה נה נה נה נה נה אוהו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אשפוך עליה קצת יין אדום</l>
+          <l>שהאליל לוגם לפעמים</l>
+          <l>אדקור אותה פה וגם שם</l>
+          <l>שיהיה הרבה אדום, יהיו הרבה צבעים</l>
+          <l>לאליל יהיו מספיק נושאים לשירים חדשים</l>
+          <l>בחורה מתקדמת יושבת בפאב עם אליל לא מרשים במיוחד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אוהו נה נה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בחורה מתקדמת שלא היה לה הרבה</l>
+          <l>ישבה בפאב עם אליל מתקדם והביטה במבט נעלה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אוהו נה נה....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

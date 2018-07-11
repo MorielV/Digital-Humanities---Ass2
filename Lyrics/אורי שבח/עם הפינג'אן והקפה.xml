@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עם הפינג אן והקפה</title>
+        <singer classification="male singer">אורי שבח</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עם הפינג'אן והקפה</head>
+        <lg number="1" type="stanza">
+          <l>מי לא שכח עדיין</l>
+          <l>את הברנדי והיין</l>
+          <l>איך ששמחנו וחיינו</l>
+          <l>ללא דאגה.</l>
+          <l>בכל בוקר אז שמענו</l>
+          <l>פעמון רועש הנהן</l>
+          <l>מוכר הקרח או הנפט</l>
+          <l>שבא לעיירה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>על כן נזכור את הימים</l>
+          <l>שכה טובים הם ויפים</l>
+          <l>עם הפינג'אן והקפה</l>
+          <l>הגחלים הלוחשות</l>
+          <l>היה הזמן עובר.שמש זרחה ממעל</l>
+          <l>מורי כבר יושב בשער</l>
+          <l>עם הבאדונס והנענע</l>
+          <l>הכל בעגלה</l>
+          <l>מי עוד זוכר את מוסה</l>
+          <l>שהפך סוחר בבורסה</l>
+          <l>ואיזה "חפלה" הוא מצא</l>
+          <l>את שושק'ה היפה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>על כן נזכור את הימים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

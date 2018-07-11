@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שני עולמות</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שני עולמות</head>
+        <lg number="1" type="stanza">
+          <l>פעם חיפשתי אהבה</l>
+          <l>אתה שומע</l>
+          <l>תיאבון שלא נגמר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לאן רציתי להגיע לא יודע כי</l>
+          <l>לא מצאתי שום דבר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את לא יודעת </l>
+          <l>משהו בי אחר</l>
+          <l>עכשיו לומד לגעת</l>
+          <l>רוצה לדעת יותר</l>
+          <l>על מה שהיה חסר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ברחובות כולם רצים</l>
+          <l>אתה שומע</l>
+          <l>מנסים להספיק הכל</l>
+          <l>להרוויח, להצליח להוכיח</l>
+          <l>כל היום משחקים בחול</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את לא יודעת...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כי לא יכול להיות שבאנו לכאן סתם ככה</l>
+          <l>לא יתכן שאין תוכנית ומטרה</l>
+          <l>עלינו ללמוד מהטבע</l>
+          <l>זה חוק האהבה</l>
+          <l>כמו גלגלי שיניים נשלב ידיים</l>
+          <l>נחבר בין שני העולמות</l>
+          <l>נתעלה מעל עצמנו ואז נגלה שאין נשמה מקולקלת</l>
+          <l>מה שהתקלקל זה הקשר בין הנשמות</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>את לא יודעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

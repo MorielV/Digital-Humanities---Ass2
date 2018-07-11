@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חזק</title>
+        <singer classification="unknown">אברהם פריד</singer>
+        <writer>עממי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חזק</head>
+        <lg number="1" type="stanza">
+          <l>איש את רעהו יעזורו</l>
+          <l>ולאחיו יאמר חזק</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אייי נשיר ביחד</l>
+          <l>אוייי חזק</l>
+          <l>איי נשיר ביחד</l>
+          <l>אוייי חזק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חזק חזק ונתחזק</l>
+          <l>חזק חזק</l>
+          <l>חזק חזק ונתחזק</l>
+          <l>חזק חזק</l>
+          <l>עד ביאת גואל </l>
+          <l>אוייי חזק</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

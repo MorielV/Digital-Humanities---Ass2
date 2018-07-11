@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קצת 6</title>
+        <singer classification="unknown">אורן ג ורנו</singer>
+        <writer>אורן ג'ורנו</writer>
+        <composer>אורן ג'ורנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קצת</head>
+        <lg number="1" type="stanza">
+          <l>קצת שקט לא יזיק קצת שקט לא יזיק קצת</l>
+          <l>קצת שקט לא יזיק קצת שקט לא יזיק כאן</l>
+          <l>קצת אנרגיה חיובית בכל העולם</l>
+          <l>קצת שקט לא יזיק כאן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קצת כסף לא מזיק קצת כסף לא מזיק כאן</l>
+          <l>חבית של נפט ארמון מזהב</l>
+          <l>קצת כסף לא יזיק לכל העולם</l>
+          <l>לאחד יש הכול לשני אין דבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קצת רגש לא מספיק קצת רגש לא מספיק קצת</l>
+          <l>עור של פיל חזה מזהב</l>
+          <l>קצת רגש לא מספיק לכל העולם</l>
+          <l>לך יש הכול לו אין דבר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קצת שקט לא יזיק קצת שקט לא יזיק כאן</l>
+          <l>חבית של נפט עור מזהב</l>
+          <l>קצת שקט לא יזיק לכל העולם</l>
+          <l>לאחד יש הכול לשני אין דבר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

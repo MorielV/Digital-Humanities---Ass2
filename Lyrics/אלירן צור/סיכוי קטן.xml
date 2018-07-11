@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיכוי קטן</title>
+        <singer classification="unknown">אלירן צור</singer>
+        <writer>אלירן צור</writer>
+        <composer>אלירן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיכוי קטן</head>
+        <lg number="1" type="stanza">
+          <l>כל פעם שתגידי לי לבוא </l>
+          <l>אני ארוץ אלייך </l>
+          <l>גם כשאהיה רחוק מפה </l>
+          <l>תמיד אשוב אלייך </l>
+          <l>את יודעת לבלבל אותי </l>
+          <l>אני מאוהב מה יהיה איתי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אז תני לי את הסיכוי הכי קטן </l>
+          <l>ותגלי שיש בי את כל מה שאין באף אדם אחר </l>
+          <l>אז תני לי את הסיכוי הכי קטן </l>
+          <l>ותגלי שיש בי את כל מה שאין באף אדם אחר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל החברים שלי תמיד </l>
+          <l>רק מדברים רק עלייך </l>
+          <l>אומרים שאת יפה יותר מכל </l>
+          <l>קשה לי בלעדייך </l>
+          <l>את יודעת לבלבל אותי </l>
+          <l>אני מאוהב מה יהיה איתי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז תתני לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

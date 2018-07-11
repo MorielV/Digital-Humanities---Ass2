@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד יום שקט</title>
+        <singer classification="female singer">אתי אנקרי</singer>
+        <writer>אתי אנקרי</writer>
+        <composer>אתי אנקרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד יום שקט</head>
+        <lg number="1" type="stanza">
+          <l>נותנת לבניה את הכל,</l>
+          <l>את מה שיש לה</l>
+          <l>היא לא יודעת מחייה-</l>
+          <l>רק בוהה לאלוהיה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בים אבדה השמש</l>
+          <l>מי דופק בשעריה-</l>
+          <l>אור בוהק</l>
+          <l>כשלג בעיניה</l>
+          <l>מי כמוה? מי כמוה?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הם שבו כל בניה</l>
+          <l>היא סוגרת שעריה.</l>
+          <l>עוד יום שקט עבר</l>
+          <l>היא מודה לאלוהיה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

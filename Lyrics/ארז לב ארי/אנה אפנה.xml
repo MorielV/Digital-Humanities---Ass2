@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אנה אפנה</title>
+        <singer classification="male singer">ארז לב ארי</singer>
+        <writer>ארז לב ארי</writer>
+        <composer>ארז לב ארי</composer>
+        <album>שמחת הפרטים הקטנים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אנה אפנה</head>
+        <lg number="1" type="stanza">
+          <l>אני רודף אחר חוקיך, מחד</l>
+          <l>מאידך תשוקתי אותי רודפת.</l>
+          <l>בוש ונכנע אבוא בשעריך.</l>
+          <l>והלילות הארוכים והבדידות והשנים,</l>
+          <l>והלב הזה שלא ידע מרגוע.</l>
+          <l>עד שישקוט הים, עד שינוסו הצללים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לאן אלך, אנה אפנה, כשעיניך מביטות בי</l>
+          <l>איכה אברח, איך לא אפנה?</l>
+          <l>בין אמת לאמת, בין הלכה למעשה</l>
+          <l>בין הימים ההם לזמן הזה.</l>
+          <l>בין הנסתר לנגלה, בין העולם הבא לעולם הזה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רודף אחר חוקיך, מאידך תשוקתי אותי שורפת</l>
+          <l>עזה כמוות איומה כנדגלות</l>
+          <l>הלילות הארוכים והבדידות והשנים</l>
+          <l>והלב הזה שלא ידע מרגוע</l>
+          <l>עד שישקוט הים, עד שינוסו הצללים-השיבני!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לאן אלך, אנה אפנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

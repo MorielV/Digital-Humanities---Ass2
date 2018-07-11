@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הפנינה</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הפנינה</head>
+        <lg number="1" type="stanza">
+          <l>מיום ליום אני נמשכת, לא כל מגע כמוהו כלטיפה</l>
+          <l>גם הנגיעה שלך המבורכת נטולת כפפה</l>
+          <l>מיום ליום אני עוברת מחברת תקופות שנה</l>
+          <l>קורה שמכאב נוצרת הפנינה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא לא מצטערת לא מנסה להימנע</l>
+          <l>שבה וזוכרת כיצד נוצרת הפנינה</l>
+          <l>לא לא מתחרטת גם לא פטורה מתדהמה</l>
+          <l>רגע מתחזקת עד שנשברת בעדנה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לבית פנים וחוץ בדלת וחלונות פתוחים למתהווה</l>
+          <l>ולא אחת ממך אני שואלת לא למאוס בזה</l>
+          <l>עמוק עמוק תנועה מתמדת מתקיימת בנוף פנימי</l>
+          <l>זו לא הארץ שרועדת , זו אני...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא לא מצטערת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

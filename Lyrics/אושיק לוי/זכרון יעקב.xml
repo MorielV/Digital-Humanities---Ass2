@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זכרון יעקב</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>נפתלי אלטר</writer>
+        <composer>נפתלי אלטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זכרון יעקב</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>בזכרון תפנה ימינה</l>
+          <l>סע ישר בכביש</l>
+          <l>היזהר, יש עצור בכניסה!</l>
+          <l>יש אנשים שמחים בזכרון</l>
+          <l>כל אחד מכיר אותי</l>
+          <l>בזכרון יעקב שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זכרון יעקב שלי, זכרון יעקב</l>
+          <l>לא תמצא מקום כזה, כזה טוב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בזכרון תפנה ימינה</l>
+          <l>אל תמשיך לחיפה</l>
+          <l>סע לאט ברחוב הראשי</l>
+          <l>יש אנשים יפים בזכרון</l>
+          <l>וכולם יודעים לשיר</l>
+          <l>בזכרון יעקב שלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זכרון יעקב שלי...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בזכרון אנשים שמחים</l>
+          <l>בלילה וביום</l>
+          <l>בזכרון אף אחד לא הולך</l>
+          <l>לישון בחום</l>
+          <l>יש בקבוקים ריקים בזכרון</l>
+          <l>וכולם שותים הכל</l>
+          <l>בזכרון יעקב שלי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זכרון יעקב שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

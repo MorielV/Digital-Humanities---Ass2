@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תודה לך אבי</title>
+        <singer classification="male singer">איציק שמלי</singer>
+        <writer>איציק שמלי</writer>
+        <composer>איציק שמלי</composer>
+        <album>איציק שמלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תודה לך אבי</head>
+        <lg number="1" type="stanza">
+          <l>זה הרגע להודות לך מכולם</l>
+          <l>תודה שבזכותך אני קיים</l>
+          <l>כיוונת את דרכי, ותדאג לי לעולם</l>
+          <l>תמיד חיבקת אותי חיבוק אוהב וחם.</l>
+          <l>אני יודע שאתה שם בשבילי בכל צרה, בכל שעה </l>
+          <l>תמיד תתן את כל כולך תיתן מהנשמה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תודה לך אבי</l>
+          <l>אתה האש שבלבבי</l>
+          <l>לוהטת בי תמיד להתקדם</l>
+          <l>וכשאהיה טיפה לבד, עצוב ומפוחד</l>
+          <l>ארגיש איך שוב ליבי חוזר להתחמם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה הזמן לומר לך רק עוד כמה מילים</l>
+          <l>אחבק אותך ואוהב לעולמים</l>
+          <l>לא אשכח את כל הזכרונות הישנים</l>
+          <l>שלי אמרת: "אב ובן לעולם לא נפרדים".</l>
+          <l>תמיד תתמוך בי</l>
+          <l>ותנצור עוד זיכרון של הצלחה ושל ברכה</l>
+          <l>וזה הרגע להודות לך על כל ההקרבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תודה לך אבי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

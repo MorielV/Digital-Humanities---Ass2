@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האינטרנט שלי</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>מוריס</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האינטרנט שלי</head>
+        <lg number="1" type="stanza">
+          <l>לכבודך אני קניתי פנטיום 2 עם פרווה</l>
+          <l>אולי עכשיו סוף סוף תביני מה כוחה של אהבה</l>
+          <l>לכל אתר שאת נכנסת אחרייך אני בא</l>
+          <l>ובמקומות שאת גולשת גם אני גולש מושבע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אה...האינטרנט שלי</l>
+          <l>אה...האינטרנט שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אינטרנט עכשיו</l>
+          <l>היא אישה זהב</l>
+          <l>אינטרנט חבר אותי</l>
+          <l>אינטרנט יקר</l>
+          <l>חבר אותי ישר</l>
+          <l>למחשב של אהובתי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את הפרחים הוירטואליים לך אשלח כל יום בשש</l>
+          <l>ואם את "לא" תמיד עונה לי, לעולם לא אתייאש</l>
+          <l>שלחתי לך אתר ידוע של זוגות מאושרים</l>
+          <l>שנפגשים כל סוף שבוע לא רק דרך הצגים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אה...האינטרנט שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

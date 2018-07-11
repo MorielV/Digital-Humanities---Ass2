@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לשרוק בחושך</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>יענקל'ה רוטבליט</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לשרוק בחושך</head>
+        <lg number="1" type="stanza">
+          <l>כל אחד, לפעמים, שורק בחושך</l>
+          <l>זה נעים, זה תמים לשרוק בחושך</l>
+          <l>גם אני לעצמי, גם אחר במקומי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל אחד קצת פוחד לבד בחושך,</l>
+          <l>כל אחד קצת בודד בתוך החושך</l>
+          <l>שום דבר באמת, רק טיפה לא שקט</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תיכף זה יעבור</l>
+          <l>תיכף ידליקו אור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מחשבות לא טובות באות בחושך</l>
+          <l>לא מרפות, לא עוזבות אותך בחושך</l>
+          <l>על רוחות ושדים ודברים מפחידים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תיכף זה יעבור</l>
+          <l>תיכף ידליקו אור</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>גם אני לעצמי, גם אתה...</l>
+          <l>על רוחות ושדים מפחידים</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>תיכף זה יעבור</l>
+          <l>תיכף ידליקו אור</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

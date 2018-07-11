@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השדות האדומים</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>הלל מיטלפונקט</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השדות האדומים</head>
+        <lg number="1" type="stanza">
+          <l>מתוך המפעלים, מתוך המשרדים</l>
+          <l>מבין רגלי נשים, מבין הילדים</l>
+          <l>הצפירה תיקח אותנו,</l>
+          <l>לשדות האדומים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>למלחמה יש רחם, אנחנו נולדים</l>
+          <l>לפחד יש חיים, שלא ידענו לפנים</l>
+          <l>גברים שוטים היינו, אבות ובעלים</l>
+          <l>הפכנו ציידים בשדות האדומים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך הלכו שנים,</l>
+          <l>השבט חוזר אל</l>
+          <l>השדות האדומים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

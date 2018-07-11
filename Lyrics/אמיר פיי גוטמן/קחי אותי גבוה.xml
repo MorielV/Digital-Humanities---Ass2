@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קחי אותי גבוה</title>
+        <singer classification="male singer">אמיר פיי גוטמן</singer>
+        <writer>אמיר פיי גוטמן</writer>
+        <composer>שי להב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קחי אותי גבוה</head>
+        <lg number="1" type="stanza">
+          <l>חושך נפל פתאום במדרגות ביתך</l>
+          <l>אני הולך ומגשש בדלך אל דלתך</l>
+          <l>וזה עושה לי פרפרים לחשוב שעוד מעט</l>
+          <l>תגי בי ותתני לי את אותו מבט</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי זה לוקח אותי אל השאיפה</l>
+          <l>שלא להיות דומה לשום דבר</l>
+          <l>את עולם ומלואו</l>
+          <l>בנהר חיי שלא נגמר</l>
+          <l>קחי אותי גבוה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המחשבות שמתפתלות איתי במורד גופך</l>
+          <l>הדרך למטה היא גם הדרך אל מוחך</l>
+          <l>וזה דומה לנשיקה סוערת ארוכה</l>
+          <l>וגם אם יגמר נתחיל מיד בעוד דקה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי זה לוקח אותי אל השאיפה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רק תני לי את ידך ואז את כל</l>
+          <l>את כל גופי אתן לך</l>
+          <l>קחי אותי גבוה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי זה לוקח אותי אל השאיפה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

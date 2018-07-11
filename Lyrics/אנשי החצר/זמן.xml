@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמן 11</title>
+        <singer classification="band">אנשי החצר</singer>
+        <writer>ארז ברזוליק</writer>
+        <composer>אלי סורני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמן</head>
+        <lg number="1" type="stanza">
+          <l>היו שלום להתראות</l>
+          <l>אני עובר עכשיו מכאן</l>
+          <l>מסע בארץ הפלאות</l>
+          <l>שוב מסתיים בזמן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חלום אחד אני שומר</l>
+          <l>תקווה שבירה או אשליה</l>
+          <l>של ידידות אחת בדויה,</l>
+          <l>של אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מסע בארץ הפלאות שוב מסתיים בזמן...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד מעט יבוא האור</l>
+          <l>אל מול עיניי כוכב יצנח</l>
+          <l>מה שיש לי עוד לזכור</l>
+          <l>אני בסוף אשכח</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מסע בארץ הפלאות שוב מסתיים בזמן..</l>
+          <l>מסע בארץ הפלאות</l>
+          <l>שוב מסתיים בזמן</l>
+          <l>ומי בכלל יכול לראות</l>
+          <l>מסע בארץ הפלאות</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מילים אחרונות:</l>
+          <l>לא סגרנו כלום בסוף המאה העשרים</l>
+          <l>הכוכבות כבר הזדקנו ומחכות לנערים</l>
+          <l>הלילה אין סופי - היו שלום להתראות</l>
+          <l>המסע עוזב עכשיו את ארץ הפלאות.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

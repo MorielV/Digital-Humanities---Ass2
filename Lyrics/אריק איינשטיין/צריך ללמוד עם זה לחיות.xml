@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צריך ללמוד עם זה לחיות</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>שם טוב לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צריך ללמוד עם זה לחיות</head>
+        <lg number="1" type="stanza">
+          <l>שוב עולות צפות המחשבות</l>
+          <l>מחפשות בשקט מנגינות</l>
+          <l>מנגינות שיספרו אותן</l>
+          <l>ואולי יצא סיפור קטן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ופתאום שומעים בחדשות</l>
+          <l>מצפון באות רוחות רעות</l>
+          <l>את השמש מכסה ענן</l>
+          <l>והכל הופך להיות קטן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>וקשה מאוד לחשוב</l>
+          <l>וקשה מאוד לכתוב</l>
+          <l>וקשה מאוד לכאוב</l>
+          <l>וצריך ללמוד עם זה לחיות</l>
+          <l>צריך עם זה לחיות</l>
+          <l>ככה לחיות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שוב עולות צפות השאלות</l>
+          <l>מחפשות בשקט את התשובות</l>
+          <l>התשובות שיספרו אותן</l>
+          <l>זה אותו סיפור ישן נושן</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>וקשה מאוד לחשוב</l>
+          <l>וקשה מאוד לכתוב</l>
+          <l>וקשה מאוד לכאוב</l>
+          <l>וצריך ללמוד עם זה לחיות</l>
+          <l>צריך עם זה לחיות</l>
+          <l>ככה לחיות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

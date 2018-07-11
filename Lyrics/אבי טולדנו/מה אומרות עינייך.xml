@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה אומרות עינייך 2</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>יצחק שנהר</writer>
+        <composer>מרדכי זעירא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה אומרות עינייך</head>
+        <lg number="1" type="stanza">
+          <l>שמש שמש רד לים,</l>
+          <l>רוח רוח קל יהום</l>
+          <l>מי חולם חולם עלייך</l>
+          <l>במשלט משלט עירום.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שני אורות בליל בליל בליל</l>
+          <l>לי רומזים רומזים פתאום.</l>
+          <l>מה אומרות עינייך עינייך עינייך</l>
+          <l>בלי לומר עד תום, עד תום.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בין סלעים סלעים והר</l>
+          <l>עץ בודד בודד ינום.</l>
+          <l>מי הולך הולך אלייך</l>
+          <l>עם ערוב ערוב היום?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שני אורות בליל...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בוקר בוקר עת יאור</l>
+          <l>ואשוב אשוב מלחום,</l>
+          <l>האמצא אמצא עדיין</l>
+          <l>זכר זכר לחלום?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שני אורות בליל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

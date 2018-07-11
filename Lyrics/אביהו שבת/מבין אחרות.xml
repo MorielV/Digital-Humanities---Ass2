@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מבין אחרות</title>
+        <singer classification="unknown">אביהו שבת</singer>
+        <writer>אביהו שבת</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מבין אחרות</head>
+        <lg number="1" type="stanza">
+          <l>מבין אחרות בחרתי אותך</l>
+          <l>מכל המילים יפה השתיקה שלך</l>
+          <l>ירח מאיר על החוף הריק מאדם</l>
+          <l>ואני שם בוהה בגלים...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אווו אווו....</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>די די אני רוצה אותך איתי</l>
+          <l>שמיים מתרסקים מעליי</l>
+          <l>מתי זוג עינייך יפגשו בעיניי</l>
+          <l>ידייך ילטפו את פניי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מכל הפחדים ברחתי אלייך</l>
+          <l>מבין הדמעות אספתי את עצמי</l>
+          <l>מתי תחזרי? קריר כאן בלעדייך</l>
+          <l>ואני שוב נזכר בימים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אווו אווו....</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>די די....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

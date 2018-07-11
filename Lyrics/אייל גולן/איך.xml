@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יעקב יעקובסון</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>ואני קורא לך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך</head>
+        <lg number="1" type="stanza">
+          <l>איך נסחפנו והמשכנו</l>
+          <l>לא עצרנו ולא נחנו</l>
+          <l>לא הבטנו זה בזו</l>
+          <l>איך ייגענו והזענו</l>
+          <l>את הכתובת לא קראנו</l>
+          <l>איך הגענו עד לפה?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>המכשולים שעל הדרך</l>
+          <l>מלחמות שאין בן ערך</l>
+          <l>הפכו אותנו עצובים</l>
+          <l>וככה ממשיכים ללכת</l>
+          <l>שכחתי איך את מחייכת</l>
+          <l>שכחתי איך הכל התחיל...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כף ידיד שאהבה שוב מחליקה בשערך</l>
+          <l>מפליגה כמו אז בין הזרמים על צווארך</l>
+          <l>השמחה שבתוכי שוב משתוקקת לבואך</l>
+          <l>לעינייך שפתותייך לנינוח של עורך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>המכשולים שעל הדרך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

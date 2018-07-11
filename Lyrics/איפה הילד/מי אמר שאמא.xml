@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי אמר שאמא</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי אמר שאמא</head>
+        <lg number="1" type="stanza">
+          <l>שמיים כחולים, הו שמיים כחולים</l>
+          <l>עזוב אותי על הבוקר</l>
+          <l>ולא מחכים לאף אחד</l>
+          <l>עזוב אותי על הבוקר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שמיים הו כחולים, הו שמיים כחולים</l>
+          <l>עזוב אותי על הבוקר</l>
+          <l>אתה לא רואה אני לא מתעורר</l>
+          <l>עזוב אותי על הבוקר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בקניון החדש בקרית חיים</l>
+          <l>יש חנות של מחשבים</l>
+          <l>המבורגר ענק נפל על העיר</l>
+          <l>שקט נורא, הס פן תעיר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי אמר שאמא רוצה לבלות?</l>
+          <l>אולי היא עייפה, אולי בכלל לא בא לה</l>
+          <l>מי אמר שאמא רוצה לבלות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שמיים כחולים, הו שמיים כחולים</l>
+          <l>אפילו מעל פתח תקווה</l>
+          <l>אלוהים נותן מחסדו רחמים</l>
+          <l>אפילו לפתח תקווה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בקניון החדש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

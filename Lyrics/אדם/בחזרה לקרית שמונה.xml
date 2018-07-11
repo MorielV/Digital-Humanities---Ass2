@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחזרה לקרית שמונה</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>ראובן דוידי</writer>
+        <composer>ראובן דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחזרה לקרית שמונה</head>
+        <lg number="1" type="stanza">
+          <l>בדרך אל הגליל הנופים כבר משתנים</l>
+          <l>ואני לאחר שנים חוזר אל הנעורים</l>
+          <l>המונית כבר מטפסת במעלה ההר</l>
+          <l>"סגור חלון", היא מבקשת, "נעשה לי קר"</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אותו רחוב אחר שנים</l>
+          <l>אותם פנים לא מוכרים</l>
+          <l>אותו רחוב, אותה שכונה</l>
+          <l>בדרך לקרית שמונה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ממול הרי גולן, מעל הר נפתלי</l>
+          <l>תמונות מטושטשות של ארץ ילדותי</l>
+          <l>תל חי וגם מטולה הן חלק מהנוף</l>
+          <l>אליו אני נוסע ורוצה כל כך לחשוף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אותו רחוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

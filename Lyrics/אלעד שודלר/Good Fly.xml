@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Good Fly</title>
+        <singer classification="unknown">אלעד שודלר</singer>
+        <writer>אלעד שודלר</writer>
+        <composer>אלעד שודלר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Good Fly</head>
+        <lg number="1" type="stanza">
+          <l>רק כמה דברים אחרונים, לפני שהיא הולכת, </l>
+          <l>החדר מתמלא הסברים, למה היא מתכוונת? </l>
+          <l>רק כמה דברים אחרונים, לא חרטה או מחשבה שנייה, </l>
+          <l>היא מצמידה לי שפתיים לפנים, וממלמלת בלחישה... </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שהיא אוהבת, שהיא חושבת, רק עלי, </l>
+          <l>Good Fly baby and goodbye… </l>
+          <l>היא תשתגע, תתגעגע רק אלי, </l>
+          <l>Good Fly baby and goodbye… </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק כמה דברים אחרונים, שלא יחזירו את מה שהיא לוקחת, </l>
+          <l>היא רודפת אחרי החיים, אבל בעצם היא בורחת </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והיא אוהבת והיא חושבת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

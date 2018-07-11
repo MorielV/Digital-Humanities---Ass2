@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ואולי 8</title>
+        <singer classification="unknown">אלון גל 2</singer>
+        <writer>אלון גל</writer>
+        <composer>אלון גל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ואולי</head>
+        <lg number="1" type="stanza">
+          <l>ואולי... </l>
+          <l>אני חושב אותך לפרקים </l>
+          <l>אני אוהב אותך לפעמים </l>
+          <l>ומחפש לי תירוצים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שאולי מחר תבואי </l>
+          <l>לספר לי על עצמי </l>
+          <l>ואולי מחר אוהב שוב </l>
+          <l>בין קצוות של ריגושים </l>
+          <l>ואולי... </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואולי </l>
+          <l>אני בודק אותך לפעמים </l>
+          <l>אני חובק אותך בשבילי </l>
+          <l>ומספר לי סיפורים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שאולי מחר תבואי </l>
+          <l>לספר לי על עצמי </l>
+          <l>ואולי מחר אוהב שוב </l>
+          <l>בין קצוות של ריגושים </l>
+          <l>ואולי... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואולי ואולי ואולי </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ואולי... </l>
+          <l>אני חושב אותך לפרקים </l>
+          <l>אני אוהב אותך לפעמים </l>
+          <l>ומספר לי סיפורים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>על ברכי</title>
+        <singer classification="unknown">אלכס 2</singer>
+        <writer>אלכס</writer>
+        <composer>אלכס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>על ברכי</head>
+        <lg number="1" type="stanza">
+          <l>מבריחה כל מיני מחשבות שלא נועדו להישאר</l>
+          <l>מנגבת עוד כמה דמעות שלי שירדו מדי מהר</l>
+          <l>איך הדרדרנו שוב בדרך שנהגנו לטפס</l>
+          <l>כבר מזמן אבדה דרכינו</l>
+          <l>אז הפסקנו לחפש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני כאן על ברכי</l>
+          <l>אני כאן על ברכי </l>
+          <l>אז תגיד עד מתי</l>
+          <l>אל תעשה את זה קשה מדי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>צובע שקרים מעינייך</l>
+          <l>אבל יודעת תאמת</l>
+          <l>עצבות כבר ביקרה כאן יותר מדי</l>
+          <l>מכרה כל רגש שכבר מת</l>
+          <l>איך הדרדרנו שוב בדרך שנהגנו לטפס</l>
+          <l>כבר מזמן אבדה דרכינו</l>
+          <l>אז הפסקנו לחפש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני כאן על ברכי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לעולם 3</title>
+        <singer classification="unknown">אלי אליאב</singer>
+        <writer>דני סיון</writer>
+        <composer>דני סיון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לעולם</head>
+        <lg number="1" type="stanza">
+          <l>מעולם לך לא שיקרתי</l>
+          <l>ולאהבה שלנו יחד</l>
+          <l>תגידי לא אחרת</l>
+          <l>את המקומות האבודים לא אשכח</l>
+          <l>גם אם נפרדים איתך בכל זאת</l>
+          <l>אשאר איתך לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לעולם איתך זה לעולם</l>
+          <l>את הריח של גופך אטעם,</l>
+          <l>כמו מתוך האגדות</l>
+          <l>מעולם קולך לא נדם,</l>
+          <l>את ראשך הניחי כך</l>
+          <l>איתך בכל זאת אשאר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זוכר את הדרך אל ביתך</l>
+          <l>עם השביל המוביל אל הכיכר</l>
+          <l>ברחוב המלך ג'ורג' שתינו קפה נעלם</l>
+          <l>אפילו אם יבוא אחר, איתך בכל זאת</l>
+          <l>אשאר איתך לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לעולם איתך זה לעולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אושר 3</title>
+        <singer classification="female singer">אמילי קרפל</singer>
+        <writer>אמילי קרפל</writer>
+        <composer>אמילי קרפל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אושר</head>
+        <lg number="1" type="stanza">
+          <l>אני עומדת בתור</l>
+          <l>לאושר גדול</l>
+          <l>מחכה לי בקור</l>
+          <l>ממתין במרכז מעגל</l>
+          <l>עמוק בתוך בור</l>
+          <l>בתוכו סוף לעצב הגדול</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שנים עוברות במרדף</l>
+          <l>מבלי לעצור</l>
+          <l>להביט לאחור</l>
+          <l>כי רק בדרך נמצא</l>
+          <l>אותו הסיפוק</l>
+          <l>שיחזיק לשבוע בדיוק</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איפה הוא מסתתר</l>
+          <l>מתרגש לא בוער</l>
+          <l>אושר בוא, בוא נעוף</l>
+          <l>שב אצלי בין ידיי צפוף צפוף</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מחליק בין האצבעות</l>
+          <l>כל כמה דקות</l>
+          <l>בא ואז נעלם</l>
+          <l>ניתן להבחין לעיתים</l>
+          <l>צילו הנעים</l>
+          <l>מפזר חום גופו בין הסדינים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>איפה הוא מסתתר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

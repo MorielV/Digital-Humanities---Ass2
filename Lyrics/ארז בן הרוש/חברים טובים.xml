@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חברים טובים</title>
+        <singer classification="male singer">ארז בן הרוש</singer>
+        <writer>אהוד מנור</writer>
+        <composer>צוף פילוסוף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חברים טובים</head>
+        <lg number="1" type="stanza">
+          <l>אתה לא יכול לבחור את הוריך</l>
+          <l>לא את אחיך ולא את אחותך</l>
+          <l>אבל אתה יכול לבחור את חבריך</l>
+          <l>והם יכולים לבחור אותך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש לי חבר ואנחנו שווים</l>
+          <l>שיש בעייה אז שנינו חושבים</l>
+          <l>מי שיש לו חבר לא מרגיש לבד</l>
+          <l>ומה שרוצים קורה מיד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אנחנו חברים טובים אבל אני זה אני</l>
+          <l>והוא זה הוא</l>
+          <l>שווים בחוץ וגם בפנים</l>
+          <l>אך לפעמים הוא אני ואני קצת הוא</l>
+          <l>כי אנחנו תמיד אחד בשביל השני</l>
+          <l>(חברים טובים)</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני לא צריך לשתוק ולבלוע</l>
+          <l>מה שכואב לי מציק ומבלבל</l>
+          <l>אני יכול כבר להשמיע ולשמוע</l>
+          <l>בכל שעה ביום וגם בליל</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יש לי חבר ואנחנו שווים</l>
+          <l>שיש בעייה אז שנינו חושבים</l>
+          <l>מי שיש לו חבר לא מרגיש לבד</l>
+          <l>ומה שרוצים קורה מיד</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אנחנו חברים טובים...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כשאין לך חבר</l>
+          <l>אתה מרגיש שמשהו חסר</l>
+          <l>וכשיש לך חבר</l>
+          <l>הזמן עובר לו בכייף מהר</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>אנחנו חברים טובים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נערתי</title>
+        <singer classification="unknown">אורן חדד</singer>
+        <writer>אביחי מליחי</writer>
+        <composer>אביחי מליחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נערתי</head>
+        <lg number="1" type="stanza">
+          <l>ליפול שוב ברשתך בצאתך כמו בלכתך</l>
+          <l>משחקת ברגשות בלב נפעם </l>
+          <l>מי יחזיר לך נעלך כשאבדה במנוסתך</l>
+          <l>איך לבד חזרת אל תוך הלילה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נערתי, רק זאת אומר נערתי ליבי נשבר</l>
+          <l>זה אני הוא ששבית וכולי זורח</l>
+          <l>נערתי רק בך חפץ בחלומי שמתנפץ</l>
+          <l>מזריחה עד השקיעה איתך פורח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחצות שוב צלצלו פעמונים שלי גילו </l>
+          <l>סוד אהבתך וליבך גלי לי </l>
+          <l>שוב חזר אותו מבט של געגוע בלתי נשלט</l>
+          <l>איך פנית אל עיר מקלט בלילה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נערתי, רק זאת אומר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

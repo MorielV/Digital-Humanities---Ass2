@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תאורה</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תאורה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>וכך אתה יוצא לרחוב </l>
+          <l>העיר שהיא תמיד עירך, </l>
+          <l>לראות דברים שאין בהם </l>
+          <l>אף שמץ של חידוש </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וכך אתה עובר ברחוב, </l>
+          <l>על פני בתים וחנויות, </l>
+          <l>על פני פנים וחיוכים </l>
+          <l>וקבצנים זקנים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וכל פרצוף מזכיר לך </l>
+          <l>ראית כבר, ראית כבר! </l>
+          <l>והקולות אומרים לך: </l>
+          <l>שמעת גם אתמול </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אבל פתאום בקצה הרחוב </l>
+          <l>עומד פנס אחד כחול </l>
+          <l>אשר עמד כאן גם אתמול </l>
+          <l>והוא עומד פתאום </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואין לדעת מה קרה, </l>
+          <l>ואין פירוש לאור כחול </l>
+          <l>ואין פירוש לחלונות </l>
+          <l>בבית הסמוך </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אבל לערב כנף-יונה </l>
+          <l>והיא סוככת על העיר, </l>
+          <l>על חלונות וחיוכים </l>
+          <l>וקבצנים זקנים </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>וכך אתה יוצא לרחוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קינת לבנון</title>
+        <singer classification="unknown">אורן הופמן</singer>
+        <writer>אורן הופמן</writer>
+        <composer>אורן הופמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קינת לבנון</head>
+        <lg number="1" type="stanza">
+          <l>איך נפלו גיבורים</l>
+          <l>ואבדו כלי מלחמה.</l>
+          <l>דמעות של מלאכים ,מילאו את העבים</l>
+          <l>וטל ומטר ירדו על הארץ.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובלבנון, הקפואה המושלגת</l>
+          <l>עצי הפרי קמלים בצד הדרך</l>
+          <l>ובלבנון הפצועה המדממת</l>
+          <l>דם העלומים, נשפך לחיק הארץ.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פתחי לבנון את שעריך</l>
+          <l>ותאכלי אש בארזיך.</l>
+          <l>עד מתי, תגבי את דמנו</l>
+          <l>ולנצח השכול , יכסה את ארצנו.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ובלבנון, הקפואה המושלגת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

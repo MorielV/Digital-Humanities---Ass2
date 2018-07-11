@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סתם עוד יום</title>
+        <singer classification="male singer">אוהד חיטמן</singer>
+        <writer>אוהד חיטמן</writer>
+        <composer>אוהד חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סתם עוד יום</head>
+        <lg number="1" type="stanza">
+          <l>זה סתם עוד יום שרק עובר</l>
+          <l>רוצה שיעבור מהר</l>
+          <l>הלילה מסרב לבוא</l>
+          <l>אני נשאר עם התקוות</l>
+          <l>שזה עוד יום שישכח</l>
+          <l>הכל תקוע ונמרח</l>
+          <l>החום לאט אותי שובר</l>
+          <l>וזה סתם עוד יום שרק עובר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וכבר מתפוצץ הראש</l>
+          <l>המחשבות רוצות לפורש</l>
+          <l>שיכבו כבר את האור</l>
+          <l>בבת אחת המציאות </l>
+          <l>מחר זה יעבור</l>
+          <l>מחר זה יעבור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה סתם עוד יום שאין לו סוף</l>
+          <l>מתבלבל בין רע לטוב</l>
+          <l>צרות באות בלי הזמנה</l>
+          <l>ומשנות את התמונה</l>
+          <l>זה סתם עוד יום כזה ארור</l>
+          <l>אבל עכשיו הכל ברור</l>
+          <l>אז לעצמי אני אומר</l>
+          <l>שזה סתם עוד יום שרק עובר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכבר מתפוצץ הראש...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה סתם עוד יום שישכח</l>
+          <l>הכל תקוע ונמרח</l>
+          <l>החום לאט אותי שובר</l>
+          <l>וזה סתם עוד יום שרק עובר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

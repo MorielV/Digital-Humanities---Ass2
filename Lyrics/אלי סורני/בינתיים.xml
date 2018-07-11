@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בינתיים</title>
+        <singer classification="male singer">אלי סורני</singer>
+        <writer>ארז ברזוליק</writer>
+        <composer>אלי סורני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בינתיים</head>
+        <lg number="1" type="stanza">
+          <l>אומרים שאהבה היא חלק ממך</l>
+          <l>ואם תאהב את העולם הוא יאהב אותך.</l>
+          <l>אומרים שהלילה הוא חלק מהאור,</l>
+          <l>אומרים שאם תלך, תמיד בסוף תחזור.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אומרים שאנשים, הם לרוב רק מה שהם</l>
+          <l>ותמיד לפני הטוב אתה חייב קצת לדמם.</l>
+          <l>הם אומרים שגם אתה וגם אני ושוב אתה,</l>
+          <l>כשהסוף יבוא נרגיש - חזק ת'חרטה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אבל בינתיים... </l>
+          <l>בינתיים לחיות, בינתיים לראות </l>
+          <l>כחול של שמיים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אומרים שאהבה מתחילה בהתחלה,</l>
+          <l>אומרים שכל פרידה תמיד נראית כחולה.</l>
+          <l>והשמש כל בוקר ממשיכה לעלות</l>
+          <l>ובינתיים לחיות, בינתיים לחיות.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אומרים שגם ביחד - אפשר פתאום לבד.</l>
+          <l>אומרים שגם בשניים גומרים אחד אחד.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אבל בינתיים... </l>
+          <l>בינתיים לחיות, בינתיים לראות </l>
+          <l>כחול של שמיים.</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אומרים שאהבה היא חלק ממך</l>
+          <l>ואם תאהב את העולם הוא יאהב אותך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חתן וכלה</title>
+        <singer classification="male singer">אורן חן</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חתן וכלה</head>
+        <lg number="1" type="stanza">
+          <l>הנה הכלה קרבה ועולה</l>
+          <l>והחתן מגיע לכאן ועומד מולה</l>
+          <l>חתן וכלה זוהי רק התחלה</l>
+          <l>לימים שיבואו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>החתן לכלה שם טבעת</l>
+          <l>זה לזו נשבעים לעולם</l>
+          <l>היא תהיה לו אישה משגעת</l>
+          <l>הוא יהיה לה לבעל מושלם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>החתן לכלה שם טבעת</l>
+          <l>הם הגשימו חלום שנרקם</l>
+          <l>בשבילם מחייך הירח</l>
+          <l>לכבודם נעצר העולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הנה הכלה עם זר בידה</l>
+          <l>והחתן מוכן ומזומן לבקש ידה</l>
+          <l>חתן וכלה היא שלו, הוא שלה</l>
+          <l>לחיים שיבואו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>החתן לכלה שם טבעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

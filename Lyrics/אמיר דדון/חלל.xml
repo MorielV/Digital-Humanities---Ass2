@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלל</title>
+        <singer classification="male singer">אמיר דדון</singer>
+        <writer>אמיר דדון</writer>
+        <composer>אמיר דדון</composer>
+        <album>אמיר דדון</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלל</head>
+        <lg number="1" type="stanza">
+          <l>התעוררתי פתאום לא יכול לישון</l>
+          <l>חלומות מוזרים</l>
+          <l>פרצופים שמדברים ומדברים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הלב משתולל מדאגה</l>
+          <l>אני מביט בילדה ונרגע</l>
+          <l>איך בשבילה אני נרגע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אבל את הבור הזה מי ימלא</l>
+          <l>מי ימלא את כל החלל הזה </l>
+          <l>אלוהים אתה גדול אני לא רוצה להתערב</l>
+          <l>רק תעשה שיהיה קצת פחות כואב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חדשות</l>
+          <l>מספרים על חיילים שיושבים שם רחוק</l>
+          <l>ומחכים ומחכים ומחכים</l>
+          <l>החיים ממשיכים אתה מבין</l>
+          <l>החיים ממשיכים</l>
+          <l>לא אני לא מבין</l>
+          <l>על מי אני כל כך כועס</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עכשיו את הבור הזה מי ימלא...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כמו משחק ילדים, כמו משחק ילדים,</l>
+          <l>סולמות, נדנדות, בובות ואקדחים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

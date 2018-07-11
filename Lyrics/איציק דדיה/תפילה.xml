@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תפילה 14</title>
+        <singer classification="unknown">איציק דדיה</singer>
+        <writer>אלי קליין</writer>
+        <composer>אלי קליין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תפילה</head>
+        <lg number="1" type="stanza">
+          <l>כשאני חושב לאן אפנה עכשיו כשרע לי</l>
+          <l>מנסה להתנער מכל מה שקרה לי</l>
+          <l>שוב אני עומד בצד, חושב על העבר</l>
+          <l>רק רוצה להיזכר בכל מה שעזר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בתפילה קורא אני לך</l>
+          <l>זועק עוד בשמך אלוקי ענני</l>
+          <l>כי אתה עוזר תמיד לכל</l>
+          <l>שומע את הקול שמתפלל אליך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפעמים בבוקר עוד השמש לא חייכה לי</l>
+          <l>עננים רק מעיבים על היום שעוד לא בא לי</l>
+          <l>עכשיו אני עומד, שואל מתי כל זה נגמר</l>
+          <l>ועם כל זה חושב אני מתי יבוא מחר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בתפילה קורא אני לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

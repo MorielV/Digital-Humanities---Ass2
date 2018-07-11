@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השובניסט</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השובניסט</head>
+        <lg number="1" type="stanza">
+          <l>אם רק תסתפרי אני אלייך אחזור</l>
+          <l>לו רק היית בלונדינית אבל שיערך הוא שחור</l>
+          <l>אולי תשימי אודם להבליט תשוקתך</l>
+          <l>אני השובניסט שעומד בדרכך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יצאתי לעבוד רצית קריירה גדולה</l>
+          <l>חזרתי הביתה אחוז בהלה</l>
+          <l>הרווחת יותר ממני אז נתנו לך אשראי</l>
+          <l>לסתום לי ת'פה ולמרר את חיי -</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הייתי הגבר הראשון שהביא אותך הלום</l>
+          <l>שעזר לך לחלום</l>
+          <l>הגשמתי לך חלום</l>
+          <l>הייתי הגבר המיוחד שבסוף נשאר לבד</l>
+          <l>אם תתנצלי בכתב</l>
+          <l>אני חוזר עכשיו אלייך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>למדת מנהל ונתנו לך תואר ראשון</l>
+          <l>ניסית לנהל את חיי בלי חשבון</l>
+          <l>כשכולם לעגו לי זה נשמע לך טיפשי</l>
+          <l>כי אני שובניסט ולוקה בנפשי -</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הייתי הגבר הראשון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מפלגת הדפוקים</title>
+        <singer classification="unknown">אולטראס</singer>
+        <writer>ששי צור</writer>
+        <composer>ששי צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מפלגת הדפוקים</head>
+        <lg number="1" type="stanza">
+          <l>שוב אותם האנשים, אותם לילות, אותן מילים ו...</l>
+          <l>אותו מקום בבר - הלילה יגמר קצת מאוחר.</l>
+          <l>קצת שיכור וקצת לבד נכנס עמוק אל תוך הלילה,</l>
+          <l>אנחנו נפגשים, מתחילים שוב במשחק.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מפלגת הדפוקים באותו מקום תמיד תקועים,</l>
+          <l>תרשום בפרוטוקול איך עוד זמן מיותר עבר היום.</l>
+          <l>תרצה או לא תרצה, הבטיחו לנו קצת יותר מזה,</l>
+          <l>ועכשיו כבר מאוחר מדי לצאת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מפנה מקום בזיכרון לרגעים שעוד יבואו,</l>
+          <l>תמונות רעות זורק, תאים שלמים בראש אני מוחק.</l>
+          <l>כאן תוססים המשקאות, ואיך אפשר לחזור הביתה?</l>
+          <l>נהיה קצת מאוחר והלילה כבר נגמר.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

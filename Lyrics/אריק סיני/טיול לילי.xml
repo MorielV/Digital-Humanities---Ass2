@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טיול לילי</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>עמוס אטינגר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טיול לילי</head>
+        <lg number="1" type="stanza">
+          <l>חולות מדבר הביאו חום אל דרך,</l>
+          <l>ורוח של ערבית על הגבעות נשבה</l>
+          <l>ובמשעול להר פסעו עלמה ועלם</l>
+          <l>מלחשים היו הם שיר של אהבה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ציפור לילית שורקה לשמי הליל</l>
+          <l>ושיח דוקרני הוצת בלהבה</l>
+          <l>על אבן של דרכים ישבו עלמה ועלם,</l>
+          <l>מלחשים היו הם שיר של אהבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פנס השביל כבה דומם ברוח,</l>
+          <l>אדם כילה יומו, איגרת נכתבה,</l>
+          <l>במעלה ההר פסעו עלמה ועלם,</l>
+          <l>מלחשים היו הם שיר של אהבה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הקיץ היום אל שיברונו של ליל</l>
+          <l>תם יום של שרב, הגיע יום סוער</l>
+          <l>ועל פסגת ההר לחשה עלמה לעלם</l>
+          <l>שיר אהבה אשר לעד לא יגמר.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

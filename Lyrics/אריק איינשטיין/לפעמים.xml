@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לפעמים 2</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>מיכה שטרית</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לפעמים</head>
+        <lg number="1" type="stanza">
+          <l>גל רודף גל ונשבר</l>
+          <l>גם אתה לפעמים</l>
+          <l>יום רודף יום</l>
+          <l>ונגמר</l>
+          <l>גם אתה לפעמים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לפעמים הים שקט ואין גלים</l>
+          <l>גם אתה לפעמים</l>
+          <l>ומחר תזרח השמש מבעד לעננים</l>
+          <l>ותרגיש יותר טוב</l>
+          <l>תרגיש חמים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שובי אלי בואי אהובה</l>
+          <l>גם אם לא קל</l>
+          <l>לפעמים</l>
+          <l>סלחי לי על כל שגיאותיי</l>
+          <l>גם אם לא קל</l>
+          <l>לפעמים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לפעמים הים שקט ואין גלים</l>
+          <l>גם אתה לפעמים</l>
+          <l>ומחר תזרח השמש מבעד לעננים</l>
+          <l>ותרגיש יותר טוב</l>
+          <l>תרגיש חמים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>גל רודף גל ונשבר</l>
+          <l>גם אתה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

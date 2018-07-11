@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תן לי להיות</title>
+        <singer classification="male singer">אברהם טל</singer>
+        <writer>רפאל אלישע</writer>
+        <composer>אברהם טל</composer>
+        <album>אורות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תן לי להיות</head>
+        <lg number="1" type="stanza">
+          <l>תן לי להיות כל שטוב ויפה</l>
+          <l>תנה אמונה בליבי</l>
+          <l>תן לי מעט להחזיק בחיים</l>
+          <l>תן לאושר לנשוק את מצחי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תן לי להיות עומק ים וגליו</l>
+          <l>להיות רוח אדוות מלטפת</l>
+          <l>להיות הרקיע הר באופק יכחיל</l>
+          <l>רן ציפור בין פרחים מצייצת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תן לי להיות אדמה ואדם</l>
+          <l>תן נא חיים בדמי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רחש לב להיות סערה ועדנה</l>
+          <l>עץ בודד יעמוד בשלכת</l>
+          <l>תן לי להיות גדולתה של חרות</l>
+          <l>להיות עצב דמעה נעצרת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תן לי להיות אדמה ואדם</l>
+          <l>תן נא חיים בדמי</l>
+          <l>תן לי להיות תבל ומלואה</l>
+          <l>תן לתבל להיות בי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

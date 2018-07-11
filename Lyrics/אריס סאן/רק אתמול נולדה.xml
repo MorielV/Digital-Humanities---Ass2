@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק אתמול נולדה 2</title>
+        <singer classification="male singer">אריס סאן</singer>
+        <writer>אהוד מנור</writer>
+        <composer>אריס סאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק אתמול נולדה</head>
+        <lg number="1" type="stanza">
+          <l>איפה הבובה</l>
+          <l>והבובות</l>
+          <l>ארץ צהובה</l>
+          <l>והזריחות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>השנים חולפות</l>
+          <l>איפה הילדה?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השנים עפות</l>
+          <l>רק אתמול נולדה</l>
+          <l>השנים חולפות</l>
+          <l>איפה הילדה?</l>
+          <l>השנים עפות</l>
+          <l>רק אתמול נולדה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איך לא ידעתי פלא</l>
+          <l>איך לא ידעתי שגדלת</l>
+          <l>שגדלת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

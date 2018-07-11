@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחוץ לזמן</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחוץ לזמן</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו יותר מאי פעם </l>
+          <l>אני זקוק לך שתצילי אותי </l>
+          <l>מהעולם מהזעם </l>
+          <l>אם את עדיין עוד אוהבת אותי </l>
+          <l>בלתי מספיק בתקשורת </l>
+          <l>אני שיבוש ומשתבש לי האני </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>האיש מחוץ לזמן </l>
+          <l>לא שייך לכאן </l>
+          <l>נוגע ועוזב </l>
+          <l>אבוד מול המחשב </l>
+          <l>ואת זה כל מה שיש לי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ולא בטוח נוגע </l>
+          <l>וכמו תינוק שמגשש </l>
+          <l>את צעדיו </l>
+          <l>אבל מבין ויודע </l>
+          <l>שבלעדיך אין לי כאן ואין עכשיו </l>
+          <l>בלתי מספיק בתקשורת </l>
+          <l>אני שיבוש ומשתבש לי האני </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האיש מחוץ לזמן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

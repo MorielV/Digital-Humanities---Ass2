@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נערת החלומות</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>יוני רועה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נערת החלומות</head>
+        <lg number="1" type="stanza">
+          <l>את נערת החלומות</l>
+          <l>את היפה בעלמות</l>
+          <l>את השושן ביום אביב</l>
+          <l>ובקולי רק לך אשיב</l>
+          <l>אגדיל חיי ואור עיני</l>
+          <l>אם רק תבואי את אלי</l>
+          <l>אם רק תבואי את אלי</l>
+          <l>לו רק ידעת מבוקשך</l>
+          <l>הייתי בא עד סף ביתך </l>
+          <l>הייתי בא עד סף ביתך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמה שנים עוד אחכה</l>
+          <l>כמה דרכים עוד אנסה</l>
+          <l>אשמור ימים וגם לילות </l>
+          <l>לך נערת החלומות </l>
+          <l>לך נערת החלומות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הנה היום והאישה</l>
+          <l>את סודותייך מכחישה</l>
+          <l>כואב היום וכה נרגש</l>
+          <l>איך לב אחר אותך כבש</l>
+          <l>לו רק אמרת על מה ואיך</l>
+          <l>ואם טעיתי אז אלך</l>
+          <l>ואם טעיתי אז אלך</l>
+          <l>אקום אצא לי לדרכי</l>
+          <l>ומה יאיר לי מזלי</l>
+          <l>ומה יאיר לי מזלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמה שנים עוד אחכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

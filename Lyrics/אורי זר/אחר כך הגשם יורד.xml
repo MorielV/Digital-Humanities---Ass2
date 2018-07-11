@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחר כך הגשם יורד</title>
+        <singer classification="male singer">אורי זר</singer>
+        <writer>מאיר אריאל</writer>
+        <composer>צחי כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחר כך הגשם יורד</head>
+        <lg number="1" type="stanza">
+          <l>זה שוב אותו הפרא </l>
+          <l>משתולל עיוור </l>
+          <l>נוקב בלב חורי תשחורת </l>
+          <l>ואין לב אחר </l>
+          <l>ואין חדר או מדור </l>
+          <l>שאין בו חור </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הפרא בן האכזרי </l>
+          <l>מתרוצץ חופשי </l>
+          <l>הוא לא יודע למה </l>
+          <l>הוא פוגע </l>
+          <l>הוא לא יודע כמה </l>
+          <l>ובמי מתפרע </l>
+          <l>סתמי כל כך סתמי </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אחר כך הגשם יורד </l>
+          <l>ועולה ניחוח </l>
+          <l>עושה טוב בנשמה </l>
+          <l>אחר כך השמש יוצאת </l>
+          <l>ונותנת כח </l>
+          <l>אך אין לי נחמה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כן משהו צורח בתוכי </l>
+          <l>צווח בי וצועק </l>
+          <l>מכה בי ודופק </l>
+          <l>על שמים אילמים </l>
+          <l>שמים כה חתומים </l>
+          <l>איך הפכתם שמים אטומים </l>
+          <l>אטומים </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אחר כך הגשם יורד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

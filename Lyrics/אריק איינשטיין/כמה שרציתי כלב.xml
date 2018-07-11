@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה שרציתי כלב</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>יוני רכטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה שרציתי כלב</head>
+        <lg number="1" type="stanza">
+          <l>הו כמה שרציתי כלב!</l>
+          <l>(אפילו כלב מסכן וקטן)</l>
+          <l>אפילו כזה שאוכל רק עשב,</l>
+          <l>העיקר שינבח ויהיה נאמן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הו כמה שרציתי כלב!</l>
+          <l>(אפילו טיפש ושעיר ונמוך)</l>
+          <l>תמיד כשביקשתי אמא  אמרה לי:</l>
+          <l>"כלב עושה רק לכלוך."</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הו כמה שרציתי כלב!</l>
+          <l>(כמובן שהכי- כלב זאב)</l>
+          <l>גם בולדוג הייתי לוקח תכף,</l>
+          <l>אפילו מפודל הייתי מתלהב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הו כמה שרציתי כלב!</l>
+          <l>(רק כלב ביקשתי כל הזמן)</l>
+          <l>בכל ערב התפללתי לכלב,</l>
+          <l>ואבא הביא לי חתול קטן.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

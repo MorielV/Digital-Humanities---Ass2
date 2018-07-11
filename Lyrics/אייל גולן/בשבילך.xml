@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בשבילך</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>טל שגב</writer>
+        <composer>טל שגב</composer>
+        <album>חלק מחיי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בשבילך</head>
+        <lg number="1" type="stanza">
+          <l>החיים האלה לא נתנו לי שקט</l>
+          <l>עד שבאת והסתדר פתאום הכל</l>
+          <l>והצלחתי להרגיש פתאום בנוח</l>
+          <l>והבנתי רק איתך אני יכול</l>
+          <l>לוותר על הרגלים</l>
+          <l>כדי להיות יותר קרוב ליחידה שבליבי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בשבילך אתן את מה שיש בי </l>
+          <l>הו רק אצלך אשיל את חולשותי </l>
+          <l>ואתמלא בלב </l>
+          <l>בשבילך אסיר את קליפותי </l>
+          <l>לא אסתכל אהיה רק לך </l>
+          <l>אני נשבע ומזיל שוב דמעות אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אלוהים אני מודה לך כל רגע</l>
+          <l>כשהחזרת את הדופק לחיי</l>
+          <l>את הסדק בנשמה שלי ריפאת</l>
+          <l>העלמת מועקה בלילותי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בשבילך אתן את מה שיש בי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה עוד</title>
+        <singer classification="unknown">אליקם בוטה</singer>
+        <writer>עמוס כהן</writer>
+        <composer>עמוס כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה עוד</head>
+        <lg number="1" type="stanza">
+          <l>נושאים אנו אליך בתפילה </l>
+          <l>מבקשים תחנונים בזעקה </l>
+          <l>קוראים לעזרתך אבא </l>
+          <l>נפשנו זועקת רק לך. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמה עוד נוכל לחיות בפחד </l>
+          <l>זה הלב שמשקר את כולם, </l>
+          <l>תרחם על כל בני עמך </l>
+          <l>ובמהרה תביא לנו את הישועה. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כבר מאות שנים שאנחנו מחכים </l>
+          <l>חלקם חיים פה רק בייסורים </l>
+          <l>מחכים רק לך שתשלח יד חמה </l>
+          <l>מלמעלה של אושר ושלווה. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמה עוד נוכל לחיות בפחד </l>
+          <l>זה הלב שמשקר את כולם, </l>
+          <l>תרחם על כל בני עמך </l>
+          <l>ובמהרה תביא לנו את הישועה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

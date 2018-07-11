@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה כמה</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה כמה</head>
+        <lg number="1" type="stanza">
+          <l>לא מחכה עוד לאף אחד בפתח</l>
+          <l>לא ממתינה לנסיך על סוס לבן</l>
+          <l>מי שלא רוצה שיעלם מכאן</l>
+          <l>לא צריכה טובות, ילדה גדולה מזמן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אין לי יותר משיש לי להציע</l>
+          <l>עוד זה הולך ואחר לפתע בא</l>
+          <l>די נמאס לחיות תמיד במסיבה</l>
+          <l>סך הכול רוצה מגע, רוצה חיבה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כמה כמה</l>
+          <l>עוד יבואו</l>
+          <l>כמה כמה</l>
+          <l>כבר הלכו</l>
+          <l>למה למה </l>
+          <l>אין כמוהו</l>
+          <l>רק עליו עיניי בכו</l>
+          <l>שיגיע</l>
+          <l>שיופיע</l>
+          <l>שישוב אלי עכשיו</l>
+          <l>אהובי אשר ביקשתי</l>
+          <l>למה זה גם הוא עזב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אמא אמרה לי: "זכרי ביתי לנצח,</l>
+          <l>כל הגברים יבקשו אותו דבר".</l>
+          <l>היאאולי צודקת אבל לי נשבר,</l>
+          <l>לקוות שאהובי ישוב מחר.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כמה כמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

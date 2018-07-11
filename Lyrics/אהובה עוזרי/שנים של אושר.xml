@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שנים של אושר</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שנים של אושר</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>החיים בלעדיך כמו עלה נידף</l>
+          <l>לא השארת רגע של תקווה</l>
+          <l>ואני הייתי מעבר לים</l>
+          <l>אתה נטמנת שם באדמה</l>
+          <l>למה נטמנ שם לבד</l>
+          <l>האם חשבת רק עלי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ג'ק ג'ק זה שמך</l>
+          <l>עיני דומעות לראות אותך</l>
+          <l>נשמה טהורה אלוהים לקח</l>
+          <l>על קברך אשק ראשך</l>
+          <l>מבט אשלח אל על</l>
+          <l>מנוחה לא אדע כל חיי</l>
+          <l>אשק אני את תמונתך</l>
+          <l>אבוא אלייך כל שנה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>החיים בלעדיך כמו עלה נידף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ונוס בטרנינג</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ונוס בטרנינג</head>
+        <lg number="1" type="stanza">
+          <l>ונוס בטרנינג אומרת שאין לה מושג</l>
+          <l>לאן העולם הזה הולך לעזאזל</l>
+          <l>ונוס שואלת אם מתחשק לי משחק</l>
+          <l>מלבישה אותי קונדום וכתר מחשמל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שורות של מלאכים</l>
+          <l>שורות של מלאכים</l>
+          <l>יום שלה זה לילה</l>
+          <l>יום שלה זה לילה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ונוס בטרנינג צלקת על הפנים</l>
+          <l>גונבת לי שטר של חמישים שקלים סגולים</l>
+          <l>ילדה נעצבת ילדה נעזבת</l>
+          <l>עוצרת מונית מונה דופק חיים דפוקים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שורות של מלאכים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

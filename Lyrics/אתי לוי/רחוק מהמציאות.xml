@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רחוק מהמציאות</title>
+        <singer classification="female singer">אתי לוי</singer>
+        <writer>תומר עג'ם</writer>
+        <composer>תומר עג'ם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רחוק מהמציאות</head>
+        <lg number="1" type="stanza">
+          <l>מתעוררת שוב לבד</l>
+          <l>אתה לא נמצא ליד</l>
+          <l>על קפה כבר מוותרת,</l>
+          <l>עליך אולי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך זה שפתאום היום נראה ארוך מדי</l>
+          <l>ודי</l>
+          <l>גם צלצול הטלפון שותק,</l>
+          <l>אתה לא חושב עלי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אתה שנמצא שם רחוק מהמציאות</l>
+          <l>אל תשכח אני עוד מחכה כאן</l>
+          <l>אני שחשבתי לקחת בקלות</l>
+          <l>אולי זאת הקלות אותי לוקחת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בלילות של חורף קר</l>
+          <l>מחבקת את הכר</l>
+          <l>לא לדאוג יהיה בסדר,</l>
+          <l>נזכרת בך.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>איך זה שפתאום הלב דופק כל כך חזק,</l>
+          <l>מוזר.</l>
+          <l>תדע שיש כאן אהבה,</l>
+          <l>ואולי תחשוב עלי.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אתה שנמצא שם רחוק מהמציאות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

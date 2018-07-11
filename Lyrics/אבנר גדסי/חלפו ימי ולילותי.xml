@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלפו ימי ולילותי</title>
+        <singer classification="male singer">אבנר גדסי</singer>
+        <writer>אבנר גדסי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלפו ימי ולילותי</head>
+        <lg number="1" type="stanza">
+          <l>חלפו ימי ולילותי</l>
+          <l>מרוב שירים גרוני ניחר.</l>
+          <l>את כל שירי ומילותי</l>
+          <l>אני תמיד ממשיך ושר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שיר עצוב, שיר כואב</l>
+          <l>מתנגן ומסתלסל.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>חלפו ימי ולילותי,</l>
+          <l>בוערת אש בעצמותי,</l>
+          <l>אני עוד שר ומנגן מהנשמה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את כל ימי ולילותי</l>
+          <l>הקדשתי לך באהבה</l>
+          <l>חלפו ימי ולילותי</l>
+          <l>ולב הולם קורא בשמה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שיר כמו זה, שיר אוהב</l>
+          <l>שיוצא מתוך הלב.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>חלפו ימי ולילותי,</l>
+          <l>בוערת אש בעצמותי,</l>
+          <l>אני עוד שר ומנגן מהנשמה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

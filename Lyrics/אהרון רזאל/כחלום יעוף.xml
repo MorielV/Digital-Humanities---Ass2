@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כחלום יעוף</title>
+        <singer classification="male singer">אהרון רזאל</singer>
+        <writer>אהרון רזאל</writer>
+        <composer>אהרון רזאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כחלום יעוף</head>
+        <lg number="1" type="stanza">
+          <l>אדם יסודו מעפר וסופו לעפר</l>
+          <l>בנפשו יביא לחמו</l>
+          <l>משול כחרס הנשבר</l>
+          <l>אדם יסודו מעפר וסופו לעפר</l>
+          <l>בנפשו יביא לחמו</l>
+          <l>משול כחרס הנשבר</l>
+          <l>כחציר יבש וכציץ נובל</l>
+          <l>וכצל עובר וכענן כלה</l>
+          <l>וכרוח נושבת כרוח נושבת</l>
+          <l>וכאבק פורח</l>
+          <l>וכחלום יעוף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ועד יום מותו יחכה לו</l>
+          <l>עד יום מותו יחכה לו</l>
+          <l>עד יום מותו יחכה לו</l>
+          <l>אם ישוב מיד יקבלו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כחציר יבש וכציץ נובל</l>
+          <l>וכצל עובר וכענן כלה</l>
+          <l>וכרוח נושבת כרוח נושבת</l>
+          <l>וכאבק פורח</l>
+          <l>וכחלום יעוף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ועד יום מותו יחכה לו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

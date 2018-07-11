@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בארץ אהבתי השקד פורח</title>
+        <singer classification="unknown">אלון אולארצ יק</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בארץ אהבתי השקד פורח</head>
+        <lg number="1" type="stanza">
+          <l>בארץ אהבתי השקד פורח </l>
+          <l>בארץ אהבתי מחכים לאורח </l>
+          <l>שבע עלמות שבע אמהות </l>
+          <l>שבע כלות בשער. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בארץ אהבתי על הצריח דגל </l>
+          <l>אל ארץ אהבתי יבוא עולה רגל </l>
+          <l>בשעה טובה בשעה ברוכה </l>
+          <l>המשכיחה כל צער. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אך מי עיני נשר לו ויראנו </l>
+          <l>ומי לב חכם לו ויכירנו </l>
+          <l>מי לא יטעה מי לא ישגה </l>
+          <l>מי יפתח לו הדלת?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בארץ אהבתי על הצריח דגל </l>
+          <l>אל ארץ אהבתי יבוא עולה רגל </l>
+          <l>בשעה טובה בשעה ברוכה </l>
+          <l>המשכיחה כל צער.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אך מי עיני נשר לו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

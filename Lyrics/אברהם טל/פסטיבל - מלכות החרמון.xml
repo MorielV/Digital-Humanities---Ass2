@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פסטיבל מלכות החרמון</title>
+        <singer classification="male singer">אברהם טל</singer>
+        <writer>אברהם טל</writer>
+        <composer>רני אייזנברג</composer>
+        <album>אברהם טל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פסטיבל - מלכות החרמון</head>
+        <lg number="1" type="stanza">
+          <l>איזה פסטיבל אתה מארגן מעל העננים</l>
+          <l>נשמות טובות מחפשות עצים נדיבים</l>
+          <l>ילדים קטנים עוצרים תנועת קרחונים</l>
+          <l>וצלילי הדיג' נשמעים למרחקים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>להטוטנים אוחזים בזנבות של ברקים</l>
+          <l>מעגל מתופפים ממחזר ניפוץ רעמים</l>
+          <l>ציפורים שרות את המילים שאתה כבר מכיר</l>
+          <l>למוזיקה שמימית של קולות דולפינים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איזה פסטיבל, בכל מקום בכל מצב</l>
+          <l>תהנה זה מה שנשאר</l>
+          <l>איזה פסטיבל לך בתוך הראש נוצר</l>
+          <l>מבפנים אל החוץ זה מוכר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איזה פסטיבל אתה מארגן מעל העננים</l>
+          <l>רבבות מגיעים למשחקים בשחקים</l>
+          <l>רכבות הרים עוצרות תנועת מחוגים</l>
+          <l>במקום כוכבים תארגן זיקוקים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>איזה פסטיבל אתה מארגן מעל העננים</l>
+          <l>שפה העניינים הם אותם העניינים</l>
+          <l>הכאב מהיר הוא חד עוקץ ואינו מרפה</l>
+          <l>ומזכיר שיש פסטיבל שצריך לארגן</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>איזה פסטיבל, בכל מקום בכל מצב...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כל המילים השמחות</l>
+          <l>פרצו שוב בהורה סוערת</l>
+          <l>עם שחר הלילה נמלט</l>
+          <l>מפסגת החרמון הזוהרת...</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>איזה פסטיבל, בכל מקום בכל מצב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

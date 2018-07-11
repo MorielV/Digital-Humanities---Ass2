@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סוס מעץ 2</title>
+        <singer classification="unknown">אדי שוקחה</singer>
+        <writer>חדוה הרכבי</writer>
+        <composer>נחצ'ה היימן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סוס מעץ</head>
+        <lg number="1" type="stanza">
+          <l>סוס מעץ מוטל בחושך</l>
+          <l>סוס מעץ ומדליון</l>
+          <l>ציפורים נשמו חלמו בי</l>
+          <l>ציפורים מן הדמיון</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמו על אור אני הולכת</l>
+          <l>עם סלים של הזיות</l>
+          <l>בד קטיפה אותי הלבשתי</l>
+          <l>כמו שמלה לקראת כלולות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אדמה שלא עזבת</l>
+          <l>קרא לי עוד ועוד ועוד</l>
+          <l>מי בוכה שם הו ענני</l>
+          <l>אי פניך מועדות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הר מול הר הרי ציירתי</l>
+          <l>שלל אדום של זיכרון</l>
+          <l>בואה ים כסני עשב</l>
+          <l>קול אדם על סף דמעות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אדמה שלא עזבת...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>זר ורדים פתאום הנחתי</l>
+          <l>פה על אדן החלון</l>
+          <l>מבדידות ציפור שואגת</l>
+          <l>שוב ציפור מן הדמיון</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אדמה שלא עזבת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

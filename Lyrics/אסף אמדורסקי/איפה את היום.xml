@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איפה את היום</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>אסף אמדורסקי</composer>
+        <album>צד א'</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איפה את היום</head>
+        <lg number="1" type="stanza">
+          <l>מה זה שם</l>
+          <l>עיניים בחלון</l>
+          <l>מבט קצר</l>
+          <l>קשה לנשום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את רואה</l>
+          <l>עבר מספיק זמן</l>
+          <l>בשביל לשכוח</l>
+          <l>לא שכחתי דבר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איפה את היום       </l>
+          <l>כמה זמן עבר           </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לעצמי תמיד חשבתי</l>
+          <l>היום הזה יבוא</l>
+          <l>חיכינו נצח שיבוא</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מה דומה ומה שונה אצלך</l>
+          <l>עם מי את מדברת</l>
+          <l>האם את זוכרת אותי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>איפה את היום       </l>
+          <l>כמה זמן עבר           </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>איפה את היום </l>
+          <l>כמה זמן מאז</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>אחרי כל הזמן הזה</l>
+          <l>כל הזמן הזה</l>
+          <l>רוצה לומר לך</l>
+          <l>חייב לומר לך</l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>בואי כבר היום</l>
+          <l>בואי עוד היום</l>
+          <l>כמה זמן</l>
+          <l>כמה זמן עבר</l>
+        </lg>
+        <lg number="10" type="stanza">
+          <l>איפה את היום</l>
+          <l>איפה את היום</l>
+          <l>כמה זמן</l>
+          <l>כמה זמן עבר</l>
+        </lg>
+        <lg number="11" type="stanza">
+          <l>ממתקים מהשמיים</l>
+          <l>נופלים עלינו עכשיו</l>
+          <l>כשהיית איתי כאן</l>
+          <l>והייתי איתך</l>
+        </lg>
+        <lg number="12" type="stanza">
+          <l>טיפות קטנות של מים</l>
+          <l>נופלות מהשמיים</l>
+          <l>ישר לתוך הגרון</l>
+        </lg>
+        <lg number="13" type="stanza">
+          <l>עיניים בחלון - אני באה</l>
+          <l>אני לא זוכרת</l>
+          <l>כמה ימים עברו מאז</l>
+          <l>אבל מעל העיר </l>
+          <l>דולק לנו כוכב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

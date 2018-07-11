@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כאן לבד הלילה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>יצחק קלפטר</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כאן לבד הלילה</head>
+        <lg number="1" type="stanza">
+          <l>רגע מתחלף ברגע</l>
+          <l>השעון הולך ומתקדם</l>
+          <l>והזמן אוזל</l>
+          <l>אהבה שנשתכחה בי</l>
+          <l>מתעוררת, היא כה רחוקה</l>
+          <l>והמרחק גדל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ומחר ישוב הבוקר</l>
+          <l>והשמש עוד תזרח מעל</l>
+          <l>וייבש הטל</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כן, מה שהיה היה</l>
+          <l>מה שיהיה יהיה</l>
+          <l>כאן לבד הלילה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שיר שמתחלף כל פעם</l>
+          <l>הגיטרה בין אצבעותי</l>
+          <l>מסבירה הכל</l>
+          <l>גיל שמתחלף בדמע</l>
+          <l>זה טבעו של העולם הזה</l>
+          <l>מאפס עד קצה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והרוח מנשב </l>
+          <l>מוחק עקבות שנשארו בחול</l>
+          <l>אין כבר מה לשאול</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כן, מה שהיה היה</l>
+          <l>מה שיהיה יהיה</l>
+          <l>כאן לבד הלילה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

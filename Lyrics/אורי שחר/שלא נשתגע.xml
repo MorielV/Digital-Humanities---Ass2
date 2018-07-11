@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלא נשתגע</title>
+        <singer classification="unknown">אורי שחר</singer>
+        <writer>ארז ברזוליק</writer>
+        <composer>אורי שחר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלא נשתגע</head>
+        <lg number="1" type="stanza">
+          <l>שוב הקיץ מטשטש את הגבולות </l>
+          <l>ובחושך כוכבים, </l>
+          <l>חתולים מייללים לחתולות </l>
+          <l>ואנחנו מתקרבים, מתקרבים. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תני לי עוד ממך, תני לי עוד רגע, </l>
+          <l>לגעת בלב שלא נשתגע... </l>
+          <l>תני לי עוד ממך, תני לי עוד רגע, </l>
+          <l>לגעת בלב שלא נשתגע, </l>
+          <l>שלא נשתגע... </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב אנחנו יוצאים לעיר לרקוד, </l>
+          <l>האורות עוד זוהרים. </l>
+          <l>יש בינינו לילה, יש בינינו סוד </l>
+          <l>והכל, הכל נראה עוד אפשרי. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תני לי עוד ממך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

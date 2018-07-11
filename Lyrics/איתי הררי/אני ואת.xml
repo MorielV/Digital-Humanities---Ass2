@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני ואת 4</title>
+        <singer classification="unknown">איתי הררי</singer>
+        <writer>מורן כרמל</writer>
+        <composer>מורן כרמל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני ואת</head>
+        <lg number="1" type="stanza">
+          <l>אל תדאגי אני כאן לצידן כל הדרך</l>
+          <l>ורק איתך אני מרגיש שלחיי יש ערך</l>
+          <l>אוהב אותך ילדה אותך רוצה ולא אחרת</l>
+          <l>אני אומר לך מתוקה זאת אהבה זכה היא כל כך חזקה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני ואת נגד כל העולם וזה כל כך מושלם ואת בטח יודעת</l>
+          <l>שאני רוצה רק אותך מכולן היחידה בעולם זאת אהבה שנוגעת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחלומות שלי אני רואה שאת אוהבת</l>
+          <l>ומדמיין כל רגע איך את לחיי נכנסת</l>
+          <l>זה יהפוך למציאות כי את אותי כובשת</l>
+          <l>אני אומר לך מתוקה זאת אהבה זכה היא כל כך חזקה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני ואת נגד כל העולם וזה כל כך מושלם ואת בטח יודעת</l>
+          <l>שאני רוצה רק אותך מכולן היחידה בעולם זאת אהבה שנוגעת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

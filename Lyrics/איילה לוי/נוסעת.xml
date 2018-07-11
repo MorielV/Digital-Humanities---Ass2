@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נוסעת</title>
+        <singer classification="female singer">איילה לוי</singer>
+        <writer>חמוטל בן זאב</writer>
+        <composer>יורם צדוק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נוסעת</head>
+        <lg number="1" type="stanza">
+          <l>נוסעת בכביש ואדי ערה</l>
+          <l>לוקחת בתיק זכרונות</l>
+          <l>כל הדרך לשם אני שרה</l>
+          <l>ובראש חולפות לי תמונות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יחפה במרחב הפתוח</l>
+          <l>אל תמימות השנים שחלפו</l>
+          <l>וילדה עם צמות ברוח</l>
+          <l>ואני מזמן כבר לא פה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>במקום שבו נמצא הלב</l>
+          <l>נמצא הבית, שם ביתך</l>
+          <l>המקום שאתה הכי אוהב</l>
+          <l>הוא המקום שאוהב אותך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כבר אני לרגלי הגלבוע</l>
+          <l>זורמת במי מעיין</l>
+          <l>ורוצה מהכל שוב לגמוע</l>
+          <l>קרובה ושייכת לכאן</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נוסעת בכביש ואדי ערה</l>
+          <l>אל מחוזות ילדותי</l>
+          <l>ומאז עד עכשיו אני שרה</l>
+          <l>ונושאת את הבית אתי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>במקום שבו נמצא הלב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

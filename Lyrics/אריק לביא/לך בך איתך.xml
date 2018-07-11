@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לך בך איתך</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>אריק לביא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לך בך איתך</head>
+        <lg number="1" type="stanza">
+          <l>כמו סופת מדבר אותי את מסנוורת </l>
+          <l>כמו חמסין יוקד את בתוכי שריפה </l>
+          <l>אני הגל המתנפץ אל מרגלות רגליך </l>
+          <l>אני נהר זורם רק לך, רק בך, איתך </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מדרך ארוכה אותי את מקבלת </l>
+          <l>מאלף סערות אני לך מתמוטט </l>
+          <l>אל מול גומת צחוקך אני נופל כמו עבד </l>
+          <l>אני המנגינה רק לך, רק בך, איתך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לך, בך, איתך </l>
+          <l>אהיה לך רע ואח </l>
+          <l>ושמש ממזרח </l>
+          <l>רק לי ולך תזרח</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

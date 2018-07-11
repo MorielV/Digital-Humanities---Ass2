@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לרקוד על גג</title>
+        <singer classification="unknown">אהרון מיטשל</singer>
+        <writer>חנה גולדברג</writer>
+        <composer>רן שם טוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לרקוד על גג</head>
+        <lg number="1" type="stanza">
+          <l>גם אם אין לי אהבה</l>
+          <l>גם אם אין לי חום</l>
+          <l>איזה כיף לרקוד על גג</l>
+          <l>ככה כל היום</l>
+          <l>גם אם אין לי</l>
+          <l>שום סיבה גדולה</l>
+          <l>מרגיש שהעולם נפלא, לך תדע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא שואף כבר לשנות</l>
+          <l>את היקום</l>
+          <l>מטייל לי ברחובות</l>
+          <l>לא כואב לי כלום</l>
+          <l>אם איני חולה</l>
+          <l>על מה אבכה?</l>
+          <l>וכשאני אני רואה כחול</l>
+          <l>זה כל כך יפה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השמש</l>
+          <l>מאירה עלי</l>
+          <l>והעולם כולו בשתי ידי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר של רנדי ניומן</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>רנדי ניומן</writer>
+        <composer>רנדי ניומן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר של רנדי ניומן</head>
+        <lg number="1" type="stanza">
+          <l>נשיר פה שיר</l>
+          <l>על זמן רחוק</l>
+          <l>כשהכל היה ירוק</l>
+          <l>ואנשים היו עוצרים</l>
+          <l>אומרים "שלום לך,</l>
+          <l>תשתה ספל תה אמיתי</l>
+          <l>עם אשתי ואיתי?"</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל כך יפה ביום כזה, יושבים במרפסת</l>
+          <l>ביום קיץ חם בכפר אז"ר, יום רביעי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נשיר פה שיר</l>
+          <l>על זמן רחוק</l>
+          <l>כשהכחול היה עמוק</l>
+          <l>והאוויר היה נקי</l>
+          <l>כולם היו איתך</l>
+          <l>תשתה ספל תה אמיתי</l>
+          <l>עם אשתי ואיתי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל כך יפה ביום כזה, יושבים במרפסת</l>
+          <l>ביום קיץ חם בכפר אז"ר, ערב יום חמישי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

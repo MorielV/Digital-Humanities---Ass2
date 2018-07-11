@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קדיש</title>
+        <singer classification="band">אלמנה שחורה</singer>
+        <writer>אלי זולטא</writer>
+        <composer>אלי זולטא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קדיש</head>
+        <lg number="1" type="stanza">
+          <l>ילדים גדלים לומדים קדיש </l>
+          <l>מול קבר פתוח לומדים להכיש </l>
+          <l>המוות שותק ועומד בפינה </l>
+          <l>הדם שנשפך מהול בזיעה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אפור שחור בשדה הקרב </l>
+          <l>צלליות שפופות ביישור מקורב </l>
+          <l>אפור לימדו אותי זה חורף וסתיו </l>
+          <l>אפור לא לימדו אותי זה שדה הקרב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יתגדל ויתקדש שמי רבא </l>
+          <l>האם נולדנו לעשות מלחמה? </l>
+          <l>יתגדל ויתקדש שמי רבא </l>
+          <l>האם נולדנו לעשות מלחמה?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

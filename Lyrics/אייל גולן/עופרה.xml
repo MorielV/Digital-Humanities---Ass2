@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עופרה</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>אברהם בר עוז</writer>
+        <composer>אלי קניאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עופרה</head>
+        <lg number="1" type="stanza">
+          <l>קולך נגע בי מרטט נשמתך</l>
+          <l>בצליל כסף כוכבים כאלפי עינבלים</l>
+          <l>היית כנף לזמר היונה</l>
+          <l>לאור הנר ולריח הבשמים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואם ננעלו דלתי נדיבים</l>
+          <l>דלתי מרום לך ופתחו</l>
+          <l>וכל השמיים אורות וכוכבים</l>
+          <l>חובקים את קולך אלפי פעמונים</l>
+          <l>ואת, עופרה</l>
+          <l>עם כל המלאכים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קולך נשקתי בטוהר זמרתך</l>
+          <l>החובק את זיו ארצך ונושק מרומים</l>
+          <l>היית כנף לכל עם ישראל</l>
+          <l>לאור הנר וליופי הבשמים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואם ננעלו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

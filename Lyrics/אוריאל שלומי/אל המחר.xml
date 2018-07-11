@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל המחר</title>
+        <singer classification="male singer">אוריאל שלומי</singer>
+        <writer>שלמה כישור</writer>
+        <composer>שלמה כישור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל המחר</head>
+        <lg number="1" type="stanza">
+          <l>הבט סביב וראה לאן תוביל את עצמך,</l>
+          <l>רק אל תביט אל העבר, הרי שכח אותך.</l>
+          <l>את ההוה אינך רואה כי הוא בתוכך,</l>
+          <l>לכן חפש את המחר המחכה לך.</l>
+          <l>וכשתפגוש את המחר, חייך אליו בחום,</l>
+          <l>קבל אותו עם כל הלב, ברכהו לשלום;</l>
+          <l>הזמן אותו אל תוך ביתך ותן לו קצת מקום,</l>
+          <l>לתוך לבך הכנס אותו ובדמך יזרום.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי המחר הוא יום חדש, זורח ומאיר</l>
+          <l>ובכנפיו יביא תקווה כי הוא תמיד צעיר.</l>
+          <l>מבטיח הוא עולם אחר, יפה וטוב יותר,</l>
+          <l>אז לך אליו מהר-מהר, עליו אל תוותר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>העבר משאיר לך רק זכרונות מרים,</l>
+          <l>רגעים שבהווה, מיד הם נעלמים;</l>
+          <l>רק המחר הוא שנותן הטעם לחיים,</l>
+          <l>רק הוא מביא לנו ימים הרבה יותר יפים.</l>
+          <l>עליו אפשר להתרפק בחלומות רבים,</l>
+          <l>לבנות עליו גם ארמונות בפז מרוצפים;</l>
+          <l>אפשר לשמור אותו עמוק-עמוק בפנים,</l>
+          <l>או לספר עליו תמיד לכל האנשים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי המחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

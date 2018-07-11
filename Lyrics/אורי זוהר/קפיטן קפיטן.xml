@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קפיטן קפיטן</title>
+        <singer classification="unknown">אורי זוהר</singer>
+        <writer>וסילי לבדייב קומאץ'</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קפיטן קפיטן</head>
+        <lg number="1" type="stanza">
+          <l>קפיטן היה אחד</l>
+          <l>לא ירא ולא פחד</l>
+          <l>סכנות רבות ראה ועוד איך</l>
+          <l>אלף פעם הוא ניצל</l>
+          <l>כשטולטל מגל אל גל...</l>
+          <l>בביטול תמיד צחק הוא וחייך.</l>
+          <l>בסופה מול אסון</l>
+          <l>הוא תמיד היה חוזר על הפזמון:</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קפיטן, קפיטן, נא חייכה</l>
+          <l>כי הצחוק הוא נס מורם לספינה</l>
+          <l>קפיטן, קפיטן בחייך</l>
+          <l>סער לב מול סער ים לא יכנע.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מעשה ידי שטן:</l>
+          <l>התאהב הקפיטן</l>
+          <l>התאהב הקפיטן ועוד איך</l>
+          <l>התבלבל כנער רך</l>
+          <l>כאותו תלמיד פרחח...</l>
+          <l>ומאז הוא לא צחק ולא חייך.</l>
+          <l>הוא הסמיק הוא החויר</l>
+          <l>ולא היה מי שישיר לו את השיר:</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קפיטן, קפיטן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

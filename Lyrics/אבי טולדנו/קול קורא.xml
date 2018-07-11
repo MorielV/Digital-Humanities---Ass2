@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קול קורא 2</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אהוד מנור</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קול קורא</head>
+        <lg number="1" type="stanza">
+          <l>קול קורא עכשיו</l>
+          <l>כמו מתוך רעב</l>
+          <l>קול קורא נשמע</l>
+          <l>כמו מתוך צמא</l>
+          <l>קול קורא עכשיו</l>
+          <l>עד סוף מערב</l>
+          <l>קול שובר דממה</l>
+          <l>מן האדמה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והכדור הזה עייף</l>
+          <l>ללא חמדה הוא עוד סובב</l>
+          <l>ומשגר אותות אין ספור לאדם</l>
+          <l>ואם נקשיב נשמע היטב</l>
+          <l>את קול הלב את הכאב</l>
+          <l>אשר קורא לשם, ליפת, לחם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קול קורא לשווא</l>
+          <l>אין עונה עכשיו</l>
+          <l>צל ענן גדול</l>
+          <l>שט על פני החול</l>
+          <l>קול קורא עכשיו</l>
+          <l>אל תפנה לו גב</l>
+          <l>תן קולך לקול</l>
+          <l>כדי שלא ייפול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והכדור הזה עייף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

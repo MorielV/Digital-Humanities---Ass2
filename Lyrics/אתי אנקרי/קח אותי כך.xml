@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קח אותי כך</title>
+        <singer classification="female singer">אתי אנקרי</singer>
+        <writer>אתי אנקרי</writer>
+        <composer>אתי אנקרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קח אותי כך</head>
+        <lg number="1" type="stanza">
+          <l>קח אותי אליך, חבק אותי חזק</l>
+          <l>קח אותי אליך, אין לי כוח למשחק</l>
+          <l>קח אותי אליך, לטף אותי לישון</l>
+          <l>קח אותי כך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה כמה ימים שאין בי מנוחה</l>
+          <l>קח אותי אליך, איתך אני שמחה</l>
+          <l>קח אותי לברוח, די לשאול שאלות</l>
+          <l>קח אותי כך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש עננים כבדים בשמיים,</l>
+          <l>יש מהומות בירושלים,</l>
+          <l>יש אנשים הולכים בשניים</l>
+          <l>וחסר לי איתך, חסר לי בית בעיר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קח אותי אליך, אל תבטיח לי דבר</l>
+          <l>קח אותי אליך עד הבוקר, עד מחר</l>
+          <l>קח אותי אליך, לטף אותי לישון</l>
+          <l>קח אותי כך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יש עננים כבדים בשמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

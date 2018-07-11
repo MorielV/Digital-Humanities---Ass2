@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלילה יורד ביתי אל הים</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אהוד מנור</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלילה יורד ביתי אל הים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>בלילה יורד ביתי אל הים,</l>
+          <l>וגלים מכים על חלוני.</l>
+          <l>הגגות מסביב קופצים ממקומם</l>
+          <l>ועצים מתנפצים מול ביתי.</l>
+          <l>ואם אלי תבואי לפעמים</l>
+          <l>רק אז תביני מן הסתם</l>
+          <l>כיצד עם העצים הרוטטים</l>
+          <l>יורד ביתי בלילה אל הים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בלילה יורד ביתי אל הים</l>
+          <l>ודומעה הרוח בעיניו,</l>
+          <l>מלוחה מלוחה נושבה מן הגן</l>
+          <l>והתריס מתחנן על חייו.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואם אלי תבואי לפעמים...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בבוקר חוזר ביתי אל החוף</l>
+          <l>הגגות שבים אז למקומם</l>
+          <l>וחמה ברקיע תכלת אינסוף</l>
+          <l>מקפידה על הסדר בים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואם אלי תבואי לפעמים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

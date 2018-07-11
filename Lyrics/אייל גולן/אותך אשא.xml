@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אותך אשא</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>חייל של אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אותך אשא</head>
+        <lg number="1" type="stanza">
+          <l>את כל הדלתות את סגרת היטב</l>
+          <l>השארת אותי שבוי באכזבה</l>
+          <l>השלכת משדכת לי את הכאב</l>
+          <l>היית שלי עכשיו את רחוקה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את הרגשות את תמיד הסתרת</l>
+          <l>יד חמה אוחזת באחר</l>
+          <l>השלכת מכסה הכל בבת אחת</l>
+          <l>לא נותר לי אלא לוותר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אותך אשא, אותך אשא</l>
+          <l>אותך אשא בשתי ידיים</l>
+          <l>אלוהים שולח לנו מים</l>
+          <l>למעגן האהבה</l>
+          <l>אותך אשא, אותך אשא</l>
+          <l>אותך אשא יפת עיניים</l>
+          <l>אלוהים פורש מעל כנפיים</l>
+          <l>שומר היטב על התקווה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>למרות אותה פרידה רק לך אחכה</l>
+          <l>אולי עוד נשארה בך אהבה</l>
+          <l>העצים עכשיו פורחים והעולם יפה</l>
+          <l>לכל הבעיות נמצא תשובה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ניסיתי להבין למה את הולכת</l>
+          <l>אמרו לי שאהבת אחד אחר</l>
+          <l>הוא לא יתן לך אהבה כמו שאצלי קיבלת</l>
+          <l>למענך אני לא אוותר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אותך אשא, אותך אשא</l>
+          <l>אותך אשא בשתי ידיים</l>
+          <l>אלוהים שולח לנו מים</l>
+          <l>למעגן האהבה</l>
+          <l>אותך אשא, אותך אשא</l>
+          <l>אותך אשא יפת עיניים</l>
+          <l>אלוהים פורש מעל כנפיים</l>
+          <l>שומר היטב על התקווה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קוטב הבננות</title>
+        <singer classification="female singer">אלונה דניאל</singer>
+        <writer>אלונה דניאל</writer>
+        <composer>אלונה דניאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קוטב הבננות</head>
+        <lg number="1" type="stanza">
+          <l>באנו הנה מרחוק, מארץ השלגים</l>
+          <l>והיום אנחנו חוגגים את ההישגים</l>
+          <l>באנו, ראינו, כבשנו</l>
+          <l>באנו, ראינו, כבשנו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בקוטב הבננות החיים קלים</l>
+          <l>קופים, ג'ירפות ופילים</l>
+          <l>בקוטב הבננות החיים יפים</l>
+          <l>יש כאן את כל מה שצריך</l>
+          <l>וכל זה שלנו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תבואו לבקרנו, עם או בלי פרחים</l>
+          <l>כי עם טיפוסים כמונו לא משחקים</l>
+          <l>אנחנו באנו, ראינו, כבשנו</l>
+          <l>באנו, ראינו, כבשנו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בקוטב הבננות...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כן, בקוטב הבננות החיים קלים</l>
+          <l>וכולם שמחים, רק הקופים מתוסכלים</l>
+          <l>בגלל שבאנו, ראינו, כבשנו גם אותם</l>
+          <l>באנו, ראינו, כבשנו גם אותם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בקוטב הבננות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

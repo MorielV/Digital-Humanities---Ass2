@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מפגשים</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>שמרית אור</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מפגשים</head>
+        <lg number="1" type="stanza">
+          <l>היא מן המדבר באה מעבר הר</l>
+          <l>וכל יום היא אל דרכה, בכל יום מחכה</l>
+          <l>הוא מן השלגים שב לו מן הפלגים</l>
+          <l>ודרכו עוד ארוכה ודרכו עוד ריקה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואם יתעו לעד</l>
+          <l>ואם דרכם תאבד</l>
+          <l>האם ילכו לבד עד הערב</l>
+          <l>ואם יתעו לעד</l>
+          <l>ואם דרכם תאבד</l>
+          <l>האם ילכו לבד כל הדרך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בשערה שרב פיה כאש נצרב</l>
+          <l>ועיניה מבקשות את עיניו את עיניו</l>
+          <l>דרך יערות הלאה עיניו תרות</l>
+          <l>את אשר כל כך אהב</l>
+          <l>את אשר כל כך אהב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואם יתעו לעד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש דרכים רבות שאי שם מצטלבות</l>
+          <l>ואלפי אלפי שבילים שלנצח מקבילים</l>
+          <l>יש רק לקוות שאולי לאהבות</l>
+          <l>יש כוכב אשר משכיל לכוון ולהוביל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

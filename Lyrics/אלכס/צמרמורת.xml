@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צמרמורת 2</title>
+        <singer classification="unknown">אלכס 3</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>עופר לב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צמרמורת</head>
+        <lg number="1" type="stanza">
+          <l>בחלומות אני שומע את פעימות הלב</l>
+          <l>מביט אלייך ויודע שנשמתך נקשרת בדרכי</l>
+          <l>ביקשתי ש... תאמרי לי כן</l>
+          <l>ידעתי זה יתכן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>צמרמורת בגופי עכשיו </l>
+          <l>צמרמורת של איש מאוהב</l>
+          <l>בקסם שכעת עולה משתי עינייך</l>
+          <l>צמרמורת בגופי עכשיו צמרמורת </l>
+          <l>של איש מאוהב שנכנס אל תוך חייך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מרגיש איתך כמו בשמיים</l>
+          <l>ושט בסערת אהבתי</l>
+          <l>פורש אלייך שתי ידיים</l>
+          <l>רוצה אותך ועד עולם איתי</l>
+          <l>בקשתי ש.. תאמרי לי כן </l>
+          <l>ידעתי זה יתכן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>צמרמורת בגופי עכשיו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

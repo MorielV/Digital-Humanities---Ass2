@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שקרים קטנים</title>
+        <singer classification="unknown">איזקיס</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שקרים קטנים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אהבתי אותך תמיד ידעת </l>
+          <l>האמנתי בך ובי פגעת </l>
+          <l>איך בכל אותם ימים </l>
+          <l>סיפרת לי רק שקרים קטנים </l>
+          <l>על שפתייך הסיפור מוכן </l>
+          <l>בכל שעה ובכל זמן </l>
+          <l>בליבי כאב ההרגשה </l>
+          <l>שהאמנתי בך ילדה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שקרים קטנים חשבת שהם </l>
+          <l>דומעות עיני נזכר בהם </l>
+          <l>בליבי כאב ההרגשה </l>
+          <l>שהאמנתי בך ילדה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אהבתי אותך כמו שאת </l>
+          <l>יעיד הזמן שבי בגדת </l>
+          <l>איך בכל אותם ימים </l>
+          <l>סיפרת לי רק שקרים קטנים </l>
+          <l>בכל פעם שאקליט </l>
+          <l>אישה אחרת ליבי יזכיר </l>
+          <l>את מחיר ההרגשה </l>
+          <l>שהאמנתי בך ילדה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שקרים קטנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

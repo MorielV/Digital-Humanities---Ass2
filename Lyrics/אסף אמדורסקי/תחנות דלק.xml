@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תחנות דלק</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>אסף אמדורסקי</composer>
+        <album>אסף אמדורסקי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תחנות דלק</head>
+        <lg number="1" type="stanza">
+          <l>במועדון לילה בהרצליה</l>
+          <l>אני עומד על הבמה לבד</l>
+          <l>עם גיטרה ביד וחיוך על הפנים</l>
+          <l>והקהל, איפה הקהל שלי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>במועדון לילה בחולוניה</l>
+          <l>אני עומד על הבמה לבד</l>
+          <l>עם גיטרה ביד וחיוך על הפנים</l>
+          <l>והקהל, איפה הקהל שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>"תחנות דלק הנה אני בא", כן</l>
+          <l>כך חשבתי, אכבוש תארץ</l>
+          <l>לאורכה ולרוחבה לצפונה ולדרומה</l>
+          <l>כך חשבתי, אני לא ידעתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עולם חדש</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עולם חדש</head>
+        <lg number="1" type="stanza">
+          <l>כנס לעולם חדש</l>
+          <l>חיים בתמונה חדה</l>
+          <l>חשוב להיות מעודכן</l>
+          <l>אל תשדר ישן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הכול פה כבר ממוספר</l>
+          <l>הכול בסיסמה אחת</l>
+          <l>שתף ת'קבצים שלך</l>
+          <l>התחבר וברוך הבא</l>
+          <l>לעולם חדש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מיקרופון מצלמה</l>
+          <l>שנראה ונשמע אותך</l>
+          <l>שנדע מה אתה מרגיש</l>
+          <l>חשוב שתהיה נגיש</l>
+          <l>לעולם חדש</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אנשים</l>
+          <l>אורות מהבהבים בלילה</l>
+          <l>בעולם חדש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

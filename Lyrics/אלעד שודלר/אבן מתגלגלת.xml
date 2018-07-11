@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבן מתגלגלת</title>
+        <singer classification="unknown">אלעד שודלר</singer>
+        <writer>אלעד שודלר</writer>
+        <composer>אלעד שודלר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבן מתגלגלת</head>
+        <lg number="1" type="stanza">
+          <l>שיכור במסיבה, צוחק מכל הלב,</l>
+          <l>שכחת מי אתה.</l>
+          <l>ואיפה שאתה הולך, שם את נמצא,</l>
+          <l>אין לך מקום אחר.</l>
+          <l>בוא הנה אבן מתגלגלת, לא שילמת ת'חשבון,</l>
+          <l>בוא הנה אבן מתגלגלת, הלילה לא הולכים לישון.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ויצא לך כבר שם, של אחד שלא נשאר,</l>
+          <l>זר לעצמך.</l>
+          <l>בעומק ים סוער, מחזיק בשום דבר,</l>
+          <l>נשען על האמת.</l>
+          <l>בוא הנה אבן מתגלגלת...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החברים שלך חשבו, שעדיף לך לבד,</l>
+          <l>אז לאן אתה הולך?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

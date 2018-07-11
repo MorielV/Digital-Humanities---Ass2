@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחופשתו</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחופשתו</head>
+        <lg number="1" type="stanza">
+          <l>בחופשתו, הלכו אל הגבעות, </l>
+          <l>שם השתהו מעט לנוכח פני הים. </l>
+          <l>והיא חשבה שזהו רמז לבאות, </l>
+          <l>והיא חיבקה אותו בעצב מסויים. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יופייך, אמר, נגלה לי לאיטו, </l>
+          <l>את מנחשת מה עולה בדעתי. </l>
+          <l>יופייך, אמר, נגלה לי לאיטו, </l>
+          <l>וכבר הערב מסתיימת חופשתי, </l>
+          <l>וכבר הערב מסתיימת חופשתי. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שלדג נחרד ונעלם אי שם, </l>
+          <l>במעיל החיילים החביאה את ראשה. </l>
+          <l>על קו האופק הצטיירו ספינות בים, </l>
+          <l>כמו בתמונה שהתיישנה ונתלשה. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יופייך, אמר, נגלה לי לאיטו... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואחר כך פרעה את תלתליו, </l>
+          <l>וכף ידו היתה חמה ואנושית, </l>
+          <l>בדרך חזרה נשא את נעליו, </l>
+          <l>עד שהגיעו אל הדרך הראשית. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יופייך, אמר, נגלה לי לאיטו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

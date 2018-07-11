@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זיו האורות</title>
+        <singer classification="unknown">אילן דמרי</singer>
+        <writer>הוד דיין</writer>
+        <composer>אילן דמרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זיו האורות</head>
+        <lg number="1" type="stanza">
+          <l>ותחזינה עינינו בשובך לציון </l>
+          <l>ברחמים תשכון בתוך עירך </l>
+          <l>מייחלים אליה, פונים לאל עליון </l>
+          <l>ירושלים בלבנו פנימה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשמרגישים איך מבפנים הזיכרון מעיר </l>
+          <l>נר בוער מטהר פנימה </l>
+          <l>זיו האורות המשיבים ביחד מאירים </l>
+          <l>עוד נזכה בשוב השכינה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אתה תקום תרחם ציון </l>
+          <l>אתה תקום תרחם ציון </l>
+          <l>כי עת לחננה כי בא מועד </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שים שלום ואהבה בעמך </l>
+          <l>ונזכה כולם לגאולה שלמה </l>
+          <l>ותחזינה עינינו בשובך לציון </l>
+          <l>ירושלים בלבנו פנימה </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשמרגישים איך מבפנים הזכרון מעיר </l>
+          <l>נר בוער מטהר פנימה </l>
+          <l>זיו האורות המשיבים ביחד מאירים </l>
+          <l>עוד נזכה בשוב השכינה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אתה תקום תרחם ציון </l>
+          <l>אתה תקום תרחם ציון </l>
+          <l>כי עת לחננה כי בא מועד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

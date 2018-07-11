@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החיים 8</title>
+        <singer classification="unknown">אלברט מרציאנו</singer>
+        <writer>יוני רועה</writer>
+        <composer>אלברט מרציאנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החיים</head>
+        <lg number="1" type="stanza">
+          <l>ואם יגעת ויומך נראה אחרת</l>
+          <l>תודה בקול על מה שיש עוד בחיים</l>
+          <l>תראה האור יזרח ושוב תרגיש בדרך</l>
+          <l>שבצידה זרועים השושנים</l>
+          <l>אל תצטער כי אפשר עוד אחרת</l>
+          <l>וזה דרכו של דרך העולם</l>
+          <l>אם תצטער אתה תיפול ברשת</l>
+          <l>כי אין אחד שאצלו הכול קיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>החיים, החיים</l>
+          <l>הם שביל קצר רצוף בפיתולים</l>
+          <l>החיים, החיים</l>
+          <l>אל המחר חייך ואז תבין</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הכל עובר ואין בזמן מקום לעצב</l>
+          <l>תמיד חייך לטוב ושמח באהבה</l>
+          <l>האושר כאן ורק תפתח לו את הדלת</l>
+          <l>והוא יביא איתו שלווה ונחמה</l>
+          <l>אל תוותר כי אין חדש המשך בדרך</l>
+          <l>ומה שלא הגשמת ישוב ואל תדאג</l>
+          <l>כי החיים הם שאלה שלא נפתרת</l>
+          <l>אם תבין תעריך את הקיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>החיים, החיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

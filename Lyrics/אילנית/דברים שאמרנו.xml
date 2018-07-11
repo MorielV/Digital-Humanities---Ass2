@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דברים שאמרנו</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>גלעד בן שך</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דברים שאמרנו</head>
+        <lg number="1" type="stanza">
+          <l>דברים שאמרנו בקול בלי מילה </l>
+          <l>דברים שרצינו חידות </l>
+          <l>דברים שחשבנו בין שיר לתפילה </l>
+          <l>מלאו את ימינו סודות </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>דברים שאמרנו בין דף לעמוד </l>
+          <l>דברים שרצינו אגב </l>
+          <l>דברים שחשבנו ברגע אבוד </l>
+          <l>הולכים וחוזרים אך לשוא </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>דברים שאמרנו אתה ואני </l>
+          <l>דברים שאמרנו אחד לשני </l>
+          <l>דברים שאמרנו יחדיו ולחוד </l>
+          <l>היו והלכו לאיבוד </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>דברים שאמרנו בין ארבע לשש </l>
+          <l>דברים שרצינו בצחוק </l>
+          <l>דברים שחשבנו מבלי לבקש </l>
+          <l>נראים שוב כמו אופק רחוק </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>דברים שאמרנו אתה ואני... </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>דברים שאמרנו בין חושך לאור </l>
+          <l>דברים שרצינו כך סתם </l>
+          <l>דברים שחשבנו אדום ואפור </l>
+          <l>עזבו והשקט איתם </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>דברים שאמרנו אתה ואני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני אוהב 12</title>
+        <singer classification="unknown">אורי מזרחי</singer>
+        <writer>אורי מזרחי</writer>
+        <composer>אורי מזרחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני אוהב</head>
+        <lg number="1" type="stanza">
+          <l>הוא כזה מכרסם, מתחזק מתגבר</l>
+          <l>עד שאין עוד שליטה ברגש העובר</l>
+          <l>היא כבר במיטה, מכוסה וכולה</l>
+          <l>בעניין של שינה עמוקה עמוקה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני אוהב, מי אמר שלאהוב זה לכאוב</l>
+          <l>אני אוהב, מי אמר שלאהוב זה לא טוב</l>
+          <l>אני אוהב, מי אמר שלאהוב זה לכאוב</l>
+          <l>אני אוהב, אני אוהב לאהוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואני כאן יושב, מתנשם כה עמוק</l>
+          <l>שומע אנחות גניחותיה קלות</l>
+          <l>מאזין וחושב, זה מין רגש כזה</l>
+          <l>שצף ועולה וצובט בחזה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני אוהב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אחר-צהריים ארוך וערב קצר</l>
+          <l>מונית לחיפה והיום כבר עצר</l>
+          <l>נשיקה אחרונה וחיבוק מין חזק</l>
+          <l>היא כבר נסעה, גם המשקה לא עזר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני אוהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

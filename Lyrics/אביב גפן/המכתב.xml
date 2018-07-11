@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המכתב</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המכתב</head>
+        <lg number="1" type="stanza">
+          <l>כשתתעוררי לא תראי אותי</l>
+          <l>אני עובר תקופה קשה</l>
+          <l>שרק תכביד עלייך</l>
+          <l>משהו בי קורא לצאת ולחפש</l>
+          <l>מרוב כל השקרים שכחתי מי אני</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לראות הרבה נופים קסומים</l>
+          <l>שוב לטייל להיזרק</l>
+          <l>בלי לפחד ממה שאת תגידי</l>
+          <l>להיפרד להתאבד להתמסטל להשתכר</l>
+          <l>בלי לפחד ממה שתעשי לי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד ועוד ועוד ועוד ועוד</l>
+          <l>אף פעם אל תפסיק לחלום</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשתתעוררי לא תראי אותי</l>
+          <l>אני קוטף עכשיו את הפרחים האסורים</l>
+          <l>משהו בי קורא לצאת ולחפש</l>
+          <l>מרוב כל השקרים שכחתי מי אני</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לראות הרבה נופים קסומים</l>
+          <l>שוב לטייל להיזרק</l>
+          <l>בלי לפחד ממה שאת תגידי</l>
+          <l>להיפרד להתאבד להתמסטל להשתכר</l>
+          <l>בלי לפחד ממה שתעשי לי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עוד ועוד ועוד ועוד ועוד</l>
+          <l>אף פעם אל תפסיק לא תפסיק לחלום</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כשתתעוררי לא תראי אותי</l>
+          <l>באמת שמצטער על המכתב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

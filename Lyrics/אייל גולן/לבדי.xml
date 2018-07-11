@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לבדי</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>אייל גולן</composer>
+        <album>נגעת לי בלב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לבדי</head>
+        <lg number="1" type="stanza">
+          <l>עברתי דרך החיים </l>
+          <l>אמא גם אני אורח </l>
+          <l>פצעוני חברים</l>
+          <l>לכולם אני סולח </l>
+          <l>לילות שימחתי אנשים </l>
+          <l>את העצב לי שמרתי </l>
+          <l>על הרגעים הכי קשים </l>
+          <l>מעולם לך לא סיפרתי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שם הייתי לבדי </l>
+          <l>הנשמה קראה לך אמא </l>
+          <l>דמעות נפלו אל סוד הלילה </l>
+          <l>רק אלוהים שמר עליי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נדמה חיי היו קלים </l>
+          <l>לא כל הנוצץ זהב </l>
+          <l>וידעתי גוזלים </l>
+          <l>עד אחרון ימיי אותם אוהב </l>
+          <l>בעיני כולם אני זוהר </l>
+          <l>אך מאחוריי הדלת </l>
+          <l>הלבד גם הוא חבר שבוכה איתי כמו ילד </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שם הייתי לבדי </l>
+          <l>הנשמה קראה לך אמא </l>
+          <l>דמעות נפלו אל סוד הלילה </l>
+          <l>רק אלוהים שמר עליי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

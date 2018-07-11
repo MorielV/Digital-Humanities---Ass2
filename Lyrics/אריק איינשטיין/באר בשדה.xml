@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>באר בשדה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>עמנואל זמיר</writer>
+        <composer>עמנואל זמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>באר בשדה</head>
+        <lg number="1" type="stanza">
+          <l>באר בשדה חפרוה רועים</l>
+          <l>ועדרי זרים יעטרוה.</l>
+          <l>נדדו, הלכו בעקבי הרים</l>
+          <l>רועים אשר כרוה.</l>
+          <l>אה, אה, אה! נאות מדבר...</l>
+          <l>אבלו דרכי הצאן.</l>
+          <l>עלה גם טלה מי יחון?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עלי באר חפרוה רועים</l>
+          <l>עדרי זרים יצמאו:</l>
+          <l>"עלי באר! באר עלי!"</l>
+          <l>תענה: "מימי נכלאו!"</l>
+          <l>הה הה הה! אל המדבר</l>
+          <l>נהגו זרים הצאן...</l>
+          <l>באר בשדה מי יחון?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>באר בשדה חפרוה רועים</l>
+          <l>מהרים עדרים ישובו.</l>
+          <l>חלשו עלות, פועים טלאים -</l>
+          <l>תפעם באר: "הי שבו!"</l>
+          <l>הי הי! הלאה מדבר!</l>
+          <l>שתו, רוו הצאן! </l>
+          <l>חליל גם שדה רנו רון!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

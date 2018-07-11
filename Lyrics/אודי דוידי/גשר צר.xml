@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גשר צר</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>רוחות טובות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גשר צר</head>
+        <lg number="1" type="stanza">
+          <l>כל כך בודד התחיל ללכת </l>
+          <l>והזמן עמד מלכת </l>
+          <l>קול עליון אמר לו קום </l>
+          <l>רק בשבילך כל היקום </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשהוא הרגיש נפחד </l>
+          <l>אלוקים נתן לו יד </l>
+          <l>ובחושך מסביבו </l>
+          <l>הוא האיר לו את דרכו </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז בוא נחזיק חזק </l>
+          <l>שלא ניפול </l>
+          <l>כי העולם הזה </l>
+          <l>הוא גשר צר מאוד </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יום אחד הקול רעם </l>
+          <l>מעכשיו תהיה לעם </l>
+          <l>עם בודד ומיוחד </l>
+          <l>עם נצחי ומאוחד </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>העולם הוא גשר צר </l>
+          <l>גם אם לא נראה מואר </l>
+          <l>תמשיך לצעוד ואל תפחד </l>
+          <l>כי תמיד אתה אחד </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז בוא נחזיק חזק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

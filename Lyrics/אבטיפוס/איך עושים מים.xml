@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך עושים מים</title>
+        <singer classification="band">אבטיפוס</singer>
+        <writer>אמיר בן דוד</writer>
+        <composer>אמיר בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך עושים מים</head>
+        <lg number="1" type="stanza">
+          <l>תוך מאבק מתמיד בין תחושת עליונות לרגשי נחיתות</l>
+          <l>אני מנווט קדימה אבל חוזר לאחור</l>
+          <l>במחול מהוסס של התקפי נדיבות וקטנוניות</l>
+          <l>אני זורם פנימה אבל שוכח לחזור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שונא את הגחל שמתחיל לבעור בבטן כשנפתחות לי העיניים</l>
+          <l>חושב שכדי לכבות אותו בעצם</l>
+          <l>אני מוכרח לגלות לבד איך עושים מים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תוך מסע מטריד בין תחושת אחריות לפורקן כל עול</l>
+          <l>אני מוותר בקלות אבל רוצה את הכל</l>
+          <l>במחזוריות של הבזקי התחכמות ושל כנות</l>
+          <l>אני מביט מערבה אבל נשאר באותו מקום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שונא את הגחל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

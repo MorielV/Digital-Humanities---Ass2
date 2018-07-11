@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איפה את</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>שלומי חן</writer>
+        <composer>קריסטודולוס סיגנוס</composer>
+        <album>דרך לחיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איפה את</head>
+        <lg number="1" type="stanza">
+          <l>חשבתי שאצלך הכל היה מושלם, </l>
+          <l>מסרת לי את ליבך, הכל היה מוכן, </l>
+          <l>שוב אותו מסך נעלם, הפחד מתגבר </l>
+          <l>אם לא אראה אותך שוב, אשבר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איפה את? כל היום אני חושב עלייך </l>
+          <l>איפה את? מדמיין שאת איתי עדיין כל הזמן</l>
+          <l>אני חושב שיש בך משהו שאין באף אחת אחרת</l>
+          <l>איפה את? כל היום אני חושב עלייך </l>
+          <l>איפה את? מדמיין את חום שפתייך</l>
+          <l>לכולם אני אומר שיש בך משהו מיוחד. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גשום עכשיו בחוץ, יש רוח סערה, </l>
+          <l>רוצה רק לחבק, זה מה שאת צריכה. </l>
+          <l>רק אלייך שוב מבקש, אז תנסי לראות </l>
+          <l>שלעולם אותך לא אעזוב. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איפה את...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

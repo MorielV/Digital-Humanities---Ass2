@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמריקה</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמריקה</head>
+        <lg number="1" type="stanza">
+          <l>אנשים נוסעים לאמריקה</l>
+          <l>כשיש אמריקה בכל מקום</l>
+          <l>יש משהו טוב בארץ רחוקה</l>
+          <l>ולפעמים זה רק חלום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואת</l>
+          <l>למה לא תפני לכאן מבט</l>
+          <l>כמה שנים אפשר לחלום על אמריקה</l>
+          <l>הו אמריקה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החיים הם לא אמריקה</l>
+          <l>ואמריקה היא עוד מקום</l>
+          <l>הכל בראש של הבן אדם</l>
+          <l>אם רק תרצי גם פה חלום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואת</l>
+          <l>למה לא תפני לכאן מבט</l>
+          <l>כמה שנים אפשר לחלום על אמריקה</l>
+          <l>הו אמריקה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואת</l>
+          <l>למה לא נחיה עם המעט</l>
+          <l>זה לא כל כך שונה באמריקה</l>
+          <l>הו אמריקה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

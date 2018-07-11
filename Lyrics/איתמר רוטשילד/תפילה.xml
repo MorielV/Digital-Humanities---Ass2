@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תפילה 10</title>
+        <singer classification="unknown">איתמר רוטשילד</singer>
+        <writer>בצלאל אלוני</writer>
+        <composer>אקורדים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תפילה</head>
+        <lg number="1" type="stanza">
+          <l>הוא היושב לו אי שם במרומים</l>
+          <l>הוא הרופא כל חולים</l>
+          <l>הוא הנותן רוב שמחה לילדים</l>
+          <l>הוא העושה משפטים</l>
+          <l>הוא בשמיים והוא היחיד</l>
+          <l>הוא הגדול הנורא</l>
+          <l>הוא השומר עלינו מצרה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלוה, שמור נא עלינו כמו ילדים</l>
+          <l>שמור נא ואל תעזוב</l>
+          <l>תן לנו אור ושמחת נעורים</l>
+          <l>תן לנו כוח עוד ועוד</l>
+          <l>שמור נא עלינו כמו ילדים </l>
+          <l>שמור נא ואל תעזוב </l>
+          <l>תן לנו אור ושמחת נעורים </l>
+          <l>תן לנו גם לאהוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה כבר נותר לנו עוד בימים</l>
+          <l>מה כבר נותר כל היום</l>
+          <l>שמש תקווה והמון מבטים</l>
+          <l>לילה ויום של חלום</l>
+          <l>הוא בשמיים והוא היחיד</l>
+          <l>הוא הגדול הנורא</l>
+          <l>הוא השומר עלינו מצרה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלוה, שמור נא עלינו כמו ילדים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

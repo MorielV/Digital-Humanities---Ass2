@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נח נח</title>
+        <singer classification="male singer">אבנר שטראוס</singer>
+        <writer>אבנר שטראוס</writer>
+        <composer>אבנר שטראוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נח נח</head>
+        <lg number="1" type="stanza">
+          <l>ארבעים יום יהיה מבול</l>
+          <l>ואתך כולם מהפיל עד השבלול</l>
+          <l>ארבעים יום תאכלו רק לחם ולפת</l>
+          <l>אשתך ואתה ושם חם ויפת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נח נח בנה לו תיבה</l>
+          <l>בנה אותה בהמון אהבה</l>
+          <l>הוא ובניו הלכו אחר האל</l>
+          <l>אם לא נח לא היה לנו גואל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החמור העיקש, האריה והקוף</l>
+          <l>אשתו האתון והזבוב והדב</l>
+          <l>נשר, עורב, זברה וצב</l>
+          <l>חסידה וזאב, עז וארנב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נח נח בנה לו תיבה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>סך הכל זה סיפור פשוט</l>
+          <l>שבעה חודשים בתיבה תשוט</l>
+          <l>לך ולחיות תהיה בית</l>
+          <l>בסוף תבוא יונה עם עלה של זית</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אחרי אשר כלו המים</l>
+          <l>יתן אלוהים את קשתו בשמיים</l>
+          <l>אות ברית בינו ובין כל בשר</l>
+          <l>הייתי עצוב עכשיו אני שר</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>נח נח בנה לו תיבה...</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>החיות זו עם זו למדו לחיות ביחד</l>
+          <l>כולן בתיבה אז גרו ביחד</l>
+          <l>אחת לשניה וזו לזו הן אמרו</l>
+          <l>איך על נח עד סוף הדורות ידברו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

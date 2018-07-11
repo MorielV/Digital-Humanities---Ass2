@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בזכותך 2</title>
+        <singer classification="unknown">אביחי מליחי</singer>
+        <writer>יצחק יצחקי</writer>
+        <composer>אביחי מליחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בזכותך</head>
+        <lg number="1" type="stanza">
+          <l>את אמיתית ולשקר את לא יודעת</l>
+          <l>וכל מילה בנשמה שלי נוגעת</l>
+          <l>והתמימות שבך שובה את הלבבות</l>
+          <l>והחיוך שלך מבעיר בי להבות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את העולם הזה קניתי בזכותך</l>
+          <l>וכמו אדם - חווה יחד נתהלך</l>
+          <l>אך בגללך ובזכותך</l>
+          <l>כן בזכותך</l>
+          <l>אלוקים אותי ברך - אותי ברך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את כה שקופה</l>
+          <l>ולא טובה במשחקים איתי</l>
+          <l>סוד השתיקה</l>
+          <l>שאת שומרת מרקיעה שחקים</l>
+          <l>אהבתך זכה תמה</l>
+          <l>את כמו מלאך</l>
+          <l>הן בחיי אני נשבע לך שאיתך...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את העולם הזה קניתי בזכותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד סוף הקיץ</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד סוף הקיץ</head>
+        <lg number="1" type="stanza">
+          <l>ניסיתי להדביק את צעדיה,</l>
+          <l>כתפה שוב בכתפי כמעט נוגעת.</l>
+          <l>חיכיתי לעיניה,</l>
+          <l>חיכיתי לעיניה,</l>
+          <l>מה עוד יכולתי לבקש</l>
+          <l>באמצע הרחוב?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עד סוף הקיץ</l>
+          <l>אדע את התשובה,</l>
+          <l>את פשר הקולות אלמד,</l>
+          <l>את כל החלומות,</l>
+          <l>אפתור את הפחדים</l>
+          <l>בסוף הקיץ שוב אשב בין ידידים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני רוצה פתאום לחזור הביתה</l>
+          <l>אבל צילה שוב בצילי כמעט נוגע.</l>
+          <l>הנה אנחנו שניים,</l>
+          <l>שלובי צילי ידיים,</l>
+          <l>מה עוד יכולתי לבקש</l>
+          <l>באמצע הרחוב?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עד סוף הקיץ...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נדמה לי שראיתי את עיניה</l>
+          <l>נחות עלי בדרך מול השמש</l>
+          <l>באור בין הערבים</l>
+          <l>היה לי רגע בית</l>
+          <l>מה עוד יכולתי לבקש</l>
+          <l>באמצע הרחוב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עד סוף הקיץ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

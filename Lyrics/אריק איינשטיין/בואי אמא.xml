@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי אמא</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>לאה נאור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי אמא</head>
+        <lg number="1" type="stanza">
+          <l>כל האור מזמן הלך לו,</l>
+          <l>אל תלכי פתאום גם את.</l>
+          <l>בואי אמא, בואי אמא,</l>
+          <l>בואי שבי איתי מעט.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בעצים מכה הרוח,</l>
+          <l>וידייך כה חמות.</l>
+          <l>אל תלכי, ספרי לי אמא</l>
+          <l>איך באים החלומות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם פתאום מלאך יופיע,</l>
+          <l>אל חדרי יבוא בלאט,</l>
+          <l>בואי אמא, בואי אמא,</l>
+          <l>ותיראי אותו גם את.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא, איני פוחד בחושך,</l>
+          <l>ואיני רועד בכלל.</l>
+          <l>בואי אמא, בואי אמא,</l>
+          <l>שבי איתי עד שאגדל.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

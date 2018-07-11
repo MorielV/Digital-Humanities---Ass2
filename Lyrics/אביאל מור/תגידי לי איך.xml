@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תגידי לי איך</title>
+        <singer classification="unknown">אביאל מור</singer>
+        <writer>אביאל מור</writer>
+        <composer>אביאל מור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תגידי לי איך</head>
+        <lg number="1" type="stanza">
+          <l>חיפשתי אותך זה כבר שנים</l>
+          <l>עברתי יבשות חציתי גם ימים</l>
+          <l>מרגיש עכשיו שאת פה לידי </l>
+          <l>אך לא יודע אם תישארי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז אולי תגידי לי איך </l>
+          <l>אכבוש את ליבך </l>
+          <l>תגידי לי איך</l>
+          <l>אכבוש את ליבך</l>
+          <l>ביום ובלילה רוצה רק אותך</l>
+          <l>הלב שייך רק לך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הכל עשיתי למענך </l>
+          <l>מה ביקשתי להיות לצידך</l>
+          <l>את האחת שמשלימה אותי </l>
+          <l>תני לי הזדמנות, אל תוותרי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז אולי תגידי לי איך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

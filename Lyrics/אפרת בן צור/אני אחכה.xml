@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני אחכה</title>
+        <singer classification="female singer">אפרת בן צור</singer>
+        <writer>אפרת בן צור</writer>
+        <composer>אפרת בן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני אחכה</head>
+        <lg number="1" type="stanza">
+          <l>(זה לא יהיה יותר בכלל</l>
+          <l>זה לא יהיה יותר בכלל)</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני אחכה</l>
+          <l>עד שהאהבה הזאת תיפול ותעלם</l>
+          <l>אני לא אחלום יותר, אני לא</l>
+          <l>אני אחכה</l>
+          <l>עד שהאהבה הזאת תנשור ותעלם</l>
+          <l>אני לא אלחם יותר, אני לא</l>
+          <l>אני אחכה</l>
+          <l>אני אפול ואקום</l>
+          <l>אני אשקע ואקום</l>
+          <l>אני אבכה ואצחק</l>
+          <l>אני אבכה ואצרח</l>
+          <l>עד שהאהבה הזאת תתפזר ותעלם</l>
+          <l>עד שלא תהיה יותר</l>
+          <l>עד שלא תהיה יותר</l>
+          <l>עד שלא תהיה יותר לא תהיה יותר בכלל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

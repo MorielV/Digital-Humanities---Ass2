@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שפל בחופים</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>אילן וירצברג</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שפל בחופים</head>
+        <lg number="1" type="stanza">
+          <l>שפל בחופים</l>
+          <l>שבר בדרכים</l>
+          <l>ילדים מסתתרים בוכים</l>
+          <l>ילדים קטנים נבהלים שותקים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רעד בשחקים</l>
+          <l>פתח לפחדים</l>
+          <l>ילדים מסתתרים בוכים</l>
+          <l>ילדים קטנים נבהלים שותקים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הם שותקים הם לא אומרים דבר</l>
+          <l>אנחנו מנסים להסתיר את האימה שעל פנינו</l>
+          <l>את כל הארמונות שאנו הורסים</l>
+          <l>נושאים את האשמה על כתפינו</l>
+          <l>הם זוכרים לא שוכחים דבר</l>
+          <l>אנחנו מבקשים להסתיר את הדמעה שבעניינו</l>
+          <l>את כל האוצרות שאנו זורקים</l>
+          <l>שבים ומניחים לפנינו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רעם בלילות</l>
+          <l>מתח בחוצות</l>
+          <l>ילדים מסתתרים בוכים</l>
+          <l>ילדים קטנים נבהלים שותקים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הם שותקים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

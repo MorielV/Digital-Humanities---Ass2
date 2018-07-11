@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מקום אחר 2</title>
+        <singer classification="unknown">אריה פרננד</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>אריה פרננד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מקום אחר</head>
+        <lg number="1" type="stanza">
+          <l>הולך ברחוב לא שולט בעצמי</l>
+          <l>אבל רואה אותך תמיד מול העיניים</l>
+          <l>אולי לא מבין מי נגד מי</l>
+          <l>מצייר אותך מול תכלת השמיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואת הולכת למקום אחר</l>
+          <l>תופסת איזה מיליונר</l>
+          <l>משאירה אותי לבד בחדר</l>
+          <l>אני חושב עלייך כל הזמן</l>
+          <l>רוצה אותך בכל מובן</l>
+          <l>אל תגידי לי שאת בסדר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את כל הימים שעשית לי קסמים</l>
+          <l>אני ספרתי לך כמו טיפות המים</l>
+          <l>ואיך לפעמים אנשים משתנים</l>
+          <l>המזל לא ישחק לך פעמיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואת הולכת למקום אחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

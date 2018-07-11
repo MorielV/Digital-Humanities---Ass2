@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זר פרחים</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>דודו ברק</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זר פרחים</head>
+        <lg number="1" type="stanza">
+          <l>זר פרחים שלחתי לך,</l>
+          <l>שושנה, נרקיס וציפורן.</l>
+          <l>להגיד: "אוהב אותך".</l>
+          <l>זה מביך ועושה בי צמרמורת.</l>
+          <l>אל תאמרי דבריך בקול,</l>
+          <l>שתיקתך אומרת לי הכל.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וכשרק מדברות העיניים.</l>
+          <l>וכשרק מחייכות השפתיים.</l>
+          <l>באוויר עולה לפתע עננה,</l>
+          <l>של תשוקה חדשה, רעננה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את פרח הגינה.</l>
+          <l>יפה משושנה.</l>
+          <l>זר פרחים יפה, נהדר.</l>
+          <l>לא צריך יותר דבר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זר פרחים שלחתי לך.</l>
+          <l>וליבי הומה כמפוח.</l>
+          <l>את חיי קשרתי בך.</l>
+          <l>וכמו חץ אלייך שלוח.</l>
+          <l>זר פרחים יפה, נהדר.</l>
+          <l>לא צריך יותר דבר.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אך הכל רק אולי ובינתיים.</l>
+          <l>ועדים מעלי השמיים,</l>
+          <l>שהייתי מוותר כאן על הכול.</l>
+          <l>וקוטף לי אותך לזר גדול.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את פרח הגינה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גרה לבד</title>
+        <singer classification="unknown">אורי צדוק</singer>
+        <writer>אורי צדוק</writer>
+        <composer>אורי צדוק</composer>
+        <album>גבוה מכאן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גרה לבד</head>
+        <lg number="1" type="stanza">
+          <l>גרה לבד </l>
+          <l>אין לה שום עניין יותר באף אחד </l>
+          <l>לא רוצה לשמוע </l>
+          <l>על אהבה</l>
+          <l>היא נזכרת ושוב פעם היא בוכה </l>
+          <l>איך היא חיכתה לו כל השנים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תבכי </l>
+          <l>יש לך על הרבה לשמוח </l>
+          <l>המעגל הזה יביא לך כוח</l>
+          <l>כל החיים חיכית לאחד והוא לא בא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גרה לבד אין לה שום עניין יותר באף אחד </l>
+          <l>לא רוצה לשמוע </l>
+          <l>על אהבה </l>
+          <l>משקרת ממציאה עוד סיפורים</l>
+          <l>איך הם חיכו לה המחזרים </l>
+          <l>והיא לא רצתה בם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תבכי </l>
+          <l>יש לך על הרבה לשמוח </l>
+          <l>המעגל הזה יביא לך כוח</l>
+          <l>כל החיים חיכית לאחד והוא לא בא</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>דפיקה בדלת</l>
+          <l>מי זה שם ישר נבהלת ובוכה</l>
+          <l>זהו קולו של אהובה</l>
+          <l>זהו קולו של אהובה</l>
+          <l>הנה הוא בא</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אל תבכי </l>
+          <l>יש לך על הרבה לשמוח </l>
+          <l>אני אהיה איתך אתן לך כוח</l>
+          <l>כל החיים חיכית לאחד ואני בא</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אל תבכי </l>
+          <l>יש לך על הרבה לשמוח</l>
+          <l>המעגל הזה יביא לך כוח</l>
+          <l>כל החיים חיכית לאחד ואני בא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

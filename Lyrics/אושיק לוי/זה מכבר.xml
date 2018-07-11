@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה מכבר 2</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה מכבר</head>
+        <lg number="1" type="stanza">
+          <l>זה מכבר אין איש מחכה לי שם.</l>
+          <l>ואם אין ים, הרי אין גם ספינה.</l>
+          <l>הדרך קצרה. החוג צומצם.</l>
+          <l>ובכן מה?</l>
+          <l>עוד שבוע, עוד חודש, עוד שנה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אחרי מותי עוד יהיה משהו בעולם.</l>
+          <l>מישהו יאהב מישהו. מישהו ישנא.</l>
+          <l>הדרך קצרה. החשבון לא הושלם.</l>
+          <l>ובכן מה?</l>
+          <l>עוד שבוע, עוד חודש, עוד שנה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הטל נופל, ערב צונן על פני.</l>
+          <l>על פרשת הדרכים הקרובה אותה תחנה.</l>
+          <l>מחר אני אתעורר ואפקח את עיני -</l>
+          <l>אלוהים אדירים.</l>
+          <l>עוד שבוע, עוד חודש, עוד שנה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

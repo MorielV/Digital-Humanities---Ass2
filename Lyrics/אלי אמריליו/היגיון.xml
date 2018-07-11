@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היגיון</title>
+        <singer classification="unknown">אלי אמריליו</singer>
+        <writer>מאיה מרלוב</writer>
+        <composer>אלי אמריליו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היגיון</head>
+        <lg number="1" type="stanza">
+          <l>נמצא עדיין בתוך רגעי ביניים</l>
+          <l>אין מקום להתחבא פה, </l>
+          <l>להסתיר את מה שזז בשוליים,</l>
+          <l>להמנע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ונהיה מעורפל רק רציתי לרוץ וליפול</l>
+          <l>להימשך קדימה כדי ליסוג</l>
+          <l>מחפש תקווה בשיגעון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נשלח המסר בתוך משפט ללא סדר</l>
+          <l>סימן מהיר מתפרץ פה</l>
+          <l>מנוטרל ממשמעות חותכת</l>
+          <l>להיכנע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ונהיה מעורפל רק רציתי לרוץ וליפול</l>
+          <l>להימשך קדימה כדי ליסוג</l>
+          <l>מחפש תקווה בשיגעון</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוד עומד בינתיים</l>
+          <l>בין שתיקה לצקצוקי שפתיים</l>
+          <l>ההגיון</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

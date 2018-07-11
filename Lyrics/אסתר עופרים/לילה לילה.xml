@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה לילה 3</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>נתן אלתרמן</writer>
+        <composer>מרדכי זעירא</composer>
+        <album>אסתר עופרים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה לילה</head>
+        <lg number="1" type="stanza">
+          <l>לילה לילה הרוח נושבת</l>
+          <l>לילה לילה הומה הצמרת</l>
+          <l>לילה לילה כוכב מזמר</l>
+          <l>נומי נומי כבי את הנר</l>
+          <l>נומי נומי כבי את הנר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לילה לילה</l>
+          <l>נומי נומי כבי את הנר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לילה לילה עצמי את עינייך,</l>
+          <l>לילה לילה בדרך אלייך</l>
+          <l>לילה לילה רכבו חמושים</l>
+          <l>נומי נומי שלושה פרשים</l>
+          <l>נומי נומי שלושה פרשים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לילה....</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לילה לילה אחד היה טרף</l>
+          <l>לילה לילה שני מת בחרב</l>
+          <l>לילה לילה וזה שנותר</l>
+          <l>נומי נומי את שמך לא זכר</l>
+          <l>נומי נומי את שמך לא זכר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לילה....</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>לילה לילה  הרוח גוברת</l>
+          <l>לילה לילה הומה הצמרת</l>
+          <l>לילה לילה רק את מחכה</l>
+          <l>נומי נומי הדרך ריקה</l>
+          <l>נומי נומי הדרך ריקה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

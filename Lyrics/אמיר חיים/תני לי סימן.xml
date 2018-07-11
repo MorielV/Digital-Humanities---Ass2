@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תני לי סימן</title>
+        <singer classification="unknown">אמיר חיים</singer>
+        <writer>אמיר חיים</writer>
+        <composer>אמיר חיים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תני לי סימן</head>
+        <lg number="1" type="stanza">
+          <l>בכל יום עובר מול פתח ביתך</l>
+          <l>את שואלת מה שלומי ואיך הולך</l>
+          <l>מדברים פתוח אבל עמוק רוצה לומר</l>
+          <l>שאני אוהב אותך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כך עוד יום עובר ואת יפה יותר</l>
+          <l>מספרת על גברים ואיך עברת משבר</l>
+          <l>מחפש תשובות לכל הבעיות שלך</l>
+          <l>כי אני אוהב אותך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תני לי סימן ונוכל להביט גבוה</l>
+          <l>תני לי סימן ואבנה את המחר</l>
+          <l>בואי נשב על ספסל בגן למטה</l>
+          <l>ונאהב לנצח כמו שאני אוהב עכשיו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בכל יום עובר מול פתח ביתך</l>
+          <l>את יודעת מה שלומי ואיך הולך</l>
+          <l>מדברים פתוח כשאת בוכה אני נסגר</l>
+          <l>כי אני אוהב אותך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תני לי סימן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הו נתניה שלי</title>
+        <singer classification="unknown">א ב דן</singer>
+        <writer>א. ב. דן</writer>
+        <composer>א. ב. דן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הו נתניה שלי</head>
+        <lg number="1" type="stanza">
+          <l>האוטובוס ממריא</l>
+          <l>ואותי לוקח</l>
+          <l>האוטובוס ממריא</l>
+          <l>ואותי לא שוכח</l>
+          <l>אני לא ממריא </l>
+          <l>וגם לוקח</l>
+          <l>כמה עולה הנסיעה הזו?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הו נתניה</l>
+          <l>נתניה שלי</l>
+          <l>הו נתניה</l>
+          <l>נתניה שלי</l>
+          <l>הו נתניה </l>
+          <l>נתניה שלי</l>
+          <l>הו נתניה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איש לא מחכה לי</l>
+          <l>שם בתחנה</l>
+          <l>איש לא מחכה לי</l>
+          <l>אומר לי נה נה נה</l>
+          <l>ואיש אחד שכן מחכה לי</l>
+          <l>אומר לי מה שלומי, איש אחד כמה זה עולה?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הו נתניה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>העשן נמוג</l>
+          <l>ובפניי הוא מתפוגג</l>
+          <l>אני שמעתי מישהו שאומר</l>
+          <l>'סתכל אני חוגג</l>
+          <l>אני מסתכל ולא רואה</l>
+          <l>אותו חוגג</l>
+          <l>הוא אומר לי: "מה קורה? אתה מודאג?"</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הו נתניה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>גיטרה באוויר</l>
+          <l>איך היא מונחת</l>
+          <l>גיטרה באוויר</l>
+          <l>שומע אותה צורחת</l>
+          <l>ואז לי זה מזכיר</l>
+          <l>גיטרה באוויר</l>
+          <l>כמה זה עולה? כמה?</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>הו נתניה...</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>הו נתניה</l>
+          <l>יש כרטיס חזרה</l>
+          <l>יש כרטיס חזרה</l>
+          <l>אני צריך כרטיס חזרה</l>
+          <l>יש לי כרטיס חזרה</l>
+          <l>כולם שואלים אותי</l>
+          <l>אני לא זוכר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

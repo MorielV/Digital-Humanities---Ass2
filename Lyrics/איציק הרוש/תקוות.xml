@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תקוות 3</title>
+        <singer classification="male singer">איציק הרוש</singer>
+        <writer>איציק הרוש</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תקוות</head>
+        <lg number="1" type="stanza">
+          <l>ברחובות הלכתי ברחובות </l>
+          <l>מסתכל קדימה בתקוות </l>
+          <l>החיים קשים עם בעיות </l>
+          <l>אילו רק יכולתי לשנות </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אך בלב יש עוד תקווה </l>
+          <l>יש תפילה יש אהבה </l>
+          <l>מנסה לומר הפעם </l>
+          <l>החיים זה לא משחק </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בין בתים סובבתי בין בתים </l>
+          <l>כמו ציפור שעפה לה בגשמים </l>
+          <l>מחפש נתיב למצוא דרכי </l>
+          <l>מחפש לנוח עד יום מותי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אך בלב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר מספר 9</title>
+        <singer classification="male singer">אריק ברמן</singer>
+        <writer>אריק ברמן</writer>
+        <composer>אריק ברמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר מספר 9</head>
+        <lg number="1" type="stanza">
+          <l>יושב לנגן על הזין שלו, </l>
+          <l>השחור והגדול שלו. </l>
+          <l>יושב לנגן על הזין שלו, </l>
+          <l>השחור והלבן שלו. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הרשתי לך להסתכל, </l>
+          <l>ניגשתי אלי לשאול איך הכל פועל. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אבוד בחלל. </l>
+          <l>רוצה לרדוף אתכם אבל </l>
+          <l>פשוט לא מסוגל - אני אבוד בחלל. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את רוצה להתקרב לשפתיים שלו, </l>
+          <l>לנשיקה עברית. </l>
+          <l>רוצה להתקרב ללשון שלו, </l>
+          <l>לנשיקה עברית. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אבל הוא ערום ומלוכלך, </l>
+          <l>והמילות מתמלמלות וממלאות אותך. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אבוד בחלל. </l>
+          <l>רוצה לרדוף אתכם אבל </l>
+          <l>פשוט לא מסוגל - אני אבוד בחלל.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

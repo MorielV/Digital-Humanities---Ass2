@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איפה טעינו 2</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>זאב טנא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איפה טעינו</head>
+        <lg number="1" type="stanza">
+          <l>באנו אלייך עם המון אמונה</l>
+          <l>רצינו ממך לעשות מדינה</l>
+          <l>בנינו לך בתים וסללנו כבישים</l>
+          <l>פתאום נשארנו בלי חברים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היינו בסדר ואהבנו לצחוק</l>
+          <l>כולם אז אמרו שנגיע רחוק</l>
+          <l>אבל אנחנו נשארנו תקועים</l>
+          <l>עם שק של חובות והמון חטאים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז איפה טעינו מה עשינו רע</l>
+          <l>למה אנחנו לא מוצאים תשובה</l>
+          <l>למה אנחנו לא מוצאים תשובה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שחררנו לך כותל וייבשנו ביצות</l>
+          <l>שמרנו עלייך בשעות הקשות</l>
+          <l>נתנו לך הכל, לא ביקשנו תמורה</l>
+          <l>לפתע אנחנו אחים לצרה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תמיד אחרייך באש ובמים</l>
+          <l>חנקנו דמעה וחרקנו שיניים</l>
+          <l>ידענו שעוד שעוד עוד יבואו ימים</l>
+          <l>עכשיו יש כאלה שלא בטוחים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז איפה טעינו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

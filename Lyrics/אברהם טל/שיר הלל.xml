@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הלל</title>
+        <singer classification="male singer">אברהם טל</singer>
+        <writer>אברהם טל</writer>
+        <composer>אברהם טל</composer>
+        <album>אורות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הלל</head>
+        <lg number="1" type="stanza">
+          <l>שיר עולה בי ומתרגש</l>
+          <l>שתי דמויות שרוקדות באש</l>
+          <l>אחוזים בעולם גועש</l>
+          <l>שקט בפנים, מסביב רועש</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עבר זמן רב עד שבאת אלי</l>
+          <l>בדממה חלפו ימי</l>
+          <l>עד שבאת וראיתי בעינייך</l>
+          <l>את הבית שלנו החם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שיר הלל שבוקע בתרועת ניצחון</l>
+          <l>אהבה הוא שופע וצחוק המון</l>
+          <l>אריאל הוא יודע לחבר בין תווי הלב</l>
+          <l>חום ורוך הוא שופע, ממלא את ליבי בכאב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>על ימים ששכחתי, על ימים שלא היכלתי</l>
+          <l>עוצמות של אהבה כזאת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עבר זמן רב ושנינו עדיין כאן</l>
+          <l>בשמחה חולפים ימי</l>
+          <l>עדיין רואה כשמביט בעינייך</l>
+          <l>את הניצוץ, את הלהבה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>שיר כאב שנוגע ממלא את חיי בחום</l>
+          <l>שיר הלל שבוקע מנער את חיי עד תום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

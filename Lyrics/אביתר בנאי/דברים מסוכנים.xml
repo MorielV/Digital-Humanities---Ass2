@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דברים מסוכנים</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>מירון איזקסון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דברים מסוכנים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>בבית גדלים דברים מסוכנים</l>
+          <l>די בנקיון שאינו דייקן וכבר יש כאן מחלה</l>
+          <l>הרבה אפשרויות גרות כל כך קרוב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בבית גדלים אפילו רשעים</l>
+          <l>ומה יעשה במוח רע</l>
+          <l>בבית לא מרשים לשנות</l>
+          <l>העייפות לא מניחה לשינה</l>
+          <l>הכעס לא מרשה להירגע</l>
+          <l>כל הדברים דורשים להישאר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>דברים מסוכנים</l>
+          <l>די בנקיון שאינו דייקן וכבר יש כאן מחלה</l>
+          <l>הרבה אפשרויות גרות כל כך קרוב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בבית גדלים אפילו רשעים</l>
+          <l>ומה יעשה במוח רע</l>
+          <l>בבית לא מרשים לשנות</l>
+          <l>העייפות לא מניחה לשינה</l>
+          <l>הכעס לא מרשה להירגע</l>
+          <l>הטירוף אינו מתיר רפואה</l>
+          <l>מה יעשה במוח רע... רע</l>
+          <l>כל הדברים דורשים להישאר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>דברים מסוכנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

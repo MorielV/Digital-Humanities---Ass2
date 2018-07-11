@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי נשאר</title>
+        <singer classification="unknown">אבי קורן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>מאיר עמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי נשאר</head>
+        <lg number="1" type="stanza">
+          <l>לילה יורד כמו הגשם עלינו</l>
+          <l>בא ושוטף את הרחוב</l>
+          <l>רבע ירח מבטיח לשנינו</l>
+          <l>את כל הזמן לאהוב </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז בואי נשאר עד שהאור יזרח</l>
+          <l>את תאהבי אותי אני אוהב אותך</l>
+          <l>נעוף מתוך חלום לעוד חלום סוער</l>
+          <l>זה לילה מכושף אז בואי נשאר </l>
+          <l>עד אור הבוקר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>העיר את עיניה בשקט עוצמת </l>
+          <l>בין האתמול למחר</l>
+          <l>גם אם הארץ כולה כבר חולמת</l>
+          <l>לנו זה לא מאוחר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז בואי נשאר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

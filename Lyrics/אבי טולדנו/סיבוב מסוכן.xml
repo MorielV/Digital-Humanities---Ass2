@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיבוב מסוכן</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אבי טולדנו</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיבוב מסוכן</head>
+        <lg number="1" type="stanza">
+          <l>רגע אחרי שסגרת עלי עולם</l>
+          <l>כל חיי הפכו פתאום</l>
+          <l>רק מילה אחת קטנה</l>
+          <l>ומאחד שוב בעינייך כמו כולם</l>
+          <l>לא נותר כאן שום דבר</l>
+          <l>לא ממני לא ממך</l>
+          <l>ולא מכל מה שהיה בינינו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סע, סע בזהירות</l>
+          <l>הסיבוב פה מסוכן</l>
+          <l>לך אולי זה לא יקרה</l>
+          <l>כמו לכולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בתוך תוכי נולדו מזמן הרמזים</l>
+          <l>שום דבר כבר לא נצחי</l>
+          <l>הכל הפך להיות זמני</l>
+          <l>אבל פשוט אדם טועה גם לפעמים</l>
+          <l>ולא נותר כאן שום דבר</l>
+          <l>לא ממני לא ממך</l>
+          <l>ולא מכל מה שהיה בינינו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סע, סע בזהירות...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חיוך אחד שכבש את כל המרחקים</l>
+          <l>ההתחלות אולי קשות </l>
+          <l>אבל פחות מהסופים</l>
+          <l>והכוכב אשר נפל שם בדרכים</l>
+          <l>לא הותיר כאן שום סימן</l>
+          <l>לא ממני לא ממך</l>
+          <l>ולא מכל מה שהיה בינינו</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>סע, סע בזהירות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תדאגי ילדונת</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>איתי פרל</writer>
+        <composer>איתי פרל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תדאגי ילדונת</head>
+        <lg number="1" type="stanza">
+          <l>כמו פרצה שקוראת לגנב</l>
+          <l>כמו נוצה שאין לה כנף </l>
+          <l>כמו חייל שאין לו פקודה </l>
+          <l>או מובטל, מחוסר עבודה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמו אלבום שאין בו תמונות </l>
+          <l>כמו עיגול שחולם על פינות </l>
+          <l>כמו ליצן שאין לו בדיחה </l>
+          <l>והוא מתרוצץ על הבמה, חסר מנוחה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תדאגי, ילדונת, אל תדאגי </l>
+          <l>יש משהו באוויר, זה פה קרוב, זה אמיתי </l>
+          <l>את עוד תראי ילדונת, את עוד תראי </l>
+          <l>שכל מה שחסר לך, זה אותי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמו תכסיס שאין בו יאוש </l>
+          <l>או הכיס שחסר בו הגרוש </l>
+          <l>כמו חולצה שאין בה כפתור </l>
+          <l>או בקבוק שחסר לו שיכור </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כמו עציץ שרוצה להיות עץ </l>
+          <l>כמו תינוק שחסר לו מוצץ </l>
+          <l>כמו מלון שאין בו חלון </l>
+          <l>זה נכון, זה חסר הגיון </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אל תדאגי, ילדונת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

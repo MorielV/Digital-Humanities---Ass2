@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד שתעלה</title>
+        <singer classification="unknown">אליה בוסקילה</singer>
+        <writer>אליה בוסקילה</writer>
+        <composer>אליה בוסקילה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד שתעלה</head>
+        <lg number="1" type="stanza">
+          <l>תתיישב קרוב הפעם</l>
+          <l>לא נתעסק באחרים</l>
+          <l>נשתכר עד סוף הטעם</l>
+          <l>אין לי עוד מקום לדיבורים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל תזרוק הכל עלי</l>
+          <l>ותשאיר אותי לנשום</l>
+          <l>אל תרחם יותר מדי</l>
+          <l>או או או או</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עד שתעלה</l>
+          <l>יהיה לי עוד הרבה</l>
+          <l>עוד הרבה</l>
+          <l>יהיה לי עוד הרבה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הדלתות שאז סגרנו</l>
+          <l>כאן, מולי עכשיו כשמאוחר</l>
+          <l>והחדר מסתיים</l>
+          <l>כל הכבישים נראים אותו דבר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

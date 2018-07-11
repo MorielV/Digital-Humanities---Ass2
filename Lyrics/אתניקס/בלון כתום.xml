@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלון כתום</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>בדרך שלך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלון כתום</head>
+        <lg number="1" type="stanza">
+          <l>תמו כל הקרבות עכשיו כיבוי שרפות</l>
+          <l>כי בא היום,</l>
+          <l>לפני המשאלות עכשיו השאלות</l>
+          <l>כולן עד תום.</l>
+          <l>ונוגה הקטנה הלכה לישון</l>
+          <l>בחדר מפוייח הוסט וילון.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ולא נשכח את אלה שהיה להם חלום</l>
+          <l>כי לתמיד ביקשו הם רק ימי שלום</l>
+          <l>ונוגה הקטנה תחייה</l>
+          <l>ויהיה מה שיהיה</l>
+          <l>במקום רובה יקנו לה סתם בלון כתום.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל פרחי הבר פורחים כמו בעבר</l>
+          <l>ימי שלום,</l>
+          <l>החיוך חזר לעם שבכיכר</l>
+          <l>חזר התום,</l>
+          <l>ונוגה הקטנה רואה הכל</l>
+          <l>האם בשביל לחיות צריך לסבול?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ולא נשכח את אלה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

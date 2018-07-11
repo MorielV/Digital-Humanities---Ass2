@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאיה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>שלום חנוך</writer>
+        <composer>שלום חנוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאיה</head>
+        <lg number="1" type="stanza">
+          <l>מאי מאי מאיה</l>
+          <l>מאיה קטנה שלי</l>
+          <l>מה את חושבת</l>
+          <l>מה את אוהבת בי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה היה בי מאיה</l>
+          <l>מה השתנה בי</l>
+          <l>מאיה גלי לי</l>
+          <l>גוזלי שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מאיה מאיה</l>
+          <l>כלום לא נשמע</l>
+          <l>יפה כמו לקרוא לך</l>
+          <l>ילדתי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מאי מאי מאיה</l>
+          <l>הנה את בת עשרים</l>
+          <l>אז מה את חושבת</l>
+          <l>מה עוד אוהבת בי.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מה היה בי מאיה</l>
+          <l>מה השתנה בי</l>
+          <l>מאיה גלי לי</l>
+          <l>מאמימקה שלי.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מאיה מאיה</l>
+          <l>כלום לא היה</l>
+          <l>יפה כמו לקרוא לך</l>
+          <l>מאיה... מאיה</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>מאיה קטנה שלי...</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>מאיה שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

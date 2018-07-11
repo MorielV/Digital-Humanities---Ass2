@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא עוד עגונה</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא עוד עגונה</head>
+        <lg number="1" type="stanza">
+          <l>והתינוק נימול ברוח</l>
+          <l>נועץ שיניו בבשר האב</l>
+          <l>ואת היית האם נשארת כאן בלעדיו</l>
+          <l>שערותייך מחזיקות עולם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בצלחתך פתיתי נשורת</l>
+          <l>ועל הלחם הממרח שמסכן</l>
+          <l>כולם היו בנייך נשארת עוד הגונה</l>
+          <l>והתינוק הפך זקן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא עוד עגונה</l>
+          <l>לא עוד עגונה</l>
+          <l>לא עוד עגונה</l>
+          <l>לא עוד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>והזקן הולך בתלם</l>
+          <l>ורידי ידיו מראים הכל</l>
+          <l>הוא מחפש עשן כדי לשים פרחים</l>
+          <l>ולבסוף הופך תינוק</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא עוד עגונה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עכשיו את מול שולחן יושבת</l>
+          <l>פירות בשלים ויין מר</l>
+          <l>את מנסה כי זאת האהבה האחרונה</l>
+          <l>ועוד מעט יהיה לך קר</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>לא עוד עגונה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

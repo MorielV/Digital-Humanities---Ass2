@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רחל 3</title>
+        <singer classification="male singer">איתמר כהן</singer>
+        <writer>יחיאל מוהר</writer>
+        <composer>משה וילנסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רחל</head>
+        <lg number="1" type="stanza">
+          <l>ילדה היתה אי שם בכפר</l>
+          <l>ביתה טבל בשדות דגן</l>
+          <l>קלת כנף היתה, פרפר</l>
+          <l>לבין הגורן והגן</l>
+          <l>ולה ביום הרוח שר</l>
+          <l>הלילה יתנגן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רחל, רחל, אורך יהל</l>
+          <l>בצמותייך הזהב נושק זהב</l>
+          <l>רחל, רחל, יינך אפל</l>
+          <l>ובעינייך העינב נושק עינב.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רחל, רחל...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עלה שושן מן החולות</l>
+          <l>וייף מאוד בעלעליו</l>
+          <l>ואין מחול במחולות</l>
+          <l>שלא תירקוד קלת כנף</l>
+          <l>וצליל קולה בין הקולות</l>
+          <l>מרעיד במיתריו.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רחל, רחל...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ולילה בא כבד מטל -</l>
+          <l>ותעלם בשדות נכר</l>
+          <l>נוגים הכוכבים מעל</l>
+          <l>כעיניהם של בני הכפר.</l>
+          <l>שושן למול ביתה נבל,</l>
+          <l>ורק הרוח שר.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קצת שקט</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>יוסי בכר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קצת שקט</head>
+        <lg number="1" type="stanza">
+          <l>הו ריבון עולם או אל חכם</l>
+          <l>הו בראת ים - ובראת מים ויבשת לכולם</l>
+          <l>ובצלמך בראת גם את האדם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הו ריבון עולם או אל עליון - העושה שלום</l>
+          <l>הו בראת את המציאות והחלום</l>
+          <l>וגפנים נטעת למנוחת כל אדם</l>
+          <l>עד היום עוד לא ראיתי איך נחים תחתם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מדוע זה הכל יצרת</l>
+          <l>ושכחת רק פרט קטן</l>
+          <l>דבר אחד עוד לא הצלחת</l>
+          <l>לתת קצת שקט לעולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הו ריבון עולם או אל עליון - המבין בכל</l>
+          <l>המשאיר לך את הזכרונות מיום אתמול</l>
+          <l>ומעץ הדעת האכלת את כולם</l>
+          <l>ולכל שואל נתת תשובתך חינם</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הו ריבון עולם אשר יצר - גם את האישה</l>
+          <l>ובראת את הערבים שלפגישה</l>
+          <l>ופתוי נתת בליבם של הגברים</l>
+          <l>ויצרת את הלילה לדברים האחרים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מדוע זה הכל יצרת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

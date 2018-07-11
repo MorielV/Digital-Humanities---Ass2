@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ניצחנו</title>
+        <singer classification="unknown">איתמר רוטשילד</singer>
+        <writer>איתמר רוטשילד</writer>
+        <composer>איתמר רוטשילד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ניצחנו</head>
+        <lg number="1" type="stanza">
+          <l>ניצחנו את הרעים </l>
+          <l>עכשיו אנחנו גאים </l>
+          <l>יושבים אוכלים קרטיבים </l>
+          <l>על שפת הר </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אמרנו מה שאומרים </l>
+          <l>בכאלה מצבים </l>
+          <l>סליחה ואנחנו מקווים </l>
+          <l>שלא תדעו עוד צער </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ימים חדשים </l>
+          <l>מחליפים ישנים </l>
+          <l>וכל מה שיהיה עבר </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בארון ממתקים </l>
+          <l>מתחבאים ענקים </l>
+          <l>שכבר התרגלו לתנאים </l>
+          <l>מה מוזר </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נדאג להשאיר לאתמול זיכרון </l>
+          <l>שלא נוכל לסבול </l>
+          <l>ואז </l>
+          <l>נדהר על כבשים אל המחר </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ימים חדשים </l>
+          <l>מחליפים ישנים </l>
+          <l>וכל מה שיהיה עבר </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אם אתה מתבייש </l>
+          <l>במשאלות שאתה מבקש </l>
+          <l>אולי כדאי שתלך מפה כבר </l>
+          <l>כי איך זה לא הבנת דבר </l>
+          <l>עדיין לא הבנת דבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

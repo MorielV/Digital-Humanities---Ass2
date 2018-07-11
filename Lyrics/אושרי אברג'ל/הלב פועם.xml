@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלב פועם</title>
+        <singer classification="unknown">אושרי אברג ל</singer>
+        <writer>נמרוד אלירן סבח</writer>
+        <composer>אורן איתן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלב פועם</head>
+        <lg number="1" type="stanza">
+          <l>מכל הנשים בעולם</l>
+          <l>בחרתי רק אותך</l>
+          <l>עכשיו ליבי נסחף</l>
+          <l>תמיד אהיה שלך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני זוכר את התמונות</l>
+          <l>אותן עיניים בוהקות</l>
+          <l>אותו חיוך שמתגנב</l>
+          <l>אותך אני אוהב</l>
+          <l>אני אוהב...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את בשבילי כל העולם</l>
+          <l>למענך אני קיים</l>
+          <l>נשבענו שנאהב לנצח</l>
+          <l>מול כולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תני לי יד ונתקדש</l>
+          <l>את האושר נבקש</l>
+          <l>והלב פועם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה רגע קסום ומיוחד</l>
+          <l>ננצור אותו לעד</l>
+          <l>נבנה לנו חיים</l>
+          <l>בקן של אוהבים</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>תמיד נשמור על המחר</l>
+          <l>ולא נשכח את העבר</l>
+          <l>אני נשבע איתך </l>
+          <l>לחיות לעולמים</l>
+          <l>לעולמים...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>את בשבילי כל העולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

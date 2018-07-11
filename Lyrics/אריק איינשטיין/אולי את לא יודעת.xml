@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אולי את לא יודעת</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>מאיר ישראל</writer>
+        <composer>מאיר ישראל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אולי את לא יודעת</head>
+        <lg number="1" type="stanza">
+          <l>אולי את לא יודעת </l>
+          <l>אולי את לא רואה </l>
+          <l>בשמיים יש ענן לבן </l>
+          <l>הרימונים כבר אדומים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אולי את לא שומעת </l>
+          <l>אולי את לא רוצה </l>
+          <l>זה אני ששר לך כבר שנים</l>
+          <l>זה אני שמנגן </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז קחי אותי</l>
+          <l>Love you </l>
+          <l>Love you </l>
+          <l>Love you </l>
+          <l>Love you </l>
+          <l>Love me too</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עכשיו הסתיו דופק בדלת</l>
+          <l>החגים כבר מתקרבים</l>
+          <l>בשמיים יש ענן לבן</l>
+          <l>הרימונים כבר אדומים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז קחי אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

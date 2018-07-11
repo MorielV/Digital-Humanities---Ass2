@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלימות</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלימות</head>
+        <lg number="1" type="stanza">
+          <l>אימהות ואבות החינוך נוראי</l>
+          <l>אתם חשבתם שלא אלך בבוץ</l>
+          <l>אם תרביצו לי</l>
+          <l>סרטי אהבה משודרים מאוחר</l>
+          <l>אבל אלימות בכל שעה מותר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בעוד קיבוץ נאנסת ילדה</l>
+          <l>בדיסקוטק שיחררו נשמה</l>
+          <l>נשארים בבתים שלא יראו את פנינו</l>
+          <l>תינוק קטן עובר מלחמה</l>
+          <l>נרתיק אקדח אמא עם מסכה</l>
+          <l>נשארים בבתים שלא יראו את פנינו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד גאון גרמני המציא יוד בלי צבעים</l>
+          <l>למה תמיד הכבוד נאבד לאנשים חלשים</l>
+          <l>ומי פה יטיף לי שיש אלוהים</l>
+          <l>ולמה הדתיים נראים מסוממים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בעוד קיבוץ...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אימהות ואבות אתם הרגתם אותי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

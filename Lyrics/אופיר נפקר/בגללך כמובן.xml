@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בגללך כמובן</title>
+        <singer classification="male singer">אופיר נפקר</singer>
+        <writer>אופיר נפקר</writer>
+        <composer>יוסי נפקר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בגללך כמובן</head>
+        <lg number="1" type="stanza">
+          <l>לא רוצה אפילו להיזכר </l>
+          <l>איך הייתי פעם </l>
+          <l>בוודאי הייתי אחר </l>
+          <l>לא מצאתי טעם בחיים </l>
+          <l>לא יודע מה הייתי עושה </l>
+          <l>אם את לא היית </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בגללך כמובן </l>
+          <l>שוב האור בתוכי זורח </l>
+          <l>לא פוחד מהזמן </l>
+          <l>לא מתחבא ולא בורח </l>
+          <l>בגללך כמובן </l>
+          <l>הו איך אני מחדש פורח </l>
+          <l>התפוגג העשן </l>
+          <l>ועכשיו על הכל סולח </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מסתכל למציאות בפנים </l>
+          <l>לא כדאי לברוח </l>
+          <l>מוטב להמתין </l>
+          <l>והעיניים כל כך כואבות </l>
+          <l>שהזמן כבר יעבור </l>
+          <l>ונלך הביתה לישון </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בגללך כמובן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

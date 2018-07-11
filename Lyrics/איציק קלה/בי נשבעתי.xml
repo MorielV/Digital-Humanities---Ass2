@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בי נשבעתי</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בי נשבעתי</head>
+        <lg number="1" type="stanza">
+          <l>בלילה קר עזבת פתאום</l>
+          <l>הלב נשבר לי בחלום</l>
+          <l>כל הזמן חשבתי שאת שלי</l>
+          <l>בי נשבעתי בי שתהיי איתי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ליבי נתתי לך אישה</l>
+          <l>ליבך קפוא לא מרגישה</l>
+          <l>כל הזמן חשבתי שאת שלי</l>
+          <l>בי נשבעתי בי שתהיי שלי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כשאמרת לי בוא אלי</l>
+          <l>כל גופי רעד</l>
+          <l>שליטפת את שתי ידי</l>
+          <l>בי בליבי בגדת</l>
+          <l>אם הייתה זו אשליה</l>
+          <l>לעולם זאת לא אדע</l>
+          <l>לא חשוב לא חשוב מי פגע במי</l>
+          <l>אני תמיד אותו אחד שרוצה ליבך</l>
+          <l>אני אחד אותו אחד שאותך אוהב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בלילה קר עזבת פתאום</l>
+          <l>הלב נשבר לי בחלום</l>
+          <l>כל הזמן שבטחת בליבי מענה אותי ואת נשמתי</l>
+          <l>ליבי שבור ממך אישה</l>
+          <l>את רחוקה לא מרגישה</l>
+          <l>כל הזמן שבטחת בליבי מענה אותי ואת נשמתי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כשאמרת לי בוא אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

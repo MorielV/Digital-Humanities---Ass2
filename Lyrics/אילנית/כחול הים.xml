@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כחול הים</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כחול הים</head>
+        <lg number="1" type="stanza">
+          <l>עיניך כחולות,</l>
+          <l>כשתי ברכות כחולות,</l>
+          <l>אני בהן צוללת.</l>
+          <l>הן כאן מול הלילה,</l>
+          <l>כאן בשתי עיני שלי.</l>
+          <l>עיני בן מטיילות,</l>
+          <l>כשתי סירות קלות,</l>
+          <l>בלי אן ובלי תוחלת.</l>
+          <l>הלילה ובתכלת, הלאה לדרכן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כחול, כחול הים.</l>
+          <l>אדום, אדום כדם,</l>
+          <l>שבעת צבעי הקשת.</l>
+          <l>זהו הלילה,</l>
+          <l>זהו זה הלילה בי ובך.</l>
+          <l>שחור, שחור ומר.</l>
+          <l>חיוור, חיוור וזר,</l>
+          <l>בחשכה כובשת.</l>
+          <l>לילה אל לילה בא.</l>
+          <l>לילה בא ונדם.</l>
+          <l>שב אל השקט.</l>
+          <l>שב אל חוף הים.</l>
+          <l>אל מבטך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שיער ראשך שחור.</l>
+          <l>ידי בו תעבור.</l>
+          <l>ידי אותו לוטפת.</l>
+          <l>הוא כאן, מול הלילה.</l>
+          <l>כאן בשתי ידי שלי.</l>
+          <l>ידי בו מטיילות,</l>
+          <l>כנזר של כלות.</l>
+          <l>והוא פחם וזפת.</l>
+          <l>וכף ידי שוטפת הלאה לדרכה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כחול, כחול הים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הפרטיזן</title>
+        <singer classification="male singer">אביהו מדינה</singer>
+        <writer>עממי</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הפרטיזן</head>
+        <lg number="1" type="stanza">
+          <l>שם הרחק ביער אלון עתיק ניצב</l>
+          <l>ולידו בדשא הפרטיזן שכב</l>
+          <l>והוא שכב בלי נוע שוב אינו נרדם</l>
+          <l>תלתלי זהב לו רוח תפזרם</l>
+          <l>שם הרחק בבית אמא בוכיה</l>
+          <l>בדמעות של צער לוחשת אומללה</l>
+          <l>אותך בני גידלתי שמרתי מכל רע</l>
+          <l>רק כדור עופרת בך בני פגע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היו היתה לי אשה אשת חיל</l>
+          <l>ברחה ממני בדמי הליל</l>
+          <l>לקחה איתה את בני הקטן</l>
+          <l>את בני מחמדי יהונתן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מי פילל פילל ומי מילל מילל</l>
+          <l>שכזאת יקראני לעזאזל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ילדי הרחובות יודים בי אבן</l>
+          <l>קוראים לי שיכור ממרמרים את חיי</l>
+          <l>אך למה ומדוע תרדפוני אחי</l>
+          <l>בגללך הבקבוק (יחרים אבוק) לעזאזל</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מי פילל פילל ומי מילל מילל</l>
+          <l>שכזאת יקראני לעזאזל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לקחתי אותו אלי</title>
+        <singer classification="unknown">איילת אובלס</singer>
+        <writer>איילת אובלס</writer>
+        <composer>איילת אובלס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לקחתי אותו אלי</head>
+        <lg number="1" type="stanza">
+          <l>לקחתי אותו אלי </l>
+          <l>אל תוך גופי </l>
+          <l>ולא אמרתי כלום. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קרבתי אותו אלי </l>
+          <l>אל תוך נפשי </l>
+          <l>והוא שתק. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נמתחתי אליו כמו מיתר מנגן </l>
+          <l>והוא לפתע שר לי </l>
+          <l>משפט קטן </l>
+          <l>מתוך שיר ישן </l>
+          <l>וידעתי. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לקחתי אותך אלי </l>
+          <l>אל תוך גופי </l>
+          <l>ולא אמרתי כלום </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>קרבתי אותך אלי </l>
+          <l>אל תוך נפשי </l>
+          <l>ואתה שתקת </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>נמתחתי אליך כמו מיתר מנגן </l>
+          <l>ואתה לפתע שרת </l>
+          <l>משפט קטן </l>
+          <l>מתוך שיר ישן </l>
+          <l>וידעתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

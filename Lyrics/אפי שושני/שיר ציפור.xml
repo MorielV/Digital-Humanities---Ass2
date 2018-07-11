@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר ציפור</title>
+        <singer classification="unknown">אפי שושני</singer>
+        <writer>לא ידוע</writer>
+        <composer>אפי שושני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר ציפור</head>
+        <lg number="1" type="stanza">
+          <l>הרובץ בקנו לא ידע, לא יכיר </l>
+          <l>את זה העולם הגדול. </l>
+          <l>לא ידע שידוע לכל ציפור-שיר </l>
+          <l>לא ידע על שום מה אמרנו בקול </l>
+          <l>כי מלא יופי הוא כל העולם הגדול. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עת בבוקר-בבוקר השמש תזרח </l>
+          <l>ואלפי רביבים כפנינים בדשאים, </l>
+          <l>עת כל בוקר השמש כורד יפרח </l>
+          <l>ובשיח נשמע שיר-ציפור כה נעים, </l>
+          <l>אז נראה מה יפים החיים. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האדם, פתח לבך, שא עיניך וראה </l>
+          <l>והבט מה יפה הוא הנוף מסביב </l>
+          <l>קלע לנזר אחד כאבך וגילך. </l>
+          <l>וחיו זיכרונות במטרות דמעתך </l>
+          <l>ותראה כי יפים החיים כאביב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

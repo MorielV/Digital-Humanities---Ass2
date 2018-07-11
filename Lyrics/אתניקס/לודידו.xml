@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לודידו</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לודידו</head>
+        <lg number="1" type="stanza">
+          <l>האשמים חרקו שיניים</l>
+          <l>על גב של יוניקורן (או שניים)</l>
+          <l>ובלילה כשלא די לה תמיד ניגנו לה שיר פרידה</l>
+          <l>היתה לובשת את הרשת והופכת לכודה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הוא לודידו</l>
+          <l>טווה סביבה קורים של אופי</l>
+          <l>הוא לודידו</l>
+          <l>לכד אותה בגלל האופי</l>
+          <l>הוא לודידו</l>
+          <l>האשמים חשבו שהיא אבודה</l>
+          <l>הוא לודידו</l>
+          <l>אני ידעתי שזאת רק אגדה ישנה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האשמים למדו שם לקח</l>
+          <l>עכשיו היוניקורן שמח</l>
+          <l>הם יראו לה את הדרך אל המסתור בקצה הקשת</l>
+          <l>בלילה כשלא די לה הם לא יתנו לה את הרשת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הוא לודידו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

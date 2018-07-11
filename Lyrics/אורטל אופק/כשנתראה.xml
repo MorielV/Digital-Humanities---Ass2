@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשנתראה</title>
+        <singer classification="female singer">אורטל אופק</singer>
+        <writer>אורטל אופק</writer>
+        <composer>צביקה פיק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשנתראה</head>
+        <lg number="1" type="stanza">
+          <l>אנחנו עוד נתראה</l>
+          <l>אני לא יודעת מתי</l>
+          <l>אני גם לא יודעת היכן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אנחנו עוד נתראה</l>
+          <l>השמש תהיה סובלנית </l>
+          <l>תצבע את הכול בלבן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אנחנו עוד נתראה</l>
+          <l>כשתהיה יותר חמלה בלב</l>
+          <l>כשנפסיק לבחוש ולחרב</l>
+          <l>השמיים יחייכו לנו מלמעלה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשנתראה</l>
+          <l>כבר לא יעניין אותך מי צודק</l>
+          <l>כשנתראה</l>
+          <l>אולי תוכל פשוט לחבק</l>
+          <l>כשנתראה</l>
+          <l>אולי סוף סוף תראה אותי באמת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אנחנו עוד נתראה</l>
+          <l>לא סיימנו את מה שהתחיל</l>
+          <l>הפצע עדיין פתוח</l>
+          <l>וזה רק בידיים שלנו</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אנחנו עוד נתראה</l>
+          <l>כשתהיה יותר חמלה בלב</l>
+          <l>כשנפסיק לבחוש ולחרב</l>
+          <l>השמיים יחייכו לנו מלמעלה</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כשנתראה...</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>אנחנו עוד נתראה</l>
+          <l>אני לא יודע מתי</l>
+          <l>גם לא היכן</l>
+          <l>אבל אני יודעת</l>
+          <l>שאנחנו עוד נתראה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

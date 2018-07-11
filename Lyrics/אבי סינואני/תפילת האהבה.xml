@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תפילת האהבה</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>מיקי מדר</writer>
+        <composer>מיקי מדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תפילת האהבה</head>
+        <lg number="1" type="stanza">
+          <l>אני זוכר עדיין כמה יפות עינייך</l>
+          <l>ומגע ידייך המלטפות</l>
+          <l>ביום שבו הכרנו</l>
+          <l>רקדנו השתוללנו</l>
+          <l>נדקלתי ממבט ראשון</l>
+          <l>זה נמשך כמעט שנתיים</l>
+          <l>אהבתי גברה בנתיים</l>
+          <l>אז את אמרת</l>
+          <l>לקשר הזה אין טעם</l>
+          <l>אותך לא אוהב אף פעם</l>
+          <l>אתה כועס אני יודעת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלוהים שבשמיים</l>
+          <l>מתחנן אני אלייך</l>
+          <l>תן בי כח להמשיך</l>
+          <l>קשה לי בלעדיה</l>
+          <l>אלוהים שבשמיים</l>
+          <l>מתחנן שוב רק אליך</l>
+          <l>תן בה שכל להבין</l>
+          <l>שחיי בתוך חייה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה נמשך כמעט שנתיים</l>
+          <l>עם דמעות קצת בעיניים</l>
+          <l>את לא הגבת</l>
+          <l>שנים אותך חיפשתי</l>
+          <l>איפה לא הייתי</l>
+          <l>לבסוף לבד נשארתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלוהים שבשמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכל קשה</title>
+        <singer classification="unknown">אבי שלו</singer>
+        <writer>אבי שלו</writer>
+        <composer>אבי שלו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכל קשה</head>
+        <lg number="1" type="stanza">
+          <l>מה שלא תעשה - הכל קשה</l>
+          <l>איפה שלא תתעורר - הכל קשה</l>
+          <l>איך שלא תסתכל - הכל קשה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה שלא תעשה</l>
+          <l>ומי שלא תהיה - הכל קשה</l>
+          <l>הכל קשה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה שלא תעשה - הכל קשה</l>
+          <l>גם אם לא תעבוד - הכי קשה</l>
+          <l>כמה שלא תתאמץ - הכל קשה</l>
+          <l>ומה זה כבר משנה שהכל קשה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה שלא תעשה</l>
+          <l>ומי שלא תהיה - הכל קשה</l>
+          <l>הכל קשה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מה שלא תעשה - הכל קשה</l>
+          <l>איפה שלא תחיה - הכל קשה</l>
+          <l>כמה שלא תרוויח וגם אם תתעשר ותצליח -</l>
+          <l>הכל קשה הכל קשה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מה שלא תעשה</l>
+          <l>ומי שלא תהיה</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>מה זה כבר משנה למי אכפת שקשה</l>
+          <l>מה זה כבר משנה למי אכפת שקשה</l>
+          <l>מה זה כבר משנה למי אכפת שקשה</l>
+          <l>מה זה כבר משנה למי אכפת שקשה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

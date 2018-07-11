@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציפור מדבר 2</title>
+        <singer classification="unknown">איטן גרינברג</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציפור מדבר</head>
+        <lg number="1" type="stanza">
+          <l>את קרובה אל קו הגבול</l>
+          <l>שבויה, קסמו של המדבר</l>
+          <l>את עמוד האש לפני המחנה - בראשית את</l>
+          <l>מסיתה אל קו המים והאש לא תבער</l>
+          <l>את הלהבה והלהב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמו ציפור את חופשיה</l>
+          <l>רוצה לגעת בשמיים</l>
+          <l>כמו ציפור את חופשיה</l>
+          <l>מסיתה אל קו המים</l>
+          <l>ציפור מדבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את קרובה אל קו הסוף</l>
+          <l>צמאה, עורפו של המדבר</l>
+          <l>את מעיין יבש באפיקים צרובים - במדבר את</l>
+          <l>מסיתה אל קו המים והאש לא תבער</l>
+          <l>את האהבה והלהב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמו ציפור את חופשיה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

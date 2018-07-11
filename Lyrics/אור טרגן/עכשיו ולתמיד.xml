@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עכשיו ולתמיד</title>
+        <singer classification="unknown">אור טרגן</singer>
+        <writer>עפר בשן</writer>
+        <composer>עפר בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עכשיו ולתמיד</head>
+        <lg number="1" type="stanza">
+          <l>היום אני בוחר בכל מה שביקשתי </l>
+          <l>כשתקבלי אותי, אולי נצליח כאן לבנות מה שחלמתי </l>
+          <l>עיניי שמסתכלות, אל תוך שתיקות צללתי </l>
+          <l>אל דרך הספקות, יצאתי לגלות, היום אני מצאתי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מכל האהבות אני אבחר בך </l>
+          <l>מכל המנגינות אני אקרא לך </l>
+          <l>וכשיפלו חומות אז אני בא כך </l>
+          <l>עכשיו לתמיד, עכשיו לתמיד </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והנה בא השקט לגעת בפנים </l>
+          <l>אולי היום נוכל לקרוא את המבט במקום את המילים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מכל האהבות אני אבחר בך </l>
+          <l>מכל המנגינות אני אקרא לך </l>
+          <l>וכשיפלו חומות אז אני בא כך </l>
+          <l>עכשיו לתמיד, עכשיו לתמיד </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בחדרים שלנו דולקים עוד רגשות </l>
+          <l>ואם ילך האור הם יסמנו דרכים </l>
+          <l>איך עוד פעם להיות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

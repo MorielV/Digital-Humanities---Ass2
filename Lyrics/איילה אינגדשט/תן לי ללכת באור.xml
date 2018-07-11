@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תן לי ללכת באור</title>
+        <singer classification="female singer">איילה אינגדשט</singer>
+        <writer>רועי שפיגלר</writer>
+        <composer>רועי שפיגלר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תן לי ללכת באור</head>
+        <lg number="1" type="stanza">
+          <l>תן לי ללכת באור</l>
+          <l>ועשה את עיניי פקוחות לרווחה </l>
+          <l>גם בדרכים אפורות הראה לי שקיעה </l>
+          <l>אדומה וסגולה </l>
+          <l>גע בנפשי הרכה ושים בליבי חמלה עמוקה </l>
+          <l>תן בידי מלאכה ועשה שאלמד</l>
+          <l> שאוכל להבין </l>
+          <l>ולהבדיל בין טוב לרע</l>
+          <l>חדד את אזני הקהות </l>
+          <l>כדי שאשמע את קולך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ובמרחק </l>
+          <l>קו של זריחה מדויק </l>
+          <l>חום מאופק </l>
+          <l>מתקרב לאט </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה מתגלה? </l>
+          <l>הנה האור עולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

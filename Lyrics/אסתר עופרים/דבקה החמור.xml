@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דבקה החמור</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>עמנואל זמיר</writer>
+        <composer>עמנואל זמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דבקה החמור</head>
+        <lg number="1" type="stanza">
+          <l>ידע שור קונהו וחמור</l>
+          <l>גם חמור ידע</l>
+          <l>וחמור - אבוס בעליו.</l>
+          <l>על כן אל נא תתמהו, ידידי,</l>
+          <l>לשמע אגדה</l>
+          <l>על חמור, חמור מאולף.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גאלו ללחמאר לוין?</l>
+          <l>גאל: יא ללחטאב, יא ללעין!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עם בוקר לשדה יצא פלאח</l>
+          <l>החמור הלך</l>
+          <l>עם הפח לשאוב מן העין</l>
+          <l>אפנדי עם הכרס רץ לכרך</l>
+          <l>לחמור על גב</l>
+          <l>החוטב עצים שוב טוען</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גאלו ללחמאר לוין?</l>
+          <l>גאל: יא ללחטאב, יא ללעין!</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כפר אל כפר יביע אמר</l>
+          <l>ומספרים תמיד עליו</l>
+          <l>תחת עץ שיקמה או תומר</l>
+          <l>זה לזה כל בני ערב.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>גאלו ללחמאר לוין?</l>
+          <l>גאל: יא ללחטאב, יא ללעין!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

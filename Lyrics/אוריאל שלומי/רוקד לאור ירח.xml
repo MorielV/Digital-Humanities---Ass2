@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוקד לאור ירח</title>
+        <singer classification="male singer">אוריאל שלומי</singer>
+        <writer>דני שושן</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוקד לאור ירח</head>
+        <lg number="1" type="stanza">
+          <l>רוקד איתך לאור ירח</l>
+          <l>בדמיונות אני שוקע</l>
+          <l>רוקד איתך לאור ירח</l>
+          <l>בדמיונות אני שוקע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלחש לך את סודות הליל</l>
+          <l>הו מה יפות עינייך</l>
+          <l>זאת אהבה אני יודע</l>
+          <l>כמו מרחף על גב ענן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ולגופי ילדונת את כמו נצמדת</l>
+          <l>ולצלילי המנגינה את מתרפקת</l>
+          <l>לחי אל לחי נוגעת ונושקת</l>
+          <l>האהבה את נשמתנו שוטפת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בשערך הטל נוצץ וזורח</l>
+          <l>מאהבה ילדה אני כה קודח</l>
+          <l>תני לנשק וגם לטעום</l>
+          <l>גביעי שפתייך האדומות כמו ארגמן ושושן</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רוקד איתך לאור ירח...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אלחש לך את סודות הליל...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ריח בושמך עוטף את שחור תלתלייך</l>
+          <l>כמו פרפר לאש אני נמשך אלייך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

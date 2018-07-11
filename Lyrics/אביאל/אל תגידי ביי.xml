@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תגידי ביי</title>
+        <singer classification="unknown">אביאל</singer>
+        <writer>מני רזון</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תגידי ביי</head>
+        <lg number="1" type="stanza">
+          <l>אל תגלי שנישקת רק אותי</l>
+          <l>אתמול במסיבה </l>
+          <l>ואיך שאני מתרגש בתוכי </l>
+          <l>כשאת בסביבה </l>
+          <l>אלייך התקרבתי כמו פרפר נמשכתי </l>
+          <l>ובסוף הבנתי שהלב נכנע </l>
+          <l>יומיים לא נרדמתי, עיניים לא עצמתי </l>
+          <l>עלייך רק חשבתי כמו משוגע </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם תגידי טינאנאיני </l>
+          <l>אז תדעי שאני משוגע שלך </l>
+          <l>אל תגידי ביי ביי </l>
+          <l>כי הלב וואי וואי רק שלך רק שלך </l>
+          <l>לעולם אוהב אותך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחלומי את לוקחת אותי </l>
+          <l>אל האושר איתך </l>
+          <l>וכל הזמן זה ברור ומובן</l>
+          <l>שליבי רק שלך </l>
+          <l>אלייך התקרבתי כמו פרפר נמשכתי </l>
+          <l>ובסוף הבנתי שהלב נכנע </l>
+          <l>יומיים לא נרדמתי, עיניים לא עצמתי </l>
+          <l>עלייך רק חשבתי כמו משוגע </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם תגידי טינאנאיני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

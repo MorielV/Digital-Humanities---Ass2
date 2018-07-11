@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בתוך הנשימות</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>אסף אמדורסקי</composer>
+        <album>צד א'</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בתוך הנשימות</head>
+        <lg number="1" type="stanza">
+          <l>את יודעת לדבר אני אוהב לשמוע</l>
+          <l>איך הקול שלך נוגע לי בקצה האוזן</l>
+          <l>תדברי אלי לא משנה מאיפה את עושה את זה</l>
+          <l>פרפרים רכים את עושה זה תמיד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מאז שנפגשנו לא ראית אותי שוב</l>
+          <l>לא דיבור לא מגע רק רמזים דקים</l>
+          <l>אני יודע שזאת את אבל עדיין מופתע</l>
+          <l>כשאת נושמת בלי מילים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קו נמתח בין שפתייך לאוזני הכרויות</l>
+          <l>הקשב הקצב עד לקצה של העצב</l>
+          <l>תלחשי איתי לחישות ארוכות</l>
+          <l>אני מפליג בתוך הנשימות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל תשכחי מחר אחר הצהרים</l>
+          <l>תגידי משהו קטן לא חשוב מה</l>
+          <l>המרחק בינינו נמדד בנשימות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>קו נמתח בין שפתייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

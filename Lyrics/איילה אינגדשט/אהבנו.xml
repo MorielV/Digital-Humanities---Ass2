@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבנו 2</title>
+        <singer classification="female singer">איילה אינגדשט</singer>
+        <writer>רוי אדרי</writer>
+        <composer>איילה אינגדשט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבנו</head>
+        <lg number="1" type="stanza">
+          <l>תגיד לי מה יהיה לי</l>
+          <l>תגיד יהיה הכל</l>
+          <l>מה כבר השתנה בי</l>
+          <l>שאליך לא אחזור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לתת לי יד הבטחת</l>
+          <l>איך הגענו לסוף</l>
+          <l>אין לי זמן להשקיע באהבה שכזאת</l>
+          <l>אהבנו נפרדנו</l>
+          <l>איך הגענו לכאן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז איך יהיה בסדר</l>
+          <l>אם ביחד לא ניזום</l>
+          <l>הלב שלי מותש כבר</l>
+          <l>איך הקור גבר על החום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לתת לי יד הבטחת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מלאה געגועים</l>
+          <l>נגמרו המילים</l>
+          <l>מסתכלים על אחרים</l>
+          <l>ולא רואים אותנו</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אהבנו נפרדנו</l>
+          <l>איך הגענו לכאן</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>לתת לי יד הבטחת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

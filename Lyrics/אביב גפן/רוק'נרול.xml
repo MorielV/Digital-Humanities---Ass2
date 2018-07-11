@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוק נרול</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוק'נרול</head>
+        <lg number="1" type="stanza">
+          <l>רציתי להרגיש ת'דופק</l>
+          <l>רציתי להגיע קצת אחרי האופק</l>
+          <l>והדרכים נשבו במפרשי</l>
+          <l>הלכתי רק אחרי השמש</l>
+          <l>ובלילות ירח לי האיר ת'רגש</l>
+          <l>שובל שירים רשמו את תקוותי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשאני בורח, החופש לי רשום לכוכבים לנצח</l>
+          <l>לא מוותר על הזכות להיות, חי</l>
+          <l>ואת, אל תבכי לי</l>
+          <l>הדלקת לי את הלב</l>
+          <l>והכאב הספיק לי</l>
+          <l>אני הולך, אני ברוק'נרול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נולד קצת ומת לנצח</l>
+          <l>את מה שהחיים נותנים אני לוקח</l>
+          <l>על הקצה בתוך הסערה</l>
+          <l>רציתי להרגיש ת'דופק</l>
+          <l>רציתי להגיע קצת אחרי האופק</l>
+          <l>והדרכים נשבו במפרשי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשאני בורח...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל תחכי..אל תחכי..אל תחכי..</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כשאני בורח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

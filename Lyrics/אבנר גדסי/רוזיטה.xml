@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוזיטה</title>
+        <singer classification="male singer">אבנר גדסי</singer>
+        <writer>משה בן שאול</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוזיטה</head>
+        <lg number="1" type="stanza">
+          <l>רוזיטה, הנה כבר עולה השמש</l>
+          <l>עצובה כנהר כהה מאמש</l>
+          <l>היי רוזיטה, כבר נואשת הגיטרה</l>
+          <l>שיר היא שרה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי נא אליי </l>
+          <l>שובי נא אליי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הו, הביטי כוכבים קרים הם שתי עינייך</l>
+          <l>כל החרוזים שלי קרבים אלייך</l>
+          <l>אך שתיקה גדולה פרוסה כצל עלייך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רוזיטה, מנגינה של אהבה נשברת</l>
+          <l>פרח וקוצים הם בשבילך עטרת</l>
+          <l>ומראך כטוהר שושנה חיוורת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רוזיטה, מה חמים הצהריים</l>
+          <l>מרחפת כפרפר עייף כנפיים</l>
+          <l>היי רוזיטה, כבר נואשת הגיטרה </l>
+          <l>שיר היא שרה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בואי נא אליי </l>
+          <l>שובי נא אליי </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>רוזיטה, למה זה אלי את לא ניגשת</l>
+          <l>איך הותרת אותך גאה את ועיקשת</l>
+          <l>מיבבת הגיטרה ורוגשת</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>היי רוזיטה, מנגינה של אהבה נשברת</l>
+          <l>פרח וקוצים הם בשבילך הטרד</l>
+          <l>ומראך כטוהר שושנה חיוורת</l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>רוזיטה, הנה כבר ירד הערב</l>
+          <l>השיר עוד מתמשך עוד בבלי הרף</l>
+          <l>היי, רוזיטה כבר נואשת הגיטרה</l>
+          <l>שיר היא שרה</l>
+        </lg>
+        <lg Chorus="yes" number="10" type="stanza">
+          <l>בואי נא אליי </l>
+          <l>שובי נא אליי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבתיה שבעתיים</title>
+        <singer classification="unknown">אבי אלוס</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבתיה שבעתיים</head>
+        <lg number="1" type="stanza">
+          <l>אהבתיה שבעתיים</l>
+          <l>נשאתיה בשתי ידיים.</l>
+          <l>נכספה נפשי אליה</l>
+          <l>לימיה ולילותיה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הן אהבתיה כעצמי</l>
+          <l>ומבולבל הייתי</l>
+          <l>כמו אבוד בעולמי</l>
+          <l>וכשהיא אלי קראה</l>
+          <l>עניתי לה: "הנני"</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא הייתה לי שתי עיניים</l>
+          <l>שתי ידיים ושתי רגליים.</l>
+          <l>כל גווי זעק אליה</l>
+          <l>לנעוריה ולדודיה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הן אהבתיה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

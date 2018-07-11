@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עמוק בלב</title>
+        <singer classification="female singer">איילה לוי</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>איילה לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עמוק בלב</head>
+        <lg number="1" type="stanza">
+          <l>בלילה כשהדלקת אור בבית</l>
+          <l>נשקת לי בחום על השפתיים</l>
+          <l>מצאתי את עצמי לרגע נעצבת</l>
+          <l>הייתי לצידך כמאוהבת</l>
+          <l>בין עצב לשמחה הבנתי שאין טעם</l>
+          <l>לגעת בחלום שלא ישוב כמו פעם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל עמוק בלב גלגל חיי סובב</l>
+          <l>ונושא אותי אל נשמתך</l>
+          <l>אבל עמוק בלב כמו פרח מלבלב</l>
+          <l>כל אהבתי שמורה לך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בתוך סירה אחת היינו שנינו</l>
+          <l>רוחות של אהבה נשבו בינינו</l>
+          <l>שנים מאושרות חלפו להן בנחת</l>
+          <l>היה לי טוב איתך וטוב ביחד</l>
+          <l>איך בגללך נשכחת השבועה שלנו</l>
+          <l>עכשיו תראה לאן הזמן לקח אותנו.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבל עמוק בלב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שתי עינייך אש</title>
+        <singer classification="unknown">אמיר יוסף</singer>
+        <writer>אמיר יוסף</writer>
+        <composer>אמיר יוסף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שתי עינייך אש</head>
+        <lg number="1" type="stanza">
+          <l>שתי עינייך אש שקיבלת ממלך</l>
+          <l>אילו לבבך היה נפתח בלי עצר</l>
+          <l>לא נותר כל ערך לטעום קצת מליבך</l>
+          <l>לו רק היית שומרת מקום קצת אצלך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובך אני היום נזכר</l>
+          <l>אפילו כשאמרת לא אעזוב אותך לעולם</l>
+          <l>לא יודע אם טעיתי כלל</l>
+          <l>אולי בלי אהבה זה לא נורא בכלל</l>
+          <l>בחלומות אני נוגע בך</l>
+          <l>ושוב נזכר איך שהיינו יחד אף פעם לא לבד</l>
+          <l>רק אותך תמיד אוהב לעד</l>
+          <l>אז חיזרי אלי נצעד אל המחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זוג שפתיים הן</l>
+          <l>איך אפשר שלא לנשק</l>
+          <l>לו ק היה אפשר לחדור אל תוך חדרי ליבך</l>
+          <l>אבל היום את עם אחר לא השארת פינה בלב</l>
+          <l>לו רק היית שומרת מקום קצת אצלך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ובך אני היום נזכר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

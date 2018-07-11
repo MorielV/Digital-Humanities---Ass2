@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוקר צהריים וערב</title>
+        <singer classification="unknown">אורי זוהר</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוקר צהריים וערב</head>
+        <lg number="1" type="stanza">
+          <l>בוקר בוא בוא בוא</l>
+          <l>בוקר טוב טוב טוב.</l>
+          <l>איזה בוא בוא בוא</l>
+          <l>בוקר טוב טוב.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>צהריים, שמש</l>
+          <l>אין טיפה צל</l>
+          <l>שמש</l>
+          <l>צהריים</l>
+          <l>כוס סודה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לילה לילה ליל</l>
+          <l>לילה לילה ליל</l>
+          <l>לילה לילה ליל</l>
+          <l>לילה לילה ליל</l>
+          <l>היא אשה היא אשה</l>
+          <l>לילה לילה ליל.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לילה לילה ליל</l>
+          <l>לילה לילה ליל</l>
+          <l>לילה לילה ליל</l>
+          <l>לילה לילה ליל</l>
+          <l>בואי בואי</l>
+          <l>לילה לילה ליל...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אשתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

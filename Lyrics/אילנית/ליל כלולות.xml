@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ליל כלולות</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>וג'ליס גואופס</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ליל כלולות</head>
+        <lg number="1" type="stanza">
+          <l>ערפילים טוו לך הינומת כלה</l>
+          <l>עם זהב חולות בליל כלולות</l>
+          <l>בשבילים ניגון של חג הנה עלה</l>
+          <l>אלפי קולות בליל כלולות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ליל כלולות אומרות עינייך</l>
+          <l>קרן אור הוא, מבטן עלי</l>
+          <l>והסומק בלחייך</l>
+          <l>מה טהור הוא</l>
+          <l>כה טהור אלי</l>
+          <l>אלי אלי אלי אלי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עננים פרסו חופה בשמי התכול</l>
+          <l>עד אין גבולות בליל כלולות</l>
+          <l>בגנים מחול רודף אחר מחול</l>
+          <l>לך המחולות בליל כלולות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ליל כלולות אומרות עינייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

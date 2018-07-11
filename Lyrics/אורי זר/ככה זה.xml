@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ככה זה 2</title>
+        <singer classification="male singer">אורי זר</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ככה זה</head>
+        <lg number="1" type="stanza">
+          <l>בוא נתחיל את זה בלה לה לה </l>
+          <l>את הסיפור הזה שיש לו סוף </l>
+          <l>היא היתה שלו והוא שלה </l>
+          <l>רק לחשוב על זה עושה לי טוב </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הם היו כל כך קרובים כל כך טובים </l>
+          <l>ופתאום הכל נשבר הכל נגמר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ככה זה אי אי או </l>
+          <l>זהו זה אי אי או </l>
+          <l>ננגב את הדמעות ונמשיך </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יום שישי האחרון היה קצת </l>
+          <l>שונה מכל ימי שישי </l>
+          <l>היא הביאה תיק והוא שתיה </l>
+          <l>זהו סתם קונדס ביום שלישי </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הם היו כל כך קרובים כל כך טובים </l>
+          <l>ופתאום הכל נשבר הכל נגמר </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ככה זה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

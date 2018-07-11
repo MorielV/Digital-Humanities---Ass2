@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתי תבוא</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>אהוד בנאי</writer>
+        <composer>אהוד בנאי</composer>
+        <album>ענה לי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתי תבוא</head>
+        <lg number="1" type="stanza">
+          <l>ברחוב השוק עגבניות אדום בוהק ביום בהיר</l>
+          <l>בדרך אל העבודה יורד אל דרום העיר</l>
+          <l>בתוך הרעש הגדול שומר על קשר לאחד</l>
+          <l>הולך בתוך המון אדם מרגיש לבד</l>
+          <l>קלרינט טורקי צרוד חוזר ומקונן</l>
+          <l>אני תופס פינה בצד יושב ומתבונן</l>
+          <l>משקה חריף בסיטונות, חומוס פול</l>
+          <l>קבצן שיכור צועק: "הכל כפול"!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מתי תבוא, מתי תבוא</l>
+          <l>מתי תבוא הגאולה מתי יהיה סוף לגלות</l>
+          <l>כולם עוצרים את הנשימה ומחכים להתגלות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ברחוב השוק הפרי גלוי אך טעמו נסתר</l>
+          <l>זה המקום בו אני חי בו אני נשאר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כולם באים בשערייך ואת עוד ישנה</l>
+          <l>התעוררי, התעוררי, חלפו שבעים שנה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מתי תבוא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

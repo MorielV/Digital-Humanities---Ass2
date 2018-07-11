@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דקות של אור</title>
+        <singer classification="unknown">אסתי גינזבורג</singer>
+        <writer>סהר חגי</writer>
+        <composer>ניצן קייקוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דקות של אור</head>
+        <lg number="1" type="stanza">
+          <l>מאחורי הפנסים האור ניראה אחר</l>
+          <l>ובחדר המדרגות לבד הוא מתגבר</l>
+          <l>קשה לתפוס בשתי ידיים</l>
+          <l>וקשה לתפוס</l>
+          <l>מוזר לראות רק זוג עיניים</l>
+          <l>מול מראה רצות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אחרי האהבה צריך להעלם</l>
+          <l>ובמושב האחורי לבד להירדם</l>
+          <l>קשה לקום על הרגליים</l>
+          <l>וקשה לקום</l>
+          <l>מוזר לראות רק זוג עיניים</l>
+          <l>במבט עצום</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>דקות של אור, ימים להסתנוור</l>
+          <l>דקות של חום, ימים להתקרר</l>
+          <l>לחלום מבלי לישון ואז להתעורר</l>
+          <l>למצוא את התשובות ואין מי ששואל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מאחורי כל הצבעים הקצב משתנה</l>
+          <l>ומתחת לבגדים הגוף שובר, בונה</l>
+          <l>פינה שמכילה הכל</l>
+          <l>ועוד פינה אותי</l>
+          <l>מוזר לפקוח זוג עיניים</l>
+          <l>פנימה לתוכי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>דקות של אור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילדים 2</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>אביתר בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילדים</head>
+        <lg number="1" type="stanza">
+          <l>כל בוקר אני קם מוקדם</l>
+          <l>להכין לך את הבוקר</l>
+          <l>מסדר לך את התיק על הגב</l>
+          <l>את הדלת פותח</l>
+          <l>הרוח פורצת פנימה</l>
+          <l>דרך עיניך הגדולות</l>
+          <l>ולרגע נדמית בעיניי הדלת </l>
+          <l>ללוע ארי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וליבי מבקש תהיה נשמר</l>
+          <l>תהיה אהוב וקרוב</l>
+          <l>ותמיד תלך בשדות של אמת</l>
+          <l>בשדות של שמחה ויופי</l>
+          <l>וליבי כורע ומשתחווה</l>
+          <l>חסוך מליבו בושה ועלבון ופחד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

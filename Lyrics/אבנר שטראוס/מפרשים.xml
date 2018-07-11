@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מפרשים</title>
+        <singer classification="male singer">אבנר שטראוס</singer>
+        <writer>אבנר שטראוס</writer>
+        <composer>אבנר שטראוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מפרשים</head>
+        <lg number="1" type="stanza">
+          <l>לבד פה בנמל </l>
+          <l>יושב ומנגן </l>
+          <l>על המזח, </l>
+          <l>שולח צלילים, </l>
+          <l>על פני המים. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גאות ושפל, </l>
+          <l>גלי הים, </l>
+          <l>פסגה ונפל, </l>
+          <l>חיי אדם </l>
+          <l>חיי אדם. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מפרשים של לנדוד, </l>
+          <l>עוגנים של להישאר </l>
+          <l>ואני איני יודע </l>
+          <l>במה ארצה יותר. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אדם לבד, </l>
+          <l>שוחה בזרם, </l>
+          <l>אין לו גשר, </l>
+          <l>אין לו חוף, </l>
+          <l>אין לו חוף. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אדם לבד, </l>
+          <l>בין חוף לחוף, </l>
+          <l>שירו חליל, </l>
+          <l>ליבו כתוף, </l>
+          <l>ליבו כתןף. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מפרשים של לנדוד, </l>
+          <l>עוגנים של להישאר </l>
+          <l>ואני איני יודע </l>
+          <l>במה ארצה יותר. </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>מפרשים של לנדוד, </l>
+          <l>עוגנים של להישאר </l>
+          <l>ואני איני יודע... </l>
+          <l>יותר.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

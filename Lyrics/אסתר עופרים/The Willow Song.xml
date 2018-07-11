@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Willow Song</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>I'll See You In My Dreams – בהופעה 2009</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>The Willow Song</head>
+        <lg number="1" type="stanza">
+          <l>The poor soul sat sighing by a sycamore tree,</l>
+          <l>Sing willow, willow, willow</l>
+          <l>With his hand in his bosom, and his head upon his knee,</l>
+          <l>O willow willow willow shall be my garland.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Sing all a green willow, willow, willow, willow;</l>
+          <l> Aye me the green willow must be my garland!</l>
+          <l> He sighed to his singing, and made a great moan,</l>
+          <l> Sing willow, willow, willow;</l>
+          <l> I am dead to all pleasure, my true love, she is gone.</l>
+          <l> O willow willow willow shall be my garland.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Sing all a green willow, willow, willow, willow;</l>
+          <l> Aye me the green willow must be my garland!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

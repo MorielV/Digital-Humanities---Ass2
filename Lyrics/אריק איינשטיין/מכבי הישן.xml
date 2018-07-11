@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מכבי הישן</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מכבי הישן</head>
+        <lg number="1" type="stanza">
+          <l>מכבי הישן</l>
+          <l>ליד קלנוע אוריון</l>
+          <l>שניאור הגדול</l>
+          <l>מעבר לגדר</l>
+          <l>ריח של פלאפל</l>
+          <l>בא משוק בצלאל</l>
+          <l>בגדד בכניסה</l>
+          <l>ופתקה שוב עובר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תן חצי מנה</l>
+          <l>ותביא לי גם כוס מים</l>
+          <l>אני קצת ממהר</l>
+          <l>סחוג חצי כפית</l>
+          <l>שורף בנחיריים</l>
+          <l>התחיל רק היומן</l>
+          <l>אתה לא מאחר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תל אביב חמה</l>
+          <l>תל אביב צוחקת</l>
+          <l>אנחנו עוד קטנים</l>
+          <l>ויש מעט מאוד...</l>
+          <l>עיר של אהבה</l>
+          <l>עיר שלא חונקת</l>
+          <l>שמש בגני</l>
+          <l>היה היו לילות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עכשיו קצת מאוחר</l>
+          <l>שקט מאוד בבית</l>
+          <l>אני יושב לבד</l>
+          <l>חושב על החיים</l>
+          <l>זמן זוחל לאט</l>
+          <l>עוצם את העיניים</l>
+          <l>עולים הזכרונות</l>
+          <l>וזה כל כך נעים...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תל אביב חמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

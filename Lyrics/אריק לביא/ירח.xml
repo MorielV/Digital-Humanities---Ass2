@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ירח 2</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>נתן אלתרמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ירח</head>
+        <lg number="1" type="stanza">
+          <l>גם למראה נושן</l>
+          <l>יש רגע של הולדת</l>
+          <l>שמיים בלי ציפור</l>
+          <l>זרים ומבוצרים</l>
+          <l>בלילה הסהור</l>
+          <l>מול חלונך עומדת</l>
+          <l>עיר טבולה בבכי הצרצרים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ובראותך כי דרך עוד צופה אל הלך</l>
+          <l>והירח על כידון הברוש</l>
+          <l>אתה אומר אלי העוד ישנם כל אלה</l>
+          <l>העוד מותר</l>
+          <l>בלחש בשלומם לדרוש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מאגמיהם המים ניבטים אלינו</l>
+          <l>שוקט העץ באודם עגילים</l>
+          <l>ולעד לא תיעקר ממני אלוהינו</l>
+          <l>תוגת צעצועיך הגדולים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

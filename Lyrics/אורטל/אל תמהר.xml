@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תמהר</title>
+        <singer classification="unknown">אורטל 2</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>יוסי גיספן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תמהר</head>
+        <lg number="1" type="stanza">
+          <l>שלוש בבוקר תל אביב בטיילת</l>
+          <l>בית קפה מזמינה לי הפוך</l>
+          <l>פתאום הופיע חתיך שם בדלת</l>
+          <l>הביט אלי וניגש בחיוך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הושיט לי פרח אז חייכתי בשקט</l>
+          <l>אני יודעת לשחק את המשחק</l>
+          <l>הוא לא מבין אני לא סתם שותקת</l>
+          <l>ובעיניו ראיתי איך הוא נדלק</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תמהר חכה אל תמהר</l>
+          <l>מבט ראשון זו אשליה חולפת</l>
+          <l>אל תמהר חכה אל תמהר</l>
+          <l>זה לא הפרי זו הקליפה שעוטפת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שם מתחת שהבוקר הגיע</l>
+          <l>דיברנו שם על הא ועל דא</l>
+          <l>אולי מחר ניסע להרצליה</l>
+          <l>אז אמרתי לו כדאי שתדע</l>
+          <l>אני לא מחפשת קשר רומנטי</l>
+          <l>בסך הכל רציתי הפוך</l>
+          <l>היה נעים את הפרח אהבתי</l>
+          <l>ולא אכפת לי לקבל עוד חיוך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל תמהר חכה אל תמהר</l>
+          <l>מבט ראשון זו אשליה חולפת</l>
+          <l>אל תמהר חכה אל תמהר</l>
+          <l>זה לא הפרי זו הקליפה שעוטפת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

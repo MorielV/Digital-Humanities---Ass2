@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תפילה של יום עצוב</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>הנס בלום</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תפילה של יום עצוב</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>על דף נייר תמים </l>
+          <l>בטח נכתבים עכשיו </l>
+          <l>שירים נעלמים </l>
+          <l>מילים שנאמרו לשוא </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איני רוצה שירה על דף כתוב </l>
+          <l>תן לי רק תפילה של יום עצוב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שאוכל למלמל </l>
+          <l>בלי קול ובלי מילה </l>
+          <l>בערפל </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>על דף נייר תמים... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>איני רוצה מילה מתוך מכתב </l>
+          <l>תן לי רק חיוך וסודותיו </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>שאוכל לחייך </l>
+          <l>מעט, אולי פחות </l>
+          <l>גם כשתלך </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>איני רוצה שירה בכתב תמים </l>
+          <l>תן לי רק את זכר הימים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

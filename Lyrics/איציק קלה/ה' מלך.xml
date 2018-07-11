@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ה מלך</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>מאיר עמר</composer>
+        <album>לך אלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ה' מלך</head>
+        <lg number="1" type="stanza">
+          <l>ברגעים כל כך יפים,</l>
+          <l>שלעולם לא שוכחים</l>
+          <l>השמים נפתחים</l>
+          <l>ויורדות טיפות של אושר</l>
+          <l>ואני עם אמונה בלב ובנשמה,</l>
+          <l>אהבה היא מתנה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ה' מלך, ה' מלך </l>
+          <l>ה’ ימלוך לעולם ועד עלינו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>להרגיש את החיים</l>
+          <l>מלטפים את הפנים</l>
+          <l>והרגש בליבי</l>
+          <l>נפתח עליי כמו פרח</l>
+          <l>והדרך היפה</l>
+          <l>מתחברת בסופה</l>
+          <l>אליך כל דקה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ה' מלך, ה' מלך </l>
+          <l>ה' ימלוך לעולם ועד עלינו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

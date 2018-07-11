@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נערה ממש אוצר</title>
+        <singer classification="male singer">אריס סאן</singer>
+        <writer>יהודה אופן</writer>
+        <composer>אריס סאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נערה ממש אוצר</head>
+        <lg number="1" type="stanza">
+          <l>יש סיפור המסופר מאב לבן</l>
+          <l>שהיתה אי פעם לקמצן זקן</l>
+          <l>בת אחת ויחידה יפהפיה</l>
+          <l>הוא רצה שתתחתן בלי נדוניה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נערה ממש אוצר</l>
+          <l>לא צריך עוד שום דבר</l>
+          <l>כתוספת לאוצר כה נהדר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הם הלכו והתחתנו למרות הכל</l>
+          <l>כי ידעו שהעולם יפה גדול</l>
+          <l>ועל הר גבוה הם בנו ביתם</l>
+          <l>וחיו מאושרים יחדיו אי שם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נערה ממש אוצר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יום אחד ביתו של הזקן נשרף</l>
+          <l>נשרפו האוצרות שהוא אסף</l>
+          <l>ועל דלת בית הזוג האיש הקיש</l>
+          <l>אבל החתן אמר שם אל האיש:</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נערה ממש אוצר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

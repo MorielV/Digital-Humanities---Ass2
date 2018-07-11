@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק אתה</title>
+        <singer classification="female singer">אתי לוי</singer>
+        <writer>אמיר נשר</writer>
+        <composer>דורון אלימלך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק אתה</head>
+        <lg number="1" type="stanza">
+          <l>הלילה אל עולמי הגעת,</l>
+          <l>מכל הנשים בחרת להיות איתי</l>
+          <l>ידעתי האושר מתקרב, הלב כבר מסתובב,</l>
+          <l>אני מאוהבת הזמן הגיע,</l>
+          <l>אלוקים כבר יודע שחיכיתי לך שנים...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רק אותך אני אוהבת, לך אני נשבעת</l>
+          <l>רק אתה, רק אתה, ממלא אותי באהבה..</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתרגשת כל בוקר לצידך</l>
+          <l>הכל פורח רק איתך מושלם ואמיתי</l>
+          <l>ידעתי האושר מתקרב, הלב כבר מסתובב,</l>
+          <l>אני מאוהבת הזמן הגיע,</l>
+          <l>אלוקים כבר יודע שחיכיתי לך שנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

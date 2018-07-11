@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר לשלום</title>
+        <singer classification="unknown">אברהם לוי</singer>
+        <writer>שאול עובדיה</writer>
+        <composer>שאול עובדיה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר לשלום</head>
+        <lg number="1" type="stanza">
+          <l>רוצה לשיר אל העולם</l>
+          <l>רוצה לשמח את כולם</l>
+          <l>להוציא אותך אל האור</l>
+          <l>ואת העולם אל הדרור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שמש מפציעה מן ההרים</l>
+          <l>מי מדבר לך זורמים</l>
+          <l>בני אדם לך שרים</l>
+          <l>ובנווה מדבר לך רוקדים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם תדברי שלום</l>
+          <l>אני איתך בחלום</l>
+          <l>אם תלחשי שלום</l>
+          <l>אני איתך יהלום</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הנחלים שלך אלייך שורקים</l>
+          <l>ובראש ההר עוד יש חיים</l>
+          <l>ורק אותך תמיד אוהב</l>
+          <l>ואני שלך תמיד לעד</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רוצה לשיר אל העולם</l>
+          <l>רוצה לשמח את כולם</l>
+          <l>להוציא אותך אל האור</l>
+          <l>את כל העולם אל הדרור</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אם תדברי שלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

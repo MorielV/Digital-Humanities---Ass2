@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכי טובה בעולם</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>גילי זכאי</writer>
+        <composer>גילי זכאי</composer>
+        <album>חלק מחיי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכי טובה בעולם</head>
+        <lg number="1" type="stanza">
+          <l>את יודעת איך לבוא בשקט</l>
+          <l>לקרוא בנשמתי</l>
+          <l>כשיש לי רגעים קשים, עוטפת</l>
+          <l>מודה לאל שאת איתי</l>
+          <l>את החומות שבליבי שוברת</l>
+          <l>מבינה אותי תמיד</l>
+          <l>את המילים הנכונות אומרת</l>
+          <l>עכשיו תורי לך להגיד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את הכי טובה בעולם</l>
+          <l>את הכל בשבילי</l>
+          <l>כל רגע איתך זה הרגע שלי</l>
+          <l>אל תשאלי רק תשמעי אותי אומר לך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גם אם לפעמים אני בטוח</l>
+          <l>שהיכרתי את כולך</l>
+          <l>את מפתיעה אותי כמו צליל של רוח</l>
+          <l>שבקלות אותי הופך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את הכי טובה בעולם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>גם אם הכל פתאום הפוך</l>
+          <l>ובא לי סתם בתוך הפוך</l>
+          <l>להתחפר להיעלם לכמה זמן</l>
+          <l>גם אם הכל הולך עקום</l>
+          <l>את הסיבה שלי לקום</l>
+          <l>ולצעוק הכי חזק...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את הכי טובה בעולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

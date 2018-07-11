@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>וידוי 3</title>
+        <singer classification="unknown">ארז יחיאל</singer>
+        <writer>ארז יחיאל</writer>
+        <composer>ארז יחיאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>וידוי</head>
+        <lg number="1" type="stanza">
+          <l>הנה אני עומד ומתוודה </l>
+          <l>על שחטאתי, אני מודה. </l>
+          <l>בניב שפתי לך אני לוחש </l>
+          <l>כי מה אומר ומה אבקש. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גם אם יצרי עלי גבר, </l>
+          <l>ואני בעינייך כנכר. </l>
+          <l>אל נא חמול עלי בחסדך, </l>
+          <l>ועל ראשי שים ברכתך. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>גם אם חטאתי אלוקי, </l>
+          <l>האר נא לי נתיב חיי. </l>
+          <l>גם אם יצרי אותי ניצח, </l>
+          <l>את עבדך אל נא תזנח. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עומד אני לפנייך שוב נרגש, </l>
+          <l>לחסות בצל תורתך אני ניגש. </l>
+          <l>תפילות יום הדין כיצד אלחש, </l>
+          <l>ןאני ערום ומה אלבש.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>גם אם חטאתי אלוקי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

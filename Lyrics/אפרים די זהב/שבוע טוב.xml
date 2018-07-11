@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שבוע טוב</title>
+        <singer classification="unknown">אפרים די זהב</singer>
+        <writer>עממי</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שבוע טוב</head>
+        <lg number="1" type="stanza">
+          <l>שָׁבוּעַ טוֹב x8</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הַמַּבְדִּיל בֵּין קֹדֶשׁ לְחֹל</l>
+          <l>חַטֹּאתֵינוּ הוּא יִמְחֹל </l>
+          <l>זַרְעֵנוּ וְכַסְפֵּנוּ יַרְבֶּה כַּחוֹל</l>
+          <l>וְכַכּוֹכָבִים בַּלַּיְלָה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שָׁבוּעַ טוֹב x4</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אֵלִיָּהוּ הַנָּבִיא</l>
+          <l>אֵלִיָּהוּ הַתִּשְׁבִּי </l>
+          <l>אֵלִיָּהוּ הַגִּלְעָדִי</l>
+          <l>בִּמְהֵרָה יָבוֹא אֵלֵינוּ </l>
+          <l>אֵלִיָּהוּ הַנָּבִיא</l>
+          <l>בִּמְהֵרָה בְּיָמֵינוּ</l>
+          <l>עִם מָשִׁיחַ בֶּן דָּוִד.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שָׁבוּעַ טוֹב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

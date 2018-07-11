@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התגשמות</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התגשמות</head>
+        <lg number="1" type="stanza">
+          <l>כבר פתחו חלונות, העולם הוזה,</l>
+          <l>פתחו לרוחב את חדרי ליבי.</l>
+          <l>נבונות היונים בעולם הזה</l>
+          <l>ושוב אתה זורח בקרבי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שר העולם בשבילך,</l>
+          <l>פרחי פרחים עולים אל המרום.</l>
+          <l>שוב התגשם חלומך,</l>
+          <l>אני הייתי זו שבחלום.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בשבילים רחוקים יעלה האד</l>
+          <l>והאביב עוסק בחטאיו.</l>
+          <l>הפרפר שאפגוש, לבבו רועד,</l>
+          <l>ליבי, ליבי עליך ועליו.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שר העולם בשבילך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והיום, עוללי, לא נותר דבר,</l>
+          <l>מלבד אותו חלום שהתגשם.</l>
+          <l>בחלום, סתיו אחר, את כוסו שבר</l>
+          <l>ושוב אביב על צווארך נושם.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שר העולם בשבילך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

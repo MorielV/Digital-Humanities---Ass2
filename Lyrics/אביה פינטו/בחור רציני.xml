@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחור רציני</title>
+        <singer classification="unknown">אביה פינטו</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>iwan</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחור רציני</head>
+        <lg number="1" type="stanza">
+          <l>את לא מתקשרת ואני כבר בסרט</l>
+          <l>זו את שחיפשתי ועליה התפללתי</l>
+          <l>כמה חלמתי שאליי תבואי </l>
+          <l>ולמולי תופיעי את</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תדעי לך שאני בחור רציני</l>
+          <l>ואם את פנויה</l>
+          <l>אז בואי אהובה הלילה הוא שלך</l>
+          <l>ואור כוכב עליך יזרח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אליך רציתי ומה לא עשיתי</l>
+          <l>יש בך את כל מה שחסר לי ובך התאהבתי</l>
+          <l>אני מתגעגע לאן לא יודע</l>
+          <l>ולך אני מודיע כל היום בך שקוע</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

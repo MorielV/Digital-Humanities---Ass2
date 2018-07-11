@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מדבר המלח</title>
+        <singer classification="unknown">אמנון אבוטבול</singer>
+        <writer>אמנון אבוטבול</writer>
+        <composer>אמנון אבוטבול</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מדבר המלח</head>
+        <lg number="1" type="stanza">
+          <l>ירד אל מדבר המלח ליום נשאר שבוע</l>
+          <l>בכל יום פשט הוא בגד עד עירום</l>
+          <l>מכסה גופו בבוץ כמו שמש כסף</l>
+          <l>והוא בן מלך ומסביב הכל שלו</l>
+          <l>ושקט איזה שקט</l>
+          <l>שוב שומע אלוהיו</l>
+          <l>הוא קורה לו לחזור</l>
+          <l>במקום הכי נמוך בעולמך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשלבי צורח ואני בורח רחוק מכאן</l>
+          <l>שועט על כביש פתוח יחד עם הרוח אבל לאן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>צף במדבר המלח</l>
+          <l>דרך שמש רואה ירח</l>
+          <l>קול קורא אל השמיים</l>
+          <l>הד חוזר מן ההרים</l>
+          <l>אין לו גוף גם לא שם גם לא אופי</l>
+          <l>לא רוצה הוא לחזור </l>
+          <l>למקום הכי נמוך בעולמך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשלבי צורח ואני בורח רחוק מכאן</l>
+          <l>שועט על כביש פתוח יחד עם הרוח אבל לאן</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל הים הכי מלוח אני בא כל כך פתוח ונעלם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

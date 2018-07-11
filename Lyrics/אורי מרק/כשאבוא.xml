@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשאבוא</title>
+        <singer classification="unknown">אורי מרק</singer>
+        <writer>אורי מרק</writer>
+        <composer>אורי מרק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשאבוא</head>
+        <lg number="1" type="stanza">
+          <l>האם הכמיהה לרצייה היא רצון</l>
+          <l>מרצין וכבר חומד לצון</l>
+          <l>בורח לנקודת קיצון</l>
+          <l>אל עבר החלל החיצון</l>
+          <l>את חושבת שעכשיו הזמן</l>
+          <l>לפרוע את החוב במזומן</l>
+          <l>אני שולח את ידי, מיומן</l>
+          <l>נפשי היא מנגנון משומן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשאבוא לא נדבר על מה שבוער</l>
+          <l>כשאבוא לא תשקעי היכן שתהיי</l>
+          <l>כשאברח אל ההרים אז</l>
+          <l>אקח אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האם אתפנה להפוגה חטופה</l>
+          <l>שנתי בלילותיי טרופה</l>
+          <l>הדאגה במליצה הדופה</l>
+          <l>לא זו גם זו תהיה לי תרופה</l>
+          <l>את – בצעי בי שיגיון שאכיר</l>
+          <l>אני אנוס מראש להזכיר</l>
+          <l>הכל, שעון על הריסות הקיר</l>
+          <l>זכיתי את האור להפקיר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשאבוא לא נדבר על מה שבוער</l>
+          <l>כשאבוא לא תשקעי היכן שתהיי</l>
+          <l>כשאברח אל ההרים אז</l>
+          <l>אקח אותך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

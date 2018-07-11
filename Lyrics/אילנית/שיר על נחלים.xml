@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר על נחלים</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר על נחלים</head>
+        <lg number="1" type="stanza">
+          <l>מי הנחלים</l>
+          <l>מקיימים את הזרימה</l>
+          <l>שנה אחר שנה,</l>
+          <l>שנה אחר שנה.</l>
+          <l>הם יצננו</l>
+          <l>את רגלינו הדולקות,</l>
+          <l>רגלינו הדולקות</l>
+          <l>ולא את הנשמה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמו על נחלים</l>
+          <l>זרועותינו משתלבות</l>
+          <l>וגשר מהוות</l>
+          <l>לתום ולתקווה.</l>
+          <l>הכאב הזה,</l>
+          <l>הכאב המתלווה,</l>
+          <l>גם הכאב הזה</l>
+          <l>שייך לאהבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אנשים יוצאים</l>
+          <l>וחושבים להתראות</l>
+          <l>וזו הכוונה,</l>
+          <l>וזו הכוונה.</l>
+          <l>פעם נקיים</l>
+          <l>כי בפתק שבלב,</l>
+          <l>בפתק שבלב</l>
+          <l>הכתובת רשומה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמו על נחלים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מסר לו את אהבתי</title>
+        <singer classification="unknown">אור כהן</singer>
+        <writer>אור כהן יעקב</writer>
+        <composer>מאור תיתון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מסר לו את אהבתי</head>
+        <lg number="1" type="stanza">
+          <l>מסור לו את אהבתי</l>
+          <l>שיש בלב שלי יש עוד מקום</l>
+          <l>אמור לו  שרגליי כורעות</l>
+          <l>תחת משאן  הנורא והאיום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מסור לו שראיתי אותו היום</l>
+          <l>חולף לו  ברחוב</l>
+          <l>שלא חלמתי על הרגע</l>
+          <l>שהוא יהיה כל כך קרוב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>פזמון :</l>
+          <l>והלב נחמץ מהבדידות הנוראית</l>
+          <l>כי לא אוכל לשוב להתחלה מאחרית</l>
+          <l>מסור לו שהשקט גבר</l>
+          <l>ולא נשכח הוא עם הזמן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>וזכרתי את הרגע הראשון</l>
+          <l>ועם כל זאת ועם הזמן</l>
+          <l>לא קם האיש</l>
+          <l>שיעצור את השעון</l>
+          <l>את השעון</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וכל השנים ביחד</l>
+          <l>לא עברו מזמן</l>
+          <l>עבר חמק עם כל הפחד</l>
+          <l>רחק כמו השיר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>פזמון :</l>
+          <l>והלב נחמץ מהבדידות הנוראית</l>
+          <l>כי לא אוכל לשוב להתחלה מאחרית</l>
+          <l>מסור לו שהשקט גבר</l>
+          <l>ולא נשכח הוא עם הזמן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

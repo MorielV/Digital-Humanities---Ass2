@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התאבדות</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התאבדות</head>
+        <lg number="1" type="stanza">
+          <l>אמא שלי, תני לי יד</l>
+          <l>שלא אאבד</l>
+          <l>אבא שלי, תפוס אותי די חזק</l>
+          <l>שלא ניפרד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא רוצה לה-ת-א-ב-ד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שירה, תני לי חום</l>
+          <l>אחותי היקרה</l>
+          <l>ואביב, תהיה חזק</l>
+          <l>לא חשוב מה קרה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא רוצה לה-ת-א-ב-ד</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואלוהים שם מחייך</l>
+          <l>כשאתה סובל</l>
+          <l>שולח מלאכים</l>
+          <l>ואמא</l>
+          <l>אני נופל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כוכבי בלילה</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כוכבי בלילה</head>
+        <lg number="1" type="stanza">
+          <l>כתבת שמצאת אהבה</l>
+          <l>היא צעירה, נותנת הרגשה טובה</l>
+          <l>זה לא הזמן שלי, זה הזמן שלה</l>
+          <l>חיכיתי חודש</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה מאוד חשוב לי שתדע</l>
+          <l>שאני מאוד אוהב אותך</l>
+          <l>ובכל יום שעובר</l>
+          <l>טיפה לוחץ עלי הגעגוע</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כוכבי בלילה, תשמור עליו חזק</l>
+          <l>ליבי אינו מרגיש כלל במרחק</l>
+          <l>כוכבי בלילה, מתי הוא יחזור</l>
+          <l>השביל אליו חשוך אז תן לי אור</l>
+          <l>תגיד לי כבר מתי הוא יחזור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בלילה אתה באת לי פתאום</l>
+          <l>התחבקנו על חופו של החלום</l>
+          <l>וכשהלכת הגיעו הדמעות</l>
+          <l>עד אור הבוקר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כוכבי בלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

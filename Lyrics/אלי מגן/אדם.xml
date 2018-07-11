@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אדם 10</title>
+        <singer classification="unknown">אלי מגן</singer>
+        <writer>מירון איזקסון</writer>
+        <composer>אלי מגן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אדם</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>לולא נבראתי לא הייתם באים</l>
+          <l>לולא בחרתי בטוב וברע</l>
+          <l>לא הייתם מתים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לולא גורשתי לא הייתם מתגעגעים</l>
+          <l>לולא לבשתי לא הייתם מתפשטים</l>
+          <l>לא מתפשטים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לולא בני לא הייתם הורגים</l>
+          <l>לולא אשתי לא, לא הייתם מנחשים</l>
+          <l>מנחשים</l>
+          <l>לא מנחשים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>למרות מאותי אותי זוכרים</l>
+          <l>למרות מחבואי אותי אינכם מוצאים</l>
+          <l>אינכם מוצאים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לולא נבראתי לא הייתם באים</l>
+          <l>לולא בחרתי בטוב וברע</l>
+          <l>לא הייתם מתים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

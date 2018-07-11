@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לנצח בני</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>נורית בת שחר צפריר</writer>
+        <composer>אקורדים</composer>
+        <album>זה אני</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לנצח בני</head>
+        <lg number="1" type="stanza">
+          <l>ילדי תשמור על עצמך מכל צרה -</l>
+          <l>ברחוב העיר ובסמטה צרה.</l>
+          <l>הזהר מן המושחת מן המופקר</l>
+          <l>ומן הלענה המצופה סוכר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הזהר ילדי מכל צורות הרשע -</l>
+          <l>מדבש דביק בטעם של מרור,</l>
+          <l>מאלימות ומזירות הפשע,</l>
+          <l>משנאת חינם, מפיגועי טרור.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הזהר מים סוער,</l>
+          <l>ואויב שמסתער,</l>
+          <l>השמר מקיר בוער,</l>
+          <l>ומן הרכב הדוהר,</l>
+          <l>שלנצח בני,</l>
+          <l>שלנצח בני,</l>
+          <l>שלנצח בני,</l>
+          <l>רק תישמר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הזהר מן הקללה הלא כתובה,</l>
+          <l>משטח ההפקר בשם האהבה,</l>
+          <l>על עצמך תשמור הו ילד מאוהב,</l>
+          <l>מהבטחות המצופות זהב.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הזהר מהממית והפוצע,</l>
+          <l>כי החיים תלויים על חוט השערה.</l>
+          <l>גם אהובה עיתים תשלוף קוציה,</l>
+          <l>אל תסדק אל מול מראה שבורה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הזהר מים סוער...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>תרחק ילדי מן הזומם והחוטא,</l>
+          <l>מהקוצים ומן העשב השוטה,</l>
+          <l>מהנקטף ומן העץ הנעקר,</l>
+          <l>וקח גרביים ומעיל בלילה קר.</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>אל תיכנע כשתאבד גם פרח,</l>
+          <l>כשהאישה אשר תאהב אולי תברח,</l>
+          <l>אל תלך באש ואל תלך בקרח,</l>
+          <l>כי גם אתה ילדי, בסוף תפרח.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

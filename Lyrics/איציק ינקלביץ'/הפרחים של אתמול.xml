@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הפרחים של אתמול</title>
+        <singer classification="unknown">איציק ינקלביץ </singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>איציק ינקלביץ'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הפרחים של אתמול</head>
+        <lg number="1" type="stanza">
+          <l>הפרחים של אתמול </l>
+          <l>התייבשו כמו מדבר. </l>
+          <l>הצחוקים של אתמול </l>
+          <l>נאספו לבכי מר. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הפנים של אתמול </l>
+          <l>שייכות לעבר. </l>
+          <l>השירים של אתמול </l>
+          <l>עוד ישירו מחר. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כי רק השירים </l>
+          <l>כן, רק השירים </l>
+          <l>ימשיכו אחרי לכתי </l>
+          <l>על גלי המילים </l>
+          <l>ותווי הצלילים </l>
+          <l>שבתוך נשמתי </l>
+          <l>חרותים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

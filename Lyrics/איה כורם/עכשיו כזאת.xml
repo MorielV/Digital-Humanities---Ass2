@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עכשיו כזאת</title>
+        <singer classification="unknown">איה כורם</singer>
+        <writer>איה כורם</writer>
+        <composer>עילי בוטנר</composer>
+        <album>שפה זרה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עכשיו כזאת</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו כזאת ואז אחרת, אבל בהבדלים קטנים</l>
+          <l>ואל תדאג, אני סופרת את הדברים שמשתנים</l>
+          <l>איך מהבית והגוף נעלמים הסימנים</l>
+          <l>שוב מחייכת מבחוץ ומתרוקנת מבפנים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני אספור ימי הולדת, את העונות שמתחלפות</l>
+          <l>את החגים, השערות הלבנות שנוספות</l>
+          <l>הרהיטים ודאי יזוזו וישובו למקומם</l>
+          <l>אתה תשלח לי כמה מכתבים, אני אקרא אותם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אתן למים הקרים לשטוף אותי, את כל הגוף</l>
+          <l>ואגרד בציפורניים את העצב החשוף</l>
+          <l>ואני לא אכתוב, או כן אכתוב, או רק אתחיל בלי לסיים</l>
+          <l>אני אבטיח הבטחות אבל אני לא אקיים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני אזכור אותך ודאי עד שלא אוכל לשאת יותר</l>
+          <l>אשכח אותך לאט לאט ואז אשוב להיזכר</l>
+          <l>אגלה שבלעדייך, אני יכולה להסתדר</l>
+          <l>אני אשכח את זה מעט ואז אשוב להיזכר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אתן למים הקרים לשטוף אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

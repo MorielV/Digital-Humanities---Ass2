@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האושר שלי</title>
+        <singer classification="unknown">אריאל ישראלוב</singer>
+        <writer>אריאל ישראלוב</writer>
+        <composer>אריאל ישראלוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האושר שלי</head>
+        <lg number="1" type="stanza">
+          <l>כאן זה התחיל במבט קסום אחד</l>
+          <l>את שתי עינייך היפות אשמור איתי לעד</l>
+          <l>אלה רק אני ואת כנגד כל הסיכויים</l>
+          <l>יחד יד ביד לאוהב לעולמים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם תנסי להבין את ליבי </l>
+          <l>רק אז תביני שאת כל עולמי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פזמון:</l>
+          <l>את החיוך שמסתתר מאחורי העצב שכואב</l>
+          <l>את היא הכוח שמחזיק אותי תמיד שלוו</l>
+          <l>אם תשכחי לו לרגע שאני אותך אוהב</l>
+          <l>אז רק אראה לך את העוצמה שיש בלב </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לילה את נרדמת עם חיוך על הפנים</l>
+          <l>מבין שאין אחרת שאת ליבי תסעיר</l>
+          <l>נישקתי את שפתייך שקעתי בחלום </l>
+          <l>ושוב רואה עינייך יפה כיהלום</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם תנסי להבין את ליבי </l>
+          <l>רק אז תביני שאת כל עולמי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>פזמון:</l>
+          <l>את החיוך שמסתתר מאחורי העצב שכואב</l>
+          <l>את היא הכוח שמחזיק אותי תמיד שלוו</l>
+          <l>אם תשכחי לו לרגע שאני אותך אוהב</l>
+          <l>רק אז אראה לך את העוצמה שיש בלב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

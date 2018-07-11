@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הדרך אל הכפר</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הדרך אל הכפר</head>
+        <lg number="1" type="stanza">
+          <l>על הדרך היורדת מן הכפר</l>
+          <l>בין עצי האלונים והאלה</l>
+          <l>נשארו עוד בוודאי צעדי ועקבותי</l>
+          <l>ואימי עוד קוראת לי בקולה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אך איני יודע מה קרה</l>
+          <l>אי אבדה הדרך הברוכה</l>
+          <l>אי אבדה הדרך אל הכפר</l>
+          <l>הדרך בה רציתי לשוב בחזרה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל הדרך הקסומה של ילדותי</l>
+          <l>אני שב בחסות הערפל</l>
+          <l>ונוגע בכולם בפניהם ובקולם</l>
+          <l>כמו נוגע בארץ ישראל.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אך איני יודע מה קרה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואני עובר ואני זוכר</l>
+          <l>כל מה שהשארתי שם</l>
+          <l>עוד ניצב הבית בין עצי הזית</l>
+          <l>רוח באה מן הים.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עוד ניצב הבית בין עצי הזית</l>
+          <l>רוח באה מן הים</l>
+          <l>ואני עובר ואני זוכר</l>
+          <l>וליבי עודנו שם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משהו 4</title>
+        <singer classification="female singer">אמילי קרפל</singer>
+        <writer>גליה ירון</writer>
+        <composer>תומר אדם לנצינגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משהו</head>
+        <lg number="1" type="stanza">
+          <l>משהו מוזר קורה עכשיו</l>
+          <l>המציאות מכה, היא כמו סכין בגס</l>
+          <l>אין כל פחד רק רצון לצאת</l>
+          <l>בשם ההיגיון למען האמת</l>
+          <l>מחר, אמצא מקום פתוח</l>
+          <l>ושם, מדעתי אצא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בא לי רק לשרוף, בא לי עד הסוף</l>
+          <l>ככה כמו נהר בא בלב מדבר</l>
+          <l>בא לי רק לזרום, כמו השיטפון</l>
+          <l>עד שלא אדע מי אני ומי אתה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוא איתי, נמצא פינה לחשוב</l>
+          <l>גם אם נהיה לבד נרגיש הכי קרוב</l>
+          <l>כדאי שנכוון גבוה</l>
+          <l>מכאן, אפשר רק לטפס</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בא לי רק רק לשרוף רק לברוח...</l>
+          <l>זה הזמן חוטף אותי ובורח מכאן</l>
+          <l>הוא מנסה ממני חלק קטן</l>
+          <l>הוא מסתובב ומתעורר עד שהוא בא שוב</l>
+          <l>כשהוא בא, הוא מסובב אותי על אצבע קטנה</l>
+          <l>ללא חשש הוא מנטרל אותי ככה</l>
+          <l>מהפנט/מהפנט/מהפנט/מהפנט</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בא לי רק לשרוף, בא לי עד הסוף</l>
+          <l>ככה כמו נהר בא בלב מדבר</l>
+          <l>בא לי רק לזרום, כמו השיטפון</l>
+          <l>עד שלא אדע מי אני ומי אתה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

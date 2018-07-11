@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נעים לדעת</title>
+        <singer classification="unknown">אומני ישראל</singer>
+        <writer>אהוד מנור</writer>
+        <composer>קובי אושרת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נעים לדעת</head>
+        <lg number="1" type="stanza">
+          <l>נעים לדעת שחושבים עליך</l>
+          <l>זה טוב לדעת שלמישהו איכפת</l>
+          <l>הקול החם אשר נשלח מעבר ים</l>
+          <l>עובר חצי עולם עושה דרכו אלייך</l>
+          <l>וליבך נפתח אל כל מילה</l>
+          <l>אל כל מבט</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הלב נפתח ומתמלא</l>
+          <l>אבל אתה לא מתפלא</l>
+          <l>שבארצם של וינסנט ושל אנה</l>
+          <l>עוד זוכרים מה שרבים</l>
+          <l>כבר שכחו מזמן</l>
+          <l>זה שבשדות הצבעונים</l>
+          <l>האדומים של הולנד</l>
+          <l>עוד פורחים עלי כותרת</l>
+          <l>בכחול ובלבן</l>
+          <l>עלי כותרת בכחול לבן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

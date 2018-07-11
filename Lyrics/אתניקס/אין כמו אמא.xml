@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין כמו אמא</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין כמו אמא</head>
+        <lg number="1" type="stanza">
+          <l>כבר שנים אני חושב שאין כמו אמא</l>
+          <l>זו שנתנה לי את חיי</l>
+          <l>בשמחה ובכאב אמרה "קדימה"</l>
+          <l>חיזקה אותי מנעוריי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וזה יושב אצלי בלב</l>
+          <l>כי אותה אני אוהב כל חיי</l>
+          <l>בשבילה אני מושלם</l>
+          <l>הכוכב של העולם מנעורי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אמא, בזמנים קשים את הכאב הפנימה</l>
+          <l>בחיוך כובש היא את כולם הקסימה</l>
+          <l>את הנפש היא כובשת מבפנים</l>
+          <l>אמא, מחשבות עולות ומתחזקות בי פנימה</l>
+          <l>את החלומות שלי תמיד הגשימה</l>
+          <l>את הנפש היא כובשת מבפנים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כבר שנים אני חושב שאין כמו אמא</l>
+          <l>זו שבישלה לי מטעמים</l>
+          <l>כשכשלו רגלי אותי תמיד הקימה</l>
+          <l>חיזקה אותי כל השנים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>וזה יושב אצלי בלב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

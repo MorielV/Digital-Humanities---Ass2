@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עצב מתוק</title>
+        <singer classification="unknown">אביעד שלום</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>אלי משה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עצב מתוק</head>
+        <lg number="1" type="stanza">
+          <l>חזרתי אליך שבור ואוהב</l>
+          <l>מתוך געגוע ומן הכאב</l>
+          <l>אמרת לי בשקט ללכת ממך</l>
+          <l>כשחיפשתי מילים לדבר אל לבך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עצב מתוק עמוק בעינייך</l>
+          <l>עצב מתוק קורא לי אלייך</l>
+          <l>אני לא אמשיך בלעדייך</l>
+          <l>כל עוד אני חי וקיים</l>
+          <l>גם אם יפלו השמיים</l>
+          <l>ויתהפך העולם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שיכור מאוהב מסתובב ברחובות</l>
+          <l>אני עם הלילה ועם המחשבות</l>
+          <l>מקווה שעדיין יקרה איזה נס</l>
+          <l>ותתני לי ממך רק חיוך מתפייס. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עצב מתוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

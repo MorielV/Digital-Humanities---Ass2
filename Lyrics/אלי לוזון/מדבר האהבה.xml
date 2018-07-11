@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מדבר האהבה</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>נורית בת-שחר צפריר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מדבר האהבה</head>
+        <lg number="1" type="stanza">
+          <l>מדבר האהבה נגלה</l>
+          <l>בלילה קר.</l>
+          <l>חום גופך אל אבנים</l>
+          <l>נשבר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואני כמו ים סערה</l>
+          <l>לבדי, הדרך לא ברורה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שתיקת הנשמה קוראת אליה</l>
+          <l>כי עקבות רגליך הן אבק</l>
+          <l>ואני דומע בדממה</l>
+          <l>את לא שם וקול אינו נשמע.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לבדי, כי את היית לי ים של חול</l>
+          <l>כי מדבר האהבה שלך גדול</l>
+          <l>תני סימן קטן מן השממה</l>
+          <l>ענן לבן נודד על פני האדמה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

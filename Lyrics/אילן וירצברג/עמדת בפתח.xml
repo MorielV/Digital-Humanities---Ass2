@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עמדת בפתח</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>אילן וירצברג</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עמדת בפתח</head>
+        <lg number="1" type="stanza">
+          <l>את אז עמדת בפתח</l>
+          <l>את אז קראת לי לבוא</l>
+          <l>מתי שתרצה אמרת לי</l>
+          <l>מה שתרצה תגיד</l>
+          <l>אחר כך סגרת את הדלת</l>
+          <l>אני נשארתי בחוץ</l>
+          <l>מה שתרצה אמרת לי</l>
+          <l>אבל את כבר לא רצית</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את אז עמדת בפתח</l>
+          <l>את אז אמרת לי בוא</l>
+          <l>מתי שתרצה אמרת לי</l>
+          <l>מה שתרצה תגיד</l>
+          <l>אחר כך היית כועסת</l>
+          <l>אחר כך היית בוכה</l>
+          <l>מה שתרצי אמרתי</l>
+          <l>אבל את כבר לא רצית שום דבר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

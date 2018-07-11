@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>געגועי לללניה</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>געגועי לללניה</head>
+        <lg number="1" type="stanza">
+          <l>אני אדם</l>
+          <l>קשוח כמו סלע</l>
+          <l>ואת הרוחות המלטפות</l>
+          <l>נושבות מים</l>
+          <l>נדבק בי המלח</l>
+          <l>השארת בי מזכרות קטנות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עד כמה את יפה אני יודע</l>
+          <l>מזכרות קטנות הן סימנים</l>
+          <l>אבל אחרי הכל יבש המלח</l>
+          <l>יבש על הפצעים</l>
+          <l>והפצעים הם געגועים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני נרדם</l>
+          <l>משוח במלח</l>
+          <l>את מופיעה לי בחלום</l>
+          <l>לאן הלכת</l>
+          <l>סביב הסלע יש קרח</l>
+          <l>אין עוד שמש, אין עוד יום.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עד כמה את יפה אני יודע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

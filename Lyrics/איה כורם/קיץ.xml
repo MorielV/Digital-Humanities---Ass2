@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קיץ</title>
+        <singer classification="unknown">איה כורם</singer>
+        <writer>איה כורם</writer>
+        <composer>איה כורם</composer>
+        <album>איה כורם</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קיץ</head>
+        <lg number="1" type="stanza">
+          <l>אהוב לובש מעיל עבה אפילו שכבר חם</l>
+          <l>אהוב שלי כורך צעיף סביב צווארו</l>
+          <l>כשהוא מביט למעלה השמיים אפורים</l>
+          <l>הוא מחכה להחלים</l>
+          <l>כדי לבוא אלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והוא יבוא אלי כמו קיץ</l>
+          <l>בלי היסוס בבת אחת</l>
+          <l>ויהיה לי חם</l>
+          <l>הוא יבוא אלי כמו מים</l>
+          <l>הוא יבוא ויכסה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהוב יושב רחוק מכאן </l>
+          <l>ושר עליי שירים </l>
+          <l>והוא שולח מחשבות ומכתבים</l>
+          <l>הוא רואה דרך כל הנשים היפות </l>
+          <l>הוא חושב ורוצה רק אותי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והוא יבוא אלי כמו קיץ...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשאהובי יבוא כמו שני פעמונים </l>
+          <l>שוב נצלצל מתוק מגע מוכר </l>
+          <l>ונאמר אז את כל הדברים הקטנים </l>
+          <l>את כל הדברים שנישאר עוד לומר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>והוא יבוא אלי כמו קיץ...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>וחיכיתי כבר שבוע וחודשיים ושנה </l>
+          <l>וזה נראה לי נצח וזה מרגיש תמיד </l>
+          <l>אהובי הבורח גם אתה הרי יודע </l>
+          <l>אני אוהבת אותך אבל גם את עצמי</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>והוא יבוא אלי כמו קיץ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>העיר באפור</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>נעמי שמר</writer>
+        <composer>נעמי שמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>העיר באפור</head>
+        <lg number="1" type="stanza">
+          <l>אם תרצי שאראה לך את העיר באפור</l>
+          <l>בואי ונטייל בה על אבני מרצפות</l>
+          <l>דום נישא את עינינו ליונים שעפות</l>
+          <l>אם תרצי שאראה לך את העיר באפור.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אז אתן את ידי לך ונרד לרציף</l>
+          <l>ערמות של שלכת שם הרוח יעיף</l>
+          <l>את ודאי תכסי לך את ראשך בצעיף</l>
+          <l>כשאתן את ידי לך ונרד לרציף.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על ספסל אז נשבה ועם רדת האור</l>
+          <l>אם תגידי עייפתי מן העיר באפור</l>
+          <l>אשיבך על כנף נשר ועל גב עננים</l>
+          <l>אל עירך שחיכתה לך בבתים לבנים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

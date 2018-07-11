@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחרי ככלות הכל</title>
+        <singer classification="unknown">אשר ביטון</singer>
+        <writer>משה פרץ</writer>
+        <composer>משה פרץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחרי ככלות הכל</head>
+        <lg number="1" type="stanza">
+          <l>אל אחד אתה נותן לי כוח</l>
+          <l>להבין תמיד ולא לשכוח</l>
+          <l>על מה שיש לי אומר לך תמיד תודה</l>
+          <l>אתה נותן לי את הכוח לתקווה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואחרי ככלות הכל לבדו ימלוך נורא</l>
+          <l>והוא היה והוא הווה והוא יהיה בתפארה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל אחד אתה יוצר שמיים</l>
+          <l>שמור עלינו כמו על עיניים</l>
+          <l>תן בנו כוח להבין את האמת</l>
+          <l>ולא לשכוח שאתה הוא השולט</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואחרי ככלות הכל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

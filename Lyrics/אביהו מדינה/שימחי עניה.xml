@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שימחי עניה</title>
+        <singer classification="male singer">אביהו מדינה</singer>
+        <writer>רבי שלום שבזי</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שימחי עניה</head>
+        <lg number="1" type="stanza">
+          <l>שמחי עניה </l>
+          <l>נגני בכינור </l>
+          <l>עמדי לשורר </l>
+          <l>כי קול מבשר בא </l>
+          <l>משניר ותבור שלום ידבר </l>
+          <l>עורי ישנה פצחי ברינה התבשרי נא </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מגיד וקורא </l>
+          <l>לשבויים דרור</l>
+          <l>הקץ יעורר </l>
+          <l>אומר לציון גואלך ממהר </l>
+          <l>קומי חזי אור </l>
+          <l>עורי ישנה פצחי ברינה התבשרי נא </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יחיש בבן ישי </l>
+          <l>נכדו ונינו </l>
+          <l>ירעה לצאנו </l>
+          <l>ישפוט עניים באמת ומישור </l>
+          <l>משפט יאשר </l>
+          <l>תרבה מנוחה השקט וביטחה שלום ושמחה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

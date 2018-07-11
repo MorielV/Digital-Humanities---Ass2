@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פנים טובות בתוך החשיכה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פנים טובות בתוך החשיכה</head>
+        <lg number="1" type="stanza">
+          <l>כשפקחנו העיניים</l>
+          <l>הם היו שם, כל החברים</l>
+          <l>פנים טובות בתוך החשיכה</l>
+          <l>פנים טובות בחשיכה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשעצמנו העיניים</l>
+          <l>נשארו שם כל החברים</l>
+          <l>פנים טובות בתוך החשיכה</l>
+          <l>פנים טובות בחשיכה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>סעדוני ורפאוני וחזקוני לילה ויום</l>
+          <l>ואנחנו שכואבים היינו ראינו אותם</l>
+          <l>פנים טובות בתוך החשיכה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סעדוני...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואנחנו שכואבים היינו ראינו אותם</l>
+          <l>פנים טובות בתוך החשיכה</l>
+          <l>פנים טובות בחשיכה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

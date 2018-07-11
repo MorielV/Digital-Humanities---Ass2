@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השגחה עליונה</title>
+        <singer classification="unknown">אושרית מלכה</singer>
+        <writer>דורון מדלי</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השגחה עליונה</head>
+        <lg number="1" type="stanza">
+          <l>אני ניצבת </l>
+          <l>מול השלהבת </l>
+          <l>ומקרבת </l>
+          <l>אותך לעיני </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וגם מול עץ הדעת </l>
+          <l>עומדת ודומעת </l>
+          <l>ולא אקטוף </l>
+          <l>את הפרי האסור </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בתוכי יש קול קורא, </l>
+          <l>זה הקול מעלי... </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלוקי, בעיני </l>
+          <l>אני רוצה לומר נשבעתי </l>
+          <l>לקבל בידי </l>
+          <l>את כוח הברכה. </l>
+          <l>השגחה עליונה </l>
+          <l>מעלי תמיד שומרת </l>
+          <l>התפילה בשפתי </l>
+          <l>אין לי מלבדך </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני בוחרת </l>
+          <l>להיות אחרת </l>
+          <l>לא מסתנוורת </l>
+          <l>מאור אחר </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני יודעת </l>
+          <l>כשיד אחר פוגעת </l>
+          <l>יש אור אחד </l>
+          <l>אור אלוהים </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>בתוכי יש קול קורא, </l>
+          <l>זה הקול מעלי </l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>אלוקי, בעיני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

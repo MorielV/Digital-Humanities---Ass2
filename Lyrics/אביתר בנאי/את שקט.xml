@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את שקט</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>missing</composer>
+        <album>עומד על נייר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את שקט</head>
+        <lg number="1" type="stanza">
+          <l>מאושר להתאפק אלייך</l>
+          <l>רוח בלי קול בלילה, כותב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עד שאני מה שאני</l>
+          <l>שאוהב אותך</l>
+          <l>בנקודה שמתחיל בה יופי</l>
+          <l>את שקט את שקט</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>משקה את עצמי בדעת</l>
+          <l>מרווה את השורש עמוק</l>
+          <l>ספר ישן מפעם</l>
+          <l>אותיות שחורות לבנות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עד שאני מה שאני</l>
+          <l>שאוהב אותך</l>
+          <l>בנקודה שמתחיל בה יופי</l>
+          <l>את שקט את שקט</l>
+          <l>בנקודה שמתחיל בה יופי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אמא היתה מדברת בטלפון</l>
+          <l>ומציירת ציורים עם עט על הנייר</l>
+          <l>אבא היה בלי חולצה עובד בגינה</l>
+          <l>אני הייתי פותח מקרר</l>
+          <l>מסתכל וסוגר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

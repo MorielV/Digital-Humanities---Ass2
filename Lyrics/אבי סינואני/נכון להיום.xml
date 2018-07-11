@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נכון להיום</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>שאול בן שאול</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נכון להיום</head>
+        <lg number="1" type="stanza">
+          <l>יום יום אני תולש מהלוח דף</l>
+          <l>יום ראשון עצוב</l>
+          <l>יום שני אני שמח</l>
+          <l>ויום שלישי הוא יום חדש</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שבו אשכב על הגב</l>
+          <l>אתהפך על הבטן</l>
+          <l>והמוח רץ</l>
+          <l>או... עובד כמו חמור</l>
+          <l>במזוזה אני עבד</l>
+          <l>והמוח רץ</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יום יום אני הופך מחומר לאבק</l>
+          <l>יום ראשון שחור</l>
+          <l>יום שני אני זורח</l>
+          <l>ויום שלישי כוכב חדש</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שבו אשכב על הגב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יום יום אני ממתין לסוף הטוב</l>
+          <l>יום ראשון כמעט</l>
+          <l>יום שני את נעלמת</l>
+          <l>ויום שלישי אני לבד</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואז אשכב על הגב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

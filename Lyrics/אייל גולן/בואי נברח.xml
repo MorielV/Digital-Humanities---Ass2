@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי נברח</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>אייל גולן</writer>
+        <composer>עממי בולגרי</composer>
+        <album>חלק מחיי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי נברח</head>
+        <lg number="1" type="stanza">
+          <l>היי...</l>
+          <l>אני רואה אותך במועדון</l>
+          <l>מתי תבואי ותאמרי שלום</l>
+          <l>שלחי לי רק מבט </l>
+          <l>כי כבר קשה לנשום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היי...</l>
+          <l>אם את פה לבד זה מצוין</l>
+          <l>תני סימן אם את גם בעניין</l>
+          <l>משהו בך גורם לרצות עוד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם את רוצה </l>
+          <l>למצוא אהבה</l>
+          <l>בואי נברח לנו מכאן</l>
+          <l>מה... רק תגידי...</l>
+          <l>אם את רוצה </l>
+          <l>למצוא אהבה</l>
+          <l>בואי נברח לנו מכאן</l>
+          <l>מה... מה שתגידי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היי...</l>
+          <l>החיוך שלך מלא בחום</l>
+          <l>משפתייך רק רוצה ללגום</l>
+          <l>שלחי לי רק מבט</l>
+          <l>כי כבר נמאס לחלום</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היי...</l>
+          <l>בואי אקח אותך איתי מכאן</l>
+          <l>חבוקים ביחד רק נישן</l>
+          <l>משהו בך גורם לרצות עוד</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אם את רוצה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

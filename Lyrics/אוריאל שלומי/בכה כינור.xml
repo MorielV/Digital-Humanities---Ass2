@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בכה כינור</title>
+        <singer classification="male singer">אוריאל שלומי</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>יוסי גיספן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בכה כינור</head>
+        <lg number="1" type="stanza">
+          <l>הי כינורי חבר לדרך</l>
+          <l>אנחנו יחד כבר שנים </l>
+          <l>עברנו כל מחוז ופלך</l>
+          <l>כדי להנעים להמונים</l>
+          <l>אך הגורל היכני שבר</l>
+          <l>האור נעלם בין הצללים</l>
+          <l>בחדרי בוכה בשקט</l>
+          <l>בוכה כינור לאלוהים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בכה כינור לאלוהים </l>
+          <l>ספר לעולם כי חי עודני</l>
+          <l>שתי עיני כבו</l>
+          <l>כל רעיי עזבו</l>
+          <l>רק אותך איש לא ייקח ממני.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הזיכרונות עולים כל ערב</l>
+          <l>קהל גדול אני סוחף</l>
+          <l>לבד נותרתי לי בשבר</l>
+          <l>רק הניגון אותי עוטף</l>
+          <l>מקולך בוקע עצב</l>
+          <l>עולה מספר את בכי הלב</l>
+          <l>נגן לי שוב</l>
+          <l>נגן בהרף </l>
+          <l>שבין הצער לכאב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בכה כינור לאלוהים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

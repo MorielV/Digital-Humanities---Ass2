@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גשם שלי</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גשם שלי</head>
+        <lg number="1" type="stanza">
+          <l>שתי טיפות על עלה קטן שתי דקות מהגשם</l>
+          <l>מתכונן בלי לקחת זמן חי על מים ולחם</l>
+          <l>פה זה רעם היה ברק מסיבה בשמים</l>
+          <l>מתקרב ושומר מרחק ומוריד לנו מים</l>
+          <l>סגור במקדש הסתיו על חלקות עננים</l>
+          <l>אלו הם חייו של מוריד הגשמים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ענני אפור ענני לבן והנה הגשם שלי</l>
+          <l>הוא מביא לי אור שוב הוא בא בזמן לנפש לאור הפנימי</l>
+          <l>שב ומתחזק שב ומחבק הגשם השיב לי אותי</l>
+          <l>שוב אני שלך שוב אני שלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תן לי רק סערה קטנה שתשטוף את העיניים</l>
+          <l>תן לי שטף גשמי ברכה בשביל לחם ומים</l>
+          <l>אביב במקדש הסתיו עם פרחי העונה</l>
+          <l>אלו הם חייו משנה לשנה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ענני אפור ענני לבן והנה הגשם שלי</l>
+          <l>הוא מביא לי אור שוב הוא בא בזמן לנפש לאור הפנימי</l>
+          <l>שב ומתחזק שב ומחבק הגשם השיב לי אותי</l>
+          <l>שוב אני שלך שוב אני שלך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מודים אנחנו לך ה אלוהינו ואלוהי אבותינו</l>
+          <l>על כל טיפה וטיפה שהורדת לנו</l>
+          <l>ואילו פינו מלא שירה כים ולשונינו רנה כהמון גליו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

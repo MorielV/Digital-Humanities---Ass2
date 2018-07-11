@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לב חולה</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לב חולה</head>
+        <lg number="1" type="stanza">
+          <l>לב חולה הלילה</l>
+          <l>פרידה אחת יותר מדי</l>
+          <l>עזבת אותי הלילה</l>
+          <l>עצובים יהיו ימי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>צריך למצוא רופא שירפא לי את הלב</l>
+          <l>ללב שבור עוד לא מצאו תרופה</l>
+          <l>כל פעם שאמרתי לה שרק אותה אוהב</l>
+          <l>היתה ישר יוצאת להתקפה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>"עד מתי בי תבגוד ותשקר</l>
+          <l>עד מתי את ליבי אתה שובר" -</l>
+          <l>ובפי כבר היתה אותה תשובה</l>
+          <l>חוץ ממך לא היתה לי אהבה,</l>
+          <l>"עד מתי תספר אותו סיפור</l>
+          <l>עד מתי תנסה כל פרי אסור" -</l>
+          <l>בשניה היא עשתה אותי שובב</l>
+          <l>אבל בה רק הייתי מאוהב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד כוסית הלילה</l>
+          <l>פרידות עושות אותי שיכור</l>
+          <l>רקדתי כל הלילה</l>
+          <l>אבל הלב נשאר שחור</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>צריך למצוא רופא שירפא את הכאב</l>
+          <l>תרופה שתעשה לי הקלה</l>
+          <l>זה לא יכול להיות שרק אותה אני אוהב</l>
+          <l>והיא תמיד נשארת בשלה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עד מתי בי תבגוד ותשקר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רומיאו ויוליה</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רומיאו ויוליה</head>
+        <lg number="1" type="stanza">
+          <l>רומיאו ויוליה היו נפרדים</l>
+          <l>אם הם לא היו מתים</l>
+          <l>גם אנחנו, כן גם אנחנו</l>
+          <l>קמתי בבוקר היה שחור</l>
+          <l>בעיתונים היה כתוב שעוד אולי נחזור</l>
+          <l>הוסיפו שעברת לגור עם ההורים</l>
+          <l>שאני בדיכאון, נראה על הפנים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רומיאו ויוליה לנצח</l>
+          <l>אז בואי נקפוץ מהבניין</l>
+          <l>זה יעלה לנו דקה אחת של סבל</l>
+          <l>אז אל תעשי מזה עניין</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך עמדת שם מתחת לחופה</l>
+          <l>כל כך רציתי לבכות בשם האהבה</l>
+          <l>כל כך הרבה קהל, את לא שמעת אותי</l>
+          <l>מחאו כפיים כשהזכוכיות פצעו אותי</l>
+          <l>רומיאו ויוליה היו נפרדים</l>
+          <l>אם הם לא היו מתים</l>
+          <l>גם אנחנו, כן גם אנחנו</l>
+          <l>אוהבים...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רומיאו ויוליה לנצח</l>
+          <l>אז בואי נקפוץ מהבניין</l>
+          <l>זה יעלה לנו דקה אחת של סבל</l>
+          <l>אז אל תעשי מזה עניין</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

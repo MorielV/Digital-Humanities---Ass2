@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שומקום</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שומקום</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>לאיפה הגענו לשום מקום</l>
+          <l>בסוף תגור בבית מבטון</l>
+          <l>ואלוהים ישכיב אותך לישון</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כי היונה כבר נחנקה עם הזית בגרונה</l>
+          <l>"מי זה שם הולך שיכור זה ראש הממשלה"</l>
+          <l>האמא מחכה שהוא יבוא והוא לא בא</l>
+          <l>הבן שלך הרוג רק לא מצאנו שם למלחמה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לאיפה הגענו לשום מקום</l>
+          <l>בסוף תגור בבית מבטון</l>
+          <l>ואלוהים ישכיב אותך לישון</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הילדים לוקחים אקדח, יוצאים קצת לשחק</l>
+          <l>חתול שרוף והם צוחקים ואלוהים שותק</l>
+          <l>האבא מזיין ת'בת הוא גמר כשהיא צרחה</l>
+          <l>וכנראה שהיא תהיה כבר לעולם דפוקה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז לאיפה הגענו לשום מקום</l>
+          <l>לשום מקום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

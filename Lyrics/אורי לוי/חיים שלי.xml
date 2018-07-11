@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיים שלי</title>
+        <singer classification="unknown">אורי לוי</singer>
+        <writer>יוסי קרול</writer>
+        <composer>יוסי קרול</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיים שלי</head>
+        <lg number="1" type="stanza">
+          <l>כשאני פותח את עיני </l>
+          <l>רואה את האושר בחיי </l>
+          <l>זו את היחידה שלי </l>
+          <l>שמטריפה אותי. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני רוצה להיות איתך יותר </l>
+          <l>לכן עלייך לא אוותר </l>
+          <l>יש לך יופי מסנוור </l>
+          <l>לך אני מתמכר. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את החיים שלי, </l>
+          <l>זו את בנשמה שלי </l>
+          <l>את אצלי בתוך הלב </l>
+          <l>את שרק אותך אוהב </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ולפעמים אני לא יודע מה עושה </l>
+          <l>כי רק אלייך אני רוצה </l>
+          <l>הראש מלא געגועים </l>
+          <l>כי את עמוק בפנים. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את שמדליקה בי את האש </l>
+          <l>להיות אתך זה מרגש </l>
+          <l>כי את ידך רק אבקש </l>
+          <l>ובטבעת אקדש </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את החיים שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

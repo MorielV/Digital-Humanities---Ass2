@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תשאל אותי</title>
+        <singer classification="female singer">אביבה אבידן</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תשאל אותי</head>
+        <lg number="1" type="stanza">
+          <l>אם תגיד לי כמה, כמה מים יש בים</l>
+          <l>אז אגיד גם כמה יש בי אהבה</l>
+          <l>ואם תגיד מתי השמש לא תזרח</l>
+          <l>אגיד לך מתי אהבתי תדעך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז אל תשאל אותי מדוע ומתי</l>
+          <l>כי התשובה נמצאת גבוה מעלי</l>
+          <l>אל תשאל אותי עד איפה זה לעד</l>
+          <l>לא אל תשאל אותי רק תן, רק תן לי יד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה זה פי מאה, או פי אלף פי מיליון</l>
+          <l>כמה זה כל רגע עד האחרון</l>
+          <l>מה גובה המרומים ועומק לב הים</l>
+          <l>מהו מה מספר הכוכבים כולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז אל תשאל אותי מדוע ומתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

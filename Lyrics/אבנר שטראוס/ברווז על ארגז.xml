@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברווז על ארגז</title>
+        <singer classification="male singer">אבנר שטראוס</singer>
+        <writer>אבנר שטראוס</writer>
+        <composer>אבנר שטראוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברווז על ארגז</head>
+        <lg number="1" type="stanza">
+          <l>הדב הטוב ניגן על בס</l>
+          <l>צפרדע קפצה בחבל</l>
+          <l>והקוף תופף על תוף</l>
+          <l>והתמנון בנבל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>השרקרק שם אז שרק</l>
+          <l>כמו בחלילית</l>
+          <l>מעל לכל עמוד תווים</l>
+          <l>ישבה שם גחלילית</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הברווז ניגן על ארגז</l>
+          <l>וכל התזמורת אז</l>
+          <l>פרצה בשיר גדול וסוער</l>
+          <l>הברווז ניגן על ארגז</l>
+          <l>וכל התזמורת אז</l>
+          <l>פרצה בשיר גדול וסוער</l>
+          <l>נגנו, נגנו לי כמה שיותר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קרנף נשף בסקסופון</l>
+          <l>הפיל חיצרץ בצינור</l>
+          <l>ינשוף ניגן על קסילופון</l>
+          <l>צרצר ניגן כינור</l>
+          <l>ההיפופוטם ישב והשמין</l>
+          <l>נמר ניגן בפסנתר</l>
+          <l>עבדכם הנאמן לא האמין</l>
+          <l>כשהקרנף אילתר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הברווז ניגן על ארגז</l>
+          <l>וכל התזמורת אז</l>
+          <l>פרצה בשיר גדול וסוער</l>
+          <l>הברווז ניגן על ארגז וכל התזמורת אז</l>
+          <l>פרצה בשיר גדול וסוער</l>
+          <l>נגנו, נגנו לי כמה שיותר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>קדימה קרנף תאלתר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

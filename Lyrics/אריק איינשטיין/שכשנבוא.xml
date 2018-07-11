@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שכשנבוא</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אלמטריוטיס</writer>
+        <composer>missing</composer>
+        <album>אוהב להיות בבית</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שכשנבוא</head>
+        <lg number="1" type="stanza">
+          <l>הזמן את השנים יניס</l>
+          <l>וקצת בינה בלב מכניס</l>
+          <l>אבל ישנם דברים שהוא עוד לא גילה לי</l>
+          <l>האם יפרח לי עוד שושן</l>
+          <l>האם נעור בי ניצוץ נושן</l>
+          <l>האם בסוף הדרך מחכה תשובה לי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואיך נדע</l>
+          <l>אם יש תקווה</l>
+          <l>שכשנבוא, שכשנבוא</l>
+          <l>נמצא תשובה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לאן נמשכת המסילה</l>
+          <l>לאן הולכת התפילה</l>
+          <l>ומי ישיב לשאלה ומי ישמע לי</l>
+          <l>ומי יפתח לי לבבו</l>
+          <l>ואם אלך לאן אבוא</l>
+          <l>האם בסוף הדרך מחכה תשובה לי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואיך נדע...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זה רק אני וזו רק את</l>
+          <l>וזה הרבה וזה כה מעט</l>
+          <l>ואיך נדע אם לא לריק עברו חיינו</l>
+          <l>האם עמלנו לא לשווא</l>
+          <l>האם ביתנו לא יחרב</l>
+          <l>האם תחייה אהבה גם אחרינו.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואיך נדע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

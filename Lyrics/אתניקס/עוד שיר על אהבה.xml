@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד שיר על אהבה</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>13</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד שיר על אהבה</head>
+        <lg number="1" type="stanza">
+          <l>כבר כתבו הרבה שירים על האהבה</l>
+          <l>לך אכתוב עוד שיר כזה נוגע</l>
+          <l>גם כשאת לא לידי את כל כך קרובה</l>
+          <l>את קרובה אלי אני יודע</l>
+          <l>אתייסר כשאת לא לידי</l>
+          <l>מוכן לסבול אם אדע שתחזרי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את יפה חייכי אלי ממש כמו בשירים</l>
+          <l>בשבילך אכבוש את הירח</l>
+          <l>שתי עינייך נוצצות כמו אור של כוכבים</l>
+          <l>נשיקה חמה אני שולח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הבדידות היא גם חברה, חברה בלי מסכות</l>
+          <l>אם היא עדיפה אין איש יודע</l>
+          <l>שימי את המסכה ובואי לבלות</l>
+          <l>כשאוהבים דבר אינו קובע</l>
+          <l>לך אתן את כל מה שאוכל</l>
+          <l>ארמונות זהב שם בחלל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את יפה חייכי אלי ממש כמו בשירים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

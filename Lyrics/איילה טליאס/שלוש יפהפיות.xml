@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלוש יפהפיות</title>
+        <singer classification="unknown">איילה טליאס</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>מיקי מדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלוש יפהפיות</head>
+        <lg number="1" type="stanza">
+          <l>אורות של כוכבים בישרו לי</l>
+          <l>שנגמר לי עוד רומן</l>
+          <l>ואנשים ברחוב סיפרו לי</l>
+          <l>שחבל לי על הזמן</l>
+          <l>כה רציתי להגיע</l>
+          <l>ואפילו עד אי שם</l>
+          <l>את פניך להפתיע</l>
+          <l>ולתפוס אותך על חם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שלוש יפהפיות במעגל של אהבה</l>
+          <l>רקדו סביבך למנגינת היין</l>
+          <l>שלוש יפהפיות בך הדליקו להבה</l>
+          <l>ונעשה לי חושך בעיניים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אשה כזו תמימה הייתי</l>
+          <l>עם הרבה תקוות בלב</l>
+          <l>לך להאמין רציתי</l>
+          <l>שאתה כל כך אוהב</l>
+          <l>הרגשה כה מטורפת</l>
+          <l>סובבה את צעדי</l>
+          <l>להלך בעקבותיך</l>
+          <l>ולראות במו עיני.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שלוש יפהפיות במעגל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

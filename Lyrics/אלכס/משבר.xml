@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משבר</title>
+        <singer classification="unknown">אלכס 2</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משבר</head>
+        <lg number="1" type="stanza">
+          <l>אולי זו לא התחנה</l>
+          <l>ואני סתם מחכה</l>
+          <l>אני חוזרת לדרכים</l>
+          <l>חוזרת לחיים</l>
+          <l>מתחילה לנסוע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז אל תאמר לי</l>
+          <l>שיהיה לי טוב</l>
+          <l>כל כך הרבה לילות עמדתי </l>
+          <l>והחזקתי את השמיים</l>
+          <l>אז אל תאמר לי </l>
+          <l>שזה רק משבר</l>
+          <l>תמיד תמצא אותי זרוקה</l>
+          <l>על איזה שביל בצד הדרך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני רוצה למצוא מסתור</l>
+          <l>מתחת קרן אור</l>
+          <l>אני רוצה לתפוס חלום</l>
+          <l>ושיהיה מקום</l>
+          <l>גם לך שם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז אל תאמר לי</l>
+          <l>שיהיה לי טוב</l>
+          <l>כל כך הרבה לילות עמדתי </l>
+          <l>והחזקתי את השמיים</l>
+          <l>אז אל תאמר לי </l>
+          <l>שזה רק משבר</l>
+          <l>תמיד תמצא אותי זרוקה</l>
+          <l>על איזה שביל בצד הדרך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

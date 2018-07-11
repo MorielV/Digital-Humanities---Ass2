@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוקד את הטנגו לבד</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוקד את הטנגו לבד</head>
+        <lg number="1" type="stanza">
+          <l>בזמן האחרון רוקד את הטנגו לבד</l>
+          <l>לא מוצא אותך גם כשאת ליד</l>
+          <l>קשה לי קצת לספור ת'צעדים לבד</l>
+          <l>זה לא ממש ריקוד בלעדייך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בזמן האחרון רוקד את הטנגו לבד</l>
+          <l>לא מניח יד לא פוגש בך במבט</l>
+          <l>קשה לי לדבר קשה לי להסביר</l>
+          <l>בואי נשחק כמו אז נלחש מילים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כתבתי לך מליון שירים וזה יהיה האחרון</l>
+          <l>נתתי לך מכל הלב אז קחי ממני קצת כאב</l>
+          <l>קצת כאב, זה הורג אותי ככה לאט לאט</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בזמן האחרון רוקד את הטנגו לבד</l>
+          <l>אני צריך אותך את לא שולחת יד</l>
+          <l>אל תלכי רחוק כאילו כבר ויתרת</l>
+          <l>מחכה לך כאן בבית</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כתבתי לך מליון שירים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

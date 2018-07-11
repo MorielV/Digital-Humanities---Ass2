@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך 16</title>
+        <singer classification="unknown">אורלי ורדי</singer>
+        <writer>חנה המרמן</writer>
+        <composer>עופר המרמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך</head>
+        <lg number="1" type="stanza">
+          <l>איך אוכל לחוש בזרועותיך</l>
+          <l>העוטפות ברוך?</l>
+          <l>איך אוכל לחוש בשפתיך...</l>
+          <l>המרגיעות לי את העונג?</l>
+          <l>איך אוכל לחוש את מגע ידך</l>
+          <l>המענגת את גופי?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשראיתי אותך מרחוק,</l>
+          <l>חשתי בזרם שבגופי.</l>
+          <l>כשראיתי אותך מרחוק,</l>
+          <l>חשתי שכבשת אותי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך אוכל להרגיש בך</l>
+          <l>חושק בחום גופי?</l>
+          <l>איך אוכל לצפות במבטך?</l>
+          <l>איך אוכל לשמוע באוזני</l>
+          <l>"אני אוהב אותך"?</l>
+          <l>עם חיוך שממיס את ליבי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשראיתי אותך מרחוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

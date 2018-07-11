@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר בארבעה בתים 2</title>
+        <singer classification="female singer">אופירה גלוסקא</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר בארבעה בתים</head>
+        <lg number="1" type="stanza">
+          <l>בשדה ירוק רדפתי אחריך</l>
+          <l>אך הילדים קסמו לך יותר</l>
+          <l>בפיהם יפה אתה מאין כמוך</l>
+          <l>עד מתי, שירי, מפני תסתתר?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בחשכת הליל רדפתי אחריך</l>
+          <l>אך האוהבים קסמו לך יותר</l>
+          <l>בפיהם יפה אתה מאין כמוך</l>
+          <l>עד מתי, שירי, מפני תסתתר?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בדרכי עפר רדפתי אחריך</l>
+          <l>אך החיילים קסמו לך יותר</l>
+          <l>בפיהם יפה אתה מאין כמוך</l>
+          <l>עד מתי, שירי, מפני תסתתר?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בין המון אדם רדפתי אחריך</l>
+          <l>אך הזמרים קסמו לך יותר</l>
+          <l>בפיהם יפה אתה מאין כמוך</l>
+          <l>עד מתי, שירי, מפני תסתתר?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

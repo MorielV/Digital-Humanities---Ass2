@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אוהב אותך עדיין</title>
+        <singer classification="unknown">אלון ז אן</singer>
+        <writer>אדמית הראל</writer>
+        <composer>אלון ז'אן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אוהב אותך עדיין</head>
+        <lg number="1" type="stanza">
+          <l>שוב בלילה לא נרדם </l>
+          <l>על גבי כל העולם </l>
+          <l>מחפש מקום שקט </l>
+          <l>בטחנות רוחי נלחם </l>
+          <l>אני חותך מסך עשן </l>
+          <l>את לא אמרת את האמת </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>האם זה מאוחר </l>
+          <l>רק עכשיו אני נזכר </l>
+          <l>לא הייתי לצידך </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואני לא מוותר </l>
+          <l>אני רוצה יותר </l>
+          <l>להיות לך השמיים </l>
+          <l>אוהב אותך עדיין איתך </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תראי אותי עומד מולך </l>
+          <l>כואב ומחייך </l>
+          <l>אני מוכן עוד לחשוף </l>
+          <l>אולי עוד משחק באש </l>
+          <l>זה הלב שמתעקש </l>
+          <l>אחרייך עד הסוף </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואני לא מוותר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

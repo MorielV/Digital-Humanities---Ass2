@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה ים תיכוני</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>שייקה פייקוב</writer>
+        <composer>שייקה פייקוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה ים תיכוני</head>
+        <lg number="1" type="stanza">
+          <l>לילה</l>
+          <l>אהבתי לא די לה</l>
+          <l>נתתי כל חיי לה</l>
+          <l>לחוף ים תיכוני</l>
+          <l>ים תיכוני</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לילה</l>
+          <l>זוכרת איך חבקנו</l>
+          <l>זוכרת איך נשקנו</l>
+          <l>בלילה אלמוני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאת צוחקת אין כמוני מאושר</l>
+          <l>כמו שושן אדום אהבתי תבער</l>
+          <l>כשאת שולחת בי עינייך החמות</l>
+          <l>כמי נהר הן בי זורמות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לילה</l>
+          <l>כוכב בודד צונח</l>
+          <l>אני מרגיש בוטח</l>
+          <l>כשאת כאן לידי</l>
+          <l>כאן לידי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לילה</l>
+          <l>זוכרת איך חבקנו</l>
+          <l>זוכרת איך נשקנו</l>
+          <l>בלילה אלמוני</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כשאת צוחקת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

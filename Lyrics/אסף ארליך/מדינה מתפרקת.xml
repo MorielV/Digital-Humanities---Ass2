@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מדינה מתפרקת</title>
+        <singer classification="male singer">אסף ארליך</singer>
+        <writer>אסף ארליך</writer>
+        <composer>אסף ארליך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מדינה מתפרקת</head>
+        <lg number="1" type="stanza">
+          <l>המדינה מתפרקת לשני מיליון חלקים</l>
+          <l>אני נשרף בעיניים האישונים כבר כבים</l>
+          <l>היום שוב עמד לי</l>
+          <l>היום שוב עמד לי על הזונה בעיתון</l>
+          <l>היא שרת התקשורת</l>
+          <l>היא הדבר הנכון</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תן לי דקה תן לי דקה</l>
+          <l>ליפול ולהבין איך קר לי עכשיו</l>
+          <l>קר לנו בראש</l>
+          <l>נמות ואנשים עוד כאן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי נלך כבר הביתה נגדל קצת סמים</l>
+          <l>כי ילדים אי אפשר כבר הם זקוקים לחיים</l>
+          <l>האביב כבר נגמר לו</l>
+          <l>אביב שוב נגמר לו ואין עונה חדשה</l>
+          <l>נמות מזקנה שוב</l>
+          <l>נמות מזקנה לפני המהפכה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תן לי דקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

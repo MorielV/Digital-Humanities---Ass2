@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פעם 12</title>
+        <singer classification="unknown">אוריאל 7</singer>
+        <writer>אסתי דהן</writer>
+        <composer>אוריאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פעם</head>
+        <lg number="1" type="stanza">
+          <l>רק אושר בעיני שוב אלייך רק אותך אני זוכר</l>
+          <l>הלב קורא אלייך ואני איתו הולך חוזר</l>
+          <l>חיפשתי את פנייך החיים כמו בסרט קול מוכר</l>
+          <l>ברצף געגוע עמוק בפנים הכל נשאר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יכולנו להיות קצת יותר,</l>
+          <l>מעוד חלום שלא עובר</l>
+          <l>יכולנו להיות ואולי הרבה, הרבה יותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פעם אולי הפעם את מנסה אותי רק את יודעת</l>
+          <l>כמה תגידי למה רק אותך אני רוצה</l>
+          <l>ועדיין מחכה את פנייך שוב רואה</l>
+          <l>לא יודע מה יהיה זה כמו חלום שמתבדה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמו ילד בחולות שוב אבדה דרכי אני טועה</l>
+          <l>כמו הלך מאוהב ואותך רק בליבי רוצה,</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יכולנו להיות קצת יותר מעוד חלום שלא עובר</l>
+          <l>יכולנו להיות ואולי הרבה הרבה יותר...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>פעם, אולי הפעם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמח תשמח</title>
+        <singer classification="unknown">ארז יחיאל</singer>
+        <writer>אמנון יצחק</writer>
+        <composer>ארז יחיאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמח תשמח</head>
+        <lg number="1" type="stanza">
+          <l>המשמח חתן וכלה </l>
+          <l>זוכה זוכה לקולות חמישה </l>
+          <l>יש ולשמחה מה זו עושה </l>
+          <l>ויש בשיבחתי אני את השמחה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שמח שמח תשמח רעים רעים אהובים </l>
+          <l>כשמחך יצירך בגן עדן מקדם </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האל יבנה את ביתכם </l>
+          <l>יפרה אתכם גם יצליח ביניכם </l>
+          <l>בבניין עדי עד עושרכם </l>
+          <l>עלו והצליח בכל דרככם </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שמח שמח תשמח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

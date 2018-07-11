@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחכה שיפסק</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>אילן וירצברג</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחכה שיפסק</head>
+        <lg number="1" type="stanza">
+          <l>מחכה שיפסק</l>
+          <l>יפסק הרעש</l>
+          <l>מחכה</l>
+          <l>מחכה שיעבור</l>
+          <l>יעבור הזעם</l>
+          <l>מחכה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה בא כמו חיה טורפת</l>
+          <l>זה בא כמו חיה מורעבת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחכה שיעבור</l>
+          <l>יעבור ההלם</l>
+          <l>מחכה</l>
+          <l>מחכה שיחלוף</l>
+          <l>יחלוף הפחד</l>
+          <l>מחכה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה בא כמו חיה טורפת</l>
+          <l>זה בא כמו חיה מורעבת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מחכה שיירגע</l>
+          <l>יירגע הבכי</l>
+          <l>מחכה שתשכך</l>
+          <l>תשכך הצעקה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה בא כמו חיה טורפת</l>
+          <l>זה בא כמו חיה מורעבת</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>מחכה שיפסק, מחכה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

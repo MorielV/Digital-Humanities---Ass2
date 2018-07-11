@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צל כבד 2</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>ג'ניס איאן</writer>
+        <composer>ג'ניס איאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צל כבד</head>
+        <lg number="1" type="stanza">
+          <l>מה יהיה?</l>
+          <l>אני מוצא ומאבד</l>
+          <l>הולך בדרך ומועד</l>
+          <l>בתוך תוכי אני פוחד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה יהיה?</l>
+          <l>אני רואה בשמש צל כבד</l>
+          <l>עוד מעט יבוא הגשם וירד</l>
+          <l>וכאן לבד אני עומד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שם, מאחורי הרים גבוהים</l>
+          <l>והשמיים הכהים אי שם</l>
+          <l>בטח מחכה רק בשבילי</l>
+          <l>שם, מעל גגות בתי העיר</l>
+          <l>קשה לראות ביום סגריר</l>
+          <l>אי שם לי את מחכה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ריח ים</l>
+          <l>תמיד עולה ברוח הקיצית</l>
+          <l>בא אלי שכוח ומצית</l>
+          <l>בא כמו להזכיר לי שהיית</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>איך</l>
+          <l>בא החורף על הקיץ בחטף</l>
+          <l>שוב אני הולך בדרך ונסחף</l>
+          <l>איך בא הגשם ושטף</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שם, מאחורי הרים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

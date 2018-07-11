@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חי השיר</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>יוש גרנות</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חי השיר</head>
+        <lg number="1" type="stanza">
+          <l>בלילה שכזה הומה הנשמה </l>
+          <l>ומתוכי עולה המנגינה </l>
+          <l>עולה היא כתפילה רוטטת וקסומה כמו יונה זכה ולבנה </l>
+          <l>בטרם לילה יגמר, בטרם אור יגיע </l>
+          <l>עם המיתר עליתי על כנפה </l>
+          <l>המראתי לעולם אחר מעבר לרקיע </l>
+          <l>ושמה היא חיכתה לי היפה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זהו שיר לכל אוהב, חי חי </l>
+          <l>שיוצא מתוך הלב, חי חי </l>
+          <l>כמו נחל הוא סוחף, חי חי </l>
+          <l>חי השיר, חי השיר, חי השיר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלילה שכזה כשכל הכוכבים </l>
+          <l>שולחים אורם כמו אלפי נרות </l>
+          <l>בלילה שכזה כשכל האוהבים מוסרים את לבבם לנערות </l>
+          <l>אני שומע מנגינה, ממריא איתה גבוה </l>
+          <l>עולה איתה לעבר המרומים </l>
+          <l>והיא יפה ועדינה זכה מאין כמוה </l>
+          <l>נוגעת כצלילי הענבלים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זהו שיר לכל אוהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

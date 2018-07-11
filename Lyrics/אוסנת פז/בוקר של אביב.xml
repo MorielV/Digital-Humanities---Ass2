@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוקר של אביב</title>
+        <singer classification="unknown">אוסנת פז</singer>
+        <writer>לאה נאור</writer>
+        <composer>דרורה חבקין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוקר של אביב</head>
+        <lg number="1" type="stanza">
+          <l>בוקר של אביב צבט לי בלחיי</l>
+          <l>ופרע את שערי,</l>
+          <l>בשדרה שלי שרקו, שרקו אחרי</l>
+          <l>אולי אלף צפרים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וכל מי שפגשתי ברחוב</l>
+          <l>אמר לי בוקר טוב, בוקר טוב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גשם קל שטף בבוקר את העיר</l>
+          <l>ונשאר בשלוליות.</l>
+          <l>כל ילדי הגן חזרו מן הטיול</l>
+          <l>עם פרגים וחרציות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכל מי שפגשתי ברחוב</l>
+          <l>אמר לי בוקר טוב, בוקר טוב.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>האוויר חריף צלול ביום הזה,</l>
+          <l>והשוק מלא צבעים.</l>
+          <l>כל מבט מקרי בבוקר שכזה</l>
+          <l>מסתיים בנישואים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>וכל מי שפגשתי ברחוב</l>
+          <l>אמר לי בוקר טוב, בוקר טוב.</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>בוקר שכזה אפשר למצוא אולי</l>
+          <l>רק בשוק ובשירים.</l>
+          <l>בשדרה שלי צפצפו עלי</l>
+          <l>אולי אלף צפרים.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>וכל מי שפגשתי ברחוב</l>
+          <l>אמר לי בוקר טוב, בוקר טוב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מותק 5</title>
+        <singer classification="female singer">איילה לוי</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>איילה לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מותק</head>
+        <lg number="1" type="stanza">
+          <l>נערה קטנה לבד בלי פרוטה אחת בכיס</l>
+          <l>מזוודה ורודה ביד וחיוך כל כך ממיס</l>
+          <l>היא לבשה מכנס קצר שכמעט אינו מסתיר</l>
+          <l>וברחה לה מן הכפר אל הזאבים בעיר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מותק, היא לא בשבילך</l>
+          <l>את החיים תיקח לך</l>
+          <l>ותשאיר אותך בלילה</l>
+          <l>לבד לבד עם עצמך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא תימניה נאה ורגליה יחפות</l>
+          <l>כל מבט הוא הפתעה מעיניה היפות</l>
+          <l>אם תשלח לה אהבה, תנסה רק לנשק</l>
+          <l>היא תסתיר את לבבה עם כל מה שמתחשק.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מותק, היא לא בשבילך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

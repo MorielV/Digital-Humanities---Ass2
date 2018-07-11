@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בין כה וכה גשמים</title>
+        <singer classification="male singer">אבנר שטראוס</singer>
+        <writer>אבנר שטראוס</writer>
+        <composer>אבנר שטראוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בין כה וכה גשמים</head>
+        <lg number="1" type="stanza">
+          <l>אם אתה לבד ואין לך חבר</l>
+          <l>חשק לא ללכת ולא להישאר</l>
+          <l>שמי חייך סוערים, התחילו להתענן</l>
+          <l>ואין לך על מי להשען</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בין כה וכה גשמים ירדו במועדם</l>
+          <l>כן, אם תספור את הקוצים הפרח נעלם</l>
+          <l>אולי אתה מקיש בדלתה של הבדידות</l>
+          <l>איך ברחה מחלונך ציפור הידידות</l>
+          <l>תסיט את הוילון, הנח ראשך על הכר</l>
+          <l>אומרים שזמן הוא תרופה לכל דבר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בין כה וכה גשמים ירדו במועדם</l>
+          <l>כן, אם תספור את הקוצים הפרח נעלם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אולי אתה עצוב - תדע, זאת לא בושה</l>
+          <l>מתי חטפת את הבלוז? חפש את האישה</l>
+          <l>תקשיב, אולי תמצא בשיר קצת נחמה</l>
+          <l>אחרת עוד תבוא כשם שזו נעלמה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בין כה וכה גשמים ירדו במועדם</l>
+          <l>כן, אם תספור את הקוצים הפרח נעלם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

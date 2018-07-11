@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלך 16</title>
+        <singer classification="unknown">אלעד שודלר</singer>
+        <writer>אלעד שודלר</writer>
+        <composer>אלעד שודלר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלך</head>
+        <lg number="1" type="stanza">
+          <l>אריה רעב יוצא לצוד, מסרק שפם צמוד</l>
+          <l>מחדד שיניו לקראת הטרף </l>
+          <l>שיבוא שיבוא</l>
+          <l>בכניסה למועדון הוא מופיע אחרון</l>
+          <l>כולם עושים לו את הדרך </l>
+          <l>לעבור לעבור</l>
+          <l>לרחבת הריקודים מקפץ בניתורים</l>
+          <l>מנפנף ברעמה ושואג...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני מלך </l>
+          <l>אז למה את מחכה </l>
+          <l>אני מלך </l>
+          <l>אם את רוצה להיות מלכה</l>
+          <l>בואי תרקדי עם מלך</l>
+          <l>אוי למה את מחכה </l>
+          <l>אני מלך אם את רוצה להיות מלכה</l>
+          <l>בואי תרקדי</l>
+          <l>עם מלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אריה רעב רוצה אותך והמזל כולו שלך</l>
+          <l>הוא עונד גלימה וכתר </l>
+          <l>על הראש על הראש</l>
+          <l>וכאן בג'ונגל יש חוקים לאריות לא מסרבים</l>
+          <l>מקשקש לך בזנב ושואג...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני מלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

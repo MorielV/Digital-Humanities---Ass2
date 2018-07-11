@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלומות גן עדן</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלומות גן עדן</head>
+        <lg number="1" type="stanza">
+          <l>גן עדן כה רחוק אך נראה כה קרוב</l>
+          <l>שם נמצא שלום אושר ופרי מתוק</l>
+          <l>שירחיקו בדידותו של נערה החלום</l>
+          <l>לרגלי עץ עבות זהו רק דמיון</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שם ביער עץ עבות כלהבות יוקדות</l>
+          <l>חיוכו זוהר מתוק לא יידע עוד מכאוב</l>
+          <l>שם ביער הגדול נקשרה נפשו</l>
+          <l>זה עולם ומלואו לחיות בחלום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ברקיע נמזג האור לאפילה הגיע דרור</l>
+          <l>בשבילי עצי אלון יביט הנער אחור</l>
+          <l>מי יתן ויתגשם רק אותו חלום</l>
+          <l>נגן עדן רחוק רחוק בו אמצא מקום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

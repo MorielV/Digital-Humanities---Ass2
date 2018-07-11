@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הדוד שמחה</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>אסף אמדורסקי</composer>
+        <album>אסף אמדורסקי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הדוד שמחה</head>
+        <lg number="1" type="stanza">
+          <l>באין לי ברירה</l>
+          <l>אני עושה ומקיים</l>
+          <l>וכשהוא נותן בידי ברירה</l>
+          <l>אני חולם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וכדוד שמחה בא לבקר</l>
+          <l>יש אור בבית</l>
+          <l>וכשהוא לא בא</l>
+          <l>אני מחכה לו בבית</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בצבעים מציירים אני חולם</l>
+          <l>חלומות חשובים בשביל הלב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הקיץ האחרון</title>
+        <singer classification="unknown">אופיר בן שטרית</singer>
+        <writer>מקס גת מור</writer>
+        <composer>מקס גת מור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הקיץ האחרון</head>
+        <lg number="1" type="stanza">
+          <l>זה הקיץ האחרון שלי אתכם</l>
+          <l>עם הגשם הראשון אני אעלם</l>
+          <l>דמעותי יזרמו במורד הרחובות</l>
+          <l>כמו עלה נושר ותקוות רחוקות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני איש של חורף בין אלפי אנשי ים</l>
+          <l>אך בחורף הזה כבר לא אהיה קיים</l>
+          <l>לאט לאט השכבות נמסות</l>
+          <l>בין רוצים לא רוצים ותפילות אחרונות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז תזכרו שהבטחתם לא לבכות</l>
+          <l>כי השמיים גדולים והדמעות קטנות</l>
+          <l>תעצמו את העיניים כל גשם ראשון</l>
+          <l>ותחשבו עלי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני רוצה לטפס על ההרים כי הם שם</l>
+          <l>ולבקר במדינות מעבר לים</l>
+          <l>לדעת אם יש צורות חיים אחרות</l>
+          <l>ואם המתים ממשיכים לחיות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כי זה הקיץ האחרון שלי אתכם</l>
+          <l>עם הגשם הראשון אני אעלם</l>
+          <l>לאט לאט השכבות נמסות</l>
+          <l>בין רוצים לא רוצים ותפילות אחרונות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז תזכרו שהבטחתם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

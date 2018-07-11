@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל הדרך 2</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>שמרית אור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל הדרך</head>
+        <lg number="1" type="stanza">
+          <l>ושוב נצאה אל הדרך,</l>
+          <l>יד ביד לדרך,</l>
+          <l>בשלשלת זהב.</l>
+          <l>ושוב נצאה אל הדרך,</l>
+          <l>עם אחד לדרך,</l>
+          <l>ושירנו על גב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ועד לשערי רקיע</l>
+          <l>בוודאי נגיע</l>
+          <l>עוד מעט אם לא עכשיו.</l>
+          <l>ועד לשערי רקיע</l>
+          <l>בוודאי נגיע</l>
+          <l>כי דרכנו לא לשווא.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וגם אם ארוכה הדרך,</l>
+          <l>ורבה הדרך,</l>
+          <l>הן כוחנו עוד רב.</l>
+          <l>וגם אם ארוכה הדרך,</l>
+          <l>ורבה הדרך,</l>
+          <l>נעבור בה יחדיו.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ועד לשערי רקיע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

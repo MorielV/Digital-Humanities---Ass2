@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לולו 2</title>
+        <singer classification="female singer">אתי אנקרי</singer>
+        <writer>אתי אנקרי</writer>
+        <composer>אתי אנקרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לולו</head>
+        <lg number="1" type="stanza">
+          <l>אם הייתי לובשת שמלה לבנה</l>
+          <l>והייתי דומה לבנות של השכונה</l>
+          <l>הייתי מקבלת טבעת עגולה</l>
+          <l>והכוס הייתה נשברת מתחת לחופה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הייתם שמחים, הייתם שרים</l>
+          <l>לולו, לולו, לולו</l>
+          <l>הייתם שקטים לכמה שנים</l>
+          <l>לולו, לולו, לולו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא הייתי מסתובבת</l>
+          <l>ימים שלמים בלי כתובת</l>
+          <l>והייתי ממהרת</l>
+          <l>כמו שראוי לגברת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>והייתי מסתדרת</l>
+          <l>והייתי מסתפרת</l>
+          <l>ועושה מה שמתאים</l>
+          <l>לגיל ולשכנים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הייתם שמחים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

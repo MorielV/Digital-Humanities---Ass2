@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תני לי את ידך</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>שמוליק צ'יזיק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תני לי את ידך</head>
+        <lg number="1" type="stanza">
+          <l>אם אראך ברחוב</l>
+          <l>יום אחד ואת לבד, לבד הולכת</l>
+          <l>ארוץ לקראתך ואשק על לחיך</l>
+          <l>כן, אני עוד זוכר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תני לי את ידך</l>
+          <l>בואי נלך מכאן</l>
+          <l>תני לי את ידך</l>
+          <l>יש לנו עוד זמן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תני לי את ידך...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כן, זכורים לי היטב</l>
+          <l>אותם ימים יפים כשהיינו יחד</l>
+          <l>לילות אהבה</l>
+          <l>ובלב עוד תקווה</l>
+          <l>כן, אני עוד זוכר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תני לי את ידך...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אם אראך ברחוב</l>
+          <l>יום אחד ואת לבד, לבד הולכת</l>
+          <l>ארוץ לקראתך ואשק על לחיך</l>
+          <l>כן, אני עוד זוכר</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>תני לי את ידך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

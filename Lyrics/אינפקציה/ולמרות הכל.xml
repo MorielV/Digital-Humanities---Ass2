@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ולמרות הכל</title>
+        <singer classification="band">אינפקציה</singer>
+        <writer>גיא בן שיטרית</writer>
+        <composer>גיא בן שיטרית</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ולמרות הכל</head>
+        <lg number="1" type="stanza">
+          <l>ולמרות הכל עכשיו אני עייף</l>
+          <l>זה לא משהו שקורה לי ככה סתם</l>
+          <l>ויכול להיות שאני עייף</l>
+          <l>זה לא משהו..</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש לי שנורקל וצידנית</l>
+          <l>עכשיו אני יכול לכבוש את העולם</l>
+          <l>יש לי שנורקל וצידנית</l>
+          <l>עכשיו אני יכול להיות כמו כולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

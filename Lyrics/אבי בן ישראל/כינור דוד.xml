@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כינור דוד 3</title>
+        <singer classification="unknown">אבי בן ישראל</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>קיימים 6 ביצועים נוספים לשיר זה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כינור דוד</head>
+        <lg number="1" type="stanza">
+          <l>לפני שנים רבות שמעו בארץ ישראל</l>
+          <l>קולות ניגון שירה ומזמורים</l>
+          <l>בצליל כה מיוחד ובנעימה טובה</l>
+          <l>כשיר ציפור זמיר בין העלים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה כינור דוד ביד דוד המלך</l>
+          <l>הפורט על מיתריו</l>
+          <l>כטוב ליבו ביין לעת ערב</l>
+          <l>מלווה הוא את שיריו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפני שנים רבות בשערי ירושלים</l>
+          <l>ניצבה נפעמת בחלון מיכל</l>
+          <l>הביטה במשעול ובעיניה אור</l>
+          <l>רוקד דוד ובידו כינור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה כינור דוד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חלפו שנים רבות מתהילת התהילים</l>
+          <l>עוד מיתרי כינור דוד נוגנים</l>
+          <l>אומרים, ישנו מקום ובו הצדיקים</l>
+          <l>עם ערב את כינור דוד שומעים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה כינור דוד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תן לי סימן</title>
+        <singer classification="female singer">אסאלה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תן לי סימן</head>
+        <lg number="1" type="stanza">
+          <l>לא ידענו לדבר מילים של אהבה</l>
+          <l>כל הרגשות עלו מתוך הלב</l>
+          <l>אהבה תמימה חום בנשמה</l>
+          <l>בלי מילים פשוט להתאהב</l>
+          <l>השנים חולפות איתן חלפו הנעורים</l>
+          <l>כל אחד פונה לו למקום אחר</l>
+          <l>עכשיו אני לבד אוהבת ויודעת</l>
+          <l>שכמוך לא אמצא יותר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני רוצה שוב לחזור לזרעותייך</l>
+          <l>ולפזר את כל האהבה שבי</l>
+          <l>תן לי סימן רמז קטן שאגיע עד אלייך אהובי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם היתה זו אהבה אמצא אותך מחר</l>
+          <l>אם זה הגורל אנחנו ניפגש</l>
+          <l>ננסה פשוט לאהוב כמו פעם</l>
+          <l>כמו בהתחלה להתרגש</l>
+          <l>נספר את הסודות שיש לנו בלב</l>
+          <l>כי באהבה אסור להתבייש</l>
+          <l>ננסה לשוב אל אותו הטעם</l>
+          <l>שהצית בינינו את האש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני רוצה שוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

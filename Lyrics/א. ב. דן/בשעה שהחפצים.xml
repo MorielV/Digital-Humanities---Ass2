@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בשעה שהחפצים</title>
+        <singer classification="unknown">א ב דן</singer>
+        <writer>יחזקאל נפשי</writer>
+        <composer>א. ב. דן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בשעה שהחפצים</head>
+        <lg number="1" type="stanza">
+          <l>בשעה שאני נח במקום הזה כותב</l>
+          <l>השקדייה מתפרצת מול ביתי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>החפצים כושלים חסרי כבידה</l>
+          <l>באוויר החדר, קצריי קול</l>
+          <l>אין בכוחי עליהם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לעת ערב אפתח אור מטבחי</l>
+          <l>ואחזה בדיוקנך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יסלח לי בוטיצ'לי </l>
+          <l>דימיתיך לונוס שלו בלידתה</l>
+          <l>(נפקחת מתוך הצדף הלבן)</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

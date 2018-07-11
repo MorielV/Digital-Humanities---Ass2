@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלך איתך</title>
+        <singer classification="unknown">אור אדי</singer>
+        <writer>ניסים מרי</writer>
+        <composer>אבי גוטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלך איתך</head>
+        <lg number="1" type="stanza">
+          <l>רק אתה יודע מי אני</l>
+          <l>רק אתה מרגיש</l>
+          <l>רק אתה שומע</l>
+          <l>מה הלב שלי לוחש לך</l>
+          <l>מה הוא מבקש</l>
+          <l>כשאתה נוגע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלך איתך</l>
+          <l>רק בשבילים</l>
+          <l>שצועדים בהם זוגות מאוהבים</l>
+          <l>ובשבילך לעולמים </l>
+          <l>אני אהיה נאמנה</l>
+          <l>אהיה לך אישה כנה</l>
+          <l>אוהב אותך תמיד בטוב וגם ברע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כי אותך אני היום בוחרת להיות שלי</l>
+          <l>אותך אליי אוספת </l>
+          <l>מתרגשת מהקול שלך</l>
+          <l>ממגע ידך שאותי חובקת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלך איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

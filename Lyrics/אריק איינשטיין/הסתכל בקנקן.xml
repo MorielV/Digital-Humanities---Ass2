@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הסתכל בקנקן</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>נתן אלתרמן</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>על גבול האור</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הסתכל בקנקן</head>
+        <lg number="1" type="stanza">
+          <l>כל דבר בעולם, אם זהב או אם זפת</l>
+          <l>נוהגים לעטוף במיני מעטפת</l>
+          <l>הסחורה היא תמיד עטופה, זאת אומרת</l>
+          <l>שבחוץ היא כזאת, ובפנים היא אחרת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש דברים מתוקים, כמו דבש כלפי חוץ</l>
+          <l>ובפנים מתברר שזה דוקא חמוץ</l>
+          <l>יש דברים משוחים, מבחוץ בית מרקחת</l>
+          <l>ובפנים זו קדחת, ועוד ממולחת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לפעמים אריזה ציוניסטית</l>
+          <l>מסתירה מחשבה אגואיסטית</l>
+          <l>מבחוץ אידיאל ואידיאה</l>
+          <l>ובפנים חביבי,</l>
+          <l>מי יודע, מי יודע</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>וראינו זה פה וראינו גם שם</l>
+          <l>איך עסקן על עסקן מתנשא</l>
+          <l>כלפי חוץ זה למען העם</l>
+          <l>ובפנים זה בשביל הכיסא</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ולכן ידידי הקטן</l>
+          <l>הסתכל אך ורק בקנקן</l>
+          <l>מבחוץ הסתכל ומשמש בו</l>
+          <l>לפעמים ידידי</l>
+          <l>לא כדאי, לא כדאי, לא כדאי</l>
+          <l>כלל לראות מה שיש בו</l>
+          <l>הסתכל ומשמש בו</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לפעמים אריזה ציוניסטית</l>
+          <l>מסתירה מחשבה אגואיסטית</l>
+          <l>מבחוץ אידיאל ואידיאה</l>
+          <l>ובפנים חביבי,</l>
+          <l>מי יודע, מי יודע</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ולכן ידידי הקטן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

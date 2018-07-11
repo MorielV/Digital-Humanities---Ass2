@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קשה לזכור</title>
+        <singer classification="unknown">איציק איזמירלי</singer>
+        <writer>איציק איזמירלי</writer>
+        <composer>איציק איזמירלי</composer>
+        <album>חוויות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קשה לזכור</head>
+        <lg number="1" type="stanza">
+          <l>כל כך קשה לזכור</l>
+          <l>איך היית בעבר כשהלכת בבטחה וחיית הצלחה</l>
+          <l>מלווה אותך מוקסם מכל דבר</l>
+          <l>לא מבין איך זה נפל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וכשהייתי מתבונן זוכר זרמים של גאווה</l>
+          <l>איך הערצתי בחוזקה ללא סימן ושאלה</l>
+          <l>מבלי לדעת אכזבה ללא ספק ותהייה</l>
+          <l>עכשיו גוועה הגאווה שבליבך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זמן עבר</l>
+          <l>מסתכל לעברך לא נשאר אותו אדם</l>
+          <l>מדבר איתך הצליל כבר מבוייש</l>
+          <l>לא מבין איך זה נפל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכשהייתי מתבונן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

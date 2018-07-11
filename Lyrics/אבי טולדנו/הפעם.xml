@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הפעם</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>מאיה רוזנפלד זנגילביץ</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הפעם</head>
+        <lg number="1" type="stanza">
+          <l>הפעם,</l>
+          <l>לא אבטיח מה שלא אוכל לתת</l>
+          <l>ולא אתן לך את שלא תוכלי לשאת</l>
+          <l>לא אזכיר את העבר, לא אחטט</l>
+          <l>פשוט אוהב אותך – כעת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הפעם,</l>
+          <l>את הטעם,</l>
+          <l>לשנות את חוקי המשחק.</l>
+          <l>הפעם,</l>
+          <l>כל הזעם,</l>
+          <l>התרכך למולך ונמחק.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הפעם,</l>
+          <l>אני – כול כולי – שלך.</l>
+          <l>אני כל כולי איתך</l>
+          <l>הפעם אני שלך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הפעם,</l>
+          <l>כבר יודע מה ללחוש לתוך ליבך</l>
+          <l>ואיך לסגוד לכל גופך, להוקירך</l>
+          <l>אני אפריח השממה בנשמתך</l>
+          <l>ואת הכול אתן רק בשבילך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הפעם,</l>
+          <l>את הטעם,</l>
+          <l>לשנות את חוקי המשחק.</l>
+          <l>הפעם,</l>
+          <l>כל הזעם,</l>
+          <l>התרכך למולך ונמחק.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הפעם,</l>
+          <l>אני – כול כולי – שלך.</l>
+          <l>אני כל כולי איתך</l>
+          <l>הפעם אני שלך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

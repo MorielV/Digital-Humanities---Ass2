@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חייו של יוחאי</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>נתן אלתרמן</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>יושב על הגדר </album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חייו של יוחאי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>ישנה אדמה ויש עומק וגובה.</l>
+          <l>ישנם יערות, נמרים ותוכים.</l>
+          <l>ישנן אהבות ושירים לשובע</l>
+          <l>ויש יוחאי - מוכר פיסטוקים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>העולם יפה ואין קץ לגובה.</l>
+          <l>כוכבים גדולים סובבים בלי קול.</l>
+          <l>עמהם יוצא גם יוחאי הרחובה</l>
+          <l>לשאת פיסטוקים על טס עגול.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הולך לו יוחאי כחרש אילם.</l>
+          <l>בן חמישים שנה.</l>
+          <l>החשבה אימו (הן היתה לו אם)</l>
+          <l>שככה יהיה לבנה?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מבט מזוגג ופה חיוור</l>
+          <l>גוף חלוד ורזה.</l>
+          <l>ישנם אנשים יפים יותר,</l>
+          <l>אבל יוחאי הוא כזה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ישנם בעולם אהבות ויגון</l>
+          <l>וימים ונהרות עמוקים</l>
+          <l>ויוחאי מתקרב אל מותו האביון</l>
+          <l>ומביא עמו טס פיסטוקים.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הולך לו יוחאי...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>ישנה אדמה ויש עומק וגובה.</l>
+          <l>ישנם יערות, נמרים ותוכים.</l>
+          <l>ישנן אהבות ושירים לשובע</l>
+          <l>ויש יוחאי - מוכר פיסטוקים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תפילה קטנה</title>
+        <singer classification="unknown">אסף לוי</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>יואל חיים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תפילה קטנה</head>
+        <lg number="1" type="stanza">
+          <l>כשאני נודד מפה לשם</l>
+          <l>כמו טיפה קטנה בלב הים</l>
+          <l>והדרך לפעמים לא נגמרת</l>
+          <l>אז לוקח נשימה, שוב מרים ת'ראש ולא נכנע</l>
+          <l>ומתוך הנשמה לוחשות השפתיים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ורק תפילה קטנה לי אליך אלוקי</l>
+          <l>ורק תפילה קטנה לי אליך אלוקי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אנא קרב את צעדי</l>
+          <l>אנא האר לי את דרכי</l>
+          <l>כי אני אובד בדרך אלוקי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשדמעות שוטפות את לילותי</l>
+          <l>והאור בורח מחיי, לשמיים נישאות העיניים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ורק תפילה קטנה לי אליך אלוקי</l>
+          <l>ורק תפילה קטנה לי אליך אלוקי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אנא קרב את צעדי</l>
+          <l>אנא האר לי את דרכי</l>
+          <l>כי אני אובד בדרך אלוקי.....</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אנא קרב את צעדי אנא האר לי את דרכי</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>אנא, אנא. אנא... אוי אנא...</l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>אנא קרב את צעדי אנא האר לי את דרכי</l>
+          <l>כי אני אובד בדרך אלוקי... אלוקי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

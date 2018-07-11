@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר של יום חולין</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר של יום חולין</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אם יש לי מיתרים הם מתנגנים ברטט</l>
+          <l>אם יש בי דאגה היא חשופה כמעט</l>
+          <l>אם יש בי אהבה היא תאמר בשקט</l>
+          <l>אם יש לי שורשים הם מתארכים לאט</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתה רואה כיצד פתאום עובר בי רעד</l>
+          <l>הרוח משנה תכופות את כיוונה</l>
+          <l>ניסינו לעזוב אבל אני יודעת</l>
+          <l>אנחנו נשארים שנה אחר שנה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחדרים שלך השמש משרטטת</l>
+          <l>קוים ורצועות של אור על הכתלים</l>
+          <l>אני למענך כל בוקר מלקטת</l>
+          <l>פרטים קטנים, שמחות קטנות של יום חולין</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>האם אתה משיב, האם אתה עונה לי</l>
+          <l>אולי באזנך הולמים גם שאוני</l>
+          <l>אולי אתה מקשיב, אולי אתה דומה לי</l>
+          <l>הן בפניך משתקפים פתאום פני</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם יש לי מיתרים הם מתנגנים ברטט...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>יום החולין הזה הוא יום שיש בו חסד</l>
+          <l>ובחסדו שורות אליך נכתבות</l>
+          <l>קח את ידי עכשיו עשני מפוייסת</l>
+          <l>ביום חולין כזה דרכינו מצטלבות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

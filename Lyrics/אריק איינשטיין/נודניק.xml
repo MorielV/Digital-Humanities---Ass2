@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נודניק</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>על גבול האור</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נודניק</head>
+        <lg number="1" type="stanza">
+          <l>אתה סתם נודניק ואתה מעצבן</l>
+          <l>כל הזמן אתה רואה רק רע</l>
+          <l>אולי תנוח, נסה לגוון</l>
+          <l>תביט, הכוס היא גם חצי מלאה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תמיד אתה מחפש את הקיפוח</l>
+          <l>כל הזמן אתה צועק "שיוויון"</l>
+          <l>תמיד אתה כל כך בטוח</l>
+          <l>תמיד יודע מה נכון</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שב בשקט, ידידי</l>
+          <l>אולי תלך לישון</l>
+          <l>נומה נומה, נומה נומה ני</l>
+          <l>תנוח לשון</l>
+          <l>תנוח הלשון</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה קצת נודניק ואתה מעצבן</l>
+          <l>כל הזמן אתה במלחמה</l>
+          <l>אולי תשתה קצת, נסה לגוון</l>
+          <l>אולי תפתח קצת את הלב לאהבה</l>
+          <l>תמיד אתה כל כך נפוח</l>
+          <l>כל הזמן אתה רואה אסון</l>
+          <l>תמיד אתה כל כך קשוח</l>
+          <l>תמיד יודע מה נכון</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שב בשקט, ידידי</l>
+          <l>אולי תלך לישון</l>
+          <l>נומה נומה, נומה נומה ני</l>
+          <l>תנוח לשון</l>
+          <l>תנוח הלשון</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

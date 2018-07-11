@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חבר בחברת עצמי</title>
+        <singer classification="male singer">אפרים שמיר</singer>
+        <writer>אפרים שמיר</writer>
+        <composer>אפרים שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חבר בחברת עצמי</head>
+        <lg number="1" type="stanza">
+          <l>אמרו לי תשמע חתיכת בטלן</l>
+          <l>מה זה התחלת להיות בדרן</l>
+          <l>אתה עושה דברים מיותרים</l>
+          <l>לגמרי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אחר כך אמרו לי שאני גדול</l>
+          <l>אבל שחקתי החומר זול</l>
+          <l>לא נעלבתי מיד הגבתי</l>
+          <l>ישבתי וכתבתי את השיר הזה שאומר:</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני חבר בחברת עצמי</l>
+          <l>רואה תמונות בעיני רוחי</l>
+          <l>רואה אותי</l>
+          <l>תאמינו לי שטוב לי בחברת עצמי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אמרו לי אפריים אל תתפלא</l>
+          <l>אם תיגמר מסכן וחולה</l>
+          <l>אתה הולך ויורד מהפסים</l>
+          <l>לגמרי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז נפלתי וקמתי ועכשיו אני כאן</l>
+          <l>מה שחשוב במקום והזמן</l>
+          <l>לא נעלבתי מיד הגבתי</l>
+          <l>ישבתי וכתבתי את השיר הזה שאומר:</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני חבר בחברת עצמי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

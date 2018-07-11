@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פעם בחיים</title>
+        <singer classification="female singer">אפרת גוש</singer>
+        <writer>עמיר לב</writer>
+        <composer>עמיר לב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פעם בחיים</head>
+        <lg number="1" type="stanza">
+          <l>תראה ת'חיים לא נותנים להתקרב</l>
+          <l>בסיפורי הילדות לא יכולה להתערב</l>
+          <l>עובר יום ועוד יום ואני לא שוכחת</l>
+          <l>את היד שלך נוגעת לי בגב.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תראה אתה לא זז מרוב פחד</l>
+          <l>לא מאמין לכלום, לא מאמין לי</l>
+          <l>ואני אומרת נלך בצעדים קטנים</l>
+          <l>ראיתי שחייכת כשקניתי לך פרחים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל הלילה על יד הגדר</l>
+          <l>אתה ראית את הבית ואני את הכביש</l>
+          <l>התחבקנו חזק בלי לדבר</l>
+          <l>פעם בחיים, כך אתה מרגיש.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני לא רוצה שניפגש ברחוב בין האנשים</l>
+          <l>לא רוצה שנסתכל בעיניים ואז תבין</l>
+          <l>עובר יום ועוד יום ואני לא שוכחת</l>
+          <l>את היד שלך נוגעת לי בגב.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כל הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

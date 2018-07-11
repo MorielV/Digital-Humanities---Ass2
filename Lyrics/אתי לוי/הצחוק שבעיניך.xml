@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הצחוק שבעיניך</title>
+        <singer classification="female singer">אתי לוי</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>ליאורה אושמי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הצחוק שבעיניך</head>
+        <lg number="1" type="stanza">
+          <l>קרן אור קטנה חומקת</l>
+          <l>דרך התריסים אל תוך ביתי</l>
+          <l>רוח אביבית שורקת</l>
+          <l>מביאה אותך אל נשמתי</l>
+          <l>דרך ארוכה עברת</l>
+          <l>התרחקת קצת יותר מדי</l>
+          <l>מה חיפשת שנשברת</l>
+          <l>ולפתע שבת אל חיי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הצחוק שבעיניך מספר לי</l>
+          <l>כי ליבך רחוק ולא חסר לי</l>
+          <l>לך עם הפרחים שבידיך</l>
+          <l>אפשר בלעדיהם ובלעדיך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשעזבת את הבית</l>
+          <l>לא הבנת כמה זה כואב</l>
+          <l>תם עוד קיץ ובינתיים</l>
+          <l>אני חובקת איש אוהב</l>
+          <l>איך ללא סיבה ויתרת</l>
+          <l>על חלומותינו ועלי</l>
+          <l>מה חיפשת שנישברת</l>
+          <l>ולפתע שבת אל חיי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הצחוק שבעיניך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילדה בובה</title>
+        <singer classification="unknown">איתי הררי</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילדה בובה</head>
+        <lg number="1" type="stanza">
+          <l>מוקדם בבוקר את פותחת את התריס</l>
+          <l>רואה אותך בגופייה קצרה וג'ינס</l>
+          <l>את מדליקה לי את היום ובלי לומר שלום את נעלמת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשאת חוצה על אופניים את העיר </l>
+          <l>נדמה לי שאפשר לחתוך את האוויר</l>
+          <l>אני מביט בך מהצד ולך זה לא איכפת את מתעלמת</l>
+          <l>הלב אומר אהובתי אבל את לא רואה אותי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ילדה בובה, את לא יודעת</l>
+          <l>את היחידה שבליבי מתעתעת</l>
+          <l>עם החוצפה והתמימות</l>
+          <l>כל כך יפה את משגעת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ושוב אנחנו נפגשים במעלית</l>
+          <l>אני יודע שקשה לך להחליט</l>
+          <l>אם זה עדיין לא ברור אני הוא הבחור שמאוהב בך</l>
+          <l>תני לי סיכוי אחד ודי ואת לא תוותרי עלי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ילדה בובה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

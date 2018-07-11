@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני מאמין 6</title>
+        <singer classification="unknown">אסף נגל</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>אסף נגל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני מאמין</head>
+        <lg number="1" type="stanza">
+          <l>אני מאמין שהנה ימים באים</l>
+          <l>וניגש אדם אל אדם כמותו</l>
+          <l>ומה שכאב</l>
+          <l>יחלוף לו כעב</l>
+          <l>וכצל עובר יסור מעל ביתו.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואור האהבה יגה</l>
+          <l>ובמיתר יגע</l>
+          <l>ויאיר את הניגון הנעזב.</l>
+          <l>ואור האהבה</l>
+          <l>יפרוש שוב עלינו כנף</l>
+          <l>וכנשר יגונן על גוזליו.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני מאמין, הו ארץ אהובה</l>
+          <l>שקרוב היום ודמעתך תמחי</l>
+          <l>עודי מחכה שתושיטי לי ידך</l>
+          <l>ותאמרי לי מחדש: אחי אחי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואור האהבה יגה</l>
+          <l>ובמיתר יגע</l>
+          <l>ויאיר את הניגון הנעזב.</l>
+          <l>ואור האהבה</l>
+          <l>יפרוש שוב עלינו כנף</l>
+          <l>וכנשר יגונן על גוזליו.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הו אלי אלי</l>
+          <l>למדני רק לנצור את החלום</l>
+          <l>להגביה כנשר, על גוזליו ירחף</l>
+          <l>הו אלי אלי</l>
+          <l>למדני רק לרדוף את האור</l>
+          <l>ולדעת כילד לנוע קל ויחף.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני מאמין שעיניך תמחי</l>
+          <l>ותאמרי לי מחדש: אחי אחי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

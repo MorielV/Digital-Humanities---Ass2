@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין לי חוש הומור</title>
+        <singer classification="unknown">אחד חלקי אחד</singer>
+        <writer>ערן בר גיל</writer>
+        <composer>בועז ריינשרייבר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין לי חוש הומור</head>
+        <lg number="1" type="stanza">
+          <l>אין לי חוש הומור אבל קוראים לי דברים מצחיקים </l>
+          <l>חושבים אותי למישהו אחר </l>
+          <l>אין לי מכונית אבל אני בתנועה מתמדת </l>
+          <l>אין לי חוש הומור ואין לי ילדים לעת עתה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אין לי חוש הומור אבל יש לי חוש לאנשים מזוייפים </l>
+          <l>כשהם צוחקים עליי אני צוחק איתם </l>
+          <l>אין לי שום תוכנית אבל אני בתנועה מתמדת </l>
+          <l>אין לי חיכוכים ואין לי אהבה לפי שעה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כדי לא להשתגע אני מחזיק חזק אבל אני לא יודע </l>
+          <l>מה אני מחזיק חזק </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין לי חוש הומור אבל אומרים שאני משעשע </l>
+          <l>הם חושבים אותי למישהו אחר </l>
+          <l>ואין לי שום תוכנית אבל אני בתנועה מתמדת </l>
+          <l>אין לי חיכוכים ואין לי אהבה לפי שעה </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כדי לא להשתגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

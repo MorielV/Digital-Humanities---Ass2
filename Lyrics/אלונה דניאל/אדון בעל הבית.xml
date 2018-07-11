@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אדון בעל הבית</title>
+        <singer classification="female singer">אלונה דניאל</singer>
+        <writer>אלונה דניאל</writer>
+        <composer>אלונה דניאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אדון בעל הבית</head>
+        <lg number="1" type="stanza">
+          <l>כשהלילה יורד</l>
+          <l>מתגנבים אל ביתי הספקות שלי</l>
+          <l>בידים רזות וקרות הם נוגעים בכתפי</l>
+          <l>לוחשים באוזני אזהרות ופחדים</l>
+          <l>על הקיר מציירים לי צללים של שדים</l>
+          <l>או אולי ילדים</l>
+          <l>על הקיר מרקדים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני לא יכולה לסלוח לך</l>
+          <l>שאני אוהבת אותך</l>
+          <l>שאני אוהבת אותך</l>
+          <l>אדון בעל הבית</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאתה מתרחק</l>
+          <l>הפחד אוחז בי ולא מרפה</l>
+          <l>בשבילך קצת ניתוק זה טבעי</l>
+          <l>בשבילי זו בגידה</l>
+          <l>כבר קשה לעמוד בשניה של בדידות</l>
+          <l>המשחק התמים שהפך התמכרות</l>
+          <l>ולך השליטה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני לא יכולה לסלוח לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

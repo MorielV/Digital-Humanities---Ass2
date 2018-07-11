@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החיטה צומחת שוב</title>
+        <singer classification="unknown">אביבה שחף</singer>
+        <writer>דורית צמרת</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החיטה צומחת שוב</head>
+        <lg number="1" type="stanza">
+          <l>שדות שפוכים הרחק מאופק ועד סף</l>
+          <l>וחרובים וזית וגלבוע -</l>
+          <l>ואל ערבו העמק נאסף</l>
+          <l>ביופי שעוד לא היה כמוהו.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה לא אותו העמק, זה לא אותו הבית,</l>
+          <l>אתם אינכם ולא תוכלו לשוב</l>
+          <l>השביל עם השדרה, ובשמיים עיט</l>
+          <l>אך החיטה צומחת שוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מן העפר המר העיריות עולות</l>
+          <l>ועל הדשא ילד וכלבו</l>
+          <l>מואר החדר ויורדים לילות</l>
+          <l>על מה שבו ומה שבליבו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה לא אותו העמק...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וכל מה שהיה אולי יהיה לעד</l>
+          <l>זרח השמש שוב השמש בא</l>
+          <l>עוד השירים שרים אך איך יוגד</l>
+          <l>כל המכאוב וכל האהבה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הן זה אותו העמק, הן זה אותו הבית</l>
+          <l>אבל אתם הן לא תוכלו לשוב</l>
+          <l>ואיך קרה, ואיך קרה ואיך קורה עדיין</l>
+          <l>שהחיטה צומחת שוב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

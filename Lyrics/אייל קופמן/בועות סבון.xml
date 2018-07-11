@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בועות סבון</title>
+        <singer classification="male singer">אייל קופמן</singer>
+        <writer>אייל קופמן</writer>
+        <composer>אייל קופמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בועות סבון</head>
+        <lg number="1" type="stanza">
+          <l>קניתי לי בועות סבון </l>
+          <l>לראות את העולם רחוק ומתפזר </l>
+          <l>כל פעם מחדש </l>
+          <l>קניתי לעצמי פרחים </l>
+          <l>בכיתי שמתי את הכל </l>
+          <l>מאחורי מסך </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מנסר כואב לך </l>
+          <l>עומד לא זז </l>
+          <l>למדת לעצור את הדמעות </l>
+          <l>ומה עכשיו? </l>
+          <l>אני נוגע וזה קר </l>
+          <l>מלקק זה לא נגמר </l>
+          <l>את עומדת במים ורועדת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

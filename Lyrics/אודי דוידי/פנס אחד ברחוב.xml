@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פנס אחד ברחוב 2</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>לילך דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פנס אחד ברחוב</head>
+        <lg number="1" type="stanza">
+          <l>אמרו ברחובות שקשה לבנות פה בית</l>
+          <l>שחלומות יש רק בחלומות</l>
+          <l>אמרו, סופות גדולות יבואו גם עלינו</l>
+          <l>אמרו שאין עשן בלי להבות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ויש אחד שאומר שלא תמיד מוכרח להיות ככה</l>
+          <l>בלילה חשוך פנס אחד ברחוב</l>
+          <l>יש אחד שאומר שהחיים סתם ככה </l>
+          <l>זה לאסוף גשם של תקוות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מלחמות סביב, גם אצלך לא חסר</l>
+          <l>כשהם אומרים לך לקום זה לא עוזר</l>
+          <l>מותר להיות נאיבי, מותר לרצות לחיות </l>
+          <l>תרגיש רוחות טובות עוד מנשבות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ויש אחד שאומר שלא תמיד מוכרח להיות ככה</l>
+          <l>בלילה חשוך פנס אחד ברחוב</l>
+          <l>יש אחד שאומר שהחיים סתם ככה </l>
+          <l>זה לאסוף גשם של תקוות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אומרים שהשמש זורחת רק בשביל הפרפרים</l>
+          <l>ושאנחנו לא באמת ראויים</l>
+          <l>לפגוש זקן ברחוב, נער שתועה</l>
+          <l>לאסוף פיסות של החיים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

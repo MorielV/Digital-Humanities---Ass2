@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום הולדת</title>
+        <singer classification="unknown">אלון אולארצ יק</singer>
+        <writer>אלון אולארצ'יק</writer>
+        <composer>אלון אולארצ'יק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום הולדת</head>
+        <lg number="1" type="stanza">
+          <l>יש לי, יש לי יום הולדת</l>
+          <l>יום הולדת ארבעים</l>
+          <l>שן תותבת, אם אוהבת</l>
+          <l>וקמטים על הפנים</l>
+          <l>בשבילי הכל אחרת</l>
+          <l>לא לכל אני מוכן</l>
+          <l>תן בוידאו איזה סרט</l>
+          <l>בסגנון טיפה ישן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מקווה לזכות בטוטו</l>
+          <l>להגיע למליון</l>
+          <l>לעשות סיבוב על יאכטה</l>
+          <l>או בסוויטה במלון</l>
+          <l>מקווה שעוד אצליח</l>
+          <l>לשחק את החיים</l>
+          <l>ואפגוש את המשיח</l>
+          <l>עד שנתי החמישים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש לי פלנטה בחלל החיצון</l>
+          <l>ספינות חלל שם נוחתות עליה וממנה</l>
+          <l>ירח ונוס מקרין צלליתו</l>
+          <l>ואני רוצה לחזור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד הרבה דברים פיקנטיים </l>
+          <l>מחכים לי בסיבוב </l>
+          <l>לא ראיתי לא שמעתי </l>
+          <l>העולם מלא כל טוב</l>
+          <l>בינתיים באמבטיה</l>
+          <l>מסתכל אל הראי</l>
+          <l>מי זה, מי זה הבחורצ'יק</l>
+          <l>שתמיד רואה אותי?</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יש לי פלנטה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

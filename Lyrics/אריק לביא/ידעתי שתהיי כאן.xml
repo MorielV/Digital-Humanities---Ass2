@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ידעתי שתהיי כאן</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>אריק לביא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ידעתי שתהיי כאן</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>פנים קרובות, חיוך ישן </l>
+          <l>פסנתר עקום, הרבה עשן </l>
+          <l>שתי כוסיות בין שנים זרים </l>
+          <l>לשתות לבד זה לא נעים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נכנסתי סתם לתפוס שלווה </l>
+          <l>לא טוב לבד מול כוס ריקה </l>
+          <l>מלצר חיוור עומד ממול </l>
+          <l>פעמיים ג'ין, אחד כפול </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ידעתי שתהיי כאן </l>
+          <l>לא אל תלכי כעת </l>
+          <l>רק ידידים ללילה </l>
+          <l>בבוקר שוב ניפרד </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא אל תלכי חכי רק קצת </l>
+          <l>בחוץ כבר יום אך מה אכפת </l>
+          <l>הנה כבר בא פסנתרן זקן </l>
+          <l>הוא מתיישב ומנגן </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ידעתי שתהיי כאן... </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>פנים קרובות, חיוך ישן... </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>לא אל תלכי חכי עוד קצת </l>
+          <l>אולי תמזוג לי עוד אחת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

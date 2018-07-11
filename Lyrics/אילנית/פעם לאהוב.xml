@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פעם לאהוב</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פעם לאהוב</head>
+        <lg number="1" type="stanza">
+          <l>בלי לפחוד</l>
+          <l>בלי לחשוש</l>
+          <l>לאבד את הראש</l>
+          <l>רציתי תמיד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בלי לשקול</l>
+          <l>מה כדאי</l>
+          <l>בלי לדעת מתי -</l>
+          <l>עבר, הווה, עתיד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלי לדעת היכן</l>
+          <l>את הלילה אישן</l>
+          <l>בגן או על החוף</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לאהוב בלי לחשוב</l>
+          <l>לאהוב עד הסוף</l>
+          <l>כמה טוב</l>
+          <l>פעם לאהוב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לה לה לה...</l>
+          <l>פעם לאהוב...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כמו רות בת מואב</l>
+          <l>שהלכה אחריו</l>
+          <l>הלכה בלי לחשוב</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כמו תינוק בן יומו</l>
+          <l>הבוכה אל אימו</l>
+          <l>רציתי לאהוב</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>לבקש ולרצות</l>
+          <l>מחצות עד חצות</l>
+          <l>לתת ליום לחלוף</l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>לאהוב בלי לחשוב</l>
+          <l>לאהוב עד הסוף -</l>
+          <l>כמה טוב</l>
+          <l>פעם לאהוב</l>
+        </lg>
+        <lg Chorus="yes" number="10" type="stanza">
+          <l>לה לה לה...</l>
+          <l>פעם לאהוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

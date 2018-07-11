@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השבועה</title>
+        <singer classification="unknown">אבי לוי</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השבועה</head>
+        <lg number="1" type="stanza">
+          <l>התאהבתי בך ילדונת אותך רק רציתי</l>
+          <l>צעדייך איך שמעתי שקרבת אלי</l>
+          <l>רק לך אני חיכיתי את זה לא שוכחת</l>
+          <l>רק איתך להיות רציתי שתבוא אלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תמיד נאהב זוהי הבטחה לעד</l>
+          <l>נישאר יחד אף פעם לא לבד</l>
+          <l>השבועה היא של שנינו</l>
+          <l>בואי אלי... בוא אלי אתה</l>
+          <l>תמיד נאהב זוהי הבטחה לעד</l>
+          <l>נישאר יחד אף פעם לא לבד</l>
+          <l>השבועה היא של שנינו</l>
+          <l>בוא אלי... בואי אלי נחיה תמיד לעד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתהלכים תמיד ביחד כל כך כיף לשנינו</l>
+          <l>ועושים הכל בלי פחד אני תמיד שלך</l>
+          <l>התגשם חלום של שנינו רואים זאת עלינו</l>
+          <l>תסתכל לי בעיניים אני תמיד שלך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תמיד נאהב זוהי הבטחה לעד</l>
+          <l>נישאר יחד אף פעם לא לבד</l>
+          <l>השבועה היא של שנינו</l>
+          <l>בואי אלי... בוא אלי אתה</l>
+          <l>תמיד נאהב זוהי הבטחה לעד</l>
+          <l>נישאר יחד אף פעם לא לבד</l>
+          <l>השבועה היא של שנינו</l>
+          <l>בוא אלי... בואי אלי נחיה תמיד לעד</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תמיד נאהב זוהי הבטחה לעד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

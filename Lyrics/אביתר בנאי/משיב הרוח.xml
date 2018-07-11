@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משיב הרוח</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>מירון איזקסון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משיב הרוח</head>
+        <lg number="1" type="stanza">
+          <l>הרוח תמיד נותרת</l>
+          <l>לא מצאתי מקום</l>
+          <l>היא משיבה לגשם</l>
+          <l>גם מביאה טל</l>
+          <l>עונת הרוח קבועה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כך אדמת ירושלים מחכה</l>
+          <l>מי יבוא לעומק זה?</l>
+          <l>בור פתוח מטה עוד...</l>
+          <l>אפשר לראות, ימים אחרים</l>
+          <l>אחרים...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הרוח מביאה את הים</l>
+          <l>מחזיקה חוף וסירה</l>
+          <l>בבוקר, מים שלמים</l>
+          <l>לפזר חום, וילד משחק</l>
+          <l>משחק...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אחר כך הרוח לביתי, </l>
+          <l>תינוקת</l>
+          <l>את הכול מביאה</l>
+          <l>להיבט אהוב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

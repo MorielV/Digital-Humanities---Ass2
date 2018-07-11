@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>על דרך שיר</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>אהוד בנאי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>על דרך שיר</head>
+        <lg number="1" type="stanza">
+          <l>על דרך שיר ביום של סתיו ראיתיה לראשונה </l>
+          <l>ומיד ידעתי שנלכדתי בסבך שחור שערה </l>
+          <l>למרות הסכנה המשכתי ללכת לאורך קסם שיר </l>
+          <l>ואמרתי לי, לו שחור כמו עלה ינשור שהשחר שוב יאיר </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>על דרך שיר היא לקחה אותי גבוה מעל הזמן </l>
+          <l>ואני לה נתתי את כל מה שידעתי וגיליתי את סוד הסימן </l>
+          <l>לא חסכתי בצליל לא חסכתי בצבע </l>
+          <l>לא חומר לא בד או מכחול </l>
+          <l>וכל כך התאהבתי בדמות שיצרתי </l>
+          <l>עד שיצאתי איתה במחול </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ועכשיו היא עוזבת היא חייבת לעוף </l>
+          <l>לפני שאור יום יעלה עם השמש תמצא אותה בין זרועותי</l>
+          <l>כנפיה יפלו כעלה היא פתאום נעלמה והותרתי לבד </l>
+          <l>את שמה עד היום לא אדע </l>
+          <l>כשצלעתי ידעתי הכאב יישאר </l>
+          <l>במקום בוא בי היא נגעה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

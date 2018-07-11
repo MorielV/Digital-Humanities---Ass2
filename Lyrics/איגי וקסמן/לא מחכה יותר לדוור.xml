@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא מחכה יותר לדוור</title>
+        <singer classification="female singer">איגי וקסמן</singer>
+        <writer>איגי וקסמן</writer>
+        <composer>צחי הר נבו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא מחכה יותר לדוור</head>
+        <lg number="1" type="stanza">
+          <l>אפשר כבר לעצום עיניים</l>
+          <l>להרגיש את זה כאן</l>
+          <l>כי זה ממש קרוב</l>
+          <l>נוגע בי</l>
+          <l>מאבדים תחושה של זמן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עננים נוטים לרדת מכיוון מערב</l>
+          <l>הוא מתקרב אלי בשקט</l>
+          <l>ומלטף לי את הגב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא מחכה יותר</l>
+          <l>מחכה יותר לדוור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בשלוליות יש אור גדול</l>
+          <l>הכל יוצא ממך</l>
+          <l>תיקח אותי, אהוב שלי</l>
+          <l>לנצח רק שלך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עננים נוטים לרדת מכיוון מערב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

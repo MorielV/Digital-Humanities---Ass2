@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לך שרתי</title>
+        <singer classification="male singer">אבי פרץ</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לך שרתי</head>
+        <lg number="1" type="stanza">
+          <l>כמה לך שרתי ביקשתי </l>
+          <l>התחננתי אמרתי </l>
+          <l>מה עוד צריך ילדה </l>
+          <l>כדי להאמין... </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פרח קטפתי לך ילדה מלב היער </l>
+          <l>לאהבה אין גבול ומדינה </l>
+          <l>הכל עשיתי הנה באתי עד לשער </l>
+          <l>מדוע זה את כלל לא מבינה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יורד הליל ושתי עינייך </l>
+          <l>המאירות כשלל גחליליות </l>
+          <l>רוצה אלייך כי בלעדייך </l>
+          <l>אני שואל לחיות או לא לחיות </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמה לך שרתי... </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>פרח קטפתי לך ילדה מלב היער </l>
+          <l>לאהבה אין גבול ומדינה </l>
+          <l>הכל עשיתי הנה באתי עד לשער </l>
+          <l>מדוע זה את כלל לא מבינה </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מהגיטרה ידי לא סרה </l>
+          <l>המיתרים פקאו אחד אחד </l>
+          <l>כן את יודעת נפשי לך שרה </l>
+          <l>וזה השיר ילדה רק לך נועד </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כמה לך שרתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

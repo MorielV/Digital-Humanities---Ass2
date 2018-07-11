@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חוזר לספרד</title>
+        <singer classification="male singer">אבנר גדסי</singer>
+        <writer>אבנר גדסי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חוזר לספרד</head>
+        <lg number="1" type="stanza">
+          <l>חוצה ימים ויבשה בעקבותיה</l>
+          <l>וחוזר את כל הדרך לספרד.</l>
+          <l>מתגעגע, אוהב אותה,</l>
+          <l>בעצם לא נפרד.</l>
+          <l>מצייר לי את דמותה ותלתליה,</l>
+          <l>רוצה לרקוד איתה.</l>
+          <l>מת להחיות שוב</l>
+          <l>את קסם מנגינת אהבתה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך שהיא אהבה ורקדה,</l>
+          <l>איש לא יודע.</l>
+          <l>ולכבודי היא זימרה</l>
+          <l>שיר סרנדה.</l>
+          <l>זאת מגרנדה</l>
+          <l>תמיד בלבי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בשכונה שבה היא גרה בגרנדה</l>
+          <l>אני שואל והד עונה לי כאומר:</l>
+          <l>בברצלונה רוקדת </l>
+          <l>כבר למישהו אחר.</l>
+          <l>זה הקצב שבוער בעצמותיה</l>
+          <l>זורם בתוכי.</l>
+          <l>כשאמצאנה אדליק אותה</l>
+          <l>באש אהבתי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך שהיא אהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

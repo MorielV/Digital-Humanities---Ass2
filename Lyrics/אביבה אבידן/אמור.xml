@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמור</title>
+        <singer classification="female singer">אביבה אבידן</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמור</head>
+        <lg number="1" type="stanza">
+          <l>פתאום עזבה האהבה.</l>
+          <l>נעלמה לה וקמלה לה.</l>
+          <l>האהבה הכאובה,</l>
+          <l>כמו נבעה לה וגוועה לה.</l>
+          <l>דמעה הותירה והגירה.</l>
+          <l>אמור: "אותך אהבתי".</l>
+          <l>אמור: "אותך כאבתי".</l>
+          <l>אמור: "עוד לא עזבתי".</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הוי האהבה, כולה אכזבה.</l>
+          <l>לא תשוב לעולם.</l>
+          <l>הוי האהבה, היא חסרת תקווה.</l>
+          <l>לא תשוב לעולם.</l>
+          <l>יזע ודמעות ודם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פתאום עזבה האהבה.</l>
+          <l>נעלמה לה וקמלה לה.</l>
+          <l>האהבה הכאובה,</l>
+          <l>כמו נבעה לה וגוועה לה.</l>
+          <l>איך היינו יחד.</l>
+          <l>אמור: "איפה טעינו"?</l>
+          <l>אמור: איפה שגינו"?</l>
+          <l>אמור: "טיפשים היינו".</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הוי האהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

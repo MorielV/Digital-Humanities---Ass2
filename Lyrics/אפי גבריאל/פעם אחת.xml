@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פעם אחת</title>
+        <singer classification="unknown">אפי גבריאל</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פעם אחת</head>
+        <lg number="1" type="stanza">
+          <l>בואי נעצום עיניים, נמציא חלום</l>
+          <l>על פרפר נושק לפרח ונגשים אותו היום</l>
+          <l>אני אעוף אלייך על רוחות של אהבה</l>
+          <l>אלייך אל הפרח הלכו</l>
+          <l>כשתפקחי עיניים מתוך האשליה</l>
+          <l>תראי בחור שיש לו, רק משאלה צנועה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פעם אחת לאהוב אותך</l>
+          <l>פעם אחת ארוכה כל כך</l>
+          <l>עד שיכלו ימי, רק פעם אחת ודי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלילה בא, יורד אלינו ואת יפה</l>
+          <l>זוהרת בלבן, על רקע, של שמיים מקטיפה</l>
+          <l>מעל העננים, תלוי כוכב של אהבה</l>
+          <l>ירח מקשט את הדממה</l>
+          <l>ואת מתוך השקט, רואה אותי מולך </l>
+          <l>אוחז בשתי ידייך ומבקש ממך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פעם אחת לאהוב אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

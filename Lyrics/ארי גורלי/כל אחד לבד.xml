@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל אחד לבד</title>
+        <singer classification="male singer">ארי גורלי</singer>
+        <writer>ארי גורלי</writer>
+        <composer>ארי גורלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל אחד לבד</head>
+        <lg number="1" type="stanza">
+          <l>הבדידות הגדולה שעוברת</l>
+          <l>מבין האצבעות שלך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי כל אחד לבד</l>
+          <l>כל אחד לבד</l>
+          <l>כל אחד לבד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואת לא מסתכלת</l>
+          <l>כדי לא לראות שאני אוהב אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי כל אחד לבד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הבדידות הגדולה שגוברת</l>
+          <l>בגלל הנגיעות שאת נוגעת בי עכשיו</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי כל אחד לבד...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ואת אולי חושבת</l>
+          <l>את אולי אוהבת</l>
+          <l>בלי לומר מילה</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>כי כל אחד לבד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

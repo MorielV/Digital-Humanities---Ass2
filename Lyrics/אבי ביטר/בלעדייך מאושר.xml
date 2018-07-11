@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלעדייך מאושר</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>מייק לוק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלעדייך מאושר</head>
+        <lg number="1" type="stanza">
+          <l>ביליתי כל הלילה עם כל החברים</l>
+          <l>רציתי רק להשתחרר מכל העצבים</l>
+          <l>ישבתי לי במועדון, שתיתי וודקה עם לימון</l>
+          <l>לא היית כלל חסרה, הרגשתי שיגעון</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני חופשי כמו פרפר, בלעדייך מאושר</l>
+          <l>חי בכיף את הלילות, לא רוצה עוד אהבות</l>
+          <l>אז מה אם את כזאת יפה, יש לך שיגעונות</l>
+          <l>היו בינינו ניסיונות, איתך קשה לחיות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על יד הבר במועדון מזמין עוד וודקה עם לימון</l>
+          <l>כמו מלך בארמון, בלעדייך שיגעון</l>
+          <l>וכל החברים רוקדים, אל תוך הקצב נסחפים</l>
+          <l>אני עלייך לא חושב, לא מתאהב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני חופשי כמו פרפר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הרקדנית רוקדת, אלי היא מסתכלת</l>
+          <l>אני מרגיש כזה חופשי, אותי היא מטרפת</l>
+          <l>והיא אלי צוחקת, עוד קריצה קורצת</l>
+          <l>הוודקה שוב עולה לראש, אני מרגיש סרבוש</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני חופשי כמו פרפר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

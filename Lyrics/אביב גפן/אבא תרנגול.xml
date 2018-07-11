@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבא תרנגול</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבא תרנגול</head>
+        <lg number="1" type="stanza">
+          <l>האם אתה רואה אותי</l>
+          <l>כשאני רואה אותך</l>
+          <l>האם אתה מבחין אצלי</l>
+          <l>בין עצב ושמחה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גרים באותו הבית</l>
+          <l>ורוצים לצאת מכאן</l>
+          <l>כל כך זרים וכל כך קרובים</l>
+          <l>איש גדול ואיש קטן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אבא תרנגול</l>
+          <l>איך אתה יכול</l>
+          <l>לא לשאול דבר</l>
+          <l>ולדעת את הכל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמה גבוהה תהיה החומה</l>
+          <l>עד שלא יעבור בה שום שיר</l>
+          <l>כמה עוד זמן אתה חושב</l>
+          <l>שנשאר לנו להכיר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יצאנו אחד מתוך השני</l>
+          <l>אז למה שלא נדבר</l>
+          <l>כל כך לא רציתי אותך מורה</l>
+          <l>אני רציתי אותך חבר</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אז אבא תרנגול...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>למה אני צריך לנחש</l>
+          <l>למה את מצפה</l>
+          <l>למה כל מה שיש לי לומר</l>
+          <l>מתפוצץ לי בתוך הפה</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>כמו אבא תרנגול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

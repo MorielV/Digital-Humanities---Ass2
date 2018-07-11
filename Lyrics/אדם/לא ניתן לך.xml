@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא ניתן לך</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>חנה גולדברג</writer>
+        <composer>רן עפרון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא ניתן לך</head>
+        <lg number="1" type="stanza">
+          <l>אם אתה בחדר, מחכה לה והיא לא רוצה</l>
+          <l>אם אתה נכנס למערה שאין בה שום מוצא</l>
+          <l>אם אתה נופל פה מהגג בלילה</l>
+          <l>אל תפחד, תתעודד</l>
+          <l>אנחנו פה איתך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם אתה נותן את הנשמה ומקבל סטירה</l>
+          <l>אם אתה בבוקר מתעורר ולא מבין למה</l>
+          <l>אם אתה רואה פה אדמה בוערת</l>
+          <l>אל תפחד, תתעודד</l>
+          <l>אנחנו פה איתך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא ניתן לזה לגעת בך</l>
+          <l>לא ניתן לזה לשבור את לבך</l>
+          <l>לא ניתן לך ליפול לתהום לבדך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם אתה באמצע המדבר פוגש בנסיכה</l>
+          <l>אם היא מסתובב ואומרת: היי, אני לא רוצה</l>
+          <l>אם אתה פוגש פה זאבים בחושך</l>
+          <l>אל תפחד, תתעודד</l>
+          <l>אנחנו פה איתך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא ניתן לזה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הסתכלי אלי</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>זאב נחמה</writer>
+        <composer>אקורדים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הסתכלי אלי</head>
+        <lg number="1" type="stanza">
+          <l>ברחובות הכל סגור</l>
+          <l>שלוש אחר חצות</l>
+          <l>רואה אותך במועדון יקר</l>
+          <l>התזמורת מוכנה, הם מריעים לך</l>
+          <l>וההד הזה נשמע לך כה מוכר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אבל ליבך מזמן אינו יודע</l>
+          <l>אהבה של בן אדם אחד</l>
+          <l>תנסי לחשוב עלי לרגע</l>
+          <l>כשאת עומדת מול קהל לבד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הסתכלי אלי</l>
+          <l>הסתכלי אלי</l>
+          <l>אני יושב מולך הביטי בעיני</l>
+          <l>הסתכלי אלי</l>
+          <l>הסתכלי אלי</l>
+          <l>אם רק תשירי לי האושר בחיי</l>
+          <l>עוד הלילה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הקהל כולו שלך</l>
+          <l>ולי קשה לראות</l>
+          <l>לכמה אנשים נכנסת ללב,</l>
+          <l>בכל שיר הם אוהבים ומריעים לך</l>
+          <l>ורק קולך מסגיר את הכאב.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם רק תרצי יש אהבה אחרת</l>
+          <l>שרק אדם אחד יכול לתת</l>
+          <l>ואת ליבי אתן לך למשמרת</l>
+          <l>מיד שאת מהבמה יוצאת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הסתכלי אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

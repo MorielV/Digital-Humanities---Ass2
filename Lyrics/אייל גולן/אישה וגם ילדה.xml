@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה וגם ילדה</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>זה אני</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה וגם ילדה</head>
+        <lg number="1" type="stanza">
+          <l>השנים מתחלפות, בעיני את נשארת בת עשרים</l>
+          <l>כמו הירח, יש בך לנצח נעורים</l>
+          <l>את מנצחת את הזמן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>במילים מתוקות אני שר את יופייך, אהובתי,</l>
+          <l>את יום ולילה, את מאורי והילתי</l>
+          <l>כל מה שיש לי בעולם.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את האישה שלי, נסיכה שלי,</l>
+          <l>אני אוהב אותך, אישה וגם ילדה.</l>
+          <l>את האישה שלי, החיים שלי</l>
+          <l>את אהבתי היחידה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אלוהים לך נתן את היפה במתנות,</l>
+          <l>אפילו הטבע אותך לא יצליח לשנות</l>
+          <l>את מנצחת את הזמן.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את האישה שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

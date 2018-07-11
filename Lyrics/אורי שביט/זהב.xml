@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זהב 2</title>
+        <singer classification="unknown">אורי שביט</singer>
+        <writer>אורי שביט</writer>
+        <composer>אורי שביט</composer>
+        <album>משחקת במילים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זהב</head>
+        <lg number="1" type="stanza">
+          <l>כשעצרנו בשום מקום מיוחד	</l>
+          <l>אני הזמנתי קפה	</l>
+          <l>אתה לא סובל</l>
+          <l>קפה	</l>
+          <l>הרגשתי קטנה	</l>
+          <l>כמו תמיד</l>
+          <l>מפחדת להחזיק ידיים	</l>
+          <l>כמו תמיד	</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>השירותים היו כל כך מסריחים	</l>
+          <l>מאקונומיקה	</l>
+          <l>איך הריח הכי נקי יכול להיות כל כך מלוכלך	</l>
+          <l>נכנסתַ אחרי לתא	</l>
+          <l>הנשיקות שלך	</l>
+          <l>כל מה שיש לך	</l>
+          <l>הריח אקונומיקה	</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הרגשתי קטנה	</l>
+          <l>כמו תמיד</l>
+          <l>מפחדת להחזיק ידיים	</l>
+          <l>כמו תמיד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אחר כך, במיטה	</l>
+          <l>נשכב בתוך שלולית	</l>
+          <l>זהב, הכל זהב</l>
+          <l>מה אני אגיד	</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הרגשתי קטנה</l>
+          <l>כמו תמיד</l>
+          <l>מפחדת להחזיק ידיים</l>
+          <l>כמו תמיד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

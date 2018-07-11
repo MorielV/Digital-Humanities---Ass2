@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאמינה בניסים</title>
+        <singer classification="female singer">אורטל אופק</singer>
+        <writer>אורטל אופק</writer>
+        <composer>אורטל אופק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאמינה בניסים</head>
+        <lg number="1" type="stanza">
+          <l>אני מאמינה בניסים</l>
+          <l>למרות שלא ראיתי נס קורה לי</l>
+          <l>אני מאמינה שדברים טובים באים</l>
+          <l>בינתיים אסתפק במה שיש לי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני מאמינה בך</l>
+          <l>כמה מבריק אתה</l>
+          <l>כמה חוכמה, כמה עצבות</l>
+          <l>אל תדבר על השלכת </l>
+          <l>אצלי אביב בלב</l>
+          <l>הכל פורח כשאתה נכנס לחדר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני מאמינה בניסים </l>
+          <l>למרות שלא ראיתי נס קורה לי</l>
+          <l>אני מאמינה בתפילה </l>
+          <l>לבקש זה לרצות</l>
+          <l>ולרצות זה לחיות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני מאמינה בשירים</l>
+          <l>הם עושים לי להרגיש יותר נושמת</l>
+          <l>לצייר את דרכי </l>
+          <l>להגשים חלומי </l>
+          <l>להבין שהכול פתוח</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני מאמינה בך</l>
+          <l>כמה מבריק אתה</l>
+          <l>כמה חוכמה, כמה עצבות</l>
+          <l>אל תדבר על השלכת </l>
+          <l>אצלי אביב בלב</l>
+          <l>הכל פורח כשאתה נכנס לחדר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

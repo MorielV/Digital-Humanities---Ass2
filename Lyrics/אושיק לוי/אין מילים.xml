@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין מילים</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>אל קופר</writer>
+        <composer>אל קופר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין מילים</head>
+        <lg number="1" type="stanza">
+          <l>נכון שלא ידעתי מה אומרים בהתחלה</l>
+          <l>אוהב אותך אמרתי</l>
+          <l>אך אוהב זו לא מילה לא מילה</l>
+          <l>אין מילים</l>
+          <l>מילים של אהבה</l>
+          <l>הביטי בעיניים ותראי שהן חומות</l>
+          <l>וקשטי את הלחיים בשפתיים אדומות</l>
+          <l>אין מילים</l>
+          <l>אין מילים לומר לך את זה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אולי מחר אמציא כבר - לי ולך שפה</l>
+          <l>ואז אוכל לומר לך כמה את יפה</l>
+          <l>בלי מילים ושירים - לשיר לך - מנגינה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני כל כך רציתי להגיד את זה תמיד</l>
+          <l>ורוצה שאת תגידי מה שיש לך להגיד</l>
+          <l>מה לומר - איך אפשר - אם אין לי - אף מילה</l>
+          <l>אין מילים</l>
+          <l>אין מילים לומר לך - אותך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

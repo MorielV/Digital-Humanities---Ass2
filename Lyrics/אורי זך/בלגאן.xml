@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלגאן</title>
+        <singer classification="unknown">אורי זך</singer>
+        <writer>אורי זך</writer>
+        <composer>אורי זך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלגאן</head>
+        <lg number="1" type="stanza">
+          <l>אם יכולנו לעצור את העולם</l>
+          <l>ברגע של חושך להעלם לכולם</l>
+          <l>הפחד היה נעלם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בין שמיים לאדמה חרוכה</l>
+          <l>בין הקיץ לענני סערה</l>
+          <l>השקט אורב בפינה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איזה בלגאן </l>
+          <l>עכשיו הכל בוער כאן</l>
+          <l>סודות שקופים של נחמה</l>
+          <l>והקנאה שלי, שלך חותכת</l>
+          <l>לילה בלי בושה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אי של שקט לנפש פצועה</l>
+          <l>יד מחבקת ילדה עצובה</l>
+          <l>לוחשת דברי אהבה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עיר של שקר מפתה את עצמה</l>
+          <l>שואבת אותי לקרבה - אוחזת בחזקה</l>
+          <l>הפעם אני אכנע</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>איזה בלגאן...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אז נשתוק בלי סיבה ונפיח שמחה</l>
+          <l>לחלל האוויר הדחוס בתשוקה</l>
+          <l>נרחם ננחם ואולי קצת ניגע</l>
+          <l>ואחר כך נחליט שדבר לא קרה</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>איזה בלגאן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

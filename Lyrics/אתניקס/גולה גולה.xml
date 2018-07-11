@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גולה גולה</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גולה גולה</head>
+        <lg number="1" type="stanza">
+          <l>חם לי בחלל הפה</l>
+          <l>אז לא שותה עוד כוס קפה</l>
+          <l>הקולומביאני מאוכזב</l>
+          <l>אבל מבין את המצב</l>
+          <l>אני והיא כמו שני טיפשים</l>
+          <l>רבים על מקומות קדושים</l>
+          <l>בואי וניסע לחו"ל</l>
+          <l>שיחות שלום באיסטנבול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גולה גולה</l>
+          <l>גולה גולה</l>
+          <l>או או או או</l>
+          <l>גולה גולה</l>
+          <l>גולה גולה</l>
+          <l>או או או או</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חם לי בחלל הפה</l>
+          <l>בגלל ויכוח לא יפה</l>
+          <l>הקולומביאני כבר בקיא</l>
+          <l>בהכנת קפה טורקי</l>
+          <l>אם היא תוותר מעט</l>
+          <l>אתן הכל בבת אחת</l>
+          <l>ברגע שנסכים על גבול</l>
+          <l>נסע לחגוג באיסטנבול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גולה גולה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>git gule gule</l>
+          <l>wat grubet ete</l>
+          <l>aglatma beni sen bile bile</l>
+          <l>git gule gule</l>
+          <l>wat grubet ete</l>
+          <l>ozletme beni</l>
+          <l>don gule gule</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>גולה גולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

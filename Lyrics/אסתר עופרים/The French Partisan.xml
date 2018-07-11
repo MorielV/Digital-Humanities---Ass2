@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The French Partisan</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>I'll See You In My Dreams – בהופעה 2009</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>The French Partisan</head>
+        <lg number="1" type="stanza">
+          <l>When they poured across the border</l>
+          <l>I was cautioned to surrender,</l>
+          <l>this I could not do;</l>
+          <l>I took my gun and vanished.</l>
+          <l>I have changed my name so often,</l>
+          <l>I've lost my wife and children</l>
+          <l>but I have many friends,</l>
+          <l>and some of them are with me. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Oh, the wind, the wind is blowing,</l>
+          <l>through the graves the wind is blowing,</l>
+          <l>freedom soon will come;</l>
+          <l>then we'll come from the shadows.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>An old woman gave us shelter,</l>
+          <l>kept us hidden in the garret,</l>
+          <l>then the soldiers came;</l>
+          <l>she died without a whisper.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>There were three of us this morning</l>
+          <l>I'm the only one this evening</l>
+          <l>but I wonder on;</l>
+          <l>the frontiers are my prison.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>Oh, the wind, the wind is blowing,</l>
+          <l>through the graves the wind is blowing,</l>
+          <l>freedom soon will come;</l>
+          <l>then we'll come from the shadows.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

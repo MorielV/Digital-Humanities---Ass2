@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנגינה יקרה</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>אביתר בנאי</composer>
+        <album>אביתר בנאי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנגינה יקרה</head>
+        <lg number="1" type="stanza">
+          <l>אין לי ברירה רק לעשות ככה</l>
+          <l>אין לי ברירה אני מצטער בשבילי</l>
+          <l>אין לי ברירה תמיד זה אני מולי</l>
+          <l>אין לי ברירה רק להיות איתי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בואי אלי מנגינה יקרה בואי אלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין לי ברירה או לבוא לבוש</l>
+          <l>או לבוא נקי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בואי אלי מנגינה יקרה בואי אלי, בואי אלי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ותכף נשן ואני יכול לשמור עלי יפה</l>
+          <l>לא צריך אף אחד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

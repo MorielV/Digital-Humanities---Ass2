@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ליסה ליסה</title>
+        <singer classification="male singer">אלי עידן</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ליסה ליסה</head>
+        <lg number="1" type="stanza">
+          <l>ליסה יפה היא בבנות</l>
+          <l>אין אחת יותר יפה ממנה</l>
+          <l>נותרתי כאן עם כל הזיכרונות</l>
+          <l>מאז שהיא הלכה והיא איננה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ליסה ליסה</l>
+          <l>עוד יגיע יום של אור אני מבטיח</l>
+          <l>וכשליסה תחזור ושוב תופיע</l>
+          <l>ליסה תעצור את הדמעות</l>
+          <l>ודי לבכות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ליסה כמו ציפור היא חופשיה</l>
+          <l>את כנפה פורשת לה למעלה</l>
+          <l>איך נפשי אליה בוכייה</l>
+          <l>מאז שליסה קמה והלכה לה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ליסה ליסה</l>
+          <l>עוד יגיע יום של אור אני מבטיח</l>
+          <l>וכשליסה תחזור ושוב תופיע</l>
+          <l>ליסה תעצור את הדמעות</l>
+          <l>ודי לבכות.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

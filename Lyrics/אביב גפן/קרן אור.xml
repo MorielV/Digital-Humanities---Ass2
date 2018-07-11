@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קרן אור</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>ממנטו מורי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קרן אור</head>
+        <lg number="1" type="stanza">
+          <l>אם תרצי אותי אני כאן זוכר אותך היטב זוכר עד שכואב יותר מדי</l>
+          <l>אם תרצי אותי אני בא חושב עלייך הרבה חושב עד שבוכה נשבר</l>
+          <l>מי לקח אותך גבוה מי השאיר אותי לבד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם הייתי רק בטוח כשאמות אפגוש אותך</l>
+          <l>ציפורים עפות ברוח להן תמיד יש קן לחזור</l>
+          <l>ואני תמיד אשיר לך הלא שירי לך קרן אור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואני עכשיו יודע שיש מלאך אחד ששם רק במיוחד ישמור עלי</l>
+          <l>ובחוץ כבר ערב חג בא אמרו "מה שתרצה" רציתי רק לראות אותך</l>
+          <l>אז מי לקח אותך גבוה מי השאיר אותי לבד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם הייתי רק בטוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

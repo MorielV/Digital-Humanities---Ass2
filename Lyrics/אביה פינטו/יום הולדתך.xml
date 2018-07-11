@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום הולדתך</title>
+        <singer classification="unknown">אביה פינטו</singer>
+        <writer>דודו זיגמן</writer>
+        <composer>דודו זיגמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום הולדתך</head>
+        <lg number="1" type="stanza">
+          <l>את בשבילי, יפה שלי, עולם של טוב כל החיים </l>
+          <l>אוהב אותך, נושם אותך, רוצה אותך לעולמים </l>
+          <l>ביום חדש רק לך אלחש בוקר טוב חיים שלי </l>
+          <l>בסערות, והגלים, תמיד היית כאן בשבילי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובלעדיך לא יכול לישון </l>
+          <l>אני יודע שהייתי הראשון </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שנתת לו את כולך, את חום אהבתך </l>
+          <l>מפרי גנך נותנת לי ושורשייך בליבי </l>
+          <l>והלילה זה יום הולדתך </l>
+          <l>ואני כאן בשבילך לשמח את לבך </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יורדים לים, נוגעים בחול, ונשבעים לאהבה </l>
+          <l>להיות ביחד עד הסוף, דקה יפה ועוד שנה </l>
+          <l>מכתב קטן, וזר פרחים, הבאתי לך אהובתי </l>
+          <l>ולעולם תהיי בנשמתי </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ובלעדיך לא יכול לישון </l>
+          <l>אני יודע שהייתי הראשון </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>שנתת לו את כולך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

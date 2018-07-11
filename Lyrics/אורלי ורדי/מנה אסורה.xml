@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנה אסורה</title>
+        <singer classification="unknown">אורלי ורדי</singer>
+        <writer>אורלי ורדי</writer>
+        <composer>איציק המרמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנה אסורה</head>
+        <lg number="1" type="stanza">
+          <l>יפה, נאה אותך הכרתי,</l>
+          <l>אין פלא שאותך אהבתי.</l>
+          <l>ממך את כוחותי שאבתי,</l>
+          <l>אתך לכל מקום הלכתי -</l>
+          <l>חשבתי שנבנה לנו עתיד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תן לי יד, תן לי יד,</l>
+          <l>עזוב אותך מהסמים ותוכל לחזור...</l>
+          <l>אז תן לי יד, תן לי יד,</l>
+          <l>עזוב אותך מהסמים ותוכל לחזור אלי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הזמן עומד לו מחכה</l>
+          <l>ואתה כמו צל עובר.</l>
+          <l>במבט לאחור,</l>
+          <l>גם אם לבן, צחור, תמים,</l>
+          <l>הוא מסוגל לשקר לפעמים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היום זו מנה, מחר פי כמה,</l>
+          <l>תדע שאתה הורס ת'צמך.</l>
+          <l>תפסיק לעסוק בעולם דמיוני,</l>
+          <l>תחלום על מחר, שיהיה הגיוני...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תן לי יד, תן לי יד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

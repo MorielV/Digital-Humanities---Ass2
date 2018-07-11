@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחת ויחידה</title>
+        <singer classification="unknown">איתי בר שם</singer>
+        <writer>איתי בר שם</writer>
+        <composer>איתי בר שם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחת ויחידה</head>
+        <lg number="1" type="stanza">
+          <l>את עומדת מול עיני</l>
+          <l>וליבי מפסיק לפעום</l>
+          <l>מלטפת את פני</l>
+          <l>ממלאה אותי בחום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני מביט בשתי עינייך </l>
+          <l>מתפעל שוב מיופייך</l>
+          <l>אוחז בזרועותייך</l>
+          <l>וכותב למענך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לו רק יכולתי להודות</l>
+          <l>לפחות לך לתאר</l>
+          <l>ככל שהשעות חולפות</l>
+          <l>אני אוהב אותך יותר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ועכשיו אני יודע </l>
+          <l>שאיתך זו אהבה</l>
+          <l>אשמור עלייך מכל פגע</l>
+          <l>את אחת ויחידה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את כמו יין עז מתוק</l>
+          <l>משתבחת עם השנים</l>
+          <l>עם היופי והצחוק</l>
+          <l>את מושכת מבטים</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ואת תמיד אהובתי</l>
+          <l>בתוכי עמוק בלב</l>
+          <l>נעוצה בנשמתי</l>
+          <l>ואת כוחי ממך שואב</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>לו רק יכולתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

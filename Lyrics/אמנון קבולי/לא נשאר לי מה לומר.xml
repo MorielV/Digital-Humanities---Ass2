@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא נשאר לי מה לומר</title>
+        <singer classification="male singer">אמנון קבולי</singer>
+        <writer>אמנון קבולי</writer>
+        <composer>אמנון קבולי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא נשאר לי מה לומר</head>
+        <lg number="1" type="stanza">
+          <l>לא נשאר לי מה לומר, רק לשיר</l>
+          <l>מי ששר בסוף עוד שר, זה טבעי</l>
+          <l>אין מה לעשות, אין.  מה לרוץ</l>
+          <l>כי בסוף לא נשאר, לא. מה שנחוץ</l>
+          <l>אין לי מה לדבר, מה לשתוק</l>
+          <l>אין לי מה לשקר, ומה לצעוק</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני בסוף עוד קיים, זה מובן</l>
+          <l>ולא תמיד בזה העולם</l>
+          <l>כי הוא קצת קטן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני בסוף עוד קיים, וקיים...</l>
+          <l>ולא תמיד פה בעולם, וכאן</l>
+          <l>אני בסוף עוד קיים ונשאר</l>
+          <l>גם בלי לדעת מה שכל אדם "חכם"</l>
+          <l>יודע</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשאתה מכה</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>איתן גלס</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשאתה מכה</head>
+        <lg number="1" type="stanza">
+          <l>זה קורה עכשיו</l>
+          <l>חלונות סגורים וצעקה</l>
+          <l>שם הדלת נעולה</l>
+          <l>וילד עוד זועק בחשיכה</l>
+          <l>והדמעות</l>
+          <l>לא מפסיקות כשהלילה בא</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי כשאתה מכה</l>
+          <l>אלוהים הכל הכל רואה</l>
+          <l>כי כשאתה מכה</l>
+          <l>בשמיים אלוהים בוכה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא עכשיו בוכה</l>
+          <l>כולם שותקים </l>
+          <l>כשהוא מכה אותה</l>
+          <l>האיפור כבד, מכסה</l>
+          <l>שם סימנים כמו מסיכה</l>
+          <l>רק הדמעות </l>
+          <l>לא מפסיקות כשהלילה בא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי כשאתה מכה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ובלב בפנים</l>
+          <l>צלקת לעולם</l>
+          <l>מכל מכה</l>
+          <l>עד מתי נחייה</l>
+          <l>עם אלימות, שנאה, בלי אהבה</l>
+          <l>רק הדמעות</l>
+          <l>לא מפסיקות כשהלילה בא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

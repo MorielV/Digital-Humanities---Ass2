@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נחמה</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נחמה</head>
+        <lg number="1" type="stanza">
+          <l>ולכאורה עסקנו בשלנו</l>
+          <l>רק בשלנו</l>
+          <l>בלי לבקש גדולות ונצורות.</l>
+          <l>שלווה מופרת</l>
+          <l>וכבר אחרת</l>
+          <l>ואין טעם לכסות</l>
+          <l>כי בפתח נכנסות -</l>
+          <l>התמורות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מי שצמא לכל מחווה של חסד,</l>
+          <l>אוזנו תופסת -</l>
+          <l>איך הקריאות חוצות את הרחוב</l>
+          <l>שואל עדיין</l>
+          <l>שואל מאין</l>
+          <l>כן, מאין כוחות לשאוב.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה בזו נביט</l>
+          <l>ונתמה שנית</l>
+          <l>אם ראינו נכונה</l>
+          <l>לפעמים אני</l>
+          <l>לפעמים אתה</l>
+          <l>כה זקוקים לנחמה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי שחווה את בערת הקיץ,</l>
+          <l>ליבו לבית</l>
+          <l>ופני הנוף ראי לחרדותיו.</l>
+          <l>את מי ישביע</l>
+          <l>את מי ירגיע</l>
+          <l>ועל מה יתפלל עד סתיו.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זה בזו נביט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

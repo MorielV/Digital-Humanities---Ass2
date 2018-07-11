@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קחי את ליבי</title>
+        <singer classification="unknown">אביהו שבת</singer>
+        <writer>רנדי ברלו</writer>
+        <composer>missing</composer>
+        <album>אביהו</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קחי את ליבי</head>
+        <lg number="1" type="stanza">
+          <l>בתוך העיר המנוכרת </l>
+          <l>במבוכים את שוב נסתרת </l>
+          <l>בתוך הצלילים </l>
+          <l>בתוך הרעש לא לטבוע </l>
+          <l>גם אם עכשיו קשה לשמוע </l>
+          <l>ואין לי מילים </l>
+          <l>צעקה מתוקה שתשבור ת'שתיקה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין לי דבר עכשיו לתת לך</l>
+          <l>רק אמונה שתחמם</l>
+          <l>לא מבקש את הירח</l>
+          <l>רק להתבונן</l>
+          <l>קחי את ליבי עכשיו הסתירי </l>
+          <l>שימי בכיס האחורי</l>
+          <l>אין לי הרבה לתת הלילה</l>
+          <l>קחי מה שתוכלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המנגינה בפנים נשמעת </l>
+          <l>ולא מרפה ושוב נוגעת </l>
+          <l>אל תסתתרי </l>
+          <l>המנגינה בפנים נשמעת </l>
+          <l>בתוך הרעש לא טובעת </l>
+          <l>אין לה מילים </l>
+          <l>את הכל אני שר לך בתוך הצלילים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין לי דבר עכשיו לתת לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

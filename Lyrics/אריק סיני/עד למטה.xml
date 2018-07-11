@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד למטה</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>שלמה ארצי</writer>
+        <composer>שלמה ארצי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד למטה</head>
+        <lg number="1" type="stanza">
+          <l>בתוך העיר הזאת שהייתה עירי </l>
+          <l>ישנו בניין נטוש מלא קורי עכביש </l>
+          <l>אני יושב פה כמו מובטל </l>
+          <l>מוציא יומן כותב שורה </l>
+          <l>איך הגעתי עד למטה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היו לי כמה אויבים שלא רצו במותי </l>
+          <l>הייתי לי אישה יפה שעזבה אותי </l>
+          <l>היום הכל תלוי ועומד </l>
+          <l>על איזה חוט רועד </l>
+          <l>איך הגעתי עד למטה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ילדות צעירות מרימות שלמות לגירוי </l>
+          <l>גברים צעירים לא מוכנים לעירוי </l>
+          <l>רואים מכאן בחושך בודדים בודדים </l>
+          <l>מכבים את האורות ונרדמים </l>
+          <l>ורעש של דלתות נפתחות כבר לא מעניין אותי </l>
+          <l>ולילות של לשכב עירום על גגות כבר לא מושך את גופי </l>
+          <l>ואם ביקשתי אותך לבוא כבר לא אמרת תיכנס </l>
+          <l>ולא קרה לי שום נס </l>
+          <l>איך הגעתי עד למטה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כורה פחם מתוך הבור שותה כוסית </l>
+          <l>אמרו עלי אתה שיכור אתה מסית </l>
+          <l>בלילה מת לישון עם מי </l>
+          <l>רק עם עצמי רק עם עצמי </l>
+          <l>איך הגעתי עד למטה </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ילדות צעירות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

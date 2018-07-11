@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ככה מפנקים</title>
+        <singer classification="band">אינפקציה</singer>
+        <writer>גיא בן שיטרית</writer>
+        <composer>גיא בן שיטרית</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ככה מפנקים</head>
+        <lg number="1" type="stanza">
+          <l>אבא שפך לי שמן רותח לתוך האוזן, אמא מרביצה לי, כל היום.</l>
+          <l>בכיתה שאלו, איזה צבע יש לברזל, ורק אני כתבתי אדום.</l>
+          <l>אבא קנה לי דוברמן, במיוחד בשבילי,</l>
+          <l>שבכל דקה ושלושים, יוריד לי ביס לפנים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אבא מקווה, שאני לא מגלה, שרק אותי בבית ככה מפנקים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחמש בבוקר השכמה, עם פיצוץ לכליה, אמא במטבח מחפשת סכין.</l>
+          <l>המורה הראתה לי, איך באמת, נראה ברזל, ואבא הראה לי דברים אחרים.</l>
+          <l>אבא קנה לי שופל, במיוחד בשבילי,</l>
+          <l>אם הוא לא היה עסוק ממש, עוד היה מביא לי נגמש.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אבא מקווה, שאני לא מגלה, שרק אותי בבית, ככה מפנקים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

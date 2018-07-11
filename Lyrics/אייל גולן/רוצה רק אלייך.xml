@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוצה רק אלייך</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>חגי מזרחי</writer>
+        <composer>דודו קומה</composer>
+        <album>חלק מחיי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוצה רק אלייך</head>
+        <lg number="1" type="stanza">
+          <l>כמה את יפה אני מביט עלייך</l>
+          <l>לא יכול לחיות פה רגע בלעדייך</l>
+          <l>מנסה להכנס אל תוך חייך</l>
+          <l>איתך אני מוכן לאהבה</l>
+          <l>אוהב אותך צוחקת</l>
+          <l>יש לך חיוך שלא נגמר</l>
+          <l>אלי את מסתכלת</l>
+          <l>עושה אותי מאושר</l>
+          <l>אני ממריא איתך לשמיים</l>
+          <l>וזה לא נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את רוקדת</l>
+          <l>אותי משגעת</l>
+          <l>תדעי לא יכול בלעדייך</l>
+          <l>איך שאת מתקרבת אלי</l>
+          <l>יש פה אש שאותי מדליקה</l>
+          <l>איך הלב שלי מתחבר לשלך</l>
+          <l>ואני רוצה רק אלייך</l>
+          <l>לא יכול בלי אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא מפסיק לחשוב עלייך את מושלמת</l>
+          <l>את כל עולמי זאת את ואין אחרת</l>
+          <l>משתגע מעינייך משפתייך</l>
+          <l>כל הזמן אני חושב עלייך</l>
+          <l>אוהב אותך צוחקת</l>
+          <l>יש לך חיוך שלא נגמר</l>
+          <l>אלי את מסתכלת עושה אותי מאושר</l>
+          <l>אני ממריא איתך לשמיים</l>
+          <l>וזה לא נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את רוקדת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

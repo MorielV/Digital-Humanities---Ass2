@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רבים הימים</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>אסף אמדורסקי</composer>
+        <album>אסף אמדורסקי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רבים הימים</head>
+        <lg number="1" type="stanza">
+          <l>רבים הימים שהייתי רדום</l>
+          <l>כל כך רדום שלא ראיתי כלום</l>
+          <l>עד שבאת ונגעת והערת אותי</l>
+          <l>והתעוררתי, ושוב לא הייתי רדום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רבים הימים שהייתי עצור</l>
+          <l>כל כך עצור שלא יכולתי לזוז</l>
+          <l>עד שפרצתי לי לתוך המודעות</l>
+          <l>ומיד זרמתי ושוב לא הייתי עצור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בשבילי את לא כמו כולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רבים הימים שהייתי מריר</l>
+          <l>כל כך מריר שלא טעמתי כלום</l>
+          <l>עד שהמתקת לי את החשק שלי</l>
+          <l>והתנערתי ושוב לא הייתי מריר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בשבילי את לא כמו כולם</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מתוך תמונה מחייכת אלי</l>
+          <l>בשבילי את לא כמו כולם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

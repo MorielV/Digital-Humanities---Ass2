@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אדבר איתך</title>
+        <singer classification="female singer">אפרת גוש</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אדבר איתך</head>
+        <lg number="1" type="stanza">
+          <l>כשאתה חיוור מצער</l>
+          <l>מתחפר בשתיקתך</l>
+          <l>תן לי לדבר אליך</l>
+          <l>וללכת בין צלליך</l>
+          <l>להיות איתך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא אשאל אותך מדוע</l>
+          <l>לא אחריד את בדידותך</l>
+          <l>זהירה, כמו מהססת</l>
+          <l>באותות חיבה וחסד</l>
+          <l>אדבר איתך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש בי כח, יש בי כח,</l>
+          <l>אל תחוס עלי</l>
+          <l>אל תפריע לקוצים שלך</l>
+          <l>לשרוט את רגלי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשאתה עייף עד מוות</l>
+          <l>לא נרדם בחשכה</l>
+          <l>בשעה שסיוטיך</l>
+          <l>מרדפים חלומותיך</l>
+          <l>אשאר איתך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>על ידך אני נודדת</l>
+          <l>בין שנתך ליקיצתך</l>
+          <l>המילים שלי שבירות הן</l>
+          <l>וכפות ידי קטנות הן</l>
+          <l>אך הן לצידך.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כשאראה, או כשתאמר לי</l>
+          <l>חרש, חרישי</l>
+          <l>כי מתיך מתקבצים</l>
+          <l>גם אני ארכין ראשי</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>לא אשאל אותך מדוע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

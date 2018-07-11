@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גשם מטאורי</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>אסף אמדורסקי</composer>
+        <album>הרי את</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גשם מטאורי</head>
+        <lg number="1" type="stanza">
+          <l>כמו גשם מטאורי היא נפלה עלי ביום בהיר</l>
+          <l>הייתי מופתע לא הייתי מוכן</l>
+          <l>בוהקת מול עיניי סתם ככה באמצע העיר</l>
+          <l>כמו בסיפורים כמו בשירים כמו בסרטים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לאיזה סרטים שנכנסתי</l>
+          <l>תמיד ראיתי את דמותה</l>
+          <l>וכמעט מיד רציתי להחזיק אותה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בקושי הצלחתי להוציא מילה</l>
+          <l>מול יופי כזה אפשר להישאר משותק</l>
+          <l>ועוד חשבתי שלעולם כבר לא יקרה לי</l>
+          <l>מה שקרה לאלפים לפני</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לכל מקום אליו פניתי תמיד ראיתי את דמותה</l>
+          <l>וכמעט מיד רציתי להחזיק אותה</l>
+          <l>דבר ראשון ראיתי נצנוץ זוהר בשערה</l>
+          <l>וכמעט מיד רציתי להחזיק אותה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רועד אני ניגש אליה לא יאומן אבל</l>
+          <l>היא רוצה אותי בדיוק כמו שאני רוצה אותה</l>
+          <l>כמו זרם חשמלי כמו מגנט למגנט</l>
+          <l>הכל הרגיש כל כך דרמטי ובצבעים חיים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לכל מקום אליו פניתי תמיד ראיתי את דמותה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>הסיפור שהתחיל בינינו סתם ככה באמצע העיר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

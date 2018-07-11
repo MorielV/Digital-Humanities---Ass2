@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה לא שאני אור</title>
+        <singer classification="male singer">אריק ברמן</singer>
+        <writer>אריק ברמן</writer>
+        <composer>אריק ברמן</composer>
+        <album>I</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה לא שאני אור</head>
+        <lg number="1" type="stanza">
+          <l>זה לא שאני אור, את באה ממקום חשוך.</l>
+          <l>ואני לא כזה נכון, פשוט את רגילה הפוך.</l>
+          <l>אם תסתכלי בתוך עיני ותראי שם משהו טוב חולף,</l>
+          <l>אל תופתעי אם תגלי שזה הטוב שבך שמשתקף.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מי זה שדיבר, גרם לך להרגיש קטנה?</l>
+          <l>ואם הוא גבר שיבוא לדרך אצלנו בשכונה.</l>
+          <l>שימי פה את הראש ותני לעצמך קצת שקט,</l>
+          <l>אל תספרי לי מתנות, בקרוב תוכלי גם את לתת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>(...כן, זה מתאים, ואתה יפה, ואתה יכול ללכת ככה...)</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

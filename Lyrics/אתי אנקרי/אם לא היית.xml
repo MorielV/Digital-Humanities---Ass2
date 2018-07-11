@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם לא היית</title>
+        <singer classification="female singer">אתי אנקרי</singer>
+        <writer>אתי אנקרי</writer>
+        <composer>אתי אנקרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם לא היית</head>
+        <lg number="1" type="stanza">
+          <l>אם לא היית בא אלי הייתי נמה</l>
+          <l>אם לא היית בא אלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם לא אחזת בידי הייתי נמה</l>
+          <l>הייתי נמה בחיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ככה וגם ככה</l>
+          <l>אני סחה</l>
+          <l>אבל נחה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם לא היית בא אלי הייתי נמה</l>
+          <l>אם לא היית בא אלי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם לא אחזת בידי הייתי נמה</l>
+          <l>הייתי נמה בחיי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

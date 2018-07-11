@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חסד נעורייך</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>דודו ברק</writer>
+        <composer>אלי צרויה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חסד נעורייך</head>
+        <lg number="1" type="stanza">
+          <l>זוכרת, שנינו ילדים היינו,</l>
+          <l>מרגב עפרך כפרח בר עלינו.</l>
+          <l>זקפת את קומתך בנעורייך,</l>
+          <l>יפות, יפות היו אז שתי בבות עינייך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זוכרת, בשבילך אילן שתלתי,</l>
+          <l>דומם אל הר קודשך, ברגל העפלתי.</l>
+          <l>ביום חגך לבשתי חג וטוהר,</l>
+          <l>יפים, יפים היו אז כל ימי הנוער.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זוכר לך את חסד נעורייך,</l>
+          <l>יפה שלי, נפשי יוצאת אלייך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זוהרת, איך עלית באור ותכלת,</l>
+          <l>זוכרת איך לבשת שלמת בטון ומלט,</l>
+          <l>בנייך ובנותייך, כל כולנו,</l>
+          <l>למענך, ביום פקודה, אי-שם יצאנו.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ושוב עליך שמש פז הנצה, </l>
+          <l>אני רואה אותך כנערה לנצח.</l>
+          <l>לא שחה קומתך, לא תש הכוח,</l>
+          <l>הלא את נעורינו איך נוכל לשכוח?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זוכר לך את חסד נעורייך,</l>
+          <l>יפה שלי, נפשי יוצאת אלייך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלי לא באת</title>
+        <singer classification="unknown">אורן דהרי</singer>
+        <writer>אורן דהרי</writer>
+        <composer>אורן דהרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלי לא באת</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אלי לא באת, אפילו כשאמרת</l>
+          <l>אותך אוהב עד השמיים</l>
+          <l>אתה אהובי, אתה בליבי</l>
+          <l>אותי שיקרת עם העיניים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רוצה בך עוד הפעם</l>
+          <l>רוצה אותך קרוב</l>
+          <l>נסי לכבוש הזעם</l>
+          <l>אותך רוצה מאוד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוצה בך שוב לגעת</l>
+          <l>רוצה לטעום חלום</l>
+          <l>אולי את לא יודעת</l>
+          <l>מאוהב בך כל היום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלי לא באת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשאמרת אותך אוהבת</l>
+          <l>כשלחשת אתה שלי</l>
+          <l>אותך שוב לא עוזבת</l>
+          <l>אתה אחד ואין שני</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>זה שלי הנער</l>
+          <l>בכפר כולם יודעים</l>
+          <l>נסה לכבוש הזעם</l>
+          <l>יחד נחיה מאושרים</l>
+          <l>נסה לכבוש הזעם</l>
+          <l>יחד נחיה מאושרים</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אלי לא באת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

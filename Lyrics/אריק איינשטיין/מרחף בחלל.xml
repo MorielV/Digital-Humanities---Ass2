@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מרחף בחלל</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>שלום חנוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מרחף בחלל</head>
+        <lg number="1" type="stanza">
+          <l>רגלי יחפות מים זכים</l>
+          <l>שקט עמוק מבטים ארוכים</l>
+          <l>לחם ומלח כפות תמרים</l>
+          <l>נשיקה רטובה פרחים אדומים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עיניים ירוקות קרסוליים דקים</l>
+          <l>איילה שחומה חולות לוהטים</l>
+          <l>מטפחת כחולה עקבים גבוהים</l>
+          <l>סוסה אצילה לילות אבודים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני עף אני שט כאילו אין לי משקל</l>
+          <l>כמו נוצה כמו עלה מרחף בחלל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שדה ירוק ילדים אמיצים</l>
+          <l>יונה בחלון רשתות וקוצים</l>
+          <l>גבעת כורכר עולים חדשים</l>
+          <l>אורז מר סרטים איטלקים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני עף אני שט כאילו אין לי משקל</l>
+          <l>כמו נוצה כמו עלה מרחף בחלל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רד ממני מנחם</title>
+        <singer classification="unknown">אשרת ג רפי</singer>
+        <writer>אלכס זיו</writer>
+        <composer>אלכס זיו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רד ממני מנחם</head>
+        <lg number="1" type="stanza">
+          <l>אתה חי בדמיונות,</l>
+          <l>ממציא המצאות</l>
+          <l>מספר לכולם שאני שלך</l>
+          <l>מחכה לי בשכונה,</l>
+          <l>עושה לי מבוכה</l>
+          <l>אז כתבתי לי שיר </l>
+          <l>וזה בשבילך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רד ממני מנחם</l>
+          <l>תפסיק להיות כבר אלטע זאכן</l>
+          <l>מוכר לי מילים משוק הפשפשים</l>
+          <l>עושה לי הצגות כמו לילדים</l>
+          <l>רד ממני מנחם!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה זורק לי מילים</l>
+          <l>לחנים עממיים</l>
+          <l>אתה חושב שאותי זה מרשים</l>
+          <l>מתופף מקצבים</l>
+          <l>על פחים וסירים</l>
+          <l>מטפס ועולה לי על העצבים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רד ממני מנחם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

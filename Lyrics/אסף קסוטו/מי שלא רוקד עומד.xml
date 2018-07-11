@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי שלא רוקד עומד</title>
+        <singer classification="unknown">אסף קסוטו</singer>
+        <writer>מקס גת מור</writer>
+        <composer>צביקה פיק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי שלא רוקד עומד</head>
+        <lg number="1" type="stanza">
+          <l>לאט לאט נפגשנו</l>
+          <l>שכחנו איך לבכות</l>
+          <l>התהום שנפערה פה</l>
+          <l>לא נתנה לנו לראות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בחיים מזמן למדנו</l>
+          <l>רק צריך להתקדם</l>
+          <l>ומי שלא בקצב</l>
+          <l>לא מצליח לסיים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מי שלא רוקד, מי שלא רוקד</l>
+          <l>מי שלא רוקד עומד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הטיפות הפכו לגשם</l>
+          <l>והגשם לדמעות</l>
+          <l>ואנחנו רטובים פה</l>
+          <l>לא יודעים מה לעשות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לאחור אסור ללכת</l>
+          <l>חייבים להתקדם</l>
+          <l>ומי שלא בקצב</l>
+          <l>לא מצליח לסיים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מי שלא רוקד...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ופתאום כשאת טורקת את הדלת</l>
+          <l>אני נזכרת בנשיקה הראשונה</l>
+          <l>אני צועק, רוצה לחסום לך את הדרך</l>
+          <l>אבל דמותך שהתרחקה כבר לא עונה</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>מי שלא רוקד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שולה</title>
+        <singer classification="band">אטרף</singer>
+        <writer>ראובן סלמון</writer>
+        <composer>ראובן סלמון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שולה</head>
+        <lg number="1" type="stanza">
+          <l>אני ושולה בחצר</l>
+          <l>אחורה וקדימה</l>
+          <l>וקדימה ואחור</l>
+          <l>שולה! אני שואל,</l>
+          <l>הגעתי מעפולה!</l>
+          <l>היא עונה,</l>
+          <l>וגם שילמו לך?</l>
+          <l>אני שואל,</l>
+          <l>בוודאי חבר!</l>
+          <l>היא עונה,</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני ושולה בחצר</l>
+          <l>מתנדנדים אל תוך הלילה</l>
+          <l>החתולים בין הפחים</l>
+          <l>וגם לי קר בפנים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מוריד ת'זה שולף ת'הוא</l>
+          <l>ושולה כמו רובוט בפעולה</l>
+          <l>דולר ועוד דולר</l>
+          <l>חבר רודף חבר</l>
+          <l>ין, סטרלינג, דולר</l>
+          <l>חבר ועוד חבר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני ושולה בחצר</l>
+          <l>פנסים כחולים בדרך</l>
+          <l>השכנים מתלוננים</l>
+          <l>יכול היה להיות אחרת.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כך עוברים לילות רבים</l>
+          <l>ושולה לבדה חולמת</l>
+          <l>ילדים ומשפחה</l>
+          <l>לבדה היא מזדקנת.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני ושולה בחצר</l>
+          <l>מתנדנדים אל תוך הלילה</l>
+          <l>החתולים בין הפחים</l>
+          <l>וגם לי קר בפנים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

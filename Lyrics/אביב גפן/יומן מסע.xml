@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יומן מסע</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יומן מסע</head>
+        <lg number="1" type="stanza">
+          <l>אינספור שבילים ויציאה</l>
+          <l>רושם בתוך יומן מסע</l>
+          <l>להתערבב ולא להיבלע</l>
+          <l>רושם בתוך יומן מסע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והיה אם מישהו בא</l>
+          <l>אל תסתובב</l>
+          <l>כי זה תמיד יכול להיות</l>
+          <l>זה שידליק לך את הלב</l>
+          <l>יפרוק את הכאב בשלווה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מגע הרוך גובר על המכה</l>
+          <l>רושם בתוך יומן מסע</l>
+          <l>כולנו עשויים אבק של אהבה</l>
+          <l>רושם בתוך יומן מסע</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מביטים למעלה ונושאים תפילות</l>
+          <l>כשבינתיים שוכחים</l>
+          <l>שהמשמעות לחיות</l>
+          <l>היא לשאול את השאלות ולענות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>והיה אם מישהו בא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

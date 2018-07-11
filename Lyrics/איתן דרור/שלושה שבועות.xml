@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלושה שבועות</title>
+        <singer classification="male singer">איתן דרור</singer>
+        <writer>אשכול נבו</writer>
+        <composer>איתן דרור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלושה שבועות</head>
+        <lg number="1" type="stanza">
+          <l>לזכור לזכור לזכור </l>
+          <l>איך פתאום האור  </l>
+          <l>מגע אצבעות וידיים </l>
+          <l>מילים עושות לה גומות עמוקות  </l>
+          <l>וניצוץ של אולי בעיניים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא עצרת לחשוב, יהיה רע יהיה טוב</l>
+          <l>עד כמה נואש היית לחיות מחדש </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שלושה שבועות לא יותר אי אפשר   </l>
+          <l>רצינו כל כך לראות את האופק </l>
+          <l>שלושה שבועות עד קצה המותר   </l>
+          <l>כל אי כוסה בים</l>
+          <l>ואין יבשה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לזכור לזכור לזכור  </l>
+          <l>איך כבה האור  </l>
+          <l>לשווא גיששו הידיים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

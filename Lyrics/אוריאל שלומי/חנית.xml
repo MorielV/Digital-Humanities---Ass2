@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חנית</title>
+        <singer classification="male singer">אוריאל שלומי</singer>
+        <writer>רוני אחיאל</writer>
+        <composer>רוני אחיאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חנית</head>
+        <lg number="1" type="stanza">
+          <l>מאז הלכת </l>
+          <l>נותרו רק הדמעות</l>
+          <l>ורק תמונתך מנחמת</l>
+          <l>עצוב לי כאן לבד</l>
+          <l>אבד לי גם הרגש</l>
+          <l>אם את שומעת</l>
+          <l>תעני לי</l>
+          <l>נפשי הומה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חנית חנית שלי</l>
+          <l>את רחוקה </l>
+          <l>קולי קורא לך</l>
+          <l>כל כך כואב </l>
+          <l>מאז עזבת </l>
+          <l>ליבי עוד זועק</l>
+          <l>אם את שומעת </l>
+          <l>תעני לי</l>
+          <l>אני סולח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ילדה שלי</l>
+          <l>עודני מחכה</l>
+          <l>בוער לי כמו אש בנשמה</l>
+          <l>עצוב לי כאן לבד</l>
+          <l>זולגת עוד דמעה</l>
+          <l>אם את שומעת </l>
+          <l>תעני לי</l>
+          <l>אני סולח </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חנית חנית שלי</l>
+          <l>את רחוקה </l>
+          <l>קולי קורא לך</l>
+          <l>כל כך כואב </l>
+          <l>מאז עזבת</l>
+          <l>ליבי עוד זועק</l>
+          <l>אם את שומעת </l>
+          <l>תעני לי</l>
+          <l>אני סולח</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חנית חנית שלי</l>
+          <l>את רחוקה </l>
+          <l>קולי קורא לך</l>
+          <l>כל כך כואב </l>
+          <l>מאז עזבת</l>
+          <l>ליבי עוד זועק</l>
+          <l>אם את שומעת </l>
+          <l>תעני לי</l>
+          <l>חזרי הביתה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

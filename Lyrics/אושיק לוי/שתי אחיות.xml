@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שתי אחיות</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>איציק מאנגר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שתי אחיות</head>
+        <lg number="1" type="stanza">
+          <l>שתי אחיות משיחות במיטה</l>
+          <l>לוחשת אחת באוזני אחותה</l>
+          <l>הביטי אחות אהובה</l>
+          <l>כחולים השמיים מעל צמרות</l>
+          <l>ירוק הוא העשב בצל הגדרות</l>
+          <l>אך מהו צבע האהבה</l>
+          <l>עונה השניה לאחותה</l>
+          <l>אכן בחלום ראיתי אותה</l>
+          <l>אך פשוט שכחתי...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שתי אחיות משיחות במיטה</l>
+          <l>לוחשת אחת באוזני אחותה</l>
+          <l>שמעי אחותה הטובה</l>
+          <l>מתוק הוא הדבש והיין הוא מר</l>
+          <l>מלוחה הדמעה הנספגת בכר</l>
+          <l>אך מהו טעם האהבה</l>
+          <l>עונה השניה לאחותה</l>
+          <l>אכן בחלום טעמתי אותה</l>
+          <l>אך פשוט שכחתי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ולי המשורר זה חבל עד מאד</l>
+          <l>כי אילו זכרו הבנות</l>
+          <l>לפחות את מה שראו באותו החלום</l>
+          <l>הייתי כותב לכם זמר אחר</l>
+          <l>שיר אמיתי ויפה</l>
+          <l>עוד יותר מזה שכתבתי היום היום.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השעונים</title>
+        <singer classification="unknown">אסי ישראלוף</singer>
+        <writer>אסי ישראלוף</writer>
+        <composer>אסי ישראלוף</composer>
+        <album>מסע עם פסנתר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השעונים</head>
+        <lg number="1" type="stanza">
+          <l>השעונים עולים למעלה </l>
+          <l>מבולגנים כמו במסדר </l>
+          <l>את מתרחקת </l>
+          <l>את שוב נזכרת </l>
+          <l>את לא רואה משם </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>העננים עולים </l>
+          <l>קירות לבנים בוכים</l>
+          <l>האנשים הולכים לאן ? </l>
+          <l>ואין לך שום מושג </l>
+          <l>את בטח יודעת את הסוף </l>
+          <l>זה לא סוף העולם </l>
+          <l>את עכשיו בוכה </l>
+          <l>מרגישה לבד </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המחוגים מושכים למטה </l>
+          <l>מסודרים כמו איזה קרב</l>
+          <l>את מתקרבת </l>
+          <l>ושוב אוהבת </l>
+          <l>את לא תראי משם </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>העננים עולים </l>
+          <l>קירות לבנים צוחקים</l>
+          <l>האנשים חוזרים לכאן </l>
+          <l>ויש לך שוב מושג </l>
+          <l>ואת כבר יודעת את הסוף </l>
+          <l>זה לא סוף העולם </l>
+          <l>את עכשיו בבית </l>
+          <l>צוחקת ובוכה </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היא יודעת </l>
+          <l>ובטח היא חושבת </l>
+          <l>ששם עמוק בפנים</l>
+          <l>זה מסודר כמו שעונים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

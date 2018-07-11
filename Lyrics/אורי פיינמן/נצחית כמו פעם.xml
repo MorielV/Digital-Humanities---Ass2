@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נצחית כמו פעם</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>רמי לב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נצחית כמו פעם</head>
+        <lg number="1" type="stanza">
+          <l>יום עובר, עוד יום גווע,</l>
+          <l>הקיץ חוזר, החורף שוקע, </l>
+          <l>ואת לצידי נשארת נצחית כמו פעם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מסביב ארץ אחרת,</l>
+          <l>הכל משתנה אבל את נשארת</l>
+          <l>לצד אהבה שבתוכי זורמת, מתגברת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי עוד אוהב, מי מלטף</l>
+          <l>את כל הכאב בחיי</l>
+          <l>את הבריאה, שבי מעירה</l>
+          <l>את כל הדמעות בעיני</l>
+          <l>כל פעם, כמו פעם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אהבה שמתגשמת </l>
+          <l>כמו רוח טובה שמחממת</l>
+          <l>כל עוד את איתי נשארת נצחית כמו פעם.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>המילים שלא אמרתי </l>
+          <l>וכל השירים שעוד לא שרתי</l>
+          <l>איתך נולדים ומחברים אותנו, את חיינו.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מי עוד אוהב, מי מלטף...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>יום עובר, עוד יום עובר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

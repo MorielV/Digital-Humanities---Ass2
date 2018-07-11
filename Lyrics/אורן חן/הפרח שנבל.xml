@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הפרח שנבל</title>
+        <singer classification="male singer">אורן חן</singer>
+        <writer>בצלאל אלוני</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הפרח שנבל</head>
+        <lg number="1" type="stanza">
+          <l>בסמטה הצרה היא הלכה לבדה</l>
+          <l>בעיניה חיוך של לא רק אכזבה</l>
+          <l>על כל דלת דפקה בחוצפה מגזימה</l>
+          <l>ואני כמבוהל רק שאלתי לשמה</l>
+          <l>והיא חייכה וליטפה את פני</l>
+          <l>והוסיפה לעמוד כמו עצב כואב</l>
+          <l>ואני כמבוהל רק ביקשתי ללחוש</l>
+          <l>אבל היא נעלמה כפרפר של ערבית</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הפרח שנבל הלב שלי נשבר</l>
+          <l>הוי למה ומדוע לא תשוב יותר אלי</l>
+          <l>הפרח שנבל הלב שלי נשבר</l>
+          <l>הוי למה ומדוע לא תשוב יותר אלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחוצות הסתובבתי מוכה סחרחורת</l>
+          <l>רעב ויגע ובלי כל תקוה</l>
+          <l>כמו ילד שאלתי ואיש לא ענה</l>
+          <l>כי איש מלבדי אותה לא ראה</l>
+          <l>פתאום כקסם הופיעה לי באור</l>
+          <l>וצנחה לידי בסמטה הקרה</l>
+          <l>ואני כמבוהל רק ביקשתי ללחוש</l>
+          <l>אך היא שוב נעלמה כמו הייתה רק חלום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הפרח שנבל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

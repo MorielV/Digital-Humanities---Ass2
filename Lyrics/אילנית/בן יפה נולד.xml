@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בן יפה נולד</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בן יפה נולד</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>בן יפה נולד</l>
+          <l>על כתף הכרמל</l>
+          <l>ומברכים הגיעו מכל עבר.</l>
+          <l>גשם טוב ירד</l>
+          <l>כי נעתר האל</l>
+          <l>והחיטה נבטה בשדות השבר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שמש חם זרח</l>
+          <l>ורוח קר נשב</l>
+          <l>הילד כבר לומד לקרוא בספר.</l>
+          <l>עץ שקד פרח</l>
+          <l>סיון, תמוז ואב</l>
+          <l>והתינוק הרך היה לגבר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוקר יום ראשון</l>
+          <l>ליד התחנה,</l>
+          <l>חיכתה איתו עד שתבוא רכבת.</l>
+          <l>בשוכבה לישון</l>
+          <l>לפני שנרדמה</l>
+          <l>שורות כחולות היתה אליו כותבת.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ציפורים עוזבות,</l>
+          <l>בערב כבר קריר,</l>
+          <l>יפה בליל שבת חיכתה בשער.</l>
+          <l>סתיו ברחובות</l>
+          <l>מחר היא בת עשרים,</l>
+          <l>אך למה לא מלאו עשרים לנער?</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בן יפה נולד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

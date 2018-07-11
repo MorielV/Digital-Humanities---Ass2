@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סולטנה</title>
+        <singer classification="unknown">איציק אברג ל</singer>
+        <writer>חיים אוליאל</writer>
+        <composer>חיים אוחנה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סולטנה</head>
+        <lg number="1" type="stanza">
+          <l>עוד דקה ועוד דקה ואת הכי לא מדביקה</l>
+          <l>את הקצב הנכון</l>
+          <l>כל מילה ועוד מילה יוצרות ביחד המולה</l>
+          <l>ולי אין שם מקום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשמנגנים שוב את השיר ברדיו</l>
+          <l>זה עושה לי טוב בלב</l>
+          <l>וזה מזכיר לי אלכז'לה יפתי</l>
+          <l>שאותך אני אוהב, אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לכז'לה כבר שנה מחכה רק לך</l>
+          <l>מסתובב המחוג לא עוצר הזמן</l>
+          <l>סולטנה לה יהדיק את לא בעניין</l>
+          <l>כל דקה שעוברת מרחיקה אותך</l>
+          <l>מי ידע מה יביא המחר,</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד סיבוב ועוד סיבוב וכלום כבר לא נראה חשוב</l>
+          <l>ממתין ללילה שיבוא</l>
+          <l>בחוץ בפנים, בפנים בחוץ לאף אחד אני לא נחוץ</l>
+          <l>כמו שיכור ברחובות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשמנגנים שוב את השיר...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לכז'לה כבר שנה מחכה רק לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

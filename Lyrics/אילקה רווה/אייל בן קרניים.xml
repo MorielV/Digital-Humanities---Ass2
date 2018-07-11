@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אייל בן קרניים</title>
+        <singer classification="unknown">אילקה רווה</singer>
+        <writer>אהרון אשמן</writer>
+        <composer>ידידיה אדמון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אייל בן קרניים</head>
+        <lg number="1" type="stanza">
+          <l>הוי רועי הוא גיבור ציד</l>
+          <l>לא תיסוג קשתו אחור</l>
+          <l>הוא קולע אל השחל</l>
+          <l>ופוגע בחמור.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איל, איל בן קרנים</l>
+          <l>במחניים תן מחול.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוי רועי - גלוי עיניים</l>
+          <l>לא יפלה בין צבי לדוב</l>
+          <l>בין ערביים תחת כבש</l>
+          <l>את התיש יחלוב.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איל, איל...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הוי, רועי משכיל אל תער</l>
+          <l>אמונות לגז ידיו</l>
+          <l>תערו כורת אזניים</l>
+          <l>כל הצאן קצוצי זנב.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>איל, איל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

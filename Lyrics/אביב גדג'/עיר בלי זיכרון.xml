@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עיר בלי זיכרון</title>
+        <singer classification="unknown">אביב גדג </singer>
+        <writer>אביב גדג'</writer>
+        <composer>אביב גדג'</composer>
+        <album>תפילה ליחיד</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עיר בלי זיכרון</head>
+        <lg number="1" type="stanza">
+          <l>הייתה לי דרך על שפת הים התיכון</l>
+          <l>סלעים ושמש, זהב של ערב ים תיכון</l>
+          <l>אבל זו דרך אל עיר בלי זיכרון</l>
+          <l>החול יבער מתחתייך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חלומות בכיסים מתעייפים מהחושך</l>
+          <l>אין בהם צורך בעיר בלי זיכרון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על קצה העצב, מבעד לעשן לבן</l>
+          <l>את מערבבת געגוע ופורקן </l>
+          <l>על חוד של תער לא מרגישים כמעט</l>
+          <l>שום דבר בעינייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חלומות בכיסים מתעייפים מהחושך</l>
+          <l>אין בהם צורך בעיר בלי זיכרון</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

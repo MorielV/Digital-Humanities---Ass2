@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רפאני</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>אורי חיימוב</writer>
+        <composer>יורם חיימוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רפאני</head>
+        <lg number="1" type="stanza">
+          <l>אתה אלי המלך יושב במרומים</l>
+          <l>אתה אלי המלך רופא כל מכאובים</l>
+          <l>השגח עלי ממעל אתה אלי הטוב</l>
+          <l>הבט עלי ממעל רפא לי כל מכאוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תן לי מזור תן לי שלווה</l>
+          <l>תן לי בריאות תן אהבה</l>
+          <l>תן לי קצת אור תן לי תקווה</l>
+          <l>שמור על רוחי הטובה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רפא אלי רפא את מכאובי</l>
+          <l>בפא אלי רפא נא את צירי</l>
+          <l>תן נחמה תן ישועה</l>
+          <l>תן מהודך שלח לי מלאך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה אלי המלך יושב במרומים</l>
+          <l>אתה ריבון ומלך רופא כל הצירים</l>
+          <l>הגן עליי ממעל אתה יוצר הכל</l>
+          <l>השגח עלי ממעל הבא רק טוב לכל</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תן לי מזור תן לי שלווה</l>
+          <l>תן לי בריאות תן אהבה</l>
+          <l>תן לי קצת אור תן לי תקווה</l>
+          <l>שמור על רוחי הטובה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>רפא אלי רפא את מכאובי</l>
+          <l>בפא אלי רפא נא את צירי</l>
+          <l>תן נחמה תן ישועה</l>
+          <l>תן מהודך שלח לי מלאך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

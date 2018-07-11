@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה את יפה 3</title>
+        <singer classification="unknown">אדיר ניזרי</singer>
+        <writer>אדיר ניזרי</writer>
+        <composer>אדיר ניזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה את יפה</head>
+        <lg number="1" type="stanza">
+          <l>מביט עכשיו לכוכבים </l>
+          <l>מדמיין אותך מולי</l>
+          <l>את פנייך הרכות </l>
+          <l>שנכנסו אל תוך ליבי</l>
+          <l>למענך אחצה את הים </l>
+          <l>אקטוף גם את הכוכבים</l>
+          <l>למענך אתן הכל </l>
+          <l>את האושר בחיים. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמה את יפה </l>
+          <l>הלב רוצה אלייך</l>
+          <l>כמה את יפה </l>
+          <l>אני קשור אלייך בנשמה. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתפלל לאלוקים </l>
+          <l>שישמור לי רק אותך</l>
+          <l>מתפלל ומבקש </l>
+          <l>להיות תמיד איתך</l>
+          <l>את האושר בחיי </l>
+          <l>רק איתך רוצה לחיות</l>
+          <l>את האור בלילותי</l>
+          <l>רק איתך רוצה להיות. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמה את יפה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

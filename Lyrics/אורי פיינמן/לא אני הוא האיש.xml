@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא אני הוא האיש 3</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>אלכסנדר פן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא אני הוא האיש</head>
+        <lg number="1" type="stanza">
+          <l>לא אני הוא האיש לא אני</l>
+          <l>אל שובו משכבר מצפה את</l>
+          <l>את קורות נדודי הישנים</l>
+          <l>לך הבאתי במקום טבעת.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>במבט אל תצודי יגון</l>
+          <l>הוא חלף אך לא מת עדיין</l>
+          <l>התקרבי וראית בחלון</l>
+          <l>על מצחי העייף אות קין.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תבכי תעבורנה שנים</l>
+          <l>ואחר לך יביא טבעת</l>
+          <l>ואני לא אני, לא אני</l>
+          <l>הוא האיש אל בואו מצפה את.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה איכפת לך אני או הוא</l>
+          <l>או אחר יתנבא ביער</l>
+          <l>ובחצות תוך דממת הרהור</l>
+          <l>לך ירקום אגדת הסהר.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והשחר בשחוק עת יקרא</l>
+          <l>ויחרוק שן מבעד לדלת</l>
+          <l>אז יופיע אחר ושירה</l>
+          <l>לך ישיר משכימה ונבדלת.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אל תבכי תעבורנה שנים...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>מכולם מנת חלקך תקחי</l>
+          <l>בו יגון בו הצחוק בו הכח</l>
+          <l>ובמותך לא ידעו למי</l>
+          <l>את הקדשת את ליבך המנוח.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>אל תבכי תעבורנה שנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

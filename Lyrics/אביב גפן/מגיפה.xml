@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מגיפה</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>עם הזמן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מגיפה</head>
+        <lg number="1" type="stanza">
+          <l>אל תגידי שזה קל</l>
+          <l>כי זה קשה לי</l>
+          <l>תראי איך שהזמן קפא</l>
+          <l>כאילו לא הכרנו את הזעם שחצה בינינו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה מתפשט כמו מגיפה</l>
+          <l>הלב נותר חשוף כמו תא זכוכית שקוף</l>
+          <l>זה בא כמו גל בלב הים</l>
+          <l>מערבולות תשוקה איבדנו אחיזה</l>
+          <l>נשארנו אחוזי קנאה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואין סכין יותר חדה מגעגוע</l>
+          <l>תחושה שקרית של רגיעה</l>
+          <l>אך מכיוון ליבי יש סערה שמתקרבת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זה מתפשט כמו מגיפה</l>
+          <l>הלב נותר חשוף כמו תא זכוכית שקוף</l>
+          <l>זה בא כמו גל בלב הים</l>
+          <l>מערבולות תשוקה</l>
+          <l>איבדנו אחיזה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה מתפשט כמו מגיפה</l>
+          <l>הלב נותר חשוף כמו תא זכוכית שקוף</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

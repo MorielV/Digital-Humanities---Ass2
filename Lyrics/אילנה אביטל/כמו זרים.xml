@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו זרים</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>אילנה אביטל</writer>
+        <composer>אילנה אביטל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו זרים</head>
+        <lg number="1" type="stanza">
+          <l>מי ידע לאמר לי איך נשבר</l>
+          <l>כוכב בלילה קר</l>
+          <l>שהשאיר את העבר</l>
+          <l>ונסחף עמוק אל תוך שמיים</l>
+          <l>דמעה שטפה את הדממה</l>
+          <l>פרסה את מכאובה</l>
+          <l>פסעה לנשמה</l>
+          <l>הרטיבה את ליבי ונעלמה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמו זרים</l>
+          <l>הכל נשבר בינינו</l>
+          <l>אנחנו כמו זרים</l>
+          <l>הקסם נעלם</l>
+          <l>כמו זרים</l>
+          <l>האהבה טרפה הכל</l>
+          <l>השאירה נחמה</l>
+          <l>הרסה בנו תקווה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עד לשחר שיבוא מחר</l>
+          <l>הרעם בי יגבר</l>
+          <l>ימריא אל אופק זר</l>
+          <l>ואלף זכרונות ירקיעו</l>
+          <l>אם הערב הבדידות כבדה</l>
+          <l>שוקעת לבדה</l>
+          <l>אל תוך עצמי אוכל</l>
+          <l>את הכאב אשא כך כל חיי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמו זרים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

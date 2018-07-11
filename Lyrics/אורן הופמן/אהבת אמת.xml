@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבת אמת 3</title>
+        <singer classification="unknown">אורן הופמן</singer>
+        <writer>אורן הופמן</writer>
+        <composer>אורן הופמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבת אמת</head>
+        <lg number="1" type="stanza">
+          <l>השיר הזה נכתב לך, אחרי שנים רבות</l>
+          <l>את כל אשר רציתי, אספר לך בו.</l>
+          <l>רציתי להודות לך, על כל אותם שנים,</l>
+          <l>השיר הזה מוקדש לך, לך אהובתי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהבה נתת לי, לאורך השנים</l>
+          <l>הינך יפה, היפה שבנשים.</l>
+          <l>באושר ובעצב, תמיד נצעד יחדיו</l>
+          <l>כי אהבת אמת, לנצח היא, לעד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אומרים שאהבה, גדלה עם השנים</l>
+          <l>הניצוץ אשר בלב, הפך ללהבה.</l>
+          <l>קולך כקול זמיר, יופייך כלבנה</l>
+          <l>הכוכבים שרים לך, שיר של אהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהבה נתת לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

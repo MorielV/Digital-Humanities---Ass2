@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה אני</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>אקורדים</composer>
+        <album>זה אני</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה אני</head>
+        <lg number="1" type="stanza">
+          <l>בית ריק, כמה קר לי</l>
+          <l>אלוהים, את חסרה לי</l>
+          <l>מדמיין אותך בחושך</l>
+          <l>ורועד מקור</l>
+          <l>לא היה לך את הכוח</l>
+          <l>להבין אותי, לסלוח</l>
+          <l>זה נגמר אך את חייבת</l>
+          <l>בליבך לזכור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה אני האחד שסגד ליופייך</l>
+          <l>שנתן את הכל בשבילך</l>
+          <l>ושברת את ליבו בלכתך,</l>
+          <l>זה אני, שהיית ונשארת בדמי</l>
+          <l>בלעדייך שומם עולמי </l>
+          <l>לעולם לא אסלח לעצמי</l>
+          <l>זה אני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>במילים חדות כמו חרב</l>
+          <l>ודמעות זולגות בלי הרף</l>
+          <l>בתוכי לא האמנתי</l>
+          <l>שפתאום תלכי</l>
+          <l>הסליחות כבר לא הועילו</l>
+          <l>את הלכת, אבל אפילו</l>
+          <l>אם תלכי עד קצה האופק</l>
+          <l>את לא תשכחי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

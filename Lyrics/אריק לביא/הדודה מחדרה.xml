@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הדודה מחדרה</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>חיים חפר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הדודה מחדרה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>היתה לו דודה בחדרה</l>
+          <l>לפני יומיים זה קרה</l>
+          <l>היתה לו דודה בחדרה</l>
+          <l>לפני יומיים נפטרה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היו לה מאה דונם פרדסים</l>
+          <l>עשר פרות ושישה סוסים</l>
+          <l>מגרש מול בית הספר היסודי</l>
+          <l>והוא היה קרובה היחידי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היתה היא אלמנה בגיל שישים</l>
+          <l>רבים חזרו אחריה חודשים</l>
+          <l>אך הוא לא נתן לה להשתדך</l>
+          <l>אמר לה: הם רוצים רק את כספך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היתה לו דודה בחדרה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הוא לשלומה דאג יומם וליל</l>
+          <l>לא רצה הוא את כספה לנצל</l>
+          <l>וכשחלתה לפני שלושה שבועות</l>
+          <l>הוא לא בזבז אף גרוש אחד על רפואות.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כשקמה מחליה, ראשו ברכה</l>
+          <l>אמרה: את כל הוני אוריש לך</l>
+          <l>נשק אותה וגם חבקה</l>
+          <l>וכך הדודה מתה מיתת נשיקה</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>נותרו לו מאה דונם פרדסים</l>
+          <l>עשר פרות ושישה סוסים</l>
+          <l>מגרש מול בית הספר היסודי</l>
+          <l>כי הוא היה קרובה היחידי.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>היתה לו דודה בחדרה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכל בשמך</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אבי טולדנו</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכל בשמך</head>
+        <lg number="1" type="stanza">
+          <l>מבטיחים בשמך</l>
+          <l>נשבעים לדמותך ויורים בשבילך</l>
+          <l>והורגים לכבודך</l>
+          <l>ואתה לא מבין, ואתה לא זוכר</l>
+          <l>מאיפה זה בא לך</l>
+          <l>מאיפה זה בא לך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואוספים תרומות</l>
+          <l>לביטול הגזרות וקונים רובים</l>
+          <l>להמון רעבים</l>
+          <l>ואתה לא מבין ואתה לא זוכר</l>
+          <l>מאיפה זה בא לך</l>
+          <l>מאיפה זה בא לך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל אחד לעצמו</l>
+          <l>אל אחד לכולם</l>
+          <l>לא ראיתי את שמך</l>
+          <l>ברשימת אורחי העולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מבטיחים את האור</l>
+          <l>וחשכו עיני לא נפסיק לשיר</l>
+          <l>ודמעות על פני</l>
+          <l>ואתה לא מבין ואתה לא זוכר</l>
+          <l>מאיפה זה בא לך</l>
+          <l>מאיפה זה בא לך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כל אחד לעצמו...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>רק לשמור על המורל</l>
+          <l>בכיכר המדינה וחזק על חלש</l>
+          <l>כדי לקום מחדש</l>
+          <l>הזקן הטרדן</l>
+          <l>הילד הגזלן</l>
+          <l>זה לא היה אמור</l>
+          <l>עכשיו זה כבר גמור</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

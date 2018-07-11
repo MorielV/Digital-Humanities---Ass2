@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אילנה</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אילנה</head>
+        <lg number="1" type="stanza">
+          <l>מתוקה שלי הו אילנה</l>
+          <l>סוכריה שלי הו אילנה</l>
+          <l>את עוד צבע של הקשת</l>
+          <l>את כמו פרדס אחרי הגשם</l>
+          <l>מילה שלך וסוף למלחמות</l>
+          <l>כשאני רואה אותך</l>
+          <l>אני רואה ימים טובים</l>
+          <l>בואי נאהב עד שנהיה זקנים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

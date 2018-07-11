@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמח שבאת</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>אביתר בנאי</composer>
+        <album>אביתר בנאי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמח שבאת</head>
+        <lg number="1" type="stanza">
+          <l>מי זה דופק בדלת</l>
+          <l>איך הגעת לפה</l>
+          <l>שמח שבאת</l>
+          <l>שנה אני גר פה</l>
+          <l>לא עבר אף אחד</l>
+          <l>דקה נסדר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך יפה להיות בזוג</l>
+          <l>להירגע ולנוח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך יש לך גוף</l>
+          <l>כזה צעיר ויפה</l>
+          <l>ונעים מאוד</l>
+          <l>ואיך אני משונה</l>
+          <l>משתנה</l>
+          <l>כל הזמן.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איך הכל במעגלים</l>
+          <l>מפתיע אותי כל פעם</l>
+          <l>איך יפה להיות בזוג</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

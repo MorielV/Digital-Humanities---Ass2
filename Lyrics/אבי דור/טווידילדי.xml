@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טווידילדי</title>
+        <singer classification="male singer">אבי דור</singer>
+        <writer>אבי דור</writer>
+        <composer>מירון מינסטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טווידילדי</head>
+        <lg number="1" type="stanza">
+          <l>הכרתי בחורה קראו לה סימה</l>
+          <l>כל מי שראתה היא רק הקסימה</l>
+          <l>נכנסנו בלילות יצאנו בימים</l>
+          <l>והיא תמיד רצתה דבר אחד תמים...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>טווידלידי, טווידלידי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אמרתי לה או קיי אותך הבנתי</l>
+          <l>אבל אני הרוס הרגע קמתי</l>
+          <l>אולי גם נטייל, נשב או נדבר</l>
+          <l>היא לא רצתה לשמוע שום דבר אחר, רק...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>טווידלידי, טווידלידי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הכרתי לה חבר אחד רב מוח</l>
+          <l>אבל איתה הרי נחוץ רק כוח</l>
+          <l>חייך הוא כשסגר את הדלת אחריו</l>
+          <l>אחר כך התחנן שאלוהים אותו יגאל מיסוריו...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>טווידלידי, טווידלידי...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>הכרתי בחורה קראו לה סימה</l>
+          <l>ואם אתם חושבים שהיא הגזימה</l>
+          <l>שמעו את הסיפור על אחותה ליעד</l>
+          <l>שכל דבר לקחה ללב וגם ליד...</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>טווידלידי, טווידלידי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

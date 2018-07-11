@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהוב ליבי</title>
+        <singer classification="female singer">אביבה אבידן</singer>
+        <writer>שלמה אזולאי</writer>
+        <composer>שלמה אזולאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהוב ליבי</head>
+        <lg number="1" type="stanza">
+          <l>אהוב ליבי לאן הלכת</l>
+          <l>את לבבי שברת</l>
+          <l>הלב אשר נשאר כה עצוב</l>
+          <l>נשבר לעד מהמציאות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אהוב ליבי היכן הלכת</l>
+          <l>לאן לקחה אותך בת החן</l>
+          <l>האם אותי עדיין לא שכחת</l>
+          <l>או שמא זה דבר לא יתכן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהוב ליבי היכן הוא</l>
+          <l>אמרו נא לי לאן הלך לאן</l>
+          <l>האם יחזור או שמא אבד הוא</l>
+          <l>אולי הלך לי ונדם.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אהוב ליבי אמרו היכן הוא</l>
+          <l>האם מרגיש הוא את דמעות הלב</l>
+          <l>האם יחזור אי פעם אלי הוא</l>
+          <l>ויאמר לי "שאותך אני אוהב".</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

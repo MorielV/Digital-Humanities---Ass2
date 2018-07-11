@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה במנגינת הלוי</title>
+        <singer classification="male singer">אבי פרץ</singer>
+        <writer>נתן יונתן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה במנגינת הלוי</head>
+        <lg number="1" type="stanza">
+          <l>שחרך הכוזב, אוהלך, מדוחי צהרייך,</l>
+          <l>צילי הנופל כמו חטא אל חשכת בארייך.</l>
+          <l>לילך החרב. נשרי הבדידות של הריך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גבי אל תוגת עפרך ועיני בשמייך.</l>
+          <l>אבני אפיקך הקרות. מארת עלומיך.</l>
+          <l>יפייך הבוגד כמו נחל שאין בו כבר מיים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אביבך. קצה הקיץ שלך. חום סתוויך, חורפייך -</l>
+          <l>עונות נדודי את. הלילה שלי וחופיך</l>
+          <l>ובשוב חלומי את שבותך ויפוצו עורביך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז אל חיק אוהלך נאסף עטופי רגביך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

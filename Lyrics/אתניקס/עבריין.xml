@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עבריין</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עבריין</head>
+        <lg number="1" type="stanza">
+          <l>עבריין קראו לי</l>
+          <l>אחד שלא עושה</l>
+          <l>חשבונות עם החיים</l>
+          <l>לוקח הכל קשה</l>
+          <l>מכונית משטרה עוברת</l>
+          <l>רצית את הכל אחרת</l>
+          <l>אז עכשיו אני בורח</l>
+          <l>וחוטף עוד צרור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שלוש עשרה שעות וחצי</l>
+          <l>אני יושב בחקירה</l>
+          <l>כולם ראו בי רק פושע</l>
+          <l>לא השאירו לי ברירה</l>
+          <l>הם ירו בי צרור לנצח</l>
+          <l>לא רצו אותי מורד</l>
+          <l>ועכשיו, לאן אתה הולך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עבריין קראו לי</l>
+          <l>הם ידעו היטב</l>
+          <l>שבלב הייתי טוב</l>
+          <l>כשעוד היה לי לב</l>
+          <l>מכונית משטרה רדפה אותי</l>
+          <l>הם עלי סגרו</l>
+          <l>במחשבה ראשונה ירו בי</l>
+          <l>במחשבה שניה צחקו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שלוש עשרה שעות וחצי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

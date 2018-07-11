@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לב שבור 2</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לב שבור</head>
+        <lg number="1" type="stanza">
+          <l>מאותו הלילה הראשון</l>
+          <l>אור ניאון דולק על בית מלון ישן</l>
+          <l>אתה מחפש סימן</l>
+          <l>בתוך החדר הקירות חיוורים</l>
+          <l>בית מלון של לבבות שבורים</l>
+          <l>מזמן אתה מתארח כאן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לב שבור לקחת עוד הימור</l>
+          <l>לא רצית לוותר וזה כל הסיפור</l>
+          <l>לב כואב אותה אתה אוהב</l>
+          <l>אם תחזור אולי תמצא מקום אצלה בלב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אור הבוקר בחלון נשבר</l>
+          <l>יום חדש,לך עוד לא ברור דבר</l>
+          <l>בינתיים אתה נשאר.</l>
+          <l>היא לא לנצח תחכה לך</l>
+          <l>קפל הכל אל תוך המזוודה וסע</l>
+          <l>היא תקבל אותך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לב שבור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

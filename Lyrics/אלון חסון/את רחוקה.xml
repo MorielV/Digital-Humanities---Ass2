@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את רחוקה 2</title>
+        <singer classification="unknown">אלון חסון</singer>
+        <writer>שרון אסולין</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את רחוקה</head>
+        <lg number="1" type="stanza">
+          <l>בלילות איני ישן</l>
+          <l>חושב על דרך לתקן</l>
+          <l>אהבה שמרתי לך</l>
+          <l>איפה הרגש דחוף בך</l>
+          <l>היכן הצדק אלוהי</l>
+          <l>מה נשאר לי בחיי</l>
+          <l>איך שיקרת לי בעיני</l>
+          <l>וברחת אמרת לי די</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך היום את רחוקה</l>
+          <l>את יכולת להיות מלכה</l>
+          <l>כמו כלום לי השתנית</l>
+          <l>את נשבעת הכל לתת</l>
+          <l>מה קורה לך</l>
+          <l>מה יוצא לך</l>
+          <l>לא אבין עוד מה עובר בך</l>
+          <l>יש לי רגש מה שאין בך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את העבר שוב משחזר</l>
+          <l>לא חדלתי לחזר</l>
+          <l>אך דבר לי לא עוזר</l>
+          <l>שכעת את עם אחר</l>
+          <l>תנסי רק לחשוב</l>
+          <l>לעד נשבענו לאהוב</l>
+          <l>וליבי כל כך כואב</l>
+          <l>שבחרת שוב לסרב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך היום את רחוקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

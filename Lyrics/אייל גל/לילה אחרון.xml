@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה אחרון</title>
+        <singer classification="unknown">אייל גל 2</singer>
+        <writer>אייל גל</writer>
+        <composer>אייל גל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה אחרון</head>
+        <lg number="1" type="stanza">
+          <l>שוב אני עומד בצד מושך את הוילון, </l>
+          <l>כשאת שם הולכת למסיבה </l>
+          <l>יש כאלה שאומרים זה לילה אחרון </l>
+          <l>תפוס אותה חזק שלא תברח </l>
+        </lg>
+        <lg number="2" type="stanza" />
+        <lg number="3" type="stanza">
+          <l>לפעמים אני תופס ת'ראש כמו מה קרה </l>
+          <l>לא ספרתי עד שלוש וכבר היא רחוקה! </l>
+          <l>אנל'א קולט את התמונה כולה. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וואו או או... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שוב אני עומד בצד ולא מבין דבר. </l>
+          <l>בינתיים היא כבר נעלמה. </l>
+          <l>מנסה לבדוק בפנים האם זאת אהבה </l>
+          <l>ואם כן אז למה כל זה נורא... דפוק?! </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לפעמים אני תופס תראש כמו מה קרה? </l>
+          <l>לא ספרתי עד שלוש וכבר היא רחוקה! </l>
+          <l>אנל'א קולט את ה....תמונה כולה. </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>וואו או או...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו ילד משתגע</title>
+        <singer classification="unknown">אדיר ניזרי</singer>
+        <writer>אדיר ניזרי</writer>
+        <composer>אדיר ניזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו ילד משתגע</head>
+        <lg number="1" type="stanza">
+          <l>המבט בעינייך  </l>
+          <l>מרגיש כמו חלום</l>
+          <l>החיוך בשפתייך </l>
+          <l>עושה לי את היום</l>
+          <l>לצידך כל הלילה</l>
+          <l>רוצה להישאר</l>
+          <l>ועלייך בטוח </l>
+          <l>אני לא מוותר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני כמו ילד משתגע </l>
+          <l>אוהב אותך ולא יודע</l>
+          <l>את בשבילי כל העולם </l>
+          <l>רק בשבילך אני קיים</l>
+          <l>אני כמו ילד משתגע </l>
+          <l>אוהב אותך ולא יודע</l>
+          <l>אני איתך רק מאושר </l>
+          <l>ולא חושב על המחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל יום חלמתי</l>
+          <l>איתך להתעורר </l>
+          <l>ואני בין ידייך</l>
+          <l>מנסה להיזכר </l>
+          <l>אל תאמרי לי מדוע</l>
+          <l>את כאן לצידי</l>
+          <l>רוצה שעוד לילה </l>
+          <l>איתי תשארי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני כמו ילד משתגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

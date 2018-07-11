@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבינו מלכנו 3</title>
+        <singer classification="unknown">אורי חלה</singer>
+        <writer>נועם אהרון</writer>
+        <composer>רוני אשתר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבינו מלכנו</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אתה אחד ושמך אחד   </l>
+          <l>ואין לנו אחר מלבדך </l>
+          <l>אתה היושב שם במרומים</l>
+          <l>חוס וחנינו ברחמייך</l>
+          <l>שלח רפואה שלמה לכולנו</l>
+          <l>אנא ברך את חיילינו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היושב שם במרומים</l>
+          <l>פרוס כנפייך ברחמים </l>
+          <l>תן קצת אור בליבנו</l>
+          <l>אבינו מלכינו ברכנו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה אחד ושמך אחד</l>
+          <l>בליבי לך אשא תפילה</l>
+          <l>אתה אלי שבמרומים </l>
+          <l>חוס וחנינו ברחמים</l>
+          <l>מבקש ברכת האל</l>
+          <l>אנא ברך את ישראל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היושב שם במרומים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

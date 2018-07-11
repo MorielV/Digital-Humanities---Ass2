@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פגישה ראשונה</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>עמוס קולק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פגישה ראשונה</head>
+        <lg number="1" type="stanza">
+          <l>ביום בהיר, בקיץ חם</l>
+          <l>הלכתי לי לשוטט</l>
+          <l>בעיר כמו כולם</l>
+          <l>עברת שם, באור היום</l>
+          <l>רציתי לשאול</l>
+          <l>אם זו אמת או רק חלום.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתה חייכת, חיוך קטן</l>
+          <l>ובי הדלקת שלהבת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לה לה לה לה לה</l>
+          <l>לה לה לה לה לה</l>
+          <l>לה לה לה לה לה</l>
+          <l>לה לה לה לה לה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יצאנו עם הכוכבים</l>
+          <l>הלכנו לתעות</l>
+          <l>בעולמות האבודים</l>
+          <l>השחר בא עלה פתאום</l>
+          <l>נמוגו עם...</l>
+          <l>בוקר האמת והחלום.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אתה חייכת, חיוך קטן</l>
+          <l>ובי הדלקת שלהבת.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לה לה לה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

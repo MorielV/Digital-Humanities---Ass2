@@ -1,0 +1,39 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברכנו</title>
+        <singer classification="male singer">אביהו מדינה</singer>
+        <writer>מן המקורות</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברכנו</head>
+        <lg number="1" type="stanza">
+          <l>ברכנו השם אלוקינו</l>
+          <l>בכל, בכל מעשה ידינו</l>
+          <l>ברכנו השם אלוקינו</l>
+          <l>וברך, וברך את שנתנו</l>
+          <l>ותן תן תן, תן טל ומטר</l>
+          <l>על פני האדמה, על פני האדמה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

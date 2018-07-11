@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד אזכור ילדות</title>
+        <singer classification="unknown">אשר פרץ</singer>
+        <writer>שלמה כישור</writer>
+        <composer>סלים הלאלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד אזכור ילדות</head>
+        <lg number="1" type="stanza">
+          <l>עוד אזכור ילדות, את הימים ההם</l>
+          <l>כשהיה לי אבא והייתה לי אם,</l>
+          <l>אז אזיל דמעה וכמו תמיד אדע</l>
+          <l>מה יקרו לי מולידי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ועמוק בלב רק זיכרם יאיר</l>
+          <l>כנר בדרכי חיי</l>
+          <l>ועתה אבין היטב, כשאני לבד,</l>
+          <l>כמה אהבוני הורי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עת אזכרה המבט עם החום</l>
+          <l>שחייך לי בלילה והנעים את היום,</l>
+          <l>יעצב בי הלב בכמיהה חרישית</l>
+          <l>שעוד ישוב לי שנית.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ועמוק...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוד אזכור הליטוף שהחליק על הראש,</l>
+          <l>שירד אל הלחי ומחה דמעה בה.</l>
+          <l>רק שאלה לי הייתה ששאלתי עד בלי די:</l>
+          <l>מי ישיב לי את הורי?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ועמוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

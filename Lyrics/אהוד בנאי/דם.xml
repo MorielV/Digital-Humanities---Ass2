@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דם 4</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>אהוד בנאי</writer>
+        <composer>אהוד בנאי</composer>
+        <album>אהוד בנאי והפליטים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דם</head>
+        <lg number="1" type="stanza">
+          <l>דם נשפך באמסטרדם</l>
+          <l>אף אחד לא יכול להבין בן אדם</l>
+          <l>איך נשאר הוא לבד</l>
+          <l>לבד בן אדם</l>
+          <l>לא טוב שישאר באמסטרדם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הם קראו לו מלמעלה</l>
+          <l>כשלמטה לא נותר דבר</l>
+          <l>הוא היה תמיד שקט כל כך</l>
+          <l>מבטו רחוק ומסוגר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה עשית לו אמסטרדם</l>
+          <l>אף אחד לא יכול להבין למה קם</l>
+          <l>בן אדם והולך</l>
+          <l>הולך בן אדם</l>
+          <l>תראי מה שעשית לו אמסטרדם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

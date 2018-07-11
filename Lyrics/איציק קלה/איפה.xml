@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איפה 4</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>אלי חוג'ה</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איפה</head>
+        <lg number="1" type="stanza">
+          <l>איפה, עד לאן את הולכת</l>
+          <l>ואני בלעדייך שבוי בקסמייך</l>
+          <l>איפה, להיכן את נמשכת</l>
+          <l>אהובה ושותקת למה את מתחמקת</l>
+          <l>נפשי פה זועקת - איפה...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שתי עינייך מספרות לי</l>
+          <l>מבקשות מלה טובה</l>
+          <l>רק עלייך מה שיש לי</l>
+          <l>לך שמור באהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איפה, החיוך בעיניים מאיר את הלילה</l>
+          <l>כמו כוכב מלמעלה</l>
+          <l>איפה, מתיקות השפתיים</l>
+          <l>זה הדבש שטעמתי מהיין לגמתי</l>
+          <l>חלום בו נגעתי - איפה....</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שתי עינייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

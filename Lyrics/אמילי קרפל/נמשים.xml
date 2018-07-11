@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נמשים</title>
+        <singer classification="female singer">אמילי קרפל</singer>
+        <writer>גליה ירון</writer>
+        <composer>תומר אדם לנצינגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נמשים</head>
+        <lg number="1" type="stanza">
+          <l>כבר יוצאת,</l>
+          <l>היא אלי, קוראת,</l>
+          <l>שטח מת,</l>
+          <l>על הלחיים,</l>
+          <l>בא נשכב, </l>
+          <l>בטן גב,</l>
+          <l>ואותי תאהב,</l>
+          <l>רק עוד קצת</l>
+          <l>לא אכפת,</l>
+          <l>שתשרוף אותי לאט.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בוא ונמריא</l>
+          <l>לצד השני</l>
+          <l>כאילו הזמן קופא ונרדם</l>
+          <l>בוא ונרקוד</l>
+          <l>לא נעבוד</l>
+          <l>לקחת אוויר הרים צלול כים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אה,</l>
+          <l>יש אור בחוץ,</l>
+          <l>אפשר לשמוע,</l>
+          <l>את שירת הציפורים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אה,</l>
+          <l>איזה שמש,</l>
+          <l>על אור ראשך במבוך של נמשים,</l>
+          <l>נשחה פרפר,</l>
+          <l>על שטיח פרסי במדבר.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מה שלא נספיק היום נמשיך מחר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בוא ונמריא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר שלום</title>
+        <singer classification="male singer">אבנר גדסי</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר שלום</head>
+        <lg number="1" type="stanza">
+          <l>אני נושא תפילה קטנה </l>
+          <l>מתוך רצון ואמונה </l>
+          <l>אני נושא באהבה </l>
+          <l>שיר שלום שיר תקווה </l>
+          <l>ולו נאמר ברוך הבא </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואו וניתן יד ונשיר שלום </l>
+          <l>שיעלה בכל פינה בכל מקום </l>
+          <l>בואו ונשיר נישא תהילתו </l>
+          <l>שלום עלינו ועל העולם כולו </l>
+          <l>נה נה נה נה נה נה נה.... </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש בלב תפילה זכה </l>
+          <l>והיא עולה והיא רכה </l>
+          <l>יש בלב מנגינה </l>
+          <l>שיר שלום של אהבה </l>
+          <l>ולו נאמר ברוך הבא </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואו וניתן יד ונשיר שלום </l>
+          <l>שיעלה בכל פינה בכל מקום </l>
+          <l>בואו ונשיר נישא תהילתו </l>
+          <l>שלום עלינו ועל העולם כולו </l>
+          <l>נה נה נה נה נה נה נה.... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הוא יבוא כן הוא מוכרח </l>
+          <l>אם רק נשיר </l>
+          <l>הוא לא יברח </l>
+          <l>ואם נרצה לגעת בו </l>
+          <l>כדי לשיר ולקוות </l>
+          <l>והשלום ודאי יבוא </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בואו וניתן יד ונשיר שלום </l>
+          <l>שיעלה בכל פינה בכל מקום </l>
+          <l>בואו ונשיר נישא תהילתו </l>
+          <l>שלום עלינו ועל העולם כולו </l>
+          <l>נה נה נה נה נה נה נה....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

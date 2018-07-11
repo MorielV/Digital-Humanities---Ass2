@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מספרת לי עולם</title>
+        <singer classification="unknown">אלירן אסלן</singer>
+        <writer>אלירן אסלן</writer>
+        <composer>אלירן אסלן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מספרת לי עולם</head>
+        <lg number="1" type="stanza">
+          <l>משיט בדמיוני ורואה אותך מולי</l>
+          <l>אני אוהב אותך ילדה כשאת צוחקת</l>
+          <l>כל כך מושלמת ביופיה</l>
+          <l>נותנת לי את נשמתה</l>
+          <l>וכשעומדת למולי אני יכול לקרוא אותה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את, את בעינייך מספרת לי עולם</l>
+          <l>ובשפתייך את אומרת לי מילים שלא שמעתי אף פעם</l>
+          <l>וביופייך את מצליחה לגרום לי לא להישבר</l>
+          <l>כי ליבך, ליבך עושה אותי חזק יותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל הזמן אני חושב, מחפש בתוך הלב</l>
+          <l>לתת לך אהבה כמו שאת נותנת</l>
+          <l>להתרגש להתלהב ולא לחוש את הכאב</l>
+          <l>ולעשות אותך תמיד כה מאושרת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את, את בעינייך מספרת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

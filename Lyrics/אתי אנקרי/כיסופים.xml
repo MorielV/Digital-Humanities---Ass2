@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כיסופים</title>
+        <singer classification="female singer">אתי אנקרי</singer>
+        <writer>אתי אנקרי</writer>
+        <composer>אתי אנקרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כיסופים</head>
+        <lg number="1" type="stanza">
+          <l>משקיף עליי מגובה אין סוף </l>
+          <l>כל נים בלבי לעינייך חשוף </l>
+          <l>מלך נורא ונפלא עד אין קץ </l>
+          <l>ניבט מכל פרח כל ילד ועץ </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מכיסופים לאהבתך </l>
+          <l>מכיסופים לבית שלך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתבלבלת בין אמת לנדמה </l>
+          <l>אצלנו בבית עכשיו משתנה </l>
+          <l>גם אור השמש בענפי הלִבְנֶה </l>
+          <l>נסתר ונגלה נסתר ונגלה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מכיסופים לאהבתך </l>
+          <l>מכיסופים לבית שלך </l>
+          <l>מכיסופים לאהבתך </l>
+          <l>מכיסופים לבית מקדשך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

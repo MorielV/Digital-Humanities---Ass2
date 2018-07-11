@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא נוגע בך</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>עינת רז</writer>
+        <composer>עופר מאירי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא נוגע בך</head>
+        <lg number="1" type="stanza">
+          <l>אם לא אספר לך, לא תשאלי</l>
+          <l>אם לא אגע בך, לא תתקרבי</l>
+          <l>אצלך האהבה נגמרה מזמן</l>
+          <l>נשארתי עם עצמי</l>
+          <l>עם עצמי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הו, הו, שום דבר לא נוגע בך</l>
+          <l>הו, הו, שום דבר לא נוגע בך</l>
+          <l>לא נוגע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את לא מבקשת לדעת אותי</l>
+          <l>אם לא אגלה לך לא תחפשי</l>
+          <l>אצלך האהבה נגמרה מזמן</l>
+          <l>נשארת כאן, בשביל מי?</l>
+          <l>בשביל מי?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הו, הו, שום דבר לא נוגע בך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

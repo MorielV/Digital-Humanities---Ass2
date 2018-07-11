@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הצפרדע</title>
+        <singer classification="unknown">אלון אולארצ יק</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הצפרדע</head>
+        <lg number="1" type="stanza">
+          <l>מי ראה איך דודה לאה</l>
+          <l>מתחפשת לצפרדע?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ירוקה היא כמו ברוש</l>
+          <l>מכף רגל ועד ראש.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הידיים לא ידיים,</l>
+          <l>העיניים - כפתורים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ראש ירוק בלי שערות.</l>
+          <l>בחיי כדאי לראות!</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>איזה גוף! והפרצוף!</l>
+          <l>רק אל תתחפש לזבוב.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כי יודעת דודה לאה</l>
+          <l>גם לבלוע כצפרדע.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

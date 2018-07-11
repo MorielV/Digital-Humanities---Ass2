@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את 92</title>
+        <singer classification="unknown">אלדר מאמו</singer>
+        <writer>אלדר מאמו</writer>
+        <composer>אלדר מאמו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את</head>
+        <lg number="1" type="stanza">
+          <l>את כל עולמי לך נשבעת</l>
+          <l>שתהיי היחידה שלי</l>
+          <l>ובלעדייך לא תהיה שווה כל שנייה</l>
+          <l>את את החלום שמתגשם</l>
+          <l>ורק איתך אני נושם</l>
+          <l>ורואה עולם שונה ממה שקיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק אותך בחרתי לאהוב</l>
+          <l>רוצה לשמור אותך קרוב</l>
+          <l>ושתדעי שבלעדייך אני לא קיים</l>
+          <l>את את זו שעושה לי טוב</l>
+          <l>רוצה להיות איתך עד סוף</l>
+          <l>עד סוף חיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ושתדעי שבלעדייך אני לא קיים</l>
+          <l>רק איתך העולם מושלם</l>
+          <l>ורואה עולם שונה ממה שקיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק אותך בחרתי לאהוב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את כל עולמי לך נשבעתי</l>
+          <l>שתהיי היחידה שלי</l>
+          <l>בלעדייך לא תהיה שווה כל שנייה</l>
+          <l>כל שנייה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

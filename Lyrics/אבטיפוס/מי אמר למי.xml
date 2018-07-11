@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי אמר למי</title>
+        <singer classification="band">אבטיפוס</singer>
+        <writer>אמיר בן דוד</writer>
+        <composer>אמיר בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי אמר למי</head>
+        <lg number="1" type="stanza">
+          <l>מסתכסך ולא רגוע</l>
+          <l>לוחץ ולא מרפה כשזה כואב</l>
+          <l>כל השבוע מסתבך פתאום</l>
+          <l>לא יודע, לא בטוח</l>
+          <l>כועס ומתכווץ ולא עוזב</l>
+          <l>גם כשהמצח כבר לוהט מחום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי אמר למי - תלך ולא תחזור?</l>
+          <l>מי חזר והתנצל?</l>
+          <l>מי אמר למי - תראה זה יעבור?</l>
+          <l>מי אמר שזה עובר?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רגעים של געגוע</l>
+          <l>ריחות האפייה מהשכנים</l>
+          <l>כל כך צנו וכל כך נעים</l>
+          <l>רוץ אחרי הרוח</l>
+          <l>ותמריא עם כל ההיסוסים</l>
+          <l>אל החלום שלא הספקת להגשים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי אמר למי - תלך ואל תחזור?</l>
+          <l>מי חזר והתנצל?</l>
+          <l>מי אמר למי - תראה זה יעבור?</l>
+          <l>כמו שהקיץ מצטנן בסוף אוקטובר</l>
+          <l>מתעטף ומתכונן לקראת נובמבר</l>
+          <l>והופך לחורף</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מי אמר למי - תלך ולא תחזור?</l>
+          <l>מי חזר והתנצל?</l>
+          <l>מי אמר למי - תראה זה יעבור?</l>
+          <l>מי אמר שזה עובר?</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>זה לא עובר,</l>
+          <l>זה רק נרגע</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הרסתי הכל</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>אסף שריג</writer>
+        <composer>אסף שריג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הרסתי הכל</head>
+        <lg number="1" type="stanza">
+          <l>מציץ בי במבט בוחן</l>
+          <l>קפוא בחיוכו</l>
+          <l>יודע שאני רוצה לגעת בידו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קם מתוך שינה טרופה</l>
+          <l>נתקל במבטו</l>
+          <l>יודע שאני אבוד</l>
+          <l>יודע את מותו</l>
+          <l>ומה אני מרגיש</l>
+          <l>מה אני מרגיש</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אהה...</l>
+          <l>והרסתי הכל</l>
+          <l>והרסתי הכל</l>
+          <l>והרסתי את כל העולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עיניים שאינן מזמן</l>
+          <l>פנים שלא אשכח</l>
+          <l>יודע שאני אבוד</l>
+          <l>שומע כשאצרח</l>
+          <l>ומה אני מרגיש</l>
+          <l>מה אני מרגיש</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אהה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

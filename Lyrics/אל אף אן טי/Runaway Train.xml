@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Runaway Train</title>
+        <singer classification="unknown">אל אף אן טי</singer>
+        <writer>ניר רן</writer>
+        <composer>ניר רן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Runaway Train</head>
+        <lg number="1" type="stanza">
+          <l>I was one thousand stamens gliding through the air,</l>
+          <l>sometimes I brought you flowers, now you don't seem to care.</l>
+          <l>I was one thousand stamens in the air,</l>
+          <l>now, now I'm flying, I'll be out of your hair.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>I'm going insane</l>
+          <l>I'm the one leaving, </l>
+          <l>but you're a runaway train.</l>
+          <l>Runaway train.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>You, you were my water &amp; my dirt,</l>
+          <l>roots that grow deep under shaking earth.</l>
+          <l>Now, the winds are blowing somewhere else,</l>
+          <l>and I'm just one thousand stamens out of your hair.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>I'm going insane</l>
+          <l>I'm the one leaving, </l>
+          <l>but you're a runaway train.</l>
+          <l>Runaway train.</l>
+        </lg>
+        <lg number="5" type="stanza" />
+        <lg number="6" type="stanza">
+          <l>Runaway train...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

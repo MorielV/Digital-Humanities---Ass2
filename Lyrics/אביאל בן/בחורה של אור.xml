@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחורה של אור</title>
+        <singer classification="unknown">אביאל בן</singer>
+        <writer>גיל שבת</writer>
+        <composer>מאיה גלאור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחורה של אור</head>
+        <lg number="1" type="stanza">
+          <l>אני מאוהב בבחורה של אור</l>
+          <l>יש לה את הכל עיניים של ים כחול</l>
+          <l>ויש לי עוד חבר שגם אותה שומר</l>
+          <l>בתוך ליבו ולא משחרר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תסתכלי עלי זה כבר יותר מדי</l>
+          <l>אומרת שצריכה עוד זמן להחליט</l>
+          <l>יש לו ים של כסף ולי יש לב זהב</l>
+          <l>מי את חושבת אותך יותר יאהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שר לך את ליבי בתוך מילים יפות</l>
+          <l>את כל מה שתרצי לעוד שנים רבות</l>
+          <l>וההוא קונה לך קונה לך מתנות</l>
+          <l>איך את מתבלבלת מכמה טבעות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תסתכלי עלי זה כבר יותר מדי</l>
+          <l>אומרת שצריכה עוד זמן להחליט</l>
+          <l>יש לו ים של כסף ולי יש לב זהב</l>
+          <l>מי את חושבת אותך יותר יאהב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תסתכלי עלי זה כבר יותר מדי</l>
+          <l>אומרת שצריכה עוד זמן להחליט</l>
+          <l>יש לו ים של כסף ולי יש לב זהב</l>
+          <l>מי את חושבת אותך יותר יאהב</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני מאוהב בבחורה של אור</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

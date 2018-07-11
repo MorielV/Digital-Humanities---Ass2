@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מדמיין אותך</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>איציק שמלי</writer>
+        <composer>איציק שמלי</composer>
+        <album>בשבילך נוצרתי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מדמיין אותך</head>
+        <lg number="1" type="stanza">
+          <l>זה היום לו חיכיתי, זה שנים</l>
+          <l>היום הזה יהיה יום חג</l>
+          <l>לי ולך כל החיים..</l>
+          <l>ואיך בעוד דקה שנינו כאחד</l>
+          <l>נחלוק עתיד, אני ספוג דמעות,</l>
+          <l>והקהל שפה יעיד...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שאני המעריץ שלך,</l>
+          <l>תראי איזו הילה לבנה מסביבך,</l>
+          <l>שזוהרת דואגת תמיד לשמור את יופייך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ומדמיין אותך, איתי בירח דבש,</l>
+          <l>שכל מה שמורגש זה רק האושר שליבי ממך שואב,</l>
+          <l>ומדמיין אותך בשמלת שבת...</l>
+          <l>עם הנרות והמבט שבזכותו אני אוהב</l>
+          <l>לדמיין אותך...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זה הרגע שהאושר בי שוכן</l>
+          <l>בו אני ואת יודעים שביחד נזדקן</l>
+          <l>ככל שיחלוף הזמן אני אלמד אותך יותר</l>
+          <l>איך לרגש לעד ולעולם לא לוותר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>להיות תמיד האיש שלך</l>
+          <l>הגבר שדואג לך לשקט נפשי</l>
+          <l>שנותן לך את כל הסיבות שרק תחייכי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ומדמיין אותך...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ולדמיין אותך בשמלת שבת עם הנרות</l>
+          <l>והמבט שבזכותו אני אוהב</l>
+          <l>ולדמיין אותך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

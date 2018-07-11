@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שבת המלכה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>שלום חנוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שבת המלכה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הנה היא קרבה ובאה, זאת המלכה</l>
+          <l>הנה היא קרבה ובאה, זאת המלכה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יום ו' הולך, שבת המלכה</l>
+          <l>ברוך בואך, שבת המלכה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>טוב שבאת שבת המלכה</l>
+          <l>שבת שבת, שבת המלכה</l>
+          <l>טוב שבאת שבת המלכה</l>
+          <l>שבת שבת, שבת המלכה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הנה היא קרבה ובאה, זאת המלכה</l>
+          <l>הנה היא קרבה ובאה, זאת המלכה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הכל לבן, שבת המלכה</l>
+          <l>הכל מוכן, שבת המלכה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>טוב שבאת שבת המלכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

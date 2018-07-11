@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוח מזרחית</title>
+        <singer classification="female singer">אתי לוי</singer>
+        <writer>דודו ברק</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוח מזרחית</head>
+        <lg number="1" type="stanza">
+          <l>המדבר כולו עיניים </l>
+          <l>אהובי אי שם נינדוד</l>
+          <l>קח אותי איתך בשניים</l>
+          <l>אל הקסם והסוד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל הלחש והרחש</l>
+          <l>אל חידת המערה</l>
+          <l>ורוחי שלי לא נחה </l>
+          <l>היא בעין הסערה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רוח מזרחית, הד נשבר</l>
+          <l>קסם יהלכו עלי קולות מדבר</l>
+          <l>רוח מזרחית, הד נשבר</l>
+          <l>קסם יהלכו עלי קולות מדבר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>המדבר כולו עיניים </l>
+          <l>הוא נחש והוא עקרב</l>
+          <l>תחת דקל רב כפיים</l>
+          <l>על מצע חולות זהב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נחלום חלום פרוע</l>
+          <l>על מסתור ובו אוצר</l>
+          <l>יחד אל הלא ידוע</l>
+          <l>על גמלים אליו נדהר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רוח מזרחית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

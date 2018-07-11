@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השכבת אותי בעשר</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השכבת אותי בעשר</head>
+        <lg number="1" type="stanza">
+          <l>כולם בעיר אומרים לי</l>
+          <l>מצאת את האישה, אוי אוי</l>
+          <l>את באמת נורא בלונדינית</l>
+          <l>עם הג'ינס שאת לובשת</l>
+          <l>אבל זה כל מה שאת עושה, אוי אוי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>השכבת אותי בעשר</l>
+          <l>כמו איזה תינוק</l>
+          <l>הלכת לאיזו מסיבה</l>
+          <l>דיברת איתי על כסף</l>
+          <l>ודיברת איתי על יופי</l>
+          <l>אבל לא דיברת על אהבה</l>
+          <l>זה מעציב אותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הדמות שאת מחפשת</l>
+          <l>נמצאת במגזין אופנה</l>
+          <l>הטון בו את מדברת</l>
+          <l>הוויכוח עליו את חולקת</l>
+          <l>מוציא את הנשמה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

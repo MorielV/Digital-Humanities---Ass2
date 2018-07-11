@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד</head>
+        <lg number="1" type="stanza">
+          <l>עד אצבעותי כפות ידיי </l>
+          <l>עד אצעד רחוק מהרגליי </l>
+          <l>עד שרוח ים בין חומותיי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עד תבוסה עד שינה </l>
+          <l>עד גאות עד זריחה </l>
+          <l>בוא עד אליי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עד כיסי כוסי וכעסי </l>
+          <l>עד ארוחתי ומיטתי </l>
+          <l>עד זכרונותיי חלומותיי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עד ביתי וחדרי </l>
+          <l>עד קולי וסודותיי </l>
+          <l>בוא עד אליי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

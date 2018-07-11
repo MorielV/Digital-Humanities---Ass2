@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תנו תרומה לקרן הקיימת</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>חיים חפר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תנו תרומה לקרן הקיימת</head>
+        <lg number="1" type="stanza">
+          <l>אומתנו היא אומה לוחמת </l>
+          <l>היא תשמור על קיומי </l>
+          <l>תנו תרומה לקרן הקיימת </l>
+          <l>למלווה הלאומי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם נתת עשר לירות </l>
+          <l>תקבל שלושים דולרים </l>
+          <l>כסף לאזרח יחזירו </l>
+          <l>יקבל שלושים דולרים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם תרצה פרסום משחת שיניים </l>
+          <l>ג'ינג'ר רוג'רס תחייך </l>
+          <l>האמברגו לא נגמר בינתיים </l>
+          <l>יש רק דיבורים יש שייך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני בנך הקטן</title>
+        <singer classification="unknown">אלי יהודה</singer>
+        <writer>רפי אגרונוב</writer>
+        <composer>רפי אגרונוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני בנך הקטן</head>
+        <lg number="1" type="stanza">
+          <l>עם רדת חשיכה היית כבר לעיני</l>
+          <l>בלב לי את אחת שמך הולך לפני</l>
+          <l>בכיתי ונגבת לי את דמעותי</l>
+          <l>עוד מילדותי תמיד שמרת עלי.</l>
+          <l>תפילה קטנה שלך מכל רעה תשמור</l>
+          <l>אני בנך הקטן הפכתי כבר גדול.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קראת לי בן יקר ונתת לי יד</l>
+          <l>דמותך למול עיני גם כשאני לבד</l>
+          <l>לי אמרת עם רדת ערב תחזור</l>
+          <l>אמא יקרה שלי אותך בלב אשמור.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זוכר ימי ילדות היינו ילדים</l>
+          <l>בצל אורך אימי היינו מתעטפים</l>
+          <l>נטעת חלומות תזכי לחיים טובים תמיד</l>
+          <l>תשובות לשאלות היו לך בשבילי.</l>
+          <l>תפילה קטנה שלך מכל רעה תשמור</l>
+          <l>אני בנך הקטן הפכתי כבר גדול.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קראת לי בן יקר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

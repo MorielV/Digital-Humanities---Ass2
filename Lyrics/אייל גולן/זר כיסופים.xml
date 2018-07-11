@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זר כיסופים</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יוני יעיש</writer>
+        <composer>יוני יעיש</composer>
+        <album>דרך לחיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זר כיסופים</head>
+        <lg number="1" type="stanza">
+          <l>זר כיסופים קטפתי לעת ערב </l>
+          <l>צרור מכתבים הבאתי ריחני</l>
+          <l>שברי מילים שלא יבשו עדיין </l>
+          <l>מילים אשר הקריבה דמעתי </l>
+          <l>זר כיסופים ערגתי לעינייך </l>
+          <l>שזרתי בו את כל געגועי</l>
+          <l>סליחה שנרקמה מדמעותייך </l>
+          <l>ועוד אחת נשאתי בידי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וקולי נמלא געגועים </l>
+          <l>מה הייתי לך ואת נדרשת </l>
+          <l>האם חמלה או שיח קוצים </l>
+          <l>האם פריחה יפה או שלכת </l>
+          <l>ויומי נמלא בחרטה </l>
+          <l>מה הייתי לך ואת נעצבת </l>
+          <l>דמותך הותירה בי חולשה </l>
+          <l>והיא כל כך יפה אך נעזבת </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זר כיסופים הבאתי לעת ערב </l>
+          <l>צרור מכתבים הוא מוכי גורל</l>
+          <l>חלקת אוהב הבאתי עד אלייך </l>
+          <l>את ריח הכאב אשר נמהל </l>
+          <l>זר של קנאה הבאתי מגני </l>
+          <l>שזרתי לכבודך כל כוחותי</l>
+          <l>והסליחה הבאתי עימדי </l>
+          <l>ועוד אחת ערמו לך לילותי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וקולי נמלא געגועים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

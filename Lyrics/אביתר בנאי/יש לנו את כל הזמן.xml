@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לנו את כל הזמן</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>אביתר בנאי</composer>
+        <album>עומד על נייר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לנו את כל הזמן</head>
+        <lg number="1" type="stanza">
+          <l>פרחים אדומים עומדים להיפתח</l>
+          <l>צל גפנים חופים זהובים</l>
+          <l>גשרים ארוכים בתי מלון זולים</l>
+          <l>מרוקן ארונות ישנים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היונה בחדר מחטי אורן יבשים נפרשים</l>
+          <l>היונה בחדר מחטי אורן יבשים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ביום שישי איזה בוקר שקוף</l>
+          <l>אני הולך בתוכו את הולכת איתי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היונה בחדר מחטי אורן יבשים נפרשים</l>
+          <l>היונה בחדר </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש לנו את כל הזמן </l>
+          <l>יש לנו את כל הזמן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

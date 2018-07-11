@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רונה אומרת</title>
+        <singer classification="unknown">איה כורם</singer>
+        <writer>איה כורם</writer>
+        <composer>איה כורם</composer>
+        <album>לאלף את הסוסים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רונה אומרת</head>
+        <lg number="1" type="stanza">
+          <l>רונה אומרת שכדור הארץ מתחמם</l>
+          <l>ואני האשה עם השקית</l>
+          <l>רונה אומרת שהאדישות עוד תהרוג אותנו</l>
+          <l>ואני האשה עם הסכין</l>
+          <l>רונה אומרת שיש כאן מסכנים, מנוצלים</l>
+          <l>כשאני סוגרת את חלון המכונית</l>
+          <l>רונה אומרת שחצי מהעם רעב</l>
+          <l>ואני האישה עם הפריכית</l>
+          <l>רונה אומרת שהתרבות הלכה לעזאזל</l>
+          <l>ואופס, אני האשה עם העט</l>
+          <l>ומספרת כל הזמן הרבה דברים נוראיים</l>
+          <l>אבל אני כבר לא שומעת באמת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם אין לחם - שיאכלו עוגות</l>
+          <l>אם אין צדק - שיאכלו אותה</l>
+          <l>אם אין כוח - בואו נוותר</l>
+          <l>אם אין מים - בואו נשתכר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רונה לא אוכלת שום דבר שיש לו אמא</l>
+          <l>או אחים או שדודים דרגה שמינית</l>
+          <l>רונה מסתכלת על כל התוויות בסופר</l>
+          <l>כשאני עושה עיניים לבנים</l>
+          <l>היא אומרת שבשדרות נהרגים ברחובות</l>
+          <l>אני אומרת "אלימות זה לא יפה"</l>
+          <l>רונה שוב אומרת שהכיבוש הזה משחית</l>
+          <l>אני חושבת על בקלאווה וקפה</l>
+          <l>רונה נוסעת בשבת להפגין על החומה</l>
+          <l>ואני שוב משנה נושא שיחה</l>
+          <l>רונה מתגאה בצלקות של כדורי הגומי</l>
+          <l>ואני בסימני המתיחה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם אין לחם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וכמה את יפה, ככה את צודקת</l>
+          <l>וכמה את צודקת, זה ככה מעייף</l>
+          <l>ובחורה אחת קטנה לא יכולה לסחוב עליה</l>
+          <l>את הצרות של העולם על הכתף</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אם אין לחם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

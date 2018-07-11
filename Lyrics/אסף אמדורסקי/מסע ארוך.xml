@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מסע ארוך</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>יעל גבירץ</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מסע ארוך</head>
+        <lg number="1" type="stanza">
+          <l>יום אחד מתעורר </l>
+          <l>קם הפוך והחושך חוזר </l>
+          <l>אתה נפחד, אתה לבד </l>
+          <l>בבדידות הזאת, לא מאבדים אף אחד. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יום קשה, לא עובר </l>
+          <l>סוף סיפור, התחלה של אחר </l>
+          <l>ואין עשן ואין שריפה </l>
+          <l>העולם כאילו לא נברא בשבילך. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>גל יורד </l>
+          <l>אל תכה בקצב </l>
+          <l>יום שלא התחיל אבל </l>
+          <l>ונעלם בעצב, קצב. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חדשות אחרונות </l>
+          <l>אצלך, כמו תמיד ישנות </l>
+          <l>מבוקר טוב אל בוקר רע </l>
+          <l>עוד מסע אחד ארוך ללא מטרה. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נשמות אבודות </l>
+          <l>בביתך, הן הופכות לעובדות </l>
+          <l>אתה נפחד, אתה לבד </l>
+          <l>בבדידות הזאת לא מאבדים אף אחד. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>גל יורד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

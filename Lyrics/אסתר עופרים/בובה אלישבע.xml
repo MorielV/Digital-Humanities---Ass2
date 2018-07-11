@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בובה אלישבע</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>מרים ילן שטקליס</writer>
+        <composer>שמעון כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בובה אלישבע</head>
+        <lg number="1" type="stanza">
+          <l>הבובה שלי גדולה</l>
+          <l>שם יפה קראתי לה,</l>
+          <l>לה קראתי אלישבע.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בובתי רוצה לישון,</l>
+          <l>כך אמר לי השעון.</l>
+          <l>הוא אמר לי: כבר ורבע!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

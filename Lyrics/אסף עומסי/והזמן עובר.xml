@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>והזמן עובר</title>
+        <singer classification="unknown">אסף עומסי</singer>
+        <writer>לירון לוי</writer>
+        <composer>אסף עומסי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>והזמן עובר</head>
+        <lg number="1" type="stanza">
+          <l>שהיינו יחד הכל היה מתוק </l>
+          <l>היית תמיד קרובה גם אם היית רחוק</l>
+          <l>בלב בנשמה תמיד תהיי שלי</l>
+          <l>הזכרונות כל יום בלב אהובתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והזמן עובר הלכנו לדרכים שונות</l>
+          <l>בכל שנייה בכל רגע יש געגועים</l>
+          <l>האהבה שורפת שאת כבר לא איתי</l>
+          <l>הייתי רוצה שאליי שוב תחזרי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה שכתוב בשמיים זה שיהיה </l>
+          <l>אך למרות הכל אני אותך ארצה </l>
+          <l>כי בשבילי היית תמיד האחת </l>
+          <l>שאותך לעולם לא אשכח לעד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והזמן עובר הלכנו לדרכים שונות </l>
+          <l>בכל שנייה בכל רגע יש געגועים</l>
+          <l>האהבה שורפת שאת כבר לא איתי </l>
+          <l>הייתי רוצה שאליי שוב תחזרי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

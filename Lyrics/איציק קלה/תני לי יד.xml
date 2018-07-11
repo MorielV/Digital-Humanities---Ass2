@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תני לי יד</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תני לי יד</head>
+        <lg number="1" type="stanza">
+          <l>את עדיין קטנטנה לא מבינה באהבות</l>
+          <l>אך אני תמיד מוכן להמשיך עוד לחכות</l>
+          <l>מי יודע אם אמצא עוד אחת יפה כל כך</l>
+          <l>לא נשארת לי ברירה אלא לחכות רק לך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז תני לי יד ונלך יחדיו</l>
+          <l>וכמו תמיד אותך אוהב</l>
+          <l>ובשתיקה אביט רק בך</l>
+          <l>כל כך אוהב לראות אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יום יבוא ותגדלי ותהיי כבר נערה</l>
+          <l>אז אבואה לביתך אגלה לך אהבה</l>
+          <l>ועם זר של שושנים אחכה על יד ביתך</l>
+          <l>סרנדות לך אשיר כשמאיר לי חלונך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז תני לי יד ונלך יחדיו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוד תשקיני מיינך ואשקך מייני</l>
+          <l>זאת אני מבטיח לך שתהיי בבת עיני</l>
+          <l>ואני אבנה לך קן בו נשב תמיד יחדיו</l>
+          <l>ונגדל בו ילדים ותמיד אותם נאהב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז תני לי יד ונלך יחדיו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

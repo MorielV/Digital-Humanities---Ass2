@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכל לטובה</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכל לטובה</head>
+        <lg number="1" type="stanza">
+          <l>אדמה רועדת מסביבך, כמו הולך על חבל דק</l>
+          <l>משאיר מאחוריך רק אבק</l>
+          <l>מביט לאחור, ולא יודע איך לחזור</l>
+          <l>להדביק שוב את השבר שנסדק</l>
+          <l>בוחן כל צעד, כישלון מול הצלחה</l>
+          <l>אייכה? קול גדול קורא לך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז בואו נעוף גבוה יותר</l>
+          <l>אומרים שבסוף הכל מסתדר</l>
+          <l>לא הכל טוב, אבל הכל לטובה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לוקח נשימה, אתה נמלט מעצמך</l>
+          <l>אם טוב או לא - אתה מכתיב את גורלך</l>
+          <l>רואה איך קשרים שהסתבכו לפני שנים</l>
+          <l>נפרמים ומתיישרים, נעלמים</l>
+          <l>אתה יודע, ממקום ראות אחר</l>
+          <l>אפשר לראות ברור הרבה יותר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז בואו נעוף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

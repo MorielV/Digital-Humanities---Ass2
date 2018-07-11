@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל הביישנים</title>
+        <singer classification="unknown">אבשלום הררי</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל הביישנים</head>
+        <lg number="1" type="stanza">
+          <l>כמה זמן אני אחרייך מחזר</l>
+          <l>נושם את האוויר שמסביבך</l>
+          <l>הביישן שבי מתחיל להשתחרר</l>
+          <l>ולא רואה אף רמז מצידך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את יש לך את הזמן</l>
+          <l>כמה עוד אפשר את החוט למתוח</l>
+          <l>לך אולי זה לא קל אך מאהבה</l>
+          <l>אי אפשר לברוח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פעם לא אני פעם לא את</l>
+          <l>מי יעשה את הצעד</l>
+          <l>כל הביישנים נשארים לבד</l>
+          <l>ולא זוכים לטעום מפרי הדעת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תני חיוך ילדה רק סימן אחד קטן</l>
+          <l>כי בלעדייך קר בתוך הלב</l>
+          <l>רק מאהבה הגעתי עד לכאן</l>
+          <l>לומר לך את כל מה שאני חושב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את יש לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

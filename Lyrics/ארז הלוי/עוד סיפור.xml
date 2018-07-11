@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד סיפור 2</title>
+        <singer classification="male singer">ארז הלוי</singer>
+        <writer>ארז הלוי</writer>
+        <composer>ארז הלוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד סיפור</head>
+        <lg number="1" type="stanza">
+          <l>עוד סיפור של הבטחה </l>
+          <l>עוד מצב בלתי נמנע </l>
+          <l>ואיך זה שוב </l>
+          <l>מסתבך איתך לשווא </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא מזמן ניסינו שוב </l>
+          <l>כן פעם זה היה פשוט </l>
+          <l>ושוב חלום נגדע לשווא איתך </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כן פעם זה היה קרוב כן פעם קצת רטוב </l>
+          <l>כל משבר כל אתגר מוצא עד כלות </l>
+          <l>כן פעם זה היה מתוק פעם קצת סוער </l>
+          <l>ושמש חם ורוח קר ליטף רכות </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בר אפל שכוח אל </l>
+          <l>שוב זחוח ונופל </l>
+          <l>זו שוב דמותך בערפל עולה </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוד סיגריה על הבר </l>
+          <l>עוד כוסית בחשכה </l>
+          <l>זה שוב מצב בלתי הפיך איתך </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כן פעם זה היה קרוב כן פעם קצת רטוב... </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כן פעם זה היה מתוק פעם קצת סוער </l>
+          <l>כל משבר..</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

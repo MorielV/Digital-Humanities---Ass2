@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה אחרת</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה אחרת</head>
+        <lg number="1" type="stanza">
+          <l>אודם שקיעה מעל המים</l>
+          <l>סיפור אחד שלא נגמר</l>
+          <l>ילדתי עזבה לפני יומיים</l>
+          <l>איתה הייתי מאושר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בלילות קרים אקרא בשמה</l>
+          <l>היא נמצאת בהרפתקה אחרת</l>
+          <l>קיבלתי על עצמי את האשמה</l>
+          <l>גם אם היא תמיד בי נלחמה -</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אהבה אחרת, אהבת עולם</l>
+          <l>חכי עד שאגיע עד אלייך</l>
+          <l>אהבה אחרת זורמת לי בדם</l>
+          <l>חכי עד שאפול לזרועותייך...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לילה שחור, שקטה הרוח</l>
+          <l>סיפור פשוט שהסתבך</l>
+          <l>היא עזבה אותי בגלל ויכוח</l>
+          <l>ליום אחד שהתארך -</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בלילות קשה להיות לבד</l>
+          <l>היא מצאה לה אהבה אחרת</l>
+          <l>חשבתי שהייתי האחד</l>
+          <l>חשבתי שאחיה איתה לעד -</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אהבה אחרת, אהבת עולם</l>
+          <l>חכי עד שאגיע עד אלייך</l>
+          <l>אהבה אחרת זורמת לי בדם</l>
+          <l>חכי עד שאפול לזרועותייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

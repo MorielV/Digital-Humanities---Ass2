@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק אותך 2</title>
+        <singer classification="unknown">אביהו שבת</singer>
+        <writer>ניב קייקוב</writer>
+        <composer>missing</composer>
+        <album>אביהו</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק אותך</head>
+        <lg number="1" type="stanza">
+          <l>כשאת מציירת עננים </l>
+          <l>ונוגעת בי, מלטפת כמו השמש </l>
+          <l>ואת, רק את יודעת להבחין </l>
+          <l>אם אצלי בלב אביב או שלכת </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שמך נישא אלי ברוח </l>
+          <l>מלאכים שרים רק לך </l>
+          <l>את כל הרגשות והצלילים אשר יוצאים אלייך מתוכי </l>
+          <l>רק אותך, רק אותך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאת מביטה אל שתי עיני</l>
+          <l>ואור תוּמך ממלא חלל החדר </l>
+          <l>ואת, כן רק איתך תמיד אדע </l>
+          <l>שהלב שלם, איתך למדתי מהו רגש </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שמך נישא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

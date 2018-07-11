@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד דקה את נעלמת</title>
+        <singer classification="male singer">איציק שמלי</singer>
+        <writer>רמי לב</writer>
+        <composer>רמי לב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד דקה את נעלמת</head>
+        <lg number="1" type="stanza">
+          <l>עוד דקה את נעלמת</l>
+          <l>סביב דמותך עולה עשן</l>
+          <l>עוד שתיקה שמלטפת</l>
+          <l>פעימות הלב החם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את שותקת, מתבוננת</l>
+          <l>כשאת פה, הו, כמה טוב</l>
+          <l>ולפתע את לוחשת</l>
+          <l>בוא, אותי לא תעזוב.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני שלך</l>
+          <l>את לא יונה שבודדה</l>
+          <l>אני איתך</l>
+          <l>האהבה עוד לא כבתה</l>
+          <l>את שהיית לי</l>
+          <l>היחידה האהובה</l>
+          <l>אותך שוב לא אשכח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד מבט שוב מעינייך</l>
+          <l>זה אתמול היה חלום</l>
+          <l>והלילה שפתותייך</l>
+          <l>מנשקות אותי בחום.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם את פה אז תאמיני</l>
+          <l>אני שלך ואת שלי</l>
+          <l>שמעי צליל אהבה, הביני</l>
+          <l>אם אלך, תלכי איתי.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

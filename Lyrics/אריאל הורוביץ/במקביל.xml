@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>במקביל</title>
+        <singer classification="male singer">אריאל הורוביץ</singer>
+        <writer>אריאל הורוביץ</writer>
+        <composer>אריאל הורוביץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>במקביל</head>
+        <lg number="1" type="stanza">
+          <l>יש נקודה בדרך לחיפה,</l>
+          <l>בבת אחת משמאלך הים,</l>
+          <l>כחול ומתנפץ עמוק ומנצנץ</l>
+          <l>כמו החופש שרוצים כולם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה היה שם כל הזמן ולא שמת לב כרגיל,</l>
+          <l>פשוט נסעת במקביל.</l>
+          <l>זה היה שם כל הזמן ולא שמת לב כרגיל,</l>
+          <l>פשוט נסעת במקביל.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לך חבר שאתה חושב</l>
+          <l>שאתה מכיר אותו שנים,</l>
+          <l>והנה מתברר יש איזה כאב,</l>
+          <l>שהוא החביא אצלו עמוק בפנים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה היה שם כל הזמן...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ויש לך אישה שאתה אוהב,</l>
+          <l>אבל עכשיו קשה להתקרב,</l>
+          <l>והנה לשניה לאור המקרר</l>
+          <l>היא נראתה כמו שאתה זוכר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה היה שם כל הזמן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

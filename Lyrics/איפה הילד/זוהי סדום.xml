@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זוהי סדום</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זוהי סדום</head>
+        <lg number="1" type="stanza">
+          <l>אל תדברי מילים הן מאום,</l>
+          <l>הנצח בשתיקה,</l>
+          <l>שתיקתנו תהיה יפה לבנה,</l>
+          <l>כמו מוות כמו שמלת כלה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תני להם למצוא גיבורים אחרים.</l>
+          <l>שוטים לא חסר אנחנו יודעים,</l>
+          <l>בידור בכל מחיר ינבחו הכלבים,</l>
+          <l>והכסף יצחק אין לו ריח.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל קצה העולם אקח אותך לקוטב הבדידות,</l>
+          <l>זוהי סדום ילדה בואי נברח נברח,</l>
+          <l>לפני שיהיה לפני שיהיה מאוחר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי אני שאטיף לכם,</l>
+          <l>שאומר לכם מה לעשות,</l>
+          <l>ליצן עם פה גדול מפחד מאלוהים,</l>
+          <l>לא מעיז לגדול אני לא יכול.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל קצה העולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

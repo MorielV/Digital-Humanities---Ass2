@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פתח לי שער</title>
+        <singer classification="unknown">אבי בן ישראל</singer>
+        <writer>אבי בן ישראל</writer>
+        <composer>אבי בן ישראל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פתח לי שער</head>
+        <lg number="1" type="stanza">
+          <l>כשאני הולך בשדות</l>
+          <l>קורא לאלוקים</l>
+          <l>כשאני חוצה יערות</l>
+          <l>מתגלים לי מלאכים</l>
+          <l>ואז קורא אליך אבא</l>
+          <l>שמע אותי</l>
+          <l>ואז צועק אליך אבא</l>
+          <l>קבל תפילתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פתח לי שער</l>
+          <l>בעת נעילת שער</l>
+          <l>פתח שמיים</l>
+          <l>לקול בוכים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ממעמקים קראתיך השם</l>
+          <l>בימים ובלילות</l>
+          <l>זה הבן המתחנן</l>
+          <l>בכאב ודמעות</l>
+          <l>ואז קורא אליך אבא</l>
+          <l>שמע אותי</l>
+          <l>ואז צועק אליך אבא</l>
+          <l>קבל תפילתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פתח לי שער...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

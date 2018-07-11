@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האישה שלי 2</title>
+        <singer classification="unknown">אלחנן מלול</singer>
+        <writer>גילי כהן</writer>
+        <composer>אסף צרויה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האישה שלי</head>
+        <lg number="1" type="stanza">
+          <l>את אור הבוקר שמאיר</l>
+          <l>את היום והאתמול </l>
+          <l>את המחר והבכלל </l>
+          <l>ואת האושר של חיי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את צבעת לי את היום</l>
+          <l>ומלאת לי את הלב</l>
+          <l>את הכחול והכתום </l>
+          <l>והצבע של האור</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את האישה שלי</l>
+          <l>האהבה שלי הו הו</l>
+          <l>וכל מה שאני זה את כן את</l>
+          <l>את האישה שלי </l>
+          <l>האהבה שלי הו הו </l>
+          <l>וכל מה שאני זה את</l>
+          <l>אני זה את</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כבר שהגעת הבנתי </l>
+          <l>שמשהו השתנה</l>
+          <l>משהו נבט בי</l>
+          <l>צמח בלי התראה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את החורף שלי </l>
+          <l>והקיץ את גם השמש</l>
+          <l>והרוח הקרה </l>
+          <l>את השקט שבא בסערה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את האישה שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

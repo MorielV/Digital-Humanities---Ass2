@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאמא</title>
+        <singer classification="unknown">אילן כנר</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>ניסן פרידמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאמא</head>
+        <lg number="1" type="stanza">
+          <l>מאמא, מאמא</l>
+          <l>קרן אור של נחמה.</l>
+          <l>על מי, על מה</l>
+          <l>יש בך אהבה תמה?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מאמא, מאמא</l>
+          <l>כמו אוויר לנשימה.</l>
+          <l>על מי, על מה</l>
+          <l>בלבך דמעה חמה?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כזה מן רגש יש רק בך!</l>
+          <l>האם נוכל לתת גם לך?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תמיד נותנת את הכל</l>
+          <l>שלא נכאב, שלא נסבול.</l>
+          <l>בכל תפילה אני לוחש: מאמא.</l>
+          <l>אלי הטוב, את אמא נשמה!</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תמיד נותנת את כולך</l>
+          <l>שלא נדאג, שלא נלך.</l>
+          <l>בכל תפילה אני קורא: מאמא.</l>
+          <l>אלי הטוב, את אמא נשמה!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

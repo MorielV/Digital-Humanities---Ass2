@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הנודד</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>דוד שמעוני</writer>
+        <composer>עממי</composer>
+        <album>אסתר עופרים בהיכל התרבות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הנודד</head>
+        <lg number="1" type="stanza">
+          <l>מי יתנני עוף</l>
+          <l>צפור כנף קטנה</l>
+          <l>בנדודי אינסוף</l>
+          <l>נפשי מה מתענה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מי יתנני עוף</l>
+          <l>צפור כנף קטנה</l>
+          <l>אשר בקן הטוב</l>
+          <l>תנוח שאננה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהה, כעוף נדוד</l>
+          <l>אנוג אני גם -כן</l>
+          <l>אך עת איעף מאוד</l>
+          <l>לנוח אין לי קן.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

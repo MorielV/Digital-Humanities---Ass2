@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו חייל</title>
+        <singer classification="male singer">אמיר דדון</singer>
+        <writer>אמיר דדון</writer>
+        <composer>קרן דדון</composer>
+        <album>אמיר דדון</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו חייל</head>
+        <lg number="1" type="stanza">
+          <l>כמו חייל לבשתי את האפוד את הקסדה</l>
+          <l>יצאתי למסע הזה מלא בגאווה</l>
+          <l>אני קרוב</l>
+          <l>אני קרוב כל כך לאהוב אותי</l>
+          <l>אני קרוב עכשיו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמו חייל שהתעייף בדרך ונפל</l>
+          <l>נשימתי נהייתה כבדה, זחלתי לאט </l>
+          <l>אני קרוב</l>
+          <l>אני קרוב כל כך לאהוב אותי</l>
+          <l>אני קרוב, עכשיו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני אגיע אל הסוף</l>
+          <l>אני אפקח את העיניים </l>
+          <l>שרק אוכל שוב לראות</l>
+          <l>שרק אוכל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני קרוב כל כך לאהוב אותי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

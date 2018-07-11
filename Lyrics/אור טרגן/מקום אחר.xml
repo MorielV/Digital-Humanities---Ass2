@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מקום אחר 4</title>
+        <singer classification="unknown">אור טרגן</singer>
+        <writer>ברק פלדמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מקום אחר</head>
+        <lg number="1" type="stanza">
+          <l>הוא לא נולד רחוק מכאן</l>
+          <l>הוא לא גדל בכפר קטן</l>
+          <l>הוא לא דובר שפה זרה</l>
+          <l>ועדיין, הוא שונה מכולם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אין לו כנפיים של מלאך</l>
+          <l>אין לו דמיון פורה כל כך</l>
+          <l>ועדיין, הוא חולם.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שיש מקום אחר </l>
+          <l>שם אלוהים קרוב יותר </l>
+          <l>וכל חלום שמטפס לשמיים </l>
+          <l>מתגשם וחוזר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז הוא נותן הכל</l>
+          <l>זה המעט שהוא יכול</l>
+          <l>ובינתיים, זה חוזר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אין לו כנפיים של ציפור</l>
+          <l>אין לו הילה יפה של אור </l>
+          <l>ועדיין, הוא חולם.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שיש מקום אחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא תגיש לך מים</title>
+        <singer classification="male singer">ארז הלוי</singer>
+        <writer>ארז הלוי</writer>
+        <composer>ארז הלוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא תגיש לך מים</head>
+        <lg number="1" type="stanza">
+          <l>היא תגיש לך מים היא תאפה לך לחם</l>
+          <l>היא תעשה לך ילד אף יותר</l>
+          <l>היא תלחש לך קסם היא תלך עד אירופה</l>
+          <l>היא תקטוף לך פרח אף יותר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק אל תשכח</l>
+          <l>רק אל תברח</l>
+          <l>רק אל תדעך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא תאיר שם בחושך לכל משברך</l>
+          <l>היא תצית בך שמש אף יותר</l>
+          <l>היא תשלח לך שקט מערבות הבלקן</l>
+          <l>שוב גלגל אל הנצח כמו נכתב בבקבוק</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רק אל תשקע</l>
+          <l>רק אל תקרע</l>
+          <l>רק אל תגווע</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היא תקשור לך כתר שעשתה בפריז</l>
+          <l>תעשה אותך מלך אף יותר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רק אל תשכח</l>
+          <l>רק אל תברח</l>
+          <l>רק אל תדעך</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>היא תגיש לך מים היא תאפה לך לחם</l>
+          <l>היא תעשה לך ילד אף יותר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

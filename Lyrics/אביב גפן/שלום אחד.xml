@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלום אחד</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלום אחד</head>
+        <lg number="1" type="stanza">
+          <l>שלום אחד חמישים מיליון רוצים אותך נורא</l>
+          <l>אז איך זה שכלום עוד לא קרה</l>
+          <l>כתבתי לך שאני ממש אוהב אותך</l>
+          <l>אך רק בקבר אהיה שלך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גן ילדים מתחת נדנדות יש אנשים</l>
+          <l>בתוך האדמה הם עוד בונים פצצה</l>
+          <l>מקשטים את האטום המכוער</l>
+          <l>פעם חיכיתי</l>
+          <l>היום אני רק שר</l>
+          <l>שקרן מי שמאושר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

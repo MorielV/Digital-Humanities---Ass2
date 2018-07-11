@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חשק</title>
+        <singer classification="unknown">אלירן תבורי</singer>
+        <writer>שולי דאי</writer>
+        <composer>ארז אלגרבלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חשק</head>
+        <lg number="1" type="stanza">
+          <l>שיערך הגולש וקולך המדהים חיוכך הנצחי</l>
+          <l>וצחוקך המקסים מלא אנרגיות שלא הכרתי שנים</l>
+          <l>לאכול איתך גלידה ולרכב על סוסים להשתזף לתפוס גלים</l>
+          <l>להקשיב לשקט ולצפות בכוכבים בדיזנגוף כמו זוג תיירים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את עושה לי חשק</l>
+          <l>לטפס על הרים</l>
+          <l>נותנת לי כוח</l>
+          <l>חלומות להגשים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאת מסמיקה את כזאת מתוקה</l>
+          <l>אני כולי נרגש ומלא בתשוקה</l>
+          <l>מרגיש בן שש עשרה מאוהב בחיים </l>
+          <l>רוצה רק אותך היפה בנשים</l>
+          <l>את מרתקת בייבי  את מדליקה אותי</l>
+          <l>באה סוחפת אבל לאן את לוקחת אותי</l>
+          <l>ואם את הולכת תדעי אני בא איתך </l>
+          <l>תמיד אהיה לצידך לאן שלא תלכי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את עושה לי חשק</l>
+          <l>לטפס על הרים</l>
+          <l>נותנת לי כוח</l>
+          <l>חלומות להגשים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

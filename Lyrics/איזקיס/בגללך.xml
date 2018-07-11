@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בגללך 4</title>
+        <singer classification="unknown">איזקיס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בגללך</head>
+        <lg number="1" type="stanza">
+          <l>שלוש שנים שאני יודע, שאת נמצאת איתו.</l>
+          <l>למרות הכל אני לא חשבתי, שזה בגללו.</l>
+          <l>אמרת לטנגו צריך רק שניים, והאשמת אותי.</l>
+          <l>וכשישנת על מיטה נפרדת, זה בטח בגללי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את זה בגללך, אני זה בגללו.</l>
+          <l>הוא זה בגללי, ואת אוהבת אותו.</l>
+          <l>אתם זה בגללכם, שככה העולם.</l>
+          <l>והם זה בגללם, עכשיו הם כמו כולם.</l>
+          <l>אני אוהב אותך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בסוף הלכת לאחת ביפו, שקוראת בקפה.</l>
+          <l>אפילו היא בלי לחשוב אמרה לך, שזה לא יפה.</l>
+          <l>את לא יודעת שיומיים קודם, היא ראתה אותי.</l>
+          <l>תמורת תשלום היא אמרה שתגיד לך, שזה לא בגללי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את זה בגללך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

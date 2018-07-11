@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לפעמים 4</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>מוריס</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לפעמים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>לפעמים אני הוזה</l>
+          <l>שחיי איתך הם מחזה</l>
+          <l>ילדה, הגיבור תמיד אוהב אותך.</l>
+          <l>"להיות או לא להיות"-שואל</l>
+          <l>אם תגידי "לא" זה יתסכל</l>
+          <l>ילדה, בתסריט אני אוהב אותך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לפעמים אני רוצה לחיות</l>
+          <l>להחזיק איתך ידיים</l>
+          <l>נהלך על פני המים.</l>
+          <l>לפעמים אני רוצה למות</l>
+          <l>לעוף גבוה בשמים</l>
+          <l>אבל נשאר כאן בינתיים</l>
+          <l>כי את נשארת איתי.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לפעמים אני רומנטיקן</l>
+          <l>עם נרות דולקים סביב השולחן</l>
+          <l>אוחז בידך, אני אוהב אותך.</l>
+          <l>לפעמים את מגלה עניין</l>
+          <l>ונותנת לי סיכוי קטן</l>
+          <l>נושק על לחייך, אני אוהב אותך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לפעמים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

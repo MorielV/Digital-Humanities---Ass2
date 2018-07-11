@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דרויש</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>דני שושן</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דרויש</head>
+        <lg number="1" type="stanza">
+          <l>חי אני כמו הדרוויש</l>
+          <l>לא עושה חשבון לאיש</l>
+          <l>חי אני מיום ליום</l>
+          <l>חי אני כמו בחלום</l>
+          <l>איך עובר יום</l>
+          <l>לא מרגיש</l>
+          <l>לא מבקש טובה מאיש</l>
+          <l>לפעמים מזלי ביש</l>
+          <l>אלו הם חיי דרוויש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמו זאב אני בודד</l>
+          <l>בלילות אני נודד</l>
+          <l>מבר לבר על שפת הים</l>
+          <l>וצוחק על העולם</l>
+          <l>עם סיגריה וכוסית</l>
+          <l>על הבר תמיד חופשי</l>
+          <l>המוזג תמיד מגיש</l>
+          <l>חי אני כמו הדרוויש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלי פרוטה ובלי שעון</l>
+          <l>מטייל לי בלי חשבון</l>
+          <l>מאחר תמיד לישון</l>
+          <l>במועדון תמיד ראשון</l>
+          <l>אין לי בית אין לי כלטוןם</l>
+          <l>רק שטרות חוב לא חתום</l>
+          <l>אין לי עסק אין מיסים</l>
+          <l>אין לי דולר בכיסים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמו זאב אני בודד</l>
+          <l>בלילות אני נודד</l>
+          <l>מבר לבר על שפת הים</l>
+          <l>וצוחק על העולם</l>
+          <l>עם סיגריה וכוסית</l>
+          <l>על הבר תמיד חופשי</l>
+          <l>המוזג תמיד מגיש</l>
+          <l>חי אני כמו הדרוויש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

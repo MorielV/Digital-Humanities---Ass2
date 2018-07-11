@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הזמנה לחתונה 2</title>
+        <singer classification="unknown">איציק אל</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הזמנה לחתונה</head>
+        <lg number="1" type="stanza">
+          <l>שש עשרה אביבים מלאו לבת ראש הכפר </l>
+          <l>שתי עיניה כוכבים ושערה מפוזר </l>
+          <l>היא יפה על גופה רק כותונת מבד </l>
+          <l>ועדי על צוואר שהיא הכינה לבד </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ובכפר בחורים וגופם בריא </l>
+          <l>הם תמיד מחייכים כשמביטים בראי </l>
+          <l>וכל אחד מתגאה לי תהיה הבתולה </l>
+          <l>אם צריך את הכל אני אתן בשבילה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אתן לה שושנים </l>
+          <l>צרור דובדבנים </l>
+          <l>ושיר עם מנגינה </l>
+          <l>הזמנה לחתונה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אך לבת ראש הכפר תוכניות שונות </l>
+          <l>עוד לא לתקוע בשופר עוד לא זמן חתונות </l>
+          <l>היא רוצה בעולם טיול עם שק שינה </l>
+          <l>לא אכפת לה כולם גם אם יתנו מתנה </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אתן לה שושנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לך אלי 3</title>
+        <singer classification="unknown">אלי יחיאלי</singer>
+        <writer>רבי אברהם אבן עזרא</writer>
+        <composer>אודי דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לך אלי</head>
+        <lg number="1" type="stanza">
+          <l>לך אלי תשוקתי, בך חשקי ואהבתי</l>
+          <l>לך לבי וכליותיי, לך רוחי ונשמתי</l>
+          <l>לך ידיי לך רגליי וממך היא תכונתי</l>
+          <l>לך עצמי לך דמי ועורי עם גוויתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הבינני עבודתך ולך תהיה עבודתי</l>
+          <l>השיבני ואשובה ותרצה את תשובתי</l>
+          <l>לך אזעק, בך אדבק עדי שוב לאדמתי</l>
+          <l>לך אני בעודי חי ואף כי אחרי מותי</l>
+          <l>לך אזעק, בך אדבק עדי שוב לאדמתי</l>
+          <l>לך אני בעודי חי ואף כי אחרי מותי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לך אלי תשוקתי, בך חשקי ואהבתי</l>
+          <l>לך לבי וכליותי, לך רוחי ונשמתי</l>
+          <l>לך לבי וכליותי, לך רוחי ונשמתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הבינני עבודתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

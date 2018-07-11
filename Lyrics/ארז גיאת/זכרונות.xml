@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זכרונות 4</title>
+        <singer classification="unknown">ארז גיאת</singer>
+        <writer>שי אוחיון</writer>
+        <composer>שי אוחיון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זכרונות</head>
+        <lg number="1" type="stanza">
+          <l>ערב אחד שהיינו ביחד</l>
+          <l>שעות לא הפסקנו לחשוב</l>
+          <l>לא האמת נושבת הרוח</l>
+          <l>האם לכיוון בטוח</l>
+          <l>ערב אחר שיצאתי מהבית</l>
+          <l>באת ושאלת לאן, </l>
+          <l>ארזתי בתיק שאריות של הלב</l>
+          <l>ששברת לי עוד מזמן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את תהיי בחיי חסרה לי</l>
+          <l>את חלום שבאמצע נקטע לי</l>
+          <l>את השארת זכרונות אני מלא</l>
+          <l>הדמעות כמה עצוב בלעדייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ערב אחד שהיינו ביחד</l>
+          <l>לחשת לי, אתה אהובי</l>
+          <l>חייכת ושאלת אם טוב לי </l>
+          <l>בלב אמרתי שאני אוהב</l>
+          <l>ערב אחר שצעקת ואמרת לי</l>
+          <l>תן לי את הזמן לחשוב</l>
+          <l>איתך לא נשארתי מהרגע </l>
+          <l>הפסקתי לחשוב מה יהיה מחר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את תהיי בחיי חסרה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

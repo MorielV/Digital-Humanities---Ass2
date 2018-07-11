@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בדרך חזרה</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אהוד מנור</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בדרך חזרה</head>
+        <lg number="1" type="stanza">
+          <l>אני חוזר בדרך בה טיפסתי</l>
+          <l>בין אורנים גבוהים</l>
+          <l>אני חוזר בדרך בה חיפשתי</l>
+          <l>אור בלילות כהים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ההרים גבוהים יותר בדרך חזרה</l>
+          <l>המדרון תלול יותר בדרך חזרה</l>
+          <l>לו היית כאן לצדי בדרך חזרה</l>
+          <l>לא היתה זו בשבילי הדרך חזרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני חוזר בדרך בה זימרנו</l>
+          <l>סביב מדורות הסתיו</l>
+          <l>אני שותק בדרך בא דיברנו</l>
+          <l>כי לעולם נאהב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני יורד בדרך הדוהרת</l>
+          <l>אש בכפות רגלי</l>
+          <l>אני יורד בדרך הבוערת</l>
+          <l>מול השקיעה בגיא</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ההרים גבוהים יותר בדרך חזרה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנגינה נודדת</title>
+        <singer classification="unknown">אביה פינטו</singer>
+        <writer>אביה פינטו</writer>
+        <composer>אביה פינטו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנגינה נודדת</head>
+        <lg number="1" type="stanza">
+          <l>בטעם של פעם לך אני מבטיח </l>
+          <l>להשיב לך מנגינה נודדת </l>
+          <l>מילים שיזכירו את ילדותינו </l>
+          <l>ריחות של אימא מבשלת </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמו אל חוף מבטחים ברגעים הכי קשים </l>
+          <l>נותנת את לבך שומרת אמונים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את היית לי אהבה גדולה </l>
+          <l>ובכל צליל ניגנת מהנשמה </l>
+          <l>ואתן לך שנים כל דקה בחיים </l>
+          <l>רק לך אישה נאמנה </l>
+          <l>מנגינה חודרת לנשמה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בטעם של פעם את קולך השמיעי </l>
+          <l>אנשים ירוצו אחרייך </l>
+          <l>האמת מסתתרת אך לא נעלמת </l>
+          <l>ההרים יפלו אל מול רגלייך </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כמו אל חוף מבטחים ברגעים הכי קשים </l>
+          <l>נותנת את לבך שומרת אמונים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

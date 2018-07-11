@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שירת חיי</title>
+        <singer classification="unknown">אלירן שם טוב</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שירת חיי</head>
+        <lg number="1" type="stanza">
+          <l>איך אני מתרגש </l>
+          <l>וממך מבקש </l>
+          <l>להיות האחד </l>
+          <l>להרגיש כה מיוחד </l>
+          <l>את הכל בשבילי </l>
+          <l>השמחה שבליבי </l>
+          <l>זה כל כך אמיתי </l>
+          <l>מיוחד בשבילי </l>
+          <l>מיוחד רק בשבילי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מלאכים ינגנו לך את שירת חיי </l>
+          <l>ואותך ילוו גם בדרכך אלי </l>
+          <l>כל הטוב בעולם בליבך רק קיים </l>
+          <l>ואני לא אפסיק לאהוב לעולם </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בשבילך אני שר </l>
+          <l>וכל כך מאושר </l>
+          <l>כשאת כאן לצידי </l>
+          <l>מאירה לי את ליבי </l>
+          <l>לך אתן את כל כולי </l>
+          <l>שתמיד רק תחייכי </l>
+          <l>זה כל כך אמיתי </l>
+          <l>מיוחד בשבילי </l>
+          <l>מיוחד רק בשבילי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מלאכים ינגנו לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

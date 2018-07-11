@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלומברג</title>
+        <singer classification="band">אטרף</singer>
+        <writer>ראובן סלמון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלומברג</head>
+        <lg number="1" type="stanza">
+          <l>מת לפגוש היום את בלומברג</l>
+          <l>עם המאג וחולצת הגולף</l>
+          <l>גיבור הרי הקח ותן</l>
+          <l>הפיזדייץ של הפיזדייץ</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>באותה שנה בדיוק</l>
+          <l>נגוז חלום אחרון</l>
+          <l>האל הטוב לא ריחם עלינו</l>
+          <l>לא למדנו שום דבר</l>
+          <l>האל הטוב לא ריחם עלינו</l>
+          <l>לא למדנו שום דבר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עשרה לשלוש והתחתונים למטה</l>
+          <l>החגור ליד והבנות מעל</l>
+          <l>גיבור הקרב האחרון</l>
+          <l>היום מתהדר לצלילי אקורדיאון</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז קראו לנו הסיירים</l>
+          <l>חשבנו: גיבורים גדולים</l>
+          <l>עם כלים כאלה מסורבלים</l>
+          <l>מתחזים לגברברים</l>
+          <l>בשביל לתפוס קצת ראש</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לקח להם הרבה שנים</l>
+          <l>להבין שהפיונים</l>
+          <l>הם תמיד הראשונים</l>
+          <l>תמיד הראשונים ללכת</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>יושב עסקן ותיק</l>
+          <l>המחליט שם מאחורה</l>
+          <l>אם תהיה בשר</l>
+          <l>בשר לתותחים</l>
+          <l>אם תהיה בשר</l>
+          <l>בשר לתותחים</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>עשרה לשלוש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

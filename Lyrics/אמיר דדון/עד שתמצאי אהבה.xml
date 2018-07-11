@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד שתמצאי אהבה</title>
+        <singer classification="male singer">אמיר דדון</singer>
+        <writer>אמיר דדון</writer>
+        <composer>אמיר דדון</composer>
+        <album>יש אין סוף</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד שתמצאי אהבה</head>
+        <lg number="1" type="stanza">
+          <l>תני לזה לצלול, לשקוע לאט </l>
+          <l>חזרי אל החוף</l>
+          <l>זמן לשחרר, לשכוח ודי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשמשהו יצוף, ייתן סימן</l>
+          <l>שוטי אליו</l>
+          <l>ים של שירים אלייך עכשיו</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ופחד שלא נגמר</l>
+          <l>רק משתנה עם הגיל, עם הזמן</l>
+          <l>מי עכשיו ישיר לך עד שתמצאי אהבה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>דברי לירח, תלכי יחפה</l>
+          <l>עדיין יפה</l>
+          <l>ים של שירים עלייך אישה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רק תני לזה לצלול, לשקוע לאט</l>
+          <l>חזרי אל החוף</l>
+          <l>זמן לשחרר, לשכוח ודי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ופחד שלא נגמר</l>
+          <l>רק משתנה עם הגיל, עם הזמן</l>
+          <l>מי עכשיו ישיר לך עד שתמצאי אהבה</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>פחד שלא נגמר</l>
+          <l>רק משתנה עם הגיל, עם הזמן</l>
+          <l>תלכי רחוק, תלכי לך עד שתמצאי אהבה</l>
+          <l>עוד תמצאי אהבה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

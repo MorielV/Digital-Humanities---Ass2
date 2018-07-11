@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנסים להגיע</title>
+        <singer classification="band">אלגנט</singer>
+        <writer>אלברט סופר</writer>
+        <composer>אלברט סופר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנסים להגיע</head>
+        <lg number="1" type="stanza">
+          <l>שנינו נוסעים אני על ההגה</l>
+          <l>ואתה לידי,</l>
+          <l>אנחנו יודעים הכביש לפנינו</l>
+          <l>והדרך בפנים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מנסים להגיע אל קו הרקיע</l>
+          <l>מנסים להגיע אל קו הרקיע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ולפעמים יורד ערפל ושנינו שקטים.</l>
+          <l>כבישים מתפתלים מן הדרך סטינו,</l>
+          <l>אך במסע לעולם לא טועים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מנסים להגיע אל קו הרקיע</l>
+          <l>מנסים להגיע אל קו הרקיע</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שם הראש אפשר לו, לעזוב את הגוף,</l>
+          <l>הפגיע...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>וכשנגיע אל קו הרקיע, בכוחות אחרונים</l>
+          <l>נחייך לעצמנו נשנס את מותנינו</l>
+          <l>ונצא אל קו רקיע חדש...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>מנסים להגיע אל קו הרקיע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

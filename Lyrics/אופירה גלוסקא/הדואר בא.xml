@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הדואר בא</title>
+        <singer classification="female singer">אופירה גלוסקא</singer>
+        <writer>נעמי שמר</writer>
+        <composer>נעמי שמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הדואר בא</head>
+        <lg number="1" type="stanza">
+          <l>הדואר בא היום</l>
+          <l>באוטו האדום</l>
+          <l>ולי נתן</l>
+          <l>מיכתב קטן</l>
+          <l>מכתב עם בול</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אולי הוא מאבי?</l>
+          <l>אולי מתל אביב?</l>
+          <l>אולי האח</l>
+          <l>כתב לי כך</l>
+          <l>מו הטיול?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הדואר ממהר</l>
+          <l>וטס מן החצר</l>
+          <l>לכל מקום</l>
+          <l>יבוא יום יום</l>
+          <l>שלום שלום!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

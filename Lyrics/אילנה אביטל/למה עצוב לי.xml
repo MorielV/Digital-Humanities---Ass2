@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למה עצוב לי</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>שמרית אור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למה עצוב לי</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים עולה בי רגש שכזה</l>
+          <l>ושוטף כנחל והולם בי בחזה</l>
+          <l>מבלי שיודיע, מבלי שירתיע</l>
+          <l>ואיני יודעת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>למה עצוב לי</l>
+          <l>למה עצוב לי</l>
+          <l>דוקא כשטוב לי כל כך</l>
+          <l>למה עצוב לי</l>
+          <l>למה עצוב לי</l>
+          <l>כשכל היופי נמשך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפעמים עם ערב יש פתאום דממה</l>
+          <l>ומן ציפיה גוברת, לא אדע על מה</l>
+          <l>ומשהו זר בי, אי שמה בתוך ליבי</l>
+          <l>ואיני יודעת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>למה עצוב לי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה הזמן הנשכח</l>
+          <l>כמו ניצן שרק נפתח</l>
+          <l>משהו בלב מתרגש</l>
+          <l>בי עד כאב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואיני יודעת</l>
+          <l>למה עצוב לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

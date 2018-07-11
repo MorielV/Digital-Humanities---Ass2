@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בא אלייך משוגע</title>
+        <singer classification="male singer">אורי בנאי</singer>
+        <writer>אורי בנאי</writer>
+        <composer>אורי בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בא אלייך משוגע</head>
+        <lg number="1" type="stanza">
+          <l>כל היום מחפש אותך מסמן לעצמי את הדרך</l>
+          <l>שתוביל אותי ללב שאוהב בדיוק לא בערך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>צהוב הופך אדום ובכל זאת ממשיך לנסוע</l>
+          <l>והים כל כך עמוק אני ממשיך לטבוע</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תני לי מגע</l>
+          <l>תני לי לשיר לך שיר הלילה</l>
+          <l>כשאני בא אלייך משוגע</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש שלט על הקיר כתוב בו תזהר</l>
+          <l>אבל אני לא רואה אותו אני כמו עיוור</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תני לי מגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

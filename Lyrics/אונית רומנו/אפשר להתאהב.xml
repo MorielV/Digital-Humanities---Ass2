@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אפשר להתאהב</title>
+        <singer classification="unknown">אונית רומנו</singer>
+        <writer>סופיה אבנילוב</writer>
+        <composer>סופיה אבנילוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אפשר להתאהב</head>
+        <lg number="1" type="stanza">
+          <l>השתיקה שלך מובילה את מחשבותי רחוק</l>
+          <l>מר לי בפה ובכל זאת טועמת מתוק</l>
+          <l>מילותי לא מצליחות להפר את הדממה</l>
+          <l>תן לי יד בוא נצעד ביחד אל התקווה. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תאמר למה אתה מפנה את הגב</l>
+          <l>זה כאילו אתה לא פה עכשיו </l>
+          <l>המבט הוא אומר את הכל</l>
+          <l>תאמר לי שזה יכול</l>
+          <l>זה יכול לקרות וזה לא נגמר</l>
+          <l>תאמר לי שכן אפשר</l>
+          <l>לחוש את הדופק מאיץ בלב</l>
+          <l>איתך אפשר להתאהב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני טובעת בים </l>
+          <l>הים הוא מלא רגשות חרטה </l>
+          <l>נשטפת בדמעות מלוחות </l>
+          <l>כמעט נושאת תפילה</l>
+          <l>בצער מחפשת פתרון</l>
+          <l>תדע שרוצה שתהיה האחרון. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תאמר למה אתה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

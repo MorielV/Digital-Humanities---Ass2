@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לאלף את הסוסים</title>
+        <singer classification="unknown">איה כורם</singer>
+        <writer>איה כורם</writer>
+        <composer>איה כורם</composer>
+        <album>לאלף את הסוסים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לאלף את הסוסים</head>
+        <lg number="1" type="stanza">
+          <l>המספר שלך מוכר לי, מסתכלת ולא עונה, </l>
+          <l>למה להעיר את המתים. </l>
+          <l>שבע שנים רעות, או שאולי שבעים, </l>
+          <l>למה לשחרר את הכלבים. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני לא למדתי לשנוא אותך, לבד בערבים, </l>
+          <l>למה לטפח לי אויבים. </l>
+          <l>אתה עשית מה שטוב לך, וזה מקסים, </l>
+          <l>למה לאלף את הסוסים. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני אהבתי את השיר הזה, אבל היום הוא לא עושה לי כלום. </l>
+          <l>אני חשבתי שאתה חוזר, אבל היום לא משנה לי כלום. </l>
+          <l>אני פחדתי ממך, אבל כבר אין מה לפחד, </l>
+          <l>ואם איבדתי הכל, עכשיו כבר אין מה לאבד. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>והבטן כבר לא מתהפכת, וזה נעים, </l>
+          <l>למה לטלטל את הסירות, </l>
+          <l>גם אם הייתי מטומטמת לחכות כל החיים, </l>
+          <l>למה לדבר אל הקירות. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני אהבתי את השיר הזה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>למה, לא הבנתי אז עד כמה </l>
+          <l>לא חשבתי שזה ככה </l>
+          <l>לא ידעתי מה זה פחד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

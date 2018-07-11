@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משהו שאני לא יכול</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>אסף אמדורסקי</composer>
+        <album>אסף אמדורסקי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משהו שאני לא יכול</head>
+        <lg number="1" type="stanza">
+          <l>קרה שהלכתי לשם ורצתי</l>
+          <l>קרה שרציתי לשם וברחתי</l>
+          <l>חזרה למקום שממנו התחלתי</l>
+          <l>קרה שרציתי אבל אומץ לא היה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל מה שהיה שייך</l>
+          <l>התמוטט נשבר נשפך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קרה שטעיתי רציתי למחול</l>
+          <l>למחוק את הכל</l>
+          <l>לשכוח את המר הגדול ולסלוח</l>
+          <l>אבל זה משהו שאני לא יכול</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל מה שהיה שייך</l>
+          <l>התמוטט נשבר נשפך</l>
+          <l>התכווצתי ונמוג</l>
+          <l>בידיים החזקתי</l>
+          <l>לא האמנתי שברח</l>
+          <l>רחוק רחוק</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל מה שהיה קיים</l>
+          <l>בשניה תססס נעלם</l>
+          <l>שאתה צונח מתעלף</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

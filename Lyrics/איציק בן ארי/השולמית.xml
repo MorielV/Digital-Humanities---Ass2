@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השולמית</title>
+        <singer classification="unknown">איציק בן ארי</singer>
+        <writer>דודו ברק</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השולמית</head>
+        <lg number="1" type="stanza">
+          <l>סתיו באוויר ומטר מתמשך,</l>
+          <l>בעלעלים אכסה את כול גופך.</l>
+          <l>חרש אקלע סתוונית בשערך,</l>
+          <l>טרם תדאי כציפור לדרכך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובקיץ, מהרים,</l>
+          <l>שובי אלי, נערת שיר השירים.</l>
+          <l>ברביד ובצמיד,</l>
+          <l>שובי אלי, השולמית.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חורף כבד וברק מתהפך,</l>
+          <l>בערפילים אכסה את כול גופך.</l>
+          <l>חרש אקלע כרכומים בשערך,</l>
+          <l>טרם תפני כאיילת לדרכך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ובקיץ, מהרים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שמש אביב, הנהר משכשך,</l>
+          <l>בשושנים אכסה את כול גופך.</l>
+          <l>חרש אקלע מרגנית בשערך,</l>
+          <l>טרם תצאי עלי סוס לדרכך.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ובקיץ, מהרים...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>קיץ חזר והיום מתארך,</l>
+          <l>בנשיקות אכסה את כול גופך.</l>
+          <l>נזר חוחים לך אתן בשערך,</l>
+          <l>יחד נרד אל הגן בביתך.</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>קיץ שב מן ההרים,</l>
+          <l>הנה חזרת נערת שיר השירים,</l>
+          <l>ברביד ובצמיד,</l>
+          <l>הנה חזרת השולמית. </l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

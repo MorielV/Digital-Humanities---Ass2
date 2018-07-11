@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סידי סאלאם</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סידי סאלאם</head>
+        <lg number="1" type="stanza">
+          <l>ארצי מכובדי</l>
+          <l>בוכה מכובדי, בוכה מכובדי</l>
+          <l>בוכה למען השלום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אז אמרו אתם הגדולים</l>
+          <l>הללו אתם הקטנים</l>
+          <l>יחיה ויחיה השלום</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רק סאלאם ואין סאלאם</l>
+          <l>הם הרסו והפכו את כל העולם</l>
+          <l>רק סאלאם ואין סאלאם!</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חבל מכובדי</l>
+          <l>כי האנשים מכובדי</l>
+          <l>יחיו מכובדי</l>
+          <l>יחיו בלי ביטחון</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>החגים רבים והשמחות גדולות</l>
+          <l>אבל הכי יפה חג השלום</l>
+          <l>החגים רבים והשמחות גדולות</l>
+          <l>תשמחי ארץ השלום</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רק סאלאם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשאמצא אותך</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשאמצא אותך</head>
+        <lg number="1" type="stanza">
+          <l>כשאמצא אותך אפסיק לשתות</l>
+          <l>ואקנה לי בגד חדש</l>
+          <l>כשאמצא אותך ניסע רחוק</l>
+          <l>ונבנה לנו בית</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשאמצא אותך נעשה ילד</l>
+          <l>ויהיה לו את כל מה שלא היה לנו</l>
+          <l>כשאמצא אותך נוכל לדבר</l>
+          <l>ולאהוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאמצא אותך נזדקן יחד</l>
+          <l>והילד יגדל והילד יגדל</l>
+          <l>כשאמצא אותך</l>
+          <l>אשתנה</l>
+          <l>איפה את?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

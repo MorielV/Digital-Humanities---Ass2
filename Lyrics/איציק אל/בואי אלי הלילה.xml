@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי אלי הלילה</title>
+        <singer classification="unknown">איציק אל</singer>
+        <writer>יוסי לוזון</writer>
+        <composer>רוסלאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי אלי הלילה</head>
+        <lg number="1" type="stanza">
+          <l>שם בחלומות הכי יפים</l>
+          <l>בין מלאכים שמחייכים</l>
+          <l>אני אוחז בשתי ידיך</l>
+          <l>שם שברת את מחסומי ליבי</l>
+          <l>רוצה אותך כאן לצידי </l>
+          <l>הו יפה שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי אלי הלילה אותך רוצה לפגוש</l>
+          <l>בואי אלי ברגע אותך רוצה לכבוש</l>
+          <l>הושיטי לי ידייך תגידי את שלי</l>
+          <l>אביט בשתי עינייך שלך אהובתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שם בתוך כל רעש החיים</l>
+          <l>נתת לי כוח להשלים</l>
+          <l>את כל מה שחלמנו</l>
+          <l>את סללת לי דרך אוהבים</l>
+          <l>וגם ברגעים קשים</l>
+          <l>את נותנת כוח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואי אלי הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

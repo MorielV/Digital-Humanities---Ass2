@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פורס את הידיים</title>
+        <singer classification="unknown">אלון חסון</singer>
+        <writer>אלון חסון</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פורס את הידיים</head>
+        <lg number="1" type="stanza">
+          <l>עולם מלא בטומאה</l>
+          <l>עולם בלי רחמים</l>
+          <l>מחפש טיפה שלווה</l>
+          <l>ונסחף אל החיים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מנסה קצת ללכת</l>
+          <l>ודורכים לי על יבלת</l>
+          <l>על יבלת מהעבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פורס את הידיים</l>
+          <l>לאלוקים שבשמים</l>
+          <l>בתקווה שיראה לי אור</l>
+          <l>מטפס על הר גבוה</l>
+          <l>מחפש שלווה, מרגוע</l>
+          <l>את העבר לא לזכור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא הקשבתי להורי</l>
+          <l>וטעיתי בדרכים</l>
+          <l>לא הקשבתי למורי</l>
+          <l>ועוטף בי קור כלבים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

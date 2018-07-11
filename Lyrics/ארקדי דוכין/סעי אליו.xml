@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סעי אליו</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>אריאל הורוביץ</writer>
+        <composer>missing</composer>
+        <album>חלומות למבוגרים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סעי אליו</head>
+        <lg number="1" type="stanza">
+          <l>את לא רוצה עוד את מגע הידיים</l>
+          <l>ששתלו לך גינה ובנו את הבית</l>
+          <l>ואני מרגיש יש לך מישהו אחר</l>
+          <l>אחרת מאיפה האור באישון</l>
+          <l>ולמה נדמה כשהלכתי לישון</l>
+          <l>את יוצאת לטייל עם הטלפון בחצר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סעי עכשיו, אל הסוד שלך</l>
+          <l>אל תשארי אפילו עוד דקה</l>
+          <l>סעי אליו, אחכה לך כאן</l>
+          <l>כשתפלי ותקבלי את המכה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל השנים שעשינו ביחד,</l>
+          <l>מי היה מאמין שנגמור לנו ככה</l>
+          <l>אני מרגיש שיש מישהו אחר</l>
+          <l>אחרת מאיפה האור והשקט</l>
+          <l>והכי כואב איך שאת מתחמקת</l>
+          <l>משפילה מבטי, שאני מולך עובר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סעי עכשיו, אל הסוד שלך</l>
+          <l>אל תשארי אפילו עוד דקה</l>
+          <l>סעי אליו, אחכה לך כאן</l>
+          <l>כשתפלי ותקבלי את המכה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>סעי אליו...</l>
+          <l>יש לך מישהו אחר...</l>
+          <l>כן אני מרגיש....יש לך מישהו אחר...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>סעי עכשיו, אל הסוד שלך</l>
+          <l>אל תשארי אפילו עוד דקה</l>
+          <l>סעי אליו, אחכה לך כאן</l>
+          <l>כשתפלי ותקבלי את המכה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

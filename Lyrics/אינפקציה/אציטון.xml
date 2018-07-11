@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אציטון</title>
+        <singer classification="band">אינפקציה</singer>
+        <writer>גיא בן שיטרית</writer>
+        <composer>גיא בן שיטרית</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אציטון</head>
+        <lg number="1" type="stanza">
+          <l>בואי ונשב על כוס קפה,</l>
+          <l>נדבר על העולם, כמה שהוא יפה.</l>
+          <l>אני אתן לך ללגום מהמשקה המר,</l>
+          <l>עד שהוא נגמר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואז תשאלי, מה שמת לי בפנים?</l>
+          <l>ואז תשאלי מה שמת לי, בכוס הקפה שלי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני אומר לך, בביטחון,</l>
+          <l>שמתי בקפה אציטון,</l>
+          <l>וחומר נפץ מחובר לשעון.</l>
+          <l>תצרחי ותצעקי מה שתרצי,</l>
+          <l>כי רק בסוף בסוף תתפוצצי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בחדר חקירה חשוך ואפל,</l>
+          <l>שלושה שוטרים התחילו, במכות בי לטפל.</l>
+          <l>שוטר אחד דיבר יפה,</l>
+          <l>נתן לי סיגריות וקפה.</l>
+          <l>ועד שבסוף, התחלתי לדבר,</l>
+          <l>והוא שאל, מה שמת לי? בכוס הקפה שלי?</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני אמרתי כן זה נכון,</l>
+          <l>שמתי בקפה אציטון,</l>
+          <l>וחומר נפץ מחובר לשעון.</l>
+          <l>הוא שתה, לא משנה מה הכמות,</l>
+          <l>כי רק בסוף, בסוף, גם הוא ימות!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

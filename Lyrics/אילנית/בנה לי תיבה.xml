@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בנה לי תיבה</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בנה לי תיבה</head>
+        <lg number="1" type="stanza">
+          <l>הנה לילה תם</l>
+          <l>תם אך לא נשלם</l>
+          <l>שמש עולה</l>
+          <l>אבל נראית חולה</l>
+          <l>מטר יורד </l>
+          <l>המים שוב גואים</l>
+          <l>הגן רועד</l>
+          <l>ושנינו שוב רואים</l>
+          <l>נשר עלה של זית</l>
+          <l>פרחה לה היונה</l>
+          <l>אולי נצא לשייט</l>
+          <l>ונחזור בעוד שנה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בנה לי תיבה, בנה לי תיבה</l>
+          <l>לפני שיגיעו כאן מים עד נפש</l>
+          <l>בנה לי תיבה, בנה לי תיבה</l>
+          <l>לפני שירד כאן מבול</l>
+          <l>בנה לי תיבה, בנה לי תיבה</l>
+          <l>קחני עכשיו אל מחוז יש בו חפץ</l>
+          <l>בנה לי תיבה, בנה לי תיבה</l>
+          <l>לפני שיירד כאן מבול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הנה שוב הצל </l>
+          <l>בא ומשתולל</l>
+          <l>הוא לא נרגע</l>
+          <l>לפני שיש נפגע</l>
+          <l>הלב מוחה </l>
+          <l>המים עוד גואים</l>
+          <l>הגן בוכה</l>
+          <l>ושנינו שוב רואים</l>
+          <l>כיצד מפל הגשם </l>
+          <l>מרטיב את הגנן</l>
+          <l>המאמין שבקשת </l>
+          <l>שמעבר לענן </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בנה לי תיבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

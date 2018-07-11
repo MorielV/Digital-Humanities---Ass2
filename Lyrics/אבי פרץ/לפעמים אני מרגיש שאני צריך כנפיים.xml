@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לפעמים אני מרגיש שאני צריך כנפיים</title>
+        <singer classification="male singer">אבי פרץ</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לפעמים אני מרגיש שאני צריך כנפיים</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים אני מרגיש שאני צריך כנפיים</l>
+          <l>לא בשביל לעוף</l>
+          <l>רק בשביל לחסות בצילן</l>
+          <l>לפעמים אני מרגיש שאני צריך עיניים</l>
+          <l>רק בשביל לעצום אותן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני אנסה לעבור</l>
+          <l>לעבור את היום ואת המחר</l>
+          <l>כמו שעבר אברהם את הנהר</l>
+          <l>כמו שעבר משה את המדבר והים</l>
+          <l>אני אנסה לעבור איתם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפעמים אני מרגיש שאני צריך מרגוע</l>
+          <l>לא בשביל לישון</l>
+          <l>רק להאמין שאני נושם</l>
+          <l>לפעמים אני מרגיש שאני צריך לנגוע</l>
+          <l>בידו של אדם אחר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני אנסה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לפעמים אני מרגיש שאני צריך עיניים</l>
+          <l>עוד עוד ועוד</l>
+          <l>כדי שאראה את שפעת האור</l>
+          <l>לפעמים אני מרגיש שאני צריך כנפיים</l>
+          <l>רק בשביל לעוף ולעבור</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני אנסה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

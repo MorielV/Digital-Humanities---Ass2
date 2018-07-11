@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שניים שניים</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שניים שניים</head>
+        <lg number="1" type="stanza">
+          <l>הם רוקדים בתוך מקדש סמוע</l>
+          <l>עורי עורי אדומית</l>
+          <l>את האלה אשר סגורה בחדר</l>
+          <l>את האש, אש התמיד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בגופם רק עור ומים</l>
+          <l>מעונן אז אין שמיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שניים שניים</l>
+          <l>הם רוקדים על סלע</l>
+          <l>ותלויים מעל האדמה</l>
+          <l>שניים שניים</l>
+          <l>מול חוקי הטבע</l>
+          <l>עם חליפות בהזמנה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הם שלובים בתוך מקדש במוע</l>
+          <l>שוטי שוטי בת גלים</l>
+          <l>את בת הים אשר קשורה למזח</l>
+          <l>את הניחוח המשלים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בגופם רק עור ומים</l>
+          <l>מעונן אז אין שמיים</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>שניים שניים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

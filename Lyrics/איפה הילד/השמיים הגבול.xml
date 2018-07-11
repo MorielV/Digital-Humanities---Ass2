@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השמיים הגבול</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השמיים הגבול</head>
+        <lg number="1" type="stanza">
+          <l>מאז שהסתלקת אז בחיים קשה</l>
+          <l>קשה להיות לבד</l>
+          <l>אותי את לא אוהבת רק אני והבקבוק</l>
+          <l>בלי אף אחד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שותה את נשמתי אני צולל לתוך הכוס</l>
+          <l>והיא שבורה</l>
+          <l>בראש שלי יש מסיבה</l>
+          <l>ולא הוזמנתי כמה זה נורא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פתאום נפתחת דלת לעולם אחר</l>
+          <l>מעלי מופיע מלאך קטן שומר</l>
+          <l>לוחש לי סוד אז בוא נרקוד שמחה וצהלה</l>
+          <l>להיות לבד בעצם זה לא כל כך נורא</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>השמיים הגבול ולשם אני עף זה נפלא</l>
+          <l>ואת על הקרקע אז מה את חושבת לעצמך</l>
+          <l>וואו וואו וואו</l>
+          <l>בואי איתי</l>
+          <l>וואו וואו וואו</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מאז שהסתלקת היה לי חופש</l>
+          <l>זה היה לי מיוחד</l>
+          <l>מאז שהסתלקת גיליתי שעדיף לי</l>
+          <l>להיות לבד</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>פתאום נפתחת דלת....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

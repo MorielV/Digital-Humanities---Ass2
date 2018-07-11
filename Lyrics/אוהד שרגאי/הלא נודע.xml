@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלא נודע</title>
+        <singer classification="unknown">אוהד שרגאי</singer>
+        <writer>דני סנדרסון</writer>
+        <composer>דני סנדרסון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלא נודע</head>
+        <lg number="1" type="stanza">
+          <l>הולכים אל הלא נודע</l>
+          <l>אל הלא נודע</l>
+          <l>אל הלא נודע</l>
+          <l>הולכים אל הלך תדע</l>
+          <l>אם זה טוב או רע</l>
+          <l>שם בלא נודע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בלי לדעת את גורלנו</l>
+          <l>או מה יהיה</l>
+          <l>כל אחד מנחש קדימה</l>
+          <l>עד היכן שהוא רואה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הולכים אל הלא נודע...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תנסו לדמיין אותנו </l>
+          <l>עוד שנים רבות </l>
+          <l>לא פחות מסובך לקבוע</l>
+          <l>מה יהיה עוד שתי דקות </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא נודע, לא נודע...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בלי לדעת את גורלנו</l>
+          <l>או מה יהיה</l>
+          <l>כל אחד מנחש קדימה</l>
+          <l>עד היכן שהוא רואה</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אין לדעת מה יהיה</l>
+          <l>אין לדעת מה נראה</l>
+          <l>כל אחד מרחק מודד</l>
+          <l>מהיכן שהוא עומד</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>הולכים אל הלא נודע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

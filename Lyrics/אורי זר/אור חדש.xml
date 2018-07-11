@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אור חדש</title>
+        <singer classification="male singer">אורי זר</singer>
+        <writer>חנה גולדברג</writer>
+        <composer>שי דקל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אור חדש</head>
+        <lg number="1" type="stanza">
+          <l>לא שואל יותר</l>
+          <l>לאן הלכת</l>
+          <l>לא שואל מתי תבואי שוב</l>
+          <l>לא כועס אפילו כשאת לא עונה</l>
+          <l>יודע שהלכת מזמן</l>
+          <l>גם אם את עדיין כאן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא חוקר אותך</l>
+          <l>כשאת בוכה</l>
+          <l>לא חוקר</l>
+          <l>כשאת שמחה פתאום</l>
+          <l>לא צועק עליך כשאת לא עונה</l>
+          <l>יודע שהלכת מזמן</l>
+          <l>גם אם את עדיין כאן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אור חדש בעיני בוער</l>
+          <l>ויש בי כח</l>
+          <l>גם אם תלכי</l>
+          <l>לא אשבר</l>
+          <l>אך אם אומר לך</l>
+          <l>שאני לא פוחד יותר</l>
+          <l>אשקר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא נזהר יותר</l>
+          <l>בשבילך</l>
+          <l>לא נלחם יותר</l>
+          <l>בשתיקתך</l>
+          <l>לא נלחם</l>
+          <l>אפילו יש עוד סיכוי</l>
+          <l>יודע שהלכת מזמן</l>
+          <l>גם אם את עדיין כאן</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אור חדש בעיני בוער...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

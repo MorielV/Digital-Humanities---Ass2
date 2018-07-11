@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני אוהב אותך ילדה</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>13</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני אוהב אותך ילדה</head>
+        <lg number="1" type="stanza">
+          <l>ילדונת השיר הזה שלך</l>
+          <l>כי לא אמרתי מעולם שאני אוהב אותך</l>
+          <l>לגבר קשה להיפתח</l>
+          <l>לכן כתבתי שיר כזה</l>
+          <l>והוא מוקדש רק לך -</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני אוהב אותך ילדה</l>
+          <l>את אחת, את יחידה</l>
+          <l>מילים יוצאות מתוך הלב</l>
+          <l>שיר של אהבה אני כותב</l>
+          <l>אני אוהב אותך ילדה</l>
+          <l>הישארי אלי צמודה</l>
+          <l>ואם אני קצת מאכזב</l>
+          <l>תדעי שאותך אני אוהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו כשהשיר כבר מתנגן</l>
+          <l>חייכי אלי חיוך קטן</l>
+          <l>בלי להתחשבן</l>
+          <l>אני יודע שאני לא הכי הכי</l>
+          <l>קבלי אותי כמוש אני</l>
+          <l>בקצב מזרחי -</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני אוהב אותך ילדה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

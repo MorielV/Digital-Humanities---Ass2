@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בעיניו של ילד</title>
+        <singer classification="male singer">אורי זר</singer>
+        <writer>דודו ברק</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בעיניו של ילד</head>
+        <lg number="1" type="stanza">
+          <l>אתה רואה את גן שעשועיך,</l>
+          <l>בדמיונך מגרש המשחקים.</l>
+          <l>בנשמתך זורחים געגועיך,</l>
+          <l>כמו נרות קטנים ורחוקים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לאור היום אתה הוזה מרפסת</l>
+          <l>ובה דולגות רגליך הקטנות.</l>
+          <l>מחשבתך נתפסת, לא נתפסת,</l>
+          <l>הן ילדותך חמקה כמו אלף שנות.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה ששם היה, ראית,</l>
+          <l>בעיניו של ילד,</l>
+          <l>מה ששם נשמת, </l>
+          <l>לא ישוב לעד.</l>
+          <l>כול אשר היה אז,</l>
+          <l>אלף פלא ועוד פלא,</l>
+          <l>בארגז החול שלך אבד.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הינה נמס השלג שאהבת,</l>
+          <l>הים החליף גוונים וממדים.</l>
+          <l>הרחובות שבליבם חלפת,</l>
+          <l>היו לזיכרונות הנודדים.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אהבתך, גם היא עלתה, בינתיים,</l>
+          <l>פורחת וזוהרת ויפה.</l>
+          <l>לבנת שיער ואפורת עיניים,</l>
+          <l>רק צמתה ממנה נקטפה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מה ששם היה, ראית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

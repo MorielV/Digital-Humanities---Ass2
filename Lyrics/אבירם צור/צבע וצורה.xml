@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צבע וצורה</title>
+        <singer classification="unknown">אבירם צור</singer>
+        <writer>אבירם צור</writer>
+        <composer>אבירם צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צבע וצורה</head>
+        <lg number="1" type="stanza">
+          <l>תכתוב, תנגן, ואז תצייר </l>
+          <l>תזרע, תשקה, עד שיתעורר </l>
+          <l>תרוץ, תאט, תחשוב בהיגיון </l>
+          <l>תצבור, תגבש, כל מחשבה ורעיון </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>דרך ארוכה, ללא פשרות </l>
+          <l>דרך מפותלת, רצופה מהמורות </l>
+          <l>דרך ממוקדת, בִּדיוק למטרה </l>
+          <l>דרך מעוצבת, עם צבע וצורה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אה, אה, אה... </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תחפש, תמצא, אל תתפשר </l>
+          <l>תסביר, תלמד, עד שיסתדר </l>
+          <l>תשחרר, תבקר, אל תיסוג לאחור </l>
+          <l>תשקיע, תזיע, תתחיל לספּור </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>דרך ארוכה, ללא פשרות... </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אה, אה, אה... </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>עם צבע וצורה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

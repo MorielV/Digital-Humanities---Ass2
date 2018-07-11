@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אצייר לי במה</title>
+        <singer classification="unknown">אריאלה עדוי</singer>
+        <writer>אריאלה עדוי</writer>
+        <composer>דניאל מירון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אצייר לי במה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אצייר לי במה, אורות וצבעים</l>
+          <l>קהל מלאכים, כולנו שרים</l>
+          <l>יחד נברח</l>
+          <l>יחד נבכה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ושוב בלילה שכזה...</l>
+          <l>אפרק מחשבות</l>
+          <l>לשורות בודדות</l>
+          <l>לשאלות</l>
+          <l>ושוב בחדר הזה</l>
+          <l>אשלים תמונות</l>
+          <l>לאותן פנטזיות</l>
+          <l>נעימות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אצייר לי במה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ושוב בלילה שכזה...</l>
+          <l>אתפלל לשנות</l>
+          <l>אתפלל להיות</l>
+          <l>אחרת</l>
+          <l>ושוב בלילה שכזה</l>
+          <l>אמשיך לקוות</l>
+          <l>ארקום חלומות</l>
+          <l>למציאות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אצייר לי במה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ושוב בלילה שכזה...</l>
+          <l>אשאר לבדי</l>
+          <l>אבקש את עצמי</l>
+          <l>מי אני</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

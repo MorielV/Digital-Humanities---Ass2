@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משקל הדירה</title>
+        <singer classification="male singer">ארי גורלי</singer>
+        <writer>ארי גורלי</writer>
+        <composer>ארי גורלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משקל הדירה</head>
+        <lg number="1" type="stanza">
+          <l>את משקל הדירה</l>
+          <l>אני נותן לך לקחת,</l>
+          <l>את הטוב את הרע</l>
+          <l>נחלק בשווה.</l>
+          <l>לב שבור, אכזבות</l>
+          <l>תשטפי במקלחת</l>
+          <l>אני יוצא נקי עכשיו.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לילה טוב, בוקר טוב</l>
+          <l>תישארי במקלחת</l>
+          <l>מרחוק, מקרוב</l>
+          <l>אהיה לך כוכב</l>
+          <l>לא אבכה לא אצחק</l>
+          <l>עכשיו את בטח צורחת</l>
+          <l>תשטפי תשטפי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המטבח, לא אשכח</l>
+          <l>כוס, סכין וצלחת,</l>
+          <l>המיטה השתנתה</l>
+          <l>היא נשארת שלך.</l>
+          <l>הסלון, החלון</l>
+          <l>עכשיו את בטח פותחת</l>
+          <l>כבר לא תראי אותי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לילה טוב, בוקר טוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

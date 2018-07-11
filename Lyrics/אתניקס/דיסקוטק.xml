@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דיסקוטק</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דיסקוטק</head>
+        <lg number="1" type="stanza">
+          <l>ובין לבין ולעיתים,</l>
+          <l>אני מטפס על הקירות.</l>
+          <l>חזרתי מהמילואים,</l>
+          <l>שלושים ימים בלי בחורות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קבעתי הלילה עם חברה, לצאת ולשתות על הבר</l>
+          <l>אולי בין כוסית לכוסית היא תגיע</l>
+          <l>אותה האחת שאדע שאיתה אהיה מאושר,</l>
+          <l>לפחות רק ללילה אחד ומרגיע.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אולי זה יקרה הלילה</l>
+          <l>כי מה נותר לי עוד לכבוש את האחת והיחידה.</l>
+          <l>אחרי פיצוצים בעזה יש לי דיסקוטק בראש</l>
+          <l>אני זקוק לאהבה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אחרי חצות היא מגיעה</l>
+          <l>אני בוחר את המילים.</l>
+          <l>האלכוהול צרה צרורה,</l>
+          <l>אני שובר את הכלים:</l>
+          <l>אולי את פנוייה במקרה, חזרתי מחודש קשה</l>
+          <l>היא בזה אליי במבט בוא תרגיע</l>
+          <l>"יפה שעשית צבא ושאתה מחפש אהבה</l>
+          <l>אם תלמד לדבר בנימוס היא תגיע".</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אולי זה יקרה הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

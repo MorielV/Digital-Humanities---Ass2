@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ספינת החלומות</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אבי טולדנו</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ספינת החלומות</head>
+        <lg number="1" type="stanza">
+          <l>וכשכולם טובעים בסערה</l>
+          <l>גלים מכים על שאיפות</l>
+          <l>על אשליות</l>
+          <l>הים גועש</l>
+          <l>אז למה לא זורקים גלגל</l>
+          <l>מי כאן מקצר ת'חבלים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רק אתמול כשהרוחות נשפו</l>
+          <l>וטלטלו את ספינת החלומות</l>
+          <l>מי התרגש</l>
+          <l>הנה עכשיו גלים גוברים</l>
+          <l>כולם נתלים על הקרשים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>וזה כואב, כואב בי</l>
+          <l>מכה בי, הומה בי</l>
+          <l>נותן תחושה של סוף עולם</l>
+          <l>נותן תחושה של סוף אדם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אולי מחר עם שוך הסערה</l>
+          <l>לחוף שקט יגיעו כמה ניצולים</l>
+          <l>אולי מחר</l>
+          <l>מי יאסוף את השברים</l>
+          <l>אם רק יגיעו כמה ניצולים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>וזה כואב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

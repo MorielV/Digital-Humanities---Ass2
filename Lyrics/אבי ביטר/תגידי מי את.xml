@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תגידי מי את</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תגידי מי את</head>
+        <lg number="1" type="stanza">
+          <l>ממבט ראשון נתפסתי</l>
+          <l>לקסם שלך נמשכתי</l>
+          <l>כשצחקת התבלבלתי</l>
+          <l>איך נשרפתי, איך נשרפתי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מיופייך הסתנוורתי</l>
+          <l>איזה קסם, איזה יופי</l>
+          <l>איזה קסם, איזה יופי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תגידי מי את</l>
+          <l>תגידי מה את</l>
+          <l>תגידי לי מאיפה באת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בכל העולם סובבתי</l>
+          <l>יפה כמוך לא פגשתי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אלף נשים יפות היו לי</l>
+          <l>מה שעשית לי הן לא עשו לי</l>
+          <l>איך אני יוצא מהדעת</l>
+          <l>איך אותי את משגעת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

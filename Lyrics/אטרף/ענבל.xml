@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ענבל</title>
+        <singer classification="band">אטרף</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ענבל</head>
+        <lg number="1" type="stanza">
+          <l>רק אחרי שעזבת את הבית</l>
+          <l>נפתרה בליבי החידה</l>
+          <l>רק עכשיו בסופו של הקיץ</l>
+          <l>התברר לי שאת היחידה</l>
+          <l>השבוע נמשך כבר שנתיים</l>
+          <l>ונפשי לא מוצאת מנוחה</l>
+          <l>כי מאז שאנחנו לא שניים</l>
+          <l>העולם הוא תמונה הפוכה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ענבל, כן אני מבולבל</l>
+          <l>לא יכול להמשיך ככה הלאה</l>
+          <l>ענבל, זה מצב לא נסבל</l>
+          <l>את חייבת לחזור עוד הלילה</l>
+          <l>הו ענבל הו ענבל.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את זוכרת איך שרנו ביחד</l>
+          <l>שיר ילדות כמו תפילה עתיקה</l>
+          <l>את קולות נשמתי הפורחת</l>
+          <l>כשחתמת את שפתי בנשיקה</l>
+          <l>את שלי, את שלי זה לנצח</l>
+          <l>לא תוכלי להחליף אהבה</l>
+          <l>ובנתיים הצילו זה רצח!</l>
+          <l>אך גם את לא תדעי עוד שלווה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איך ברוח נשמע קולך</l>
+          <l>פעמון מצלצל את שמך</l>
+          <l>מהדהד בראשי, מהדהד בראשי.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ענבל, כן אני מבולבל</l>
+          <l>לא יכול להמשיך ככה הלאה</l>
+          <l>ענבל, זה מצב לא נסבל</l>
+          <l>את חייבת לחזור עוד הלילה</l>
+          <l>הו ענבל הו ענבל.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>את לא חוזרת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

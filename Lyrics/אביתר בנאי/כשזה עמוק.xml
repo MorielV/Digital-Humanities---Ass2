@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשזה עמוק</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>ענבל פרלמוטר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשזה עמוק</head>
+        <lg number="1" type="stanza">
+          <l>כשזה עמוק עוצר כל העולם</l>
+          <l>ואת קוטפת כוכבים</l>
+          <l>כשזה עמוק</l>
+          <l>את מרגישה שלתמונה</l>
+          <l>נוספו המון צבעים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה מסתתר בתוך שנייה מתוקה</l>
+          <l>כשזה עמוק את יודעת</l>
+          <l>מה שנשאר בסוף זאת רק השתיקה</l>
+          <l>כשהוא רחוק את לבד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשזה עמוק</l>
+          <l>הרוח כמו נושאת אותך למקומות זרים</l>
+          <l>כשזה עמוק</l>
+          <l>שלגים של כעס בתוכך בין רגע נמסים -</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה מסתתר בתוך שנייה מתוקה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וזיכרון אשר דוהה בתוך הלב</l>
+          <l>כואב</l>
+          <l>ובפנים שוב שלג יורד.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

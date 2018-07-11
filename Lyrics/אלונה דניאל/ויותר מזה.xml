@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ויותר מזה</title>
+        <singer classification="female singer">אלונה דניאל</singer>
+        <writer>אלונה דניאל</writer>
+        <composer>אלונה דניאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ויותר מזה</head>
+        <lg number="1" type="stanza">
+          <l>הטלפון נותק החלונות סגורים</l>
+          <l>אתה ניצב בפתח כמו פסל מצרי</l>
+          <l>בחוץ כל כך גשום זה סוף הסתיו</l>
+          <l>לאן אתה לוקח אותי עכשיו?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה יום ההולדת שלך</l>
+          <l>אני המתנה</l>
+          <l>לא צריך בכוח</l>
+          <l>אני מוכנה להיכנע</l>
+          <l>עוצמת את עיני מתביישת לראות</l>
+          <l>איך אתה קושר אותי בסרט ורוד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אתה מחזיק אותי על הקצה ויותר מזה</l>
+          <l>לא אתנגד אם אתה תבקש גם יותר מזה</l>
+          <l>אני אפול לבור הזה אם אתה רוצה</l>
+          <l>אני אותך לא אוכל לאכזב כשאתה רוצה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עכשיו אתה לוקח אותי לרחוב</l>
+          <l>ואיש לא מתקרב</l>
+          <l>וזה עושה לי טוב</l>
+          <l>האם אני גאה או נבוכה?</l>
+          <l>עלי מקועקעת חותמת שלך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אתה מחזיק אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

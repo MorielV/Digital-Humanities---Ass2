@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמצע הקיץ</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמצע הקיץ</head>
+        <lg number="1" type="stanza">
+          <l>אמצע הקיץ בעצם ימי מדבר</l>
+          <l>מי במרפסת מי אבטיח גדול</l>
+          <l>באמצע השיר שנתקע</l>
+          <l>ילדה עירומה מזיעה ונפחדת נורא</l>
+          <l>ילדת סוכריה על מקל מי מבצע בה את זממה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ומחר תחפשו אותה היא לא תהיה</l>
+          <l>היא נוסעת איתי לעולם אחר, אהה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נשחה על החול הכחול נלך על הים</l>
+          <l>נלקט את הזפת בחוף נזפת איזה גג</l>
+          <l>נגור מתחתיו אני והילדה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ומחר תחפשו אותה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

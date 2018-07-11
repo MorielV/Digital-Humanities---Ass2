@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ערב מול הגלעד 2</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ערב מול הגלעד</head>
+        <lg number="1" type="stanza">
+          <l>האילנות כל כך כבדים,</l>
+          <l>כופף הפרי את הבדים,</l>
+          <l>זו השעה המרגיעה,</l>
+          <l>בה נרדמים הילדים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל הבקעה מן הגלעד</l>
+          <l>טלה שחור ורך ירד,</l>
+          <l>כבשה פועה בוכה בדיר -</l>
+          <l>זה בנה הקט אשר אבד.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ישוב טלה אל חיק האם,</l>
+          <l>ישכב בדיר וירדם</l>
+          <l>והכבשה תישק אותו</l>
+          <l>והיא תקרא אותו בשם.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נסתר הליל בין הבדים</l>
+          <l>והנביא הגלעדי</l>
+          <l>יורד דומם אל הבקעה</l>
+          <l>לחזות בשנת הילדים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ישוב טלה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

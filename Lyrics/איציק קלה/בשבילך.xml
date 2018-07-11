@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בשבילך 5</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>מוטי אוחיון</writer>
+        <composer>מוטי אוחיון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בשבילך</head>
+        <lg number="1" type="stanza">
+          <l>כיף להתעורר איתך בבוקר</l>
+          <l>לשתות את הקפה החם </l>
+          <l>כל יום אומרת לי אתה האושר</l>
+          <l>את לי אהבת חיי </l>
+          <l>הנה אלוקים זה לי הגיע</l>
+          <l>האושר האמיתי </l>
+          <l>תודה לך אומר ולך מבטיח</l>
+          <l>גן עדן אמיתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הסתכלי עכשיו לשמים</l>
+          <l>את חוצה את ליבך לשניים</l>
+          <l>בשבילי בשבילך </l>
+          <l>אתן את מה שיש </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את נותנת את כל מה שחלמתי</l>
+          <l>ולך מגיע את הכל</l>
+          <l>מזל שאותך פגשתי</l>
+          <l>זהו את שלי היום</l>
+          <l>הנה אלוקים זה לי הגיע</l>
+          <l>האושר האמיתי</l>
+          <l>תודה לך אומר ולך מבטיח</l>
+          <l>גן עדן אמיתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הסתכלי עכשיו לשמים</l>
+          <l>את חוצה את ליבך לשניים</l>
+          <l>בשבילי בשבילך </l>
+          <l>אתן את מה שיש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

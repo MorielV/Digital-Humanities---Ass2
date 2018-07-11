@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פסק זמן</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פסק זמן</head>
+        <lg number="1" type="stanza">
+          <l>לקחת פסק זמן ולא לחשוב</l>
+          <l>לשבת מול הים ולא לדאוג</l>
+          <l>לתת לראש לנוח מהפיצוצים</l>
+          <l>לתת ללב לנוח מהלחצים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני יודע שזה לא הזמן</l>
+          <l>בעצם גם אני עוד לא מוכן</l>
+          <l>אבל הנשמה רוצה קצת מנוחה</l>
+          <l>לתפוס אויר בשביל לחזור לעבודה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אולי זה רק משבר קטן וזה חולף</l>
+          <l>אולי פשוט אני נהייתי קצת עייף</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לקחת פסק זמן ולא לחשוב</l>
+          <l>לשבת מול הים ולא לדאוג</l>
+          <l>לתת לראש לנוח מהפיצוצים</l>
+          <l>לתת ללב לנוח מהלחצים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אולי זה רק משבר קטן וזה חולף</l>
+          <l>אולי פשוט אני נהייתי קצת עייף</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לקחת פסק זמן ולא לחשוב</l>
+          <l>לשבת מול הים ולא לדאוג</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שפה זרה</title>
+        <singer classification="unknown">איה כורם</singer>
+        <writer>איה כורם</writer>
+        <composer>איה כורם</composer>
+        <album>שפה זרה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שפה זרה</head>
+        <lg number="1" type="stanza">
+          <l>פריז כל כך יפה בזמן הזה של השנה</l>
+          <l>שנינו מטיילים לא בסמטאות צרות</l>
+          <l>נעצור לשתות כוס יין במסעדה קטנה</l>
+          <l>נשב לנוח להביט בנהר ובסירות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמו תיירים ברומא, ליד המזרקה</l>
+          <l>אני אזרוק מטבע ואביע משאלה</l>
+          <l>אם כל מה שאני הרי רוצה זאת נשיקה</l>
+          <l>אז לא אכפת לי לשלם לירטה בשבילה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>דבר אלי שפה זרה, כי עברית אני לא קולטת</l>
+          <l>תלחש מילים יפות שאינני מבינה</l>
+          <l>וכמה שיותר רחוק, כי רק ככה אני מרוצה</l>
+          <l>אהובי היחיד, הבלתי נמצא</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שמיים נמתחים מעל צריחים ומרפסות</l>
+          <l>אני, אתה ואמסטרדם, כולם מעורבבים</l>
+          <l>אתה תגיד "אני אוהבת אותך" אחרי כמה כוסות</l>
+          <l>"אז בואי ניפרד ולא נהיה יותר קרובים"</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>דבר אלי שפה זרה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>וזה יכול להיות בלונדון, יכול להיות יפן</l>
+          <l>לא נתראה כמעט, או לא נתראה בכלל</l>
+          <l>להיות נזיר טיבטי או להיות מרמת גן</l>
+          <l>משאירה מאחורי אהוב בכל נמל</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>דבר אלי שפה זרה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

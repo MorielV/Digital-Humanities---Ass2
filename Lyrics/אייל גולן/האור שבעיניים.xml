@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האור שבעיניים</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>ירון כהן</writer>
+        <composer>אקורדים</composer>
+        <album>ואני קורא לך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האור שבעיניים</head>
+        <lg number="1" type="stanza">
+          <l>את חושבת שאני מוזר ועצבני</l>
+          <l>ואומרת שאני לגמרי לא אני</l>
+          <l>יכול להיות שזה בגלל האהבה</l>
+          <l>מה היא עושה לנשמה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את האור שבעיניים את חיוך עד השמיים</l>
+          <l>הלב בוכה מרוב שאת יפה</l>
+          <l>את מאירה כשמש את החלום מאמש</l>
+          <l>כמה שאותי את מדליקה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך, שאת נוגעת בי אני אדם אחר</l>
+          <l>שאת איתי אני אוהב אותך יותר</l>
+          <l>את בשלך, לא מבינה, זו אהבה</l>
+          <l>את, יודעת כמה זה קשה להתאהב</l>
+          <l>את כל הכוח רק ממך אני שואב</l>
+          <l>את בשלך לא מבינה זו אהבה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בחלון ביתך עכשיו כבו כל האורות</l>
+          <l>וחשבתי שאוכל אלייך לעלות</l>
+          <l>קטפתי פרח בצבעי האהבה</l>
+          <l>אמרו שאת כבר ישנה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את האור שבעיניים את חיוך עד השמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק לעוד דקה</title>
+        <singer classification="female singer">איגי וקסמן</singer>
+        <writer>איגי וקסמן</writer>
+        <composer>שרון הולצמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק לעוד דקה</head>
+        <lg number="1" type="stanza">
+          <l>עם תחושה של כאב, גם נפשי וגם פיזי</l>
+          <l>בלי שקרים רק תאהב - כולה שלו</l>
+          <l>בלי דימוי חיצוני, עירומה לצידו</l>
+          <l>בלי שינוי קיצוני תקשט שנתו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הכל היה כל כך יפה</l>
+          <l>אני הייתי מאושרת בשבילם</l>
+          <l>חכה רק עוד רגע, תחשוב שנייה</l>
+          <l>היא פה מחכה לך</l>
+          <l>תיקח אותה ותאהב אותה</l>
+          <l>רק לעוד דקה</l>
+          <l>רק לעוד דקה אחת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלי שכרות, עם פכחות תנווט את חייה</l>
+          <l>ילקק כפותיה ועורג עליה</l>
+          <l>הוא יקום וילך היא תבין שנגמר</l>
+          <l>תבלע דמעה ותרגיש כאב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הכל היה כל כך יפה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

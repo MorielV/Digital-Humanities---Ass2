@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חולת פרסים</title>
+        <singer classification="unknown">אפרת רייטן</singer>
+        <writer>אהוד מנור</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חולת פרסים</head>
+        <lg number="1" type="stanza">
+          <l>בלונה פארק הכי מקסים</l>
+          <l>אני אוספת לי פרסים</l>
+          <l>דובון וזברה עם פסים</l>
+          <l>וקנגרו עם שני כיסים</l>
+          <l>אני זורקת טבעות</l>
+          <l>שמתלבשות בלי בעיות</l>
+          <l>על משחקים והפתעות וסוכריות ענקיות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשיש פרסים אני פורחת</l>
+          <l>כשיש פרסים אני צורחת משמחה</l>
+          <l>בלונה פארק בלונה פארק - אני תמיד זוכה</l>
+          <l>בלונה פארק בלונה פארק - אני תמיד זוכה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלי לכוון אני יורה</l>
+          <l>קולעת בול למטרה</l>
+          <l>ברווז ברווז כל השורה</l>
+          <l>לא מבינה איך זה קרה</l>
+          <l>בלונה פארק הכי מקסים יש רכבות יש מטוסים</l>
+          <l>אבל אותי צריך לשים רק בדוכן עם הפרסים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשיש פרסים אני פורחת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

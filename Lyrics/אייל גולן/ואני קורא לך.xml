@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ואני קורא לך</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>ואני קורא לך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ואני קורא לך</head>
+        <lg number="1" type="stanza">
+          <l>השמיים לא בישרו על סערה</l>
+          <l>גם הים היה רגוע ושקט</l>
+          <l>כשפגשתי בך לראשונה</l>
+          <l>השתנו חיי ללא ספק</l>
+          <l>הציפור שעפה נעצרה</l>
+          <l>נעתקה לרגע נשימה</l>
+          <l>כשפגשתי בך לראשונה</l>
+          <l>יום שבו הפסיקה מלחמה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואני קורא לך אל תלכי לי</l>
+          <l>בגרוני עייף ליבי מותש</l>
+          <l>מעל העיר שלנו קול של אלוהים</l>
+          <l>עד שבאתי ומצאתי אותך אהובתי</l>
+          <l>ואני קורא לך אל תלכי לי</l>
+          <l>גם השמש לא שווה כשאת לא כאן</l>
+          <l>מעל הים שלנו רוחות ושדים</l>
+          <l>עד שבאתי ומצאתי אותך אהובתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחבק אותך חזק בחלומות</l>
+          <l>בחיים את לידי קרוב ללב</l>
+          <l>כשפגשתי בך לראשונה</l>
+          <l>השתנו בי גם שמחה וגם כאב.</l>
+          <l>והרוח תפסק לה בקרוב</l>
+          <l>אנשים גם ינשמו אז לרווחה</l>
+          <l>ונחלוק ביחד בכי צחוק,</l>
+          <l>רעש שקט עצב ושמחה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואני קורא לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

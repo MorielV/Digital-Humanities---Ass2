@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ביקור חטוף</title>
+        <singer classification="male singer">ארז הלוי</singer>
+        <writer>ארז הלוי</writer>
+        <composer>ארז הלוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ביקור חטוף</head>
+        <lg number="1" type="stanza">
+          <l>היא באה אלי לביקור חטוף עם אור ראשון </l>
+          <l>אחרי טיול מפרך שעשתה בסיני בג'יפ הלבן </l>
+          <l>זה עשרים שנה לא התראינו מאז אותו לילה סוער </l>
+          <l>מה את אומרת לווני לשלום </l>
+          <l>מה אתה אומר הכניסיני תחת כנפך </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היא שבה אלי ממסע רוחני בארץ טרופה </l>
+          <l>קולות וברקים ערפל סמיך ורוח הומה </l>
+          <l>זה שנתיים מאז לא פגשתי אותה בעיר הגדולה </l>
+          <l>מה את אומרת שכון בי לעולם </l>
+          <l>מה אתה אומר הריני במראייך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא הגישה לו בושם ריחני ונודף לרום מעלה </l>
+          <l>מור והדס קינמון מתוק וקליפת לבונה </l>
+          <l>זה חודשיים מאז לא קיבלתי איתות מדויק על הצג </l>
+          <l>מה את אומרת לווני לשלום </l>
+          <l>מה אתה אומר הראיני במראייך </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שניפגש בצפון בשבוע הבא לראש חודש סיון </l>
+          <l>בהדליקי את הנר בענני ענן </l>
+          <l>זה יומיים מאז לא שמעתי ציפור מצפצפת בהר </l>
+          <l>מה את אומרת לווני לשלום </l>
+          <l>מה אתה אומר הכניסיני תחת כנפך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

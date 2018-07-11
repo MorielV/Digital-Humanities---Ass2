@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מרגע לרגע</title>
+        <singer classification="unknown">אביהו לנדוור</singer>
+        <writer>אביהו לנדוור</writer>
+        <composer>אביהו לנדוור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מרגע לרגע</head>
+        <lg number="1" type="stanza">
+          <l>עד שהגעת כבר היה שלוש</l>
+          <l>ואת לא ידעת מה עובר לי בראש</l>
+          <l>עליות ירידות נמאס לנסות הזמן לא עובר לי</l>
+          <l>טס ברחובות ואת הולכת לישון</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>סידרתי את הכל פיניתי מקום הכל כבר מוכן</l>
+          <l>ורץ ורץ לנשום קצת אוויר בדרכים</l>
+          <l>למצוא לי עניין</l>
+          <l>לחלק אכזבות נמאס לנסות זה שלך אנ'לא</l>
+          <l>נשאר לנקות זה שאת אומרת יש עוד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תרקוד ת'רגע </l>
+          <l>איך שפתאום לידי הכל מסתבך</l>
+          <l>תרקוד ת'רגע</l>
+          <l>תרקוד ת'רגע מרגע לרגע אין לי אוויר</l>
+          <l>ושאת זה עובר לידי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עד שהגעת כבר היה שלוש</l>
+          <l>יש שאלות באות והולכות</l>
+          <l>נמאס לנסות</l>
+          <l>עליות ירידות לפחות יש פה נוף</l>
+          <l>לא דורך במקום</l>
+          <l>ואת הולכת לישון</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תרקוד ת'רגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

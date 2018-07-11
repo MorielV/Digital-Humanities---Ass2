@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כיוונים נעלמים</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>אילנה אביטל</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כיוונים נעלמים</head>
+        <lg number="1" type="stanza">
+          <l>את שוב יושבת בתוך רכבת</l>
+          <l>סופרת שנים במלכודת</l>
+          <l>כשכל שעה כלואה מדי</l>
+          <l>בתוך התנאי.</l>
+          <l>את מפחדת לצאת מהדרך</l>
+          <l>אל תחנה שנגמרת</l>
+          <l>אל כיוונים נעלמים</l>
+          <l>מהחיים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תשברי את דמותך לשוא</l>
+          <l>לא יחזרו השנים עכשיו</l>
+          <l>הימים מנצחים</l>
+          <l>אין כח בעולם שיצחק לזמן</l>
+          <l>נצח נעלם כשנגמר הים</l>
+          <l>אל תשברי את דמותך לשוא</l>
+          <l>אל תצפי למחר עכשיו</l>
+          <l>הימים נגמרים</l>
+          <l>אסור לך לסכן עוד יום שמסתיים</l>
+          <l>המשיכי במסע, קחי נשימה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה את חושבת כשרוח נושבת</l>
+          <l>על פני מלאך שמנגד</l>
+          <l>כל האמת גלויה פתאום</l>
+          <l>כמו בחלום.</l>
+          <l>בכל סוף של דרך אמת נעצרת</l>
+          <l>כמו קו החול מול המים</l>
+          <l>תני לנפשך לנשום לאט</l>
+          <l>עצרי מעט.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תשברי את דמותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

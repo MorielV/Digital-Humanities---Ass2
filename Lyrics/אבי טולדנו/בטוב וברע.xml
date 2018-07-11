@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בטוב וברע</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אבי טולדנו</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בטוב וברע</head>
+        <lg number="1" type="stanza">
+          <l>בטוב וברע</l>
+          <l>אלה השנים הטובות בחיי</l>
+          <l>ולא אתן לשום דבר </l>
+          <l>שייקח ממני את הזמן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בטוב וברע</l>
+          <l>אלה השנים הטובות בחיי</l>
+          <l>בכל דקה שאת איתי</l>
+          <l>אוהב אותך בכל כוחי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי הדבר ש..</l>
+          <l>לעולם לא</l>
+          <l>יחזור על עצמו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זה הזמן שעבר</l>
+          <l>ולא הספקתי לאומר לך שאני אוהב</l>
+          <l>זה הזמן שעבר</l>
+          <l>ולא הספקתי לאומר לך שאני אוהב אותך</l>
+          <l>אוהב אוהב אוהב</l>
+          <l>אוהב אותך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בטוב וברע </l>
+          <l>אלה השנים הטובות בחיי</l>
+          <l>לאומר עליך לא אוותר</l>
+          <l>ואין דבר חשוב יותר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי הדבר ש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבא אומר</title>
+        <singer classification="male singer">אייל בוחבוט</singer>
+        <writer>מקס גת מור</writer>
+        <composer>מקס גת מור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבא אומר</head>
+        <lg number="1" type="stanza">
+          <l>אמא אמרה לי בערב שיש דברים שקשה לה לומר</l>
+          <l>לפעמים גם בין שני חברים זה לא נשאר אותו הדבר</l>
+          <l>אנשים משתנים היא אמרה לי ושירים לפעמים מסתיימים</l>
+          <l>ואמא ואבא שלי מחר בבוקר נפרדים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל אבא אומר שזה לא משנה</l>
+          <l>שיש סוג של כאב שהוא לא לרופא</l>
+          <l>אבא אומר שזה לא משנה</l>
+          <l>כי ששניים רבים בסוף תמיד יש מישהו שבוכה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני ניסיתי בכח בלילה ניסיתי כל כך לא לבכות</l>
+          <l>ישבתי בחדר בחושך והחזקתי את כל הדמעות</l>
+          <l>ואבא אמר לי בשקט שתמיד הוא יהיה לי חבר</l>
+          <l>וכל שבוע בעשר הוא אותי יבוא לבקר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבל אבא אומר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אבל עכשיו אחרי קצת זמן אני בכלל כבר לא עצוב</l>
+          <l>כי אני יודע שבשבילם אני תמיד אהיה הכי הכי חשוב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

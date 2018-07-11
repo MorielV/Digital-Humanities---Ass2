@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הבית של פיסטוק 2</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>לאה נאור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הבית של פיסטוק</head>
+        <lg number="1" type="stanza">
+          <l>הבית של פיסטוק הוא בית מוזר,</l>
+          <l>הולכים קצת ימינה עוברים את ההר,</l>
+          <l>מעבר לשביל על יד הענן,</l>
+          <l>יש בית מוזר ומצחיק וקטן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איזה בית יש לפיסטוק,</l>
+          <l>טיק טוק טיק טוק טיק טוק טיק טוק</l>
+          <l>איזה בית יש לפיסטוק,</l>
+          <l>טיק טוק טיק טוק טיק טוק טיק טוק.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ינשוף על הגג מבלה שם לא רע,</l>
+          <l>ושני קיפודים שגרים במגרה,</l>
+          <l>אוגר בסלון פסנתר בחצר,</l>
+          <l>שירים בכיור ותווים במקרר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איזה בית יש לפיסטוק...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הבית של פיסטוק מלא הפתעות,</l>
+          <l>מכל השעונים שם ברחו השעות,</l>
+          <l>וכל המחוגים שבשעונים,</l>
+          <l>מראים בהחלט על דברים משונים.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>יש סיר עם פנים מחייך לו ושר,</l>
+          <l>צלחת עם אף וספלים מסוכר,</l>
+          <l>ורוח שובב קורא בספרים,</l>
+          <l>ובכל הפינות מתפזרים סיפורים.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>איזה בית יש לפיסטוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

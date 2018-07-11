@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איש עוד לא הכיר אותי</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>אהוד מנור</writer>
+        <composer>מתי כספי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איש עוד לא הכיר אותי</head>
+        <lg number="1" type="stanza">
+          <l>איש עוד לא הכיר אותי</l>
+          <l>כמו שאת הכרת אותי</l>
+          <l>לא הורים, לא חברים</l>
+          <l>אפילו לא אני.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איש עוד לא הסעיר אותי</l>
+          <l>כמו שאת הסערת אותי</l>
+          <l>הצרוף אל טירוף</l>
+          <l>אחד ואין שני.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>באהבה הזאת אין שמץ הגיון</l>
+          <l>כשלתבוסה הכי קשה יש טעם ניצחון.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איש עוד לא הסגיר אותי</l>
+          <l>כמו שאת הסגרת אותי</l>
+          <l>לצללים האפלים</l>
+          <l>של אי הוודאות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>איש עוד לא הפקיר אותי</l>
+          <l>כמו שאת הפקרת אותי</l>
+          <l>בשלווה ללא איבה</l>
+          <l>כאילו בטעות.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>באהבה הזאת אין שמץ הגיון</l>
+          <l>כשלתבוסה הכי קשה יש טעם ניצחון.</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>איש עוד אהב אותי</l>
+          <l>כמו שאת אהבת אותי</l>
+          <l>איש עוד לא עזב אותי</l>
+          <l>כמו שאת עזבת אותי.</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>באהבה הזאת...</l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>איש עוד לא הכיר אותי</l>
+          <l>כמו שאת הכרת אותי</l>
+          <l>איש עוד לא הסעיר אותי</l>
+          <l>כמו שאת הסערת אותי</l>
+          <l>איש עוד לא הפקיר אותי</l>
+          <l>כמו שאת הפקרת אותי</l>
+          <l>איש עוד לא אהב אותי</l>
+          <l>כמו שאת.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

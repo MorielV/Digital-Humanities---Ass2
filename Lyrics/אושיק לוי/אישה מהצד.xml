@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה מהצד</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>אושיק לוי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה מהצד</head>
+        <lg number="1" type="stanza">
+          <l>בבוקר למיטה, קפה עם חלב</l>
+          <l>אחר כך אם תרצה, עיסוי קל לגב</l>
+          <l>אתה ממש נחמד, תוכל תמיד לחזור</l>
+          <l>איך אתה אוהב נס או שחור?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היא לא מספר אחת, אף פעם לא היתה</l>
+          <l>אישה מהצד, לא חדש בשבילה</l>
+          <l>לה לא תוכל למכור מילים של אהבה</l>
+          <l>נותנת מה שיש לה ומה שבא בא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יום יפה בחוץ, הבאתי כבר עיתון</l>
+          <l>יש מים באמבט, יש חלוק בארון</l>
+          <l>אמרו בחדשות שאולי יהיה שרב</l>
+          <l>יש לך שעה, אתה יכול עוד לשכב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היא לא מספר אחת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תמיד כל כך דואגת תמיד כל כך רוצה</l>
+          <l>שיהיה לך טוב, לא רק במיטה</l>
+          <l>תשאיר לי את הכל, האוכל כבר מוכן</l>
+          <l>תבוא אלי מחר, אם יהיה לך זמן</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>היא לא מספר אחת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

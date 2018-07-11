@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לכל אחד יש</title>
+        <singer classification="unknown">אור אדי</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לכל אחד יש</head>
+        <lg number="1" type="stanza">
+          <l>לכל אחד יש ת'אחת שלו</l>
+          <l>שתסגור איתו מעגל</l>
+          <l>לכל אחת יש ת'אחד שלה</l>
+          <l>שיבוא ויפול בגורל</l>
+          <l>כמו בגד לגוף</l>
+          <l>כמו אויר לנשימה</l>
+          <l>ובתוך הטירוף</l>
+          <l>הם מוצאים נחמה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואת הנשמה המתוקה שלי</l>
+          <l>היחידה שמדליקה אותי</l>
+          <l>ואיתך אני כל העולם</l>
+          <l>ואיתך אני כל היקום</l>
+          <l>בלעדייך אני חצי בן אדם</l>
+          <l>בלעדייך אני בעצם כלום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לכל אחד יש ת'חלום שלו</l>
+          <l>שנדמה והנה הוא קרב</l>
+          <l>לכל אחת יש ת'חלום שלה</l>
+          <l>שיבוא ויסעיר את הלב</l>
+          <l>כמו מים לצמא</l>
+          <l>וליאוש התקווה</l>
+          <l>ובים של קרירות</l>
+          <l>יש להם אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואת הנשמה המתוקה שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

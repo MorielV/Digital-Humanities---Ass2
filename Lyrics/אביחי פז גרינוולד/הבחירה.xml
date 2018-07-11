@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הבחירה</title>
+        <singer classification="unknown">אביחי פז גרינוולד</singer>
+        <writer>אביחי פז גרינוולד</writer>
+        <composer>אביחי פז גרינוולד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הבחירה</head>
+        <lg number="1" type="stanza">
+          <l>בתוכי אני לא לבדי</l>
+          <l>יש מלחמה ביני לביני</l>
+          <l>אחד אומר אתה בעצם כזה </l>
+          <l>שני אומר אתה משתנה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל מי לשמוע במי להאמין </l>
+          <l>מגלה עוד פעם שגם בתוכי בפנים </l>
+          <l>יש מאבק בין הטוב לרע </l>
+          <l>ומה שעלי זו הבחירה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קול אחד אומר לי אתה לא מסוגל </l>
+          <l>אני חושב אולי צודק אולי חבל</l>
+          <l>קול שני בתוכי מיד מגיב</l>
+          <l>הוא אותך מטעה אליו אל תקשיב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לפעמים זה כה מטעה</l>
+          <l>אני באמצע בין זה לבין זה</l>
+          <l>אין ברירה תמיד צריך לבדוק</l>
+          <l>מי קרוב אלי ממי אני רחוק</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

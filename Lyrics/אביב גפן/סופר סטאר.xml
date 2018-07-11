@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סופר סטאר</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סופר סטאר</head>
+        <lg number="1" type="stanza">
+          <l>אני יושב לי למעלה בעוד איזה בית מלון</l>
+          <l>רואה אתכם שם למטה, מתים לגמור את היום</l>
+          <l>עולה על עוד טיסת לילה ניו יורק לונדון ניו יורק</l>
+          <l>אתם קניתם את הסבל עשה לי טעם מתוק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני סופר סטאר</l>
+          <l>אני בכותרות</l>
+          <l>אני עושה צרות</l>
+          <l>אני הילד הרע</l>
+          <l>אני הבן זונה</l>
+          <l>אני סופר סטאר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האצטדיון מפוצץ כבר המפיקים מחייכים</l>
+          <l>הלהקה מנגנת ואתם מתעלפים</l>
+          <l>מחבר שני אקורדים אתם קוראים לזה שיר</l>
+          <l>אין שום דבר גאוני בי הכל רק כסף מהיר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני סופר סטאר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

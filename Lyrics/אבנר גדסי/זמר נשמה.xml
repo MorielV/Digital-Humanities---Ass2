@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמר נשמה</title>
+        <singer classification="male singer">אבנר גדסי</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמר נשמה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>צללים שחורים יורדים על פני הערב.</l>
+          <l>הרחק בים שקיעה יפה פי אלף</l>
+          <l>ועוד מעט צריך לצאת לדרך.</l>
+          <l>אני מרגיש יותר מידי עייף.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אולי מוטב היום להיות בבית,</l>
+          <l>לשאוב עידוד וחום בזרועותייך.</l>
+          <l>אני חושב ומתלבש בינתיים.</l>
+          <l>אני מרגיש שלא נשאר לי כיף.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נכון, אני מרגיש נורא עייף.</l>
+          <l>נכון, אני מרגיש שאין לי כיף.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>צללים כהים הקיפו את עינייך.</l>
+          <l>תמתיני עד אשר אשוב אלייך.</l>
+          <l>אני חייב לצאת אל תוך הליל</l>
+          <l>כי זמן ההופעה כבר מתקרב.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>צללים שחורים יורדים על פני הערב.</l>
+          <l>הרחק בים שקיעה יפה פי אלף</l>
+          <l>ועוד מעט צריך לצאת לדרך.</l>
+          <l>אני מרגיש יותר מידי עייף.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>נכון, אני מרגיש נורא עייף,</l>
+          <l>אני מרגיש נורא עייף.</l>
+          <l>נכון, אני מרגיש שאין לי כיף,</l>
+          <l>אני מרגיש שאין לי כיף.</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>קשה לי בכל יום להיסחף</l>
+          <l>לתוך המעגל המטרף,</l>
+          <l>אבל אני אשיר עם כל הלב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

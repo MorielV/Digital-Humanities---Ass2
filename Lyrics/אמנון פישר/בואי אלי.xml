@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי אלי 4</title>
+        <singer classification="male singer">אמנון פישר</singer>
+        <writer>אמנון פישר</writer>
+        <composer>אמנון פישר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי אלי</head>
+        <lg number="1" type="stanza">
+          <l>בואי ביחד נעוף אל על</l>
+          <l>נעוף בכלל</l>
+          <l>נעוף בגלל</l>
+          <l>בואי ביחד נשוט</l>
+          <l>ביחד פשוט</l>
+          <l>ביחד אחד</l>
+          <l>בואי אלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי אלי הלילה ואלמד</l>
+          <l>בואי אלי איילה קלת צעד</l>
+          <l>בואי אלי הלילה אם גם את לבד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואי אלי אם רע לך</l>
+          <l>בואי אלי אם בא לך</l>
+          <l>בואי אלי הלילה</l>
+          <l>בואי אלי</l>
+          <l>בואי אלי כואבת</l>
+          <l>בואי אלי אוהבת</l>
+          <l>אמרי אנ'לא עוזבת אותך לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואי אלי הלילה ואלמד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בואי נשוט ביחד</l>
+          <l>ביחד פשוט</l>
+          <l>ביחד אחד</l>
+          <l>אם את לבד</l>
+          <l>בואי אלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

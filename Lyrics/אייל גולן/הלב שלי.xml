@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלב שלי</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלב שלי</head>
+        <lg number="1" type="stanza">
+          <l>מחפש ולא מוצא מילה </l>
+          <l>להגיד כמה את יקרה לי </l>
+          <l>מביט בך מאושר ולא אומר דבר </l>
+          <l>רק השד יודע מה קרה לי </l>
+          <l>ואולי אני קצת מתבייש </l>
+          <l>כנראה שזה אצלי בגנים </l>
+          <l>רוצה לומר כל כך </l>
+          <l>אני אוהב אותך </l>
+          <l>ולא יכול כי זה חזק ממני </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה לא אני </l>
+          <l>זה רק הלב שלי </l>
+          <l>שמבקש פינה בתוך ליבך </l>
+          <l>זה הלב שמתעתע בי </l>
+          <l>ולא מרפה לרגע בגללך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את וודאי רואה אותי שותק </l>
+          <l>ושומעת איך ליבי קורא לך </l>
+          <l>מבינה הכל יודעת בלי לשאול </l>
+          <l>למולך אני פשוט זורח </l>
+          <l>עם הזמן אלמד להשתנות </l>
+          <l>את ידי אניח בידייך </l>
+          <l>לפתע אשתחרר אבוא ואספר </l>
+          <l>על כל הרגשות שלי אלייך אלייך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה לא אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

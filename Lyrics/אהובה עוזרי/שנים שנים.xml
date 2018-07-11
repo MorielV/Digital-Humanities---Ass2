@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שנים שנים</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שנים שנים</head>
+        <lg number="1" type="stanza">
+          <l>מי ירווה את ליבי</l>
+          <l>את סודך לי אלחש בלב</l>
+          <l>יד חמה תלטף</l>
+          <l>כך נפשי אליך יוצאת</l>
+          <l>אך קח חיי</l>
+          <l>עמוק בלב</l>
+          <l>אחוש אותך לעד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שנים, שנים בתוך ליבי</l>
+          <l>אביב וסתיו דמותך עמי</l>
+          <l>עצב לי בלב</l>
+          <l>על אותם הימים לי שמורים</l>
+          <l>עד יום מותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זכרונות לי בלב אנצור</l>
+          <l>שמך בפי כמו שיר שזור</l>
+          <l>חרש חרש אצעד</l>
+          <l>כך אדע אני סודך</l>
+          <l>אך קח חיי</l>
+          <l>עמוק בלב אדע אתה שם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שנים, שנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

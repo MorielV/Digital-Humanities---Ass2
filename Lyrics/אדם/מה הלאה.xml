@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה הלאה</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>יענקל'ה רוטבליט</writer>
+        <composer>אודי הניס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה הלאה</head>
+        <lg number="1" type="stanza">
+          <l>היית צריך לראות אותי אז</l>
+          <l>הייתי ילד פלא</l>
+          <l>מלאך הטוב בידי אחז</l>
+          <l>עטוף בתלתלי הפז</l>
+          <l>ואנשים עמדו אז בתור להשיג כרטיסים</l>
+          <l>בשוק השחור</l>
+          <l>לשמוע אותי מנגן בכינור</l>
+          <l>כן, ילד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>צריך היית לראות אותי אז</l>
+          <l>שכל רואיי קינאו בי</l>
+          <l>בכל מקום בו שמי הוכרז</l>
+          <l>רצו אותי ללא מכרז</l>
+          <l>כן, היה לי יותר מחלקי בעוגה</l>
+          <l>ואמרו שכישוף יש אצלי במגע</l>
+          <l>תקוות לרפא כל מיני דאגה תלו בי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה לעשות, תגיד לי?</l>
+          <l>הגלגל מסתובב, העולם הוא במה</l>
+          <l>ובלורית הזהב גם היא נעלמה</l>
+          <l>ואני בן אדם תלוי על בלימה</l>
+          <l>מתחתי התהום ובליבי האימה</l>
+          <l>מה הלאה?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היית צריך לראות אותי אז, כשמזלי שיחק לי</l>
+          <l>איך כוכבי אורו גנז כמו חלום נמוג וגז</l>
+          <l>ואותם, שחשבתי תמיד לידידיי</l>
+          <l>נעלמו, כל אותם שאכלו מידיי</l>
+          <l>נעלם הכינור ופקעו מיתריי וריק לי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מה לעשות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

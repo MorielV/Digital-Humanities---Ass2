@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טוב שבאתם</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טוב שבאתם</head>
+        <lg number="1" type="stanza">
+          <l>אבי היה עולה חדש, </l>
+          <l>וגם אימי נישאה על גל. </l>
+          <l>וגם ליבם היה נרגש, </l>
+          <l>וגם להם היה לא קל. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הם לא עלו אל המוכן, </l>
+          <l>ולא מצאו כאן עבודה, </l>
+          <l>אבל אני נולדתי כאן, </l>
+          <l>על כן להם אני מודה: </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בא לי להגיד: כמה טוב שבאתם. </l>
+          <l>כך היה תמיד. כמה טוב שבאתם. </l>
+          <l>יש כאן עוד עתיד, בואו כי ברוכים אתם בבואכם. </l>
+          <l>הורה כאן לרקוד ולשתות לחיים, </l>
+          <l>עוד פעם, עוד ועוד, מה טוב? ומה נעים? </l>
+          <l>נשיר כל הכבוד והבאנו שלום, שלום עליכם. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יאמרו לך: חכה, תקשיב. </l>
+          <l>יהיה בסדר, תן לחיות. </l>
+          <l>אך אם ויכוח יש, או ריב </l>
+          <l>הוא בין אחים ואחיות. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אתה עולה, לא עוד גולה, </l>
+          <l>הנה השער הנפתח. </l>
+          <l>תוכל לומר בפה מלא: </l>
+          <l>ביתי הוא כאן, אני שייך. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בא לי להגיד כמה טוב שבאתם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

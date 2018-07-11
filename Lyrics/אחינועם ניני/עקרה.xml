@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עקרה</title>
+        <singer classification="female singer">אחינועם ניני</singer>
+        <writer>רחל</writer>
+        <composer>אחינועם ניני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עקרה</head>
+        <lg number="1" type="stanza">
+          <l>בן לו היה לי</l>
+          <l>ילד קטן</l>
+          <l>שחור תלתלים ונבון</l>
+          <l>לאחוז בידו ולפסוע לאט</l>
+          <l>בשבילי הגן</l>
+          <l>ילד קטן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אורי אקרא לו</l>
+          <l>אורי שלי</l>
+          <l>רך וצלול הוא השם הקצר</l>
+          <l>רסיס נהרה</l>
+          <l>לילדי השחרחר</l>
+          <l>אורי אקרא לו</l>
+          <l>אורי אקרא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד אתמרמר כרחל (האם)</l>
+          <l>עוד אתפלל כחנה בשילה</l>
+          <l>(עוד) אחכה לו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

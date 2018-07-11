@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק הירח</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>שמרית אור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק הירח</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>רק הירח זורח, </l>
+          <l>רק הירח זורח, </l>
+          <l>רק הירח מביט לו </l>
+          <l>על העולם. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אין ברחובות אדם. </l>
+          <l>כל הפנסים כבר לבדם. </l>
+          <l>והננסים, </l>
+          <l>שם ביערות </l>
+          <l>נמים להם עם כל האוצרות. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין ברחובות אדם. </l>
+          <l>קול האורלוגין גם הוא נדם, </l>
+          <l>והמחוגים </l>
+          <l>עם כיבוי אורות, </l>
+          <l>נחים לרגע קט בין הספרות. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק הירח זורח...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אין ברחובות אדם. </l>
+          <l>על הרקפות הטל נרדם. </l>
+          <l>והאנפות, </l>
+          <l>שם באגמים </l>
+          <l>חולמות על פני המים החמים. </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אין ברחובות אדם. </l>
+          <l>כל הפנסים כבר לבדם. </l>
+          <l>והננסים </l>
+          <l>שם ביערות </l>
+          <l>נמים להם עם כל האוצרות. </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>רק הירח זורח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

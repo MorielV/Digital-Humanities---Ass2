@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילדה של סתיו אחד 2</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>רותי בן יהודה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילדה של סתיו אחד</head>
+        <lg number="1" type="stanza">
+          <l>הפנים הרכות שפגשתי בדרך</l>
+          <l>הבעה כאובה מול עולם כה אבוד</l>
+          <l>את נולדת שם בקצה השלכת</l>
+          <l>בימים שהכול היה כה סתמי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ילדה של יום אחד</l>
+          <l>ילדה של צליל אחד</l>
+          <l>אותך אני פורט</l>
+          <l>אל תוך שירת חיי</l>
+          <l>ילדה של אף אחד</l>
+          <l>ילדה של סתיו אחד</l>
+          <l>אותך אני רואה</l>
+          <l>כמו שביל בכף היד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הרחוב הקטן ששיחקת בו לעת ערב</l>
+          <l>זוכר לך תמיד שובבות עליזה</l>
+          <l>את אמרת לי אולי אהיה מאושרת</l>
+          <l>שהקסם יחזור כמו פרפר אל האור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ילדה של יום אחד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הבית ההוא שאהבתי פעם</l>
+          <l>מתסיס בי הרבה זכרונות אהבה</l>
+          <l>את לקחת אותי אז לארץ אחרת</l>
+          <l>שרק ילדים מבינים את פישרם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ילדה של יום אחד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

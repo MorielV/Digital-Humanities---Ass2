@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מסע חייו הביתה</title>
+        <singer classification="unknown">אומני ישראל</singer>
+        <writer>אסף ניסים</writer>
+        <composer>אסף ניסים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מסע חייו הביתה</head>
+        <lg number="1" type="stanza">
+          <l>עד מתי נמשיך לספור ת'ימים </l>
+          <l>עד מתי יישק הסתיו לשלכת </l>
+          <l>בדמעות לוחצות געגועים </l>
+          <l>עוד שנה עברה וחולפת </l>
+          <l>ורק אהבה לתקווה שוב נושקת </l>
+          <l>בני שלי חזור כבר עכשיו </l>
+          <l>ורק קולך הפך לנחל אכזב. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שובה הביתה שובה הביתה </l>
+          <l>אל חברים אל הים </l>
+          <l>אל שמש של אהבה </l>
+          <l>שובה הביתה שוב כבר הביתה </l>
+          <l>אל השלום, התקווה </l>
+          <l>אל אמא שמחכה. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זכרונות ילדות מתוקים </l>
+          <l>מסתתרים להם בין דמעותיך </l>
+          <l>מתוך אפלת הימים </l>
+          <l>לא תשקוט המדינה בלעדיך </l>
+          <l>בכפרים חשוכים שלא השכיח הזמן </l>
+          <l>ודאי שומע אתה קול תפילה </l>
+          <l>אמא זועקת בלב לשובך. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שובה הביתה... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אהיה חזק הסתכל למרחק </l>
+          <l>אורות החופש אליך קרבים </l>
+          <l>עוד מעט עוד מעט </l>
+          <l>יגמר לו הקרב </l>
+          <l>ותשוב לימים אחרים </l>
+          <l>עם המון חברים שלך מחכים. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שובה הביתה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

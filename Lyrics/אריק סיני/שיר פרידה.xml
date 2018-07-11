@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר פרידה</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>שלמה ארצי</writer>
+        <composer>שלמה ארצי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר פרידה</head>
+        <lg number="1" type="stanza">
+          <l>זה שיר פרידה,</l>
+          <l>אז בואי רק אמרי שלום.</l>
+          <l>אני אומר תודה</l>
+          <l>ואת יודעת שחלום,</l>
+          <l>סופו להתגשם...</l>
+          <l>אני אומר תודה</l>
+          <l>ואחר כך נושק.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמו חופים שים עוזב,</l>
+          <l>אני עובר עכשיו ממך.</l>
+          <l>בין דמעות ובין כאב,</l>
+          <l>אני הולך אני...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה שיר פרידות</l>
+          <l>תמיד אומרים בין השורות,</l>
+          <l>שכמו חידות,</l>
+          <l>פרידות גם הן אינן פתורות.</l>
+          <l>אין בי מנוחה,</l>
+          <l>רוחך שבי</l>
+          <l>גם היא בוכה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמו חופים שים עוזב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

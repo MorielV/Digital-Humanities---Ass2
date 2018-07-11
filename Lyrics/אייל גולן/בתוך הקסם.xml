@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בתוך הקסם</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>רמי לב</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בתוך הקסם</head>
+        <lg number="1" type="stanza">
+          <l>מתוך ערפל את חוזרת</l>
+          <l>אל תוך נשמתי הבוערת</l>
+          <l>ואת יפה שזה כואב</l>
+          <l>את האחת הכי שלי בלב.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ושוב מסתכל בעינייך</l>
+          <l>פני משתקפות בפנייך</l>
+          <l>ושום דבר לא השתנה</l>
+          <l>את בחיי תמיד הראשונה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש בעולם ים אהבה</l>
+          <l>אך אין אישה כמוך אני נשבע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלוהים, כשבך אני נוגע</l>
+          <l>אלוהים, הלב שלי יודע</l>
+          <l>שאני בתוך הקסם,</l>
+          <l>מרחף ללא מילים.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ראיתי צבעים בעיניים</l>
+          <l>אך לך יש כחול של שמיים[</l>
+          <l>שמסובב לי את הלב</l>
+          <l>ואת יפה, יפה שזה כואב</l>
+          <l>יש בעולם ים אהבה</l>
+          <l>אך אין אישה כמוך אני נשבע</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אלוהים, כשבך אני נוגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

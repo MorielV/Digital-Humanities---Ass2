@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אילולא</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אילולא</head>
+        <lg number="1" type="stanza">
+          <l>אילולא היית לי כמו קול משמיים</l>
+          <l>אילולא הרמת את ידך לברכה</l>
+          <l>אולי הייתי מנסה לחפש לך מחסה</l>
+          <l>חום וידיים</l>
+          <l>כסת להניח ראש על גדות מעיין קדוש</l>
+          <l>הייתי נותן לך הכל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את המילה בלי הכאב</l>
+          <l>סוף לדמעות שלך</l>
+          <l>וגם אם האהבה היא רק מילה</l>
+          <l>היא סוד הכאב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אילולא הייתי אפר לרגליך</l>
+          <l>אילולא הייתי שבוי בדמותך</l>
+          <l>אולי הייתי מחכה, לא הייתי משקר</l>
+          <l>הגבול בשמיים</l>
+          <l>הייתי כמו באר צלולה שמחכה למשאלה</l>
+          <l>הייתי נותן לך הכל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את המילה בלי הכאב</l>
+          <l>סוף לדמעות שלך</l>
+          <l>וגם אם האהבה היא רק מילה</l>
+          <l>היא סוד הכאב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשאת בוכה את לא יפה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשאת בוכה את לא יפה</head>
+        <lg number="1" type="stanza">
+          <l>בוקר - לחי יבשה</l>
+          <l>שמש - כמו ביצה קשה</l>
+          <l>רוח - למה את צריכה</l>
+          <l>למה - למה את בוכה?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשאת בוכה את לא יפה</l>
+          <l>את לא יפה</l>
+          <l>די לך, הו די לך</l>
+          <l>ילדה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לילה - הנה הוא כבר בא</l>
+          <l>די לך - אין לך שום סיבה</l>
+          <l>שקט - לחם עם ריבה</l>
+          <l>למה - למה את בוכה?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשאת בוכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

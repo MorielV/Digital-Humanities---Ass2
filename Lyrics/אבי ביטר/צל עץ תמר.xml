@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צל עץ תמר</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אפריים וינשטיין</writer>
+        <composer>חיים קוברין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צל עץ תמר</head>
+        <lg number="1" type="stanza">
+          <l>צל עץ תמר ואור ירח</l>
+          <l>ומנגינת כינור תקסים את הלב</l>
+          <l>עולה הצליל רועד בוקע</l>
+          <l>ממיתרים נשפך כאב</l>
+          <l>נגן כינור נגן שירך</l>
+          <l>מה רב החושך והשקט סביב</l>
+          <l>מנגינותיך ישכיחו את סיבלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נגן נגנה לקול צלילך מה נעים הוא החלום</l>
+          <l>נגן נגנה ישמע ירח את קולי שם במרום</l>
+          <l>הוי למה למה בשפתייך הקסמתני</l>
+          <l>ליבי כבשת ועזבתני</l>
+          <l>אוהב כואב וסובל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נדם כינור</l>
+          <l>נחבא ירח</l>
+          <l>ובדממה הד מנגינה</l>
+          <l>עוד נשמע</l>
+          <l>על מה ולמה אל יודע</l>
+          <l>על מה עולם אכזר ורע</l>
+          <l>מערפילי עפר תופיע</l>
+          <l>דמות אהובה תווי פנים מוכרים</l>
+          <l>כינור ישמיע</l>
+          <l>שי זכרונות כה נעימים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נגן נגנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

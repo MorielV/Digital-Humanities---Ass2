@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תמונות של זכרונות</title>
+        <singer classification="male singer">איתן מסורי</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>איתן מסורי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תמונות של זכרונות</head>
+        <lg number="1" type="stanza">
+          <l>אני עובר על פני הזכרונות</l>
+          <l>ומדפדף בתוך אלבום תמונות.</l>
+          <l>החוויות שנית עולות.</l>
+          <l>אני זוכר: היו לילות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני חוזר עם כל הזכרונות.</l>
+          <l>היו שירים יפים ומנגינות.</l>
+          <l>היו בנות, היו בנים.</l>
+          <l>חיוך תמים על הפנים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תמונות של זכרונות </l>
+          <l>עולות מכל הכיוונים.</l>
+          <l>אני מביט לי בתמונות.</l>
+          <l>קשה לזכור את הפנים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה לא יחזור, זה לא יחזור,</l>
+          <l>מזמן חלפו אותן שנים.</l>
+          <l>תמונות של זכרונות</l>
+          <l>עולות מכל הכיוונים.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני נודד על פני הזכרונות.</l>
+          <l>היו כאלה אהבות קטנות.</l>
+          <l>רונית שלי, לאן הלכת?</l>
+          <l>את נעורי איתך לקחת.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני עובר תמונה אחר תמונה</l>
+          <l>ומחייך לראות את האופנה.</l>
+          <l>שיער ארוך וג'ינס ישן.</l>
+          <l>כל זה עבר מזמן, מזמן.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>תמונות של זכרונות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

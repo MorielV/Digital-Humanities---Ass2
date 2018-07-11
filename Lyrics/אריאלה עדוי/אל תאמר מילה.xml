@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תאמר מילה</title>
+        <singer classification="unknown">אריאלה עדוי</singer>
+        <writer>אריאלה עדוי</writer>
+        <composer>דניאל קורן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תאמר מילה</head>
+        <lg number="1" type="stanza">
+          <l>אל תאמר מילה תשב בשקט</l>
+          <l>פשוט תשתוק תנשום עמוק</l>
+          <l>תביט, תפנים, או תעמיד פנים</l>
+          <l>של ילד תמים, שרואה ומבין</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גם אם זה בוער, צורב בבטן,</l>
+          <l>קורא לך, צועק בקול </l>
+          <l>תקשיב ילדון, לא להכל יש פתרון</l>
+          <l>כן, גם הגאון הולך גם הוא לישון</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לפעמים רק לפעמים</l>
+          <l>שתיקה יפה לחכמים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עולם מלא בכלום אישה צועקת</l>
+          <l>ואיש אטום ילדה מאוהבת</l>
+          <l>ושוב אתה אומר מילה ועוד מילה</l>
+          <l>ושוב אתה ואין לך תשובה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לפעמים רק לפעמים</l>
+          <l>שתיקה יפה לחכמים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

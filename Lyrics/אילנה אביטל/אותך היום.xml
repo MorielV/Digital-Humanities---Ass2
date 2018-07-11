@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אותך היום</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>שייקה פייקוב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אותך היום</head>
+        <lg number="1" type="stanza">
+          <l>אותך</l>
+          <l>אני זוכרת אהובי שלי מאז</l>
+          <l>אותך</l>
+          <l>אני חולמת יום וליל</l>
+          <l>אני רוצה אותך</l>
+          <l>אהבתי שלך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אותך</l>
+          <l>איך יד ביד</l>
+          <l>וגוף אל גוף היינו אז</l>
+          <l>אותך</l>
+          <l>אני חולמת יום וליל</l>
+          <l>אני רוצה אותך</l>
+          <l>קח אותי איתך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אותך אני זוכרת יום וליל</l>
+          <l>והיו, היו נעורים</l>
+          <l>היו סוערים </l>
+          <l>היו לוהטים</l>
+          <l>כמו אש כמו</l>
+          <l>still love you baby </l>
+          <l>אותך אני זוכרת יום וליל</l>
+          <l>והיום, אתה כמו חלום</l>
+          <l>אתה כמו מלאך</l>
+          <l>ששר לי אותך</l>
+          <l>o baby</l>
+          <l>אותך...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אותך גם היום</l>
+          <l>אני רוצה רק לאהוב אותך</l>
+          <l>אני חולמת יום וליל </l>
+          <l>אני רוצה אותך</l>
+          <l>עדיין כאן מחכה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אותך שואל הלב</l>
+          <l>ומצפה רק שוב לראות אותך</l>
+          <l>אני חולמת יום וליל</l>
+          <l>אני רוצה אותך</l>
+          <l>כאן רק בשבילך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אותך אני זוכרת יום וליל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

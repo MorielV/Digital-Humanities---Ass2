@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבות ובנים</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>אביתר בנאי</composer>
+        <album>אביתר בנאי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבות ובנים</head>
+        <lg number="1" type="stanza">
+          <l>תיכף אני ארצה שתלכו מפה</l>
+          <l>שאוכל כבר ליפול בשקט</l>
+          <l>שלא תראו את הפצעים נפערים</l>
+          <l>שנשאר לבד ונשבר לאט</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תוותרו כבר ותלכו מפה</l>
+          <l>שאוכל כבר לצעוק בשקט</l>
+          <l>בלי המבט הקרוע שלכם</l>
+          <l>שנשאר לבד ונשבר לאט</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אבות ובנים סבתות ונכדים</l>
+          <l>הלב של אמא מתפוצץ</l>
+          <l>מי אשם לה מי אשם לי</l>
+          <l>מי יפרד ממי</l>
+          <l>אבא בוכה על בן בוכה על אבא</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תיכף אני ארצה שתלכו מפה</l>
+          <l>לא אפחד ליפול לא אפחד לגדול</l>
+          <l>לטבוע או לשוט לחיות או למות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אבות ובנים סבתות ונכדים</l>
+          <l>הלב של אמא מתפוצץ</l>
+          <l>מי אשם לה מי אשם לי</l>
+          <l>מי יקבור את מי</l>
+          <l>אבא בוכה על בן בוכה על אבא</l>
+          <l>אבא בוכה על בן בוכה על אבא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

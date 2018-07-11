@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חזרי אלי 2</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יוש גרנות</writer>
+        <composer>עופר לב</composer>
+        <album>לחישה בלילה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חזרי אלי</head>
+        <lg number="1" type="stanza">
+          <l>מדוע אין בי הכוח </l>
+          <l>מעברנו לברוח ואת פנייך לשכוח </l>
+          <l>למחוק את כל אותם הזכרונות </l>
+          <l>מדוע אין בי הכוח מעברנו לברוח </l>
+          <l>למצוא שלווה ומנוח את הריסות חיי לבנות </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חזרי אלי, חזרי אלי </l>
+          <l>השיבי אושר לחיי </l>
+          <l>השקיטי את געגועי </l>
+          <l>חזרי אלי לזרועותי </l>
+          <l>חזרי אלי, חזרי אלי </l>
+          <l>השיבי אושר לחיי </l>
+          <l>השקיטי את געגועי </l>
+          <l>חזרי אלי לזרועתי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל כך עצוב בלעדייך </l>
+          <l>נפשי יוצאת רק אלייך </l>
+          <l>אל הליטוף של ידייך </l>
+          <l>והימים אחרים </l>
+          <l>כל כך עצוב בלעדייך </l>
+          <l>נפשי יוצאת רק אלייך </l>
+          <l>ואל הרוך של שפתייך </l>
+          <l>והלילות הסוערים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חזרי אלי, חזרי אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

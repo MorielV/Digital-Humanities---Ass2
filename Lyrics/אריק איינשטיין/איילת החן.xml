@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איילת החן</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>עודד בצר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איילת החן</head>
+        <lg number="1" type="stanza">
+          <l>הלכת בין עצי התפוח</l>
+          <l>חייכת אלי שמש עולה</l>
+          <l>איוושה בשיחים הרוח</l>
+          <l>טללים לראשך עטרה</l>
+          <l>איוושה בשיחים הרוח</l>
+          <l>טללים לראשך עטרה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נאה את כעץ התפוח</l>
+          <l>זוהרת גלגל חמתי</l>
+          <l>קולך כאיוושת הרוח</l>
+          <l>כטל חיוכך, תמתי</l>
+          <l>קולך כאיוושת הרוח</l>
+          <l>כטל חיוכך, תמתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוצפים במדרון מי הפלג</l>
+          <l>שוטפים בגאון איילים</l>
+          <l>צחים נרקיסים כשלג</l>
+          <l>לנועם ידך מייחלים</l>
+          <l>צחים נרקיסים כשלג</l>
+          <l>לנועם ידך מייחלים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זכה את, זכה כמי פלג</l>
+          <l>תמה את, איילת החן</l>
+          <l>צחורה מכוכבי השלג</l>
+          <l>לרוך ליטופך אייחל</l>
+          <l>צחורה מכוכבי השלג</l>
+          <l>לרוך ליטופך אייחל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

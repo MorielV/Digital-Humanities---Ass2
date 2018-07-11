@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קליפסו בשחור לבן</title>
+        <singer classification="band">אל תקרא לי שחור</singer>
+        <writer>דן אלמגור</writer>
+        <composer>בני נגרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קליפסו בשחור לבן</head>
+        <lg number="1" type="stanza">
+          <l>יש עיתון ללבנים ועיתון לשחורים</l>
+          <l>בשתיהן מודעות להמון מוצרים,</l>
+          <l>בשתיהן מודעות הפונות לקהל</l>
+          <l>אם תציץ בהן קצת אז כמוני תשאל -</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>למה, למה, למה זה</l>
+          <l>מי יגיד לי, מי יעזור?</l>
+          <l>השחור רוצה להראות כמו לבן</l>
+          <l>והלבן להראות כמו שחור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בעיתון הכושי מודעה שם תצהיר</l>
+          <l>על קרם ההופך עור כהה לבהיר,</l>
+          <l>בעיתון ללבנים מודעה שם תמסור</l>
+          <l>על קרם לשיזוף המשחיר את העור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>למה, למה, למה זה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לקחתי אתמול אוטובוס לשכונה</l>
+          <l>ירדתי בטעות בשכונה לבנה,</l>
+          <l>עד שבא שם עוד אוטו אותי לאסוף</l>
+          <l>ירדו מחירי הדירות שברחוב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>למה, למה, למה זה</l>
+          <l>מי יגיד לי מי יעזור?</l>
+          <l>השחור רוצה שיחנק הלבן</l>
+          <l>והלבן שיחנק השחור</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אל תוך מסעדה כשנכנסתי אתמול</l>
+          <l>הזמנתי לי עוף מטוגן לאכול,</l>
+          <l>הגישו לי עוף עם סכין ומזלג</l>
+          <l>הגיע לבן והחל ללגלג -</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>הי, שחור אם תגע בו בעוף הזה</l>
+          <l>מה שתעשה לו לך אעשה...</l>
+          <l>אז הרמתי לאט את העוף המטוגן</l>
+          <l>ונישקתי לו בדיוק בישבן</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>למה, למה, למה זה</l>
+          <l>מי יגיד לי, מי יעזור?</l>
+          <l>השחור רוצה שינשק הלבן</l>
+          <l>והלבן שינשק השחור</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

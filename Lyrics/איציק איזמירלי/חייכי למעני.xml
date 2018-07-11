@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חייכי למעני</title>
+        <singer classification="unknown">איציק איזמירלי</singer>
+        <writer>איציק איזמירלי</writer>
+        <composer>ישי ויסמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חייכי למעני</head>
+        <lg number="1" type="stanza">
+          <l>אם את עצובה ובודדה</l>
+          <l>התקרבי אלי אתן לך יד חמה  </l>
+          <l>את תמיד תהיי לי היחידה </l>
+          <l>ולעולם אשמור עלייך כחומה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את יודעת שאני אוהב</l>
+          <l>ונותן לך את ליבי  </l>
+          <l>אז בואי אהובה, חייכי למעני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואי אהובה הדליקי לי</l>
+          <l>את שלי בכל דקה ובשבילי</l>
+          <l>וביחד נתגבר ולא ניפול</l>
+          <l>אז בואי אהובה אלי ותני הכל </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הימים עוברים כמו חלום</l>
+          <l>כל חיוך שלך עושה לי את היום</l>
+          <l>אין משקל לרגע ומקום</l>
+          <l>ובגופי אני מרגיש שזה נכון</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את יודעת שאני אוהב</l>
+          <l>ונותן לך את ליבי  </l>
+          <l>אז בואי אהובה, חייכי למעני</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בואי אהובה הדליקי לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

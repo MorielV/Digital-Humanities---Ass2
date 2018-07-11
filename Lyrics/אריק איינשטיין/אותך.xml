@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אותך 3</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>שם טוב לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אותך</head>
+        <lg number="1" type="stanza">
+          <l>עוברים הימים וחולפים הלילות</l>
+          <l>אני עוד חולם את אותם חלומות</l>
+          <l>איך השלום מחבק את כולם</l>
+          <l>איך אני ואתה נשנה את העולם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שוב געגוע למשהו רחוק</l>
+          <l>זה סיפור ידוע, זה תמיד מתוק</l>
+          <l>קצת נמאס לשמוע, אתה יכול לצחוק</l>
+          <l>כיף לעוף גבוה, כיף לעוף רחוק</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אותך, אותך</l>
+          <l>אוהב אותך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוברים הימים וחולפים הלילות</l>
+          <l>אני עוד שואל את אותן שאלות</l>
+          <l>איך זה שהטוב לא מנצח את הרע</l>
+          <l>ואיך זה שנהיה פה כמו סדום ועמורה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אותך, אותך</l>
+          <l>אוהב אותך</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לא יודע למה ולא מבין איך</l>
+          <l>איך זה לא הצליח, איך עכשיו זה הולך</l>
+          <l>אסור לך, ילד, להפסיק לחלום</l>
+          <l>תראה שבסוף עוד יבוא שלום</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אותך, אותך</l>
+          <l>אוהב אותך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

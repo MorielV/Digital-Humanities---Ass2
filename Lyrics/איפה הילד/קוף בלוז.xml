@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קוף בלוז</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קוף בלוז</head>
+        <lg number="1" type="stanza">
+          <l>אני קוף בעיר ענקית </l>
+          <l>אני קוף שחי בתחתית </l>
+          <l>מסתתר מאנשים </l>
+          <l>אין עצים אין כוכבים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני קוף בעיר ענקית </l>
+          <l>אני קוף שחי בתחתית </l>
+          <l>וזורקים עלי מטבעות </l>
+          <l>זה כואב אבל זה לחיות </l>
+          <l>למי שאין שם יש רק פחד </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הפחד כאן הוא אלוהים </l>
+          <l>נצעק ונישאר אילמים </l>
+          <l>מי ירחם עלינו הקופים </l>
+          <l>כמוני יש עוד אלפים </l>
+          <l>מול הפרצוף שלך תקועים </l>
+          <l>כשלא רוצים לראות אז לא רואים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הם רוצים מהר וחלק </l>
+          <l>הם חיים בווליום חזק </l>
+          <l>ואני לבד בתחתית </l>
+          <l>אין עבר אין לי עתיד </l>
+          <l>למי שאין שם יש רק פחד </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הפחד כאן הוא אלוהים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

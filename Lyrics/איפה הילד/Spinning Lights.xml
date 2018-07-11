@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Spinning Lights</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>אסף שריג</writer>
+        <composer>אסף שריג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Spinning Lights</head>
+        <lg number="1" type="stanza">
+          <l>Hollywood where the giant stars have been frozen </l>
+          <l>Filthy streets where junkies wait for the fix </l>
+          <l>Pour my heart out to a second hand Madonna </l>
+          <l>But she's sad and drunk it's so hard to get excited </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>And the spinning lights explodes in my face </l>
+          <l>And I'll never be a pavement star no way </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>In a lovers change there's hours of anticipation </l>
+          <l>She is miles away in the memories of my home </l>
+          <l>Hollywood where the losers all had gathered </l>
+          <l>I'm so down and out it's so hard to get ahead </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>And the spinning lights...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

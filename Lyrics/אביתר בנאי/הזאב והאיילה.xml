@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הזאב והאיילה</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>גלעד כהנא</writer>
+        <composer>missing</composer>
+        <album>עומד על נייר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הזאב והאיילה</head>
+        <lg number="1" type="stanza">
+          <l>חושב אני רעב כואב אני חושב</l>
+          <l>נמאס להסתובב רעב כמו זאב</l>
+          <l>כשאת קוראת בשמי</l>
+          <l>פתאום אני חושש אולי זה לא אני</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את כל כך יפה</l>
+          <l>זה לא ייאמן</l>
+          <l>את האיילה אני הוא הזאב</l>
+          <l>את כל כך יפה</l>
+          <l>זה לא יתואר</l>
+          <l>איך אני חושש מה יהיה מחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא נתתי לשום דבר</l>
+          <l>לעצור את הנשיכה</l>
+          <l>לברך את השכחה</l>
+          <l>בתוך כמה שניות</l>
+          <l>דיממתי במיטה</l>
+          <l>פתאום את הזאב אני האיילה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את כל כך יפה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

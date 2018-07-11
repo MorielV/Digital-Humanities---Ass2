@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נערה</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>דידי הררי</writer>
+        <composer>missing</composer>
+        <album>בלעדייך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נערה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>נערה</l>
+          <l>כשאת עוזבת זה כואב לי</l>
+          <l>אפילו כשנשארת היית עם מישהו אחר</l>
+          <l>גופך היה איתי קרוב להשבר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נערה</l>
+          <l>להתעורר איתך רציתי</l>
+          <l>בתוך מיטה ריקה היה השקט מתגבר</l>
+          <l>ולא אדע איך בלעדייך אסתדר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה כואב</l>
+          <l>זה בתוך הלב</l>
+          <l>מה שנתת לי לא תוכלי לתת למישהו אחר</l>
+          <l>זה כואב</l>
+          <l>זה בתוך הלב</l>
+          <l>מה שנתת לי לא תוכלי יותר לתת.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נערה</l>
+          <l>אותך אף פעם לא הבנתי</l>
+          <l>חשבתי שאני תמיד נותן לך את הכל</l>
+          <l>כשלא אמרת לי לא ידעתי איך לשאול</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נערה</l>
+          <l>גם מעולם לא האמנתי</l>
+          <l>שיום אחד תלכי וישאר חלל גדול</l>
+          <l>לחיות בלי אהבה אני שוב לא יכול</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה כואב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

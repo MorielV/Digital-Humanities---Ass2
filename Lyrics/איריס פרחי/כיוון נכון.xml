@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כיוון נכון</title>
+        <singer classification="female singer">איריס פרחי</singer>
+        <writer>איריס פרחי</writer>
+        <composer>איריס פרחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כיוון נכון</head>
+        <lg number="1" type="stanza">
+          <l>שוב הכנסת אותי לאותה מלכודת</l>
+          <l>שכחתי כבר איך אתה כשאתה שוכח </l>
+          <l>לפעמים קשה לי ואני פוחדת </l>
+          <l>אבל רואה את האמת שאתה רק לוקח </l>
+          <l>והחיים שלי הולכים לכיוון הנכון </l>
+          <l>ולא מתסתתרים מעבר לווילון </l>
+          <l>האור מגיע גם אלי והחושך בעצמו כבה </l>
+          <l>נישאר לי רק להתעורר קצת ולשנות את הסביבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואין לי כלום שישנה את ההרגשה </l>
+          <l>אבל אני יודעת שעכשיו יהיה לי זמן להבין</l>
+          <l>ושוב לבד דבר לא יזיז את האהבה שלנו </l>
+          <l>ועכשיו אני אלך לי להמשיך את החיים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמיים כחולים ניראו באופק </l>
+          <l>בתוך דמעה יפה אל מול ירח </l>
+          <l>חיבקת מלא את ליבי בחשק</l>
+          <l>למשוך את הסירה שלי מהמזח </l>
+          <l>והאמת התגלתה לי מתוך המועקה </l>
+          <l>שירים לא נכונים נשמעו שעה ארוכה </l>
+          <l>והמילים נבלעו הצתמצמו לתאורים </l>
+          <l>לא יכולה להגיד כבר כלום </l>
+          <l>חוץ מלדבר עם עצמי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואין לי כלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טוק שואו</title>
+        <singer classification="male singer">אסף ארליך</singer>
+        <writer>אסף ארליך</writer>
+        <composer>אסף ארליך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טוק שואו</head>
+        <lg number="1" type="stanza">
+          <l>בוקר שוב נרדם בתוך שקט צורם</l>
+          <l>לא מדבר בקושי נושם</l>
+          <l>השקיעה כבר זורחת עלינו</l>
+          <l>הכדורים רוקדים הפוך אבל עדיין רוקדים</l>
+          <l>כמו עדר מהודר בגוונים מטורפים</l>
+          <l>רוצים התמכרות כשכל האובייקטים נרדמים</l>
+          <l>עדר מהודר בגוונים מטורפים</l>
+          <l>רוצים התמכרות כשכל האובייקטים נרדמים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>דפקתי לאבא כדור בראש כשהתקרב לי לעיניים</l>
+          <l>התאשפזתי בתשובה עכשיו תנו לי במה</l>
+          <l>רצחתי את ראש הממשלה כשהתקרב לי לידיים</l>
+          <l>התאהבתי בבמה</l>
+          <l>תנו לי טוק שואו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוצח פוטנציאלי מסתובב פה במכולת</l>
+          <l>לא מדבר בקושי נושם</l>
+          <l>השקיעה כבר זורחת עליו</l>
+          <l>הכדורים רוקדים הפוך אבל עדיין רוקדים</l>
+          <l>כמו עדר מהודר בגוונים מטורפים</l>
+          <l>רוצים התמכרות כשכל האובייקטים נרדמים</l>
+          <l>עדר מהודר בגוונים מטורפים</l>
+          <l>רוצים התמכרות כשכל האובייקטים נרדמים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דפקתי לאבא כדור בראש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

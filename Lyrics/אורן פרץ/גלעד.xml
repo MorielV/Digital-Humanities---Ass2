@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גלעד 2</title>
+        <singer classification="unknown">אורן פרץ</singer>
+        <writer>אורן פרץ</writer>
+        <composer>אורן פרץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גלעד</head>
+        <lg number="1" type="stanza">
+          <l>השמש מתהפכת שוב ולילה</l>
+          <l>ירח שב ומתמקם למעלה</l>
+          <l>עוד יום חומק, ואחר כך שוב חוזר</l>
+          <l>ורק אתה גלעד עדיין פה חסר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>העץ שבגן המתין פורח, מתרוקן מעלים</l>
+          <l>באופק עודנו משתרע ים הגעגועים</l>
+          <l>אמא ואבא לא מפסיקים עוד לקוות</l>
+          <l>שורדים אתך את הימים, ערים את הלילות.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>גלעד, לא ננוח עד</l>
+          <l>עד שיבוא היום ותשוב אלינו לשלום</l>
+          <l>שוב הלילה רד, ואתה נפקד</l>
+          <l>שיר צידה נשיר לך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל בית בשיר הזה מוקדש לך חבר</l>
+          <l>שתחזור סוף סוף הביתה כמו פזמון חוזר</l>
+          <l>הכוכבים דולקים לך בצפייה גמורה</l>
+          <l>זוהרים הם לשלומך, שתשוב אלינו במהרה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>גלעד, לא ננוח עד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

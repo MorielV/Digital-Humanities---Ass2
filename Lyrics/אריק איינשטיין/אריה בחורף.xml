@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אריה בחורף</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>יענקל'ה רוטבליט</writer>
+        <composer>פיטר רוט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אריה בחורף</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אריה בחורף</l>
+          <l>אריה בא מן הסתיו</l>
+          <l>סוחב את הרגל </l>
+          <l>נתפס לו הגב </l>
+          <l>רק זה עוד חסר לו</l>
+          <l>כמו קוץ בזנב </l>
+          <l>הרוח משנה כיוון עכשיו </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אוושה בעשב </l>
+          <l>אולי יבוא טרף קל </l>
+          <l>ריח של גשם </l>
+          <l>יומיים שלא אכל</l>
+          <l>וסופה מתקרבת </l>
+          <l>ענן גדול מעל </l>
+          <l>אפילו השמש הסתתר נבהל</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אריה בחורף</l>
+          <l>הרעב בעיניו</l>
+          <l>אריה בחורף</l>
+          <l>עוד קרב אחרון לפניו</l>
+          <l>רואה את הנשר בשמיים חג</l>
+          <l>אריה בחורף</l>
+          <l>למי ישאג </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמה זר לו העצב</l>
+          <l>שממלא את כולו </l>
+          <l>ציפור מצייצת </l>
+          <l>מן הענף מולו </l>
+          <l>עוד אתמול היה מלך</l>
+          <l>החיות רעדו מצילו</l>
+          <l>עוד אתמול היה זה היער שלו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אריה בחורף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

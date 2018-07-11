@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שורש ילדותי</title>
+        <singer classification="unknown">איציק איזמירלי</singer>
+        <writer>איציק איזמירלי</writer>
+        <composer>אורן איתן</composer>
+        <album>חוויות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שורש ילדותי</head>
+        <lg number="1" type="stanza">
+          <l>ובימים ההם , כך מספר בקול נרגש</l>
+          <l>זוכר אותה חצר קטנה , עם הדרים ונשמה </l>
+          <l>במציאות יפה , לא ידענו חוסר כלל</l>
+          <l>בשובבות כזאת תמימה </l>
+          <l>גדלנו יחד בשכונה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עץ רימון בשורש ילדותי </l>
+          <l>וירקות שגדלו בחצרי </l>
+          <l>ובמרפסת בה שנן שם אבי </l>
+          <l>ואימי אוי אימי נשמתי </l>
+          <l>אותם אנצור עד יום נשיקתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה שואל האם היום חיים נוחים יותר ?</l>
+          <l>ממרום שנותיי אומר לך , שהפשטות הייתה ברוכה </l>
+          <l>איך התלהבנו סתם , ללא סיבה ודאגה </l>
+          <l>והיום כבר אין דבר שנראה לנו כתם ..</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

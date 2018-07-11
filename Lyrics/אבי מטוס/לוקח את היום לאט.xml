@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לוקח את היום לאט</title>
+        <singer classification="male singer">אבי מטוס</singer>
+        <writer>דן מינסטר</writer>
+        <composer>אבי מטוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לוקח את היום לאט</head>
+        <lg number="1" type="stanza">
+          <l>היום התחיל כל כך יפה</l>
+          <l>ישבתי איתך, שתינו קפה</l>
+          <l>הבאתי לעצמי כל כך הרבה</l>
+          <l>מה שהיה הוא מה שיהיה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תופס את היום כמו שהוא בא</l>
+          <l>מסתכל איך השמש עושה את דרכה</l>
+          <l>תופס קצת שלווה גם כשאין לי סיבה</l>
+          <l>לוקח את היום לאט</l>
+          <l>לוקח את היום לאט</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הרגשתי שמש על פניי</l>
+          <l>היום האיר, האיר עלי</l>
+          <l>הכל יושב רחוק רחוק</l>
+          <l>הכל ירוק, הכל ירוק</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תופס את היום...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היום נמשך עד מאוחר</l>
+          <l>הרגשתי עייף, הרגשתי מוזר</l>
+          <l>ושום דבר לא מיותר</l>
+          <l>מה שהולך תמיד נשאר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תופס את היום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

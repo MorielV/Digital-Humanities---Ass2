@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שוברת שתיקה</title>
+        <singer classification="unknown">אורית אזרח</singer>
+        <writer>אורית אזרח</writer>
+        <composer>אורית אזרח</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שוברת שתיקה</head>
+        <lg number="1" type="stanza">
+          <l>במבט לאחור</l>
+          <l>עוד קודם יכולתי </l>
+          <l>ראיתי הכל</l>
+          <l>את השקט חיפשתי</l>
+          <l>ואש מחממת </l>
+          <l>עוטפת כתפי</l>
+          <l>נדמה שהרגשתי</l>
+          <l>עכשיו את חיי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא ממלמלת</l>
+          <l>חדלתי לחשוש</l>
+          <l>יוצאות לי מילים</l>
+          <l>הפסקתי ללחוש</l>
+          <l>לא ישנה</l>
+          <l>ריצוד בעיני</l>
+          <l>נראה שהתחלתי</l>
+          <l>עכשיו את חיי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שוברת שתיקה יוצאת מהמים</l>
+          <l>נושמת אויר עם מבט לשמיים</l>
+          <l>רובצת בחול וטוב טוב לי טוב לי החול</l>
+          <l>טוב טוב לי טוב לי הכל טוב טוב לי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה בטח שואל</l>
+          <l>אותי מה קרה</l>
+          <l>לא ידעתי שטוב</l>
+          <l>עבורי יהיה רע</l>
+          <l>מרוב שקיבלתי</l>
+          <l>ויתרתי עלי</l>
+          <l>עכשיו אני מתחילה את חיי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שוברת שתיקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

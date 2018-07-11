@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קראתי את מכתבך</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קראתי את מכתבך</head>
+        <lg number="1" type="stanza">
+          <l>קראתי את מכתבך</l>
+          <l>כמעט והצלחתי לשנוא אותך</l>
+          <l>לרגע הבנתי איך</l>
+          <l>איך איבדתי אותך לעוד נצח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>באמת הוא בחור נפלא</l>
+          <l>כמעט והצלחתי לחבב אותו</l>
+          <l>בעצם אין לו סיכוי</l>
+          <l>הוא נתקע ברולטה שלנו</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה מתחיל וחוזר לאותה נקודה</l>
+          <l>וכואב אבל איך אפשר בלי אהבה</l>
+          <l>את שלי לעולם ועד</l>
+          <l>ואני את כפות רגלייך מנשק מחבק</l>
+          <l>לעולם לא תצליחי לברוח מזה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חכי לי רק עוד רגע עוד שניה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זכרונות שצפים ועולים</l>
+          <l>ויש בהם קסם אך אין בו תקוה</l>
+          <l>העבר הוא קורי עכביש</l>
+          <l>שלא מניחים לי לקוות ולחלום</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>קראתי את מכתבך</l>
+          <l>כמעט והצלחתי לסלוח</l>
+          <l>לרגע הבנתי איך</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>זה מתחיל וחוזר לאותה נקודה...</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>חכי לי רק עוד רגע עוד שניה</l>
+          <l>נחזור ונהיה מאוהבים אהההה</l>
+          <l>אוהבים אוווו....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

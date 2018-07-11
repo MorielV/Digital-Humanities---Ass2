@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עולם 10</title>
+        <singer classification="female singer">אדרת</singer>
+        <writer>חמוטל בן זאב</writer>
+        <composer>יורם צדוק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עולם</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים אפשר לראות</l>
+          <l>בעיניים אחרות</l>
+          <l>מישהו עומד מולך</l>
+          <l>משנה את עולמך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא חשבתי שנוכל</l>
+          <l>לא יצאתי מהכלל</l>
+          <l>באתי ונתתי אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תראו איך שעולם שלם</l>
+          <l>עולה כבר על גדותיו</l>
+          <l>ומישהו ברא אותו</l>
+          <l>ומישהו אהב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הכל כאן בידינו</l>
+          <l>והכל כאן בידיו</l>
+          <l>אך משהו קורה לנו עכשיו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל תאמר מילים גבוהות</l>
+          <l>תן לי בעצמי לראות</l>
+          <l>קח ממני את כולי</l>
+          <l>אבל בדרכי שלי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לא ידעתי שמותר</l>
+          <l>לגלות מה שנסתר</l>
+          <l>באתי ולקחתי אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>תראו איך שעולם שלם...</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>עכשיו עזור לי לחבק</l>
+          <l>את כל היופי מסביבי</l>
+          <l>חשוב על מה שמקשר</l>
+          <l>בין עולמך לעולמי</l>
+          <l>ותן לנשום עמוק, לרווחה</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>תראו איך שעולם שלם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

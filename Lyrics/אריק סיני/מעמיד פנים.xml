@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מעמיד פנים</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>דני רובס</writer>
+        <composer>דני רובס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מעמיד פנים</head>
+        <lg number="1" type="stanza">
+          <l>יושבים שעות, אומרים בעצם מה שרק אפשר</l>
+          <l>שרים את כל אותם שירים שמישהו כבר שר</l>
+          <l>את יודעת, לפעמים - אני פוחד להתקרב</l>
+          <l>אויר שקוף ולא עביר, אותי סביב עוטף.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ושם עמוק בתוך עינייך יש סימן קריאה</l>
+          <l>לא קראתי, לא ענית, זרקתי שאלה</l>
+          <l>אז טוב, תודה. להתראות, תבואי לפעמים.</l>
+          <l>אך כמו כולם כך גם אני רק מעמיד פנים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מעמיד פנים</l>
+          <l>מעמיד פנים</l>
+          <l>רק מעמיד פנים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>משבח את עצמי, הנה הכל רשום</l>
+          <l>מזייף עצמי לדעת בלי לדעת כלום</l>
+          <l>הדברים שיש בי באמת כל כך שונים</l>
+          <l>אך כמו כולם כך גם אני רק מעמיד פנים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מעמיד פנים...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יושבים שעות אומרים בעצם מה שרק אפשר</l>
+          <l>שרים את אותם שירים שמישהו כבר שר</l>
+          <l>אין איתנו אף אחד, נשארנו אחרונים.</l>
+          <l>אך כמו כולם כך גם אני רק מעמיד פנים</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>מעמיד פנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמור עלינו</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>איציק קלה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמור עלינו</head>
+        <lg number="1" type="stanza">
+          <l>הדמעות שבעינינו כבר יבשו מזמן</l>
+          <l>החלום אותו חלמנו כבר איננו</l>
+          <l>את השמש בשמיים מכסה ענן</l>
+          <l>אנא אלי הבט עלינו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלוקים אנא עננו והקשב לתפילתנו</l>
+          <l>תן ברכה במעשנו אתה הכל יכול</l>
+          <l>אלוקים אנא עננו והקשב לתפילתנו</l>
+          <l>תחבק את ילדנו רק שלא ניפול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תעשה עמנו חסד תן לנו לישון בשקט</l>
+          <l>ולאמא הדואגת תן שלווה בלב</l>
+          <l>תעשה עמנו חסד תן לנו לישון בשקט</l>
+          <l>ולאמא הדואגת תן חיוך אוהב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חיילים חוזרים הביתה וראשם כבד</l>
+          <l>מבקשים מעט לנוח למולנו</l>
+          <l>וליבם הוא לב של ילד שעוד לא דואג</l>
+          <l>אנא אלי שמור נא עלינו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אלוקים אנא עננו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

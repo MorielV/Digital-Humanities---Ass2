@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לי ולך 2</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>דידי מנוסי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לי ולך</head>
+        <lg number="1" type="stanza">
+          <l>בים הרוגע</l>
+          <l>השמש שוקע</l>
+          <l>למי מתגעגע</l>
+          <l>לי ולך, לי ולך</l>
+          <l>לי ולך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כאוד מתלקח</l>
+          <l>עולה הירח</l>
+          <l>למי הוא זורח</l>
+          <l>לי ולך, לי ולך</l>
+          <l>לי ולך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כאן שנינו לבד</l>
+          <l>פוסעים יד ביד</l>
+          <l>בשביל שנועד</l>
+          <l>לי ולך, לי ולך</l>
+          <l>לי ולך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בגן שיח ורד</l>
+          <l>למי הוא סוגר את</l>
+          <l>עלי הכותרת</l>
+          <l>לי ולך, לי ולך</l>
+          <l>לי ולך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ורוח של ערב</l>
+          <l>הומה בצמרת</l>
+          <l>למי היא מזמרת</l>
+          <l>לי ולך, לי ולך</l>
+          <l>לי ולך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כאן שנינו לבד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

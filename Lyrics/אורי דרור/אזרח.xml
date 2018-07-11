@@ -1,0 +1,37 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אזרח 2</title>
+        <singer classification="unknown">אורי דרור</singer>
+        <writer>אורי דרור</writer>
+        <composer>אורי דרור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אזרח</head>
+        <lg number="1" type="stanza">
+          <l>בְתוֹךְ כָּל זֶה יֵשׁ </l>
+          <l>אֶת הָאִישׁ הַקָּטָן שֶׁבִּי. </l>
+          <l>אוּלַי הוּא לֹא יוֹדֵעַ </l>
+          <l>שֶׁאֲנִי אֶזְרָח.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

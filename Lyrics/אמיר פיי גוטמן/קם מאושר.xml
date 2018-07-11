@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קם מאושר</title>
+        <singer classification="male singer">אמיר פיי גוטמן</singer>
+        <writer>שי להב</writer>
+        <composer>שי להב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קם מאושר</head>
+        <lg number="1" type="stanza">
+          <l>גלגל מסתובב לו הלאה עומק בפנים</l>
+          <l>האש שהיתה לי פעם עכשיו שורפת אותי</l>
+          <l>אני מחפש קורא לך בנופי ילדותי</l>
+          <l>פגוע אבל מודה לך עד עמקי נשמתי</l>
+          <l>אמיתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני קם מאושר אחר כך זה נראה אחרת</l>
+          <l>מסתכל בראי זה אני לא אני</l>
+          <l>אני קם מאושר אחר כך מתיישב בשמש</l>
+          <l>ומפתיע את עצמי זה אני לא אני</l>
+          <l>אמיתי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני קם מאושר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

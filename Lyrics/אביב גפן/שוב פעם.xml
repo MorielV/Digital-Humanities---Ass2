@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שוב פעם</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שוב פעם</head>
+        <lg number="1" type="stanza">
+          <l>שוב פעם זה אתה</l>
+          <l>שוב פעם תאונה</l>
+          <l>שוב פעם</l>
+          <l>אתה בוכה לי בשתיקה</l>
+          <l>שוב פעם לבדי</l>
+          <l>שוב פעם דמעותי</l>
+          <l>שוב פעם</l>
+          <l>אולי תשוב פעם אלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ותגיד לאלוהים</l>
+          <l>אנחנו לא צעצועים</l>
+          <l>אני שומע אותך בוכה</l>
+          <l>אם אתהה לא יורד אני עולה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב פעם לא חשוב</l>
+          <l>וזה עושה אותי מאוד עצוב</l>
+          <l>שוב פעם</l>
+          <l>אני שר לך שירים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ותגיד לאלוהים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

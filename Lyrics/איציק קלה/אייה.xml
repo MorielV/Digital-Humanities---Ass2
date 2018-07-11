@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אייה</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>סטליוס קזנג'ידיס</writer>
+        <composer>סטליוס קזנג'ידיס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אייה</head>
+        <lg number="1" type="stanza">
+          <l>שאלתי את עצמי: "אייה"?</l>
+          <l>אני כל כך רוצה אליה.</l>
+          <l>כאן היא מונחת על ליבי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ביקשתי לנשק שפתיה.</l>
+          <l>ביקשתי לחבק מותניה.</l>
+          <l>כאן היא מונחת בקרבי.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מי ראה את נשמתי, </l>
+          <l>מ"סמטת הנבל"?</l>
+          <l>יפתי. נחמתי. </l>
+          <l>חי אני באבל.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שאלתי את עצמי: "אייה"?</l>
+          <l>אני כל כך רוצה אליה.</l>
+          <l>כאן היא סוערת בדמי.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ביקשתי את יפי עיניה.</l>
+          <l>ביקשתי את ניגון שיריה.</l>
+          <l>כאן היא בוערת בי תמיד.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מי ראה את נשמתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

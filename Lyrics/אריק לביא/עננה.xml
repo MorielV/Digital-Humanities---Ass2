@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עננה</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>קובי אוז</writer>
+        <composer>קובי אוז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עננה</head>
+        <lg number="1" type="stanza">
+          <l>עננה</l>
+          <l>ניצבת במקום שלה</l>
+          <l>אותה הנקודה</l>
+          <l>לבד בשמיים</l>
+          <l>עננה</l>
+          <l>אולי היא תעלה לך</l>
+          <l>אולי היא גם תרד</l>
+          <l>אבל בינתיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך את לא רואה שאת תקועה</l>
+          <l>תמיד אותו מקום רק עם מישהו אחר</l>
+          <l>ניצבת בתנוחה הידועה</l>
+          <l>הרוח שתנשוב והגשם שירד מהר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עננה</l>
+          <l>תמיד בתוך הערפל</l>
+          <l>היא לא יודעת איך</l>
+          <l>ברוח לא שטה</l>
+          <l>עננה</l>
+          <l>אוהבת את השמש</l>
+          <l>הצל שלה נופל עלינו למטה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך את לא רואה שאת תקועה</l>
+          <l>תמיד אותו מקום רק עם מישהו אחר</l>
+          <l>ניצבת בתנוחה הידועה</l>
+          <l>הרוח שתנשוב והגשם שירד מהר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

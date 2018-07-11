@@ -1,0 +1,35 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חמדת ימים</title>
+        <singer classification="unknown">אורי הרפז</singer>
+        <writer>מן התפילה</writer>
+        <composer>שלמה קרליבך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חמדת ימים</head>
+        <lg number="1" type="stanza">
+          <l>חמדת ימים אותו קראת </l>
+          <l>זכר למעשה בראשית.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בנשמתי</title>
+        <singer classification="unknown">אריה כהן</singer>
+        <writer>אריה כהן</writer>
+        <composer>אריה כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בנשמתי</head>
+        <lg number="1" type="stanza">
+          <l>איך הצטלבו המבטים הרגשנו</l>
+          <l>איך נקשרו לבבות ידענו</l>
+          <l>פתאום נפגשו שפתיים וראינו בעיניים שזה אמיתי </l>
+          <l>האם זה אמיתי?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הלב מסרב להאמין כמה מתוק יכול להיות </l>
+          <l>ששני עולמות מתחברים גם רואים על הפנים</l>
+          <l>השמחה ניכרת אהבה בוערת </l>
+          <l>בנשמתי, בנשמתי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשעזבת את ביתי הלב המשיך המשיך לפעום</l>
+          <l>מחוסר מהכרה נשאבתי לחלום</l>
+          <l>כל הזמן רוצה אלייך </l>
+          <l>שבוי בקסמייך אותך לאהוב </l>
+          <l>נשבעתי עד הסוף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הלב מסרב להאמין...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כפות ידיים חכמות</title>
+        <singer classification="male singer">איתמר כהן</singer>
+        <writer>דודו ברק</writer>
+        <composer>אלי צרויה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כפות ידיים חכמות</head>
+        <lg number="1" type="stanza">
+          <l>כפות ידיים חכמות,</l>
+          <l>אשר בטוב חיבקוני.</l>
+          <l>כפות ידיים נבונות,</l>
+          <l>אשר ברע ליטפוני.</l>
+          <l>איך יש בהן שלווה ורוך.</l>
+          <l>וכוח רב ודעת.</l>
+          <l>ויש להן מגע ארוך.</l>
+          <l>איך הן יודעות לגעת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כפות ידיים חכמות.</l>
+          <l>כפות ידיים נבונות.</l>
+          <l>איך למגע גופי הן נענות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כפות ידיים חכמות,</l>
+          <l>אמצי אותי אליך.</l>
+          <l>איתך אני שנים תמימות.</l>
+          <l>חיי בתוך חייך.</l>
+          <l>בשתי ידי הרחומות,</l>
+          <l>אוחז אותך ברעד.</l>
+          <l>ויקרסו כל החומות.</l>
+          <l>ולא יפריד עוד צעד.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כפות ידיים חכמות.</l>
+          <l>כפות ידיים נבונות.</l>
+          <l>איך למגע גופי הן נענות.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

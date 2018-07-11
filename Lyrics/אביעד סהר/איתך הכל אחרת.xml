@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איתך הכל אחרת</title>
+        <singer classification="unknown">אביעד סהר</singer>
+        <writer>אביעד סהר</writer>
+        <composer>אביעד סהר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איתך הכל אחרת</head>
+        <lg number="1" type="stanza">
+          <l>הזמן בועט קדימה, הוא לא עצר מלכתחילה</l>
+          <l>כי כשהזמן עובר אני מבין אותך יותר</l>
+          <l>כשהיום הופך ללילה, אהבתי גדלה לא די לה</l>
+          <l>איני יכול יותר בקול רועד אני לך אומר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין לי יותר חלומות בחיים</l>
+          <l>את הגדול מכולם, את הגשמת לי</l>
+          <l>החלום הזה הוא את</l>
+          <l>כי אין לי יותר חלומות בחיים</l>
+          <l>את הגדול מכולם, את הגשמת לי</l>
+          <l>כי איתך הכל אחרת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את מביטה לי בעיניים, צירפת גומות ללחיים</l>
+          <l>לצליל קולך הזך אני מרגיש כה מנותק</l>
+          <l>שוב נוגעת וחומקת, כה מדהימה את ונחשקת</l>
+          <l>ליבי זקוק רק לך זה לא פשוט להיות שלך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין לי יותר חלומות בחיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

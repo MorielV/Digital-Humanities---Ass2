@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השיכור 2</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>יוש גרנות</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השיכור</head>
+        <lg number="1" type="stanza">
+          <l>מול פנס הרחוב</l>
+          <l>בכניסה לשוק</l>
+          <l>מסתובב לו שיכור</l>
+          <l>בידו בקבוק</l>
+          <l>הוא סיפר לי כיצד</l>
+          <l>נהרסו חייו</l>
+          <l>רק בגלל אישה</l>
+          <l>שאותה אהב</l>
+          <l>רכושו נתן לה</l>
+          <l>ואת נשמתו</l>
+          <l>יום אחד היא קמה</l>
+          <l>ועזבה אותו</l>
+          <l>יום אחד היא קמה</l>
+          <l>ונטשה אותו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הישמר לך</l>
+          <l>מהאהבות</l>
+          <l>כי בסוף הדרך</l>
+          <l>יש רק אכזבות</l>
+          <l>זכור מה שאמרתי</l>
+          <l>ואל תתאהב</l>
+          <l>אל תהיה כמוני</l>
+          <l>אל תיקח ללב</l>
+          <l>אל תהיה כמוני</l>
+          <l>ואל תתאהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יום אחד גם אני</l>
+          <l>מצאתי לי אישה</l>
+          <l>ואותה אהבתי</l>
+          <l>נשמתי כבשה</l>
+          <l>היא היתה חלומי</l>
+          <l>היא היתה אושרי</l>
+          <l>יום אחד היא קמה</l>
+          <l>ועזבה אותי</l>
+          <l>בשיכור נזכרתי</l>
+          <l>הוא ואזהרתו</l>
+          <l>ולשוק הלכתי</l>
+          <l>לחפש אותו</l>
+          <l>אבל אף אחד</l>
+          <l>לא זכר את שמו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הישמר לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

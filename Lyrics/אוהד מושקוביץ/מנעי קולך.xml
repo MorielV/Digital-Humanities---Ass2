@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנעי קולך</title>
+        <singer classification="male singer">אוהד מושקוביץ</singer>
+        <writer>מן המקורות</writer>
+        <composer>שרון אבילחק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנעי קולך</head>
+        <lg number="1" type="stanza">
+          <l>כה אמר השם</l>
+          <l>מנעי קולך מבכי</l>
+          <l>ועינייך מדמעה</l>
+          <l>כי יש שכר לפעולתך</l>
+          <l>ושבו בנים לגבולם</l>
+          <l>את לא צריכה לדאוג</l>
+          <l>הביטי השם עלינו מרחם</l>
+          <l>ולא מוותר עלינו הוא שומר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

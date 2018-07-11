@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השקר</title>
+        <singer classification="unknown">אורלי זילברשץ</singer>
+        <writer>אורלי זילברשץ</writer>
+        <composer>יובל בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השקר</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים הראש עובד חזק</l>
+          <l>הפטישים מורידים את האבק</l>
+          <l>מסתכלת על עצמי במראה</l>
+          <l>והשקר עומד מולי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הוא שוכב עם פנים של סוף</l>
+          <l>עושה לי קוקו בעור התוף</l>
+          <l>הוא מציץ אלי, מציץ מתוככם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפעמים פתאום באמצע הלילה</l>
+          <l>כשהגוף עושה את עצמו ישן</l>
+          <l>אני שוכבת מקשיבה לי</l>
+          <l>איך אתה נושם, איך אתה חולם</l>
+          <l>איך שאני אוהבת אותך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לפעמים כשהמסך יורד</l>
+          <l>האיפור נהיה כבד</l>
+          <l>האנשים עוזבים את האולם</l>
+          <l>והשקר עומד מולי מושלם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

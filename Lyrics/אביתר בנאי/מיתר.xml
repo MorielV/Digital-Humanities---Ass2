@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מיתר</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>אביתר בנאי</composer>
+        <album>עומד על נייר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מיתר</head>
+        <lg number="1" type="stanza">
+          <l>היא חיכתה לי</l>
+          <l>הורידה את משקפי השמש ואמרה</l>
+          <l>כמה אני שומעת אותך</l>
+          <l>רציתי להגיד לה</l>
+          <l>שפתיים יבשות שורפות</l>
+          <l>אבל רק הסתכלתי כמו כלב רעב</l>
+          <l>והמשכתי ללכת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מיתר אחד רוח נעימה ועצומה</l>
+          <l>אבן יקרה יחידה</l>
+          <l>אני מבטיח למענך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קניתי לחם הוסיפה עוגה מתנה וחייכה</l>
+          <l>רציתי להגיד לה</l>
+          <l>לבדידות באביב את מים</l>
+          <l>רציתי להגיד לה</l>
+          <l>לבדידות באביב את מים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מיתר אחד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

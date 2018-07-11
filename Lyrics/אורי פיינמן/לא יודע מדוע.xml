@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא יודע מדוע</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>פול אנקה</writer>
+        <composer>פול אנקה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא יודע מדוע</head>
+        <lg number="1" type="stanza">
+          <l>לא יודע מדוע,</l>
+          <l>את בתוך ליבי לעד,</l>
+          <l>גם אם שוב אני לבד,</l>
+          <l>לא מבין כיצד.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את פתאום געגוע,</l>
+          <l>את חלום ורוד ורך,</l>
+          <l>גוף אל גוף אני איתך,</l>
+          <l>את שלי, אני שלך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את,אני,</l>
+          <l>אני ואת,</l>
+          <l>פועם, הולם בי הלב.</l>
+          <l>את, אני,</l>
+          <l>אני ואת,</l>
+          <l>אוהב אותך עד כאב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא יודע מדוע,</l>
+          <l>צל דמותך חוזר ושב,</l>
+          <l>הן הלכת אליו עכשיו</l>
+          <l>והכל הרי לשווא.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>גם אם תם כבר שבוע,</l>
+          <l>לא אשכח אבל אסלח,</l>
+          <l>כל אהבתי רק לך,</l>
+          <l>את שלי, אני שלך.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את, אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

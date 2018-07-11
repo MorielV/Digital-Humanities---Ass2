@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תני לי 9</title>
+        <singer classification="male singer">אודי דוד</singer>
+        <writer>אודי דוד</writer>
+        <composer>הראל מויאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תני לי</head>
+        <lg number="1" type="stanza">
+          <l>בלילות הכי קרים את לצידי </l>
+          <l>מחפשת סימנים להתקרב אלי</l>
+          <l>המבט שלך עוטף אותי </l>
+          <l>ואני כמו מטורף</l>
+          <l>ורק לנגוע כדי לא לשכוח</l>
+          <l>איך שאת עדיין בחיים שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תני לי</l>
+          <l>לחבק אותך</l>
+          <l>רוצה אותך קרוב הלילה</l>
+          <l>תני לי </l>
+          <l>לאהוב אותך רק תאמיני</l>
+          <l>שיש בחור פשוט שמת</l>
+          <l>לתת לך אהבה</l>
+          <l>אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והיום מוצא עצמי כה מבולבל</l>
+          <l>מחפש את השבילים שמובילים אלייך</l>
+          <l>והיום כמו משוגע אני</l>
+          <l>אם לא איתך אז מה אני</l>
+          <l>ורק לנגוע כדי לא לשכוח</l>
+          <l>איך שאת עדיין בחיים שלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תני לי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ורק לנגוע כדי לא לשכוח</l>
+          <l>איך שאת עדיין בחיים שלי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תני לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

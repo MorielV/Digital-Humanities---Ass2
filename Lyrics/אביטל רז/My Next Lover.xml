@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>My Next Lover</title>
+        <singer classification="unknown">אביטל רז</singer>
+        <writer>אביטל רז</writer>
+        <composer>אביטל רז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>My Next Lover</head>
+        <lg number="1" type="stanza">
+          <l>My next lover will be a butcher</l>
+          <l>He will have big strong hands</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>He'll honor his trade</l>
+          <l>Be gentle and kind</l>
+          <l>(When kindness and gentleness are due...)</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>And he'll do the killing fast</l>
+          <l>While thinking of other things</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>My next lover will have a loud warm laugh and a deep slow voice</l>
+          <l>And he'll give me, give me delight</l>
+          <l>We will not no hunger </l>
+          <l>My lover and I</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>I'll sleep so peacefully under soft feathers till the day I die</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שוב מאוהב</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>איציק קלה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שוב מאוהב</head>
+        <lg number="1" type="stanza">
+          <l>כשנפגשנו מול ירח</l>
+          <l>אני הבטחתי לעצמי</l>
+          <l>שלא היה אצלה אורח</l>
+          <l>ולה אתן את שמי</l>
+          <l>למענה אני הפכתי</l>
+          <l>שחקן לא אמיתי</l>
+          <l>ולה כמעט שחכתי להיות לצידי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שוב מאוהב ולא שולט במצב</l>
+          <l>ההגיון שהיה אבד מולה</l>
+          <l>שוב מאוהב ולא שולט המצב</l>
+          <l>הנשמה שהומה עושה בי מהומה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני הייתי איש רומנטי</l>
+          <l>ונאמן כמו הצל</l>
+          <l>ובשפה של דיפלומטים</l>
+          <l>דיברתי יום וליל</l>
+          <l>אך המשחק שבו שיחקתי</l>
+          <l>גנב את ההצגה</l>
+          <l>וכשעוד לא הפסקתי</l>
+          <l>הלכה לי לדרכה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שוב מאוהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ליבך אכזר</title>
+        <singer classification="unknown">אלון חסון</singer>
+        <writer>שי קסלר</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ליבך אכזר</head>
+        <lg number="1" type="stanza">
+          <l>את יודעת זה כואב</l>
+          <l>שאת עם אחר</l>
+          <l>כי אני אותך אוהב</l>
+          <l>וקשה לי לוותר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמו משחק קלפים</l>
+          <l>את משחקת בי</l>
+          <l>ללא כל רחמים</l>
+          <l>פוגעת בליבי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>למה</l>
+          <l>את מתעלמת</l>
+          <l>בי משחקת</l>
+          <l>נותנת לי לסבול</l>
+          <l>למה</l>
+          <l>עם אחר הולכת</l>
+          <l>ולי גורמת</l>
+          <l>את הלב לאכול</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את רואה אותי בוכה</l>
+          <l>יושב ומדוכא</l>
+          <l>ולא עושה דבר</l>
+          <l>כמה ליבך אכזר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נזכר שלי אמרת</l>
+          <l>אין על מה לדבר</l>
+          <l>את ליבי את שברת</l>
+          <l>יותר ויותר</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הגאווה שלך</l>
+          <l>גורמת לי לבכות</l>
+          <l>בתוך הלב שלך</l>
+          <l>אין רגשות</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>למה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

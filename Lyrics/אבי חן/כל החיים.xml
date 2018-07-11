@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל החיים</title>
+        <singer classification="unknown">אבי חן</singer>
+        <writer>שמוליק קלוסקי</writer>
+        <composer>שמוליק קלוסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל החיים</head>
+        <lg number="1" type="stanza">
+          <l>אני זוכר אותך כמו שהיום   </l>
+          <l>פותחת דלת, זה אולי חלום.</l>
+          <l>עולה, נרגש במדרגות </l>
+          <l>ולא יכול כבר לחכות.  </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואת עומדת ככה מול חיי,</l>
+          <l>רואה אותך, העצב על פני,</l>
+          <l>מתוך עינייך אור גדול</l>
+          <l>נשקף, טהור, אומר הכל.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אמי, אני שר אותך מתוך עצמי,</l>
+          <l>את ערש קיומי וחלומי,</l>
+          <l>אבל היום אני יודע, </l>
+          <l>היית לי כל החיים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ברכי אותי, הבטיחי בוקר טוב,</l>
+          <l>כמו קול קורא, אומר לי לאהוב,</l>
+          <l>לעוף איתך, לצליל קולך</l>
+          <l>מקום אחר, קורא בשמך. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עכשיו את בעולם אחר</l>
+          <l>אבל אני כל כך חסר</l>
+          <l>בתוך אינסוף, שם בכחול, </l>
+          <l>שר כמה שאני יכול.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אמי, אני שר אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

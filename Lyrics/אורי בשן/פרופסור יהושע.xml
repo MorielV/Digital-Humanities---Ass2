@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פרופסור יהושע</title>
+        <singer classification="male singer">אורי בשן</singer>
+        <writer>אורי בשן</writer>
+        <composer>אורי בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פרופסור יהושע</head>
+        <lg number="1" type="stanza">
+          <l>עד שתבוא, אמשיך לחפש</l>
+          <l>כי עד שתבוא, אמשיך לטפס</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואין מוצא למצוא אותה</l>
+          <l>למצוא אותה למצוא אותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עד שתבוא, אמשיך</l>
+          <l>עד שתבוא, אולי תפסיק</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואין מוצא למצוא אותה</l>
+          <l>למצוא אותה, למצוא אותי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יטי ני נאו דאו טאו נאו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

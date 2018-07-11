@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קצת לבדי</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אבי טולדנו</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קצת לבדי</head>
+        <lg number="1" type="stanza">
+          <l>ואתה אבי הטוב כשדיברת אל ליבי</l>
+          <l>סתם אמרתי בסדר, תודה</l>
+          <l>וכשיום אחד פתאום נלקחת ממני</l>
+          <l>שאלות רבות נותרו ללא תשובה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תפסת מקום מאוד קטן</l>
+          <l>נצחי נחשבת בעיני</l>
+          <l>וכשהלכת ממני</l>
+          <l>לקחת איתך קצת מחיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חבל אהובי אבי היקר</l>
+          <l>סליחה לא ידעתי</l>
+          <l>עכשיו אני מרגיש </l>
+          <l>קצת לבדי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואתה הידיד של ימי האפרים</l>
+          <l>לא בקשת ממני דבר</l>
+          <l>רק ידעת להקשיב לסיפורי העצובים</l>
+          <l>וחיממת את ליבי כשהיה קר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תפסת מקום...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>חבל חבר, חבל ידיד</l>
+          <l>סליחה לא ידעתי</l>
+          <l>עכשיו אני מרגיש </l>
+          <l>קצת לבדי</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>וישבת לצידי כל כך הרבה שנים</l>
+          <l>ובקושי העפתי בך מבט</l>
+          <l>ואני עכשיו מנסה בכל כוחי</l>
+          <l>לזכור תווי פניך הנמוגים </l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>תפסת מקום...</l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>חבל אישה, חבל אהובה</l>
+          <l>סליחה לא ידעתי</l>
+          <l>עכשיו אני מרגיש</l>
+          <l>קצת לבדי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

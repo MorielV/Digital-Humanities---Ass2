@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מפנה מקום</title>
+        <singer classification="male singer">אושרי כהן</singer>
+        <writer>ברי סחרוף</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מפנה מקום</head>
+        <lg number="1" type="stanza">
+          <l>אני מפנה מקום בפה לנשיקות שלך</l>
+          <l>מפנה מקום מסביב לשתיקות שלך</l>
+          <l>מפנה מקום בלב ללחיצות שלך</l>
+          <l>מפנה מקום בבטן שאוכל לבלוע אותך</l>
+          <l>אני מפנה מקום בתיבה למכתבים שלך</l>
+          <l>מפנה מקום בראש לשדים שלך</l>
+          <l>מפנה מקום בלחי לסטירות שלך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל כך הרבה מקום ואת בשלך</l>
+          <l>את בשלך</l>
+          <l>כל כך הרבה מקום</l>
+          <l>את יכולה להישאר לישון</l>
+          <l>ואם תהיי לגמרי שלי</l>
+          <l>לא יישאר מקום בשבילי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני מפנה מקום בארון לבגדים שלך</l>
+          <l>מפנה מקום באלבום לתמונות שלך</l>
+          <l>מפנה מקום מול האור לצללית שלך</l>
+          <l>מפנה מקום בחושך לנשימות שלך</l>
+          <l>אני מפנה מקום על הכר לשערות שלך</l>
+          <l>מפנה מקום בפינה לכפכפים שלך</l>
+          <l>מפנה מקום שאליו אוכל לברוח איתך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל כך הרבה מקום ואת בשלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

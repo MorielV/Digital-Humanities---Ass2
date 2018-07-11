@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מילים 2</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>מוריס</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מילים</head>
+        <lg number="1" type="stanza">
+          <l>חייכי אלי. מדוע את שותקת?</l>
+          <l>המילים היו בך עצורות.</l>
+          <l>אם רק תאמרי שאת אותי אוהבת,</l>
+          <l>המילים יהיו בי נצורות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואם את תחייכי, אולי את שוב צוחקת,</l>
+          <l>העצב נעלם, הביטי אל הים.</l>
+          <l>אקח אותך איתי, ברוח השורקת,</l>
+          <l>אל ארץ רחוקה בקצה העולם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גלי לי סוד. אני רק לך שומע,</l>
+          <l>את סודך אשמור לעולמים.</l>
+          <l>אם רק תאמרי את שאני יודע,</l>
+          <l>האהבה תכה בנו גלים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואם את תחייכי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

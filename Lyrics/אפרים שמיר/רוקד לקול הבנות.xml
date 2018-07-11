@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוקד לקול הבנות</title>
+        <singer classification="male singer">אפרים שמיר</singer>
+        <writer>עלי מוהר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוקד לקול הבנות</head>
+        <lg number="1" type="stanza">
+          <l>היו ימים שרק דיברתי ואמרתי שירה</l>
+          <l>בייחוד כשחיזרתי אחרי בחורה</l>
+          <l>ומאז התבגרתי, הבנתי מה הבעיה</l>
+          <l>אולי בלב זה פוגע אבל לא במטרה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז מה נחוץ לי</l>
+          <l>רק קצב, אורות נוצצים</l>
+          <l>מכנסיים ממשי, רחבת ריקודים</l>
+          <l>תנו לי בוגי והרבה אורות</l>
+          <l>כי כשאני מתנועע</l>
+          <l>רוקד לקול הבנות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היום אני לא מדבר כבר</l>
+          <l>כי שכחתי כבר איך</l>
+          <l>אני לא מתבדח, מקסימום מחייך</l>
+          <l>לא רוצה לסובב להן את הראש במילים</l>
+          <l>את זה אני משאיר לאינטלקטואלים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז מה נחוץ לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

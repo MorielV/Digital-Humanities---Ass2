@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אצלי הכל בסדר</title>
+        <singer classification="unknown">אור בן ברוך</singer>
+        <writer>שמרית אור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אצלי הכל בסדר</head>
+        <lg number="1" type="stanza">
+          <l>אותך אני אוהב ודאי לאורך כל הדרך</l>
+          <l>למרות שאת נסערת כבר ממישהו אחר</l>
+          <l>אותך אני אכאב ודאי יותר עם בוא הערב</l>
+          <l>ואם אשכח - הלב תמיד זוכר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איתך היו ימי דולקים כאש תמיד בוערת</l>
+          <l>איך לובן צווארך צונח על כתף זרה.</l>
+          <l>איתך יקדו שוב עלומי בלהבה אחרת -</l>
+          <l>איך השריפה ההיא רק בי נותרה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אצלי הכל בסדר</l>
+          <l>ולא חשוב אם לא אמצא תשובה,</l>
+          <l>אצלי הכל בסדר,</l>
+          <l>היום כבר לא מתים מאהבה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אותך אני אחלום בלילה עם אישה אחרת</l>
+          <l>והכאב ילהיב אותי כמו לפיד בוער,</l>
+          <l>אותך אני אנשום ודאי בכל דקה עוברת,</l>
+          <l>ואם אשכח, הלב תמיד זוכר.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אצלי הכל בסדר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

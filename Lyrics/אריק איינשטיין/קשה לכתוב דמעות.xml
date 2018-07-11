@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קשה לכתוב דמעות</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אילן גולדהירש</writer>
+        <composer>ברי סחרוף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קשה לכתוב דמעות</head>
+        <lg number="1" type="stanza">
+          <l>הלב נצבט ובגרון מחנק</l>
+          <l>והדמעות יורדות להן כמו גשם</l>
+          <l>ולא רואים דבר מרוב אבק</l>
+          <l>ומי יודע איך בכלל לגשת.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רוחות קרות הביתה נכנסות</l>
+          <l>אמת מרה טופחת על פנינו</l>
+          <l>ובאוויר שתיקה קשה מנשוא</l>
+          <l>וערפל בזויות עיניו</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל כך קשה לכתוב דמעות</l>
+          <l>קשה לשאת את הדממה</l>
+          <l>כל כך קשה לשיר דמעות</l>
+          <l>ומי יתננו נחמה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>וצל גדול יושב ממש מולך</l>
+          <l>ענן שחור עוטף את הרקיע</l>
+          <l>וטלטלה אוחזת את כולך</l>
+          <l>אתה הולך, הולך ולא מגיע.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שרק נמצא כוחות להתגבר</l>
+          <l>שרק נמצא מילים בתוך האלם</l>
+          <l>המון מילים רוצות להאמר</l>
+          <l>וכל מילה בתוך דמעה נמהלת.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל כך קשה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

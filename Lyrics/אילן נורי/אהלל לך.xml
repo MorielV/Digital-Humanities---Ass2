@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהלל לך</title>
+        <singer classification="male singer">אילן נורי</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהלל לך</head>
+        <lg number="1" type="stanza">
+          <l>עוד אהלל לך</l>
+          <l>עוד אשתוקק לך</l>
+          <l>את כלילת יופי נערה</l>
+          <l>עוד אייחל לך</l>
+          <l>ליבי צמא לך</l>
+          <l>את השירה בהדרה</l>
+          <l>מה יפות יפות הן שתי עינייך </l>
+          <l>כמה מתוקות גומות החן</l>
+          <l>ושפתייך ממתיקות סודות בחשאי</l>
+          <l>מסתבך אני בלא וכן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהלל לך את שירת חיי</l>
+          <l>אחכה לך עד אחרון ימי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד אקווה לך</l>
+          <l>עוד אשתוקק לך</l>
+          <l>לשפתותיך המתוקות</l>
+          <l>עוד אייחל רק להתעטף בך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהלל לך את שירת חיי</l>
+          <l>אחכה לך עד אחרון ימי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

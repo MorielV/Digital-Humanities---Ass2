@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ריקוד מיותם</title>
+        <singer classification="male singer">אורי זר</singer>
+        <writer>יוני רועה</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ריקוד מיותם</head>
+        <lg number="1" type="stanza">
+          <l>בלילות אהבה יצאתי אל הדרך </l>
+          <l>אם ארצה או לא ארצה כפוף לכוחך </l>
+          <l>בלילות אהבה חשבתי קצת אחרת </l>
+          <l>מרציף על הים הכל נראה שונה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובסוף כשלקחת אותי אני באתי </l>
+          <l>יצאת במחול מטורף בין החום והאש </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תעצרו את הזרם </l>
+          <l>תעצרו את הזמן </l>
+          <l>המנגינה לא חודרת </l>
+          <l>הריקוד מיותם </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בלילות אהבה אבד בי כל החשק </l>
+          <l>על הכביש הגועש ההוא ראיתי דמותך </l>
+          <l>איך פנייך פתאום נפלו בין דמעה להרס </l>
+          <l>כשהופעתי לבוש בירוק נבוך ממולך </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ובסוף כשלקחת אותי אני באתי </l>
+          <l>יצאת במחול מטורף בין החום והאש </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>תעצרו את הזרם... </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>וכשנפגשנו כמו אז ליד העץ </l>
+          <l>היונים רחקו עם עלה שדוהה </l>
+          <l>לא הבנתי לא הבנתי </l>
+          <l>לא אמרנו מילים רק הרוח שרקה </l>
+          <l>באוויר הדחוס הפנתה את גבה </l>
+          <l>לא הבנתי לא הבנתי </l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>אז תעצרו את הזרם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

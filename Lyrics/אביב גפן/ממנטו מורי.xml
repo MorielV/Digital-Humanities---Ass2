@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ממנטו מורי</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>ממנטו מורי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ממנטו מורי</head>
+        <lg number="1" type="stanza">
+          <l>בא ונעלם בא ונעלם ממנטו מורי ממנטו מורי</l>
+          <l>משייט לו בחלל הזמן רץ מהר למרחקים קצרים</l>
+          <l>לא חשוב כמה שהוא יצעק</l>
+          <l>הרי כל הכוכב הזה משדר בתדרים קלושים</l>
+          <l>כולנו לבד</l>
+          <l>כולנו לבד כולנו גוססים</l>
+          <l>כולנו לבד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שנה טובה</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>לוין קיפניס</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שנה טובה</head>
+        <lg number="1" type="stanza">
+          <l>שנה הלכה, שנה באה</l>
+          <l>אני כפי ארימה</l>
+          <l>שנה טובה לך, אבא,</l>
+          <l>שנה טובה לך, אמא</l>
+          <l>שנה טובה, שנה טובה!</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שנה טובה לדוד גיבור</l>
+          <l>אשר על המשמרת</l>
+          <l>ולכל נוטר, בעיר, בכפר,</l>
+          <l>ברכת "חזק" נמסרת.</l>
+          <l>שנה טובה, שנה טובה!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שנה טובה, טייס אמיץ,</l>
+          <l>רוכב במרום שמיים,</l>
+          <l>ורוב שלום מלח עברי,</l>
+          <l>עושה דרכו במים.</l>
+          <l>שנה טובה, שנה טובה!</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שנה טובה לכל עמל</l>
+          <l>בניר וגם במלט,</l>
+          <l>שנה טובה ומתוקה</l>
+          <l>לכל ילדה וילד!</l>
+          <l>שנה טובה, שנה טובה!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

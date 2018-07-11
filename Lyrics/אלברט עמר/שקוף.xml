@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שקוף</title>
+        <singer classification="male singer">אלברט עמר</singer>
+        <writer>דניאלה כרמי</writer>
+        <composer>אלברט עמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שקוף</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>מהרגע הראשון אתה מרגיש שקוף</l>
+          <l>הן דרכך רואים, אתה לא נראה</l>
+          <l>יש לך נשמה, כבר לא נשאר גוף</l>
+          <l>כן, הם עושים אותך שקוף מהתחלה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בן עשר נחתת מצפון אפריקה</l>
+          <l>והרי לא קוף אתה, אלא אדם</l>
+          <l>למדבר אתה נזרק, אומרים: זהו ביתך</l>
+          <l>ומן הגוף הולך אוזל הדם...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה לא עניין של קושי, גם לא של פרנסה</l>
+          <l>עניים הן יש בכל מקום לרוב</l>
+          <l>אתה פשוט שקוף כי הם עושים אותך כזה</l>
+          <l>וזה עניין של חוסר צבע טוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מהרגע הראשון אתה מרגיש שקוף...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נזרק מבית הספר, מורחק לפנימיה</l>
+          <l>וממוסד דתי לישיבה</l>
+          <l>שקוף כמו נהר, הם לא רואים אותך</l>
+          <l>מחליק בין הדפים של תלמודך</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מביט בך אביך, עיניו מעורפלות</l>
+          <l>גם הוא אותך הפסיק מזמן לקלוט</l>
+          <l>שוקע בעצמו ולא מוצא דבר</l>
+          <l>כי גם דרכו אפשר עכשיו לראות</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>מהרגע הראשון אתה מרגיש שקוף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

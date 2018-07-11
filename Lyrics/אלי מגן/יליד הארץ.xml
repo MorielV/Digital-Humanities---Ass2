@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יליד הארץ</title>
+        <singer classification="unknown">אלי מגן</singer>
+        <writer>אהוד מנור</writer>
+        <composer>מישה סגל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יליד הארץ</head>
+        <lg number="1" type="stanza">
+          <l>אבא שר אני לך,</l>
+          <l>על שיום אחד</l>
+          <l>קמת ותלך.</l>
+          <l>אמא זה השיר הוא לך,</l>
+          <l>על ימי לכתך</l>
+          <l>אחרי אבי לכאן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שמש בא אל החלון,</l>
+          <l>ענף ירוק מלילה נעור,</l>
+          <l>וילד שפקח עיניו לתכלת</l>
+          <l>כאן בארץ אל,</l>
+          <l>בצל כרמל,</l>
+          <l>ליד הנחל.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אדום עולה עולה</title>
+        <singer classification="male singer">אבי פרץ</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אדום עולה עולה</head>
+        <lg number="1" type="stanza">
+          <l>זה הרגע הגדול, הכדור הוא עוד עגול,</l>
+          <l>אך אדום הוא כמובן וחיכינו לו מזמן</l>
+          <l>כל אחד הוא כאן אלוף, עוד מעט נתחיל לעוף,</l>
+          <l>חגיגה גדולה היום כי הגענו לחלום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>האדום עולה עולה ופורש כנפיים,</l>
+          <l>האדום עולה עולה, רובי בשמיים,</l>
+          <l>אז כולם יודעים שמה? שחיפה היא אדומה</l>
+          <l>אלופה אלופה הפועל חיפה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זוהי פעם ראשונה, אבל לא האחרונה,</l>
+          <l>כי שנייה לא תאחר תשאר ותשאר</l>
+          <l>בקריות ובמפרץ, שיר אחד עולה ורץ,</l>
+          <l>בנמל ובכרמל חיפה היא של הפועל!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האדום עולה עולה ופורש כנפיים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כולם יודעים שחיפה אדומה...</l>
+          <l>כולם יודעים שחיפה אלופה...</l>
+          <l>כולם יודעים שחיפה אדומה...</l>
+          <l>כולם יודעים שחיפה אלופה...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>האדום עולה עולה ופורש כנפיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

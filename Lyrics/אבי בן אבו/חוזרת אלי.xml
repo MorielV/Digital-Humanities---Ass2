@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חוזרת אלי</title>
+        <singer classification="unknown">אבי בן אבו</singer>
+        <writer>אבי בן אבו</writer>
+        <composer>אבי בן אבו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חוזרת אלי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>ליבי נשרף בין דפי מכתבייך</l>
+          <l>ממית מילותי מחייה מילותייך</l>
+          <l>באנחה שוקע ומניח ראשי</l>
+          <l>מתמלא בעצבות</l>
+          <l>אך הכול משתנה </l>
+          <l>כשאת חוזרת אלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חוזרת אלי</l>
+          <l>אני חולם</l>
+          <l>מביטה לכאן</l>
+          <l>ושוב חולם</l>
+          <l>הכל מתפורר</l>
+          <l>אני מתעורר</l>
+          <l>עיני נישאות אלייך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>גשם מטהר לאט את חלוני</l>
+          <l>מביט לחלון כשם שהיה זה אני</l>
+          <l>גדול ועצום ההבדל בין הפה אל השם</l>
+          <l>שם זחלתי</l>
+          <l>עכשיו אני קם</l>
+          <l>כשאת - חוזרת אלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חוזרת אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

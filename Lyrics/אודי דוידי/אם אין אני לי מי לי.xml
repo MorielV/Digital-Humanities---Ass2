@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם אין אני לי מי לי</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>רוחות טובות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם אין אני לי מי לי</head>
+        <lg number="1" type="stanza">
+          <l>לאן שלא תלך לאן שלא תפנה אתה </l>
+          <l>תמיד תוכל לראות את כל הטוב שבבריאה </l>
+          <l>תמיד תדע לשתול </l>
+          <l>זרעים של אהבה </l>
+          <l>מסביבך </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הזמן יקר כל כך והמלאכה רבה </l>
+          <l>והזרעים טמונים עמוק עמוק בתוכך </l>
+          <l>אז צא לדרכך </l>
+          <l>פזר אותם מסביבך </l>
+          <l>בעצמך </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם אין אני לי - מי לי? </l>
+          <l>וכשאני לעצמי - מה אני? </l>
+          <l>ואם לא עכשיו אי מתי? </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>המחרשה שבידך היא רק אמונתך </l>
+          <l>והתלמים שבשדך הם כוח בחירתך </l>
+          <l>אז רק תבחר בטוב</l>
+          <l>תדע רק לאהוב </l>
+          <l>את עולמך </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ולפעמים אתה קצת מתעייף במלאכה </l>
+          <l>ומבקש שמישהו יושיט יד אל ידך </l>
+          <l>חפש בתוכך </l>
+          <l>חפש בנשמתך </l>
+          <l>זה כוחך </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אם אין אני לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

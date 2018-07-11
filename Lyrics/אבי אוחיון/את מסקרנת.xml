@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את מסקרנת</title>
+        <singer classification="unknown">אבי אוחיון</singer>
+        <writer>מיכה מלכה</writer>
+        <composer>מרטי קרפל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את מסקרנת</head>
+        <lg number="1" type="stanza">
+          <l>רואה אותך עומדת מול מראה </l>
+          <l>לובשת מחשוף לא מדברת </l>
+          <l>ולא שואלת אם אני יפה </l>
+          <l>אתמול אותי דחית בחושך בלי סיבה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוד שעה הולכים למסיבה </l>
+          <l>האורחים רואים כמה מפתה</l>
+          <l>בחיוך מרוחק מושיטה לו יד</l>
+          <l>התנשקת איתו בריקוד מושחת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את מסקרנת שונה הורסת</l>
+          <l>ואיך כולם לך מחאו כפיים</l>
+          <l>היית נבוכה והבטת בי</l>
+          <l>אם אני כאן לך מחכה עדין</l>
+          <l>את מסקרנת שונה הורסת</l>
+          <l>ובכבדות הלכתי אחרייך</l>
+          <l>ישבנו על צוק מול הים</l>
+          <l>כל גל שהתנפץ הכאיב יותר בלב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שבוע נעלמת אני עוזב לבד </l>
+          <l>כי את את בי משחקת </l>
+          <l>תופס רכבת בצידי הכביש</l>
+          <l>בורח והעיר מתרחקת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בקרון מולי את מתנשפת </l>
+          <l>סילקת ידו וקראת לי לשבת</l>
+          <l>מרגיש החמצה אך עדין אוהב</l>
+          <l>וכמה את לא מובנת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את מסקרנת שונה הורס...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

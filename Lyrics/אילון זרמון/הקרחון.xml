@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הקרחון</title>
+        <singer classification="unknown">אילון זרמון</singer>
+        <writer>אילון זרמון</writer>
+        <composer>אילון זרמון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הקרחון</head>
+        <lg number="1" type="stanza">
+          <l>אין לי אויר מתחת למים, </l>
+          <l>פי כבר מלא וכואב בחזה, </l>
+          <l>פתח קטן עם פנים לשמים, </l>
+          <l>אני מחפש ובועות מפזר. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אין לי סיבה לנוח בינתיים, </l>
+          <l>למרות שגופי מאומץ ועייף. </l>
+          <l>קודם אמצא לנו דרך לשניים, </l>
+          <l>אז אל תצפי שעכשיו אחייך. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מעל הקרחון על פני המים </l>
+          <l>יש אור קטן ואני מעודד, </l>
+          <l>חתרי בעוצמה, השתמשי ברגליים </l>
+          <l>אם את לא רוצה לטבוע לבד. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין לך כבר זמן לנסות להצדיק </l>
+          <l>מסביבך הדגים רעבים למגע. </l>
+          <l>אני לא מתכוון להמשיך להציק. </l>
+          <l>קפצנו למים אך עדיף אדמה. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ולי אין אויר מתחת למים, </l>
+          <l>פי כבר מלא וכואב בחזה. </l>
+          <l>קודם אמצא לנו דרך לשניים, </l>
+          <l>אני מחפש ובועות מפזר. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מעל הקרחון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התחלה</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>אלי חוג'ה</writer>
+        <composer>איציק קלה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התחלה</head>
+        <lg number="1" type="stanza">
+          <l>כל החלומות שהיו</l>
+          <l>באת כמלאך בלבן</l>
+          <l>כמו התחלה כמו בוקר חדש</l>
+          <l>כמו עוד תינוק שנולד</l>
+          <l>כמו ההתחלה אותה התפילה</l>
+          <l>עד אשר תהיי לי לעד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אילו רק היית נוגעת בידי</l>
+          <l>והיית הכוכב מעלי</l>
+          <l>אילו רק היית רואה בי כעיני</l>
+          <l>הדמעות שכבשתי</l>
+          <l>ותפילות שלחשתי</l>
+          <l>אוהב אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אילו רק נפקח את עינינו</l>
+          <l>אם נחייך לעולם</l>
+          <l>ואם נאמין שהאושר קיים</l>
+          <l>תני את ידך כי זה הזמן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אילו רק היית נוגעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את עושה לי רע</title>
+        <singer classification="unknown">אורי מרק</singer>
+        <writer>אורי מרק</writer>
+        <composer>אורי מרק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את עושה לי רע</head>
+        <lg number="1" type="stanza">
+          <l>כמה ענוג הוא הרגע </l>
+          <l>כמה ענוג הוא הרגע </l>
+          <l>כמה ענוג הוא הרגע </l>
+          <l>מה יהיה בעוד רגע? </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא מוכרחים לדבר על </l>
+          <l>לא מוכרחים לדבר על </l>
+          <l>לא מוכרחים לדבר עלי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואת עושה לי רע </l>
+          <l>את עושה לי רע </l>
+          <l>אני נשרף לאט </l>
+          <l>אני מוטל ואת </l>
+          <l>את עושה לי רע </l>
+          <l>את עושה לי רע </l>
+          <l>אם רק היה אפשר, </l>
+          <l>היית קם ו...</l>
+          <l>קם ו...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמה ענוג הוא הרגע </l>
+          <l>כמה ענוג הוא הרגע </l>
+          <l>כמה ענוג הוא הרגע </l>
+          <l>מה יהיה בעוד רגע? </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא מוכרחים לדבר על </l>
+          <l>לא מוכרחים לדבר על </l>
+          <l>לא מוכרחים לדבר עלי </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ואת עושה לי רע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

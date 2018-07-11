@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שחרחורת</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>משה אלימלך</writer>
+        <composer>עממי פרסי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שחרחורת</head>
+        <lg number="1" type="stanza">
+          <l>שחרחורת יקראוני צח היה עורי</l>
+          <l>ומלהט שמש קיץ בא לי שחורי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שחרחורת יפיפית כל כך</l>
+          <l>בעינייך אש בוערת ליבי כולו שלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שחרחורת יקראוני כל יורדי הים</l>
+          <l>אם עוד פעם יקראוני שוב אלך איתם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שחרחורת יקראני בן לאב מוֹלך</l>
+          <l>אם עוד פעם יקראני אחריו אלך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

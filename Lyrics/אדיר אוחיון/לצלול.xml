@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לצלול</title>
+        <singer classification="unknown">אדיר אוחיון</singer>
+        <writer>אדיר אוחיון</writer>
+        <composer>אדיר אוחיון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לצלול</head>
+        <lg number="1" type="stanza">
+          <l>חפש יותר עמוק </l>
+          <l>חפש רחוק ואל תשתוק, חפש רחוק </l>
+          <l>חפש יותר בפנים</l>
+          <l>חפש את מה שלא רואים </l>
+          <l>חפש מעצורים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואז תוכל לראות </l>
+          <l>במקום לעוף תתחיל לצלול </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תקלף את הפצעים </l>
+          <l>תחשוף את מה שלא יודעים </l>
+          <l>תראה לאנשים</l>
+          <l>כי מה כולם רוצים, </l>
+          <l>כולם רוצים פצעים פתוחים</l>
+          <l>תראה לאנשים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואז תוכל לראות </l>
+          <l>במקום לעוף תתחיל לצלול </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תצלול אווו </l>
+          <l>אל תיפול, אל תיפול , אל תיפול </l>
+          <l>תצלול אווו </l>
+          <l>אל תיפול, אל תיפול, אל תיפול </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>תקלף את הפצעים...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>תצלול אווו</l>
+          <l>אל תיפול, אל תיפול, אל תיפול</l>
+          <l>תצלול אווו</l>
+          <l>אל תיפול, אל תיפול, אל תיפול</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

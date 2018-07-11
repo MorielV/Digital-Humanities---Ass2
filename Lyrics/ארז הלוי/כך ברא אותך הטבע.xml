@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כך ברא אותך הטבע</title>
+        <singer classification="male singer">ארז הלוי</singer>
+        <writer>ארז הלוי</writer>
+        <composer>ארז הלוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כך ברא אותך הטבע</head>
+        <lg number="1" type="stanza">
+          <l>כך ברא אותך הטבע</l>
+          <l>עם קצת דמיון ומחשבה חופשית</l>
+          <l>אז תן לזה לגדול מהתחלה בבקשה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל תנסה להילחם בזה</l>
+          <l>אל תנסה להשתנות</l>
+          <l>כי זה תמיד יבוא מהתחלה פתאום</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי כך ברא אותך הטבע...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל תנסה להילחם בזה</l>
+          <l>אל תנסה להשתנות</l>
+          <l>כי זה תמיד יבוא מהתחלה פתאום</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כי כך ברא אותך הטבע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

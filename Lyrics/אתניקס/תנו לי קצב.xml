@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תנו לי קצב 2</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תנו לי קצב</head>
+        <lg number="1" type="stanza">
+          <l>יש לי ידיים קרובות אל השמיים</l>
+          <l>וזוג רגליים שרוקדות הכל</l>
+          <l>תנו לי רק קצב ולא לחיות בעצב</l>
+          <l>לא להטביע יגון באלכוהול.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשהמצב קשה ורע לכולם</l>
+          <l>הקצב מרפא בכל העולם -</l>
+          <l>דיסקו טוב לזוז</l>
+          <l>טרנס עדיף על בלוז</l>
+          <l>כל ריקוד סוחף עושה לכם כיף!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בתוך הקצב אני מרגיש גבוה</l>
+          <l>הראש שתפסתי עכשיו מתחיל לחיות</l>
+          <l>גם את רוקדת ויש לך אופנוע</l>
+          <l>איתך אצא כל הלילה לבלות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשהמצב קשה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

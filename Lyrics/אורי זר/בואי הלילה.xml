@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בואי הלילה</title>
+        <singer classification="male singer">אורי זר</singer>
+        <writer>יוני רועה</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בואי הלילה</head>
+        <lg number="1" type="stanza">
+          <l>השעות עומדות כך מלכת </l>
+          <l>ובסמטאות נושב הסתיו </l>
+          <l>את ואני ביום של שלכת </l>
+          <l>מחפשים לנו דרך בנתיב מעורפל </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תנסי להיות צודקת </l>
+          <l>אל תנסי להיות שונה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואי הלילה </l>
+          <l>בואי עכשיו </l>
+          <l>בואי הלילה </l>
+          <l>ושנינו ביחד נאהב </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>משהו מדליק בך את החושך </l>
+          <l>ושולח הכל לארץ זרה </l>
+          <l>משהו ניצת בך הלילה </l>
+          <l>והופך את הכל לשקט נורא </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל תנסי להיות צודקת </l>
+          <l>אל תנסי להיות שונה </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בואי הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

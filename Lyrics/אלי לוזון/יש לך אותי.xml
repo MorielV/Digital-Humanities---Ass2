@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לך אותי 2</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>צוף פילוסוף</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לך אותי</head>
+        <lg number="1" type="stanza">
+          <l>לכי ילדה אהובה אל חופים רחוקים</l>
+          <l>אל חלומות אחרים</l>
+          <l>יש עוד דרכים שאותן לא עברו מעולם</l>
+          <l>לכי לשם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קחי לך ילדה אהובה את תרמיל האתמול</l>
+          <l>יש בו כמעט את הכל</l>
+          <l>לכי ילדה אהובה, כי עוד לא מאוחר</l>
+          <l>אל המחר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא, לא, אל תשכחי</l>
+          <l>גם כשעצוב לך</l>
+          <l>יש לך אותי</l>
+          <l>לא, לא, אל תשכחי</l>
+          <l>אני כאן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל תכעסי אהובה, אם נתנו לך לחשוב</l>
+          <l>אין כאן מקום לאהוב</l>
+          <l>פעם היה זה חלום</l>
+          <l>שאליו מגיעים</l>
+          <l>ממקומות אחרים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא, לא, אל תשכחי...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ואני כבר עייפתי מאוד</l>
+          <l>על שנים אבודות לא אבכה עוד</l>
+          <l>כשביקשתי למצוא את הסוד</l>
+          <l>זה שגם לך מחכה</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>לכי ילדה אהובה אל חופים רחוקים</l>
+          <l>אל חלומות אחרים</l>
+          <l>יש עוד דרכים נסתרות להגיע דרכן</l>
+          <l>לכי איתן</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>לא, לא, אל תשכחי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

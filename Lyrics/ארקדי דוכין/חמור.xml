@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חמור 2</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>גלעד כהנא</writer>
+        <composer>missing</composer>
+        <album>חלומות למבוגרים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חמור</head>
+        <lg number="1" type="stanza">
+          <l>על פניו הכל בסדר</l>
+          <l>כל אחד בצד שלו</l>
+          <l>את אומרת לילה טוב פתאום</l>
+          <l>זה ברור שלא בסדר</l>
+          <l>ונדמה שזה רגיל</l>
+          <l>אבל כבר לא זוכר איך זה התחיל.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אנ'לא מתנצל, אפילו אם אני אשם</l>
+          <l>חמור קשור בחבל, </l>
+          <l>מתעצל </l>
+          <l>לקום, להשתחרר</l>
+          <l>להפיל את הגדר</l>
+          <l>לפני שאת עומדת לוותר</l>
+          <l>אנ'לא נושם..</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני נזכר איך שהיכרנו </l>
+          <l>את היית כל כך יפה</l>
+          <l>לא הפסקתי לחייך שנה</l>
+          <l>מחכה שתירדמי כבר</l>
+          <l>כדי ללחוש את המילים</l>
+          <l>את צודקת שוב, יקירתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אנ'לא מתנצל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

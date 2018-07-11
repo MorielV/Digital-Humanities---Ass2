@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלכה בלי כתר</title>
+        <singer classification="unknown">אבי דן</singer>
+        <writer>יוש גרנות</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלכה בלי כתר</head>
+        <lg number="1" type="stanza">
+          <l>מלכה בלי כתר, נשמתי כבשה היא</l>
+          <l>לליבי פלשה היא, אהבתיה</l>
+          <l>מלכה בלי כתר, יפה היא כמו פרח</l>
+          <l>שלה אני לנצח, אהבתיה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הנה היא עולה, נסיכת הלבבות</l>
+          <l>מאירה את פני, מאירה את יומי</l>
+          <l>שולטת בליבי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מלכה בלי כתר, עם שתי שפתי ורד</l>
+          <l>אהביני מלכה בלי כתר, שאת מחייכת</l>
+          <l>הזמן עומד מלכת אהביני</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הנה היא עולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

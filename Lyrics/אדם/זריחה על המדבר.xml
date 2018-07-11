@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זריחה על המדבר</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>אלונה קמחי</writer>
+        <composer>יזהר אשדות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זריחה על המדבר</head>
+        <lg number="1" type="stanza">
+          <l>זריחה על המדבר, עולה לאט לאט</l>
+          <l>נדרך אל המחר, בלי להרגיש כמעט</l>
+          <l>הילד בתוכי הולך לי לאיבוד</l>
+          <l>עכשיו זה אמיתי, קרב סף הבגרות</l>
+          <l>עוצם את העינים, שוכח את כולם</l>
+          <l>חובק את השמיים</l>
+          <l>ולוקח פסק זמן מהעולם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והלב קורא, והלב קורא</l>
+          <l>לפגישות חדשות וערים רחוקות</l>
+          <l>אהבות שאוהב וכאב שאכאב ממחר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתוך השכחה, הזכרונות עולים</l>
+          <l>חמים כמו הזריחה, פרועים כמו הגלים</l>
+          <l>בנעלי עקב וגופיה כתומה</l>
+          <l>כשהיא רקדה הלב דילג על פעימה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והלב קורא, והלב קורא...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אותו חלום מתוק, הולך ונעלם</l>
+          <l>נושם עמוק עמוק</l>
+          <l>ולוקח פסק זמן מהעולם.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>והלב קורא, והלב קורא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

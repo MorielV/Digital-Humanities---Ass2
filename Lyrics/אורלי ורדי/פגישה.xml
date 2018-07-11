@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פגישה 7</title>
+        <singer classification="unknown">אורלי ורדי</singer>
+        <writer>איציק המרמן</writer>
+        <composer>עופר המרמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פגישה</head>
+        <lg number="1" type="stanza">
+          <l>אתה זוכר היום,</l>
+          <l>היה זה כמו חלום.</l>
+          <l>באת אלי בסוף בילוי.</l>
+          <l>שתינו כוס קפה,</l>
+          <l>היה כל כך נחמד אתך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ערב לא רגיל,</l>
+          <l>מה אוכל לומר.</l>
+          <l>שהתאהבתי כבר מזמן.</l>
+          <l>היה לי די קשה</l>
+          <l>לומר לך את זה:</l>
+          <l>"אני אוהבת אותך".</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מהמילים אליך לא יצא לי כלום.</l>
+          <l>אם תרצה אותי אז בוא אלי.</l>
+          <l>ולזרועותיך אז אפול,</l>
+          <l>ללא כל הכנה וללא כל בעיה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>השעה היא כבר חמש,</l>
+          <l>התרנגול קרא.</l>
+          <l>בוא נבלה כך עוד דקה.</l>
+          <l>נפגש היום באותו מקום,</l>
+          <l>אותך ארצה לראות.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מהמילים אליך לא יצא לי כלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

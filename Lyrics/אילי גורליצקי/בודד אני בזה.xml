@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בודד אני בזה</title>
+        <singer classification="male singer">אילי גורליצקי</singer>
+        <writer>נתן אלתרמן</writer>
+        <composer>סשה ארגוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בודד אני בזה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>בודד אני בודד - ישא אותי הרוח</l>
+          <l>מולך, מולך, מולך. מולך ולא מלוח.</l>
+          <l>מה טוב היה לשתות טיפה מנאד היין, </l>
+          <l>אבל הנאד אוהב להשתות בשתיים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>(ופה יחיד המלך, הא אמי אמי.</l>
+          <l>זוהי צרה צרורה, יש מה ואין עם מי.)</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הרי לך מרוב משחק וחילופין,</l>
+          <l>למלך אין עם מי לשתות בגילופין.</l>
+          <l>בית הנשים אולי לרוץ - חיים של כלב!</l>
+          <l>אבל האלף שם! יכני רעם! ... אלף!</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>(הלא אפשר באלה להטיל אימה</l>
+          <l>לא רק על מלך, על ממשלה שלמה.)</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בודד אני בודד - ישא אותי הרוח</l>
+          <l>מולך, מולך, מולך. מולך ולא מלוח.</l>
+          <l>מה טוב היה לשתות טיפה מנאד היין, </l>
+          <l>אבל הנאד אוהב להשתות בשתיים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

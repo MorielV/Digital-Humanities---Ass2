@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רץ אלי חזק</title>
+        <singer classification="unknown">איתמר רוטשילד</singer>
+        <writer>איתמר רוטשילד</writer>
+        <composer>איתמר רוטשילד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רץ אלי חזק</head>
+        <lg number="1" type="stanza">
+          <l>משהו רץ אלי חזק </l>
+          <l>ואין לי כח להילחם </l>
+          <l>אנ'לא נותן לו לעבור </l>
+          <l>שלא ייצא שיתגשם </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>משהו מאותת לי ממרחק </l>
+          <l>דורך על קצות העצבים </l>
+          <l>אנ'לא נותן לו לעבור </l>
+          <l>שלא ייצא מהקווים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>משהו מסתיר אותי בחדר </l>
+          <l>משהו משגע לי ת'אור </l>
+          <l>מזהיר אותי שלא אהיה נוגע </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>משהו נוסע בי מהר </l>
+          <l>כמעט לכל האיברים </l>
+          <l>אנ'לא נותן לו לעבור </l>
+          <l>שלא יראו האחרים </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>משהו מסתיר אותי בחדר </l>
+          <l>משהו משגע לי ת'אור </l>
+          <l>מזהיר אותי שלא אהיה נוגע</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

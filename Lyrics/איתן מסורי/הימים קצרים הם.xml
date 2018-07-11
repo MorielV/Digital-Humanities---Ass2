@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הימים קצרים הם</title>
+        <singer classification="male singer">איתן מסורי</singer>
+        <writer>נתן יונתן</writer>
+        <composer>איתן מסורי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הימים קצרים הם</head>
+        <lg number="1" type="stanza">
+          <l>הימים קצרים הם והעת עוברת,</l>
+          <l>והעת עוברת כחלום.</l>
+          <l>רק אחת ניצחית היא ותמיד נשארת:</l>
+          <l>מנגינת הפלא והתום.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הימים קצרים הם והעת עוברת,</l>
+          <l>יד אחים נושיט אל כל אדם.</l>
+          <l>אף אם לא נגיע אל סיום הדרך</l>
+          <l>הניגון לנצח לא ייתם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הניגון עתיק הוא, אלף מחיינו,</l>
+          <l>אך ללב לנצח הוא צעיר.</l>
+          <l>לנו, כי דלונו בתוגת עניינו,</l>
+          <l>לא נותר מאום זולת השיר.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

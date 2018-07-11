@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אותך רוצה</title>
+        <singer classification="male singer">אליקו</singer>
+        <writer>דודו דחבש</writer>
+        <composer>מוטי בן אב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אותך רוצה</head>
+        <lg number="1" type="stanza">
+          <l>ימים רבים חשקתי בך</l>
+          <l>מהיום הראשון רציתי רק אותך</l>
+          <l>את אמרת לא יודעת</l>
+          <l>מאהבה התאכזבת</l>
+          <l>הוא פגע ואכזב</l>
+          <l>הוא אותך לא אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני אותך רוצה אך לא מוצא</l>
+          <l>את אמרת לא ילך ליבי דועך</l>
+          <l>איך אמצא ילדה כמוך שאותי תאהב</l>
+          <l>לעולם לעולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פעם לי אמרת שאולי</l>
+          <l>בליבי אמרתי הלוואי</l>
+          <l>להיות איתך זה כל חיי</l>
+          <l>לתת רק לך את כל חיי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני אותך רוצה אך לא מוצא...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>איך אמצא ילדה כמוך שאותי תאהב</l>
+          <l>לעולם לעולם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

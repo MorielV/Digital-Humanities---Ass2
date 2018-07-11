@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משחקת במילים</title>
+        <singer classification="unknown">אורי שביט</singer>
+        <writer>אורי שביט</writer>
+        <composer>אורי שביט</composer>
+        <album>משחקת במילים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משחקת במילים</head>
+        <lg number="1" type="stanza">
+          <l>מתקפל בתוך כורסא	</l>
+          <l>אני מתפוצצת מולך	</l>
+          <l>לא מדברת עם עצמי	</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מתפורר לכדי אבקה	</l>
+          <l>עושה את עצמך צוחק </l>
+          <l>שופך עלי דליים של מים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עוד לא למדת לעצור אותי	</l>
+          <l>אם ניפול אם ניעלם	</l>
+          <l>בתוך בטנן של מכונות	</l>
+          <l>על גב משאיות בשמש	</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תסתכלי לאן את דוחפת </l>
+          <l>נותנת לסוסים שלך לדהור	</l>
+          <l>תסתכלי לאן את דוחפת	</l>
+          <l>האבן כבר מונחת על הבור	</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>משחקת במילים	</l>
+          <l>הכי הרבה מהר יותר	</l>
+          <l>אף פעם לא נתחיל מהתחלה	</l>
+          <l>תמיד יהיה עוד פרט קטן שיישאר </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עוד לא למדת לעצור אותי	</l>
+          <l>אם ניפול אם ניעלם	</l>
+          <l>בתוך בטנן של מכונות	</l>
+          <l>על גב משאיות בשמש	</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>תסתכלי לאן את דוחפת </l>
+          <l>נותנת לסוסים שלך לדהור	</l>
+          <l>תסתכלי לאן את דוחפת	</l>
+          <l>האבן כבר מונחת על הבור</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

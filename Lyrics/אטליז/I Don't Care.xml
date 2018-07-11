@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>I Don t Care</title>
+        <singer classification="band">אטליז</singer>
+        <writer>גיא בן שיטרית</writer>
+        <composer>מאיה דוניץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>I Don't Care</head>
+        <lg number="1" type="stanza">
+          <l>I wanted to say but I don't care </l>
+          <l>I don't care </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>I wanted to give but I don't share </l>
+          <l>I don't share </l>
+          <l>I don't </l>
+          <l>I don't share </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>I like the sun and I wanna be </l>
+          <l>With you riding on an icy dancing floor tonight </l>
+          <l>The river takes us </l>
+          <l>With you riding on an icy dancing floor tonight </l>
+          <l>The river takes us </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>With you riding on an icy dancing floor tonight </l>
+          <l>The river takes us </l>
+          <l>With you riding on an icy dancing floor tonight </l>
+          <l>With me </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>I don't care </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>I like the sun </l>
+          <l>And I wanna be </l>
+          <l>With you riding on an icy dancing floor tonight </l>
+          <l>The river takes us </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>With you riding on an icy dancing floor tonight </l>
+          <l>The river takes us </l>
+          <l>With you riding on an icy dancing floor tonight </l>
+          <l>With me </l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>I like the sun </l>
+          <l>and I wanna be in the sun </l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>With you riding on an icy dancing floor tonight </l>
+          <l>The river takes us</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברוך הבא</title>
+        <singer classification="unknown">אורית בסלו</singer>
+        <writer>דודו ברק</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברוך הבא</head>
+        <lg number="1" type="stanza">
+          <l>וכשתבוא ממרחקים, </l>
+          <l>שוב יפתח השער,</l>
+          <l>בנשיקות וחיבוקים, </l>
+          <l>אז נקבל אותך.</l>
+          <l>וכשתבוא ממרחקים,</l>
+          <l>זקן ואיש ונער,</l>
+          <l>נגיש זרים וממתקים, </l>
+          <l>לך ולכבודך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וכשתבוא עייף משם, </l>
+          <l>פרוע ויגע,</l>
+          <l>נפרוש מפה על השולחן, </l>
+          <l>נציע כס מלכות.</l>
+          <l>וכשתבוא מעבר ים, </l>
+          <l>נרגש וקצת דומע,</l>
+          <l>תראה פתאום, כולנו כאן, </l>
+          <l>בחסד ובזכות.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ברוך הבא, שלום לך,</l>
+          <l>ברוך הבא אל זה הבית, אל המשפחה.</l>
+          <l>ברוך הבא, אל המנוחה,</l>
+          <l>לך חיכינו, כי אנחנו, אוהבים אותך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הנה המלח והפת, </l>
+          <l>הנה קנקן היין,</l>
+          <l>דגים, עופות וצלי בקר,</l>
+          <l>פירות וירקות.</l>
+          <l>עוגות אפתה לך הבת, </l>
+          <l>ימתקו השפתיים,</l>
+          <l>ומה בעצם עוד נשאר, </l>
+          <l>לצחוק וגם לבכות.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ועוד נשיר לך שירים, </l>
+          <l>מתוך חדרי הבטן,</l>
+          <l>אל תוך הלילה המואר,</l>
+          <l>נשלח ריקוד סוער.</l>
+          <l>הלב מכה, חוצב הרים,</l>
+          <l>הנשמה רוטטת,</l>
+          <l>תגיד רק שאתה נשאר, </l>
+          <l>שלא תלך יותר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ברוך הבא, שלום לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

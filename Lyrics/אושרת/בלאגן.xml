@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלאגן 3</title>
+        <singer classification="unknown">אושרת 2</singer>
+        <writer>אלכס זיו</writer>
+        <composer>אלכס זיו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלאגן</head>
+        <lg number="1" type="stanza">
+          <l>אתה נותן לי סימנים</l>
+          <l>ופתאום מרפה</l>
+          <l>כבר הבנתי ת'כללים</l>
+          <l>במשחק הזה</l>
+          <l>ואני כמו חוט ארוך</l>
+          <l>נקשרת מסביבך</l>
+          <l>מנסה להתרחק אי אפשר איתך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בלב יש תופים שמתגברים</l>
+          <l>הקצב עולה מבפנים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בלאגן, בלאגן בלאגן בלאגן בגללך</l>
+          <l>אתה בא משחק אותה נסיך על סוס לבן</l>
+          <l>בלאגן, בלאגן בלאגן בלאגן רק אתך</l>
+          <l>אתה עושה לי בלאגן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואליי אתה מביט</l>
+          <l>שולח רמזים</l>
+          <l>מותק כבר לימדו אותי</l>
+          <l>את כל התכסיסים</l>
+          <l>בחורים יפים כל כך</l>
+          <l>הציעו הצעות</l>
+          <l>אך אני פשוט דפוקה</l>
+          <l>אין מה לעשות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בלב יש תופים שמתגברים</l>
+          <l>בום בום בום בום מבפנים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בלאגן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

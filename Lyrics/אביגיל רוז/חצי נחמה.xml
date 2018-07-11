@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חצי נחמה</title>
+        <singer classification="unknown">אביגיל רוז</singer>
+        <writer>אביגיל רוז</writer>
+        <composer>אביגיל רוז</composer>
+        <album>אביגיל רוז</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חצי נחמה</head>
+        <lg number="1" type="stanza">
+          <l>החלטתי לא להיתלות באף אחד</l>
+          <l>ממילא רוב הזמן אני לבד</l>
+          <l>יושבת כל היום שותה קפה</l>
+          <l>נלחמת שיצא לי שיר יפה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רוב הזמן לבד</l>
+          <l>חצי בחירה</l>
+          <l>עדיף לי לבד</l>
+          <l>מאשר עם אנשים</l>
+          <l>שעושים לי רע.</l>
+          <l>רוב הזמן לבד</l>
+          <l>רבע בחירה</l>
+          <l>רבע בדידות</l>
+          <l>חצי נחמה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז החלטתי לא להיתלות באף אחד</l>
+          <l>גם אני לא איזה בן אדם שדואג לכל אחד</l>
+          <l>אנ'לא יכולה לצפות שיתנו לי ולתת רק כשיש</l>
+          <l>אז אני לבד - זה מה שיש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רוב הזמן לבד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז החלטתי קצת לעלות</l>
+          <l>ולרדת במדרגות</l>
+          <l>ומה אכפת לי להישאר</l>
+          <l>מה אכפת לי מקום אחר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רוב הזמן לבד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני כאן</title>
+        <singer classification="unknown">איציק קדם</singer>
+        <writer>תומר ממיה</writer>
+        <composer>תומר ממיה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני כאן</head>
+        <lg number="1" type="stanza">
+          <l>למי את מחכה</l>
+          <l>על מי את חושבת</l>
+          <l>על זה שעוד לא בא</l>
+          <l>את כל כך אוהבת , לדמיין</l>
+          <l>אהבה , רחוקה , עצובה</l>
+          <l>תיראי כבר בוקר</l>
+          <l>הוא עוד לא בא</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני כאן , לצידך</l>
+          <l>וזה עובר לך לידך</l>
+          <l>את לא רואה , זה אני</l>
+          <l>שאוחז לך בידך</l>
+          <l>כשאת בוכה</l>
+          <l>הוא עוד לא בא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי זה שכותב ,</l>
+          <l>עוד מכתב ולא שולח</l>
+          <l>ומי זה שאוהב ,</l>
+          <l>רק אף פעם לא יודע</l>
+          <l>להגיד , לך בזמן</l>
+          <l>אני כאן , אני כאן</l>
+          <l>תיראי כבר בוקר ,</l>
+          <l>ושנינו לבד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני כאן .....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דמעות בעיניים</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>דלקס מקיס</writer>
+        <composer>דלקס מקיס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דמעות בעיניים</head>
+        <lg number="1" type="stanza">
+          <l>עומדות דמעות לך בעיניים</l>
+          <l>את מסתכלת בתמונות</l>
+          <l>אל תבכי יותר ילדה</l>
+          <l>כי נגמרה האהבה</l>
+          <l>הכל נגמר כמה חבל</l>
+          <l>זו אהבה ללא גורל</l>
+          <l>אסור ילדה להתייאש</l>
+          <l>אולי עוד פעם ניפגש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ככה זה באהבות</l>
+          <l>גם לי זלגו הרבה דמעות</l>
+          <l>היו לי ים של חלומות</l>
+          <l>נישרפתי גם באהבות</l>
+          <l>תנגבי את הדמעות</l>
+          <l>באהבה אין גבולות</l>
+          <l>גם לי היו הרבה תקוות</l>
+          <l>ככה זה באהבות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קשה לשכוח את הטוב</l>
+          <l>איך תוכלי שוב לאהוב</l>
+          <l>זה היה חלום גדול</l>
+          <l>והגורל הרס הכל</l>
+          <l>אולי אסור להתאהב</l>
+          <l>אין אהבה ללא כאב</l>
+          <l>קשה לשכוח את הכל</l>
+          <l>זה היה חלום גדול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ככה זה באהבות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

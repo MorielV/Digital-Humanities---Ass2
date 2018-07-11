@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מר לי</title>
+        <singer classification="unknown">אנג לה</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מר לי</head>
+        <lg number="1" type="stanza">
+          <l>עוד כוסית אשתה</l>
+          <l>כל גופי רועד</l>
+          <l>מחשבות רבות בראשי בראשי</l>
+          <l>כבר חצות הליל</l>
+          <l>את עצמי שואל</l>
+          <l>גורלי המר מתאחזר רק אלייך...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מר לי כל כך מר לי</l>
+          <l>הכל שומם בלעדייך יפתי</l>
+          <l>קר לי כל כך קר לי</l>
+          <l>רק את יכולה לחמם ליבי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך זה שהלכת</l>
+          <l>איך זה שברחת</l>
+          <l>ודרכי הייתה ארוכה ארוכה</l>
+          <l>איך זה ששכחת</l>
+          <l>איך זה שעזבת</l>
+          <l>ובך נתתי אמונה..אמונה..</l>
+          <l>שבתי מנדודי</l>
+          <l>תרמילי בצד</l>
+          <l>חשבתי אם תם המזל המזל</l>
+          <l>חלומי נשבר</l>
+          <l>כאבי נסתר</l>
+          <l>מתנחם בכוס המרה המרה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מר לי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>איך זה שהלכת</l>
+          <l>איך זה שברחת</l>
+          <l>ודרכי הייתה ארוכה ארוכה</l>
+          <l>איך זה ששכחת</l>
+          <l>איך זה שעזבת</l>
+          <l>ובך נתתי אמונה..אמונה..</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

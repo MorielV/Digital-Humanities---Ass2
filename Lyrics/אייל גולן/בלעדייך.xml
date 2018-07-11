@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלעדייך</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>זאב נחמה</writer>
+        <composer>אקורדים</composer>
+        <album>בלעדייך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלעדייך</head>
+        <lg number="1" type="stanza">
+          <l>רק פתחי ליבך לאהבה</l>
+          <l>אני עלייך רק חושב</l>
+          <l>לך כתבתי את המנגינה</l>
+          <l>בקצב פעימות הלב</l>
+          <l>ולא אוכל לחיות יותר מיום</l>
+          <l>את כמו חלום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רק פתחי ליבך לאהבה</l>
+          <l>שזרתי זר של שושנים</l>
+          <l>קבלי אותי לעוד שעה טובה</l>
+          <l>אולי נחייה יחדיו שנים</l>
+          <l>כי לא אוכל לחיות יותר מיום</l>
+          <l>את כמו חלום</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בלעדייך</l>
+          <l>בחוץ אפור והחדר קר</l>
+          <l>וזה כואב</l>
+          <l>בלעדייך זה לא אותו עולם יפה</l>
+          <l>והכל הופך להיות יותר קשה</l>
+          <l>כי בלעדייך</l>
+          <l>המחשבות נטולות תקווה</l>
+          <l>אז לא חושב</l>
+          <l>בלעדייך יותר קשה המחשבה</l>
+          <l>שאותך אולי אחד אחר אוהב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רק פתחי ליבך לאהבה</l>
+          <l>את ספינתי אקרא בשמך</l>
+          <l>מוכן הכל לתת לך אהובה</l>
+          <l>אם רק תתני מעט ממך</l>
+          <l>ואז אוכל לחיות יותר מיום</l>
+          <l>את כמו חלום</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רק פתחי ליבך לאהבה</l>
+          <l>וסביב הכל יפרח</l>
+          <l>מלאכים על נבל יפרטו</l>
+          <l>כי אני אוהב אותך</l>
+          <l>רק בשבילך אחיה יותר מיום</l>
+          <l>את כמו חלום</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בלעדייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

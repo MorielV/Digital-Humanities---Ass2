@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל גווני הכחול</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל גווני הכחול</head>
+        <lg number="1" type="stanza">
+          <l>והייתי פה והייתי שם</l>
+          <l>בצפון הקר בדרום החם</l>
+          <l>בבקתת הרים ועל שפת הים</l>
+          <l>הלב רוקד והגוף סקרן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה בעצם רציתי</l>
+          <l>מה בעצם ניסיתי</l>
+          <l>לא לגרוף</l>
+          <l>לא לטרוף</l>
+          <l>את הכל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רציתי לצפות ורציתי לזכות</l>
+          <l>לקלוט בעיניים לראות בשמיים</l>
+          <l>באבן במים בחול</l>
+          <l>רציתי לצפות</l>
+          <l>ורציתי לראות</l>
+          <l>את כל גווני הכחול</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חידודי לשון, סערת מוחות</l>
+          <l>נגיעות קלות, אצבעות קודחות</l>
+          <l>נדודי שינה, אפיסת כוחות</l>
+          <l>מאמץ לעוף, נסיון לנחות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מה בעצם רציתי...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ואתה קרוב, ואתה רחוק</l>
+          <l>שום דבר ממך לא ארצה למחוק</l>
+          <l>יבשה פלאית, מעגן רוחות</l>
+          <l>וכחול חיוור וכחול ירוק</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>מה בעצם רציתי...</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>כחול מתכתי</l>
+          <l>וכחול תינוקי</l>
+          <l>רואה בעיניים קוראת בידיים</l>
+          <l>סחרור ושחרור ומחול</l>
+          <l>אולי אין כלל חוף</l>
+          <l>ואולי אין כלל סוף</l>
+          <l>לכל גווני הכחול</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

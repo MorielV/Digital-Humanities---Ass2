@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחר אזיל דמעה</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחר אזיל דמעה</head>
+        <lg number="1" type="stanza">
+          <l>גם מחר אזיל דמעה</l>
+          <l>על כאב שנותר מאהבה</l>
+          <l>החיים חולפים כנהר</l>
+          <l>הכאב מלווה רק אותך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הם היו היו עמך</l>
+          <l>הם לחמו לחמו עמך</l>
+          <l>הם נפלו שם במדבר</l>
+          <l>אך אתה לא ידעת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יסורי המצפון על כאב</l>
+          <l>אמונים בך עמוק בלב</l>
+          <l>לו יכולתי לומר מילה</l>
+          <l>להרגיע נפש פצועה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הם היו היו עמך... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוד דבר אחד נותר</l>
+          <l>מצבה בלב המדבר</l>
+          <l>להניח זר של שושן</l>
+          <l>ולומר הם נפלו בעד ארצם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הם היו היו עמך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

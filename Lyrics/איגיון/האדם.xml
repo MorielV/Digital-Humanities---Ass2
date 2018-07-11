@@ -1,0 +1,37 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האדם 3</title>
+        <singer classification="unknown">איגיון</singer>
+        <writer>יצחק רבין</writer>
+        <composer>איתי אורן</composer>
+        <album>ללכת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האדם</head>
+        <lg number="1" type="stanza">
+          <l>האדם אינו פלדה הוא לב ונשמה </l>
+          <l>הוא בוכה וצוחק, הוא אוהב וכואב </l>
+          <l>הוא מסתער ונפצע וזועק </l>
+          <l>האדם הוא אדם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

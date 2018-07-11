@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תגידי לא</title>
+        <singer classification="unknown">אורי צדוק</singer>
+        <writer>אורי צדוק</writer>
+        <composer>אורי צדוק</composer>
+        <album>גבוה מכאן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תגידי לא</head>
+        <lg number="1" type="stanza">
+          <l>הו... מה אני אכתוב לך </l>
+          <l>לא אני לא טיפש </l>
+          <l>אני רואה מה נעשה </l>
+          <l>הכרתי אותך </l>
+          <l>לא הסתדרתי כל כך </l>
+          <l>עם היופי שלך </l>
+          <l>הוא הסתיר את החולשות שלך אלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הו... אל תגידי לא </l>
+          <l>הו... אל תגידי לא </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האם קראת את </l>
+          <l>מה שכתבתי לך </l>
+          <l>מה את אומרת </l>
+          <l>האם יש לך תשובה </l>
+          <l>ואם תעצמי את עינייך</l>
+          <l>ותקשיבי לליבך </l>
+          <l>אל מי הוא יימשך </l>
+          <l>למי תתני אהבתך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הו... אל תגידי לא </l>
+          <l>הו... אל תגידי לא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כבר אחרי חצות</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>עמוס אטינגר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כבר אחרי חצות</head>
+        <lg number="1" type="stanza">
+          <l>כבר אחרי חצות,</l>
+          <l>עוד לא כיבו את הירח.</l>
+          <l>כי לפני כיבוי אורות</l>
+          <l>אורות של כוכבים,</l>
+          <l>נותנים עוד רגע קט לאוהבים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מחר יהיה זה יום חדש</l>
+          <l>ומה אפשר מיום חדש כבר לצפות?</l>
+          <l>אז תן לנו עוד רגע,</l>
+          <l>רק עוד רגע</l>
+          <l>אף על פי שכבר אחרי חצות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כבר אחרי חצות...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כבר אחרי חצות,</l>
+          <l>עוד לא הדליקו את הבוקר.</l>
+          <l>כי לפני שמנקים</l>
+          <l>את האתמול מן הרחובות</l>
+          <l>נותנים עוד רגע קט לאהבות.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מחר יהיה זה יום חדש...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כבר אחרי חצות,</l>
+          <l>עוד לא הדליקו את השמש.</l>
+          <l>כי לפני שמחלקים</l>
+          <l>את העיתון והחלב</l>
+          <l>נותנים לנו עוד רגע שנאהב.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>מחר יהיה זה יום חדש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

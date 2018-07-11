@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאגדה</title>
+        <singer classification="unknown">אלכס 3</singer>
+        <writer>יוני רועה</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאגדה</head>
+        <lg number="1" type="stanza">
+          <l>רחוקה היא רחוקה</l>
+          <l>עם כוחות המשיכה</l>
+          <l>גם בטוב וגם ברע</l>
+          <l>אין אשר יידע סודה</l>
+          <l>מכונסת בעצמה</l>
+          <l>בין מלאך ובין שטן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש לה קסם בעיניים</l>
+          <l>יש לה כוח בידיים</l>
+          <l>הו - זועק קולה</l>
+          <l>יש לה שיח לשמיים</l>
+          <l>בין הוונוס והמים</l>
+          <l>הו - מאגדה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא תיגע במזלך</l>
+          <l>כשתושיט לה את ידך</l>
+          <l>על אתמול, היום, מחר</l>
+          <l>בנזמים ובעשן היא תצא מן העולם</l>
+          <l>עד אשר תדע סודך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש לה קסם בעיניים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

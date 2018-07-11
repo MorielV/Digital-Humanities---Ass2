@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיפושית הקצב</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>יוסי בכר</writer>
+        <composer>אלדד שרים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיפושית הקצב</head>
+        <lg number="1" type="stanza">
+          <l>באמצע הגינה צלולית עפר</l>
+          <l>ישבה לה חיפושית בבוקר נהדר</l>
+          <l>פרטה על מיתרים</l>
+          <l>ושרה לה שירים</l>
+          <l>וחיש עלתה לראש מצעד הפזמונים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יה יה יה איזה יום יפה</l>
+          <l>יה יה יה איזה יום יפה</l>
+          <l>יה יה יה איזה יום יפה</l>
+          <l>יה יה יה איזה יום יפה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמעו כל החיות ויצאו לרקוד</l>
+          <l>החיפושית זימרה ושרה עוד ועוד</l>
+          <l>וכל הציפורים ענו במקהלה</l>
+          <l>וכל הפרפרים פרחו בלה לה לה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יה יה יה איזה יום יפה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וכל שיחי הגן בשירה פרחו</l>
+          <l>החיפושית זמרה והשדות צמחו</l>
+          <l>וקצב השירים חייך כל העולם</l>
+          <l>כי חיפושית כזאת הן אוהבים כולם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יה יה יה איזה יום יפה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ומאותו היום מר. ערוף הזקן</l>
+          <l>באו לראות יחדיו איך תנגן</l>
+          <l>והיא זמרה לכל זקן וכל צעיר</l>
+          <l>ולכולם שלחה פזמון וגם שיר</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>יה יה יה איזה יום יפה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

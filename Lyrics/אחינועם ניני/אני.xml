@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני 27</title>
+        <singer classification="female singer">אחינועם ניני</singer>
+        <writer>רחל</writer>
+        <composer>גיל דור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני</head>
+        <lg number="1" type="stanza">
+          <l>כָּזֹאת אָנֹכִי: שְׁקֵטָה </l>
+          <l>כְּמֵימֵי אֲגַם, </l>
+          <l>אוֹהֶבֶת שַׁלְוַת חֻלִּין, עֵינֵי תִינוֹקוֹת </l>
+          <l>וְשִׁירָיו שֶׁל פְרַנְסִיס זַ'ם. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בְּשֶׁכְּבָר הַיָּמִים עָטְתָה נַפְשִׁי אַרְגָּמָן. </l>
+          <l>וְעַל רָאשֵׁי הֶהָרִים </l>
+          <l>לְאֶחָד הָיִיתִי עִם הָרוּחוֹת הַגְּדוֹלוֹת </l>
+          <l>עִם צְרִיחַת נְשָׁרִים. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בְּשֶׁכְּבָר הַיָּמִים... זֶה הָיָה בְּשֶׁכְּבָר הַיָּמִים. </l>
+          <l>הָעִתִּים מִשְׁתַּנּוֹת </l>
+          <l>וְעַכְשָׁו – </l>
+          <l>הִנֵה אָנֹכִי כָּזֹאת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

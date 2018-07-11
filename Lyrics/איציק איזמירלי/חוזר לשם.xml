@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חוזר לשם</title>
+        <singer classification="unknown">איציק איזמירלי</singer>
+        <writer>איציק איזמירלי</writer>
+        <composer>אורן איתן</composer>
+        <album>חוויות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חוזר לשם</head>
+        <lg number="1" type="stanza">
+          <l>אחרי מסע של רצונות</l>
+          <l>ובמרדף להצלחות</l>
+          <l>אותה תמימות שנשפכה הפכה כלהבה</l>
+          <l>חולם ללבוש את ההילה שתתחבר אליי</l>
+          <l>ומחפש בקשב רב דבר שלא קיים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מר לי הכול אבד</l>
+          <l>האם יחזור הקסם זה שנגע בי אז</l>
+          <l>כי קר לי להיות לבד</l>
+          <l>זוכר היה מקום שבוא הייתה קצת נשמה</l>
+          <l>ואז חוזר לשם וזה מרגיש כל כך מושלם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מקשיב בלופ שלא נגמר</l>
+          <l>כבר לא שומע שום דבר</l>
+          <l>והתמימות מזמן ברחה ואיך אחזור מכאן</l>
+          <l>עכשיו חושש מרגש זר שלא היה קיים</l>
+          <l>ומתאמץ לזכור כיצד חשבתי בעבר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

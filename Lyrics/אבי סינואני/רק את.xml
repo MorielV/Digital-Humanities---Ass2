@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק את 2</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>אבירם דרעי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק את</head>
+        <lg number="1" type="stanza">
+          <l>יש רגעים קשים ודאי את יודעת </l>
+          <l>למרות כל הקשיים אנו ביחד </l>
+          <l>רוצה אותך איתי כל דקה אהובתי </l>
+          <l>גם אם אבדה דרכי תמיד את סולחת </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את הכל בשבילי, את יומי ולילי </l>
+          <l>גם אם אין בידי אוצרות לתת לך </l>
+          <l>הפעם שוב דבר בנינו לא יפריד </l>
+          <l>רק את ואלוהים יעיד שזה לנצח </l>
+          <l>הפעם שוב דבר בנינו לא יפריד </l>
+          <l>רק את ואלוהים יעיד שזה לנצח </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נדמה לי שאת לפעמים קצת שוכחת </l>
+          <l>אולי זה בגלל השנים נותר בי הפחד </l>
+          <l>כשאת לא לידי מאבד כבר את עצמי </l>
+          <l>ואיך זה שאני עדיין קורא לך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את הכל בשבילי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

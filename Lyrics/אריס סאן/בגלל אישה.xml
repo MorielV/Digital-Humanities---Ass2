@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בגלל אישה</title>
+        <singer classification="male singer">אריס סאן</singer>
+        <writer>יובב כץ</writer>
+        <composer>אריס סאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בגלל אישה</head>
+        <lg number="1" type="stanza">
+          <l>בודד בבר בקצה העיר</l>
+          <l>אני לוגם כוסית שיכר</l>
+          <l>ואל תעיז לי להזכיר</l>
+          <l>את ידידי לשעבר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היינו כמו זוג תאומים</l>
+          <l>כמו דוד ויהונתן</l>
+          <l>הידידות בת השנים</l>
+          <l>עברה חלפה כמו עשו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בגלל אישה, בגלל אישה</l>
+          <l>אשר פגשנו בכיכר</l>
+          <l>בגלל אישה, בגלל אישה</l>
+          <l>הכל בער, הכל בער</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואז בתוך המהומה</l>
+          <l>רעות הפכה קנאת גברים</l>
+          <l>אך היא משנינו נעלמה</l>
+          <l>ונשארו רק השברים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>היינו כמו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

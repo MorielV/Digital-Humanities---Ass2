@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ללכת 6</title>
+        <singer classification="unknown">איגיון</singer>
+        <writer>ניר אוטמזגין</writer>
+        <composer>ניר אוטמזגין</composer>
+        <album>ללכת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ללכת</head>
+        <lg number="1" type="stanza">
+          <l>ללכת</l>
+          <l>בשקט, ללכת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בעיניים פקוחות</l>
+          <l>רואה את הסרט</l>
+          <l>אני לא רוצה, כמו כל העדר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עד שיעבור הזעם תנחת עלינו השלווה</l>
+          <l>עד שבאמת נעמוד ונשיר את התקווה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני רוצה ללכת</l>
+          <l>אני לא רוצה כמו אלה</l>
+          <l>לא לכסות את הדרך</l>
+          <l>לא לכסות את השמש</l>
+          <l>לא לכסות את הדרך, באבק</l>
+        </lg>
+        <lg number="5" type="stanza" />
+        <lg number="6" type="stanza">
+          <l>הולך בדרך באמצע</l>
+          <l>בין שלווה לשיגעון</l>
+          <l>למה לברוח רחוק</l>
+          <l>לא לחלום באיגיון</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כשהבוקר עולה</l>
+          <l>והאור משתנה</l>
+          <l>אולי לחלום זה</l>
+          <l>כל מה שיהיה</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>שנביט לאחור ונראה</l>
+          <l>איזה פלא העולם כזה יפה</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>אני רוצה ללכת</l>
+          <l>אני לא רוצה כמו אלה</l>
+          <l>לא לכסות את הדרך</l>
+          <l>לא לכסות את השמש</l>
+          <l>לא לכסות את הדרך, באבק</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

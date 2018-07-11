@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דומם</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>עודד אבישר</writer>
+        <composer>משה וילנסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דומם</head>
+        <lg number="1" type="stanza">
+          <l>אל החורש לילה לילה היא הולכת</l>
+          <l>ובמשעול ניצבת היא בדד</l>
+          <l>ורוח ליל משיר עלה, משיר שלכת</l>
+          <l>והיא עומדה דומם, דומם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ובחורש בחצות הוא בא עדיה</l>
+          <l>וממולה ניצב הוא במשעול</l>
+          <l>ואת ליבה היא לו מגשת על ידיה</l>
+          <l>והוא עומד דומם, דומם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שם בחורש היא טווה חלום של תכלת</l>
+          <l>כולו רקום בחוט של אהבה</l>
+          <l>והיא יחדיו עמו לעד עם צחוק של ילד</l>
+          <l>והוא הולך דומם, דומם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מן החורש עם השחר היא חוזרת</l>
+          <l>ומחווירים פניה, אך רנים</l>
+          <l>ורוח סתיו נושק דמעה אחת נושרת</l>
+          <l>והיא הולכה דומם, דומם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

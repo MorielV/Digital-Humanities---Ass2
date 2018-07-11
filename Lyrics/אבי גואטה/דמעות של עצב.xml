@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דמעות של עצב</title>
+        <singer classification="unknown">אבי גואטה</singer>
+        <writer>אבי גואטה</writer>
+        <composer>אבי גואטה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דמעות של עצב</head>
+        <lg number="1" type="stanza">
+          <l>לברוח מהמציאות זה דבר קשה</l>
+          <l>על כל יום שחולף אני עוד מנסה</l>
+          <l>לדבר אלייך, להתפלל</l>
+          <l>לבקש רחמייך, תפילתי תקבל</l>
+          <l>ותסתכל, איך אני סובל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עם דמעות של עצב מנקה את הלב</l>
+          <l>תפילתי לי אלייך, מדוע כואב?</l>
+          <l>בורא עולם, אנא תעזור</l>
+          <l>את הצער, הכאב תעצור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סובב סביב עולם של אשליות</l>
+          <l>תמיד אני נשרף מכל האכזבות</l>
+          <l>אלי הטוב, בורא עולם</l>
+          <l>אני חי ונושם, אך לא קיים</l>
+          <l>אני חי ונושם, אך לא קיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עם דמעות של עצב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>להתאהב</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>מאיר גולדברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>להתאהב</head>
+        <lg number="1" type="stanza">
+          <l>כדי לא ללכת לאיבוד </l>
+          <l>להתקרב לאור מנורה מקרית </l>
+          <l>להתרחק מהבדידות </l>
+          <l>להתאהב מתוך הגנה עצמית </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>העיר נותנת פרטיות </l>
+          <l>אולי יותר מדי הלבד מטריד </l>
+          <l>רק תני ללב עוד הזדמנות להתאהב </l>
+          <l>מתוך הגנה עצמית </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בסוף זה בא בקלות להתאהב </l>
+          <l>זה להמיס את הבדידות </l>
+          <l>אפילו סתם בטעות להתאהב </l>
+          <l>זה להמיס את הבדידות </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לתפוס חזק בקצה החוט </l>
+          <l>גם אם חוטים כמו זה נקרעים תמיד </l>
+          <l>למצוא לי קשר לא פשוט </l>
+          <l>להתאהב מתוך הגנה עצמית </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בעיר צפופה בפרטיות </l>
+          <l>מבלי שאיש יראה להרטיב כרית </l>
+          <l>ולאבד את השפיות להתאהב </l>
+          <l>מתוך הגנה עצמית </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בסוף זה בא בקלות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

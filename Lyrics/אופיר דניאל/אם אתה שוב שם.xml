@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם אתה שוב שם</title>
+        <singer classification="unknown">אופיר דניאל</singer>
+        <writer>אופיר דניאל</writer>
+        <composer>אופיר דניאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם אתה שוב שם</head>
+        <lg number="1" type="stanza">
+          <l>תגיד כבר משהו </l>
+          <l>תשתיק את כל המחשבות</l>
+          <l>תגיד מהר אני לא יכולה לחכות</l>
+          <l>תגיד כי זה כבר לי כואב רק תגיד</l>
+          <l>שאוכל אותך לשחרר, משהו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם אתה שוב שם  המחשבות לא עזבו את הספינה</l>
+          <l>תן עוד רק לשמש לסנוור אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תגיד כי זה לא קל</l>
+          <l>תגיד אני לא מסוגל</l>
+          <l>תגיד כי אין ברירה</l>
+          <l>כי אני לא יכולה להיות אותך</l>
+          <l>רק תגיד משהו </l>
+          <l>שאוכל אותך לשחרר, משהו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם אתה שוב שם  המחשבות לא עזבו את הספינה</l>
+          <l>תן עוד רק לשמש לסנוור אותך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם אתה שוב שם  המחשבות לא עזבו את הספינה</l>
+          <l>תן עוד רק לשמש לסנוור אותך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

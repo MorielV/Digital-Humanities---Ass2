@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוחות המערב</title>
+        <singer classification="unknown">איה כורם</singer>
+        <writer>יונתן גוטפלד</writer>
+        <composer>יונתן גוטפלד</composer>
+        <album>שפה זרה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוחות המערב</head>
+        <lg number="1" type="stanza">
+          <l>הלוואי שתתקשר, שתגיד שאתה בא כבר</l>
+          <l>תראה, אהובי, כבר הפסדנו חורף</l>
+          <l>מעבר לרחובות, העיר הזו עוד מתנשמת</l>
+          <l>מעבר לשתיקות, אני חולמת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רוחות המערב כבר עייפות</l>
+          <l>הלילה לא ישוב דבר</l>
+          <l>קיץ מרומז, ואולי עכשיו כמו אז</l>
+          <l>זה שוב אתה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלוואי שתרחם, שתגיד שאתה בא כבר</l>
+          <l>תראה, אהובי, אני למדתי לקח</l>
+          <l>יותר מדי עתיד כבר דמיינתי בעינייך</l>
+          <l>יותר מדי לילות אני קוראת לך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רוחות המערב כבר עייפות...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הלוואי שתוותר, שתגיד שאתה בא כבר</l>
+          <l>תראה אהובי, אני אזרתי אומץ</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

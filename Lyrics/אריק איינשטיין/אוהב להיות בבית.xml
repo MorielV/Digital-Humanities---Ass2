@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אוהב להיות בבית</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>missing</composer>
+        <album>אוהב להיות בבית</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אוהב להיות בבית</head>
+        <lg number="1" type="stanza">
+          <l>יש אנשים שמטפסים על הרים</l>
+          <l>יש אנשים שצונחים מגבהים</l>
+          <l>יש אנשים שרוכבים על סוסים</l>
+          <l>ויש כאלה שגומאים מרחקים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל אני אוהב להיות בבית</l>
+          <l>עם התה והלימון והספרים הישנים</l>
+          <l>כן, אני אוהב להיות בבית</l>
+          <l>עם אותה האהובה ועם אותם ההרגלים</l>
+          <l>אוהב להיות בבית</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש אנשים שצדים נמרים</l>
+          <l>יש אנשים שדולים פנינים</l>
+          <l>יש אנשים שבונים מגדלים</l>
+          <l>ויש כאלה שצמים חודשים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבל אני...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש אנשים שתמיד מחפשים</l>
+          <l>יש אנשים שתמיד מגלים</l>
+          <l>יש אנשים שהולכים בגדול</l>
+          <l>לא מוותרים ורוצים את הכל</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אבל אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

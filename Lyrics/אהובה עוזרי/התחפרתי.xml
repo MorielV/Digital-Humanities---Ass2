@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התחפרתי</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>מעליי דממה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התחפרתי</head>
+        <lg number="1" type="stanza">
+          <l>התחפרתי באדמה עם רובה על הכתף</l>
+          <l>זו ארצי היקרה לא אנום ולא אשן</l>
+          <l>כוכבים גזו מעל הלילה הוא אפל וקר</l>
+          <l>זו ארצי היחידה אשמור אותך כל חיי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הלב פועם חי עודני</l>
+          <l>כדור זהב בגוף פגע</l>
+          <l>עודני חי זועק לך אימא</l>
+          <l>על המשמר איתך לעד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שם הרחק בדממה מחכה לי אהובה</l>
+          <l>מחשבות בלב חייל מתי אחזור אל חיקה</l>
+          <l>אך אני חייל צעיר החיים לפניי</l>
+          <l>מתי אשוב אל בית להניח את ראשי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הלב פועם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

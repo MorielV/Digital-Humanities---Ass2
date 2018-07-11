@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טוב טוב הגמד</title>
+        <singer classification="male singer">אריה מוסקונה</singer>
+        <writer>שפרירה זכאי</writer>
+        <composer>הילריו קמאצ'ו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טוב טוב הגמד</head>
+        <lg number="1" type="stanza">
+          <l>בוא איתנו, נשב בתוך עולם מופלא</l>
+          <l>שם נגשים חלום וכל משאלה</l>
+          <l>זהו טוב טוב - גמד זעיר ומיוחד</l>
+          <l>לעזרת כולם יוצא הוא מייד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כאן בממלכת כל הגמדים</l>
+          <l>יש תמיד הרפתקאות</l>
+          <l>כאן הכל יכול לקרות</l>
+          <l>כאן בזכותו של טוב טוב הגמד</l>
+          <l>יישאר עולם זה טוב לעד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה הרגע לפגוש את כל החברים</l>
+          <l>ולראות מקרוב כיצד הם חיים</l>
+          <l>גם אם טוב טוב נתקל בטרול רשע אחד</l>
+          <l>לא זה יהיה מכשול, יראה זאת מיד.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כאן בממלכת כל הגמדים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

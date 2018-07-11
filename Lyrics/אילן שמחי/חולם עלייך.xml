@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חולם עלייך</title>
+        <singer classification="unknown">אילן שמחי</singer>
+        <writer>אילן שמחי</writer>
+        <composer>עמי בן אבו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חולם עלייך</head>
+        <lg number="1" type="stanza">
+          <l>אהבה שלי אלייך היא משהו מיוחד </l>
+          <l>באת אלי משמיים כמלאך </l>
+          <l>החיוך שלך גורם להחסיר פעימה </l>
+          <l>תדעי אני כאן בישבילך בטוב וגם ברע </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חולם עלייך, בלעדייך </l>
+          <l>אני כמו משוגע </l>
+          <l>לאור עינייך, שפתותיך </l>
+          <l>צמא לאהבה </l>
+          <l>לא אל תלכי לי </l>
+          <l>תשתני לי </l>
+          <l>מת לחבק אותך, את לא </l>
+          <l>יודעת מה את עושה לי </l>
+          <l>עם המשחק שלך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רציתי רק אותך לצידי </l>
+          <l>כל בוקר מתפלל </l>
+          <l>לאלוקים נושא את עיני </l>
+          <l>ורק אלייך חושב </l>
+          <l>תיקוות רבות בלב היו לי </l>
+          <l>אך את לא התייחסת </l>
+          <l>בתוך ליבי תמיד ידעתי </l>
+          <l>שאיתך אהיה לעד </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חולם עלייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

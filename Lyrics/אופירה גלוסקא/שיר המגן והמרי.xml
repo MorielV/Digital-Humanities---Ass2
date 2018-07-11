@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר המגן והמרי</title>
+        <singer classification="female singer">אופירה גלוסקא</singer>
+        <writer>יעקב אורלנד</writer>
+        <composer>מרדכי זעירא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר המגן והמרי</head>
+        <lg number="1" type="stanza">
+          <l>בלילה, באין אור,</l>
+          <l>דרכו כוכבי - עינייך,</l>
+          <l>בכלא ובסגור</l>
+          <l>פרחו כנפי יונייך,</l>
+          <l>במתפים ובור</l>
+          <l>הבקיעו חרונייך,</l>
+          <l>הוי, מנגינת הדרור</l>
+          <l>אשרי מרונניך!</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מלילה את קומי ואורי</l>
+          <l>וחרב נקם לך חגורי</l>
+          <l>ושיר לפי חרב זמרי</l>
+          <l>חומת המגן והמרי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

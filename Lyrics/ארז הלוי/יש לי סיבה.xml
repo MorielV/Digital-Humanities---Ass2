@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לי סיבה</title>
+        <singer classification="male singer">ארז הלוי</singer>
+        <writer>ארז הלוי</writer>
+        <composer>ארז הלוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לי סיבה</head>
+        <lg number="1" type="stanza">
+          <l>יש לי סיבה טובה, טובה, לאהוב אותך</l>
+          <l>יש לי סיבה טובה, טובה, לאהוב אותך</l>
+          <l>את לא תדעי אותה</l>
+          <l>את לא תדעי אותה</l>
+          <l>יש לי סיבה טובה, טובה, לאהוב אותך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש לו סיבה טובה, טובה, לאהוב אותך</l>
+          <l>יש לו סיבה טובה, טובה, לאהוב אותך</l>
+          <l>את לא תדעי אותה</l>
+          <l>הו, לו תדעי אותה</l>
+          <l>יש לו סיבה טובה, טובה, לאהוב אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לך סיבה טובה, טובה, לאהוב אותי</l>
+          <l>יש לך סיבה טובה, טובה, לאהוב אותי</l>
+          <l>הוא לא ידע אותה</l>
+          <l>הו, לו הוא ידע אותה</l>
+          <l>יש לך סיבה טובה, טובה, לאהוב אותי</l>
+          <l>יש לך סיבה טובה, טובה, לאהוב אותי</l>
+          <l>יש לך סיבה טובה, טובה, לאהוב אותי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

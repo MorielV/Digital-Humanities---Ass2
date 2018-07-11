@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא מאוחר 3</title>
+        <singer classification="unknown">אדיר ניזרי</singer>
+        <writer>אדיר ניזרי</writer>
+        <composer>אדיר ניזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא מאוחר</head>
+        <lg number="1" type="stanza">
+          <l>בשמיים עוד כוכב נופל הלילה</l>
+          <l>הוא יאיר לי את דרכי זה סימן מלמעלה</l>
+          <l>כשאותך ראיתי שוב מהלכת לצידי</l>
+          <l>זיכרונות מהעבר מכים בי</l>
+          <l>בלילות בחלומות את ניצבת למולי</l>
+          <l>מחייכת לעברי ואומרת שאני</l>
+          <l>רק אותך אוהב עדיין</l>
+          <l>כי רואים זאת בעיניים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זמן עבר,זה נגמר</l>
+          <l>הרגש שבלב עוד נותר</l>
+          <l>למענך אני עוד שר</l>
+          <l>תשובי חזרה לא מאוחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלילות אני נזכר בימים שלנו יחד</l>
+          <l>איך אותך אהבתי בלי גבולות ללא פחד</l>
+          <l>כשאותך ראיתי שוב מהלכת ברחוב</l>
+          <l>הלב פתאום נצבט,הרגיש מכאוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זמן עבר,זה נגמר</l>
+          <l>הרגש שבלב עוד נותר</l>
+          <l>למענך אני עוד שר</l>
+          <l>תשובי חזרה לא מאוחר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

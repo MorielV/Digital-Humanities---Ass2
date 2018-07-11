@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך זכיתי</title>
+        <singer classification="male singer">איציק שמלי</singer>
+        <writer>איציק שמלי</writer>
+        <composer>איציק שמלי</composer>
+        <album>החמצן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך זכיתי</head>
+        <lg number="1" type="stanza">
+          <l>את גורמת לי לאושר דבר שלא תמיד ידעתי</l>
+          <l>משלימה בי את החוסר גם כשכמעט לא האמנתי</l>
+          <l>כמו מלאך עלי שומרת וכמו אימא מלטפת</l>
+          <l>כמו אישה אותי אוהבת מהכל את לי נותנת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך זכיתי איך זכיתי בך כמה טוב לי</l>
+          <l>שהאל אותך אלי שלח מהשמים</l>
+          <l>מה שכל חיי חיפשתי בך אני מצאתי</l>
+          <l>את הדרך להגיד רק לך התאהבתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואחרי שכבר אמרתי מה נותר עוד להוכיח</l>
+          <l>אני לא כזה רומנטי אבל יכול לך להבטיח</l>
+          <l>כמו אביר אגן עלייך וכמו אב לצעדייך</l>
+          <l>כמו אהוב רץ אחרייך הכל אהיה לך לחייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך זכיתי איך זכיתי בך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

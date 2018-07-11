@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי אמר 2</title>
+        <singer classification="unknown">אוסנת פז</singer>
+        <writer>שמוליק רוזן</writer>
+        <composer>נחצ'ה היימן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי אמר</head>
+        <lg number="1" type="stanza">
+          <l>מי אמר הלילות אפלים הם</l>
+          <l>מי אמר שהיום יום של אור</l>
+          <l>לצידך לילותי בהירים כה</l>
+          <l>בלעדיך יומי הוא שחור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מי זימר על ריחו של הפרח</l>
+          <l>ועל קוץ דוקרני וממאיר</l>
+          <l>לצידך מחייך לי החוח</l>
+          <l>בלעדיך הפרח מחוויר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי אמר שמי הקיץ תכולים הם</l>
+          <l>מי אמר שקודרים שמי הסתיו</l>
+          <l>לידך מה כחול הרקיע</l>
+          <l>בלעדיך שלכת ועב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי אמר השנים ארוכות הן</l>
+          <l>והרגע כמו צל עננה</l>
+          <l>לידך כל שנה היא כמו רגע</l>
+          <l>בלעדיך כל רגע שנה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

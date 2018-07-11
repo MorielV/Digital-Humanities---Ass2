@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק בשמחה</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק בשמחה</head>
+        <lg number="1" type="stanza">
+          <l>לרחוב יוצא, אני מוצא אנשים כל כך שונים</l>
+          <l>אני נזכר, אתה צופה וזה עוזר לי להפנים</l>
+          <l>אז תעזור לי רק להישמר מכל ההבלים של העולם הזה</l>
+          <l>תגיד לי מי אני ומה אני תגיד לי מה אני רוצה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבא טוב אין ייאוש בעולמך</l>
+          <l>אבא טוב רוצה להיות רק בשמחה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואז אני נזכר פתאום שרבי נחמן מעודד</l>
+          <l>שהעולם הוא גשר צר והעיקר לא לפחד</l>
+          <l>אז תעזור לי רק להתמודד</l>
+          <l>עם נסיונות שרק דרכם אני לומד</l>
+          <l>אני רוצה להתקרב כל כך</l>
+          <l>רוצה לחיות חיי אמת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבא טוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

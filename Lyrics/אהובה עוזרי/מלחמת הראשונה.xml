@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלחמת הראשונה</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלחמת הראשונה</head>
+        <lg number="1" type="stanza">
+          <l>מלחמתך הראשונה הרי עודך נער</l>
+          <l>זיפי זקן על לחייך פנייך כפני מלאך</l>
+          <l>מכתבתך הראשון א לא לא לדאוג</l>
+          <l>אני עוד אבוא שלחו בשמי נשיקות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חלומך להיות בקרב להגן על ארצך</l>
+          <l>בתמרות עשן ואש מסתער בקרב גועש</l>
+          <l>מסביבנו אפילה ואתה שם נלחם</l>
+          <l>הרגשתי כה מוזרה האם אזכה לראתך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

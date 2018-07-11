@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיכיתי לך 2</title>
+        <singer classification="male singer">אבי פרץ</singer>
+        <writer>אבי פרץ</writer>
+        <composer>אבי פרץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיכיתי לך</head>
+        <lg number="1" type="stanza">
+          <l>מתקלח מתלבש מחכה שניפגש</l>
+          <l>לראותך יפה שלי זה כל כך מרגש</l>
+          <l>קבענו בשעה שלוש חשבתי איך אותך לכבוש</l>
+          <l>לא הגעת נגמר לי כל הלילה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חיכיתי כל הלילה</l>
+          <l>חיכיתי לך יפה שלי</l>
+          <l>ואיך את לא כאן בשבילי</l>
+          <l>חיכיתי לך ילדה</l>
+          <l>חיכיתי לך כל הלילה</l>
+          <l>חיכיתי לך יפה שלי</l>
+          <l>רוצה אותך תמיד איתי</l>
+          <l>חיכיתי לך ילדה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב יושב ומחכה שנשב על כוס קפה</l>
+          <l>רק לומר לך שאני אוהב אותך כל כך רוצה</l>
+          <l>אך אני לא אתייאש לא נפסיק שוב לבקש</l>
+          <l>לראותך יפה שלי הלילה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חיכיתי כל הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

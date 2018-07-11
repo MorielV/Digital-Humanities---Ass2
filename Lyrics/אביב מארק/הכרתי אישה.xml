@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכרתי אישה</title>
+        <singer classification="unknown">אביב מארק</singer>
+        <writer>אביב מארק</writer>
+        <composer>אביב מארק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכרתי אישה</head>
+        <lg number="1" type="stanza">
+          <l>הכרתי אישה עם הבנה</l>
+          <l>הכרתי אישה עם תודעה</l>
+          <l>הכרתי אישה וזה עזר</l>
+          <l>עזר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הכרתי אותך לפני שנה</l>
+          <l>הכרתי אישה כל כך שונה</l>
+          <l>הכרתי אישה וזה עזר</l>
+          <l>חזר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הכרתי אישה שגם פגעה</l>
+          <l>הכרתי אישה כל כך אישה</l>
+          <l>הכרתי אותך וזה עבר</l>
+          <l>עבר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

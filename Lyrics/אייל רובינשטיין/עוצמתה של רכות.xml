@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוצמתה של רכות</title>
+        <singer classification="unknown">אייל רובינשטיין</singer>
+        <writer>אמיר בן עמי</writer>
+        <composer>אמיר בן עמי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוצמתה של רכות</head>
+        <lg number="1" type="stanza">
+          <l>ככה סתם באיזה חדר, עד הרגע שבו את הפסקת להבין,</l>
+          <l>אני שולח יד ונוגע, מתקשה להבין לא רוצה להאמין.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ככה סתם בסיטואציה, על רקע לבן שהפך לאפור,</l>
+          <l>אני שולח יד ונוגע, הכל נראה בהיר אבל אין שום אור.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ורגע מחדיר עוצמתה של רכות וזאת מתמסרת כל כך,</l>
+          <l>כי כמו שהרגש כך גם המהות, לוקחים אותי ואותך,</l>
+          <l>אותך, אותך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ככה סתם באיזה לילה, כשריח הגוף מנחה החושים,</l>
+          <l>מילים ממיסות את החושך, לחלקים של כוכבים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ורגע מחדיר עוצמתה של רכות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

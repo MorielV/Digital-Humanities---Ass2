@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קצת אחרי כולם</title>
+        <singer classification="female singer">אתי אנקרי</singer>
+        <writer>אתי אנקרי</writer>
+        <composer>אתי אנקרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קצת אחרי כולם</head>
+        <lg number="1" type="stanza">
+          <l>יש לי זוג עיניים חומות</l>
+          <l>יש לי זוג אוזניים קטנות</l>
+          <l>לאחרונה מגיעות אלי</l>
+          <l>כל מיני שמועות מוזרות מדי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני חדש פה בעולם</l>
+          <l>הגעתי קצת אחרי כולם</l>
+          <l>התושבים פה די צובטים</l>
+          <l>הם עושים לי קולות ופרצופים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז אני בוכה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש לי אח אחד גדול</l>
+          <l>שלעשות הכל יכול</l>
+          <l>ואם הוא מדבר איתי</l>
+          <l>זה נשמע לי די משמעותי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש גם אישה אחת גדולה</l>
+          <l>היא דוחפת אותי בעגלה</l>
+          <l>ואם אני קצת מצוברח</l>
+          <l>היא אומרת לי משהו בערך כך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז אני בוכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

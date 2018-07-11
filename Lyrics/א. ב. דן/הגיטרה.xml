@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הגיטרה 2</title>
+        <singer classification="unknown">א ב דן</singer>
+        <writer>א. ב. דן</writer>
+        <composer>א. ב. דן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הגיטרה</head>
+        <lg number="1" type="stanza">
+          <l>כבר שבועיים שאני צמא לליטוף</l>
+          <l>מסתובב ברחוב פוסע שפוף</l>
+          <l>הגיטרה נעה</l>
+          <l>הגיטרה זעה</l>
+          <l>הגיטרה, גיטרה</l>
+          <l>גיטרה- שלי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גם אני בתנועה</l>
+          <l>רוב הזמן מסתובב</l>
+          <l>באהבה את מומחית</l>
+          <l>ואני רק חובב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כבר שבועיים שאני צמא לחיבוק</l>
+          <l>הגיטרה שלי מסמנת ניתוק</l>
+          <l>הגיטרה נעה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

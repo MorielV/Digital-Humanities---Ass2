@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צלילי הלילה 2</title>
+        <singer classification="male singer">אריס סאן</singer>
+        <writer>יובב כץ</writer>
+        <composer>אריס סאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צלילי הלילה</head>
+        <lg number="1" type="stanza">
+          <l>באו הצלילים ומשכוני אחריהם</l>
+          <l>מכושף הלכתי אל הלילה עמהם</l>
+          <l>שקט כחול ריחף בעיר</l>
+          <l>גם לדממות ניגון ושיר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שיר החלומות הנכלמים</l>
+          <l>המגביהים וצוללים</l>
+          <l>עם הרוחות והטללים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שיר החלומות שלא יושגו לעולם</l>
+          <l>שיר של אהבה טרופת אביב בלב נפעם</l>
+          <l>שיר של שמחה ויגונים</l>
+          <l>שיר של תפילה לאלהים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שיר החלומות...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מתפלא הרחק בתוך השקט הכחול</l>
+          <l>את צלילי הליל אספתי בתרמיל גדול</l>
+          <l>וכשליבי יוצא לשיר</l>
+          <l>את תרמילי אני מתיר </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שיר החלומות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

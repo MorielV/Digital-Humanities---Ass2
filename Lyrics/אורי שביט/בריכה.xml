@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בריכה</title>
+        <singer classification="unknown">אורי שביט</singer>
+        <writer>אורי שביט</writer>
+        <composer>אורי שביט</composer>
+        <album>משחקת במילים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בריכה</head>
+        <lg number="1" type="stanza">
+          <l>תני לי את ידך	</l>
+          <l>היכנסי איתי לתוך המים	</l>
+          <l>יהיה כאן חם ונעים	</l>
+          <l>אשמור עליך	</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תני לי את ידך	</l>
+          <l>לא אעזוב אותך לעולם	</l>
+          <l>את יכולה להירגע </l>
+          <l>לשכוח כל מה שעבר	</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יהיה לנו חם ונעים	</l>
+          <l>ביחד נרכב על גב הגלים	</l>
+          <l>לא נשקע	</l>
+          <l>לא נצלול</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תני לי את ידך	</l>
+          <l>אל תפחדי, זאת רק הרוח	</l>
+          <l>את יכולה להירגע	</l>
+          <l>הגיע הזמן לנוח	</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יהיה לנו חם ונעים</l>
+          <l>ביחד נרכב על גב הגלים</l>
+          <l>לא נשקע</l>
+          <l>לא נצלול</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>תאמיני בי </l>
+          <l>תאמיני בך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

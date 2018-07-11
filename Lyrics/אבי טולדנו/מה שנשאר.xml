@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה שנשאר</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אבי טולדנו</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה שנשאר</head>
+        <lg number="1" type="stanza">
+          <l>הילדים יהיו אצל אימך</l>
+          <l>בהתחלה יהיה להם בסדר</l>
+          <l>ולך יהיה קצת זמן לעצמך</l>
+          <l>לאסוף את המחשבות</l>
+          <l>ולבדוק את הרגשות</l>
+          <l>מה שנשאר מהאהבה שלנו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל יום שני אוכל גם לבקר</l>
+          <l>לאסוף אותם מבית הספר</l>
+          <l>למרות שזה נגמר בינינו</l>
+          <l>הם נשארים קרוב לליבנו</l>
+          <l>לא נפרדים אף יום מחיינו</l>
+          <l>מה שנשאר מהאהבה......שלנו</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואני.....מה עוד יש לי</l>
+          <l>ואיך אוכל לחיות</l>
+          <l>בלי אהובי.....כל חיי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>למרות הכיל אפשר שוב לנסות</l>
+          <l>להרוס הכיל אפשר ברגע</l>
+          <l>אלפי סיבות להישאר או לעזוב</l>
+          <l>אני זוכר את הנשיקה הראשונה</l>
+          <l>את החיוך, המבט, האהבה</l>
+          <l>משהו נשמר, משהו נשאר...בינינו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואני.....מה עוד יש לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

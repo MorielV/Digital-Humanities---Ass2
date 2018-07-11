@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הן אפשר</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>חיים חפר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הן אפשר</head>
+        <lg number="1" type="stanza">
+          <l>בשלכת נושב כבר הסתיו,</l>
+          <l>האבק בדרכים אט שקע,</l>
+          <l>והיום רק אלייך נשרף</l>
+          <l>וחולם על פגישה רחוקה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הן אפשר כי עוד ערב יבוא,</l>
+          <l>והשער יחרוק לו דומם,</l>
+          <l>ועינייך יהיו כה טובות,</l>
+          <l>כמו אין מלחמה בעולם.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הן אפשר, הן אפשר,</l>
+          <l>שיהיה זה פשוט כבר מחר.</l>
+          <l>הן אפשר ובג'יפ שעבר,</l>
+          <l>שאגו בחורים כי נגמר.</l>
+          <l>הן אפשר, הן אפשר</l>
+          <l>שיהיה זה פשוט כבר מחר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הן אפשר כי חדרך העצוב</l>
+          <l>מחכה בחיוורון קירותיו,</l>
+          <l>וקורא הוא לשנינו לשוב</l>
+          <l>מקרבות מדרכים ומסתיו.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הן אפשר כי פתאום ניפגש</l>
+          <l>במשלט או בדרך עפר</l>
+          <l>הן אפשר בין עשן ובין אש</l>
+          <l>גם לחלום שהכל כבר נגמר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הן אפשר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

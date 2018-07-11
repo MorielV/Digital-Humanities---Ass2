@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טעות במגרש הביתי</title>
+        <singer classification="female singer">איגי וקסמן</singer>
+        <writer>איגי וקסמן</writer>
+        <composer>עובד אפרת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טעות במגרש הביתי</head>
+        <lg number="1" type="stanza">
+          <l>טעית לא שמעת נכון, אין חדש לגבי היום.</l>
+          <l>עכשיו אני הולכת, פעם זה היה שונה.</l>
+          <l>כעת זה לא משנה, אף אחד לא משתנה.</l>
+          <l>טעית לא ראית ברור, אתה צריך משקפיים.</l>
+          <l>אתה אחד, אנחנו שניים.</l>
+          <l>יש עלי משקל וכוח, אוויר כמו נוצה.</l>
+          <l>אין לי כח לברוח, אני מרוצה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבק כוכבים עף לצדדים.</l>
+          <l>משאיר לקהל רק הדרן.</l>
+          <l>אין חשיבות - לרוח שטות.</l>
+          <l>היה מעגל - נסתובב, נעלם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ניצחת, במגרש הביתי.</l>
+          <l>אין הילוך חוזר.</l>
+          <l>אתה שחקן העונה - אתה שחקן השנה.</l>
+          <l>יתחיל השרב אני אחפש לעצמי את הדרך הנכונה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבק כוכבים עף לצדדים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

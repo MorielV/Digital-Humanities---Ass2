@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחד מול אחד</title>
+        <singer classification="band">אור כשדים</singer>
+        <writer>רונן בן טל</writer>
+        <composer>רונן בן טל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחד מול אחד</head>
+        <lg number="1" type="stanza">
+          <l>יש לך שושנים אדומות בכניסה אל הבית</l>
+          <l>יש לך שושנים אדומות בכניסה אל הלב</l>
+          <l>בלילות של ירח מלא, כשהדם רותח</l>
+          <l>את צובעת אותן באדום, למרות הכאב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש לך שערים מזהב בכניסה אל הבית</l>
+          <l>יש לך סורגים מזהב בכניסה אל הלב</l>
+          <l>בלילות של ירח מלא, כשהדם רותח</l>
+          <l>את פותחת אותם לרווחה, למרות הכאב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אחד מול אחד מול אחד מול אחד</l>
+          <l>אחד מול אחד מול אחד מול אחד</l>
+          <l>לילות אהבה, גבול אחד, גמול אחד</l>
+          <l>אחד מול אחד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש לך רק שנייה להחליט באיזה ידיים</l>
+          <l>יש לך רק שנייה להחליט עם איזה פנים</l>
+          <l>בלילות של ירח מלא, כשהדם רותח</l>
+          <l>השושנים אדומות מבחוץ ומתביישות מבפנים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש לך עוד שנייה להחליט ולפרוש כנפיים</l>
+          <l>אם הספק מתגבר מבחוץ על הכאב שבפנים</l>
+          <l>בלילות של ירח מלא אני חוזר אלייך</l>
+          <l>ונשאר לתמיד, נשאר לתמיד</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אחד מול אחד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

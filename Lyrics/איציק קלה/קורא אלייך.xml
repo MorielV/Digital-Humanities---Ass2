@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קורא אלייך</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>משה אברג'ל</writer>
+        <composer>עמרי סבג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קורא אלייך</head>
+        <lg number="1" type="stanza">
+          <l>אל תחפשי בכל מקום, אני כאן למענך</l>
+          <l>אתן הכול יפה שלי, אל תסגרי לי את דלתך</l>
+          <l>הכול נכתב כבר ממזמן, אני שלך בעולמך</l>
+          <l>קבלי אותי אלייך</l>
+          <l>אל תסבי מבטך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא אוותר עלייך, אלחם למענך</l>
+          <l>תמיד אשמור עלייך, אשמש לך כמגן</l>
+          <l>לא אפגע בך לעולם, לא אגרום לך אכזבה</l>
+          <l>אני אוהב אותך</l>
+          <l>אשת חייל מי ימצא</l>
+        </lg>
+        <lg number="3" type="stanza" />
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קורא אלייך</l>
+          <l>לאן הלכת אישה שלי הראי פנייך</l>
+          <l>ואת יודעת שאני מכור אלייך</l>
+          <l>לאן שלא תלכי, אבוא אלייך</l>
+          <l>בתוך ליבי</l>
+          <l>את יחידה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל תחפשי בכל מקום, אני כאן למענך</l>
+          <l>אתן הכול יפה שלי, אל תסגרי לי את דלתך</l>
+          <l>הכול נכתב כבר ממזמן, אני שלך בעולמך</l>
+          <l>קבלי אותי אלייך</l>
+          <l>אל תסבי מבטך</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אל תחפשי בכל מקום...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>קורא אלייך</l>
+          <l>לאן הלכת אישה שלי הראי פנייך</l>
+          <l>ואת יודעת שאני מכור אלייך</l>
+          <l>לאן שלא תלכי, אבוא אלייך</l>
+          <l>בתוך ליבי</l>
+          <l>את יחידה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

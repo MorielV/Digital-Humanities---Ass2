@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רחוב האהבה</title>
+        <singer classification="male singer">אריאל זילבר</singer>
+        <writer>דודו ויזר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רחוב האהבה</head>
+        <lg number="1" type="stanza">
+          <l>הולך אני זר ברחוב</l>
+          <l>בין אנשים בודד</l>
+          <l>רוצה להרגיש קרוב</l>
+          <l>למה אני פוחד</l>
+          <l>כסאח המבטים - ישר למוח</l>
+          <l>אותי מודדים ושופטים - ואין לי כח</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רחוב האהבה איפה נמצא</l>
+          <l>מבוך הבדידות נראה בלי מוצא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ריק, נשמתי ריקה</l>
+          <l>נפשי מדבר ציה,</l>
+          <l>רוצה להרגיש שייך</l>
+          <l>רוצה להרגיש רצוי</l>
+          <l>כל התקרבות קשה איך לגעת</l>
+          <l>והספק מעיק איך לדעת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רחוב האהבה איפה נמצא</l>
+          <l>מבוך הבדידות נראה בלי מוצא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

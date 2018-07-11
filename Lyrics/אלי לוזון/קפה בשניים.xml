@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קפה בשניים</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>אלי לוזון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קפה בשניים</head>
+        <lg number="1" type="stanza">
+          <l>כל בוקר באותה שעה</l>
+          <l>היא מחכה להסעה</l>
+          <l>ילקוט קטן מעל כתפה</l>
+          <l>כה עדינה היא ויפה</l>
+          <l>כמו מתנה בעטיפה</l>
+          <l>שהיא בג'ינס וסנדליים</l>
+          <l>ושערה כמו גלים</l>
+          <l>על צאוורה טליון כסוף</l>
+          <l>אני איתה רוצה לעוף</l>
+          <l>ולא אכפת לי עם בכלל</l>
+          <l>היא מרחפת ושורפת לבבות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני איתה רוצה לחיות</l>
+          <l>לקום בבוקר ולשתות קפה בשניים</l>
+          <l>ובלילות על חלומות </l>
+          <l>מרחף אל עננים בתוך שמים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל ערב מול אותה שקיעה</l>
+          <l>כשהיא הביתה מגיע</l>
+          <l>אני יושב לי בחלון עדיין באותו חלום</l>
+          <l>אולי תאמר היא לי שלום</l>
+          <l>וכשהרימה את ראשה</l>
+          <l>פתאום אבדה לי התחושה</l>
+          <l>עם זה דימיון או מציאות</l>
+          <l>היא מאוהבת לא פשוט</l>
+          <l>היא מטריפה את כל חושי</l>
+          <l>היא משגעת ויודעת עד כמה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני איתה רוצה לחיות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

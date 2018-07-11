@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילדה שלי</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילדה שלי</head>
+        <lg number="1" type="stanza">
+          <l>זה סיפור על ילדה</l>
+          <l>עיניים תכלת יש לה</l>
+          <l>דרך רחוב אפל וצר</l>
+          <l>עומדת בוכיה</l>
+          <l>העולם גדול הוא לה</l>
+          <l>העולם אכזר הוא לה</l>
+          <l>עיניה הכחולות אדומות כדם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ילדה ילדה שלי</l>
+          <l>אמא בשמך תזעק</l>
+          <l>כל העולם אוהב אותך</l>
+          <l>אל תפחדי לבד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המון סואן עובר ברחוב</l>
+          <l>בה הוא לא מביט</l>
+          <l>את אמא היא רוצה</l>
+          <l>היכן היא עכשיו?</l>
+          <l>קול בכי של ילדה</l>
+          <l>מעורר בי רחמים</l>
+          <l>קול בכי של ילדה</l>
+          <l>זעקה לאלוהים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ילדה ילדה שלי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מרחוב לרחוב </l>
+          <l>היא תלך הלום</l>
+          <l>רגליה יחפות בחום וקור</l>
+          <l>לב קטן של ילדה</l>
+          <l>לב קטן וזך</l>
+          <l>נשמה טהורה</l>
+          <l>אמא אותך רוצה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ילדה ילדה שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנסיך הלבן</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנסיך הלבן</head>
+        <lg number="1" type="stanza">
+          <l>הנסיך הלבן נולד בענן</l>
+          <l>ואולי בהרי השלג</l>
+          <l>ואלי מקרחון מספוסלת דמותו</l>
+          <l>היפה מכל נס ופלא.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הוא בינינו הולך, הנסיך הלבן</l>
+          <l>מחפש נסיכה לבנה כמובן</l>
+          <l>האומנם, האומנם יש כאלה?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הנסיך הלבן כטל רענן</l>
+          <l>וצחור כשושן המלך</l>
+          <l>הוא נראה כאן שלשום ואולי שוב היום</l>
+          <l>יראה בדרכי הפלך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בוא וראה נסיכי הלבן</l>
+          <l>מעבר מזה, מעבר מכאן</l>
+          <l>היא לך,</l>
+          <l>היא לך ממתינה.</l>
+          <l>בוא וראה נסיכי הבהיר</l>
+          <l>מכל אופק מופלא ממחרוזת של שיר</l>
+          <l>היא שלך,</l>
+          <l>היא שלך מתנה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הנסיך הלבן יציב ואיתן</l>
+          <l>ואולי הוא בועה או רוח</l>
+          <l>ואולי הוא נראה ואיננו נראה</l>
+          <l>ושקוף כחלום קרוע.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אל תביטי שנית נערה אלמונית</l>
+          <l>הוא אולי אגדה או בדיה שגעונית</l>
+          <l>של אותו משורר, איש פרוע.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>בוא וראה נסיכי הלבן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שבת בבוקר</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>תרצה אתר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שבת בבוקר</head>
+        <lg number="1" type="stanza">
+          <l>שבת בבוקר! יום יפה,</l>
+          <l>אמא שותה המון קפה,</l>
+          <l>אבא קורא המון עיתון (המון עיתון)</l>
+          <l>ולי יקנו המון בלון.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אפשר ללכת לירקון, לשוט שם בסירה,</l>
+          <l>או לטייל עד סוף הרחוב ולשוב בחזרה,</l>
+          <l>אפשר לקטוף פרחים, כאלה שלא אסור,</l>
+          <l>ואפשר ללכת עד הגן ולראות שהוא סגור.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

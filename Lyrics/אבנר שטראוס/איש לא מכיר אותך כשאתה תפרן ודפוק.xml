@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איש לא מכיר אותך כשאתה תפרן ודפוק</title>
+        <singer classification="male singer">אבנר שטראוס</singer>
+        <writer>אבנר שטראוס</writer>
+        <composer>אידה קוקס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איש לא מכיר אותך כשאתה תפרן ודפוק</head>
+        <lg number="1" type="stanza">
+          <l>פעם חייתי כמו מיליונר </l>
+          <l>פיזרתי כספים על זה ועל אחר </l>
+          <l>לקחתי חברים למסעדות הכי טובות </l>
+          <l>הם שתו יין ואני שקעתי בחובות </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אבל אז התחלתי ליפול כה נמוך </l>
+          <l>הלך לי כל הכסף ואיתו גם החיוך </l>
+          <l>כן אם אי פעם אשים ת'יד על שטר של עשרה שקל </l>
+          <l>אתפוס לו בזקן עד שיחייך ההרצל </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איש לא מכיר אותך </l>
+          <l>כשאתה תפרן ודפוק </l>
+          <l>מן הגרוש נותר רק החור[ </l>
+          <l>והחברים מפנים ראשם לאחור </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אבל אם אי פעם ארכב שוב על הסוס </l>
+          <l>כולם שוב חברים בלא שום היסוס </l>
+          <l>זה די מוזר בלא שום פיקפוק </l>
+          <l>איש לא מכיר אותך כשאתה תפרן ודפוק</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

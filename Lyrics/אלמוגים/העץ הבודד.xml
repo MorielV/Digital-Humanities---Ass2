@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>העץ הבודד</title>
+        <singer classification="unknown">אלמוגים</singer>
+        <writer>יצחק פרי</writer>
+        <composer>ישראל שלום</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>העץ הבודד</head>
+        <lg number="1" type="stanza">
+          <l>זהו סיפור העץ הבודד </l>
+          <l>זהו סיפור על שלושה </l>
+          <l>שלושה חיילים במדבר הלוהט </l>
+          <l>ראו באופק את העץ הבודד </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>או או או או העץ הבודד</l>
+          <l>הבודד </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בים של חול בין הרים וגבעות </l>
+          <l>עומד לו העץ הבודד </l>
+          <l>ובצילו יושבים השלושה </l>
+          <l>נמלטים מפני החמה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>או או...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הו על שלושתם נפלה תרדמה </l>
+          <l>חלם כל אחד אז חלום </l>
+          <l>חלום שאותם הוא המריץ ועודד </l>
+          <l>חלמו הם מתחת לעץ הבודד </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>או או.... </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>רוח קרה נשבה עליהם </l>
+          <l>קמו שלושתם בקפיצה </l>
+          <l>המשיכו דרכם באבק הנודד </l>
+          <l>מאחור שוב נשאר לו העץ הבודד </l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>או או...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

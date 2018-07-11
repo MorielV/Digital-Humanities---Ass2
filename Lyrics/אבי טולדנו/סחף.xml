@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סחף</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>דודו ברק</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סחף</head>
+        <lg number="1" type="stanza">
+          <l>הנה שוב האור בקצה המנהרה.</l>
+          <l>נסגרת דלת. נפתח חלון.</l>
+          <l>הנה חמה עולה מן הקרה.</l>
+          <l>ומחדרי הלב מוסט וילון.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואת שנית עולה אל הזירה.</l>
+          <l>נסחפת הלאה אל המחולות.</l>
+          <l>שוכחת את האופל, את הרע.</l>
+          <l>ובקרבך עולות הילות גדולות.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>סחף.</l>
+          <l>סחף.</l>
+          <l>בואי עם הסחף,</l>
+          <l>הינשאי בזרועותיו גבוה.</l>
+          <l>סחף.</l>
+          <l>סחף.</l>
+          <l>הוא איתך ביחד.</l>
+          <l>הוא בתוך חייך. </l>
+          <l>בחוגת המעגל.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הנה מתחדדים כול החושים:</l>
+          <l>כחול הוא האופק ואדום הוא האש.</l>
+          <l>נסערת,עוד תפלי אל הקרשים.</l>
+          <l>בוערת מן הלילה הרוגש.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לפתע את גביש טהור, טהור.</l>
+          <l>צלולה כפלג וכמו אור שקופה.</l>
+          <l>ואין בך אף לא צל אחד שחור.</l>
+          <l>אל המחול את באה כמו סופה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>סחף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

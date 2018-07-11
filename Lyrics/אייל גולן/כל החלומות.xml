@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל החלומות</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>אופיר כהן</writer>
+        <composer>אופיר כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל החלומות</head>
+        <lg number="1" type="stanza">
+          <l>איך הימים איך הימים עוברים עליי שהיא איננה</l>
+          <l>כבר אין בי כוח שוב לברוח מעצמי</l>
+          <l>לאן אפנה לאן אפנה כל הלילות חושב עליה</l>
+          <l>עוד אשתגע ממחשבות והדמעות לבד זולגות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היא לקחה את כל החלומות</l>
+          <l>איך הלב נשבר לחתיכות</l>
+          <l>כל מה שהיה לי נתתי לה</l>
+          <l>כל מה שעובר עליי בגללה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תמונה אחת תמונה אחת רק נשארה לי למזכרת</l>
+          <l>איתך חלמתי ואהבתי כמו עיוור</l>
+          <l>עד סוף ימיי עד סוף ימיי אני אשב כאן אחכה לך</l>
+          <l>ליבי קורא לך עייפתי דיי לא אל תלכי חזרי אליי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

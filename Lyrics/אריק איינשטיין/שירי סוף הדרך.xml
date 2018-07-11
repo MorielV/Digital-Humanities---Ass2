@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שירי סוף הדרך</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>על גבול האור</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שירי סוף הדרך</head>
+        <lg number="1" type="stanza">
+          <l>הדרך יפה עד מאוד - אמר הנער</l>
+          <l>הדרך קשה עד מאוד - אמר העלם</l>
+          <l>הדרך ארכה עד מאוד - אמר הגבר</l>
+          <l>ישב הזקן לנוח בצד הדרך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>צובעה השקיעה שיבתו בפז ואודם</l>
+          <l>הדשא מבהיק לרגליו בטל הערב</l>
+          <l>ציפור אחרונה של יום מעליו מזמרת</l>
+          <l>התזכור מה יפתה, מה קשתה, מה ארכה הדרך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אמרת יום רודף יום ולילה - לילה</l>
+          <l>הנה ימים באים בלבך אמרת</l>
+          <l>ותראה ערבים ובקרים פוקדים חלונך</l>
+          <l>ותאמר הלא אין חדש תחת השמש</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>והנה אתה בא בימים, זקנת ושבת</l>
+          <l>ימיך ספורים ויקר מניינים שבעתיים</l>
+          <l>ותדע כל יום אחרון תחת השמש</l>
+          <l>ותדע חדש כל יום תחת השמש</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אמרת יום רודף יום ולילה - לילה</l>
+          <l>הנה ימים באים בלבך אמרת</l>
+          <l>ותראה ערבים ובקרים פוקדים חלונך</l>
+          <l>ותאמר הלא אין חדש תחת השמש</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הדרך יפה עד מאוד - אמר הנער</l>
+          <l>הדרך קשה עד מאוד - אמר העלם</l>
+          <l>הדרך ארכה עד מאוד - אמר הגבר</l>
+          <l>ישב הזקן לנוח בצד הדרך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

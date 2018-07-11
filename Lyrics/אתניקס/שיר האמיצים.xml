@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר האמיצים</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>בדרך שלך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר האמיצים</head>
+        <lg number="1" type="stanza">
+          <l>מתחמש, מתשכנע,</l>
+          <l>קונה את כל הסיסמאות,</l>
+          <l>מתארגן עם החברה</l>
+          <l>חוזרים אל כל הסמטאות -</l>
+          <l>שרים את "שיר האמיצים",</l>
+          <l>שרים את "שיר האמיצים".</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם רק תבקשי אקח אותך איתי</l>
+          <l>אל מקום רחוק שבו את תבקשי</l>
+          <l>תבקשי לך גן עדן,</l>
+          <l>תבקשי פרחים, אשתול לך גן תלוי,</l>
+          <l>אם רק אלוהים יתן לנו סיכוי</l>
+          <l>נחיה בגן עדן!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב אני לא יודע</l>
+          <l>על מה ולמה מתעקשים,</l>
+          <l>לא מוצאים את הדרך</l>
+          <l>תראי כולם מבולבלים -</l>
+          <l>שרים את "שיר האמיצים",</l>
+          <l>שרים את "שיר האמיצים".</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם רק תבקשי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם נישאר חלום</title>
+        <singer classification="male singer">אריאל הורוביץ</singer>
+        <writer>אריאל הורוביץ</writer>
+        <composer>אריאל הורוביץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם נישאר חלום</head>
+        <lg number="1" type="stanza">
+          <l>אם נישאֵר חלום אם נישאֵר חלום</l>
+          <l>מה יכול כבר להיות</l>
+          <l>אהבה אחת פחות בעולם ועם הזמן</l>
+          <l>אם נישאֵר חלום אם נישאֵר חלום</l>
+          <l>זה את זו פשוט נשכח</l>
+          <l>כמו הקיץ שדעך נעלם מהעולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי לא ניתן לזה לקרות</l>
+          <l>על אהבה שכזאת לא מוותרים </l>
+          <l>בואי כי כל כך פשוט לראות</l>
+          <l>שאהבה שכזאת שוב לא נפגוש כל החיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם נישאֵר חלום אם נישאֵר חלום</l>
+          <l>יעברו כל הימים</l>
+          <l>ויהיו כל כך דומים זה לזה כמו חיילים</l>
+          <l>אם נישאֵר חלום אם נישאֵר חלום</l>
+          <l>מה יכול כבר להיות</l>
+          <l>אהבה אחת פחות בעולם אבל הפעם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואי לא ניתן לזה לקרות</l>
+          <l>על אהבה שכזאת לא מוותרים </l>
+          <l>בואי כי כל כך פשוט לראות</l>
+          <l>שאהבה שכזאת שוב לא נפגוש כל החיים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

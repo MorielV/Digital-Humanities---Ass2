@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלייך</title>
+        <singer classification="male singer">אילן נורי</singer>
+        <writer>מעין כץ</writer>
+        <composer>מעין כץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלייך</head>
+        <lg number="1" type="stanza">
+          <l>גם בעיניים עצומות</l>
+          <l>אני רואה אותך</l>
+          <l>ובכל החלומות</l>
+          <l>אני איתך ואת איתי</l>
+          <l>אני שלך, אהובתי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלייך אני בא עכשיו</l>
+          <l>אין דבר שיעצור אותי</l>
+          <l>ואת אהבתי</l>
+          <l>אלייך אני בא עכשיו</l>
+          <l>ממקום רחוק אל תוך ליבך</l>
+          <l>בכל כוחי אלך</l>
+          <l>אבוא אלייך, אלייך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>במבוך הרגשות</l>
+          <l>אלך אחרי הלב</l>
+          <l>במחשבות הכי קשות</l>
+          <l>אותך אוהב</l>
+          <l>ואת איתי</l>
+          <l>אני שלך, אהובתי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלייך אני בא עכשיו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

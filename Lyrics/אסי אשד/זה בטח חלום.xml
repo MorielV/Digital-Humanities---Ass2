@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה בטח חלום</title>
+        <singer classification="unknown">אסי אשד</singer>
+        <writer>אסי אשד</writer>
+        <composer>אסי אשד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה בטח חלום</head>
+        <lg number="1" type="stanza">
+          <l>אותו החלום אבל לא רומנטי </l>
+          <l>התעוררתי עירום וכולי רעדתי </l>
+          <l>היא חייכה אלי </l>
+          <l>קרצה והלכה, קרצה והלכה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אותו החלום בו לבד נותרתי </l>
+          <l>התעוררתי לנשום אך כמעט נחנקתי </l>
+          <l>את שאבת ממני </l>
+          <l>את האוויר, את האוויר </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה בטח היום שאני מנסה עוד לשכוח </l>
+          <l>זה בטח חלום נאחז בשרידיו כה בכוח </l>
+          <l>לא חושב עם המוח </l>
+          <l>רוצה רק לצרוח </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אותו החלום בלי פנים וצבע </l>
+          <l>התעוררתי שיכור מנסה לשחזר את הרגע </l>
+          <l>שהפסקת לפעום, התמכרת לתחושה </l>
+          <l>להרגשה </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זה בטח היום שאני מנסה עוד לשכוח </l>
+          <l>זה בטח חלום נאחז בשרידיו כה בכוח </l>
+          <l>לא חושב עם המוח </l>
+          <l>רוצה רק לצרוח</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמונה 4</title>
+        <singer classification="unknown">אביהו שבת</singer>
+        <writer>ניצן קייקוב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמונה</head>
+        <lg number="1" type="stanza">
+          <l>שוב רגעים מחזירים לי אותך</l>
+          <l>שוב הפחדים רחוקים לי כל כך</l>
+          <l>הכל מסתדר כשאת פה איתי</l>
+          <l>הכל אז נראה כל כך דמיוני</l>
+          <l>לילות שעברו בלי שינה נגמרו </l>
+          <l>ימים חדשים כבר בפתח עמדו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואת אמונה חזקה שבלב</l>
+          <l>מזכירה לי כמה אוהב</l>
+          <l>פתאום הדברים מסתדרים מעצמם</l>
+          <l>לא צריך עוד דבר בעולם</l>
+          <l>כשאת, כשאת איתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמים שחורים כיסו את ראשי </l>
+          <l>אם את הולכת מתי תחזרי </l>
+          <l>אז כשהייתי כל כך לבדי</l>
+          <l>נשענתי עלייך, תפילה בליבי</l>
+          <l>ימים שעברו בלי לצאת לרחוב</l>
+          <l>לילות שחיפשתי על מה עוד לכתוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואת אמונה חזקה שבלב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מכה על חטא</title>
+        <singer classification="male singer">איציק שמלי</singer>
+        <writer>איציק שמלי</writer>
+        <composer>איציק שמלי</composer>
+        <album>החמצן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מכה על חטא</head>
+        <lg number="1" type="stanza">
+          <l>נשמה שלי אני כמעט כבר לא נושם, </l>
+          <l>האוויר נהיה דליל, מאז שאת אינך, </l>
+          <l>הרי תמיד ידעתי כשאת לא תהיי פה, </l>
+          <l>הכל יתפורר...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נשמה שלי גם החיוך אותי עוזב, </l>
+          <l>הוא לא ישוב אם את לא כאן, לבטל כאב, </l>
+          <l>הרי תמיד פחדתי מהרגע ש... הכל יגמר </l>
+          <l>אז איך הגעתי למצב הזה? שרק עכשיו אני מתעורר. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מילים לא יעזרו לי כאן, כשהיה צריך שתקתי, </l>
+          <l>נתת לי כבר את כל הזמן וכמו תינוק אותו בזבזתי, </l>
+          <l>איך לא ראיתי, לא הרגשתי, לא הבחנתי, מי את בשבילי?! </l>
+          <l>היום אני מכה על חטא ורק חולם שתחזרי. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נשמה שלי היום אני מבין הכל, </l>
+          <l>מה חלקך בתוך חיי עד כמה הוא גדול, </l>
+          <l>ואיך אני פתאום כבר לא גיבור כאילו אזלו כוחותי, </l>
+          <l>היום אני שקוף בלי אגו מיותר, תשובי אלי... </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מילים לא יעזרו לי כאן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

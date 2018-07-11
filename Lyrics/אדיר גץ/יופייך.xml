@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יופייך</title>
+        <singer classification="unknown">אדיר גץ</singer>
+        <writer>אלירז שדה</writer>
+        <composer>אדיר גץ</composer>
+        <album>אדיר גץ</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יופייך</head>
+        <lg number="1" type="stanza">
+          <l>הרים עוטפים ליבך</l>
+          <l>הים גואה בכאבים</l>
+          <l>אותי הוא סחף</l>
+          <l>כשהתגברו הגלים</l>
+          <l>חיות טורפות מוצאות</l>
+          <l>את אלה שבוכים</l>
+          <l>אל תזילי עוד דימעה</l>
+          <l>הם בשקט שם מסתתרים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פרחים סביבך צומחים</l>
+          <l>יש בך קסם מלטף</l>
+          <l>ציפור קטנה הייתה לי</l>
+          <l>מאוד קשה לי לוותר</l>
+          <l>הם רצו אותך איתם</l>
+          <l>לא ידעתי איך לנשוך</l>
+          <l>את אהבת את שהציעו</l>
+          <l>הם ידעו כיצד למשוך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יופייך כשל הטבע</l>
+          <l>מנצח ת׳שעון</l>
+          <l>משתמשת בשלך</l>
+          <l>אני יודע זאת פתאום</l>
+          <l>איך אוכל עוד לנצח</l>
+          <l>הם דורסים אני בורח</l>
+          <l>משאיר אותך לבד</l>
+          <l>עם כל האריות.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בגופי אפסו כוחות</l>
+          <l>לא יכול עוד להציל</l>
+          <l>את מצאת לך להקה</l>
+          <l>הנחש בך הכיש</l>
+          <l>את רוכנת כעלה</l>
+          <l>לקולות הפיתויים</l>
+          <l>העיניים השתנו בך</l>
+          <l>בצילך מתפתלים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יופייך כשל הטבע...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>תני לי רק סימן</l>
+          <l>מתחנן למבטים</l>
+          <l>שקוראים לי מרחוק</l>
+          <l>הספיקו לי כל הכשפים</l>
+          <l>את חיה פצועה בשטח</l>
+          <l>ואני זה שמחכה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

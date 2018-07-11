@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר מדליק הפנסים</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>יעקב אורלנד</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר מדליק הפנסים</head>
+        <lg number="1" type="stanza">
+          <l>עמוק עמוק בתוכי על הר גבוה וצר</l>
+          <l>עמוק עמוק בתוכי עומד עומד לו מבצר</l>
+          <l>ויש מגדל במבצר עמוק עמוק בתוכי</l>
+          <l>וחדר דל בו וצר ושם יושב אנוכי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ושם יושב אנוכי עמוק עמוק בתוכי</l>
+          <l>בלילה קר ושחור ומתגעגע לאור</l>
+          <l>ואין מדליק במבצר וקר בחושך וצר</l>
+          <l>ומי ידליק בתוכי אם לא אדליק אנוכי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

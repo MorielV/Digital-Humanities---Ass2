@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חוזר מאהבה</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חוזר מאהבה</head>
+        <lg number="1" type="stanza">
+          <l>הלך בדרך לביתך</l>
+          <l>ועם אראה אור בחולונך</l>
+          <l>כי הלב רוצה רק אלייך</l>
+          <l>מתעבה לחיבת מילותייך</l>
+          <l>והגבר שבי כו נכנע לך</l>
+          <l>אוהב אותך....</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אוהב אותך מהלב והנשמה</l>
+          <l>אוהב אותך כן רק את הנחמה</l>
+          <l>אוהב אותך את הכח התקווה</l>
+          <l>אני חוזר מאהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מרחוק שמעתי את קולך</l>
+          <l>ומחיש צעדי לקראתך</l>
+          <l>על ליבי צרור מכתבייך</l>
+          <l>רק למחות דמעה מעינייך</l>
+          <l>הדמה השתיקה כמו אמרו לך</l>
+          <l>אוהב אותך....</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אוהב אותך מהלב והנשמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

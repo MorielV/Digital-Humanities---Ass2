@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תפילת הדרך</title>
+        <singer classification="unknown">איילה טליאס</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>אריה ברקוביץ'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תפילת הדרך</head>
+        <lg number="1" type="stanza">
+          <l>כמו נר תמיד שלא כבה</l>
+          <l>בעומק נשמתי</l>
+          <l>ושוב לדרך הטובה</l>
+          <l>היא מובילה אותי</l>
+          <l>חוצה נהר מדבר וים</l>
+          <l>איתה אלך עד קצה עולם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תפילת הדרך שלא נגמרת</l>
+          <l>כמו שיר לנצח, מנגינת חיי.</l>
+          <l>תפילת הדרך אותי שומרת</l>
+          <l>ואת אמונתי באלוהי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתוך הפחד היא עולה</l>
+          <l>מוארת מעלי</l>
+          <l>פנס דולק באפילה</l>
+          <l>על פני כל משעולי</l>
+          <l>נותנת כוח לנפשי</l>
+          <l>מכאן והלאה להמשיך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תפילת הדרך שלא נגמרת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

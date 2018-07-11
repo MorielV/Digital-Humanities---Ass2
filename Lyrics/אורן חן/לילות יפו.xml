@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילות יפו</title>
+        <singer classification="male singer">אורן חן</singer>
+        <writer>אופיר טבה</writer>
+        <composer>אורן חן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילות יפו</head>
+        <lg number="1" type="stanza">
+          <l>הצדפים שבחוף לי סיפרו</l>
+          <l>כבר מזמן לא הייתה כאן תשוקה</l>
+          <l>זה שנים שזוגות לא עברו</l>
+          <l>בריחוף, בריקוד, בנשיקה</l>
+          <l>כוכבים באורם נשבעו</l>
+          <l>לא פגשנו באיש מאוהב</l>
+          <l>לא ראו, לא נגעו, לא שמעו</l>
+          <l>כשהבטיח לתת לה כוכב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל הלילות של יפו כבר מתו</l>
+          <l>איש לא מביט בשקיעה</l>
+          <l>אלפי העיניים שפעם הביטו</l>
+          <l>היום לא יזילו דמעה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל הלילות של יפו כבר מתו</l>
+          <l>איש לא מביט בשקיעה</l>
+          <l>יופיו של שושן מזמן כבר שכחנו</l>
+          <l>טבע בתהום נשיה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ספסלים שבגן כבר ריקים</l>
+          <l>אילן עם קמטים לי השיח</l>
+          <l>הם ישבו חבוקים, צוחקים</l>
+          <l>אז כשהייתי עוד שיח</l>
+          <l>והר שפונה למזרח</l>
+          <l>סיפר לי על אלף זריחות</l>
+          <l>על אלפי אנשים ששכח</l>
+          <l>שדיברו על מילים נשכחות.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כל הלילות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

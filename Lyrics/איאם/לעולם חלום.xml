@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לעולם חלום</title>
+        <singer classification="female singer">איאם</singer>
+        <writer>גילה סלונים</writer>
+        <composer>גילה סלונים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לעולם חלום</head>
+        <lg number="1" type="stanza">
+          <l>כן, קח את הזמן שלך</l>
+          <l>אל תבהל חבר, אני רק אוהבת</l>
+          <l>לא אבקש דבר</l>
+          <l>לא את החופש שלך</l>
+          <l>מה שטוב בשבילך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כן, אז קח את הזמן שלך</l>
+          <l>ואל תבהל חבר, אני רק אוהבת</l>
+          <l>לא אבקש דבר</l>
+          <l>לא את החופש שלך</l>
+          <l>מה שטוב בשבילך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תן לי לחלום</l>
+          <l>אל תעיר אותי היום</l>
+          <l>מותר לשכוח, מותר לחלום</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כן, קח את הזמן שלך</l>
+          <l>אל תבהל חבר, אני רק עוזבת</l>
+          <l>לא אבקש דבר</l>
+          <l>לא את החופש שלך</l>
+          <l>מה שטוב בשבילך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

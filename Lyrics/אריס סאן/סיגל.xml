@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיגל 2</title>
+        <singer classification="male singer">אריס סאן</singer>
+        <writer>יובב כץ</writer>
+        <composer>אריס סאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיגל</head>
+        <lg number="1" type="stanza">
+          <l>מים לא לגמתי עיניים לא עצמתי</l>
+          <l>אוכל לא טעמתי חלמתי וחלמתי</l>
+          <l>מול קרני הסהר את לבבי השחתי</l>
+          <l>אין אני אני מאז את לי סיגל.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חמדתי סיגל סיגל</l>
+          <l>תמתי סיגל סיגל</l>
+          <l>אדונך אני סיגל</l>
+          <l>עבד לך אני סיגל</l>
+          <l>איך פתאום כל כך כל כך</l>
+          <l>רק אותך אותך אותך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אמש עוד דהרתי כפרא על אופנוע</l>
+          <l>אמש התפרחחתי בחוף ובקולנוע</l>
+          <l>אמש עוד שרקתי אחרי כל בת ברובע</l>
+          <l>אין אני אני מאז את לי סיגל.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חמדתי סיגל סיגל</l>
+          <l>תמתי סיגל סיגל</l>
+          <l>אדונך אני סיגל</l>
+          <l>עבד לך אני סיגל</l>
+          <l>איך פתאום כל כך כל כך</l>
+          <l>רק אותך אותך אותך.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לך אם תבקשיני אקטוף את הירח</l>
+          <l>לך אבנה פה בית טובל בגן פורח</l>
+          <l>ילדים בבית עוד יעשו שמח</l>
+          <l>הבנים שלי ומלכתי סיגל.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>חמדתי סיגל סיגל</l>
+          <l>תמתי סיגל סיגל</l>
+          <l>אדונך אני סיגל</l>
+          <l>עבד לך אני סיגל</l>
+          <l>איך פתאום כל כך כל כך</l>
+          <l>רק אותך אותך אותך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

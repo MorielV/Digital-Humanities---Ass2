@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תם 4</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>מוריס</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תם</head>
+        <lg number="1" type="stanza">
+          <l>תם ונשלם הסיפור שלך</l>
+          <l>לא רצית לוותר</l>
+          <l>היא לא תוכל לקבל אותך</l>
+          <l>ליבה שייך לאיש אחר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וגם אם תחכה כל הלילה</l>
+          <l>הכאב הזה את הלב שוחק</l>
+          <l>וגם אם תחכה כל הלילה</l>
+          <l>הנרות כבים הבית ריק...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תם גם הסתיו והחורף בא</l>
+          <l>כשקר קשה להיות לבד</l>
+          <l>אלף בגידות לא לימדו אותך</l>
+          <l>שאהבה יש רק אחת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וגם אם תחכה כל הלילה</l>
+          <l>הכאב הזה את הלב שוחק</l>
+          <l>וגם אם תחכה כל הלילה</l>
+          <l>הנרות כבים הבית ריק...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וגם אם תחכה כל הלילה</l>
+          <l>הכאב הזה את הלב שוחק</l>
+          <l>וגם אם תחכה כל הלילה</l>
+          <l>הנרות כבר לא דולקים, הבית ריק.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תלכי 6</title>
+        <singer classification="unknown">אלון חסון</singer>
+        <writer>תמיר גל</writer>
+        <composer>תמיר גל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תלכי</head>
+        <lg number="1" type="stanza">
+          <l>אני זוכר את הימים</l>
+          <l>שהיינו מאושרים</l>
+          <l>אני זוכר את הלילות</l>
+          <l>ומדפדף בין התמונות</l>
+          <l>הנה עברה לה עוד שנה</l>
+          <l>ואת עדיין לא עונה</l>
+          <l>הנה חלפה לה עוד תקופה</l>
+          <l>נשארתי בודד ובלי תקוה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תלכי אני אוהב</l>
+          <l>מחכה לך וכואב</l>
+          <l>אל תלכי אני אוהב</l>
+          <l>בודד אני עם הכאב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל יום שעובר</l>
+          <l>אני שבור וכואב</l>
+          <l>כל יום שחולף</l>
+          <l>מתגעגע לראותך</l>
+          <l>בואי נחזיר את האהבה</l>
+          <l>שהיתה ונעלמה</l>
+          <l>בואי נחזיר את האהבה</l>
+          <l>ונשכח את העבר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תלכי אני אוהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

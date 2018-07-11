@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אופליה 2</title>
+        <singer classification="male singer">איציק הרוש</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אופליה</head>
+        <lg number="1" type="stanza">
+          <l>אופליה לא כדאי </l>
+          <l>לבכות שם בחשאי </l>
+          <l>ים דמעותייך </l>
+          <l>כמו ניגר אל תוך ליבי </l>
+          <l>האם עשינו די ומאוחר מדי </l>
+          <l>להתפייס ולהתחיל שוב מחדש </l>
+          <l>אני אוהב אותך </l>
+          <l>אני חולם אותך </l>
+          <l>רוצה להיות איתך אופליה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אופליה מה יהיה </l>
+          <l>תלוש אני תוהה </l>
+          <l>האם תקווה יש מנחמת בלבבך </l>
+          <l>היי אליי טובה </l>
+          <l>היי אליי קרובה </l>
+          <l>רוצה בחום גופך הרך להתעטף </l>
+          <l>אני אוהב אותך </l>
+          <l>אני חולם אותך </l>
+          <l>רוצה להיות איתך אופליה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בשם האהבה </l>
+          <l>אני נשבע אופליה </l>
+          <l>לאהוב אותך עם כל הנשמה </l>
+          <l>בשם כל הקדושים מלכתי אופליה </l>
+          <l>את האביב אביא והחיוך אשיב </l>
+          <l>אוהבך לעולם אופליה שלי </l>
+          <l>אני אוהב אותך </l>
+          <l>אני חולם אותך </l>
+          <l>רוצה להיות איתך אופליה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בשם האהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

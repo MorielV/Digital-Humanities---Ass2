@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ג וני</title>
+        <singer classification="male singer">אריק ברמן</singer>
+        <writer>אריק ברמן</writer>
+        <composer>אריק ברמן</composer>
+        <album>I</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ג'וני</head>
+        <lg number="1" type="stanza">
+          <l>ג'וני מדבר איתי על אהבה,</l>
+          <l>יושבים כאן במרפסת, הוא נותן לי הרגשה טובה,</l>
+          <l>עם הטון דיבור הכל-כך אופייני, הזה המהוסס,</l>
+          <l>אני יוצא נקי כזה, בשעה שהוא נכנס.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ג'וני מסתובב איתי בלילה בשכונה,</l>
+          <l>הולכים להוציא כסף ואיפה לעזאזל יש מכונה?</l>
+          <l>פתאום באמצע בן-יהודה הוא יורד על המדרכה,</l>
+          <l>סופר בלב, אני חושב, חמישים שכיבות סמיכה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ג'וני בא, זה משמח.</l>
+          <l>לפעמים יש יין זול, לפעמים פיסת סיגריה.</l>
+          <l>ג'וני בא, אז אני שוכח</l>
+          <l>לרגע מהכל.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ג'וני שר איתי את השירים של פעם,</l>
+          <l>מנסים לחשוב על משהו ישן, שלא ניגנו ממזמן,</l>
+          <l>אז הוא נזכר בעוד שיר זר של יהודה עמיחי,</l>
+          <l>"מכיר את זה?" הוא מנסה, "אוי, כמה שזה יפה, בחיי..."</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ג'וני בא, זה משמח.</l>
+          <l>לפעמים יש יין זול, לפעמים פיסת סיגריה.</l>
+          <l>ג'וני בא, אז אני שוכח</l>
+          <l>לרגע מהכל.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>"אם שום דבר בחוץ כבר לא יקרה?</l>
+          <l>אם שום דבר בפנים לא יסתדר?"</l>
+          <l>"תרגע,אני נמצא עכשיו איתך,חבר"</l>
+          <l>"אם כל מי שרחוק לא יתקרב?</l>
+          <l>אם כל מי שקרוב לא ישאר?"</l>
+          <l>"תרגע, אני נמצא עכשיו איתך, חבר".</l>
+          <l>ג'וני כאן.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

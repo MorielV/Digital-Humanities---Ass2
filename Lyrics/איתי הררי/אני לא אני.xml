@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני לא אני</title>
+        <singer classification="unknown">איתי הררי</singer>
+        <writer>עדי כבירי</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני לא אני</head>
+        <lg number="1" type="stanza">
+          <l>כמה ימים זה יקח עוד</l>
+          <l>בואי כי את חסרה פה</l>
+          <l>היה לי אז טוב ועכשיו כבר לא</l>
+          <l>האור שהדלקת כבר כבה בי ואין לי אותך מה נשאר לי</l>
+          <l>רק זכרונות וגם זה לא אותו דבר את לא מבינה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שאני לא אני בלעדייך</l>
+          <l>בעולם אין דבר שדומה לך</l>
+          <l>את הכל בשבילי האחת שלי</l>
+          <l>בואי כבר אני פה מחכה לך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היית לי הכל וחשבתי שמה שחיפשתי מצאתי</l>
+          <l>היית את האור איך אוכל לראות</l>
+          <l>תמיד שאמרת האמנתי אהבתי אותך מה נשאר לי</l>
+          <l>רק זכרונות וגם זה לא אותו דבר את לא מבינה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שאני לא אני בלעדייך בעולם אין דבר שדומה לך את הכל בשבילי האחת שלי</l>
+          <l>בואי כבר אני פה מחכה לך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

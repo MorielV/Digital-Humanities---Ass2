@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלילה הולך בשדרות</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>נעמי שמר</writer>
+        <composer>נעמי שמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלילה הולך בשדרות</head>
+        <lg number="1" type="stanza">
+          <l>הרחק בהרים</l>
+          <l>אספו איכרים</l>
+          <l>את כל עוללות הכרם</l>
+          <l>אשכול רק אחד</l>
+          <l>בכרם שרד</l>
+          <l>ויהי לתנים לטרף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כבר עלה מן הים</l>
+          <l>ערפל אדמדם</l>
+          <l>והלילה הולך בשדרות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בחוף אלמוגים</l>
+          <l>משו דיגים</l>
+          <l>את כל הרשתות ממים</l>
+          <l>סירה יחידה</l>
+          <l>במיים שרדה</l>
+          <l>ותהי לרוחות שלל היא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כבר עלה מן הים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל תוך אהליו</l>
+          <l>הגדוד נאסף</l>
+          <l>וכל הדגלים הורדו</l>
+          <l>חייל רק אחד</l>
+          <l>בדרך שרד</l>
+          <l>כי בתוך ההרים אבד הוא</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כבר עלה מן הים...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>בכל הדרכים</l>
+          <l>כליתי כוחי</l>
+          <l>ברוב מחולות וזמר</l>
+          <l>שירה יחידה</l>
+          <l>בנבל שרדה</l>
+          <l>והיא לעולם אילמת</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>כבר עלה מן הים</l>
+          <l>ערפל אדמדם</l>
+          <l>והלילה הולך בשדרות</l>
+          <l>ועולים על ליבי</l>
+          <l>רק שירים עצובים</l>
+          <l>כשהלילה הולך בשדרות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

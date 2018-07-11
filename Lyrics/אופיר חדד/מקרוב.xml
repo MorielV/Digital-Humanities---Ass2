@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מקרוב</title>
+        <singer classification="unknown">אופיר חדד</singer>
+        <writer>ציון אבדייב</writer>
+        <composer>אופיר חדד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מקרוב</head>
+        <lg number="1" type="stanza">
+          <l>יום ועוד לילה הרוח לא נמה</l>
+          <l>ואני עוד מחכה לך</l>
+          <l>השמש תזרח לה ואני אתבונן בה</l>
+          <l>עוד אמשיך לחכות פה רק לך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יום ועוד לילה הרוח לא נמה </l>
+          <l>ואני עוד אחזור שוב להיות איתך </l>
+          <l>השמש תזרח לה ואני אתבונן בה </l>
+          <l>והיא רק תאיר לי תקווה אבודה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עוד ניפגש ויהיה לנו טוב </l>
+          <l>זאת הבטחתי לך לאהוב</l>
+          <l>אהבה אמיתית שניראה זה את זו </l>
+          <l>מקרוב מקרוב</l>
+          <l>כשראיתי אותך הן לחשתי רק לך </l>
+          <l>שהבטחתי לך לאהוב</l>
+          <l>אהבה אמיתית שנראה זה את זו </l>
+          <l>מקרוב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יום ועוד לילה הרוח כבר נמה</l>
+          <l>וליבי עוד מצפה לך</l>
+          <l>השמש שקעה לה ואני אתבונן בה</l>
+          <l>והיא רק תזכיר לי דמותך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>גם כשחשוך לי </l>
+          <l>את תמיד מאירה לי </l>
+          <l>את הלב האוהב בלילה </l>
+          <l>נתיב אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עוד ניפגש ויהיה לנו טוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

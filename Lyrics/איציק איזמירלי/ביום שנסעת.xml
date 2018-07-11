@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ביום שנסעת</title>
+        <singer classification="unknown">איציק איזמירלי</singer>
+        <writer>איציק איזמירלי</writer>
+        <composer>איציק איזמירלי</composer>
+        <album>חוויות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ביום שנסעת</head>
+        <lg number="1" type="stanza">
+          <l>ביום שנסעת הרגשתי אבוד חסר תקווה </l>
+          <l>הרגשתי שפוף הרגשתי קטן הרגשתי חלש</l>
+          <l>ביום שעזבת ישבתי קפוא ללא תנועה</l>
+          <l>עצרתי מבט דמיינתי שאת סוף העולם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וחשבתי לעצמי שרק את כל עולמי </l>
+          <l>ונדמה לי שכבר אין עוד יותר אהבה </l>
+          <l>פתאום הופעת איך סללת לי במהרה ת'דרך לעולם אחר ואני שר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ביום שנסעה נכנסת לחיי באור נפלא </l>
+          <l>כבשת את ליבי הסערת את רוחי החיית נשמתי</l>
+          <l>ביום שעזבה הבנתי פתאום שיש מלבדה </l>
+          <l>ראיתי אותך נפלתי שבוי בקסם שלך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>וחשבתי לעצמי שרק את כל עולמי </l>
+          <l>ונדמה לי שכבר אין עוד יותר אהבה </l>
+          <l>פתאום הופעת איך סללת לי במהרה ת'דרך לעולם חדש ואני שר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

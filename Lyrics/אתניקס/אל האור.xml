@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל האור</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל האור</head>
+        <lg number="1" type="stanza">
+          <l>אין לך מילים את שותקת כמו רעם</l>
+          <l>את הכאב את עוצרת בפנים</l>
+          <l>חץ ליבי יוצא מן ההרים אלייך</l>
+          <l>החום בליבך לא רותח אף פעם</l>
+          <l>כל אוהבייך שומרים על כבודך</l>
+          <l>גם ליבי יוצא מן ההרים אלייך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל האור מן ההרים</l>
+          <l>אשא קולי אלייך</l>
+          <l>אל האור בת כנענים</l>
+          <l>בין עדרים אלייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין לך מגן את נופלת וקמה</l>
+          <l>כל הבנים על רכבי הברזל</l>
+          <l>אש קירבי תגן מן ההרים עלייך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הצל של גופך מהלך לי בדם</l>
+          <l>המור של שפתייך על יובש שפתי</l>
+          <l>את ליבי אשלח מן ההרים אלייך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל האור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

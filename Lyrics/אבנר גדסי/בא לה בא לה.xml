@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בא לה בא לה</title>
+        <singer classification="male singer">אבנר גדסי</singer>
+        <writer>אלון אבידר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בא לה בא לה</head>
+        <lg number="1" type="stanza">
+          <l>היא רקדה לבד, עם גופה החם</l>
+          <l>העולם עמד, כשליבה פעם.</l>
+          <l>הגברים אמרו, היא נטרפה,</l>
+          <l>מבטם - פתאום קפא</l>
+          <l>אבל היא, בתוך עצמה</l>
+          <l>בתוך הלילה נעלמה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בא לה, בא לה לרקוד</l>
+          <l>בא לה, בא לה רק עוד</l>
+          <l>בא לה, בא לה לעוף - מכוח הטירוף</l>
+          <l>בא לה, בא לה לצעוק</l>
+          <l>בא לה, בא לה מתוק</l>
+          <l>בא לה, בא לה לעוף - לעוף, מתוך הגוף.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא רקדה לבד, בלילות הסתיו</l>
+          <l>היא רקדה תמיד, באותו מקצב</l>
+          <l>נסחפה בצליל, כמו סופה</l>
+          <l>והשתגעה לתוך סופה</l>
+          <l>וכשעלה אורו של יום</l>
+          <l>איבדה איתו, את כל התום.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בא לה, בא לה לרקוד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

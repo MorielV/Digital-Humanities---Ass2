@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמן סוכר</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמן סוכר</head>
+        <lg number="1" type="stanza">
+          <l>מי מתרוצץ בחיים שלך</l>
+          <l>על בטן ריקה יד חצי בתקוה</l>
+          <l>אם איזה ילד זה לא משנה זה לא משנה</l>
+          <l>בחיים שלך מסוכן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אישה בגילך חבל על הזמן</l>
+          <l>הוא כל כך מאוהב את חייבת לשלוט במצב</l>
+          <l>נכנסת איתו לעולם לא ברור</l>
+          <l>תסתכלי הוא מכור ועלול להיות מסוכן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחבק אותה וחונק אותה</l>
+          <l>מחבק אותה וחונק אותה</l>
+          <l>עושה בו מליון דברים</l>
+          <l>הולכת באה זמן סוכר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי יעזור לך אחרי שתפלי</l>
+          <l>לא אלוהים ובטח שלא אני</l>
+          <l>רצח בשבילו זה כמו גלידה שחורה</l>
+          <l>זה מתוק מסוכר ועלול להיות מסוכן</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מחבק אותה....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

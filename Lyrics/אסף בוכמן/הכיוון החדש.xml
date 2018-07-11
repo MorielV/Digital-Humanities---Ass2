@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכיוון החדש</title>
+        <singer classification="unknown">אסף בוכמן</singer>
+        <writer>אסף בוכמן</writer>
+        <composer>אסף בוכמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכיוון החדש</head>
+        <lg number="1" type="stanza">
+          <l>יום בהיר שמים בלי ענן </l>
+          <l>אני הולך מכאן</l>
+          <l>משאיר עולם שנלחם כל הזמן</l>
+          <l>רוצה לנוח חסר לי חמצן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מתחיל את הדרך עולה על ההר</l>
+          <l>תופס תצפית אל הכיוון החדש</l>
+          <l>הציפורים לא מגלות לי לאן</l>
+          <l>אבל יודע אל הכיוון החדש</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואת איתי בכל דקה</l>
+          <l>גם אם אהיה רחוק אני מרגיש אותך</l>
+          <l>פשוט צריך לתפוס קצת שלווה</l>
+          <l>אני אחזור מהר תהיי בטוחה</l>
+          <l>את בטוחה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יום בהיר שמים בלי ענן</l>
+          <l>אני זוכר האוויר היה קר</l>
+          <l>אני חיפשתי מקום בלי עשן</l>
+          <l>עד שגיליתי אי שם כפר קטן</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואת איתי בכל דקה</l>
+          <l>גם אם אהיה רחוק אני מרגיש אותך</l>
+          <l>פשוט צריך לתפוס קצת שלווה</l>
+          <l>אני אחזור מהר תהיי בטוחה</l>
+          <l>את בטוחה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

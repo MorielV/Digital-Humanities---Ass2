@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קצת שונה</title>
+        <singer classification="unknown">אלון בן זיו</singer>
+        <writer>אלון בן זיו</writer>
+        <composer>אלון בן זיו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קצת שונה</head>
+        <lg number="1" type="stanza">
+          <l>את נראית לי קצת שונה</l>
+          <l>מאז שחזרת לא דומה</l>
+          <l>מספרים על אנשים</l>
+          <l>שחיים חיים שונים</l>
+          <l>מחברים בין הקווים</l>
+          <l>מתאספים לכוכבים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמו גוף שיר לשיר חוזר</l>
+          <l>כמו מילה זמן לזמן עובר</l>
+          <l>וזה לא היה מזמן</l>
+          <l>סוגר ת'פרצה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את יודעת גם הים כחול</l>
+          <l>מתנפץ על החול</l>
+          <l>אם גורל הוא זמן אכזר</l>
+          <l>אז הלב תמיד נשאר</l>
+          <l>לפעמים זה נראה קצת בלגאן </l>
+          <l>לפעמים הצליל לא מכוון</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמו גוף שיר לשיר חוזר</l>
+          <l>כמו מילה זמן לזמן עובר</l>
+          <l>וזה לא היה מזמן</l>
+          <l>סוגר ת'פרצה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את נראית לי קצת שונה</l>
+          <l>מאז שחזרת לא דומה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כמו גוף שיר לשיר חוזר</l>
+          <l>כמו מילה זמן לזמן עובר</l>
+          <l>וזה לא היה מזמן</l>
+          <l>סוגר ת'פרצה</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>סוגר ת'פרצה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

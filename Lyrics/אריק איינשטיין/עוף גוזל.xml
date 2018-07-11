@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוף גוזל</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>missing</composer>
+        <album>על גבול האור</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוף גוזל</head>
+        <lg number="1" type="stanza">
+          <l>הגוזלים שלי עזבו את הקן</l>
+          <l>פרשו כנפיים ועפו</l>
+          <l>ואני ציפור זקנה נשארתי בקן</l>
+          <l>מקווה מאוד שהכל יהיה בסדר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תמיד ידעתי שיבוא היום</l>
+          <l>שבו צריך להיפרד</l>
+          <l>אבל עכשיו זה ככה בא לי פתאום</l>
+          <l>אז מה הפלא שאני קצת דואג.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עוף גוזל</l>
+          <l>חתוך את השמיים</l>
+          <l>טוס לאן שבא לך</l>
+          <l>רק אל תשכח</l>
+          <l>יש נשר בשמיים</l>
+          <l>גור לך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עכשיו נשארנו לבדנו בקן</l>
+          <l>אבל אנחנו ביחד</l>
+          <l>חבקי אותי חזק תגידי לי כן</l>
+          <l>אל תדאגי ביחד כיף להזדקן</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עוף גוזל...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני יודע שככה זה בטבע</l>
+          <l>וגם אני עזבתי קן</l>
+          <l>אבל עכשיו כשבא הרגע</l>
+          <l>אז מחניק קצת בגרון</l>
+          <l>מחניק קצת בגרון.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>עוף גוזל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

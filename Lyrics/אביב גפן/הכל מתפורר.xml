@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכל מתפורר</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכל מתפורר</head>
+        <lg number="1" type="stanza">
+          <l>לעזאזל הופעות</l>
+          <l>אני שר לעצמי</l>
+          <l>מנסה להרגיע אותי</l>
+          <l>כשאני רואה אותך</l>
+          <l>אני כבר יודע</l>
+          <l>שהגמגום שלי</l>
+          <l>לא בא מהטבע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואין מה לעשות הכל מתפורר</l>
+          <l>עשרה חודשים דכאון ועוד לא מתעורר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מסתכל על עצמי</l>
+          <l>איך השתניתי לי</l>
+          <l>השמחה נחבאת עמוק בעיני</l>
+          <l>עומד על אמצע הגג</l>
+          <l>ביום של חורף</l>
+          <l>ולא יודע אם כדאי</l>
+          <l>או לא כדאי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואין מה לעשות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

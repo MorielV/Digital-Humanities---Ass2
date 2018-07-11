@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה רק בגלל שאת כאן</title>
+        <singer classification="unknown">אלון אולארצ יק</singer>
+        <writer>נד וושינגטון</writer>
+        <composer>נד וושינגטון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה רק בגלל שאת כאן</head>
+        <lg number="1" type="stanza">
+          <l>זה לא האור של הירח </l>
+          <l>שעושה אותי קודח - לא לא </l>
+          <l>זה רק בגלל שאת כאן </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא השיחה המרתקת </l>
+          <l>שאותי כה משתקת - לא לא </l>
+          <l>זה רק בגלל שאת כאן </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאת בידי מחובקת קרוב קרוב </l>
+          <l>כל חלומותי בקלות מתגשמים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני לא צריך שתרקדי לי </l>
+          <l>רק מספיק שתאמרי לי:</l>
+          <l>"חבק ואל תרפה לעולם" </l>
+          <l>אמרי לי:</l>
+          <l>"חבק ואל תרפה לעולם"</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

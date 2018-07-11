@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לך אלי</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>רבי אברהם אבן עזרא</writer>
+        <composer>מן המקורות</composer>
+        <album>לך אלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לך אלי</head>
+        <lg number="1" type="stanza">
+          <l>מצאוני השומרים</l>
+          <l>הסובבים בעיר שאלוני</l>
+          <l>לך אלי תשוקתי, בך חשקי ואהבתי</l>
+          <l>לך לבי וכליותי, לך רוחי ונשמתי</l>
+          <l>לך ידי לך רגלי וממך היא תכונתי</l>
+          <l>לך עצמי לך דמי ועורי עם גוויתי</l>
+          <l>לך עיני ורעיוני וצורתי ותבניתי</l>
+          <l>לך רוחי לך כוחי ומבטחי ותקוותי</l>
+          <l>לך אהמה ולא אדמה עדי תאיר אפלתי</l>
+          <l>לך אזעק בך אדבק עדי שובי לאדמתי</l>
+          <l>לך מלכות לך גאות, לך תאות תהילתי</l>
+          <l>לך עזרה בעת צרה, היה עזרי בצרתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

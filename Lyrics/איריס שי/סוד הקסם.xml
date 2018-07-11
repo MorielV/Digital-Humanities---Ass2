@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סוד הקסם</title>
+        <singer classification="unknown">איריס שי</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>עופר לב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סוד הקסם</head>
+        <lg number="1" type="stanza">
+          <l>הכל היה גלוי</l>
+          <l>ואור אדום דלק מזמן</l>
+          <l>לבי נותר שבוי</l>
+          <l>בתוך ניגון ישן נושן</l>
+          <l>נושמת את ריחות המכתבים האוהבים</l>
+          <l>זוכרת הבטחות בלילותיך הטובים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גלה לי מה הוא סוד הקסם</l>
+          <l>שלקח לי את לבך</l>
+          <l>אמור לי למה זה בעצם</l>
+          <l>רחקה אהבתך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עד סוף מחשבותי</l>
+          <l>שוב מתגלגלת לשונך</l>
+          <l>שבים תמיד אלי</l>
+          <l>כל השקרים בלי מנוחה</l>
+          <l>עכשיו הכל נגמר, הזמן אף פעם לא עוצר</l>
+          <l>אהוב שלי יקר שוב בלעדיך אסתדר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גלה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

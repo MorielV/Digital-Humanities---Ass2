@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לבכות לך 2</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לבכות לך</head>
+        <lg number="1" type="stanza">
+          <l>אני הולך לבכות לך</l>
+          <l>תהיה חזק למעלה</l>
+          <l>געגועי כמו דלתות</l>
+          <l>שנפתחות בלילה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לנצח אחי אזכור אותך תמיד</l>
+          <l>וניפגש בסוף, אתה יודע</l>
+          <l>ויש לי חברים אבל גם הם כבים</l>
+          <l>אל מול אורך המשגע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשעצובים הולכים לים</l>
+          <l>לכן הים מלוח</l>
+          <l>וזה עצוב שלהחזיר ציוד אפשר</l>
+          <l>לא געגוע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לנצח אחי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וכמו הגלים אנחנו מתנפצים</l>
+          <l>אל המזח אל החיים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

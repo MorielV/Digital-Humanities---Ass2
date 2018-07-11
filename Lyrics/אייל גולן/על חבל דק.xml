@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>על חבל דק</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>ניסים מרי</composer>
+        <album>דרך לחיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>על חבל דק</head>
+        <lg number="1" type="stanza">
+          <l>חלמנו על עתיד משותף </l>
+          <l>העולם איתך האיר לי </l>
+          <l>כמה טוב לנו היה </l>
+          <l>מכל רגע של שנינו ביחד </l>
+          <l>לא האמנתי שכך זה נגמר </l>
+          <l>ניסיתי כל מה שאפשר </l>
+          <l>דיברתי איתך ולך לא התאים </l>
+          <l>חשבתי משחק של אוהבים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הזמן עובר את לא עונה </l>
+          <l>ואני נושא תפילה </l>
+          <l>נשבעת שאת לי לעולם </l>
+          <l>תדעי לך נפשי בוכייה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על חבל דק הולך רוצה אותך איתי </l>
+          <l>כמו רוח סערה את מעיפה אותי </l>
+          <l>גם הכבוד עזב הוא לא קיים אצלי </l>
+          <l>את כמו אלוקים היום בשבילי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בלילה אני מרגיש מיותם </l>
+          <l>מולי דמותך קוראת לי </l>
+          <l>ליבי יוצא אלייך עכשיו </l>
+          <l>נכנע אני ליופייך האמיני </l>
+          <l>אני לא יכול להשתחרר </l>
+          <l>אלי חזרי מהר </l>
+          <l>מוזר לי מאוד שאת לא איתי </l>
+          <l>את אור לעיני הו יפתי </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הזמן עובר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

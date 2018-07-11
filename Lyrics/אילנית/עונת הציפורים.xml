@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עונת הציפורים</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עונת הציפורים</head>
+        <lg number="1" type="stanza">
+          <l>כל שנה עם העונה שבות הציפורים</l>
+          <l>השמים מתמלאים תשוקה של עגורים</l>
+          <l>האוויר טעון משק כנפיים ותקוות</l>
+          <l>ואני אגביה עוף על כנף המחשבות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מעל שדות, מעל גגות</l>
+          <l>כבישים מצוירים</l>
+          <l>כמו בסיפורים</l>
+          <l>חולפות הציפורים</l>
+          <l>כמו הכל חוזר בסדר ושלמות</l>
+          <l>במיוחד, התמימות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חסידות יפות מראה עוברות בלהקות</l>
+          <l>ריח גשם באוויר וריח תינוקות</l>
+          <l>אנשים שכבר ראו כל כך הרבה דברים</l>
+          <l>נעשים לרגע קל פחות מבוגרים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מעל שדות...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עופו, גבוה מעל ראשי</l>
+          <l>עיני מלוות אתכן</l>
+          <l>ליבי פתוח וחופשי</l>
+          <l>גבוה מעל ראשי</l>
+          <l>עיני מלוות אתכן</l>
+          <l>ליבי חופשי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מעל שדות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

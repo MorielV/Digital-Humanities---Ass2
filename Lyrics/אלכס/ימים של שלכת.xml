@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ימים של שלכת</title>
+        <singer classification="unknown">אלכס 3</singer>
+        <writer>מני בגר</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ימים של שלכת</head>
+        <lg number="1" type="stanza">
+          <l>בימים של שלכת</l>
+          <l>בימים של דממה</l>
+          <l>כשהרוח לוחשת</l>
+          <l>את שירת האימה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בידייך אוחזת</l>
+          <l>צעיפך הלבן</l>
+          <l>בדרכים את הולכת</l>
+          <l>בלי לדעת לאן.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>האש עוד שורפת</l>
+          <l>האש מאתמול</l>
+          <l>מה אפשר עוד לקחת</l>
+          <l>הן לקחת את הכל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זה חלום שחלמתי</l>
+          <l>מי יפתור מי יאיר</l>
+          <l>זה הקול שידעתי</l>
+          <l>זה הקול שישיר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>על קברו של הנער</l>
+          <l>ישחקו מלאכים</l>
+          <l>יפתח שוב השער</l>
+          <l>ונבכה בלי מילים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>האש עוד שורפת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

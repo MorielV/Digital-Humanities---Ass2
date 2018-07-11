@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פלסטיק ריק</title>
+        <singer classification="unknown">אנטיביוטיקה</singer>
+        <writer>גיא רוזנבלט</writer>
+        <composer>דן פביאן בלוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פלסטיק ריק</head>
+        <lg number="1" type="stanza">
+          <l>מהרחובות החדשים למטה, למרגלות גורדי השחקים </l>
+          <l>המלונות, המשרדים בלילה, מועדוני העבריינים </l>
+          <l>בין סמטאות בתי אם הזונות, ורצועת החוף המוארת </l>
+          <l>המותשת מגלי הקצף, עולה עד לכיכרות </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נוכל, נוכל לצאת לדיסקוטק </l>
+          <l>ולרחף כמו שקית של פלסטיק ריק </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החניונים האסורים ברעש, ומתחמי התיירות הריקים </l>
+          <l>המרתפים העמוסים בכעס, כאבים מחושלים </l>
+          <l>איך קו האופק בבהירות מדהימה, מיוגע ומיוזע בלי דופק </l>
+          <l>בעליית המדרגות הצרה, עולה לרחוב תעשיה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נוכל, נוכל לצאת לדיסקוטק </l>
+          <l>ולרחף כמו שקית של פלסטיק ריק</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

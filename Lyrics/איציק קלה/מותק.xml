@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מותק 2</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>רמי לב</writer>
+        <composer>missing</composer>
+        <album>שיהיה רק במזל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מותק</head>
+        <lg number="1" type="stanza">
+          <l>להביט אלייך לגעת בחיים</l>
+          <l>ובאור עינייך להרגיש מאושרים</l>
+          <l>את יודעת שאני חיכיתי לך כבר שנים</l>
+          <l>אהבה כזאת יפה תופסת פעם בחיים!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מותק, הלב שלי קורא לך</l>
+          <l>העולם שלי צמא לך</l>
+          <l>אין כמוך אישה יפה!</l>
+          <l>תביני מותק, את כל מה שיש לי</l>
+          <l>לא תופס מה שקורה לי</l>
+          <l>מטורף מאהבה!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את נותנת כוח בעצמי להאמין</l>
+          <l>לחלום ביחד חלומות מאושרים</l>
+          <l>את יודעת שאני מחובר אל החיים</l>
+          <l>לצידך אני כמו מלך בחלקת האלוקים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מותק, הלב שלי קורא לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

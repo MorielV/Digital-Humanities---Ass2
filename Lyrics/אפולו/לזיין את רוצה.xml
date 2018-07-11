@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לזיין את רוצה</title>
+        <singer classification="unknown">אפולו</singer>
+        <writer>דורון בראונשטיין</writer>
+        <composer>דורון בראונשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לזיין את רוצה</head>
+        <lg number="1" type="stanza">
+          <l>לזיין את רוצה</l>
+          <l>לישון אני רוצה</l>
+          <l>למצוץ את רוצה</l>
+          <l>לישון אני רוצה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמה שאני עייף מהחיים המזוינים האלה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה שאני זקן בשנה האחרונה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לזיין את רוצה</l>
+          <l>לזיין אותי</l>
+          <l>לישון אני רוצה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

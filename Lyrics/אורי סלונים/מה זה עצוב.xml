@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה זה עצוב</title>
+        <singer classification="unknown">אורי סלונים</singer>
+        <writer>מאיר גולדברג</writer>
+        <composer>אורי סלונים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה זה עצוב</head>
+        <lg number="1" type="stanza">
+          <l>אני אומר לך בשביל עצמך, הלוואי שתמותי</l>
+          <l>מה את צריכה את כל זה, מה את צריכה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לקום כל יום לישון כל יום</l>
+          <l>הימים הם כמות ואת בעניין של איכות</l>
+          <l>בגלל זה את בוכה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רחמים על חלשים </l>
+          <l>עליך ועל כל האנשים</l>
+          <l>ורחמים עלי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני אומרת לך בשבילך, זה ככה או ככה</l>
+          <l>אתה יודע איך זה, יש לך מושג</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ראית כבר ימים עוברים, ראינו ביחד</l>
+          <l>וכבר אמרו לי הרבה לפניך</l>
+          <l>לעלות אל הגג</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רחמים על חלשים...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אני אומר לך בשביל עצמך, הלוואי שתמותי</l>
+          <l>מה ישאר מכל זה, מה זה חשוב</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>מבטיח לך טקס יפה, עם שמפניה ותותים</l>
+          <l>כי את בעניין של איכות</l>
+          <l>וזה מה זה עצוב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בסוף העולם</title>
+        <singer classification="unknown">אנדרס צ ייט</singer>
+        <writer>אנדרס צ'ייט</writer>
+        <composer>אנדרס צ'ייט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בסוף העולם</head>
+        <lg number="1" type="stanza">
+          <l>איזה חום שמרגיש עכשיו</l>
+          <l>מבשל אותי וכואב לי די</l>
+          <l>בלעדייך לא אוכל להמשיך</l>
+          <l>בלעדייך לא אוכל להתחיל, אני כאן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה הצל שהשארת לי כאן</l>
+          <l>והזיכרון מחסה בי שוב</l>
+          <l>יש סיכוי שבסוף הזה</l>
+          <l>נסתדר רק עם הבדידות, אני כאן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי ניפגש בסוף הדרך</l>
+          <l>ניפגש בסוף העולם</l>
+          <l>אין מקום לסבול בשקט, בלעדייך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין לי ברירה, נגמר לי הזמן</l>
+          <l>הגשם יורד רק עלי, רק עלי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כי ניפגש בסוף הדרך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

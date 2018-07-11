@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מכל אותם הפזמונים</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>איציק שמלי</writer>
+        <composer>איציק שמלי</composer>
+        <album>בשבילך נוצרתי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מכל אותם הפזמונים</head>
+        <lg number="1" type="stanza">
+          <l>שרתי כבר את לי מלכת היופי</l>
+          <l>שרתי לך תמיד יפה שלי</l>
+          <l>לקנות לך יהלום מזמן קניתי</l>
+          <l>רק לשמח את ליבך אהובתי</l>
+          <l>את האור שדרכי האיר לבטח</l>
+          <l>חציתי יבשות וגם ימים</l>
+          <l>מהחוף של פורטוגל ועד לנצח</l>
+          <l>את הסיבה שלה חיכיתי זה שנים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מכל אותם הפזמונים איתך נשארתי</l>
+          <l>ומכל לילה רק אלייך אני שב</l>
+          <l>את צליל מיתר את כל שירי אני לך שרתי</l>
+          <l>וארגש גם בעתיד כמו בעבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מכל אותן הנערות אותך בחרתי</l>
+          <l>להיות לי לאישה ואם לילדי</l>
+          <l>מכל אותן היצירות איתך ניצחתי,</l>
+          <l>על היצירה שלי כל חיי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בעירי הכל חשוך ירד הלילה,</l>
+          <l>ורק אצלי הכל זוהר פה משמחה</l>
+          <l>כי בלעדייך לא יכול מתגעגע</l>
+          <l>מה לעשות אני חייל של אהבה</l>
+          <l>מציאות אחרת לי מזמן סידרת לי</l>
+          <l>בזמן שבו פגשתי בך לראשונה</l>
+          <l>כשיצאת אלי מחלונך ידעתי</l>
+          <l>שזה הרגע בו ראיתי בך אישה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מכל אותם הפזמונים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

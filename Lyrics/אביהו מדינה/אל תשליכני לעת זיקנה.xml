@@ -1,0 +1,37 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תשליכני לעת זיקנה</title>
+        <singer classification="male singer">אביהו מדינה</singer>
+        <writer>מתוך תהילים</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תשליכני לעת זיקנה</head>
+        <lg number="1" type="stanza">
+          <l>ימלא פי תהילתך</l>
+          <l>כל היום תפארתך</l>
+          <l>אל תשליכני לעת זיקנה</l>
+          <l>ככלות כוחי אל תעזבני</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

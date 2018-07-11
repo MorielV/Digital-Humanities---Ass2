@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני אצליח</title>
+        <singer classification="male singer">איציק שמלי</singer>
+        <writer>איציק שמלי</writer>
+        <composer>איציק שמלי</composer>
+        <album>איציק שמלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני אצליח</head>
+        <lg number="1" type="stanza">
+          <l>כל בן אדם חולם בחייו</l>
+          <l>להצליח בדרכו, אחד חפץ לו בזהב</l>
+          <l>והשני שלווה לנפשו</l>
+          <l>ועוד אחד שהבריאות רק חשובה לו</l>
+          <l>וכל השאר לא מעניין</l>
+          <l>וישנה אמא שדואגת כל חייה</l>
+          <l>על ילדיה לגונן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>"קשה באימונים, קל בקרב" אמר לי איש חכם</l>
+          <l>אם תאמין בעצמך אז תנצח את כולם</l>
+          <l>ואם נכשלת פעמים רבות נסה ואל תרפה</l>
+          <l>ואז תראה שלימים כל ניסיון שלך היה שווה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני אצליח לגבור על כל מכשול</l>
+          <l>ולעבור את הנהר הכי סוער</l>
+          <l>אני אוכיח שאין דבר חזק</l>
+          <l>מרצונו של בן אדם לא לוותר</l>
+          <l>אני אצליח צעד ועוד צעד</l>
+          <l>עד שסוף כל סוף אשלים את המסע</l>
+          <l>את המסע המפרך הזה לכבוש את הפסגה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל בן אדם חולם בחייו להצליח בדרכו</l>
+          <l>לאט לאט שלב שלב הוא מטפס בכל כוחו</l>
+          <l>עוד תעבור תלאות ויסורים, אמרו לו ..</l>
+          <l>שאין דבר שהוא מושלם</l>
+          <l>הוא לא ישקוט ולא יחדל ולא ינוח</l>
+          <l>עד שישיג את כל מה שעליו נלחם.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני אצליח לגבור על כל מכשול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

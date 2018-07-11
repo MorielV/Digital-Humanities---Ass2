@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום חדש 2</title>
+        <singer classification="unknown">אירית דותן</singer>
+        <writer>שמרית אור</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום חדש</head>
+        <lg number="1" type="stanza">
+          <l>עוד מעט ויעלה הבוקר</l>
+          <l>טיפות טיפות נושרים אגלי הטל</l>
+          <l>המלאכים ניטלים בקרן סהר</l>
+          <l>ומלטפים ראשך המתולתל</l>
+          <l>בשבילים הרחוקים האלה</l>
+          <l>שטופי לילות יסמין וסמדר</l>
+          <l>הייתי מחפשת אחריך</l>
+          <l>הייתי כאיילת אבודה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שמש תגלה את כל הצללים</l>
+          <l>רוח תפזר את כל הטללים</l>
+          <l>יום חדש מגיע</l>
+          <l>יום חדש נעור</l>
+          <l>ובעינייך משתקף האור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>במדרון זורמים מימי הנחל</l>
+          <l>אחרון המלאכים כבר נעלם</l>
+          <l>וגם אני, עת יעלה השחר</l>
+          <l>אעור מן החלום כמו כולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שמש תגלה את כל הצללים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

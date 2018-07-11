@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מושך אותי</title>
+        <singer classification="female singer">אתי לוי</singer>
+        <writer>רמי לב</writer>
+        <composer>דורון אלימלך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מושך אותי</head>
+        <lg number="1" type="stanza">
+          <l>אדום, אדום וקצת כחול</l>
+          <l>אותו חלום, כבר מאתמול</l>
+          <l>אתה רוקד בין כוכבים</l>
+          <l>ומטריף את האש שבפנים</l>
+          <l>זה חזק, חזק ממני</l>
+          <l>רוצה איתך לתפוס את החיים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה מושך אותי, המבט שלך</l>
+          <l>ותופס אותי בעיניים</l>
+          <l>הלב שלי כבר צמא לך</l>
+          <l>תן לי חיוך או שניים!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה אולי יציב מדי</l>
+          <l>לא משחרר את ליבך אל ידי</l>
+          <l>אולי מבין או מתעלם</l>
+          <l>רק איתך חלומי יתגשם</l>
+          <l>וזה חזק, חזק ממני</l>
+          <l>רוצה איתך לתפוס את החיים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה מושך אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

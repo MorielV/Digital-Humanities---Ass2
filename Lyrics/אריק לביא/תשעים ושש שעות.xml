@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תשעים ושש שעות</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>יוסי בכר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תשעים ושש שעות</head>
+        <lg number="1" type="stanza">
+          <l>תשעים ושש שעות וכמו עברה שנה </l>
+          <l>תשעים ושש שעות באש המלחמה </l>
+          <l>לזמן בלתי מוגבל בצו היה רשום </l>
+          <l>תשעים ושש שעות עברו להן כמו כלום </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תשעים ושש שעות דוהרת הפלדה </l>
+          <l>תשעים ושש שעות על גדות התעלה </l>
+          <l>מתי ואם אחזור, כלל לא היה ברור </l>
+          <l>תשעים ושש שעות בצנטוריון סגור </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תשעים ושש שעות תקוות ונדרים </l>
+          <l>תשעים ושש שעות אין קץ למרחבים </l>
+          <l>הזמן זורם מהר, שעה לא תישאר </l>
+          <l>תשעים ושש שעות בעוד אני דוהר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תשעים ושש שעות חוזרת הפלדה </l>
+          <l>תשעים ושש שעות מגדות התעלה </l>
+          <l>ידעתי כי אשוב, כל זה היה ברור </l>
+          <l>אלייך שב אני מצנטוריון סגור </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תשעים ושש שעות חוזרת הפלדה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

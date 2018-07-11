@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>על גדות נהר העצב</title>
+        <singer classification="female singer">אורטל אופק</singer>
+        <writer>אורטל אופק</writer>
+        <composer>אורטל אופק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>על גדות נהר העצב</head>
+        <lg number="1" type="stanza">
+          <l>טיילתי לבדי על גדות נהר העצב </l>
+          <l>וכך לקראת הערב </l>
+          <l>דמותך פתאום הופיעה מולי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עצמתי את עיניי ולא הרגשתי פחד </l>
+          <l>כל עוד ידך לוקחת את ידי </l>
+          <l>ואוחזת חזק </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אלף ימים חלפו ואין סימן </l>
+          <l>עוד קיץ בא ותם </l>
+          <l>לא, לא אוכל לסבול את הידיעה </l>
+          <l>שיד של אחרת ליטפה את שערך </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חזרתי לטייל על גדות נהר העצב </l>
+          <l>כולי תקווה שתכף </l>
+          <l>תופיע שוב דמותך מול עיני</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואז אני אצחק ואתמלא באושר </l>
+          <l>ולא אעז לעצום את עיני</l>
+          <l>שאם תחליט שוב לעזוב את חיי </l>
+          <l>הפעם אני אדע </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אלף ימים חלפו ואין סימן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

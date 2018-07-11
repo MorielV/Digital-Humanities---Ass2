@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלעדייך 3</title>
+        <singer classification="unknown">אופיר כהן</singer>
+        <writer>אופיר כהן</writer>
+        <composer>אופיר כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלעדייך</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>כל כך קשה לי בלעדייך</l>
+          <l>מתי אראה שוב את פנייך</l>
+          <l>הלב בוכה קורא אלייך</l>
+          <l>אל תוותרי הכל יסתדר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אין לי חיים בלעדייך</l>
+          <l>כל היום חושב עלייך</l>
+          <l>מה שבקשת לך נתתי</l>
+          <l>אל תפני לי את הגב</l>
+          <l>למה בכלל ומדוע נעלמת לי כבר שבוע</l>
+          <l>כמה דמעות כבר זלגו לי בלילות על המכתב</l>
+          <l>שכתבתי לך אם את שומעת חזרי נא עכשיו</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל כך קשה לי בלעדייך...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש אהבה עוד בינינו </l>
+          <l>לא אל תוותרי עלינו</l>
+          <l>מה את רוצה כבר ממני, השתדלתי באמת</l>
+          <l>אז תני לי דקה להסביר לך</l>
+          <l>איך אני כל כך תלוי בך</l>
+          <l>הן רק אתמול עוד אהבנו ועכשיו את רחוקה</l>
+          <l>וקראתי לך אם את שומעת חזרי נא עכשיו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

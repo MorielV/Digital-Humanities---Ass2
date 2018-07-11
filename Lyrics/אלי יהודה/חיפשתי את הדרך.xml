@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיפשתי את הדרך</title>
+        <singer classification="unknown">אלי יהודה</singer>
+        <writer>רפי אגרונוב</writer>
+        <composer>רפי אגרונוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיפשתי את הדרך</head>
+        <lg number="1" type="stanza">
+          <l>כשהושטתי את ידי רציתי לחבק</l>
+          <l>אך ראיתי מול עיני את הבית ריק</l>
+          <l>ברגעים שכאלה אני מבקש</l>
+          <l>בשבילנו אהבה היא מה שמתרחש</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ברגעים של געגוע</l>
+          <l>ביקשתי הבנה</l>
+          <l>איך יכולתי כך לפגוע</l>
+          <l>נשבע בלי כוונה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>חיפשתי את הדרך אל האהבה</l>
+          <l>ביקשתי תני ליבך עוד מעט תקווה</l>
+          <l>רציתי שתחייכי ונפתח דף חדש</l>
+          <l>כי בלעדייך ילדתי אני חלש</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לב אדם לב אדם אלייך מבקש</l>
+          <l>כשהלילה בדרכו את הכאב פוגש</l>
+          <l>לב אדם לב אדם אלייך מבקש</l>
+          <l>כשהלילה בדרכו את הכאב פוגש</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל תקחו את חיי יש בי רגשות</l>
+          <l>בואי התקרבי אלי ללילה לפחות</l>
+          <l>את עיני לא עוצם טרוד במחשבות</l>
+          <l>גם כשאני איתך הולך עטוף בזכרונות</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אם טעיתי תסלחי</l>
+          <l>תני עוד הזדמנות</l>
+          <l>אל תגידי שעכשיו</l>
+          <l>הכל נראה אבוד</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>חיפשתי את הדרך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

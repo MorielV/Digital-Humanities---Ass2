@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא תהיי יותר לבדך</title>
+        <singer classification="male singer">איציק שמלי</singer>
+        <writer>איציק שמלי</writer>
+        <composer>איציק שמלי</composer>
+        <album>החמצן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא תהיי יותר לבדך</head>
+        <lg number="1" type="stanza">
+          <l>הכל עשיתי כדי שתאמיני שוב,</l>
+          <l>הלב שלך כבר לא יהיה יותר עצוב,</l>
+          <l>אני מבטיח שתמיד רק תשמחי</l>
+          <l>רק תסמכי עלי אהובתי,</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שמעתי שפגעו בך כמה פעמים,</l>
+          <l>אבל אני שונה לא כמו כל הגברים,</l>
+          <l>עוד לא ראית כמוני גבר שיאהב.</l>
+          <l>אותך כמו שאת בכל מצב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא את לא תהיי יותר לבדך,</l>
+          <l>אני תמיד אהיה כאן מולך,</l>
+          <l>לחבק לנשק לאהוב ולעולם לא לעזוב,</l>
+          <l>את לא תהיי יותר לבדך,</l>
+          <l>כי אני כאן למענך לחמם להקשיב</l>
+          <l>ולתמוך יש לך על מי לסמוך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אומרים תמונה אחת שווה אלפי מילים,</l>
+          <l>הביטי איך האושר שב לך לחיים,</l>
+          <l>ולא אפסיק לתת לך את כל העולם,</l>
+          <l>רק בשביל זה אני קיים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא את לא תהיי יותר לבדך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

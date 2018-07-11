@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מעיין</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>חנה גולדברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מעיין</head>
+        <lg number="1" type="stanza">
+          <l>כשהרוח</l>
+          <l>בנשמתך פורעת</l>
+          <l>כשבחושך</l>
+          <l>אתה יושב לבד</l>
+          <l>כשהשמש</l>
+          <l>לא מנסה לגעת</l>
+          <l>כשהפחד</l>
+          <l>אוחז בך לאט</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשצוחקת</l>
+          <l>מכשפת היער</l>
+          <l>כשצורח</l>
+          <l>עורב על החלון</l>
+          <l>מתקרבת, והיא חדה כתער</l>
+          <l>מתגנבת</l>
+          <l>איזו תחושת אסון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז מתוכך</l>
+          <l>פורץ מעיין</l>
+          <l>הוא מתגבר ומתגבר</l>
+          <l>ואז אתה</l>
+          <l>חזק</l>
+          <l>יותר חזק.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

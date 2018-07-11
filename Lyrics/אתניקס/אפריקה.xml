@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אפריקה</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אפריקה</head>
+        <lg number="1" type="stanza">
+          <l>כולנו זולו, לוחמים שחורים, רצים יחד ועושים שרירים</l>
+          <l>רוצים יותר מפרי האדמה אבל כורתים עוד יער, משאירים שממה,</l>
+          <l>עורות, נוצות וחרוזים, זולולנד של אנשים שבוזים,</l>
+          <l>זזים לשמאל או לימין, כאב הראש חזק יותר מאספירין - </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אפריקה, עוד לא מצאנו לנו מלך,</l>
+          <l>כל דקה הצעקה האחרונה,</l>
+          <l>אריות ונמרים טורפים בדרך,</l>
+          <l>כל שנה אני שואל: "מה נשתנה?" -</l>
+          <l>טוב קצב, טוב קצב מדיבורים על המצב,</l>
+          <l>טוב קצב, טוב קצב משנאת חינם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זברה, ג'ירפה, פילים גדולים, כל החיות חיות ללא מילים</l>
+          <l>רק בני מיננו חכמים גדולים, מוצאים סיבות לשנוא אחד את השני,</l>
+          <l>כולנו זולו וזה נמאס, לאחד יש אדמה והשני מובס,</l>
+          <l>אוויר הרים צלול כמו וויסקי ואם זה לא מובן - אוויר קפיטליסטי -</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אפריקה, עוד לא מצאנו לנו מלך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תצילו אותי, אני נופל מהמרפסת,</l>
+          <l>נמאס לי להיות כמו כולם,</l>
+          <l>הכל אמיתי, אפילו אפריקה תוססת,</l>
+          <l>תופסת את כל העולם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

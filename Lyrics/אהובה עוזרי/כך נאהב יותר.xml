@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כך נאהב יותר</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>רועי נ</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כך נאהב יותר</head>
+        <lg number="1" type="stanza">
+          <l>השמחה גואה</l>
+          <l>והלב צוהל</l>
+          <l>כל מי העצב בו</l>
+          <l>איתנו ישתולל</l>
+          <l>השמחה גואה</l>
+          <l>והלב שואל</l>
+          <l>בואי אלי ילדה</l>
+          <l>יחדיו רק נטייל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כך כך נאהב יותר נאהב יותר</l>
+          <l>כך כך נראה ערב מאושר יותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הדרכים רבות</l>
+          <l>והערב רד</l>
+          <l>נא שמרי מקום</l>
+          <l>לזה שעוד לא שב</l>
+          <l>גם אם יקראו לך</l>
+          <l>הפרחים לבוא</l>
+          <l>אל תלכי לבד</l>
+          <l>חכי לי כי אבוא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כך כך נאהב יותר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

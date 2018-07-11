@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלאכי הקטן</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>נורית בת-שחר צפריר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלאכי הקטן</head>
+        <lg number="1" type="stanza">
+          <l>יש קולות בנשמה</l>
+          <l>בין הצחוק והבכי</l>
+          <l>מי למעלה ישמע</l>
+          <l>דמעתי חיוכי</l>
+          <l>זהו מלאכי</l>
+          <l>ברגעים של צרה</l>
+          <l>רק אליו שוב אקרא</l>
+          <l>הוא לי כמו אחי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מלאכי, הוא שומר ורוחף עלי</l>
+          <l>מלאכי הקטן בא אלי</l>
+          <l>כי ישמע אלוהי, אלוהי</l>
+          <l>מלאכי, הוא שומר ורוחף עלי</l>
+          <l>מלאכי הקטן בא אלי</l>
+          <l>מעלי אלוהי, אלוהי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם אצמא או ארעב</l>
+          <l>הוא יבוא למולי</l>
+          <l>אם אסבול או אכאב	</l>
+          <l>הוא ישמע את קולי</l>
+          <l>זהו מלאכי</l>
+          <l>הוא יידע גורלי</l>
+          <l>הוא שליחו של אלי</l>
+          <l>הד הוא בתוכי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מלאכי, הוא שומר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הוא נתן לי חיים</l>
+          <l>הוא הדם בעורקי</l>
+          <l>אתגבר על קשיים</l>
+          <l>אז אפול על ברכי</l>
+          <l>עוד אקום על רגלי</l>
+          <l>אלוהי מעלי.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מלאכי, הוא שומר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

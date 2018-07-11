@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר עצוב 3</title>
+        <singer classification="male singer">אוריאל שלומי</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר עצוב</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>זה שיר עצוב ישן</l>
+          <l>המתנגן במיתרי,</l>
+          <l>אשר עובר לי כל הזמן</l>
+          <l>כחוט שני בתוך חיי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה שיר שיימשך</l>
+          <l>ויתנגן עד אמצאך</l>
+          <l>כי במצוי איני רוצה,</l>
+          <l>את הרצוי עוד לא מוצא</l>
+          <l>(כי את חלום)</l>
+          <l>ובכל זאת לך אקרא</l>
+          <l>עד סוף ימי.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה שיר אשר אובד,</l>
+          <l>בנתיב-חיים נמשך בדד.</l>
+          <l>הלב תמים, אינו לומד</l>
+          <l>ששיר כזה נשאר לבד.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה שיר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

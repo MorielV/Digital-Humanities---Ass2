@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מקודשת</title>
+        <singer classification="male singer">איציק שמלי</singer>
+        <writer>איציק שמלי</writer>
+        <composer>איציק שמלי</composer>
+        <album>סיפור אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מקודשת</head>
+        <lg number="1" type="stanza">
+          <l>התינשאי לי ותהיי לי מאושרת מתמיד</l>
+          <l>אדהר איתך אל דרך חדשה</l>
+          <l>אל מציאות כמו בחלום לבן אקח אותך איתי</l>
+          <l>ותעשיני מאושר אישה שלי</l>
+          <l>אם אשכחך לא תשכח רק ימיני</l>
+          <l>אלא כל האיברים שבגופי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואת ניצבת למולי בכל עת</l>
+          <l>ביום בליל בטוב ברע</l>
+          <l>נחזיק ידיים אני שלך ואת שלי</l>
+          <l>הרי את מקודשת לי</l>
+          <l>את משתבחת כמו יין עם הזמן לטובתי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל זרועותי אשא אותך קרובה לי אל ליבי </l>
+          <l>נדהר אל ארמונינו הקטן </l>
+          <l>אל תוך השקט שאחרי ההילולה </l>
+          <l>מתעורר איתך אל עוד יום של אהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואת ניצבת למולי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

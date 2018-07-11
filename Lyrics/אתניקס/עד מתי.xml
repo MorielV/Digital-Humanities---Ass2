@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד מתי</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד מתי</head>
+        <lg number="1" type="stanza">
+          <l>ברוח השיחה להשתנות את מוכרחה</l>
+          <l>בלי לנסות עלי להשפיע</l>
+          <l>הצבא כולו נותן לך גב בכל כוחו</l>
+          <l>אם רק תרצי אותי להכניע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שילמתי מס שפתיים והכל במזומן</l>
+          <l>כשאת קושרת קשר אז אני הקורבן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עד מתי תגידי לי איך</l>
+          <l>לחיות את החיים האלה בלי לחייך</l>
+          <l>עד לאן ואיפה הגבול</l>
+          <l>רוצה לחיות בשקט אחרי המבול</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זה עושה לי רע לחשוב שאין לי עוד ברירה</l>
+          <l>כשאת מולי כדרך הטבע</l>
+          <l>בכוח השלטון את ממונה על ביטחון</l>
+          <l>יש לך סוכנים כולם - אפס שבע</l>
+          <l>שילמתי מס גבוה והכל במזומן</l>
+          <l>כשאת רוצה רוצה לפרוע אז אני הקורבן</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עד מתי תגידי לי איך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

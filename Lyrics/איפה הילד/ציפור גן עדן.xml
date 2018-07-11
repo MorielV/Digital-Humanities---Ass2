@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציפור גן עדן</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציפור גן עדן</head>
+        <lg number="1" type="stanza">
+          <l>ציפור גן עדן סטתה מן המסלול</l>
+          <l>והנחש מייד בלע אותה</l>
+          <l>והנחש בעל את גרושתו אתמול</l>
+          <l>ובעיתון של יום שישי כתבו על זה</l>
+          <l>וראו לה וראו לה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אומרים שהנחש זריז וחמקמק</l>
+          <l>כן גם גרושות לא נמלטות ממנו עוד</l>
+          <l>כולם ילכו לשתות בפאב המלוקק</l>
+          <l>ובעיתון של יום שני תהיה תמונה</l>
+          <l>וראו לה ראו לה הם ראו לה אההההה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הסמים הללו שאנחנו מעשנים</l>
+          <l>כל הנפלאות כל הניסים</l>
+          <l>למי אכפת ומי בכלל שואל את עצמו</l>
+          <l>לאן היא נעלמה היפה מכולן היפה מכולן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ציפור גן עדן סטתה מן המסלול</l>
+          <l>בתוך בטנו של הנחש ובמיטות זרים</l>
+          <l>ליבי נשבר אני כל כך אוהב אותה</l>
+          <l>ואין עוד דרך בה אוכל לעוף איתה</l>
+          <l>וראו לה ראו לה הם ראו לה אההההה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>השקרים הללו שאנחנו מספרים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חורף 2</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>יוני זיכהולץ</writer>
+        <composer>איתי פרלמן נסיך</composer>
+        <album>רגעים קטנים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חורף</head>
+        <lg number="1" type="stanza">
+          <l>גשר צר שמתקלף, לא נושבת רוח, </l>
+          <l>ים תקוע, זאת רוח מלחמה, או רוח געגוע. </l>
+          <l>דצמבר שוב דופק בשער, חבוש קסדת חייל, </l>
+          <l>הבית ריק, תנור דולק, צל כבד מעל. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חורף, עיר קטנה </l>
+          <l>חורף, רוח עדינה </l>
+          <l>זמן להתנקות, חורף </l>
+          <l>קצת לבכות, חורף </l>
+          <l>ואת כמו הרוח משתנה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חלק מיובש של חוף, </l>
+          <l>גם את דגי הסלע החומים, אין מי שיטרוף. </l>
+          <l>מקצה הים לאט, משתנה הרוח </l>
+          <l>זריחה עולה, לאט, לאט הסוף </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חורף... </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את כמו הרוח משתנה... </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>גשר צר שמתקלף, לא נושבת רוח, </l>
+          <l>ים תקוע, זאת רוח מלחמה, או רוח געגוע.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

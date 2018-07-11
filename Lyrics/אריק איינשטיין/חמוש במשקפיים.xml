@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חמוש במשקפיים</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חמוש במשקפיים</head>
+        <lg number="1" type="stanza">
+          <l>חמוש במשקפיים, נשען על עץ הזית</l>
+          <l>נשען על עץ הזית</l>
+          <l>תופס לי ראש כפרי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא מבין בכלל בחקלאות</l>
+          <l>לא מכיר את השמות של הפרחים</l>
+          <l>חמוש במשקפיים, נשען על עץ הזית</l>
+          <l>נשען על עץ הזית</l>
+          <l>תופס לי ראש כפרי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

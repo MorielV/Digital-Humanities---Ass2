@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דמעות</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>זאב נחמה</writer>
+        <composer>אקורדים</composer>
+        <album>חייל של אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דמעות</head>
+        <lg number="1" type="stanza">
+          <l>פני קטיפה שראיתי</l>
+          <l>רוך ותמימות של פורקן נעורים</l>
+          <l>בך לגעת רציתי</l>
+          <l>ולא היו בך חיים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שמך חקוק על האבן</l>
+          <l>רק אהבה נשארה לי בלב</l>
+          <l>את עכשיו בגן עדן</l>
+          <l>ולי נשאר הכאב -</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אמרת שהגשם ישטוף את הדמעות</l>
+          <l>אבל הגשם הפסיק והדמעות ממשיכות</l>
+          <l>הן זולגות אל הקבר החם</l>
+          <l>יורדות בכל העולם.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מלבדך לא היתה לי</l>
+          <l>אף נערה לא אהבתי לפני</l>
+          <l>אמונים לך שמרתי</l>
+          <l>ואשמור לך גם אחרי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>פני קטיפה בשמיים</l>
+          <l>לי מחייכת מבין עננים</l>
+          <l>את עוצמת עיניים</l>
+          <l>ומתכסה לך בתכריכים -</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אמרת שהגשם ישטוף את הדמעות</l>
+          <l>אבל הגשם הפסיק והדמעות ממשיכות</l>
+          <l>הן זולגות אל הקבר החם</l>
+          <l>יורדות בכל העולם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אנחנו מכירים אותך</title>
+        <singer classification="male singer">אריאל זילבר</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אנחנו מכירים אותך</head>
+        <lg number="1" type="stanza">
+          <l>אנחנו מכירים אותך</l>
+          <l>אתה חושב עכשיו עלינו</l>
+          <l>אנחנו מכירים אותך,</l>
+          <l>אתה הרי דואג שם לשלומנו</l>
+          <l>אנחנו מקשיבים לך</l>
+          <l>קולך עובר בתוך הבית</l>
+          <l>אנחנו מקשיבים לך,</l>
+          <l>לחלילך בצל עצי הזית</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז אל תדאג</l>
+          <l>נסה להירדם, לנוח</l>
+          <l>בינינו מפרידים רק הדפים בלוח</l>
+          <l>אנחנו כאן סופרים כל יום</l>
+          <l>עוצרים ומקשיבים וממשיכים לנשום</l>
+          <l>קשובים לכל איוושה קלה, לכל ציוץ ברוח</l>
+          <l>קשובים לכל איוושה קלה, לכל ציוץ ברוח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אנחנו מרגישים אותך</l>
+          <l>באצבעות ובשפתיים</l>
+          <l>אנחנו מרגישים אותך</l>
+          <l>יודעים שזה במקום, שזה בינתיים</l>
+          <l>אנחנו אוהבים אותך</l>
+          <l>אתה זורם בתוך דמנו</l>
+          <l>אנחנו אוהבים אותך</l>
+          <l>ומבטיחים לשמור כאן על עצמנו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז אל תדאג...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

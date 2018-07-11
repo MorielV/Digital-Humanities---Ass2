@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אליך 2</title>
+        <singer classification="female singer">אלונה דניאל</singer>
+        <writer>אלונה דניאל</writer>
+        <composer>אלונה דניאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אליך</head>
+        <lg number="1" type="stanza">
+          <l>אתה מביט בי מהצד</l>
+          <l>זה המצב אליו נקלענו</l>
+          <l>החברות שלי אומרות</l>
+          <l>פעם הוא היה שלנו</l>
+          <l>האמהות נאנחות</l>
+          <l>הוא לא זוכר, הוא שכח אותנו</l>
+          <l>ומה פתאום נדלק לי אור אדום</l>
+          <l>כל פעם שידך מושטת אלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>על מה בדיוק אתה חושב כשאני בך נוגעת?</l>
+          <l>את מי בדיוק אתה אוהב כשאני אותך יודעת?</l>
+          <l>ושוב הלילה מתקרב</l>
+          <l>כל כך כואב</l>
+          <l>אני רוצה אליך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה רק רצון להשרד</l>
+          <l>זה לא דמעות וזה לא עצב</l>
+          <l>ממשיכה לחפש אותך</l>
+          <l>גם כשאתה שלי לנצח</l>
+          <l>אני ממשיכה לחפש אותך</l>
+          <l>גם כשאתה יורה בי ארס</l>
+          <l>ממשיכה לחפש אותך</l>
+          <l>גם כשידך מושטת אלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>על מה בדיוק אתה חושב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

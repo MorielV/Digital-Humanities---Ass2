@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוצה לגדול</title>
+        <singer classification="female singer">אסתר שמיר</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>אסתר שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוצה לגדול</head>
+        <lg number="1" type="stanza">
+          <l>פתאום הוא נעור מבפנים, הוא שומע קולות</l>
+          <l>הם באים מתוך אבנים ומן החולות</l>
+          <l>הוא שומע נעימה רחוקה, צלילים מתקרבים</l>
+          <l>מים נוגעים בגופו מפיחים בו חיים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הוא זרע בתוך אדמה, שנגע בה הטל</l>
+          <l>לא יודע מה מתחתיו ומה שמעל</l>
+          <l>שולח ניצן לפלס לו שביל מחילה</l>
+          <l>אולי זה יהיה סופו אולי התחלה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הוא רוצה לגדול, הוא רוצה לצמוח</l>
+          <l>יש בו כאב גדול שיתן לו כח</l>
+          <l>הוא רוצה לגדול הוא רוצה לצמוח</l>
+          <l>משהו קורא בפנים: יהיה לך כח</l>
+          <l>לפרוץ אל החיים..</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איש לא מבטיח לו כלום העולם לא נחמד</l>
+          <l>לפרוץ בתוך הקשיים, להחזיק מעמד</l>
+          <l>הוא יכול לפרוץ גבולותיו או למות במוכר</l>
+          <l>יש יותר מדרך אחת להיות מאושר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הוא רוצה לגדול..</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>פתאום הוא נעור מבפנים הוא שומע קולות</l>
+          <l>הם באים מתוך אבנים ומן החולות</l>
+          <l>הוא שומע נעימה רחוקה צלילים מתקרבים</l>
+          <l>מים נוגעים בגופו מפיחים בו חיים.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>הוא רוצה לגדול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

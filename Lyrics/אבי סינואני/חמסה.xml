@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חמסה</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חמסה</head>
+        <lg number="1" type="stanza">
+          <l>אם תראי פתאום שהעולם שחור</l>
+          <l>כי הבחור כיבה לך את האור</l>
+          <l>והוא מקיש בדלת, ואומר כמו פעם</l>
+          <l>שלא יזוז ממך עוד לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תראי לו חמסה, שיהיה לך במזל</l>
+          <l>תראי לו חמסה, כי אלוהים שומר מעל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואם את בחובה, ואין לך אהבה</l>
+          <l>ואכזבה רודפת אכזבה</l>
+          <l>והמלאך הרע מופיע בחלום</l>
+          <l>ומאיים לחזור לכאן יום-יום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תראי לו חמסה, שיהיה לך במזל</l>
+          <l>תראי לו חמסה, כי אלוהים שומר מעל</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואם הבוס כועס בשעת העבודה</l>
+          <l>ומסתכל עלייך כמו חידה</l>
+          <l>בפנים כל כך לחוץ, בחוץ היום יפה</l>
+          <l>ואין לך זמן לשתות את הקפה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>תראי לו חמסה, ותגמרי את הקפה</l>
+          <l>תראי לו חמסה, כי העולם כל כך יפה</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>תראי לו חמסה, שיהיה לך במזל</l>
+          <l>תראי לו חמסה, אלוהים שומר מעל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני זוכר רק שיר</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אבי קורן</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני זוכר רק שיר</head>
+        <lg number="1" type="stanza">
+          <l>זה היה השיר שלנו</l>
+          <l>כשלראשונה נפגשנו</l>
+          <l>אז אולי עוד לא ידענו</l>
+          <l>שיהיה זה שיר שלנו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה השיר שלא אשכח</l>
+          <l>גם אם את מזמן הלכת</l>
+          <l>הוא שלי והוא שלך</l>
+          <l>והוא לשנינו רק שייך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ומאז חלפו שנים</l>
+          <l>ועברו אלפי שירים</l>
+          <l>אך בינינו שיר יחיד</l>
+          <l>נשאר תמיד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני זוכר רק שיר</l>
+          <l>אני זוכר אותך</l>
+          <l>אני זוכר רק שיר שלך, שלי, שלך</l>
+          <l>אני זוכר רק שיר</l>
+          <l>והוא מזכיר אותך</l>
+          <l>אני זוכר רק שיר</l>
+          <l>שלך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בבית קפה קטן יישבנו</l>
+          <l>ולמנגינה הקשבנו</l>
+          <l>אז עוד שנינו לא ידענו</l>
+          <l>איך היא תלווה אותנו</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>זה השיר שלא אשכח</l>
+          <l>גם אם את מזמן הלכת</l>
+          <l>הוא שלי והוא שלך</l>
+          <l>והוא לשנינו רק שייך</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>ומאז חלפו שנים</l>
+          <l>ועברו אלפי שירים</l>
+          <l>אך בינינו שיר יחיד</l>
+          <l>נשאר תמיד</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>אני זוכר רק שיר...</l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>רק שיר אחד</l>
+          <l>רק שיר אחד</l>
+          <l>נשאר בינינו</l>
+          <l>אני זוכר רק שיר שלך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

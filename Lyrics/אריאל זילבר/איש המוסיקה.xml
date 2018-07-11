@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איש המוסיקה</title>
+        <singer classification="male singer">אריאל זילבר</singer>
+        <writer>גידי שחם</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איש המוסיקה</head>
+        <lg number="1" type="stanza">
+          <l>אני הוא איש המוסיקה</l>
+          <l>ששר שירים יפים</l>
+          <l>לכל הילדות שכאן</l>
+          <l>ולכל הילדים</l>
+          <l>אני יודע לציר ולפסל בובות</l>
+          <l>ואשחק כאן בניכם בהצגות רבות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קדימה עוד עוד עוד</l>
+          <l>כולנו פה שרים</l>
+          <l>ויחד בואו נרקוד</l>
+          <l>את שיר הילדים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הביטו לשמים, הגידו מה רואים?</l>
+          <l>נכון רואים ת'שמש</l>
+          <l>ובלילה כוכבים</l>
+          <l>אז בואו ונשיר להם שירים מטורפים</l>
+          <l>וכשנשכב לישון, נחלום</l>
+          <l>אז חלומות יפים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קדימה עוד עוד עוד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>גם סבא וגם סבתא שרים את השירים</l>
+          <l>ביחד עם כולם הם לא יודעים את המילים.</l>
+          <l>נשיר שירים על חורף נשיר גם לאביב</l>
+          <l>נשיר "קן לצפור" ונסתובב סביב סביב.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>קדימה עוד עוד עוד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

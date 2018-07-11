@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דולי פרטון</title>
+        <singer classification="female singer">איגי וקסמן</singer>
+        <writer>איגי וקסמן</writer>
+        <composer>עופר קורן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דולי פרטון</head>
+        <lg number="1" type="stanza">
+          <l>מי את דולי פרטון?</l>
+          <l>ומה את עושה היום?</l>
+          <l>מאיפה את באה כרגע?</l>
+          <l>סתם רוצה להגיד לך שלום</l>
+          <l>זאת לא המוזיקה שלך, זה לא</l>
+          <l>זאת את</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>well ,who the fuck are you Dolly Parton</l>
+          <l>I just called to say hello</l>
+          <l>מעניין איזו מידה את לובשת?</l>
+          <l>ותמסרי לקני רוג'רס שלום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זאת לא המוזיקה שלך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יושבת לך בבית בדולילנד</l>
+          <l>ואני פה בדרך חברון</l>
+          <l>זאת לא המוזיקה שלך, זה לא</l>
+          <l>זאת את</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זאת לא המוזיקה שלך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

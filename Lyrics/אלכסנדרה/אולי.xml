@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אולי 8</title>
+        <singer classification="unknown">אלכסנדרה</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>מרקו בחט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אולי</head>
+        <lg number="1" type="stanza">
+          <l>אולי מאחורי החלונות אביב.</l>
+          <l>אולי אתה תועה בסימטאות העיר.</l>
+          <l>אולי פוקעים הניצנים על התרזות.</l>
+          <l>איני יודעת זאת.</l>
+          <l>אני שכחתי זאת.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אולי שכח אי-מי על מידרכת הרחוב</l>
+          <l>בהרת רחבה של אור צהוב,</l>
+          <l>והמרום מרעיף צחוקו במחול גיצי האש,</l>
+          <l>ובני אדם תמהים לפלא מתרחש,</l>
+          <l>וגם אני הבאתי הנה שיר ולב?...</l>
+          <l>אך כוס-ציפיתי יבשה ונתרוקנה,</l>
+          <l>ובעיני גוועה המנגינה,</l>
+          <l>ואין אני זוכרת קסם בת צחוקך,</l>
+          <l>ואם תדפוק אתה על חלוני,</l>
+          <l>כבר לא אכיר את דפיקתך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי מאחורי החלונות בוכה הסתיו.</l>
+          <l>אולי אתה תועה בסימטאות בדידות,</l>
+          <l>אולי נושרים עלי זהב מן התרזות.</l>
+          <l>איני יודעת זאת.</l>
+          <l>אני שכחתי זאת.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

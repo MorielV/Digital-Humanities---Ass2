@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלכת הלבבות</title>
+        <singer classification="female singer">אסאלה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלכת הלבבות</head>
+        <lg number="1" type="stanza">
+          <l>לי נתת להרגיש מלכת הלבבות</l>
+          <l>כל היום בבית ואתה ברחובות</l>
+          <l>חברות סיפרו לי שאתה כזה ממזר</l>
+          <l>אז כדאי לך להיזהר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני מלכת הלבבות</l>
+          <l>אתה הג'וקר</l>
+          <l>אנחנו שחקנים</l>
+          <l>אהבה למשחק</l>
+          <l>אם תרמה אותי</l>
+          <l>עוד תשלם ביוקר</l>
+          <l>אז תיזהר ממני</l>
+          <l>ותשמור מרחק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל היום בחוץ ממש קשה להאמין</l>
+          <l>והטלפון שלך אף פעם לא זמין</l>
+          <l>אל תיראה אותי כזאת שלא בעניינים</l>
+          <l>כי בסוף תיפול על הפנים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני מלכת הלבבות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

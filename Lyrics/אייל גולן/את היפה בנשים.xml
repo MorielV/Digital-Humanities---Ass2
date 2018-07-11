@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את היפה בנשים</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>שי רביזדה</writer>
+        <composer>שי רביזדה</composer>
+        <album>זר כיסופים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את היפה בנשים</head>
+        <lg number="1" type="stanza">
+          <l>מבקש את ידך על הגשר</l>
+          <l>וכמו בהילוך איטי דמעה אחת זלגה</l>
+          <l>את מביטה בי במבט כזה של סתר</l>
+          <l>מבוישת ולא מאמינה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את היפה בנשים כל אחד שמע עלייך</l>
+          <l>את היא שנותנת לי חיים</l>
+          <l>ברחובות כל האנשים שמביטים הם בפנייך</l>
+          <l>גם אם עצובים פתאום הם מחייכים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הגשם מטפטף ברחובות</l>
+          <l>הוא מתחזק מעט ובאופק הברק</l>
+          <l>הוא לא יפריד את ידינו השלובות</l>
+          <l>שהחזיקו מעמד גם במרחק.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את היפה בנשים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

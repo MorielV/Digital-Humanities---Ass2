@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיכיתי 3</title>
+        <singer classification="unknown">אייזק בראל</singer>
+        <writer>אייזק בראל</writer>
+        <composer>אייזק בראל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיכיתי</head>
+        <lg number="1" type="stanza">
+          <l>לא חיכיתי אף פעם לדרך</l>
+          <l>לא בערה העצבות בעיני</l>
+          <l>לא ידעתי עד כמה חיכיתי, חיכית....לך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא אספתי שירים מהספר</l>
+          <l>רק הייתי מוטרד מלבד</l>
+          <l>סוף קרוב התחלה מאוחרת</l>
+          <l>לחנים שכתבתי זרקתי כלאחר יד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תדאגי אני כאן מחכה לך</l>
+          <l>רקתבואי אני כאן מחכה לך</l>
+          <l>לא ידעתי עד כמה חיכיתי </l>
+          <l>חיכיתי חיכיתי...לך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>טוב שבאת</l>
+          <l>טוב שפגשתי אותך</l>
+          <l>טוב לי פה</l>
+          <l>כל כך טוב להיות בך</l>
+          <l>טוב שחיכיתי לך</l>
+          <l>טוב כל כך לראות אותך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל תדאגי אני כאן מחכה לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

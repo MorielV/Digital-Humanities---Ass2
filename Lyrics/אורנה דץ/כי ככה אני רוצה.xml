@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כי ככה אני רוצה</title>
+        <singer classification="female singer">אורנה דץ</singer>
+        <writer>אורנה דץ</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כי ככה אני רוצה</head>
+        <lg number="1" type="stanza">
+          <l>ארזתי לי תיק עם חולצה ומגבת</l>
+          <l>אמרתי שלום לכולם</l>
+          <l>קניתי כרטיס ויצאתי לדרך</l>
+          <l>נסעתי לראות קצת עולם.</l>
+          <l>תפסתי גלים והייתי אחרת</l>
+          <l>טעמתי מפה ומשם</l>
+          <l>ראיתי צבעים וגירשתי שדים</l>
+          <l>מביאה מתנות לכולם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי ככה אני רוצה </l>
+          <l>אז ככה אני עושה</l>
+          <l>ככה זה יהיה מעכשיו.</l>
+          <l>כמה אני צמאה </l>
+          <l>יותר אני שותה</l>
+          <l>וכל השאר קורה מאליו.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמחתי לשמוח, מצאתי מנוח</l>
+          <l>נשמתי עמוק את הים</l>
+          <l>פקחתי עיניים, פרשתי כנפיים</l>
+          <l>להשלים זה כאילו מושלם</l>
+          <l>ראיתי אותי והייתי אחרת</l>
+          <l>עשיתי שלום עם הזמן</l>
+          <l>רוצה לגלות את הטוב בעולם</l>
+          <l>אז מה עם נולדתי כאן....</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי ככה אני רוצה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתן לך אהבה 2</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>שוש מולא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתן לך אהבה</head>
+        <lg number="1" type="stanza">
+          <l>אם לאהוב זה להרגיש כמוני</l>
+          <l>אם לאהוב זה לב שמאושר</l>
+          <l>אם לאהוב ולאהוב יותר ממני</l>
+          <l>אם לאהוב ולקבל מה שאינני</l>
+          <l>אם לאהוב זה כייף שלא נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני אתן לך אהבה</l>
+          <l>אפילו אם תגידי לךמפה</l>
+          <l>אני אתןך אהבה</l>
+          <l>אפילו אם תגידי לא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם לאהוב זה לפעמים קשה לי</l>
+          <l>אם לאהוב זה לב שמפוייס</l>
+          <l>אם לאהוב ולחבק כשמתחשק לי</l>
+          <l>אם לאהוב ולחזק אתמה שיש לי</l>
+          <l>אם לאהוב זה כייף שלא נמאס</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני אתן לך אהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

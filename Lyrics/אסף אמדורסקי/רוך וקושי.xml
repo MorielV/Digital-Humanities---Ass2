@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוך וקושי</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>אסף אמדורסקי</composer>
+        <album>מנועים שקטים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוך וקושי</head>
+        <lg number="1" type="stanza">
+          <l>מה שלא תחשוב</l>
+          <l>רוח חדשה תנשוב</l>
+          <l>תזרום כמו מים על כתפייך</l>
+          <l>חלקות כמו משי</l>
+          <l>מסך שקוף</l>
+          <l>שט על עיקולי פנייך</l>
+          <l>המוארים באור עיני</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מתייפה מיום ליום</l>
+          <l>בקולך אומרת רוך וקושי</l>
+          <l>באותו הזמן, באותו המקום</l>
+          <l>רוך וקושי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך נתת לשעות ההן לגווע</l>
+          <l>פתאום לנשור כלא היו מעולם</l>
+          <l>קוצים בנשמתך</l>
+          <l>אור חיוור</l>
+          <l>לא של מחלה</l>
+          <l>אבל את בהירה</l>
+          <l>ואני רואה אותך כמו שמש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

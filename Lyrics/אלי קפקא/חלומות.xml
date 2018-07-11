@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלומות 7</title>
+        <singer classification="unknown">אלי קפקא</singer>
+        <writer>אלי קפקא</writer>
+        <composer>אלי קפקא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלומות</head>
+        <lg number="1" type="stanza">
+          <l>רציתי לחבק אותך</l>
+          <l>אבל המיטה לידי היתה ריקה</l>
+          <l>לא יודע היכן טעינו</l>
+          <l>מכל הלב ניסינו</l>
+          <l>אך הגורל לא חייך בחזרה.</l>
+          <l>איך פתאום השתנינו</l>
+          <l>לא נשאר הרבה בינינו</l>
+          <l>ניצוץ של אהבה שנעלמה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חלומות, שרקמנו מתנפצים כמו הגלים</l>
+          <l>ובים סוער טובעים שני אוהבים</l>
+          <l>מביטים בחייהם שנהרסים.</l>
+          <l>חלומות, שהבטחנו זה לזו לא מתגשמים</l>
+          <l>נשארו שני אנשים שאוהבים</l>
+          <l>מביטים בחייהם שנהרסים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השנים השאירו חותמן</l>
+          <l>מאוהבים הפכנו לזרים</l>
+          <l>לא יודע היכן טעינו</l>
+          <l>מכל הלב ניסינו אך</l>
+          <l>הגורל לא חייך בחזרה.</l>
+          <l>איך פתאום השתנינו</l>
+          <l>לא נשאר הרבה בינינו</l>
+          <l>ניצוץ של אהבה שנעלמה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חלומות, שרקמנו מתנפצים כמו הגלים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

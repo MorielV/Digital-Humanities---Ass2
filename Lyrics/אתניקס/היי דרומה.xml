@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היי דרומה</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>חיים חפר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היי דרומה</head>
+        <lg number="1" type="stanza">
+          <l>קצת דרומה לבאר שבע,</l>
+          <l>רוח במדבר נושבת,</l>
+          <l>שביל לערבה ירד,</l>
+          <l>לרדיאן אם אך מיהרת,</l>
+          <l>את אל עמר חיש עברת</l>
+          <l>והנה חוף אילת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הי דרומה, הי דרומה</l>
+          <l>הי דרומה לאילת!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הסופה הינה עוברת</l>
+          <l>על הדרך היא דוהרת,</l>
+          <l>למדבר הגדוד שעט.</l>
+          <l>ג'יפים כאן טסים כרוח</l>
+          <l>הלוחם ראשו פרוע,</l>
+          <l>כאן בדרך לאילת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הי דרומה, הי דרומה</l>
+          <l>הי דרומה לאילת!</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הלוחם עייף יגע</l>
+          <l>על הארץ השתרע</l>
+          <l>וחשב, הן כך כתוב:</l>
+          <l>את הארץ בי נשבעתי,</l>
+          <l>רק לכם כולה נתתי,</l>
+          <l>מני דן ועד ים סוף!</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הי דרומה, הי דרומה</l>
+          <l>הי דרומה לאילת!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

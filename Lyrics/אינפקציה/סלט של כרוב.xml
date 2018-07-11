@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סלט של כרוב</title>
+        <singer classification="band">אינפקציה</singer>
+        <writer>גיא בן שיטרית</writer>
+        <composer>גיא בן שיטרית</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סלט של כרוב</head>
+        <lg number="1" type="stanza">
+          <l>לא נעים להיות זקן, שמזיל ריר על סלט של כרוב</l>
+          <l>ולא נעים לכתוב פטנט, על נייר כשהשולחן רטוב.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נתגבר על המשבר, נזכר, בברוך של סלקום</l>
+          <l>אני לובש רק סמול ומדיום.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא נעים להיות שמן, שמזיע כל היום, רטוב,</l>
+          <l>לא נעים לשכב על קן נמלים, כשהבשר חשוף.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מנסר ת'עץ ההוא, מחורשת האקליפטוס.</l>
+          <l>אני עוד אנפץ ת'מיתוס פץ תמיתוס</l>
+          <l>נתגבר על המשבר, נזכר, בברוך של סלקום</l>
+          <l>אני לובש רק סמול ומדיום כן.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Be Invisible</title>
+        <singer classification="band">אטליז</singer>
+        <writer>גיא בן שיטרית</writer>
+        <composer>גיא בן שיטרית</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Be Invisible</head>
+        <lg number="1" type="stanza">
+          <l>On the river fish are dancing </l>
+          <l>We were safely still </l>
+          <l>On the same spot on the hill </l>
+          <l>Thinking that I am not real </l>
+          <l>You drove me mad as we were </l>
+          <l>Safely still </l>
+          <l>Animals dance on the hill </l>
+          <l>If you want </l>
+          <l>You’ve got to be invisible </l>
+          <l>To see it all...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

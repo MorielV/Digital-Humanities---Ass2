@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משסע אותי</title>
+        <singer classification="unknown">אף על פי כן</singer>
+        <writer>אף על פי כן</writer>
+        <composer>אף על פי כן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משסע אותי</head>
+        <lg number="1" type="stanza">
+          <l>הגעתי באיחור אל הסיפור</l>
+          <l>רצתי מזיע אל התחנה</l>
+          <l>הם לא אמרו על איזה כפתור ללחוץ</l>
+          <l>כאן לא נגמר רק מתחיל המירוץ</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>משסע אותי שיסע אותי</l>
+          <l>משסע אותי מדליק אותי</l>
+          <l>מביס אותי גומר אותי</l>
+          <l>שובר אותי חונק אותי הורס אותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המצב צרה לא מצאתי שום בעיה</l>
+          <l>אין דף קרוע במחברת שיגיד מה אפשר אחרת</l>
+          <l>ידיים אוחזות היטב בקופסא</l>
+          <l>מחכות שתפתח העטיפה המגרה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>משסע אותי שיסע אותי</l>
+          <l>משסע אותי מדליק אותי</l>
+          <l>מביס אותי גומר אותי</l>
+          <l>שובר אותי חונק אותי הורג אותי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הגעתי באיחור אל הסיפור</l>
+          <l>רצתי מזיע אל התחנה</l>
+          <l>עוד סיכוי אחרון את הרכבת לתפוס</l>
+          <l>כאן לא נגמר רק מתחיל המירוץ</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>משסע אותי שיסע אותי</l>
+          <l>משסע אותי מדליק אותי</l>
+          <l>מביס אותי גומר אותי</l>
+          <l>שובר אותי חונק אותי הורס אותי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קרב רפיח</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קרב רפיח</head>
+        <lg number="1" type="stanza">
+          <l>באנו שחורים כפיח</l>
+          <l>באנו קרועים אבל,</l>
+          <l>אנו אחרי רפיח</l>
+          <l>כמו שרצית טל!</l>
+          <l>מול האוייב הגחנו</l>
+          <l>מי שנפל, נפל.</l>
+          <l>על הנופלים פסחנו,</l>
+          <l>רצנו קדימה טל!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בחמישי ביוני</l>
+          <l>גדוד השריון פרץ</l>
+          <l>באש ודם אל הקרב יצא</l>
+          <l>באש ודם את פניו מצא!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קרב אל עריש מולנו</l>
+          <l>איש את ליבו ישאל</l>
+          <l>מי יכסה עינינו</l>
+          <l>פיח קרבות או טל?</l>
+          <l>את הנופלים נניח</l>
+          <l>הם לא יודעים אבל,</l>
+          <l>אנו אחרי רפיח</l>
+          <l>הם לפנינו טל!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בחמישי ביוני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

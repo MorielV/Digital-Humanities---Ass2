@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התקפת לב</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>missing</composer>
+        <album>מנועים שקטים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התקפת לב</head>
+        <lg number="1" type="stanza">
+          <l>התקפת לב באישון לילה,</l>
+          <l>במיטה מזיע</l>
+          <l>אין אויר תפתח חלון</l>
+          <l>ברחוב למטה אנשים צועקים</l>
+          <l>אתה מתכווץ, תופש את החזה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא נשאר זמן,</l>
+          <l>כל נשימה אתה נהיה</l>
+          <l>יותר קטן.</l>
+          <l>נראה שהפעם אתה לא הולך</l>
+          <l>לצאת מזה כל כך מהר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נדמה שהפעם</l>
+          <l>אתה הולך ואולי גם לא תשוב עוד</l>
+          <l>אל החדר שהכרת.</l>
+          <l>הסדין המוכתם בזיעה</l>
+          <l>יישאר מקומט</l>
+          <l>רק כמה ימים או שבועות</l>
+          <l>ואחר כך יכובס או יקופל בשקית.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משבת לשבת</title>
+        <singer classification="band">אבטיפוס</singer>
+        <writer>אמיר בן דוד</writer>
+        <composer>אמיר בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משבת לשבת</head>
+        <lg number="1" type="stanza">
+          <l>שני מעגלים נעים</l>
+          <l>מסתובבים בזמן</l>
+          <l>מתחבקים על המרפסת</l>
+          <l>מתרחקים ומתקרבים</l>
+          <l>בתוך מרחב מוגן</l>
+          <l>משחקים תופסת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מתפתחים ומתאחדים</l>
+          <l>כמו עיגולי עשן</l>
+          <l>שמשתלבים לרגע</l>
+          <l>ושוב הולכים ומתרחקים</l>
+          <l>היא קשת - הוא ענן</l>
+          <l>שמצטלבים לפתע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פתקים על דלת המקרר</l>
+          <l>רק מחליפים מבט</l>
+          <l>היא יוצאת כשהוא חוזר</l>
+          <l>לאהבה יש זמן</l>
+          <l>משבת לשבת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשקשה לי</title>
+        <singer classification="unknown">אביחי נזרי</singer>
+        <writer>אביחי נזרי</writer>
+        <composer>איילת תעשה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשקשה לי</head>
+        <lg number="1" type="stanza">
+          <l>בימים לחוצים שאין לי מנוח</l>
+          <l> זאת את שנותנת לי את הכוח</l>
+          <l> תביני שליבי </l>
+          <l> קרוע בתוכי</l>
+          <l> כל עוד את לא לצידי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשקשה לי את התשובה</l>
+          <l>כשקשה לי את היחידה</l>
+          <l>שיודעת איך לגעת</l>
+          <l>עמוק בנשמה</l>
+          <l>ולא קל לי בלעדייך</l>
+          <l>ולא קל לי בלי ידייך</l>
+          <l>אז תבואי עכשיו ונאהב לעולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאני איתך עולמי פורח</l>
+          <l>את כל העצב הקיים אני שוכח</l>
+          <l>תביני שליבי </l>
+          <l>קרוע בתוכי</l>
+          <l>כל עוד את לא לצידי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

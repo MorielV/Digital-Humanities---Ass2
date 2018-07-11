@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילדתי 4</title>
+        <singer classification="unknown">אלי אליאב</singer>
+        <writer>דני סיון</writer>
+        <composer>דני סיון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילדתי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>ילדתי קבלי ממני פרח</l>
+          <l>ילדתי למה ליבך כקרח?</l>
+          <l>קבלי באהבה את ליבי</l>
+          <l>שיחמם גם את ליבך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בשנקין הסתובבתי בין כל האנשים</l>
+          <l>ואותך שם מצאתי מחבקת ילדים</l>
+          <l>לא ידעתי שאותך, לא חשבתי שאיתך</l>
+          <l>אתן בשבילך גם את הלב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ילדתי קבלי ממני פרח...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל יום שעובר אני מבטיח</l>
+          <l>שאצלי בלב היא עוד תופיע</l>
+          <l>יפה כלבנה שקטה היא כאדווה</l>
+          <l>אתן לך את הלב מהנשמה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ילדתי קבלי ממני פרח...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>את ילדתי, את ילדתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

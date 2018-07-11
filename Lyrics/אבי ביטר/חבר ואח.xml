@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חבר ואח</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>דני שושן</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חבר ואח</head>
+        <lg number="1" type="stanza">
+          <l>היית לי חבר ואח</l>
+          <l>הכל בינינו כך נשכח</l>
+          <l>עזרתי גם בשעת צרה</l>
+          <l>אמור אחי מה קרה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גדלנו באותה שכונה</l>
+          <l>דומים היינו כמו תמונה</l>
+          <l>אכלנו מאותה קופסא</l>
+          <l>עישננו מאותה קופסא</l>
+          <l>אך מאותה קופסא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עד שיום אחד זה בא</l>
+          <l>הבאתי הביתה נערה</l>
+          <l>אותה לקחת מליבי</l>
+          <l>איך אחי פגעת בי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני אוהבת באך</title>
+        <singer classification="unknown">אירית דותן</singer>
+        <writer>שמוליק רוזן</writer>
+        <composer>יעקב הולנדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני אוהבת באך</head>
+        <lg number="1" type="stanza">
+          <l>ירח עגלגל בין עננים נשקף</l>
+          <l>נעצת בי מבט ארוך וממושקף</l>
+          <l>אמרת לי: אני אוהב אותך כל כך</l>
+          <l>אך חוץ ממך ילדה אני אוהב את באך</l>
+          <l>הסברת לי היטב, נדבך אחר נדבך</l>
+          <l>מדוע באך הוא קומפוזיטור משובח</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל אני איני </l>
+          <l>איני אוהבת באך</l>
+          <l>כי באך הוא קופוזיטור מסובך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלילה רד, פתאום בהר נעור משב</l>
+          <l>נעצת בי מבט שקט ומיושב</l>
+          <l>נשקת את ידי, ושוב, ברוב עניין</l>
+          <l>הוספת לדבר על יוהאן סבסטיאן</l>
+          <l>אמרת לי: אמנם, אני אוהב אותך</l>
+          <l>אבל יותר ממך אני אוהב את באך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבל אני...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הבוקר בא, זרחה השמש בשמיו</l>
+          <l>זכור היה לי עוד ליל אמש וקסמיו</l>
+          <l>שטפתי ת'כלים - בודדת במטבח</l>
+          <l>מן הטרנזיסטור נשטפו צלילים של באך</l>
+          <l>אמרתי לעצמי: הוא גבר לעניין</l>
+          <l>למענו אוהב את יוהאן סבסטיאן</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עכשיו אני מאוד</l>
+          <l>מאוד אוהבת באך</l>
+          <l>כי באך הוא קומפוזיטור</l>
+          <l>משובח</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אמרת לי</l>
+          <l>אבל יותר ממך אני אוהב את באך</l>
+          <l>אבל אני איני אוהבת באך</l>
+          <l>כי באך הוא קומפוזיטור מסובך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

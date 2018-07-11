@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא היתה בת שבע עשרה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>עמוס אטינגר</writer>
+        <composer>אדוארד אולארצ'יק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא היתה בת שבע עשרה</head>
+        <lg number="1" type="stanza">
+          <l>אותה ראינו איך הלכה ברחוב הומה אדם</l>
+          <l>צמת זהב התעופפה ברוח מן הים</l>
+          <l>שלחנו מבטינו עד ייפול דבר</l>
+          <l>היא, במי משנינו היא תבחר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היא היתה בת שבע עשרה בערך</l>
+          <l>ודמותה נולדה בחלומות</l>
+          <l>היא היתה בת שבע עשרה, כך קולי סיפר</l>
+          <l>שבע עשרה בלבד, ואולי יותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפתע רק צילה נשאר פוסע לאיטו</l>
+          <l>וההמון שבכיכר הפנה את מבטו</l>
+          <l>שלחנו את ידינו אל הרחוב שנית</l>
+          <l>מי אל מי משנינו היא תביט</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היא היתה בת שבע עשרה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עם ליל דיברו כל בני העיר, אמרו בה נערה</l>
+          <l>הנערות זמרו לשיר וההמון קרא</l>
+          <l>רק אנו אחריה בדרכים נדהר</l>
+          <l>מי במי משנינו היא תבחר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>היא היתה בת שבע עשרה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

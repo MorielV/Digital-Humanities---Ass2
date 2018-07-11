@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא מאוחר 2</title>
+        <singer classification="unknown">אביהו שבת</singer>
+        <writer>רגב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא מאוחר</head>
+        <lg number="1" type="stanza">
+          <l>מביט על התקרה</l>
+          <l>לא מצליח לישון</l>
+          <l>הראש עוד מעכל</l>
+          <l>מה שעבר עליו היום</l>
+          <l>הזדמנות שלה חיכיתי</l>
+          <l>מהרגע הראשון</l>
+          <l>הייתה לי בידיים</l>
+          <l>איך קפאתי במקום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואז נזכר בפנייך</l>
+          <l>ניצוץ האור בעינייך </l>
+          <l>(איי איי איי איי)</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא עוד לא מאוחר</l>
+          <l>רק תגידי כן </l>
+          <l>ואז אקח אותך איתי</l>
+          <l>בשתי ידי (איי איי איי איי)</l>
+          <l>לא, זה עוד לא נגמר</l>
+          <l>רק תתני לי הזדמנות</l>
+          <l>לתת לך את ליבי </l>
+          <l>ואת חיי (איי איי איי איי)</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>השחר כבר הפציע</l>
+          <l>אני מציץ אל השעון</l>
+          <l>קם מהמיטה</l>
+          <l>מושך חולצה מהארון</l>
+          <l>מגיע לבניין שלך</l>
+          <l>צועק במסדרון</l>
+          <l>שקט מחוץ לדלת</l>
+          <l>מצלצל בפעמון</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואז נזכר בפנייך</l>
+          <l>ניצוץ האור בעינייך</l>
+          <l>(איי איי איי איי)</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לא עוד לא מאוחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

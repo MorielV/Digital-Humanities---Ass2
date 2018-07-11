@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כוכב שמסתובב</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>אילן וירצברג</writer>
+        <composer>אילן וירצברג</composer>
+        <album>בזמן אמת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כוכב שמסתובב</head>
+        <lg number="1" type="stanza">
+          <l>לעולם אלך</l>
+          <l>לעולם אחזור</l>
+          <l>לעולם אותו</l>
+          <l>כוכב שמסתובב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לעולם אבוא</l>
+          <l>לעולם אצא</l>
+          <l>לעולם אותו</l>
+          <l>כדור שמתגלגל</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עד שניפגש</l>
+          <l>עד שניפרד</l>
+          <l>עד שניעלם בתוך הערפל</l>
+          <l>עד שנדבר</l>
+          <l>עד שנשתתק</l>
+          <l>עד שנתכסה באור לילי חיוור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לעולם אני</l>
+          <l>לעולם אתה</l>
+          <l>לעולם אותו</l>
+          <l> מגע  שמתרחק</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לעולם עבר</l>
+          <l>לעולם עתיד</l>
+          <l>לעולם אותו</l>
+          <l>הזמן האין סופי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עד שניפגש...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>בעולם, בעולם</l>
+          <l>בעולם אחר  </l>
+          <l>יש שם</l>
+          <l>יש מקום שם</l>
+          <l>נולדים כל יום</l>
+          <l>כל יום, מחדש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עצמי ויותר</title>
+        <singer classification="unknown">אסי אשד</singer>
+        <writer>אסי אשד</writer>
+        <composer>אסי אשד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עצמי ויותר</head>
+        <lg number="1" type="stanza">
+          <l>זיכרון רחוק מהערב </l>
+          <l>זיכרון שנשאר לעולם </l>
+          <l>איך השפלתי נפשך מול כולם </l>
+          <l>וגופך רק צעק לעזרה </l>
+          <l>התעטפת בשמיכה אפורה </l>
+          <l>התביישת </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תני לי רק קצת זמן </l>
+          <l>ואצא מזה מהר </l>
+          <l>ואחזור כמישהו אחר </l>
+          <l>קצת זמן </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ובמקום להתרחק את נוגעת </l>
+          <l>ובמקום לדבר את בוכה </l>
+          <l>דמעותייך גבשו בשמש </l>
+          <l>ויצרו זכוכית חדשה </l>
+          <l>את עצמי היא שיקפה </l>
+          <l>התביישתי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תני לי רק קצת זמן </l>
+          <l>ואצא מזה מהר </l>
+          <l>ואחזור כמישהו אחר </l>
+          <l>קצת זמן </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ופתאום הבנתי </l>
+          <l>שאת רוצה יותר ממני </l>
+          <l>ועכשיו השלמתי </l>
+          <l>עם כל מה שעשיתי לך </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לא רוצה עוד זמן </l>
+          <l>אין ממה לצאת מהר </l>
+          <l>אשאר עצמי ויותר </l>
+          <l>עוד זמן </l>
+          <l>אין ממה לצאת מהר </l>
+          <l>אשאר עצמי ויותר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

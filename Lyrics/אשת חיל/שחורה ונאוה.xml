@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שחורה ונאוה</title>
+        <singer classification="unknown">אשת חיל</singer>
+        <writer>מן המקורות</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שחורה ונאוה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>שחורה אני ונאוה</l>
+          <l>כשושנה בין החוחים,</l>
+          <l>כי נפשי חולת אהבה</l>
+          <l>רפדו אותי בתפוחים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שחורה משמש אני ונאוה</l>
+          <l>נוטרת את הכרמים,</l>
+          <l>דודי אשר נפשי אהבה</l>
+          <l>הוא היפה בעלמים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שחורה אני...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ישנה אני וקול דודי</l>
+          <l>קורא: "פתחי לי, אחותי,</l>
+          <l>כי את ליבי ומאודי</l>
+          <l>בואי, בואי, יונתי."</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שחורה אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

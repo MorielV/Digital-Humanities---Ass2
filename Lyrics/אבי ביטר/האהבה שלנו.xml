@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האהבה שלנו</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>אבי ביטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האהבה שלנו</head>
+        <lg number="1" type="stanza">
+          <l>זה השיר שלנו והוא לא יגמר</l>
+          <l>כל מילה כואבת עלינו תספר</l>
+          <l>רק אני ואת ידענו לאהוב</l>
+          <l>גם אם התרחקנו השיר נשאר קרוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>האהבה שלנו היתה כל כך יפה</l>
+          <l>האהבה בוערת עם כל הנשמה</l>
+          <l>עכשיו אנחנו לא ביחד והשיר כל כך כואב</l>
+          <l>זה השיר שלנו והוא לא יגמר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשהיינו יחד הכל היה זוהר</l>
+          <l>גם הכינורות בוכים כשהרגש מדבר</l>
+          <l>איך אהבתי אותך עם הצחוק והגומה</l>
+          <l>גם ביום שנפרדנו נתת לי נשיקה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האהבה שלנו היתה כל כך יפה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

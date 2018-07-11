@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השיר האחד</title>
+        <singer classification="unknown">אוסנת פז</singer>
+        <writer>אורי ברזילי</writer>
+        <composer>יוסף הדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השיר האחד</head>
+        <lg number="1" type="stanza">
+          <l>הוא ידע לזמר שיר אחד </l>
+          <l>שיר ישן ופשוט ועצוב </l>
+          <l>ושנים בקולו, בקולו הניחר </l>
+          <l>הוא זימר וזימר אותו שוב..</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מעולם לא הקשיבו לשיר</l>
+          <l>מעולם לא נתנו בו מבט</l>
+          <l>רק ידעו שסובב סובב הוא בעיר</l>
+          <l>ושירו הוא תמיד האחד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אבל בוקר אחד נעלם </l>
+          <l>ואדם לא ראה בלכתו</l>
+          <l>ולפתע הרגישו הרגישו כולם </l>
+          <l>כי רוצים הם לשמוע אותו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אך קולו לא נשמע עוד בעיר</l>
+          <l>והכרך הנישא והרם </l>
+          <l>אז החל מזמר, מזמר את השיר</l>
+          <l>שאליו לא הקשיב מעולם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

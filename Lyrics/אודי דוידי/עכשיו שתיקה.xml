@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עכשיו שתיקה</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>לילך דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עכשיו שתיקה</head>
+        <lg number="1" type="stanza">
+          <l>מתי בפעם האחרונה עצרתי לרגע</l>
+          <l>להקשיב לעוצמה, להתמכר לדממה</l>
+          <l>מתי בפעם האחרונה הצלחתי להביט אחור</l>
+          <l>להפסיק לספור הצלחה אכזבה</l>
+          <l>ועכשיו אני עומד, זה רגע אמיתי </l>
+          <l>אני מרגיש בעצמות  שמשהו מבעיר אותי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני לעצמי אין בי כלום</l>
+          <l>מעפר אני בא ואליו אשוב</l>
+          <l>עכשיו שתיקה</l>
+          <l>זמן לומר תודה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתי בפעם האחרונה הרגשתי לרגע</l>
+          <l>שאני מִדְבָּר ואתה לי עץ בשממה</l>
+          <l>מתי בפעם האחרונה הרגשתי את הטיפות </l>
+          <l>שהִשְקֵתַ אותי עם כל נשימה</l>
+          <l>ועכשיו אני עומד, זה רגע אמיתי </l>
+          <l>אני מרגיש בעצמות  שמשהו מבעיר אותי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני לעצמי אין בי כלום</l>
+          <l>מעפר אני בא ואליו אשוב</l>
+          <l>עכשיו שתיקה</l>
+          <l>זמן לומר תודה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

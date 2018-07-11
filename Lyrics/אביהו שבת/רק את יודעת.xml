@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק את יודעת 2</title>
+        <singer classification="unknown">אביהו שבת</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>ליאור דטאוקר</composer>
+        <album>אביהו</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק את יודעת</head>
+        <lg number="1" type="stanza">
+          <l>אמרת שאת הולכת </l>
+          <l>לנסות מקום אחר </l>
+          <l>שאת אליו נמשכת </l>
+          <l>הוא אהב אותך יותר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק את יודעת ש...</l>
+          <l>אותך אני נושם </l>
+          <l>את בשבילי חלום</l>
+          <l>שיום אחד עוד יתגשם </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השארת מכתב בחדר </l>
+          <l>שאינו אומר דבר </l>
+          <l>כתבת "יהיה בסדר, </l>
+          <l>אם לא היום, אולי מחר" </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק את יודעת... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אצלי הלב מסרב להירגע </l>
+          <l>פועם עכשיו כמו משוגע </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רק את יודעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

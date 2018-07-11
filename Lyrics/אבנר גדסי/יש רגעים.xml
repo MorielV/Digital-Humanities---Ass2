@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש רגעים</title>
+        <singer classification="male singer">אבנר גדסי</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש רגעים</head>
+        <lg number="1" type="stanza">
+          <l>יש לפעמים, יש רגעים</l>
+          <l>שהלב רוצה לצאת אליך</l>
+          <l>ולא יכול</l>
+          <l>אין פיתוי ואין מילים</l>
+          <l>של אהבה</l>
+          <l>יש תפלים ויש קולות</l>
+          <l>של מנגינה חדשה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נה נה נה נה אהה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לפעמים, יש רגעים</l>
+          <l>שהאהבה יוצאת, יוצאת אלייך</l>
+          <l>ובוכה</l>
+          <l>היא בוכה משמחה</l>
+          <l>של אהבה</l>
+          <l>להגיד שתמיד המנגינה</l>
+          <l>חדשה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נה נה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

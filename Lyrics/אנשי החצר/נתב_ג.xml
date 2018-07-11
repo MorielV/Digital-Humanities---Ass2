@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נתב ג</title>
+        <singer classification="band">אנשי החצר</singer>
+        <writer>ארז ברזוליק</writer>
+        <composer>אלי סורני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נתב"ג</head>
+        <lg number="1" type="stanza">
+          <l>אני חייב לצאת, ללכת לשתות</l>
+          <l>מישהו אולי מרגיש מאוהב</l>
+          <l>היא בתוך השירים וקשה לה להיות.</l>
+          <l>היא נוסעת עכשיו.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני חייב לשכב עם כל העולם</l>
+          <l>היא רוצה שכולם יאהבו אותה</l>
+          <l>מישהו חולם על העולם המושלם</l>
+          <l>שמסתובב סביבה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואחרי ההופעה היא תתקשר לומר</l>
+          <l>שהשיר שלה נשאר אותו הדבר</l>
+          <l>יש לה עוד שעה המראה או נחיתה</l>
+          <l>חבל שלא נשארתי אז איתה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כותב לה עוד שיר, מי שאהב.</l>
+          <l>נדבק לעבר באופן מוגזם</l>
+          <l>אצלי במיטה העולם על הגב</l>
+          <l>היא מתכסה בענן</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הייתם רוצים לראות על הצלב</l>
+          <l>אהבות ישנות ששכחתם מזמן</l>
+          <l>אצלי במיטה העולם על הגב</l>
+          <l>שוכב מכוסה בענן</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ואולי בעוד שנה היא תתקשר לומר</l>
+          <l>שהשיר שלה מרגיש אותו הדבר</l>
+          <l>יש לה הלילה נחיתה או המראה</l>
+          <l>אולי היא תבוא גם בשנה הבאה</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>ואחרי ההופעה היא תתקשר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

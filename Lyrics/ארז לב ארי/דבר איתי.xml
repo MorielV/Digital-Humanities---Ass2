@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דבר איתי</title>
+        <singer classification="male singer">ארז לב ארי</singer>
+        <writer>פטריק סבג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דבר איתי</head>
+        <lg number="1" type="stanza">
+          <l>ואם אתה לבד ואם אין אף אחד</l>
+          <l>ואם אתה פוחד ואין אף אחד</l>
+          <l>נוכל לשבת ולשתוק ולארגן את המחשבות</l>
+          <l>נוכל לשתות תוכל לבוא לשכוח אצלי הכל</l>
+          <l>אלווה אותך את כל הדרך חזרה</l>
+          <l>אחזיק לך את היד ולא אניח לך ליפול</l>
+          <l>על הפרצוף ליפול אל הטירוף</l>
+          <l>תמיד תוכל לחזור אלי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תדבר איתי, דבר איתי</l>
+          <l>תדבר איתי רגוע</l>
+          <l>דבר איתי כדי שאוכללנוח בשלום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

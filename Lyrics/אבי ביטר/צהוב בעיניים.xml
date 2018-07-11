@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צהוב בעיניים</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>אבי ביטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צהוב בעיניים</head>
+        <lg number="1" type="stanza">
+          <l>לקבוצה שלו היום יש חגיגה</l>
+          <l>אני מחזיק בלב את המנורה</l>
+          <l>את הקבוצה הזאת לא מנצחים</l>
+          <l>בית"ר ירושלים הם האלופים</l>
+          <l>את הקבוצה הזאת לא מנצחים</l>
+          <l>בית"ר ירושלים הם האלופים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני רואה צהוב רק בעיניים</l>
+          <l>אני שרוף על בית"ר ירושלים</l>
+          <l>אני רואה צהוב רק בעיניים</l>
+          <l>אני שרוף על בית"ר ירושלים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אלי כהן הוא הראש</l>
+          <l>ואיציק זוהר אשוורוש</l>
+          <l>אלי אוחנה מכדרר</l>
+          <l>ואת הרשת הוא מפורר</l>
+          <l>פישונט מוסר לאבוקסיס</l>
+          <l>חרזי מתכנן תכסיס</l>
+          <l>והקהל צועק בקול </l>
+          <l>יאללה בית"ר איזה גול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני רואה צהוב רק בעיניים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

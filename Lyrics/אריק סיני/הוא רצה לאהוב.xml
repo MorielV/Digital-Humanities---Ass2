@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הוא רצה לאהוב</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>לאונרדו ויסמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הוא רצה לאהוב</head>
+        <lg number="1" type="stanza">
+          <l>הוא רצה לאהוב</l>
+          <l>אך לא היה לו את מי</l>
+          <l>הוא רצה לתת אך לא היה לו מה</l>
+          <l>הוא רצה דבר אחד</l>
+          <l>דבר מקסים</l>
+          <l>הוא רצה...</l>
+          <l>את האהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הוא רצה לדעת דברים אחרים</l>
+          <l>הוא רצה לטפס על ההרים</l>
+          <l>אך הוא רצה אחד הכי בעולם</l>
+          <l>הוא רצה את האהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא אהב אותה</l>
+          <l>אך היא לא ידעה</l>
+          <l>הוא אמר לה</l>
+          <l>אך היא לא שמעה</l>
+          <l>אל היה לו חלום, חלום משוגע</l>
+          <l>שהיא תגיד לו בחלום</l>
+          <l>אני אוהבת אותך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הוא רצה לדעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

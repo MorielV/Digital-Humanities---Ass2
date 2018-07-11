@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הכרם</title>
+        <singer classification="female singer">אורה זיטנר</singer>
+        <writer>יעקב שבתאי</writer>
+        <composer>סשה ארגוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הכרם</head>
+        <lg number="1" type="stanza">
+          <l>טל צונן על הגפנים</l>
+          <l>וטל על הפנים</l>
+          <l>צונן הטל באשכולות</l>
+          <l>קם הבוקר ורגליו קלות</l>
+          <l>בוקר, בוקר להאיר</l>
+          <l>יאיר בכרם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אור עולה על ההרים</l>
+          <l>ואור על הבוצרים</l>
+          <l>עולה האור מערפילים</l>
+          <l>שיר לגפן ירוקת עלים</l>
+          <l>גפן, גפן להלל</l>
+          <l>הלל בכרם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חום כבד נושב באור</l>
+          <l>וחום ואין ציפור</l>
+          <l>כבד החום על הפנים</l>
+          <l>נח היין בענבי כרמים</l>
+          <l>יין, יין חכלילי</l>
+          <l>שלי בכרם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רד היום על פני שדות</l>
+          <l>ירד בגאיות</l>
+          <l>היום ירד אל הצללים</l>
+          <l>לילה לילה שועלים קטנים</l>
+          <l>עד הבוקר כוכבים</l>
+          <l>כבים בכרם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שהשם ישמור</title>
+        <singer classification="unknown">אבי נקש</singer>
+        <writer>ישראל בלק</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שהשם ישמור</head>
+        <lg number="1" type="stanza">
+          <l>הלו, בחור</l>
+          <l>יש פה מסר כה חשוב</l>
+          <l>כי גם אם לפעמים אתה לא חש את האמת</l>
+          <l>הלו הלו תתבונן ותביט</l>
+          <l>כי יש מי שמשקיף משגיח ושומר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הנה הנה לא ינום ולא ישן שומר ישראל</l>
+          <l>נום ולא ישן שומר ישראל</l>
+          <l>keep us all and watch us</l>
+          <l>every day every day</l>
+          <l>על ישראל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ברור את זה תמיד תזכור</l>
+          <l>לפעמים הכל נראה כה לרעה פתאום</l>
+          <l>היום איום ונורא תתעודד</l>
+          <l>ותדע זה ברור שהכל רק לטובה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הנה הנה לא ינום...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הלו...שרוט?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

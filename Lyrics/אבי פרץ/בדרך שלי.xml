@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בדרך שלי</title>
+        <singer classification="male singer">אבי פרץ</singer>
+        <writer>אבי פרץ</writer>
+        <composer>אבי פרץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בדרך שלי</head>
+        <lg number="1" type="stanza">
+          <l>יש אנשים צבועים בעולם </l>
+          <l>עושים את עצמם טובים מכולם </l>
+          <l>אז למה אני בדרך שלי </l>
+          <l>נשארתי לבד עם עצמי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש אנשים חושבים את עצמם </l>
+          <l>כמו טווסים הולכים בראש מורם </l>
+          <l>הביטו למטה משם במרומים </l>
+          <l>כי ככה כבר לא מדברים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רק אני בדרך שלי </l>
+          <l>מנסה לחיות עם עצמי </l>
+          <l>תנו לי רק מעט אהבה </l>
+          <l>מנסה לחיות בלי סיבה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הגיע הזמן עכשיו לדבר </l>
+          <l>יש לי כל כך הרבה לספר </l>
+          <l>על מה שבוער בי מזמן מבפנים </l>
+          <l>קשה כשאותי משקרים </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בין הישיר לבין האמת </l>
+          <l>רוצים לקחת וכלום לא לתת </l>
+          <l>ולי לא אכפת מה עלי מדברים </l>
+          <l>כי כך אני חיי את החיים </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לא אכפת לי מה שמדברים כולם </l>
+          <l>הם רק את עצמם משקרים </l>
+          <l>זה לא חשוב בכלל אין צדק בעולם </l>
+          <l>עלי משמיים שומרים </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>רק אני בדרך שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

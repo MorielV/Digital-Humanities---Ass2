@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי יתן 3</title>
+        <singer classification="male singer">אוהד מושקוביץ</singer>
+        <writer>מן המקורות</writer>
+        <composer>יוסף גרין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי יתן</head>
+        <lg number="1" type="stanza">
+          <l>מי יתן מנוחתי</l>
+          <l>לפני אדון השלום</l>
+          <l>והייתה שלמה מיטתי</l>
+          <l>החיים והשלום</l>
+          <l>ישלח מלאכו לפני</l>
+          <l>ללוותי לוויה</l>
+          <l>בכוס ישועות אשא פני</l>
+          <l>מנת כוסי רוויה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

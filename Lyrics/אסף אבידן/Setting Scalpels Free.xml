@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Setting Scalpels Free</title>
+        <singer classification="male singer">אסף אבידן</singer>
+        <writer>אסף אבידן</writer>
+        <composer>אסף אבידן</composer>
+        <album>Different Pulses</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Setting Scalpels Free</head>
+        <lg number="1" type="stanza">
+          <l>In the skies there is a whisper</l>
+          <l>In the trees there is a wind</l>
+          <l>On the sands the waves are rolling</l>
+          <l>Battered hopes are floating in</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>In your veins the tide is turning</l>
+          <l>And the ships are sailing home</l>
+          <l>In your knees there is a trembling</l>
+          <l>With the thought they're free to roam</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>Is it going to last?</l>
+          <l>Is it going to last...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>In the clouds there is a keyhole</l>
+          <l>In the light there is a key</l>
+          <l>On the shore there is a doctor</l>
+          <l>Setting all his scalpels free</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>In your stomach there's a prophet</l>
+          <l>Turning water into wine</l>
+          <l>In your chest there is a hunchback</l>
+          <l>Pulling all his bells to chime</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>Is it going to last?</l>
+          <l>Is it going to last...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

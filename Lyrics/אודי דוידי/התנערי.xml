@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התנערי 2</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התנערי</head>
+        <lg number="1" type="stanza">
+          <l>פנייך עייפות מיזע ודמעות</l>
+          <l>בגדייך מלאים אבק דרכים</l>
+          <l>ואת פוסעת חרש, אוספת את פיסות</l>
+          <l>שברי חייך הפזורים בין החולות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>התנערי מעפר קומי</l>
+          <l>לבשי בגדי תפארתך עמי</l>
+          <l>על יד בן ישי בית הלחמי</l>
+          <l>קרבה אל נפשי גאלה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ענייך מעידות על לילה בלי שינה</l>
+          <l>ליבך זועק 'אמא אדמה'</l>
+          <l>ואת פוסעת חרש בין הרגבים</l>
+          <l>תוהה אם עוד יבוא הקץ לנדודים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>התנערי מעפר קומי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>התעוררי כי בא אורך קומי אורי</l>
+          <l>כי נדודייך לא היו לשווא</l>
+          <l>כי עם הנצח שוב חוזר אל החולות</l>
+          <l>אל הפיסות אשר הותיר במכאוביו</l>
+          <l>מנעי קולך מבכי וענייך מדמעה</l>
+          <l>כי יש שכר לפעולתך</l>
+          <l>בנים חוזרים, ומפרים את הדממה</l>
+          <l>אשר מילאה את ישותך ואת ליבך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>התנערי מעפר קומי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

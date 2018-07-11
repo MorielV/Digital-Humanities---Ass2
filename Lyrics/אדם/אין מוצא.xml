@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין מוצא</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>מיטש הילר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין מוצא</head>
+        <lg number="1" type="stanza">
+          <l>משוטט ברחוב במתח, תר בכל חלון</l>
+          <l>נערות עומדות בפתח בעיני נאון</l>
+          <l>עיר קורצת עיר גוססת מפירה עצה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין מוצא לא זזים מכאן</l>
+          <l>אין מוצא ואוזל הזמן</l>
+          <l>אין מוצא ורק האור דוהר מתגבר</l>
+          <l>אין מוצא במרחב חסום</l>
+          <l>אין מוצא זה מבוי סתום</l>
+          <l>אין מוצא ורק האור דוהר מתגבר</l>
+          <l>אין מוצא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האספלט נמס בדרך ובניין נסדק</l>
+          <l>מישהי כורעת ברך כמו סוף המשחק</l>
+          <l>הביבים והשמיים</l>
+          <l>יחד כמו ביצה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין מוצא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

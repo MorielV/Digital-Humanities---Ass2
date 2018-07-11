@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוקדת 2</title>
+        <singer classification="male singer">אילן נורי</singer>
+        <writer>מעין כץ</writer>
+        <composer>מעין כץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוקדת</head>
+        <lg number="1" type="stanza">
+          <l>ליבי יוצא אליה</l>
+          <l>ומבקש אותה</l>
+          <l>מלכה כמוה אין</l>
+          <l>לא תהיה ולא היתה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הילה שמסנוורת</l>
+          <l>עוטפת את גופה</l>
+          <l>כמו פרח מעוטרת</l>
+          <l>והיא כל כך יפה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כשהיא רוקדת</l>
+          <l>האדמה רועדת</l>
+          <l>הלב נפתח מאהבה</l>
+          <l>כמו מלאך לכאן יורדת</l>
+          <l>מפיחה תקווה</l>
+          <l>רק היא יודעת</l>
+          <l>כדרכה לגעת</l>
+          <l>עמוק, עמוק היא בליבך</l>
+          <l>נשמה שאין בה עצב</l>
+          <l>מלאת שמחה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היא כוכבי בלילה</l>
+          <l>היא מאורי ביום</l>
+          <l>במחשבתי, אין פני לה</l>
+          <l>מציאות וגם חלום</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוצמת את עיניה</l>
+          <l>לוקחת שאיפה</l>
+          <l>וכשנכנס הקצב</l>
+          <l>ידיים מניפה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כשהיא רוקדת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האדון הרופא</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>שלום חנוך</writer>
+        <composer>שלום חנוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האדון הרופא</head>
+        <lg number="1" type="stanza">
+          <l>בואו נשיר את השיר על האיש הקטן הזה</l>
+          <l>בואו נשיר כמו ששרו החיות</l>
+          <l>הנה הולך האדון הרופא, איש בינות הוא</l>
+          <l>במדמנה אשר בגיא השלוליות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>דוקטור דוליטל</l>
+          <l>דוד-לי-דד-לי, דוקטור דוליטל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואו נשיר על רעיו של האיש הקטן הזה</l>
+          <l>ג'יפ הכלב וגבגב החזיר</l>
+          <l>צ'יצ'י הקוף וכבודו התוכי פולינזיה</l>
+          <l>וגם דבדב, אז בואו ונשיר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דוקטור דוליטל...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את מסעותיו הגדולים של האיש הקטן הזה</l>
+          <l>זאת דומני כי כל אחד מכיר</l>
+          <l>על הצילו אריות וקופים לו הג'ונגל</l>
+          <l>שם גם דחיסליק, אז בואו ונשיר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>דוקטור דוליטל...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>בואו נשיר את השיר על האיש הקטן הזה</l>
+          <l>בואו נשיר, כמו ששרו החיות</l>
+          <l>הנה הולך האדון הרופא, איש בינות הוא</l>
+          <l>במדמנה אשר בגיא השלוליות</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>דוקטור דוליטל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

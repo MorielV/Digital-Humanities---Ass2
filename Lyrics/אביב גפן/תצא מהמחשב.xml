@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תצא מהמחשב</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תצא מהמחשב</head>
+        <lg number="1" type="stanza">
+          <l>תצא מהמחשב תצא מהמחשב</l>
+          <l>תמיד הרי פחדת לצאת מהמחשב</l>
+          <l>תצא מהמחשב תצא מהמחשב</l>
+          <l>הזמן לצאת החוצה הגיע זמן לצאת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תצא מהמחשב תצא מהמחשב</l>
+          <l>אתה צולל למטה אתה עשוי כאב</l>
+          <l>תצא מהמחשב תצא מהמחשב</l>
+          <l>קשה לי כבר לשמוע הקול שלך דועך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה טובע בחוטים מתרחק מאנשים</l>
+          <l>אתה טובע בחוטים מתרחק מאנשים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תצא מהמחשב תצא מהמחשב</l>
+          <l>אני מתגעגע מתי אתה חוזר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

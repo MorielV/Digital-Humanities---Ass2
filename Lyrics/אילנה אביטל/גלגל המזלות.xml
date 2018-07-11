@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גלגל המזלות</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>יואב גינאי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גלגל המזלות</head>
+        <lg number="1" type="stanza">
+          <l>מי יצא בלילה עם מזל טלה</l>
+          <l>שור, דגים או קשת</l>
+          <l>טיפ פה מתגלה</l>
+          <l>איך מזל מאזניים</l>
+          <l>התאהב בדלי</l>
+          <l>זוג מהשמיים</l>
+          <l>ההימור שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד כוכב לוחש קסם</l>
+          <l>ואלפי סודות</l>
+          <l>ואני פותרת את כל העתידות</l>
+          <l>כל מזל נפתח לי</l>
+          <l>כמו פרח מלבלב</l>
+          <l>ואני נוגעת עמוק בתוך הלב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>העקרב יודע להפעיל קסמים</l>
+          <l>סרטנית קורצת את התאומים</l>
+          <l>האריה נותר הוא לחפש כלה</l>
+          <l>רק אני יודעת שזו הבתולה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוד כוכב לוחש קסם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

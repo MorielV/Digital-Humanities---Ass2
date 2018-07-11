@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הבגידה</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>יוש גרנות</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הבגידה</head>
+        <lg number="1" type="stanza">
+          <l>זוכר אחי את מילותיך</l>
+          <l>את הכאב שבענייך</l>
+          <l>שראיתי אותי נפגע מאש האהבה</l>
+          <l>אח קטן אותך הזהרתי</l>
+          <l>את הכאב שלך כאבתי</l>
+          <l>איך שיחקה היא בליבך</l>
+          <l>ולא השאירה בו תקווה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך הלב שלי נשבר</l>
+          <l>מה לעשות אח יקר</l>
+          <l>הכאב כל יום גובר</l>
+          <l>איך הלכה היא עם אחר</l>
+          <l>אני יודע אח קטן</l>
+          <l>שליבך כמו נדם</l>
+          <l>שהכאב כל יום גובר</l>
+          <l>אז אחי אל תשבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אח יקר מדוכא הייתי</l>
+          <l>הלב אהב ולא ראיתי</l>
+          <l>איך אותי היא מנצלת</l>
+          <l>ובליבי רק משחקת</l>
+          <l>אחי ביחד נתגבר</l>
+          <l>יהיו ימים טובים יותר</l>
+          <l>האהבה תיגע בך</l>
+          <l>ותרפא את כאבך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך הלב שלי נשבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

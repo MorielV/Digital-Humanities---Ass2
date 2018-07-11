@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הדרך שבה הלכתי</title>
+        <singer classification="male singer">אהרון ירימי</singer>
+        <writer>אברהם לוי</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הדרך שבה הלכתי</head>
+        <lg number="1" type="stanza">
+          <l>הדרך הברוכה שבה הלכתי</l>
+          <l>לפתע נעלמה ונגמרה</l>
+          <l>אמרתי בה אלך ולא שאלתי</l>
+          <l>גם לא ידעתי את הדרך בה אשוב חזרה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא זאת שיערתי ילדי, ולא פיללתי</l>
+          <l>היכן שגיתי ילדתי, לו רק אדע</l>
+          <l>שדות של בר בשתי ידיים כאן חרשתי</l>
+          <l>ולי אמרו שעוד אקצור ללא דמעה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עד מתי אלוהי</l>
+          <l>יכה הסהר בגני ובשדותי</l>
+          <l>לו יכולתי לעצור</l>
+          <l>ולשוב קצת לאחור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ושוב בצמרות נושב הרוח</l>
+          <l>ומטלטל נפשי ללא רחם</l>
+          <l>גם אם קשה דרכי ואין מנוח</l>
+          <l>ודאי אמצא לי יד חמה שאותי תנחם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

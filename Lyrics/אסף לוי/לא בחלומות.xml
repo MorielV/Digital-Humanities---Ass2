@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא בחלומות</title>
+        <singer classification="unknown">אסף לוי</singer>
+        <writer>שימי בקר</writer>
+        <composer>אלי משה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא בחלומות</head>
+        <lg number="1" type="stanza">
+          <l>לילה והזמן קפא כמו תמימות של ילד</l>
+          <l>מחפש ולא מוצא סיבה אחרת</l>
+          <l>זו רק את, אני יודע בתוכי</l>
+          <l>למה כמו אסיר נמלט ממך אני בורח</l>
+          <l>וחושב בזמן עבר, אך לא שוכח</l>
+          <l>מצייר, אך לא צובע את חיי</l>
+          <l>דף לבן בהיר, אין יותר אוויר</l>
+          <l>והעיר הזו רק שקט</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא בחלומות, לא רק בחלומות</l>
+          <l>רציתי שתהיי ממני חלק</l>
+          <l>לא בחלומות, לא רק בחלומות</l>
+          <l>רציתי שתהיי ממני חלק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוח ואני עלה נידף כמו געגוע</l>
+          <l>קצת ממך עדיין בי כמו דף קרוע</l>
+          <l>זו הנפש שנלחמת בי כמוך</l>
+          <l>שניים, לעיתים זה כמו טובע בעיניים</l>
+          <l>המסע שלי בזמן שחי בשניים</l>
+          <l>והכביש כמו נוסע בלעדי</l>
+          <l>דף לבן בהיר, אין יותר אוויר</l>
+          <l>והעיר הזו רק שקט</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא בחלומות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

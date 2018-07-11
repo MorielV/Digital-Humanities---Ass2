@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמועות על גשם</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>אריק סיני</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמועות על גשם</head>
+        <lg number="1" type="stanza">
+          <l>זקופים עמודי הטלפון </l>
+          <l>מעבירים שמועות על גשם </l>
+          <l>"זה נכון" - מאשר החצב </l>
+          <l>עוד מעט יפרחו מטריות </l>
+          <l>ובעיר יהיה קצת שקט </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בטוחים חוטי המיקרופון </l>
+          <l>מעבירים שורות על גשם </l>
+          <l>"זה נכון" - מאשר הקהל </l>
+          <l>עוד מעט יידלקו האורות </l>
+          <l>ואולי יהיה קצת שקט </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שיירד, תגידי </l>
+          <l>שישטוף את הכל </l>
+          <l>ויסחוף את הכל </l>
+          <l>שיירד, תגידי </l>
+          <l>שישטוף ויסחוף את הכל </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לפעמים עמודי הטלפון </l>
+          <l>מעבירים קולות על ילד </l>
+          <l>"זה נכון" - מאשר המצב </l>
+          <l>יש שינוי בכיוון הרוחות </l>
+          <l>ועוד יהיה קצת שקט </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שיירד, תגידי... </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לפעמים קשה להאמין </l>
+          <l>לחושך הגאול כאן </l>
+          <l>והבוקר עולה וממתין </l>
+          <l>מביא ריח של פרדסים </l>
+          <l>ותקוות עטופות בשקף </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>שיירד, תגידי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

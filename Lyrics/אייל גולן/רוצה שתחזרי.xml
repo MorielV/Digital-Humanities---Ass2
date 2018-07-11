@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוצה שתחזרי</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>גילי זכאי</writer>
+        <composer>גילי זכאי</composer>
+        <album>זה אני</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוצה שתחזרי</head>
+        <lg number="1" type="stanza">
+          <l>כבר בוקר, לידי את מתעוררת,</l>
+          <l>לו ידעתי שימינו כה ספורים.</l>
+          <l>חשבתי שלנצח את נשארת,</l>
+          <l>חשבתי שנהיה כל החיים.</l>
+          <l>פתאום הכל נגמר ונעלמת לי,</l>
+          <l>יודע שלא מעט פגעתי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא יכול עוד בלעדייך,</l>
+          <l>רוצה שתחזרי, להרגיש את חום ידייך,</l>
+          <l>לא תהיה אחת אחרת שתמלא אותי,</l>
+          <l>לא תבוא עוד אחרייך, לא...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כבר לילה ואת לידי נרדמת,</l>
+          <l>לא יודע אם חלום או מציאות.</l>
+          <l>אם די לך אז את בטח כבר חוזרת,</l>
+          <l>בואי שימי קץ לריקנות.</l>
+          <l>פתאום הכל נגמר ונעלמת לי,</l>
+          <l>מאותו הלילה לא נרדמתי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא יכול עוד בלעדייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

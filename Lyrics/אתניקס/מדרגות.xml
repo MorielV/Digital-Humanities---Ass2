@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מדרגות</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מדרגות</head>
+        <lg number="1" type="stanza">
+          <l>מדרגות לעלות</l>
+          <l>כי הדרך אל האושר שם,</l>
+          <l>עמודים וקירות</l>
+          <l>כל אחד בונה חומה</l>
+          <l>יש דלת קטנטנה וצוהר אל החופש,</l>
+          <l>בפנים יש אמונה גם אם בחוץ רק חושך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מדרגות מהצד</l>
+          <l>נושאות אותך לעוד מימד,</l>
+          <l>תעלה או תרד כך תלמד לא לפחד,</l>
+          <l>לכל אחד יש בעיות, את זה אתה יודע,</l>
+          <l>אבל צריך לחיות ולא להשתגע</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>גם אם יקחו לך הכל (שלה לה לה לה)</l>
+          <l>אל תישבר, אתה יודע,</l>
+          <l>עוד תנצח בגדול (שלה לה לה לה)</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מדרגות לחירום</l>
+          <l>משם תוכל תמיד לברוח,</l>
+          <l>תתבצר מחדש ותלמד מטעויות,</l>
+          <l>הדרך אל האושר היא לפעמים לא דרך -</l>
+          <l>אם תעבור אותה אתה תהיה המלך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>גם אם יקחו לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

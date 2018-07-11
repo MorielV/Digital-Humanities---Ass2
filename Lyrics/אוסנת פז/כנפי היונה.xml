@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כנפי היונה</title>
+        <singer classification="unknown">אוסנת פז</singer>
+        <writer>נתן יונתן</writer>
+        <composer>נחצ'ה היימן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כנפי היונה</head>
+        <lg number="1" type="stanza">
+          <l>תלם אחרון וחושך בגינה</l>
+          <l>היום אמר את סוף המנגינה.</l>
+          <l>ערב חרישי חתם את התמונה</l>
+          <l>בין אור לחושך נחה השכונה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>דייג אסף חכה אחרונה</l>
+          <l>הנה כבר יום שישי פנה.</l>
+          <l>שוקי העיר, כנפי היונה</l>
+          <l>לבשו כותנת לבנה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השולחן מוכן ונאספו כולם</l>
+          <l>נרות דולקים עם יין וחלה</l>
+          <l>יום עמל כלה, ומה שלא נישלם</l>
+          <l>אולי נתחיל מחר מהתחלה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דייג אסף חכה אחרונה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בכל ליבי</title>
+        <singer classification="female singer">אתי אנקרי</singer>
+        <writer>רבי יהודה הלוי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בכל ליבי</head>
+        <lg number="1" type="stanza">
+          <l>בכל לבי, אמת, ובכל מאודי אהבתיך, ובגלויי וסודי.</l>
+          <l>שמך נגדי - ואיך אלך לבדי? והוא דודי - ואיך אשב יחידי?</l>
+          <l>והוא נרי - ואיך ידעך מאורי? ואיך אצען? - והוא משען בידי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בכל לבי, אמת, ובכל מאודי אהבתיך, ובגלויי וסודי.</l>
+          <l>שמך נגדי - הקילוני מתים לא ידעו כי קלוני על כבוד שמך כבודי.</l>
+          <l>מקור חיי - אברכך בחיי, וזמרתי - אזמרך בעודי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מקור חיי - אברכך בחיי, וזמרתי - אזמרך בעודי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לה לה לה לה לה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

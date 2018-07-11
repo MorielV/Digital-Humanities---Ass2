@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבודה בלעדי</title>
+        <singer classification="male singer">אייל לוי</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>עופר לב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבודה בלעדי</head>
+        <lg number="1" type="stanza">
+          <l>אל מול השער הפתוח</l>
+          <l>גשם עז ניתך לאור היום</l>
+          <l>ואת נוסעת עם הרוח</l>
+          <l>שתוביל אותך לשום מקום</l>
+          <l>ואין בך רגש ולא פחד</l>
+          <l>רק טינה וצער כה עמוק</l>
+          <l>ואם אולי היית סולחת</l>
+          <l>עוד היינו מגיעים רחוק.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבודה את בלעדי</l>
+          <l>אל תלכי זה לא כדאי</l>
+          <l>אבודה את בלעדי</l>
+          <l>אם תצאי לי מחיי</l>
+          <l>עוד תשובי ואותי לא תמצאי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שנים יפות אינך זוכרת</l>
+          <l>הדרכים האירו לך פנים</l>
+          <l>עכשיו דרכך אינה מוכרת</l>
+          <l>והרחובות שם סואנים</l>
+          <l>ואם אי פעם כשטעיתי</l>
+          <l>לא תמיד ידעתי לאהוב</l>
+          <l>אבל אותך  תמיד רציתי</l>
+          <l>רק איתך אישה היה לי טוב.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבודה את בלעדי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

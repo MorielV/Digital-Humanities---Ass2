@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחרי שנסעת 2</title>
+        <singer classification="unknown">אור טרגן</singer>
+        <writer>שלמה גרוניך</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחרי שנסעת</head>
+        <lg number="1" type="stanza">
+          <l>ואותך אני בוחר</l>
+          <l>אותך אני חולם</l>
+          <l>איתך אני יודע</l>
+          <l>שרק איתך אני חופשי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לבד אני מרגיש כאילו את היית איתנו</l>
+          <l>אבל כשאני שותק לי עם עצמי</l>
+          <l>אז את איתי, אבל אינך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואני שותק איתך</l>
+          <l>ולעצמי אני אומר</l>
+          <l>איתך אני יודע</l>
+          <l>שרק איתך אני עצמי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואת כל המילים שלנו את היית שומעת</l>
+          <l>גם בלי שאני אומר לך את עצמי</l>
+          <l>אני נולד, אני רואה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את רואה מקום אחר</l>
+          <l>אותו אני חולם</l>
+          <l>איתך אני יודע</l>
+          <l>אבוא לשם ועם עצמי.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני מרגיש כאילו את היית איתנו</l>
+          <l>אבל כשאני שותק לי עם עצמי </l>
+          <l>אז את איתי, אבל אינך.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>לבד אני מרגיש כאילו את היית איתנו</l>
+          <l>אבל כשאני שותק לי עם עצמי</l>
+          <l>אז את איתי, אבל אינך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

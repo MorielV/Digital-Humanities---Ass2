@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נשוטה נשוטה</title>
+        <singer classification="female singer">אופירה גלוסקא</singer>
+        <writer>חיים גורי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נשוטה נשוטה</head>
+        <lg number="1" type="stanza">
+          <l>נשוטה, נשוטה, החוף מתרחק לו,</l>
+          <l>ילדי האובד,</l>
+          <l>גלים וכוכבת ורוח נושבת,</l>
+          <l>הליל יורד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד נחזורה: - שוב נחזורה</l>
+          <l>והרוח תירעש חזקה,</l>
+          <l>ושירים יעלו מסיפון ומתורן</l>
+          <l>עוד נחזור ונשיבה נקם! -</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נשוטה חבריה - נכר יעטנו</l>
+          <l>ברוח קרה.</l>
+          <l>זרים בביתנו...</l>
+          <l>אייה ספינתנו?</l>
+          <l>ארצי הסגורה!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוד נחזורה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

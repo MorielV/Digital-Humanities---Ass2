@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מעלית</title>
+        <singer classification="unknown">אורית גלבמן</singer>
+        <writer>אורית גלבמן</writer>
+        <composer>אורית גלבמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מעלית</head>
+        <lg number="1" type="stanza">
+          <l>במקום סגור האוויר מלמעלה </l>
+          <l>חזק כמו רוח פרצים </l>
+          <l>עם דימיון גם בתוך מעלית </l>
+          <l>החיים הם לא סבל </l>
+          <l>אם קצת מתאמצים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>במבט מרוחק מן הצד האחר </l>
+          <l>גם בעין פקוחה לא רואים כשחסר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>במקום סגור האוויר מלמטה </l>
+          <l>חזק כמו רוח מדבר </l>
+          <l>עם דמיון גם בתוך מערבולת </l>
+          <l>החיים יציבים לי </l>
+          <l>גם כשסדר נפער </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>במבט מרוחק מן הצד האחר </l>
+          <l>גם בעין פקוחה לא רואים כשחסר </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>גם במקום סגור כשהאור מהשמש </l>
+          <l>חודר לי מבין התריסים </l>
+          <l>מקיצה ורואה איך הרוח שקטה בפנים </l>
+          <l>ונדמה שאם הייתי עוצרת הכל היה לי שונה </l>
+          <l>אבל גם אם הייתי שוברת שום דבר לא היה משתנה </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>גם כשחשבת שאין מה לראות </l>
+          <l>שאין מה לבנות </l>
+          <l>שאין מה להיות </l>
+          <l>גם כשחשבת לוותר על הכל </l>
+          <l>ולהשתיק את הקול שמהדהד מבפנים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

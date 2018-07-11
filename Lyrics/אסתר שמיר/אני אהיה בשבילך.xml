@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני אהיה בשבילך</title>
+        <singer classification="female singer">אסתר שמיר</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>אסתר שמיר</composer>
+        <album>זה בינך ובין אלוהים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני אהיה בשבילך</head>
+        <lg number="1" type="stanza">
+          <l>כל עוד הדרך עוטה קוצים וחשופה רגלך </l>
+          <l>כל עוד הלילה נטול כוכבים, מי יאיר לך? </l>
+          <l>כל עוד הצער גואה ושוטף ורכה דמעתך </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל עוד יש מכשולים לעבור והימים קשים </l>
+          <l>כל עוד צריך לחפש מסתור מפני האנשים </l>
+          <l>כל עוד הדרך כואבת לך ואין נחמה </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני אהיה הגשם שיביא את המים </l>
+          <l>אסלק את החול שנזרה בעיניים </l>
+          <l>אני אתן לך שמש </l>
+          <l>אתן לך אור </l>
+          <l>אף אחד לא יוכל להפריד בינינו </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לפני שנשמה לובשת גוף משביעים אותה: </l>
+          <l>"אל תדעכי בעולם אפוף,עטוף בעלטה" </l>
+          <l>אז גם אם לא תזכור אותי וגם אם לא תקרא לי </l>
+          <l>אני אהיה בשבילך </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני אהיה הגשם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

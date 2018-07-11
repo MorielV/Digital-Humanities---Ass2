@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ואם רק</title>
+        <singer classification="unknown">ארנון פרידמן</singer>
+        <writer>ארנון פרידמן</writer>
+        <composer>גיל פוקס</composer>
+        <album>סימנים ברוח</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ואם רק</head>
+        <lg number="1" type="stanza">
+          <l>עומד עם הפנים אל מול הרוח</l>
+          <l>מנסה לקלוט ולהבין</l>
+          <l>אני עכשיו לגמרי לא בטוח</l>
+          <l>לפעמים צריך להאמין</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מסתחרר למעלה ולמטה</l>
+          <l>מכור לכעסים, לריגושים</l>
+          <l>אסור שיחשבו שקצת ויתרת</l>
+          <l>מנטרל את כל הרעשים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואם רק אני אוכל להירגע</l>
+          <l>ואם רק אני אקשיב למוזיקה</l>
+          <l>אם רק תנוח דעתי</l>
+          <l>ואם רק את תהיי פה לידי</l>
+          <l>אוכל ללכת לדרכי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עומד עם הפנים אל מול הרוח</l>
+          <l>נושם חזק את ריח היסמין</l>
+          <l>מביט אל קו האופק הפתוח</l>
+          <l>בעצמי מוכן להאמין</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואם רק אני אוכל להירגע...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>Si tu étais avec moi,</l>
+          <l>C'aurait été un rêve de joie,</l>
+          <l>Un rêve infini,</l>
+          <l>Et je pourrais m'en aller.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

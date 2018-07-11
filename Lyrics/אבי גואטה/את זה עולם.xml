@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את זה עולם</title>
+        <singer classification="unknown">אבי גואטה</singer>
+        <writer>אבי גואטה</writer>
+        <composer>אבי גואטה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את זה עולם</head>
+        <lg number="1" type="stanza">
+          <l>אור החמה בי מכה</l>
+          <l>ירח מאיר את דמותך</l>
+          <l>נפל עוד כוכב מבקש</l>
+          <l>להיות תמיד לצידך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את זה עולם</l>
+          <l>יש בך הכל</l>
+          <l>ברא לי אותך</l>
+          <l>אל היום הגדול</l>
+          <l>שמלה לבנה</l>
+          <l>שטיח אדום</l>
+          <l>אפרוש בדרכך </l>
+          <l>ואשיר לך בחום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>טבעת קטנה סיפור כה גדול</l>
+          <l>אני מתרגש כבר לשאול</l>
+          <l>פנינו לאן מועדות</l>
+          <l>האם לעולם הגדול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את זה עולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

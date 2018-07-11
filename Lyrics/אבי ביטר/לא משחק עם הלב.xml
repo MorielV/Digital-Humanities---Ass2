@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא משחק עם הלב</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא משחק עם הלב</head>
+        <lg number="1" type="stanza">
+          <l>אהבתי ילדה שהיתה עולמי</l>
+          <l>אהבתי כמשוגעת ששברה את ליבי</l>
+          <l>מוכן לוותר לא רוצה בך יותר</l>
+          <l>החיים הם משחק שברגע עובר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני לא מתאהב, לא משחק עם הלב</l>
+          <l>כי לאהוב זה קשה, אני פוחד מזה</l>
+          <l>אל תספרי סיפורים על אשליות ושקרים</l>
+          <l>כמו באגדות באהבות משקרים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה זה איכפת לי, אם את אוהבת</l>
+          <l>מה זה איכפת כשאת בוכה וסובלת</l>
+          <l>פוחד לאהוב זה עושה לי טוב</l>
+          <l>מתמודד עם עצמי הולך זרוק ברחוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני לא מתאהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

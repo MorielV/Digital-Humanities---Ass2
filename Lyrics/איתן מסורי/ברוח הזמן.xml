@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברוח הזמן</title>
+        <singer classification="male singer">איתן מסורי</singer>
+        <writer>נתן יונתן</writer>
+        <composer>איתן מסורי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברוח הזמן</head>
+        <lg number="1" type="stanza">
+          <l>מילים אינן ציפורים לכן הן מחליפות את מקומן</l>
+          <l>לפעמים היפות עפות בראש לפעמים בסוף בדממה.</l>
+          <l>כך נוצרים למראית עין שירים אחרים ברוח הזמן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הן בוכות ביחידות אך לעוף הן עפות שיירות שיירות.</l>
+          <l>האיים במסלול הישן צללו אך באותן דרכים מוזרות</l>
+          <l>מארצות הקור אל חופי הלב החמים הן באות לחרוף.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואלה שאין להן גואל נופלות במצרים</l>
+          <l>על כף נידח או בשדות הרחמים כמו יתומי העגורים</l>
+          <l>שעבר קייץ, כלה קציר, והמה על חופי האגמים קבורים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

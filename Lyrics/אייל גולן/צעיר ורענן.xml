@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צעיר ורענן</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>נתנאל נועם</writer>
+        <composer>נתנאל נועם</composer>
+        <album>לחישה בלילה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צעיר ורענן</head>
+        <lg number="1" type="stanza">
+          <l>אם פגשת נערה שולחת מבטים</l>
+          <l>ובליבך ההרגשה שהיא מיד תסכים</l>
+          <l>גש אליה ואמור משפט מאוד ברור</l>
+          <l>בך חשקתי נערה</l>
+          <l>זה כבר לא אסור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתה צעיר ורענן</l>
+          <l>אתה כמו פרח בר מוגן</l>
+          <l>תשמח באהבה כי טוב</l>
+          <l>צא לבלות ולאהוב</l>
+          <l>אתה צעיר וזה הזמן</l>
+          <l>רק לאהוב</l>
+          <l>אתה צעיר וזה הזמן</l>
+          <l>רק לאהוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה הגיל שבו אתה פורח ותוסס</l>
+          <l>אל תחשוב על מה יהיה ואל תהסס</l>
+          <l>תן לרגש שיוביל, לאט אל תמהר</l>
+          <l>זה הזמן רק להנות</l>
+          <l>עליו אל תוותר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אתה צעיר ורענן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

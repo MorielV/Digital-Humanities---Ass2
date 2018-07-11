@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תות אנך אמון</title>
+        <singer classification="male singer">אריק רודיך</singer>
+        <writer>רובי שול</writer>
+        <composer>אריק רודיך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תות אנך אמון</head>
+        <lg number="1" type="stanza">
+          <l>שוכב בין פסלי המתכת</l>
+          <l>פניו שמתוחות בארשת</l>
+          <l>של רוע, זדון, כאב ועלבון</l>
+          <l>הוא פה בארמון</l>
+          <l>אליו הם לא הגיעו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תות אנך אמון</l>
+          <l>מלך בלי המון</l>
+          <l>תות אנך, הוא עוד לא נח</l>
+          <l>תועה באבדון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חרש מרעידות הבריח</l>
+          <l>נוברי ההיסטוריה בפתח</l>
+          <l>רואה יד אדם וחש בקורבן</l>
+          <l>ריח הדם</l>
+          <l>עכשיו הם לא יפריעו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תוך אנך אמון...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שוכב הוא בין פסלי המתכת</l>
+          <l>פניו שמתוחות בארשת</l>
+          <l>של רוע, זדון, כאב ועלבון</l>
+          <l>הוא פה בארמון</l>
+          <l>אליו הם לא הגיעו</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תוך אנך אמון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

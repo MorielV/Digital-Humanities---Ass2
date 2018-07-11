@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הוא לא ידע את שמה 3</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>חיים חפר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הוא לא ידע את שמה</head>
+        <lg number="1" type="stanza">
+          <l>הלך הוא יום אחד בדרך לבאר שבע,</l>
+          <l>הרוח מן הים את השיחים ליטף,</l>
+          <l>ליד אילן זקן היא את ראשה הסבה,</l>
+          <l>וצמתה ירדה ירוד מן הכתף.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הגדוד המשיך לצעוד, ועם הגדוד הלך הוא</l>
+          <l>ואת פניו נשקו גם רוח, גם חמה.</l>
+          <l>אבל בחניה לילית אחת נוכח הוא -</l>
+          <l>נוכח הוא כי שכח לשאול אותה לשמה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הוא לא ידע את שמה,</l>
+          <l>אבל אותה צמה</l>
+          <l>הלכה עמו לאורך כל הדרך,</l>
+          <l>והוא ידע, יש יום</l>
+          <l>בו יפגשו פתאום,</l>
+          <l>עם שחר של טללים או שמש ערב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הקיץ השני החליף גוונים וצבע,</l>
+          <l>פטרול סיור חזר מלילה של סיון</l>
+          <l>מיהר האמבולנס בדרך לבאר שבע</l>
+          <l>והיא חיכתה חיכתה לו בחלוק לבן.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והוא שאל "האם?", והיא ענתה "זוכרת"</l>
+          <l>וכה דיברו שעות, איש לא ידע על מה</l>
+          <l>וכשהלך בלי שוב והיא נותרה חיוורת,</l>
+          <l>זכרה היא כי שכח לשאול אותה לשמה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הוא לא ידע את שמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

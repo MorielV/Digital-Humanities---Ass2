@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שרק יהיה לי טוב</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אבי קורן</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שרק יהיה לי טוב</head>
+        <lg number="1" type="stanza">
+          <l>גם יקרה הכי נורא</l>
+          <l>ואש תאכל את כל ביתי</l>
+          <l>לא אבהל מכל צרה</l>
+          <l>כשאת תמיד תהיי איתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני רוצה לחשוב </l>
+          <l>שכך יהיה לי טוב</l>
+          <l>שכך יהיה לי טוב תמיד</l>
+          <l>ולא איכפת מה שהיה</l>
+          <l>ולא איכפת מה שיהיה</l>
+          <l>אני רוצה להיות איתך</l>
+          <l>תמיד תמיד להיות איתך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואם אקום בחוסר כל</l>
+          <l>בלי לבושי בלי מיטתי</l>
+          <l>הכל הכל אוכל לסבול</l>
+          <l>כל זמן שאת תהיי איתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני רוצה לחשוב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לי לא איכפת כלל לוותר</l>
+          <l>גם על כבודי גם על זכותי</l>
+          <l>כי מי צריך בכלל יותר</l>
+          <l>אם את תמיד תהיי איתי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני רוצה לחשוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

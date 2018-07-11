@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בעירי</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>זאב נחמה</writer>
+        <composer>אקורדים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בעירי</head>
+        <lg number="1" type="stanza">
+          <l>בעירי הרחובות שטופים באהבה</l>
+          <l>וקופידון יושב לו בשמיים</l>
+          <l>כל האוהבים באים ומחפשים תשובה</l>
+          <l>אלפי זוגות שאוחזים ידיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמה מילים עוד לך אומר</l>
+          <l>שתבואי כבר מחר</l>
+          <l>לגלות את רגשותייך</l>
+          <l>בחץ אהבה הוא ישדך</l>
+          <l>את ליבי ואת ליבך</l>
+          <l>אני שוב חוזר אלייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בעירי אין עננים ואין שום מריבה</l>
+          <l>קופידון אוהב ימים של קיץ</l>
+          <l>אם את מרגישה אלי מעט יותר קרובה</l>
+          <l>חבקי אותי חזק בשתי ידייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמה מילים עוד לך אומר</l>
+          <l>שתבואי כבר מחר</l>
+          <l>לגלות את רגשותייך</l>
+          <l>בחץ אהבה הוא ישדך</l>
+          <l>את ליבי ואת ליבך</l>
+          <l>אני שוב חוזר אלייך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

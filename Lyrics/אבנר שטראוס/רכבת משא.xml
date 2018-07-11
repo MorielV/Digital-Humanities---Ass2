@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רכבת משא</title>
+        <singer classification="male singer">אבנר שטראוס</singer>
+        <writer>אבנר שטראוס</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רכבת משא</head>
+        <lg number="1" type="stanza">
+          <l>הנה באה רכבת משא</l>
+          <l>מי יודע לאן היא תיסע</l>
+          <l>היא תקח אותי מכאן</l>
+          <l>אף אחד לא יודע לאן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לרכבת אלף קרונות </l>
+          <l>הם נושאים רק זכרונות</l>
+          <l>הרכבת תביא אותי</l>
+          <l>לזרועות אהובתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הקרונות הם עמוסים</l>
+          <l>גלגלים על הפסים</l>
+          <l>את כולם מושך קטר</l>
+          <l>ואני יושב ושר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הנה באה רכבת משא</l>
+          <l>מי יודע לאן היא תיסע</l>
+          <l>הרכבת תביא אותי</l>
+          <l>לזרועות אהובתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

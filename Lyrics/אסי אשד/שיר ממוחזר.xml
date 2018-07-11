@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר ממוחזר</title>
+        <singer classification="unknown">אסי אשד</singer>
+        <writer>אלון גולדשטיין</writer>
+        <composer>אסי אשד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר ממוחזר</head>
+        <lg number="1" type="stanza">
+          <l>לוקחים פסולת מעורבבת, דוחפים למערבל </l>
+          <l>הנורה מורה איגנישן! הרפש מצלצל </l>
+          <l>מחשבה מקורית על מה שהיה אתמול ועל מחר </l>
+          <l>בשניות משוכפלת לדף עמדה שנתלה בכל כיכר </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הכל חוזר וממוחזר, כן ככה זה הולך היום </l>
+          <l>אני, אתה, השיר הזה, הווילה </l>
+          <l>הכל חוזר וממוחזר חלילה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כדורי עופרת חלקים שניקבו כמה ריאות </l>
+          <l>לשרשרת חיננית הופכים, הצלחה מול המראות </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הכול חוזר וממוחזר, כן ככה זה הולך היום </l>
+          <l>אני, אתה, השיר הזה, הווילה </l>
+          <l>הכול חוזר וממוחזר חלילה </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שם של ילד שנקטף, די, אבד, הוא מת </l>
+          <l>מוענק לבא בתור בתקווה שהיה פחות בולט</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

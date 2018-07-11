@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לחשוב על הטוב</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>אילן וירצברג</writer>
+        <composer>אילן וירצברג</composer>
+        <album>בזמן אמת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לחשוב על הטוב</head>
+        <lg number="1" type="stanza">
+          <l>עומד על סף הפתח</l>
+          <l>מביט אל תוך הנצח</l>
+          <l>שם ישנו עתיד</l>
+          <l>עתיד עומד בפתח</l>
+          <l>עומד על סף הנצח</l>
+          <l>זמן של מסתורין</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש זמן לחלום ויש זמן לגעת</l>
+          <l>יש מה לעשות, גם אם זה</l>
+          <l>נשמע לא טוב</l>
+          <l>לקחת עוד רגע</l>
+          <l>ולנסות לחשוב על הטוב</l>
+          <l>לחשוב על הטוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לדלת שנסגרת</l>
+          <l>יש דלת שנפתחת</l>
+          <l>שם ישנה תקווה</l>
+          <l>לראות עד סוף הדעת</l>
+          <l>לחיות עד סוף הרעד</l>
+          <l>עד שמאושר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש זמן לחלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קליפה</title>
+        <singer classification="unknown">איה כורם</singer>
+        <writer>איה כורם</writer>
+        <composer>איה כורם</composer>
+        <album>איה כורם</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קליפה</head>
+        <lg number="1" type="stanza">
+          <l>היה לי קשה מדי בין האנשים,</l>
+          <l>אז התחלתי ללכת והגעתי לפרדס</l>
+          <l>והדמעות שלי נפלו על העלים היבשים,</l>
+          <l>תהית איפה אני ולא באת לחפש.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אחרי ששוב נתתי יותר מדי,</l>
+          <l>אני ארגיש את הקליפה הזאת צומחת מעלי</l>
+          <l>ואיך אני אדקור את כל מי שיתקרב </l>
+          <l>הלא כבר נשבר לי פעם הלב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רצית לברוח מכל מה שמוכר,</l>
+          <l>בין החולצות הישנות שלך הבחנת בי</l>
+          <l>ואם קמט החיוך שלי נראה אותו דבר,</l>
+          <l>הרי תוכל למצוא רחוק מה שמצאת כאן איתי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אחרי ששוב נתתי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ועל כל זה אני אשלם עוד ביוקר </l>
+          <l>על האגו שלי, על האכזבה.</l>
+          <l>אני אזיז את השמיכות כי מחר בבוקר,</l>
+          <l>אני שוב מתעוררת עם עוד שכבה.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עדיין קשה לי בין האנשים,</l>
+          <l>לפעמים אני נזכרת כמה זה כואב</l>
+          <l>איך הדמעות שלי נפלו על העלים היבשים </l>
+          <l>ואיך קשה לשנוא את מי שאתה אוהב.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אחרי ששוב נתתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

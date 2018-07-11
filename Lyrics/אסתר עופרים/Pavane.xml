@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pavane</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>Back On Stage</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Pavane</head>
+        <lg number="1" type="stanza">
+          <l>Belle qui tiens ma vie</l>
+          <l>Captive dans tes yeux,</l>
+          <l>Qui m'as I'âme ravie</l>
+          <l>D'un souris gracieux,</l>
+          <l>Viens tot me secourir</l>
+          <l>Ou me faudra mourir! </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Tes beautés et ta grace</l>
+          <l>Et tes divins propos</l>
+          <l>Ont de moi pris la place</l>
+          <l>Et causé tant de maux</l>
+          <l>En remplissant mon coeur</l>
+          <l>D'une amoureuse ardeur </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Si d'un brulant martyre</l>
+          <l>Tu n'as aucun émoi</l>
+          <l>Si ta beauté m'attire</l>
+          <l>Et ne fait rien pour moi</l>
+          <l>Tant aimer et souffrir</l>
+          <l>Oh! Mieux vaudrait mourir!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

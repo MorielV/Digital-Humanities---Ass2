@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא עוזר</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>שם טוב לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא עוזר</head>
+        <lg number="1" type="stanza">
+          <l>לא עוזר</l>
+          <l>לא חשוב מה שאני אומר</l>
+          <l>זה חוזר</l>
+          <l>זה תמיד אני ולא אחר</l>
+          <l>מוותר</l>
+          <l>לא רוצה להיות עצוב יותר</l>
+          <l>מצטער</l>
+          <l>אשתדל מאוד לא לשקר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לו ידעת על מה אני חושב</l>
+          <l>לו ידעת את מה אני כותב</l>
+          <l>לו ידעת כמה אני אוהב</l>
+          <l>זה היה פשוט מצחיק אותך...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא עוזר</l>
+          <l>לא חשוב מה שאני אומר</l>
+          <l>זה חוזר</l>
+          <l>זה תמיד אני ולא אחר</l>
+          <l>מוותר</l>
+          <l>לא רוצה לריב איתך יותר</l>
+          <l>מצטער</l>
+          <l>אשתדל מאוד לא לשקר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לו ידעת על מה אני חושב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

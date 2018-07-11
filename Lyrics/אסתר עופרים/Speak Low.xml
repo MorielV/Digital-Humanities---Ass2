@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Speak Low</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>Back On Stage</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Speak Low</head>
+        <lg number="1" type="stanza">
+          <l>Speak low </l>
+          <l>when you speak, love</l>
+          <l>Our summer day </l>
+          <l>withers away too soon, too soon</l>
+          <l>Speak low </l>
+          <l>when you speak, love</l>
+          <l>Our moment is swift, </l>
+          <l>like ships adrift, </l>
+          <l>we're swept apart, too soon.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Speak low, darling, speak low</l>
+          <l>Love is a spark, </l>
+          <l>lost in the dark </l>
+          <l>too soon, too soon</l>
+          <l>I feel wherever I go</l>
+          <l> that tomorrow is near,</l>
+          <l> tomorrow is here </l>
+          <l>and always too soon</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Time is so old </l>
+          <l>and love so brief.</l>
+          <l>Love is pure gold </l>
+          <l>and time a thief</l>
+          <l>We're late, darling, we're late</l>
+          <l>The curtain descends, </l>
+          <l>ev'rything ends </l>
+          <l>too soon, too soon</l>
+          <l>I wait, darling, I wait</l>
+          <l>Will you speak low to me, </l>
+          <l>speak love to me and soon.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יושב בכורסא</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יושב בכורסא</head>
+        <lg number="1" type="stanza">
+          <l>יושב בכורסא עירום בכורסא</l>
+          <l>טלויזיה שקטה אלי מביטה</l>
+          <l>הוזה בכורסא</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש לפעמים רעיון בנמצא</l>
+          <l>אני חש התקרבות לעיתים נדירות</l>
+          <l>לעיתים נדירות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>משהו לפת בי ועיני</l>
+          <l>ועיני היפות בוהות</l>
+          <l>לא התאוששתי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מורעל ועייף חוזר לכורסא</l>
+          <l>חסרה לי תמונה שיעמום בכורסא</l>
+          <l>חסר לי אויר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>משהו לפת בי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

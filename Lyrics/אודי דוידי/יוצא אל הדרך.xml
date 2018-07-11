@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יוצא אל הדרך</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יוצא אל הדרך</head>
+        <lg number="1" type="stanza">
+          <l>שמחה נמהלת בתקווה, דמעה בפחד</l>
+          <l>היום אתה הולך לדרכך</l>
+          <l>עומד בחלון ומנגב דמעה של נחת</l>
+          <l>ומבטי עוקב אחר גבך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יוצא אל הדרך</l>
+          <l>אל דרך חדשה</l>
+          <l>סע בזהירות, זו הדרך שלך</l>
+          <l>מותיר מאחוריך</l>
+          <l>שובל של הרגשה</l>
+          <l>יוצא שוב אל דרך חדשה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא שחיכיתי ליום הזה שבו תצעד החוצה</l>
+          <l>החוצה אל עבר עולמך</l>
+          <l>כשזה מגיע שוב מרגיש, משהו מחלחל בי</l>
+          <l>האם זו דאגה או גאווה?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יוצא אל הדרך</l>
+          <l>אל דרך חדשה</l>
+          <l>סע בזהירות, זו הדרך שלך</l>
+          <l>בחוץ צווחות זאבים </l>
+          <l>נושפים אחר גבך</l>
+          <l>היה זהיר, בן, בדרך חדשה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשתתעייף מן המסע הזה, מסע חייך</l>
+          <l>אני עוד אחכה בחלונך</l>
+          <l>תשוב על עקבותיך, תחזור אל מקומך</l>
+          <l>תצא שוב אל דרך חדשה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יוצא אל הדרך...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כל כך חיכיתי ליום הזה, שבו תשוב הביתה</l>
+          <l>כמה טוב שבאת חזרה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

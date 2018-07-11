@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מישהו הולך תמיד איתי 2</title>
+        <singer classification="unknown">אגם בוחבוט</singer>
+        <writer>רמי קידר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מישהו הולך תמיד איתי</head>
+        <lg number="1" type="stanza">
+          <l>היו ימים חמים ימי בצורת</l>
+          <l>פני יבשו כסדק אדמה</l>
+          <l>שדי קמל ולא נותר לקצור את</l>
+          <l>שאלתי, לחשתי, בשביל מה?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>החורף שוב היכה בי קור כחרב</l>
+          <l>והמבט כה סגרירי בשתי עיני</l>
+          <l>ומסדקי קירות ניבט העצב</l>
+          <l>שאלתי, לחשתי, עד מתי?</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אך לעת ערב עם רוח ערב</l>
+          <l>עלה נושר לו על גג ביתי,</l>
+          <l>אני יודעת אני שומעת</l>
+          <l>מישהו הולך תמיד איתי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני זוכרת בדידותי זועקת</l>
+          <l>אליט פני בשתי כפות ידי</l>
+          <l>את צערי חילקתי עם פת לחם</l>
+          <l>שאלתי, האומנם ואם כדאי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את תפילתי אשא כך הלאה הלאה</l>
+          <l>עוד לוחשות שפתי מתוך עוני</l>
+          <l>אני יודעת מישהו למעלה</l>
+          <l>רואה אור עששית בחלוני</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אך לעת ערב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

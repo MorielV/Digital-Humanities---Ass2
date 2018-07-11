@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בזכותך</title>
+        <singer classification="male singer">איציק שמלי</singer>
+        <writer>איציק שמלי</writer>
+        <composer>איציק שמלי</composer>
+        <album>סיפור אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בזכותך</head>
+        <lg number="1" type="stanza">
+          <l>זכיתי וכל יום אני אומר לאל תודה</l>
+          <l>על האחת שלי נתן שבשבילי נולדה</l>
+          <l>כשקר היא מחממת, כשעצוב תתן שמחה</l>
+          <l>אני יודע בשבילי את היחידה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בזכותך היום אני קיים</l>
+          <l>בזכותך כל רגע הוא מושלם</l>
+          <l>בזכותך מבין ששנינו יחד זה הכל</l>
+          <l>כי בזכותך היום אני יכול</l>
+          <l>לומר ש...</l>
+          <l>בזכותך היום אני קיים</l>
+          <l>בזכותך כל רגע הוא מושלם</l>
+          <l>בזכותך מבין ששנינו יחד זו ברכה</l>
+          <l>כי בזכותך מוכן לאהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שנים שלי חיפשתי די פינה שקטה ללב</l>
+          <l>היום אני חזק כי את כוחי ממך שואב</l>
+          <l>ויש בך את הקסם לעודד גם כשקשה</l>
+          <l>אני אתן הכל רק בשבילך</l>
+          <l>ובכל יום את תשמעי אותי אומר ש...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בזכותך היום אני קיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

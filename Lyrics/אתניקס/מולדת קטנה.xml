@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מולדת קטנה</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>בדרך שלך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מולדת קטנה</head>
+        <lg number="1" type="stanza">
+          <l>כשאגדל יהיה לי כוח</l>
+          <l>כי הכוח מסדר הכל</l>
+          <l>לא, לא ארצה לברוח</l>
+          <l>כשאגדל אהיה גיבור גדול</l>
+          <l>בטילים וביוזמה</l>
+          <l>אנפץ על מוסכמה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשאגדל יהיה לי "פאנטום"</l>
+          <l>ומחסן של כל מה שבוער</l>
+          <l>אקנה מכרות אורניום</l>
+          <l>אשתלט על כל מה שאחר</l>
+          <l>אהיה אזרח מסור</l>
+          <l>ולכולם שיהיה ברור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני הולך להיות "תותח"</l>
+          <l>אתם תראו מי פה הגבר</l>
+          <l>אני הולך להיות שלך</l>
+          <l>תראי הכל יהיה בסדר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מולדת קטנה, אני אהיה שלה לה לה לה</l>
+          <l>כמעט כל שנה אבחר לי ממשלה לה לה לה</l>
+          <l>אכבוש ואשחרר</l>
+          <l>זה טוב לרצות יותר</l>
+          <l>ואולי... גם לוותר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אהיה קצין גבוה</l>
+          <l>עם חזה נפוח כמו בלון</l>
+          <l>לא, לא ארצה לשמוע</l>
+          <l>הרי אומרים שאין כאן פתרון</l>
+          <l>כאן הכוח מדבר</l>
+          <l>אולי צריך פתרון אחר</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אולי לא טוב להיות "תותח"</l>
+          <l>ולא צריך להיות פה גבר</l>
+          <l>להשתנות אני מוכרח</l>
+          <l>ואז אולי יהיה בסדר</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>מולדת קטנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

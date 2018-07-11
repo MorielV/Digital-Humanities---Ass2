@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלך המגרש</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>זאב נחמה</writer>
+        <composer>אקורדים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלך המגרש</head>
+        <lg number="1" type="stanza">
+          <l>הייתי נער בשכונה יפה</l>
+          <l>לכדורגל היתה לי אהבה</l>
+          <l>הייתי רץ, מבקיע בין החיבורים</l>
+          <l>ימי ילדות מאושרים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וכשגדלתי לימדו אותי תמיד</l>
+          <l>איך לנצח ואיך לא להפסיד</l>
+          <l>רציתי להיות אלוף האלופים</l>
+          <l>ולכבודי היו שרים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>או... חולה על כדורגל</l>
+          <l>או... חבל לי על הזמן</l>
+          <l>או... הניפו את הדגל</l>
+          <l>או... הגביע כבר מוכן -</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש בי אור, חוגג עד אור הבוקר</l>
+          <l>יש בי אור, קבלו אלוף חדש</l>
+          <l>יש בי אור, אני תמיד בכושר</l>
+          <l>תנו כבוד למלך המגרש</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תמיד רציתי לתת את הנשמה</l>
+          <l>עם כל הכוח לכבוש את העונה</l>
+          <l>אדם צריך לשאוף לכל התארים</l>
+          <l>זו משנתם של אלופים -</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>או... חולה על כדורגל...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>יש בי אור, חוגג עד אור הבוקר</l>
+          <l>יש בי אור, קבלו אלוף חדש</l>
+          <l>יש בי אור, אני תמיד בכושר</l>
+          <l>תנו כבוד למלך המגרש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

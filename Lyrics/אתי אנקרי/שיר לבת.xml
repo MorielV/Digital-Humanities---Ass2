@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר לבת</title>
+        <singer classification="female singer">אתי אנקרי</singer>
+        <writer>אתי אנקרי</writer>
+        <composer>אתי אנקרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר לבת</head>
+        <lg number="1" type="stanza">
+          <l>קחי את החופש שביקשתי לעצמי</l>
+          <l>את הכנפיים לציפור שבנפשי</l>
+          <l>תקרתך שמיים לרגלייך אדמה</l>
+          <l>את תטבלי גופך במים כשייבש לך בנשמה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קחי את הדרך שבאה לקראתך</l>
+          <l>תראי איך היא עוברת ומשנה הליכתך</l>
+          <l>וכשאת אוהבת היי נאמנה</l>
+          <l>לקול שגואה בך שגוהה בך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קחי את החופש שביקשתי לעצמי</l>
+          <l>את הכנפיים לציפור שבנפשי</l>
+          <l>ואם את הולכת לא תהיה זאת עזיבה</l>
+          <l>כל העולם הוא בית לציפור במעופה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

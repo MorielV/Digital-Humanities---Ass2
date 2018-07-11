@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוא נחיה</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>אילן וירצברג</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוא נחיה</head>
+        <lg number="1" type="stanza">
+          <l>בוא לעוף אל השמיים</l>
+          <l>בוא תרגיש חופשי לנשום</l>
+          <l>בוא בלי חשש לפרוש כנפיים</l>
+          <l>בוא פשוט לחיות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בוא לצלול עמוק במים</l>
+          <l>בוא תתרומם לשאוף אוויר</l>
+          <l>בוא לדהור כמו סוס בלי רסן</l>
+          <l>בוא פשוט לחיות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בוא נחייה, עד שנמות</l>
+          <l>בוא לא נמות, עד שנמות</l>
+          <l>בוא נחייה, כל זמן שנחיה</l>
+          <l>בוא לא נמות כשנחיה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בוא קרוב אל תוך היופי</l>
+          <l>בוא תושיט יד פשוט לקטוף</l>
+          <l>בוא לחוש, צמוד אל לחי</l>
+          <l>בוא פשוט לחיות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בוא נחייה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

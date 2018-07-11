@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחת בעולם</title>
+        <singer classification="unknown">אוריאל שאלתיאל</singer>
+        <writer>חמוטל בן זאב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחת בעולם</head>
+        <lg number="1" type="stanza">
+          <l>בך אני שומע</l>
+          <l>מנגינות שעולות בי</l>
+          <l>וממך שואב את הכוחות איתך, ללכת...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בתוכי יודע וימים עוד יגידו</l>
+          <l>בשבילך אשיר על מה שאת, כל חיי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי את לבד, יודעת מה עובר בי</l>
+          <l>את רואה את האור בין הצל השחור</l>
+          <l>את, כן את הקול שמתנגן בי,</l>
+          <l>את מכולם, רק אחת בעולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואני אומר לך שאפשר כבר לנוח</l>
+          <l>מחיפוש ארוך ומתמשך אל תוך עצמנו</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את אותי יודעת, וכשאת משתתקת</l>
+          <l>כל גופי אומר לך, מנגינה שיר עלינו</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי את לבד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

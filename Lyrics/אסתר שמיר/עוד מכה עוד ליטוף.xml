@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד מכה עוד ליטוף</title>
+        <singer classification="female singer">אסתר שמיר</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>אסתר שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד מכה עוד ליטוף</head>
+        <lg number="1" type="stanza">
+          <l>השמים עומדים על מקומם </l>
+          <l>רק אנחנו זזים עד מאוד </l>
+          <l>האדמה לא שינתה מקום מעולם </l>
+          <l>אך צעדינו נוטים לנפול </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>השמים עומדים על מקומם </l>
+          <l>רק אנחנו רוצים שינוי </l>
+          <l>מעולם לא יכולנו לשנות דבר </l>
+          <l>מעולם לא היה סיכוי </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עם האור העובר וזורם מבפנים </l>
+          <l>עם החושך, החושך הבא בצידו </l>
+          <l>עוד ליטוף ומכה, עוד מכה וליטוף </l>
+          <l>בנחת, כל דבר בעיתו </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>השמים עומדים על מקומם </l>
+          <l>גם בשעות הכאב והצחוק </l>
+          <l>רוחות הגורל סובבות לאיטן </l>
+          <l>לנשאר ולהולך רחוק </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עם האור העובר וזורם מבפנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

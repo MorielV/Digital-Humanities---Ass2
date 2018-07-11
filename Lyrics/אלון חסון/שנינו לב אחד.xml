@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שנינו לב אחד</title>
+        <singer classification="unknown">אלון חסון</singer>
+        <writer>אלון חסון</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שנינו לב אחד</head>
+        <lg number="1" type="stanza">
+          <l>לילות שאני חש שאת יופיך לגמתי</l>
+          <l>כמו יין משובח אותך אלי נשמתי</l>
+          <l>מה יפה את למולי זכה את וזוהרת</l>
+          <l>את הכוכב שמעלי ולא אדע אחרת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם תשימי לב לשנינו</l>
+          <l>שנינו לב אחד</l>
+          <l>אין מקום לחץ ביננו</l>
+          <l>אין מקום לאף אחד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הנה נכנס עוד יום חדש ואת קצת מאחרת</l>
+          <l>אני אדם עם לב חלש ואת עושה לי סרט</l>
+          <l>אולי את מפתה אולי את מכשפת</l>
+          <l>לאן שלא אסע ילדה את אחרי רודפת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם תשימי לב לשנינו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

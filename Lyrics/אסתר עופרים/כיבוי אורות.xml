@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כיבוי אורות 2</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>נעמי שמר</writer>
+        <composer>נעמי שמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כיבוי אורות</head>
+        <lg number="1" type="stanza">
+          <l>דרך רב הגדוד הלך</l>
+          <l>אל המדבר</l>
+          <l>על תהום שבילו פסח</l>
+          <l>וגם עבר</l>
+          <l>דרך אין קצה לו</l>
+          <l>עד מראש הסלע</l>
+          <l>קול החצוצרות קרא:</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ליל בא</l>
+          <l>אל המדבר</l>
+          <l>ממדורות עשן עולה</l>
+          <l>וצליל תופים נדם, נדם</l>
+          <l>על ערבות ניצת ירח</l>
+          <l>ופניו כדם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שר חייל שירו ברוח</l>
+          <l>מול ההר</l>
+          <l>הגדוד עייף ינוח</l>
+          <l>במדבר</l>
+          <l>שר ותוף עונה לו</l>
+          <l>עד מראש הסלע</l>
+          <l>קול החצוצרות יקרא:</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ליל בא...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שים שלום אל אהלינו</l>
+          <l>במדבר</l>
+          <l>על תהום פסע גדודנו</l>
+          <l>גם עבר</l>
+          <l>שורותיו חשלה</l>
+          <l>עת מראש הסלע</l>
+          <l>קול החצוצרות יקרא:</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ליל בא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

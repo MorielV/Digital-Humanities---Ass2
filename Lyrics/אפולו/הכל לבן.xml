@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכל לבן</title>
+        <singer classification="unknown">אפולו</singer>
+        <writer>דורון בראונשטיין</writer>
+        <composer>דורון בראונשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכל לבן</head>
+        <lg number="1" type="stanza">
+          <l>הכל כל כך לבן</l>
+          <l>הכל כל כך לבן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני מת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הכל כל כך לבן</l>
+          <l>הכל כל כך לבן</l>
+          <l>שאני מת</l>
+        </lg>
+        <lg number="4" type="stanza" />
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תסתכלו עליי</l>
+          <l>תסתכלו עליי</l>
+          <l>אני כבר לא בן אדם</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני עף באוויר</l>
+          <l>אני עף באוויר</l>
+          <l>אני יונה</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>מלמעלה רואים עצים</l>
+          <l>עצים ובניינים</l>
+          <l>רכבת גם</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>אור חזק</l>
+          <l>אור חזק</l>
+          <l>אני שומע קולות</l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>הכל כל כך לבן</l>
+          <l>הכל כל כך לבן</l>
+          <l>אני מת</l>
+        </lg>
+        <lg number="10" type="stanza">
+          <l>הכל כל כך לבן</l>
+          <l>הכל כל כך לבן</l>
+          <l>שאני מת</l>
+        </lg>
+        <lg Chorus="yes" number="11" type="stanza">
+          <l>תסתכלו עליי</l>
+          <l>תסתכלו עליי</l>
+          <l>אני כבר לא בן אדם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

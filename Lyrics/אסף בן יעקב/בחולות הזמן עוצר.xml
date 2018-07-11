@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחולות הזמן עוצר</title>
+        <singer classification="unknown">אסף בן יעקב</singer>
+        <writer>אסף בן יעקב</writer>
+        <composer>אסף בן יעקב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחולות הזמן עוצר</head>
+        <lg number="1" type="stanza">
+          <l>ולפעמים</l>
+          <l>בזמן של השקיעה</l>
+          <l>נשכבים על החוף</l>
+          <l>ושוקעים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ולפעמים עוברת עוד הזדמנות</l>
+          <l>מנצלים את השקט </l>
+          <l>לויכוח אלחוט</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בחולות הזמן עוצר</l>
+          <l>שוכבים לנוח</l>
+          <l>על החול</l>
+          <l>אבק של חוף</l>
+          <l>של ים </l>
+          <l>וגם של רוח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ולפעמים</l>
+          <l>בבוקר מנגנים</l>
+          <l>שותקים על גדר</l>
+          <l>בועטים בעוד אבן</l>
+          <l>ולפעמים, אתה לא מספר</l>
+          <l>מתחפש ומופיע כמו מישהו אחר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בחולות הזמן עוצר...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ואחרי שחזרנו כבר כמה פעמים</l>
+          <l>לטעום לגלות להתעורר שוב אל החיים</l>
+          <l>פתאום יום אחד</l>
+          <l>נשתחרר</l>
+          <l>נלחץ יד</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>בחולות הזמן עוצר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

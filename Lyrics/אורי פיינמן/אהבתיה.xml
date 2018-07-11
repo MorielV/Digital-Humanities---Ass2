@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבתיה</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>תרצה אתר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבתיה</head>
+        <lg number="1" type="stanza">
+          <l>היא בליבי עכשיו, בתוך ליבי,</l>
+          <l>כמו הרבה שבילים</l>
+          <l>כמו הרבה צללים</l>
+          <l>כמו עשן.</l>
+          <l>היא רק שלי עכשיו, היא בתוכי,</l>
+          <l>כנוף הרבה עלים</l>
+          <l>כמי נהר כחולים,</l>
+          <l>עכשיו היא כאן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהבתיה</l>
+          <l>אני יודע זאת פתאום,</l>
+          <l>אהבתיה</l>
+          <l>פתאום עכשיו, פתאום היום.</l>
+          <l>כן היא שלי עכשיו</l>
+          <l>כמו השיר,</l>
+          <l>עולה היא מתוכי,</l>
+          <l>עולה בכל כוחי,</l>
+          <l>כמו השיר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני קורא בקול, בני אדם</l>
+          <l>ומרחבי אי שם</l>
+          <l>וכל רוחות הים והגלים.</l>
+          <l>שמעו גגות העיר, שמעו כבישים, בתים ואנשים </l>
+          <l>דממות ורעשים שמעו קולי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהבתיה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואת אייך בכלל</l>
+          <l>אייך, אייך?</l>
+          <l>איני קורא בשמך</l>
+          <l>אני רק מצפה לתשובתך</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אם תשמעי אותי ואת שירי, המתפרץ כים </l>
+          <l>צועק אל העולם, אם תשמעי...</l>
+          <l>השמיעי קול ילדה השמיעי קול דברי ספרי הכל</l>
+          <l>אמרי הוא כסיל גדול הוא לא ידע</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אהבתיה...</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>השמיעי קול ילדה השמיעי קול דברי ספרי הכל</l>
+          <l>אמרי הוא כסיל גדול הוא לא ידע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

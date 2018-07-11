@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיכות אהבה</title>
+        <singer classification="unknown">אלונה דניאל דקל שחרור</singer>
+        <writer>דקל שחרור</writer>
+        <composer>ציטרין אלדד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיכות אהבה</head>
+        <lg number="1" type="stanza">
+          <l>עוד חולמת שמתעורר לצידה</l>
+          <l>לשניכם קפה מכינה</l>
+          <l>אבל בלילות נעלם לה בדלתות</l>
+          <l>ובגרון שוב נפגש הקפה בדמעות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובאתר מאחורי תמונה ישנה</l>
+          <l>על מקלדת לאהבה היא גולשת</l>
+          <l>שתהיה יד שכל בוקר תעיר</l>
+          <l>שתיקח אותה תחבק את העיר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בא הלילה מאהביה באים</l>
+          <l>סיכות אהבה בליבה נועצים</l>
+          <l>לוגמים מגופה רגעים שהפכו לתמונה</l>
+          <l>על כרית רטובה שוב יוצאת למסע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ובאתר מאחורי תמונה ישנה</l>
+          <l>על מקלדת לאהבה היא גולשת</l>
+          <l>שתהיה יד שכל בוקר תעיר</l>
+          <l>שתיקח אותה תחבק את העיר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

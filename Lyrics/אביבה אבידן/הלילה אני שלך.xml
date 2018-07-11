@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלילה אני שלך</title>
+        <singer classification="female singer">אביבה אבידן</singer>
+        <writer>אדמית הראל</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלילה אני שלך</head>
+        <lg number="1" type="stanza">
+          <l>לעזוב את הכול, לצאת מהדלת</l>
+          <l>אף אחד לא עונה, אני לא שואלת</l>
+          <l>לעבור על החוק, מצפון מנתקת</l>
+          <l>שנים של שתיקה בי, עוד צועקת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לצאת יחפה, לשבור הבטחה</l>
+          <l>פרפר בבטן, חסר מנוחה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלילה אני שלך</l>
+          <l>לא חושבת על מחר</l>
+          <l>אם אסור או אם מותר</l>
+          <l>הלילה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה תראה בי היום כשאגיע אליך?</l>
+          <l>בעיני התהום, משקפת פחדיך</l>
+          <l>לא עוצרת לחשוב על מחר שיגיע</l>
+          <l>רק עכשיו לאהוב, בלי להבטיח</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

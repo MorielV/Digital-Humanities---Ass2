@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כנהר זורם</title>
+        <singer classification="unknown">אורלי ורדי</singer>
+        <writer>איציק המרמן</writer>
+        <composer>עופר המרמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כנהר זורם</head>
+        <lg number="1" type="stanza">
+          <l>כשתבוא אלי בליל אביב,</l>
+          <l>אל ירח נישא מבטים.</l>
+          <l>כשתניח ראשך הזהוב על כתפי,</l>
+          <l>אז אדע שאתה עוד אוהב.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשתביט אלי, שערי תלטף,</l>
+          <l>אז אמס לי בין שתי זרועותיך.</l>
+          <l>כשתלחש באוזני "אותך אוהב",</l>
+          <l>לא אוכל לעמוד מול קסמיך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי אהבה היא כמו נהר זורם,</l>
+          <l>שאינו נרגע לרגע ורק מתעצם.</l>
+          <l>אהוב אותי תמיד בהווה ובעתיד,</l>
+          <l>כי אין דבר שבינינו יפריד.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשתפסיק להזכיר לי דברים נשכחים</l>
+          <l>ותאמר רק דברים מרגשים.</l>
+          <l>שעבר הוא עבר והווה הוא הווה,</l>
+          <l>בוא נחיה את הרגע הזה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כי אהבה היא כמו נהר זורם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

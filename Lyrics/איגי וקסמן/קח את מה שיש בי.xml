@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קח את מה שיש בי</title>
+        <singer classification="female singer">איגי וקסמן</singer>
+        <writer>איגי וקסמן</writer>
+        <composer>שרון הולצמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קח את מה שיש בי</head>
+        <lg number="1" type="stanza">
+          <l>אחר הצהריים שוכבת לי בחדר</l>
+          <l>שומעת חדשות וזה הסוף</l>
+          <l>תמיד ישנן דקות שאז הכל נהיה בסדר</l>
+          <l>גם אם הן חולפות, הן לא חוזרות</l>
+          <l>ואז אני חושבת, למה נענשתי?</l>
+          <l>בסך הכול רציתי רק אותך</l>
+          <l>יודעת זה חלום מתוק ואי אפשר הכול לרצות</l>
+          <l>מסתפקת רק בנשיקה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קח את מה שיש בי,</l>
+          <l>לא נשאר הרבה וזה שלך</l>
+          <l>אתה תיקח את מה שיש בי,</l>
+          <l>לא רוצה יותר, רוצה אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא תמיד אמר ש"בסוף יהיה בסדר"</l>
+          <l>אבל היה ידוע כשקרן</l>
+          <l>הוא העמיד פנים ואהב אותי בסתר,</l>
+          <l>היה לו כישרון כמו של שחקן</l>
+          <l>ברגעים החלשים היינו זוג נאהבים</l>
+          <l>אבל ידענו זה לזמן מוגבל</l>
+          <l>בסוף כששוב ברח מכאן</l>
+          <l>ורק השד חושד לאן</l>
+          <l>שוב נתחיל הכל מהתחלה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קח את מה שיש בי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

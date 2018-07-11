@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קסם שנשאר</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>יוני רועה</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קסם שנשאר</head>
+        <lg number="1" type="stanza">
+          <l>את המנגינות חיברתי, רק שתשמעי</l>
+          <l>את החלומות רקמתי, רק שתחלמי</l>
+          <l>האהבה שלי אליך היא ים שלא נגמר</l>
+          <l>והמבט שבעיניך זה קסם שנשאר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואני כאן עדיין מחכה לך</l>
+          <l>מדמיין אותך בין השורות</l>
+          <l>את האהבה שלי אני אשמור לך</l>
+          <l>בתוך קופסת שירים מול השקיעות</l>
+          <l>את האהבה שלי אני אשמור לך</l>
+          <l>בתוך קופסת שירים בין השורות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה הבטחות הבטחתי רק שתדעי</l>
+          <l>כמה רגעים ציירתי רק שתאהבי</l>
+          <l>האהבה הזאת אליך היא גל שלא נגמר</l>
+          <l>והאדום שבשפתייך זה טעם שנשאר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואני כאן עדיין מחכה לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

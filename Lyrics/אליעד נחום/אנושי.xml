@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אנושי</title>
+        <singer classification="unknown">אליעד נחום</singer>
+        <writer>אליעד נחום</writer>
+        <composer>אליעד נחום</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אנושי</head>
+        <lg number="1" type="stanza">
+          <l>לומד להיות קל עם עצמי, </l>
+          <l>לכל תקופה יש סוף והכל זמני. </l>
+          <l>כמה פעמים אמרתי שלום, </l>
+          <l>לומד להיות שלם עם שמש, </l>
+          <l>שמיים וירח. כוכבים משאירים לי אבק בחלום. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה שבא בקלות, הולך בקלות. </l>
+          <l>לא צריך למהר, השביל מתפתל, </l>
+          <l>דרך תתעקם אם תוותר על עצמך </l>
+          <l>ואם עשית טעות שרדפה עוד טעות </l>
+          <l>סיבה לאחר, יש מי ששומר. </l>
+          <l>דרך תתיישר, אל תהיה קשה עם עצמך. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני רק אנושי. </l>
+          <l>גם אני, טועה לפעמים. </l>
+          <l>גם אני, דואג כשעולה הבוקר. </l>
+          <l>רק אנושי. </l>
+          <l>גם אני, טועה לפעמים. </l>
+          <l>גם אני, שוכח לומר תודה על אושר. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לומד לקבל את עצמי, </l>
+          <l>עם כל החסרונות וההפסדים, </l>
+          <l>כמה פעמים ראיתי תהום. </l>
+          <l>לומד להיות שלם עם שמש, </l>
+          <l>שמיים וירח, כוכבים משאירים לי אבק בחלום. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואם עשית טעות, שרדפה עוד טעות, </l>
+          <l>סיבה לאחר, יש מי ששומר, </l>
+          <l>דרך תתיישר, אל תהיה קשה עם עצמך. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני רק אנושי. </l>
+          <l>גם אני, טועה לפעמים. </l>
+          <l>גם אני, דואג כשעולה הבוקר. </l>
+          <l>רק אנושי. </l>
+          <l>גם אני, טועה לפעמים. </l>
+          <l>גם אני, שוכח לומר תודה על אושר.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

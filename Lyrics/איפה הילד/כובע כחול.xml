@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כובע כחול</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כובע כחול</head>
+        <lg number="1" type="stanza">
+          <l>למה אני עצוב</l>
+          <l>רוצה לברוח</l>
+          <l>לא יודע לאן</l>
+          <l>לא יודע לאן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הכדור שנזרק לעברי</l>
+          <l>לא מהווה אתגר עבורי</l>
+          <l>כולו פלסטלינה רכה</l>
+          <l>אני תופס אותו ומקשיב</l>
+          <l>לצלילים לקולות הרכים</l>
+          <l>(אני שר איתם)</l>
+          <l>לצלילים לקולות הרכים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש לי כובע כחול</l>
+          <l>מספר שלוש יש לו כובע כחול</l>
+          <l>כובע כחול</l>
+          <l>מספר שלוש יש לו כובע כחול</l>
+          <l>כובע כחול</l>
+          <l>כובע כחול</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לאן מתפזר הדם</l>
+          <l>האשמה הגדולה שלנו</l>
+          <l>לא יודע לאן</l>
+          <l>לא יודע לאן</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>החושך קורא לי לבוא</l>
+          <l>היי סבלנית</l>
+          <l>וביחד נקשיב</l>
+          <l>ביחד נקשיב</l>
+          <l>לצלילים לקולות הרכים</l>
+          <l>(אני שר איתם)</l>
+          <l>לצלילים לקולות הרכים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יש לי כובע כחול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

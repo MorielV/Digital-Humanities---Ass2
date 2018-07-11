@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה כפויה</title>
+        <singer classification="female singer">איגי וקסמן</singer>
+        <writer>איגי וקסמן</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה כפויה</head>
+        <lg number="1" type="stanza">
+          <l>אישה במקום שאין בו אנשים</l>
+          <l>אצבעות נקניקיות עם לק</l>
+          <l>אישה שמוחקת לך את הפנים</l>
+          <l>אישה ששוטפת את החיים</l>
+          <l>בדם ביין עתיק כמוה</l>
+          <l>אישה שמשתלטת על אנשים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמו רוח כל העולם סוגד להבל פיה</l>
+          <l>שמחמצן את האוויר</l>
+          <l>לשום מקום לא תגיע</l>
+          <l>היא לא תגיע</l>
+          <l>לשום מקום לא תגיע</l>
+          <l>היא לא תגיע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>במשפט צועקים לה "בוגדת"</l>
+          <l>היא צוחקת, היא מטומטמת</l>
+          <l>השמנה שוב תחפון שדיה</l>
+          <l>עד שגזר הדין יכה בה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמו רוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

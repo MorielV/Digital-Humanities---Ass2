@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ג מלי פורוש</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>אהוד בנאי</writer>
+        <composer>אהוד בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ג'מלי פורוש</head>
+        <lg number="1" type="stanza">
+          <l>הנה היא באה ג'מלי פורוש</l>
+          <l>כמה יפה ג'מלי פורוש</l>
+          <l>הנה היא שוב יורדת ג'מלי פורוש</l>
+          <l>הריעו הריעו ג'מלי פורוש</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ג'ונהמן ג'מלי פורוש</l>
+          <l>עזיז זהב ג'מלי פורוש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הנה היא באה ג'מלי פורוש</l>
+          <l>כמה יפה ג'מלי פורוש</l>
+          <l>הנה היא שוב יורדת ג'מלי פורוש</l>
+          <l>כתר זהב לראש ג'מלי פורוש</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ג'ונהמן ג'מלי פורוש</l>
+          <l>צ'קונם ג'מלי פורוש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

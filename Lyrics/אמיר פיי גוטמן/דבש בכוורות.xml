@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דבש בכוורות</title>
+        <singer classification="male singer">אמיר פיי גוטמן</singer>
+        <writer>מאיר גולדברג</writer>
+        <composer>אסף אמדורסקי</composer>
+        <album>דבש בכוורות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דבש בכוורות</head>
+        <lg number="1" type="stanza">
+          <l>מתוק אבל יותר מתוק</l>
+          <l>תחת סכנה</l>
+          <l>מה יותר מזמין ממה</l>
+          <l>מה יותר מזמין ממה</l>
+          <l>שמזמין צרות</l>
+          <l>תלך עם זה הכי רחוק</l>
+          <l>ותבוא בלי הזמנה</l>
+          <l>בוא בלי הזמנה</l>
+          <l>ניגר ומחכה לך דבר בכוורות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הנה מבחן האומץ שם בחוץ</l>
+          <l>דבש בלי עוקץ</l>
+          <l>דבש בלי עוקץ</l>
+          <l>רוץ ילד רוץ</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האור קורץ ולא רחוק</l>
+          <l>כל העיר תכונה</l>
+          <l>סכנות מכל פינה סכנות מכל פינה</l>
+          <l>פחד...</l>
+          <l>וככה זה הכי מתוק</l>
+          <l>בוז לסכנה</l>
+          <l>בוז לסכנה</l>
+          <l>ניגר ומחכה לך דבר בכוורות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הנה מבחן האומץ...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>גלה את כח המשיכה</l>
+          <l>של הפחד שלך</l>
+          <l>רוץ ילד רוץ...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הנה מבחן האומץ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

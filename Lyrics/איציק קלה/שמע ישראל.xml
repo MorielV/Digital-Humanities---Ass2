@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמע ישראל</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>איציק קלה</composer>
+        <album>לך אלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמע ישראל</head>
+        <lg number="1" type="stanza">
+          <l>העיניים מביטות, הידיים נשואות</l>
+          <l>השפתיים לוחשות, בתפילה ממלמלות</l>
+          <l>שלא אפול שלא אמעד </l>
+          <l>שאהיה חזק לעד</l>
+          <l>המכשולים כמו חבל דק</l>
+          <l>הושט לי יד שלא אמעד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ברשתות לא רוצה ליפול</l>
+          <l>בין דייגים רוצה לצלול</l>
+          <l>במצולות קורא בקול</l>
+          <l>שמע ישראל - אתה הכל יכול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סלול לי דרך בטוחה בין כל השבילים</l>
+          <l>הראה לי דרך נכונה בין שבילי הקוצים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בך אבטח כל החיים בדרכך לעולמים</l>
+          <l>גם ברגע של משבר אזכור אותך לא אוותר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

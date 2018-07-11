@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שדות זרים</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>שם טוב לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שדות זרים</head>
+        <lg number="1" type="stanza">
+          <l>שדות זרים, שדות זרים</l>
+          <l>בא לי לפעמים שדות זרים</l>
+          <l>לשוטט במרחבים</l>
+          <l>ולתפוס געגועים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא מחפש שם אלוהים</l>
+          <l>רק מביט, מביט באנשים</l>
+          <l>בטובים וברעים</l>
+          <l>ולומד על החיים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אבל כמו מטה קסמים</l>
+          <l>חוזר מהר לחברים</l>
+          <l>לריחות המוכרים</l>
+          <l>לשירים העבריים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שדות זרים, שדות זרים</l>
+          <l>בא לי לפעמים שדות זרים</l>
+          <l>לטייל בפרדסים</l>
+          <l>ולנגוס בתפוחים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אבל כמו מטה קסמים...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לא מחפש שם אלוהים</l>
+          <l>רק מקשיב, מקשיב לסיפורים</l>
+          <l>אגדות של אחרים</l>
+          <l>ולומד על החיים</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אבל כמו מטה קסמים...</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>שדות זרים, שדות זרים</l>
+          <l>בא לי לפעמים שדות זרים</l>
+          <l>שדות זרים, שדות זרים</l>
+          <l>שדות זרים, שדות זרים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

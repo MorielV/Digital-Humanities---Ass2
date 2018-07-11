@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק לקוות</title>
+        <singer classification="unknown">אוראל כהן</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>אבי כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק לקוות</head>
+        <lg number="1" type="stanza">
+          <l>יום חולף יורדת אפלה</l>
+          <l>ויום חדש מגיע</l>
+          <l>ומה יהיה איש לא יידע</l>
+          <l>האם חלום יופיע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל תפילה מתוך הלב</l>
+          <l>תחזק ותעלים את הכאב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פזמון</l>
+          <l>בחיים יש עליות וירידות</l>
+          <l>צריך תמיד רק לקוות</l>
+          <l>אבל האמונה</l>
+          <l>בתוך הנשמה </l>
+          <l>תביא לנו בשורות טובות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לפעמים הדרך לא קלה</l>
+          <l>ואין פינה לנוח</l>
+          <l>וכל דקה, היא כמו שעה</l>
+          <l> כלום אינו בטוח</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אבל תפילה מתוך הלב</l>
+          <l>תחזק ותעלים את הכאב</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>פזמון </l>
+          <l>בחיים יש עליות וירידות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ליל אמש</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>נעמי שמר</writer>
+        <composer>נעמי שמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ליל אמש</head>
+        <lg number="1" type="stanza">
+          <l>כל הכוכבים דולקים הלילה כאן</l>
+          <l>ובדשא שרה ממטרה</l>
+          <l>הוא והיא יוצאים הלילה לדרכם</l>
+          <l>בין הפרדסים והשדרה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>במשעול בלב שדות</l>
+          <l>זוג פוסע לבדו</l>
+          <l>וידה בתוך ידו</l>
+          <l>כברכת שלום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל הכוכבים נושרים אל הביצות</l>
+          <l>וטובעים בתוך ערפל כבד</l>
+          <l>הוא והיא שומעים פעמוני חצות</l>
+          <l>וליבם עונה להם כהד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>במשעול בלב שדות...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כל הכוכבים כבים עם שחר</l>
+          <l>הרקיע צח וגם אפור</l>
+          <l>הוא והיא חוזרים בדרך יחד -</l>
+          <l>רק ליל אמש, הוא לא יחזור</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>במשעול בלב שדות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

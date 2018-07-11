@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלילה שלנו 2</title>
+        <singer classification="unknown">אביאל מור</singer>
+        <writer>אביאל מור</writer>
+        <composer>דניאל נהרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלילה שלנו</head>
+        <lg number="1" type="stanza">
+          <l>מהרגע שבך פגשתי אני שלך ידעתי                                    </l>
+          <l>ביופי שלך נישבתי</l>
+          <l>וללב חדרת לי </l>
+          <l>עכשיו אותך נושם</l>
+          <l>עליך רק חולם שר מיכל הלב</l>
+          <l>מביט בך ואומר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את בת של מלך את הנסיכה</l>
+          <l>וזה הלילה שלנו כמה את יפה</l>
+          <l>איתן לך אהבה מהלב והנשמה </l>
+          <l>איתך תמיד אלך באש במיים אהיה לצידך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לכולם אני אמרתי שאני בך התאהבתי </l>
+          <l>רק אצלך מצאתי את כל שחיפשתי </l>
+          <l>עכשיו אותך נושם עליך רק חולם </l>
+          <l>שר מכל הלב מביט בך ואומר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את בת של מלך את הנסיכה</l>
+          <l>וזה הלילה שלנו כמה את יפה</l>
+          <l>איתן לך אהבה מהלב והנשמה </l>
+          <l>איתך תמיד אלך באש במיים אהיה לצידך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

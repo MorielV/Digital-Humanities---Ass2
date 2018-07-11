@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אנחנו שניים</title>
+        <singer classification="unknown">אלירן צור</singer>
+        <writer>אלירן צור</writer>
+        <composer>אלירן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אנחנו שניים</head>
+        <lg number="1" type="stanza">
+          <l>אני רוצה אותך איתי בבוקר ובליל</l>
+          <l>כל יום אני לאלוקים עליך מתפלל</l>
+          <l>אני רוצה אותך אוהב את ריח המנגינה</l>
+          <l>אני תמיד אוהב אותך עם כל הנשמה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם תרצי שבשבילך יפה שלי אתן את כל כולי</l>
+          <l>אשלח לך במכתב אהבתי</l>
+          <l>רק בשבילך יפה שלי אתן את כל שבי</l>
+          <l>כי את אהובתי</l>
+          <l>אנחנו שניים אנחנו שניים עם אלוקים שבשמיים</l>
+          <l>הלב הפסיקי להזיל דמעות</l>
+          <l>עכשיו נגשים שוב חלומות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך אותי תמיד כבשת אותך אני שואל </l>
+          <l>איך אני נתתי לך את היום ואת הליל</l>
+          <l>איך אותי סחפת בעינייך היפות</l>
+          <l>איך אני בך התאהבתי כמו בחלומות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם תרצי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

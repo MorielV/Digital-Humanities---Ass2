@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עכשיו השקט</title>
+        <singer classification="unknown">אבי עברי</singer>
+        <writer>אבי עברי</writer>
+        <composer>אבי עברי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עכשיו השקט</head>
+        <lg number="1" type="stanza">
+          <l>שוב לא אלך היום באיזו דרך</l>
+          <l>מבלי לדעת דרך חזרה</l>
+          <l>מה שברור זה רק מה שבערך</l>
+          <l>ואם אצרח שלא יגידו משוגע</l>
+          <l>שוב לא אקח אותך לאיזה סרט</l>
+          <l>או סתם לגעת בגופך</l>
+          <l>ואם תרצי ואם תרצי אחרת</l>
+          <l>אז לא אכפת לי רק לגעת בליבך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עכשיו השקט ולא מאוחר</l>
+          <l>עכשיו השקט רק עד מחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היום הכל ברור וגם ידוע, ברור שלא אדע</l>
+          <l>ואם נושבת נושבת שוב הרוח,</l>
+          <l>אז איך פתאום זה היא נשבה ונעלמה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עכשיו השקט ולא מאוחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

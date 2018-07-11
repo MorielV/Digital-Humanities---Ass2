@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אצבעות שוקולד</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אהוד מנור</writer>
+        <composer>שם טוב לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אצבעות שוקולד</head>
+        <lg number="1" type="stanza">
+          <l>אצבעות שוקולד מלטפות את פני</l>
+          <l>וזרועות שוקולד מחבקות</l>
+          <l>את הגעת ממלכות רחוקה אל חיי</l>
+          <l>יש לך פנים מתוקות ורכות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשפנייך קרובות ואת בי מביטה</l>
+          <l>בעיניים כל כך עמוקות</l>
+          <l>מתחשק לי לשיר ולצעוק בלי שליטה</l>
+          <l>בין נשיקות ארוכות ארוכות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את מקסימה את כל כך מיוחדת</l>
+          <l>לצידך החיים כמו מסע</l>
+          <l>יש לך תוכנית את בכלל לא פוחדת</l>
+          <l>מה שצריך לעשות את עושה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא אמרתי הרבה, אז אגיד לך היום</l>
+          <l>את אותי מנשימה</l>
+          <l>לפעמים הימים עוד נוגעים בחלום</l>
+          <l>יש לי איתך אהבה מדהימה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את מקסימה את כל כך מיוחדת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

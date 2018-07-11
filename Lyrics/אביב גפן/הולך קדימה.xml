@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הולך קדימה</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>ממנטו מורי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הולך קדימה</head>
+        <lg number="1" type="stanza">
+          <l>הולך קדימה הולך מהר</l>
+          <l>פשוט החלטתי שאני כבר לא עוצר</l>
+          <l>הולך קדימה לא מתייאש</l>
+          <l>אם לא אביט אולי אפסיק</l>
+          <l>כבר להתבייש הולך קדימה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כולם יורים פה בכולם</l>
+          <l>המון זועם שוב ברחוב</l>
+          <l>בצל המלחמה תגיע</l>
+          <l>הזכות שלנו לאהוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הולך קדימה עם מה שיש</l>
+          <l>כי כבר אמרתי ש"עם כובש זה עם טיפש"</l>
+          <l>הולך קדימה עם עוד חולמים</l>
+          <l>כי את המוות ננצח</l>
+          <l>בחיים הולך קדימה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כולם יורים פה בכולם</l>
+          <l>המון זועם שוב ברחוב</l>
+          <l>בצל המלחמה תגיע</l>
+          <l>הזכות שלנו לאהוב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ממילא זה לבד</l>
+          <l>ממילא איש לא מחכה</l>
+          <l>בשומקום עדיף לי ללכת</l>
+          <l>אם לא נלך אז לא נגיע</l>
+          <l>מגיע לנו לאהוב</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כולם יורים פה בכולם</l>
+          <l>המון זועם שוב ברחוב</l>
+          <l>בצל המלחמה נגיע</l>
+          <l>מגיע לנו לאהוב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

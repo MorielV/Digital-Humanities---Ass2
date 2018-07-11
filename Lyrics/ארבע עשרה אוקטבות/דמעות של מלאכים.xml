@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דמעות של מלאכים 3</title>
+        <singer classification="band">ארבע עשרה אוקטבות</singer>
+        <writer>דן מינסטר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דמעות של מלאכים</head>
+        <lg number="1" type="stanza">
+          <l>דמעות של מלאכים.</l>
+          <l>דמעות שקטות</l>
+          <l>דמעות יפות ועצובות.</l>
+          <l>זולגות באופק דמעות ומחפשות...</l>
+          <l>מה הן מבקשות? אהה...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי כשהמלאכים בוכים</l>
+          <l>בעולם אחר,</l>
+          <l>אז בעולם הזה</l>
+          <l>עצוב לנו יותר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דמעות של מלאכים.</l>
+          <l>מדוע הם בוכים המלאכים?</l>
+          <l>אולי בגלל שזה לא קל</l>
+          <l>להיות מלאך,</l>
+          <l>בעולם עצוב כל כך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי כשהמלאכים בוכים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וגם אנחנו כאן</l>
+          <l>רוצים לבכות לבכות איתם</l>
+          <l>מה לעשות? </l>
+          <l>רוצים לבכות והדמעות אינן יורדות,</l>
+          <l>הדמעות אינן יורדות.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי כשהמלאכים בוכים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

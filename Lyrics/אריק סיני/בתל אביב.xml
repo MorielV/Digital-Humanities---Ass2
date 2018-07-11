@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בתל אביב</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>שמעון פרס</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בתל אביב</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>בתל אביב הייתי נער </l>
+          <l>אחוז אהבה, מלא תום </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בתל אביב גילתי סהר </l>
+          <l>תלוי ברחוב, בצהרי היום, תלוי </l>
+          <l>בתל אביב ידעתי צער </l>
+          <l>בערוב היום ואין חלום </l>
+          <l>בתל אביב נפתח לי שער </l>
+          <l>לערגות אתמול שבגרו פתאום </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בתל אביב הייתי נער...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

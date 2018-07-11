@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנה ההומור שלי</title>
+        <singer classification="band">אבטיפוס</singer>
+        <writer>אמיר בן דוד</writer>
+        <composer>אמיר בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנה ההומור שלי</head>
+        <lg number="1" type="stanza">
+          <l>הנה באה מנוחה ליגע</l>
+          <l>הנה בא דיכאון לעמל</l>
+          <l>על כל פעם שאני פוגע</l>
+          <l>באות שלוש שאני מתנצל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לפעמים נדמה שבינתיים</l>
+          <l>אין שום טעם להמשיך ולשאול</l>
+          <l>על כל אחד שנוגע בשמים</l>
+          <l>באים שלושה שמאבדים את הכל</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הנה ההומור שלי פושט את הרגל</l>
+          <l>והביטחון שלי פושט את היד</l>
+          <l>הנה הילדון שבי מניף את הדגל</l>
+          <l>אבל אין מאחוריו אף אחד</l>
+          <l>הוא לבד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הנה באה מנוחה ליגע</l>
+          <l>הנה בא דיכאון לעמל</l>
+          <l>על כל פעם שאני יודע</l>
+          <l>באות שלוש שאני מתבלבל</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הנה ההומור שלי פושט את הרגל</l>
+          <l>והביטחון שלי פושט את היד</l>
+          <l>הנה הילדון שבי מניף את הדגל</l>
+          <l>אבל אין מאחוריו אף אחד</l>
+          <l>הוא לבד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

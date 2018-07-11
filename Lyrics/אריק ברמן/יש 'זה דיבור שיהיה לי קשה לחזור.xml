@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש זה דיבור שיהיה לי קשה לחזור</title>
+        <singer classification="male singer">אריק ברמן</singer>
+        <writer>אריק ברמן</writer>
+        <composer>אריק ברמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש 'זה דיבור שיהיה לי קשה לחזור</head>
+        <lg number="1" type="stanza">
+          <l>אוי ואבוי, נראה שיש לי מה להפסיד. </l>
+          <l>שוקל - מי עלי ללבוש? מי עלי להגיד? </l>
+          <l>ארוחת השבת בביתו של עֶשו, </l>
+          <l>הזכירה לי מה מחכה לי בסתיו, </l>
+          <l>מעבר לים האטלנטי בנמל תל אביב. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש 'זה דיבור שיהיה לי קשה לחזור. </l>
+          <l>שלא יהיה לי אוויר, שלא יהיה לי מקום, </l>
+          <l>וכן, יש סכנה כזו שהתן הממתין על מפתן בן גוריון </l>
+          <l>יילל כל הליל ולא יתן לי לישון. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גאה געגוע ליופיו של הדיבר הרביעי, </l>
+          <l>לריחות של הכרם, לשפת אבי היפואית. </l>
+          <l>אבל שמע אלוהים, הדעתנות.... </l>
+          <l>צרות העיניים... הגאוותנות! </l>
+          <l>המזג החם הלבנטי בנמל תל אביב. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ויש 'זה דיבור שיהיה לי קשה לחזור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

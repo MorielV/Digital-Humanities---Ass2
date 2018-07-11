@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבק ביתי</title>
+        <singer classification="unknown">אביב מארק</singer>
+        <writer>אביב מארק</writer>
+        <composer>אביב מארק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבק ביתי</head>
+        <lg number="1" type="stanza">
+          <l>תאכל אבק, תאכל חצץ</l>
+          <l>תפטם את החרק</l>
+          <l>שב ישר, תשען</l>
+          <l>במקום תסכול - תשכח</l>
+          <l>תחשוב מהר, תבין לאט</l>
+          <l>ותרגיש את המפץ</l>
+          <l>עור אחר, בשר אחר</l>
+          <l>לא עוזר לכאב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני חייב הפסקה</l>
+          <l>ואת יודעת ממה</l>
+          <l>לגבש לי שיטה</l>
+          <l>להפגת האימה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תאכל יפה, תגמור הכל</l>
+          <l>ותרעיב את החיידק</l>
+          <l>שב ישר, תשען</l>
+          <l>במקום תסכול - תשכח</l>
+          <l>תחשוב מהר, תבין לאט</l>
+          <l>ותרגיש את המפץ</l>
+          <l>עור אחר, בשר אחר</l>
+          <l>לא עוזר לי להתמודד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני חייב הפסקה</l>
+          <l>ואת יודעת ממה</l>
+          <l>לגבש לי שיטה</l>
+          <l>להפגת האימה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני מוכרח הפסקה</l>
+          <l>ואת יודעת ממה</l>
+          <l>לגבש לי שיטה</l>
+          <l>להפגת האימה</l>
+          <l>היי, מה?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

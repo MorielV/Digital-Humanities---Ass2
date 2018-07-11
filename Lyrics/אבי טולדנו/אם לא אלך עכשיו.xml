@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם לא אלך עכשיו</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אבי טולדנו</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם לא אלך עכשיו</head>
+        <lg number="1" type="stanza">
+          <l>אל תבכי ילדה שלי</l>
+          <l>כלום לא יעזור</l>
+          <l>זה בגללי ילדה שלי</l>
+          <l>אני מוכרח לעזוב</l>
+          <l>אף פעם לא לימדו אותי</l>
+          <l>בכלל איך לאהוב</l>
+          <l>הכל לקחתי</l>
+          <l>כלום לא נתתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם לפעמים היו ימים יפים</l>
+          <l>שפיזרו ענן שחור למרחקים</l>
+          <l>עכשיו הכל נגמר</l>
+          <l>דבר כבר לא עזר</l>
+          <l>אם לא אלך עכשיו </l>
+          <l>אלך מחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ממקום רחוק כל כך</l>
+          <l>שממנו לא חוזרים</l>
+          <l>כשהלב גמור שבור לאלף רסיסים</l>
+          <l>את פתאום מופיעה</l>
+          <l>נופחת בי חיים</l>
+          <l>הכל מחקתי</l>
+          <l>הכל שכחתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם לפעמים היו ימים יפים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

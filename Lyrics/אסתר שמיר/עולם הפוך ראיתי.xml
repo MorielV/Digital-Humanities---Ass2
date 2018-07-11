@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עולם הפוך ראיתי</title>
+        <singer classification="female singer">אסתר שמיר</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>אסתר שמיר</composer>
+        <album>זה בינך ובין אלוהים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עולם הפוך ראיתי</head>
+        <lg number="1" type="stanza">
+          <l>"עולם הפוך ראיתי", הוא בא ואמר </l>
+          <l>"מכל מגדל שבניתי לא יישאר דבר </l>
+          <l>הזהב מסנוור, הגאווה מסתירה </l>
+          <l>כשיש הרבה "אני אני", נהיה יותר רע </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עולם הפוך ראיתי, מאפסותי אתעלה </l>
+          <l>ומתוך חסרוני אתגלה ואתמלא </l>
+          <l>ובכל געגועי לא ירווני הטל </l>
+          <l>דרך לב סדוק, אור יבוא אל ההיכל </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לב שבור הוא מתנת חסד </l>
+          <l>אלפי ניצוצות של אור </l>
+          <l>צער אל צער </l>
+          <l>צעד אל צעד </l>
+          <l>על מדרגות הדרור </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עולם הפוך ראיתי, שורשי העץ באוויר </l>
+          <l>ואני קרן שמש, שלומדת להאיר </l>
+          <l>המסע אל הפנים, לראות בהיר וברור </l>
+          <l>עולם הפוך ראיתי - אין שלם מלב שבור</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לב שבור הוא מתנת חסד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

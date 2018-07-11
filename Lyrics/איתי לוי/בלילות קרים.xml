@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלילות קרים</title>
+        <singer classification="unknown">איתי לוי</singer>
+        <writer>אבי אוחיון</writer>
+        <composer>אסף צרויה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלילות קרים</head>
+        <lg number="1" type="stanza">
+          <l>כל דבר קטן שרק ביקשת כל דבר קטן</l>
+          <l>לך נתתי את הכל את הקודש והחול </l>
+          <l>את ימיי את לילותיי נתתי</l>
+          <l>כל דבר קטן שרק רצית כל דבר קטן</l>
+          <l>לך נתתי את חיי רואים זאת בעיניי </l>
+          <l>את כל נשימותיי נתתי כל דבר קטן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בלילות קרים אקרא לך שירים ואלטף ברוך</l>
+          <l>בלעדייך אין לי יום אין סיבה לנשום</l>
+          <l>יפות עינייך רק אחרייך אלך שבי לכל מקום</l>
+          <l>לך תמיד אתן יותר כל דבר קטן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל דבר קטן שרק הזכרת כל דבר קטן</l>
+          <l>לך תמיד אתן יותר אני לא אוותר </l>
+          <l>וכמה בליבי נגעת כל דבר קטן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

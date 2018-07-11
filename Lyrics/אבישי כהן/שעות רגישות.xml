@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שעות רגישות</title>
+        <singer classification="unknown">אבישי כהן</singer>
+        <writer>אבישי כהן</writer>
+        <composer>אבישי כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שעות רגישות</head>
+        <lg number="1" type="stanza">
+          <l>מבטך העצוב בלבי עוד נשאר</l>
+          <l>לא אדע דבר מלבדך</l>
+          <l>איך אפשר</l>
+          <l>גם אם לא ניפגש</l>
+          <l>או לא נתרגש שוב</l>
+          <l>מבטך העצוב בלבי נשאר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואולי עוד נזכה לאהוב מקרוב</l>
+          <l>רק הזמן יידע אם זה רע</l>
+          <l>אם זה טוב</l>
+          <l>גם אם לא ניפגש</l>
+          <l>או לא נתרגש שוב</l>
+          <l>מבטך העצוב יישאר קרוב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא ביקשנו כלום רק אהבנו</l>
+          <l>הימים עברו בשתיקה</l>
+          <l>אם ידענו אז לא ידענו</l>
+          <l>אולי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מבטך העצוב בלבי עוד נשאר...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא ביקשנו כלום רק אהבנו...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מבטך העצוב בלבי עוד נשאר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

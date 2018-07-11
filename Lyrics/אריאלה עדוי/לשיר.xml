@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לשיר</title>
+        <singer classification="unknown">אריאלה עדוי</singer>
+        <writer>אריאלה עדוי</writer>
+        <composer>אריאלה עדוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לשיר</head>
+        <lg number="1" type="stanza">
+          <l>פיזרתי לי זרעים </l>
+          <l>באדמה טובה</l>
+          <l>אשקה ואטפח</l>
+          <l>והנה יהפכו לחיים</l>
+          <l>ולי אויר לנשימה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אפזר חיים </l>
+          <l>באהבה גדולה</l>
+          <l>לכל מי שיבקש</l>
+          <l>והנה יהפכו לקרובים אלי</l>
+          <l>ולי אויר לנשימה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ימלאו ראותי עיני וליבי</l>
+          <l>הכרת תודה ורוגע</l>
+          <l>לשיר, לשיר, </l>
+          <l>עד כלות הנשימה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אכתוב לי שיר </l>
+          <l>ומנגינות ורודות</l>
+          <l>נוגעת לא נוגעת</l>
+          <l>והנה יהפכו לפרחים</l>
+          <l>ולי אויר לנשימה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ימלאו ראותי עיני וליבי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני מתגעגע 3</title>
+        <singer classification="unknown">איתמר רוטשילד</singer>
+        <writer>איתמר רוטשילד</writer>
+        <composer>איתמר רוטשילד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני מתגעגע</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אני מתגעגע לכל המקומות </l>
+          <l>בהם אף פעם לא ביקרתי </l>
+          <l>הייתי אז נוסע מעבר לחומות </l>
+          <l>שבהן תמיד עצרתי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל השבילים המטפסים על ההרים בארצות </l>
+          <l>אל האיים המתפרשים אי שם קבוצת קבוצות </l>
+          <l>אל החופים השוממים </l>
+          <l>אל הנופים שבימים טובים אולי יכולתי לראות </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני מתגעגע לכל המקומות </l>
+          <l>אל הזריחות שלא נשמתי </l>
+          <l>והן מזמן שקעו </l>
+          <l>לזיכרונות שלא אספתי </l>
+          <l>והם כבר נשכחו </l>
+          <l>לאיש מהרחוב </l>
+          <l>שרק חלף מולי קרוב </l>
+          <l>המבטים לא נפגשו </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני מתגעגע לכל המקומות </l>
+          <l>בהם אף פעם לא ביקרתי </l>
+          <l>הייתי אז נוסע מעבר לחומות </l>
+          <l>שבהן תמיד עצרתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

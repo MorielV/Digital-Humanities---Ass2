@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחילה</title>
+        <singer classification="male singer">אייל קופמן</singer>
+        <writer>אייל קופמן</writer>
+        <composer>אייל קופמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחילה</head>
+        <lg number="1" type="stanza">
+          <l>בחילה, בחילה </l>
+          <l>בחילה של בוקר </l>
+          <l>שסוחטת ת'מיצים </l>
+          <l>שמפעילה ת'מעלית </l>
+          <l>מסע אל המרתף </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תקווה, תקווה </l>
+          <l>תקווה שזה עוזב אותי </l>
+          <l>תוך 12 דקות </l>
+          <l>אני מתחיל לספור </l>
+          <l>כדאי שתתאפס </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא אני לא רוצה לשתוק </l>
+          <l>לא אני לא רוצה לזוז </l>
+          <l>לא אני לא יכול לקום </l>
+          <l>לא אני לא רוצה לברוח </l>
+          <l>לא אני לא צריך עזרה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שירה, שירה </l>
+          <l>שירה של ילדים </l>
+          <l>שפורטת על הדשא </l>
+          <l>מלטפת ת'קוצים </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא אני לא רוצה לשתוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

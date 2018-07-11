@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תלך 4</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אורי שרון</writer>
+        <composer>שמעון כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תלך</head>
+        <lg number="1" type="stanza">
+          <l>רציתי לרדת לתהום האין-סוף</l>
+          <l>ולראות הפלאים, שבים</l>
+          <l>אך קול עצרני תוהה על החוף</l>
+          <l>וקרא: "אל תרד בני לשם!"</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>"אל תרד, אל תרד, בני לשם</l>
+          <l>כי אכזר, כי אכזר, הוא הים"!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רציתי ללכת לשדה-הקרבות,</l>
+          <l>להביט בגופות ובדם,</l>
+          <l>אך קול, שהיה חד כמו חרבות,</l>
+          <l>לי קרא: "אל תלך בני לשם!"</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>"אל תלך, אל תלך בני לשם</l>
+          <l>אל תביט בגופות ובדם"!</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חזרתי הביתה חיוור ותוהה</l>
+          <l>כדי למצוא מנוחה מן היום,</l>
+          <l>שמעתי קולה של אימי לי קורא:</l>
+          <l>"בוא לכאן, בני, אלי, גש הלום"!</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>"בוא לכאן, בני, אלי, גש הלום,</l>
+          <l>פן קולי יעלם ויידום!"</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

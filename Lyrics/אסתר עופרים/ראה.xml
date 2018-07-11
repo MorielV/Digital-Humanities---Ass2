@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ראה</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>עלי מוהר</writer>
+        <composer>יוני רכטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ראה</head>
+        <lg number="1" type="stanza">
+          <l>ראה את העצים העירומים בסתיו,</l>
+          <l>ראה את השמיים מתכסים בעב,</l>
+          <l>ראה הערפל, בבוקר, בכבישים,</l>
+          <l>ראה את השדות, כהים וחרושים,</l>
+          <l>ראה את התלמים על פני האנשים;</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הבט וראה אותי -</l>
+          <l>הנה אני מולך,</l>
+          <l>השיר הזה - שלך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ראה את הגגות בלובן הבוער,</l>
+          <l>בתים ליד הים מתפוררים מהר,</l>
+          <l>ראה את הבאים לבנות ולהבנות,</l>
+          <l>ראה אותם חולמים חלום שלא ימוט,</l>
+          <l>חלום שהחולם שכח את פתרונו;</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הבט וראה אותי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ראה איך לפעמים כאילו אין אדם</l>
+          <l>וארץ ושמיים רגע לבדם,</l>
+          <l>ראה את ההרים, כחולים ביום שרב</l>
+          <l>ואת הים מכחיל</l>
+          <l>והבוקר עוד רב,</l>
+          <l>והדרך פתוחה -</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הבט וראה אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

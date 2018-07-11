@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הבטחות 2</title>
+        <singer classification="unknown">אורי שביט</singer>
+        <writer>אורי שביט</writer>
+        <composer>אורי שביט</composer>
+        <album>משחקת במילים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הבטחות</head>
+        <lg number="1" type="stanza">
+          <l>מתעופפים מעל כרמי טוסקנה	</l>
+          <l>השמיים הכי עמוקים שגם מטוס לא יוכל לחצות	</l>
+          <l>בשמלה נוטפת דם חושפת	</l>
+          <l>מתנשקים בפעם האחרונה ליום הראשון	</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הינומות עפות ברוח כמו כנפיים	</l>
+          <l>ידיים לבנות נשלחות לתפוס מה שייפול</l>
+          <l>אני רושמת כל פרט ושוכחת</l>
+          <l>מבטיחה להישאר ונעלמת באור אחרון</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>חבק אותי </l>
+          <l>עכשיו</l>
+          <l>אולי אצליח לא ליפול</l>
+          <l>לפחות לא כרגע	</l>
+          <l>לא מיד </l>
+          <l>אולי אצליח לצחוק	</l>
+          <l>מבטיחה הבטחות</l>
+          <l>אם תמצא אותי בבוקר	</l>
+          <l>כנראה שאשאר כאן לעולם	</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שדונים משחקים מעל העמק	</l>
+          <l>בעיניים עצומות נוכל לראות מה שנרצה	</l>
+          <l>אני אומרת הכל ושותקת	</l>
+          <l>מנסה להתעורר ומאבדת את סוף החלום	</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>חבק אותי </l>
+          <l>עכשיו</l>
+          <l>אולי אצליח לא ליפול</l>
+          <l>לפחות לא כרגע	</l>
+          <l>לא מיד </l>
+          <l>אולי אצליח לצחוק	</l>
+          <l>מבטיחה הבטחות</l>
+          <l>אם תמצא אותי בבוקר	</l>
+          <l>כנראה שאשאר כאן לעולם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

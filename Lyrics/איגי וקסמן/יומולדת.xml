@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יומולדת</title>
+        <singer classification="female singer">איגי וקסמן</singer>
+        <writer>איגי וקסמן</writer>
+        <composer>איגי וקסמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יומולדת</head>
+        <lg number="1" type="stanza">
+          <l>היום יש לך יומולדת אהובי ועבורך זה יום עצוב</l>
+          <l>אני קרבה אליך בצעדי ענק</l>
+          <l>לא הגיל לא משנה, גם לא המרחק</l>
+          <l>היום יש לך יומולדת אהובי</l>
+          <l>אתה תינוק מבוגר, אתה גם המוכתר</l>
+          <l>היום יש לך יומולדת אהובי, היום אתה תהיה מאושר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ומלמעלה מלאכים שרים לך ורק לך שירים</l>
+          <l>הם מזמינים אותך לשחק, אתה מסרב ומתרחק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היום יש לך יומולדת אהובי ואתה בתפקיד האהוב</l>
+          <l>אהיה שפחתך רק אם תתן, אבל אתה רוצה להיות עצוב</l>
+          <l>היום יש לך יומולדת אהובי</l>
+          <l>לא נריב היום למרות שיום חמישי</l>
+          <l>אתה דבוק למסך ורואה כדורגל</l>
+          <l>מותר לך הכול, היום לבן הוא הדגל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ומלמעלה מלאכים שרים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היום יש לך יומולדת אהובי, אחכה במיטה ואצא מגדרי</l>
+          <l>ואם מתחשק לך תהיה עצוב, אבל גם בשבילי</l>
+          <l>היום יש לך יומולדת אהובי ואתה יפה כשאתה מחייך</l>
+          <l>היום יש לך יומולדת אהובי, היום מותר לשחק באש</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ומלמעלה מלאכים שרים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

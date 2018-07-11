@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי אוהב אותך יותר ממני</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>מיכה שטרית</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי אוהב אותך יותר ממני</head>
+        <lg number="1" type="stanza">
+          <l>של מי האדמה, האויר והים?</l>
+          <l>של מי העולם?</l>
+          <l>של מי הזהב והיהלומים?</l>
+          <l>למה התן מיילל בכרמים?</l>
+          <l>איך האביב יודע שהגיע הזמן?</l>
+          <l>ולאן האניות מפליגות? לאן?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי אוהב אותך יותר ממני?</l>
+          <l>מי מצחיק אותך כשאת עצובה?</l>
+          <l>עד מתי תהיי שלי?</l>
+          <l>ולמה את שותקת?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>למה יש מלחמות וכאב?</l>
+          <l>למה אלוהים לא מתערב?</l>
+          <l>למה כשאת כאן זה עושה לי טוב?</l>
+          <l>למה יש אנשים שחיים ברחוב?</l>
+          <l>איך האביב יודע שהגיע הזמן?</l>
+          <l>ולאן האניות מפליגות? לאן?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי אוהב אותך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>של מי האדמה?</l>
+          <l>של מי הזהב והיהלומים?</l>
+          <l>איך האביב יודע?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מי אוהב אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

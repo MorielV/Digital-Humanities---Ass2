@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ממריא</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>דורון מדלי</writer>
+        <composer>רביב רם בן מנחם</composer>
+        <album>נגעת לי בלב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ממריא</head>
+        <lg number="1" type="stanza">
+          <l>מסתובב, מתערבב, משתגע</l>
+          <l>נו מתי תסתכלי כבר עלי?</l>
+          <l>משתוקק לנשק וזורק לך</l>
+          <l>עוד מבט, עוד סימן, עד מתי?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמו חיה שמסמנת</l>
+          <l>ת׳גברים שמסביבה</l>
+          <l>שמת אותי על הכוונת</l>
+          <l>יש לי רק שאלה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תגידי איך הלב שלי ממריא למעלה</l>
+          <l>רק חולם ביום, וער בלילה</l>
+          <l>כמה</l>
+          <l>חיפשתי עד שמצאתי</l>
+          <l>אותך... אותך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מעיניי, מידיי את חומקת</l>
+          <l>ואני מחפש עקבות</l>
+          <l>משחק משחקים כמו בספר</l>
+          <l>לפעמים לא מבין בחורות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כמו חיה שמסמנת</l>
+          <l>ת׳גברים שמסביבה</l>
+          <l>שמת אותי על הכוונת</l>
+          <l>יש לי רק שאלה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>תגידי איך הלב שלי ממריא למעלה</l>
+          <l>רק חולם ביום, וער בלילה</l>
+          <l>כמה חיפשתי עד שמצאתי</l>
+          <l>אותך... אותך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

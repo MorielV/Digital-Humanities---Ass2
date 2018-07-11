@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קוראסון</title>
+        <singer classification="unknown">אורטל 2</singer>
+        <writer>מרסלה מורלו</writer>
+        <composer>יוסי גיספן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קוראסון</head>
+        <lg number="1" type="stanza">
+          <l>קוראסון קוראסון קוראסון</l>
+          <l>זה הלב שלי שמבקש אליך</l>
+          <l>קוראסון קורסון קוראסון</l>
+          <l>שמושך אותי ללכת אחריך</l>
+          <l>קוראסון קוראסון קוראסון</l>
+          <l>רק אליך אלף נשיקות שולחת</l>
+          <l>הנה אני בידך האהבה פורחת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קוראסון טה קיירו,</l>
+          <l>קוראסון אוהבת</l>
+          <l>לב כזה קטן משחק באהבה</l>
+          <l>קוראסון טה קיירו,</l>
+          <l>קח אותי מכאן מתוקה וחצופה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קוראסון קוראסון קוראסון</l>
+          <l>והלב הולם וברכות מכה בי</l>
+          <l>קוראסון קוראסון קוראסון</l>
+          <l>מספר לך כל מה שעובר בי</l>
+          <l>קוראסון קוראסון קוראסון</l>
+          <l>מחכה לך שאתה תגיע</l>
+          <l>לאהבה עוד לילה</l>
+          <l>ואותי תפתיע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קוראסון טה קיירו...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>קוראסון קוראסון קוראסון</l>
+          <l>קוראסון קוראסון קוראסון</l>
+          <l>לב כזה קטן</l>
+          <l>משחק באהבה</l>
+          <l>קוראסון טה קיירו</l>
+          <l>קוראסון אוהבת</l>
+          <l>איי איי  קוראסון טה קיירו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הורה טוב</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>יעקב אורלנד</writer>
+        <composer>מרדכי זעירא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הורה טוב</head>
+        <lg number="1" type="stanza">
+          <l>סובבוני להט אש בוערת,</l>
+          <l>רקדו לי שיר יחיד</l>
+          <l>זה הזמר, זה ואין אחר עוד,</l>
+          <l>אין אחר עוד לתמיד.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>טוב, טוב,</l>
+          <l>טוב, טוב, טוב, טוב.</l>
+          <l>טוב הזמר עד אין סוף,</l>
+          <l>לא יתם ולא יחלוף</l>
+          <l>בלבבנו הקודח</l>
+          <l>מתלמים ומירח.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לילה, לילה, לילה - ובשקט</l>
+          <l>מתלקח המחול;</l>
+          <l>כל חיינו אבוקה דולקת</l>
+          <l>למחר ולאתמול.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>סוב, סוב,</l>
+          <l>סוב, סוב, סוב, סוב,</l>
+          <l>סוב נסובה עד אין סוף,</l>
+          <l>לא יתם ולא יחלוף</l>
+          <l>בלילנו הזורח</l>
+          <l>המחול המתלקח.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>סובבנו להט אש בוערת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

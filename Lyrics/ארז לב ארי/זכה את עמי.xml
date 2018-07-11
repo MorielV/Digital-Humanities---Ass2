@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זכה את עמי</title>
+        <singer classification="male singer">ארז לב ארי</singer>
+        <writer>מתוך תהילים</writer>
+        <composer>missing</composer>
+        <album>שמחת הפרטים הקטנים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זכה את עמי</head>
+        <lg number="1" type="stanza">
+          <l>הסתר תסתר פניך</l>
+          <l>צמאה נפשי אליך</l>
+          <l>החזר שכינתך לציון</l>
+          <l>עשה למען אהוביך</l>
+          <l>פן יפתה לבבם</l>
+          <l>זה קרה כבר בעבר</l>
+          <l>אתה יודע, תרו אחרי עיניהם ולבם</l>
+          <l>שפכו את דמם</l>
+          <l>אל-יתן למוט רגלך</l>
+          <l>שמע תחינתי קורעת אליך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זכה את עמי</l>
+          <l>זכה את עמי</l>
+          <l>זכה את עמי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עיוורון קשה מכה בעיניים</l>
+          <l>צפים עם הראש מעל המים</l>
+          <l>אל יתן למוט רגלך</l>
+          <l>גאל את עמי</l>
+          <l>גלה את פניך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זכה את עמי</l>
+          <l>במאור פניך</l>
+          <l>זכה את עמי</l>
+          <l>ציון מתפוררת אל מול עיניך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

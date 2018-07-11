@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כניעה ללא תנאי</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אהוד מנור</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כניעה ללא תנאי</head>
+        <lg number="1" type="stanza">
+          <l>די, אני נכנע</l>
+          <l>ומוותר ללא תנאים, ללא טינה</l>
+          <l>מה שתכתיבי</l>
+          <l>איך שתכאיבי</l>
+          <l>אני לכל מוכן</l>
+          <l>קבעי מקום וזמן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כן, אני מרגיש</l>
+          <l>שהכאב הזה עוד לא הואיל לאיש</l>
+          <l>מה שתגידי</l>
+          <l>איך שתרקידי</l>
+          <l>הראי סימן של כן</l>
+          <l>אני אומר אמן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני לכל מוכן</l>
+          <l>קבעי מקום וזמן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשאת קרובה ומבטינו נפגשים</l>
+          <l>עקרונותי שוב נחלשים</l>
+          <l>ואז חושי מתערפלים</l>
+          <l>ואין בפי מילים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני לכל מוכן</l>
+          <l>קבעי מקום וזמן</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>את הכל אתן</l>
+          <l>אפילו אם אני סיפור של בין לבין</l>
+          <l>מה שתחליטי</l>
+          <l>איך שתנחיתי</l>
+          <l>הביטי בעיני</l>
+          <l>הן יקבלו כל תנאי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

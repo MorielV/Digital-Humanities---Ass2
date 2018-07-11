@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עיניך השחורות</title>
+        <singer classification="female singer">איילה לוי</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>נועם נתנאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עיניך השחורות</head>
+        <lg number="1" type="stanza">
+          <l>אתה בעולמך רחוק וגם קרוב</l>
+          <l>גלה לי את סודך, הנח לי לאהוב</l>
+          <l>את עצמי אני שומרת ובוערת לגלות</l>
+          <l>במסתור אשה אחרת לצידך שם בלילות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך נשבתי בקסמיך</l>
+          <l>שכבשו מקום בלב</l>
+          <l>סינוורו אותי עיניך</l>
+          <l>שהותירו בי כאב</l>
+          <l>איך נשבתי בקסמיך</l>
+          <l>שנגלו לי בעבר</l>
+          <l>סינוורו אותי עיניך</l>
+          <l>שבגדו באהבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עיניך השחורות אומרות לי את הכל</l>
+          <l>עיני הבוערות יודעות שלא לשאול</l>
+          <l>עוד מעט ירד הערב ותשאיר כאן אור מוזר</l>
+          <l>עוד אמצא לי את הדרך גם בלילה, לילה קר. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך נשבתי בקסמיך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

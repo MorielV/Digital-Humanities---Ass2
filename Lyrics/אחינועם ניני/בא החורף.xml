@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בא החורף</title>
+        <singer classification="female singer">אחינועם ניני</singer>
+        <writer>יפה קרינקין</writer>
+        <composer>רבקה גוילי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בא החורף</head>
+        <lg number="1" type="stanza">
+          <l>בא החורף לעולם </l>
+          <l>הוא הדליח האגם</l>
+          <l>הוא הפיל מן הענף </l>
+          <l>יון ושלושת אפרוחיו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הוא שבר עצים בגן </l>
+          <l>הוא קטף את השושן</l>
+          <l>וכמו דוב רעב נהם </l>
+          <l>והרגיז את העולם </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חורף, חורף לח וקר</l>
+          <l>אל נא תהיה אכזר</l>
+          <l>תן לחיות לאפרוחים</l>
+          <l>לעצים ולפרחים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם תשקה את השדות </l>
+          <l>נחבב אותך מאוד </l>
+          <l>ונקרא לך לחזור </l>
+          <l>שהקיץ יעבור </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הוא שבר עצים בגן </l>
+          <l>הוא קטף את השושן</l>
+          <l>וכמו דוב רעב נהם </l>
+          <l>והרגיז את העולם </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>חורף, חורף לח וקר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

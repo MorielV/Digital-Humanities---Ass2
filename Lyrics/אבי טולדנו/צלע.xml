@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צלע</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>שמרית אור</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צלע</head>
+        <lg number="1" type="stanza">
+          <l>אלוהים ברא אותה מצלע</l>
+          <l>ונתן בה רוח להבה</l>
+          <l>ומני אז בימים של צער וכאב היא עזר כנגדו,</l>
+          <l>ומני אז בימים של צער וכאב תמיד היא לצדו.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אלוהים ברא אותה כסלע</l>
+          <l>ונתן בה חום ואהבה,</l>
+          <l>ומני אז בלילות של רוח מייבב תלהיט את מיטתו,</l>
+          <l>ומני אז בלילות של רוח מטרף היא כתמיד אתו.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איש אוהב אישה</l>
+          <l>עצם מעצמו היא, גוף אחד</l>
+          <l>כמקשת זהב</l>
+          <l>יחד הם, לא ייפרדו לעד.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא יאיר היום ולא הלילה,</l>
+          <l>לא יפרח שדה בלא מטר</l>
+          <l>ואיש לא יישאר לבד בלא אישה שתחבק אותו</l>
+          <l>ואיש לא יישאר לבד בלא אישה שתחזק אותו</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אלוהים רואה הכל מלמעלה,</l>
+          <l>הוא נתן לו לאדם אותה -</l>
+          <l>והיא הציר המניע את גלגל חייו ומסובב אותו,</l>
+          <l>והיא הציר המניע את גלגל חייו, והוא אוהב אותו -</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>איש אוהב אישה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

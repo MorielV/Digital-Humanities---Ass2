@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא סיפור פשוט</title>
+        <singer classification="male singer">אוהד חיטמן</singer>
+        <writer>אוהד חיטמן</writer>
+        <composer>אוהד חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא סיפור פשוט</head>
+        <lg number="1" type="stanza">
+          <l>האמת שבלי אמון</l>
+          <l>הכל נשאר תקוע</l>
+          <l>והעצב בא בבת אחת,</l>
+          <l>אנ'לא יודע מה טמון</l>
+          <l>במה שכבר ידוע</l>
+          <l>(האמת אף-פעם לא טובה)</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>האהבה שלי היא לא סיפור פשוט,</l>
+          <l>תמיד מסבכת ביתר רגישות,</l>
+          <l>אני חושב שזה לא בשבילי,</l>
+          <l>האהבה היא לא טובה בגללי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו בת יענה אני </l>
+          <l>מחכה לרוח</l>
+          <l>והראש תקוע באדמה,</l>
+          <l>על הקרשים הכל</l>
+          <l>יכול להיות מרוח</l>
+          <l>וגם הבדידות היא נחמה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האהבה שלי היא לא סיפור פשוט...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לחיות דקה אחר דקה</l>
+          <l>לא לפחד מעוד מכה</l>
+          <l>לתת למציאות אגרוף </l>
+          <l>ואת כל הסודות לשרוף</l>
+          <l>ואם עולה בי חרטה</l>
+          <l>אני שוכח גם אותה</l>
+          <l>ללכת אל העזאזל</l>
+          <l>כי מבפנים הכל אוזל..</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>האהבה שלי היא לא סיפור פשוט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

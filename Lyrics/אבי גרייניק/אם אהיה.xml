@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם אהיה</title>
+        <singer classification="male singer">אבי גרייניק</singer>
+        <writer>אבי גרייניק</writer>
+        <composer>אבי גרייניק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם אהיה</head>
+        <lg number="1" type="stanza">
+          <l>אם אהיה כמו עלה נידף ברוח</l>
+          <l>וודאי לא תהיה מאושרת</l>
+          <l>אם אהיה מסונוור זר וזחוך</l>
+          <l>וודאי לא תהיה בך שמחה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי את רוצה בי כגבר</l>
+          <l>כדי לעמוד נגדי </l>
+          <l>כעזר באהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם אהיה כמו שיח של קוצים על הר</l>
+          <l>וודאי לא תוכלי בי לגעת</l>
+          <l>אם אהיה סתם אדיש אל המחר</l>
+          <l>וודאי לא תהיה בטוחה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי את רוצה בי כגבר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם אהיה כמו עלה ברוח</l>
+          <l>או כמו שיח קוצים רחוק</l>
+          <l>לשמים וודאי תביטי</l>
+          <l>ואותי תבקשי שוב לחבוק</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אם אהיה כמו עלה ברוח</l>
+          <l>או כמו שיח קוצים רחוק</l>
+          <l>לשמים וודאי תביטי</l>
+          <l>ואותי תבקשי שוב לחבוק</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אם אהיה כמו עלה נידף ברוח</l>
+          <l>וודאי לא תהיה מאושרת</l>
+          <l>אם אהיה מסונוור זר וזכוח</l>
+          <l>וודאי לא תהיה בך שמחה</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>כי את רוצה בי כגבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

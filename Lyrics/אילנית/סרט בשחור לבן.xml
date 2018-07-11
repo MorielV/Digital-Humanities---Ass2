@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סרט בשחור לבן</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>דני רובס</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סרט בשחור לבן</head>
+        <lg number="1" type="stanza">
+          <l>סרט ישן,</l>
+          <l>ראי שבור לעולם מוכר,</l>
+          <l>על המסך הכל שחור לבן.</l>
+          <l>היא לבדה,</l>
+          <l>כסא בודד בשורה ריקה,</l>
+          <l>סיפור ישן נושן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כינורות בוכים,</l>
+          <l>עוד מעט תבכה איתם,</l>
+          <l>ובחשיכה שקט לא מובן.</l>
+          <l>הוא כבר לא זוכר,</l>
+          <l>הוא רחוק כל כך מכאן</l>
+          <l>כמו בסרט בשחור לבן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אור מסנוור,</l>
+          <l>מילות פרידה לאשה יפה,</l>
+          <l>כשהיא לבדה סרטים תמיד לוקחים אותה.</l>
+          <l>לא לחשוב,</l>
+          <l>כמו בסיפור לשנות דמותה,</l>
+          <l>כמו במקום אחר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כינורות בוכים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא לחשוב,</l>
+          <l>כמו בסיפור לשנות דמותה,</l>
+          <l>כמו במקום אחר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כינורות בוכים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

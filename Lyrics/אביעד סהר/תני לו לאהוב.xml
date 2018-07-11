@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תני לו לאהוב</title>
+        <singer classification="unknown">אביעד סהר</singer>
+        <writer>אביעד סהר</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תני לו לאהוב</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>תן לה, את הלב תיתן לה, </l>
+          <l>תן לה מה שאין לה, תן לה לאהוב.</l>
+          <l>תני לו את הלב תיתני לו,</l>
+          <l>תני לו מה שיש בך, תני לו לאהוב.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך היא רוקדת תיראו מה היא עושה לו,</l>
+          <l>שיער פזור משגעת את הראש, </l>
+          <l>רוצה לגשת כי זה רק מה שבא לו,</l>
+          <l>היא מטורפת, רוצה רק לבלות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תן לה, את הלב תיתן לה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>והיא הולכת עכשיו כבר סוף הלילה, </l>
+          <l>עוד דרינק אחד כואב לו כבר הראש. </l>
+          <l>תדעי לך מותק, תיראי מה שקרה לו,</l>
+          <l>היא מהפנטת יוצא מדעתו.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תן לה, את הלב תיתן לה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

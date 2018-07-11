@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתרחקת</title>
+        <singer classification="unknown">אליאב מועלם</singer>
+        <writer>רמי לב</writer>
+        <composer>דורון אלימלך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתרחקת</head>
+        <lg number="1" type="stanza">
+          <l>את יודעת הדלת פתוחה</l>
+          <l>אני מחכה לך</l>
+          <l>העיניים רוצות הלב עוד קורא לך</l>
+          <l>בתוכי סערה לאט מתמכר לדממה</l>
+          <l>כשאת לא איתי אז אין בשביל מה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מתרחקת אני משתגע בשקט</l>
+          <l>מתרחקת מתוך נשמתי את הולכת</l>
+          <l>אולי זה גורל הפכפך</l>
+          <l>שלקח ממני אותך </l>
+          <l>את חיי נתתי רק לך ואת מתרחקת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא שכחתי הלב מתעקש</l>
+          <l>שתבואי הביתה</l>
+          <l>נכנע לכאב שמושך בי למטה </l>
+          <l>בתוכי סערה בגוף רועדת אדמה  </l>
+          <l>כשאת לא איתי אז אין בשביל מה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מתרחקת אני משתגע בשקט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

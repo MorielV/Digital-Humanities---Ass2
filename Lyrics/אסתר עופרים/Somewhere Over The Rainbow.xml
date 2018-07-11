@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Somewhere Over The Rainbow</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>Back On Stage</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Somewhere Over The Rainbow</head>
+        <lg number="1" type="stanza">
+          <l>Somewhere over the rainbow</l>
+          <l>Way up high</l>
+          <l>There's a land that I heard of</l>
+          <l>Once in a lullaby.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Somewhere over the rainbow</l>
+          <l>Skies are blue</l>
+          <l>And the dreams that you dare to dream</l>
+          <l>Really do come true.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Some day I'll wish upon a star</l>
+          <l>And wake up where the clouds are far behind me</l>
+          <l>Where troubles melt like lemondrops</l>
+          <l>Away above the chimney tops</l>
+          <l>That's where you'll find me.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>Somewhere over the rainbow</l>
+          <l>Bluebirds fly</l>
+          <l>Birds fly over the rainbow</l>
+          <l>Why then, oh why can't I?</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>If happy little bluebirds fly</l>
+          <l>Beyond the rainbow</l>
+          <l>Why, oh why can't I?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

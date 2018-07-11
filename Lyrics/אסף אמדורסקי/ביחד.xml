@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ביחד</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>אסף אמדורסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ביחד</head>
+        <lg number="1" type="stanza">
+          <l>את אומרת לי שעשיתי רע</l>
+          <l>לקחתי אותך כמובן מאליו </l>
+          <l>ההשפלות תמיד מיותרות</l>
+          <l>אני יודע להזיק לך כמו שידעתי לגרום לך לחייך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא נתתי לך את מה שהיית צריכה</l>
+          <l>מה שכולם רוצים, לקבל תמיכה</l>
+          <l>אני יודע עכשיו זה לא עוזר </l>
+          <l>מאוחר מדי לבקש סליחה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את רואה אותי טועה</l>
+          <l>שום טעות את לא מוחקת</l>
+          <l>כשהכל כאב קל לשכוח</l>
+          <l>איך קרה שמצאנו את עצמנו ביחד</l>
+          <l>ביחד ביחד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בתוך פנקס ישן שלא נגמר</l>
+          <l>החשבון שלנו נהיה יקר</l>
+          <l>לגמור בחוץ או לפנות לייעוץ</l>
+          <l>או להמשיך לנסוע על מיכל מתרוקן</l>
+          <l>לגמור בחוץ להישאר קטנים</l>
+          <l>או ללכת כל הכח על כל הקופה</l>
+          <l>אם נמשיך ככה אין מצב שזה יחזיק</l>
+          <l>אני לא מאמין סתם לא תבוא תרופה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את רואה אותי טועה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

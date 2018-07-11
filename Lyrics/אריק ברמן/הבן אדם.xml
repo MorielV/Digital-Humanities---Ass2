@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הבן אדם</title>
+        <singer classification="male singer">אריק ברמן</singer>
+        <writer>אריק ברמן</writer>
+        <composer>אריק ברמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הבן אדם</head>
+        <lg number="1" type="stanza">
+          <l>הבן-אדם היה קם כל בוקר מוקדם </l>
+          <l>וגם בשישי-שבת </l>
+          <l>ואוסף מידע לגבי </l>
+          <l>ומחבר לזה שאסף אתמול </l>
+          <l>ומוסיף גם משלו (שהמציא לבד </l>
+          <l>או לפחות כך הוא זוכר) </l>
+          <l>והיה שופך הכל לתוך כלי שקוף </l>
+          <l>ובוחש, ומחמם ובוחש ומקרר </l>
+          <l>עד שהדבר היה מחליף צבעים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והיה לו לבן-אדם מכשיר </l>
+          <l>ודרכו הוא הסתכל מאוד מאוד מקרוב </l>
+          <l>וראה דברים, כל מיני </l>
+          <l>וככה שנים, כל מיני, כל מיני </l>
+          <l>ולעת זקנה הייתה אפילו פריצת-דרך </l>
+          <l>וקרא למחלה על שמו </l>
+          <l>והוא מת </l>
+          <l>ויש מחלה על שמו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

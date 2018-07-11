@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמעט</title>
+        <singer classification="unknown">אלון ז אן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>אלון ז'אן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמעט</head>
+        <lg number="1" type="stanza">
+          <l>הייתי רוצה, לטפס לקצה, לבטל את הפחד</l>
+          <l>את כל הצבעים מתוך החיים לדעת לקחת</l>
+          <l>לפעמים את הורגת אותי זה אולי בגלל שאני</l>
+          <l>מאוהב בך כמעט, אבל לך לא אכפת, את הולכת ממני</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הקשיבי ללב שצועק ואוהב</l>
+          <l>אל תיעלמי לי</l>
+          <l>הקשיבי אלי, אל תצאי מחיי</l>
+          <l>אל תיעלמי לי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>או אואו... לא, לא אתן לך לחמוק מידי</l>
+          <l>או אואו... לעולם אל תצאי מחיי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הבית שותק והפחד חונק, לא יכול בלעדייך</l>
+          <l>אפילו הלב מודה ועוזב, רוצה שוב אלייך</l>
+          <l>לו היה לי האומץ לומר, במשפט אחד שאני</l>
+          <l>מאוהב באמת ורוצה לך לתת, עוד חלק ממני</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הקשיבי ללב שצועק ואוהב...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>Dis moi est-ce que tu m'aime</l>
+          <l>Dis moi si je te plais</l>
+          <l>J'ai mon coeur qui bats</l>
+          <l>Dis moi Alon jean, dis moi</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>הקשיבי ללב שצועק ואוהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

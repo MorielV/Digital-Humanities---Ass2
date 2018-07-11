@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שוב חזרו הקולות</title>
+        <singer classification="male singer">אברהם טל</singer>
+        <writer>אברהם טל</writer>
+        <composer>אברהם טל</composer>
+        <album>אורות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שוב חזרו הקולות</head>
+        <lg number="1" type="stanza">
+          <l>שוב חזרו הקולות שמאיצים בך לגלות</l>
+          <l>שמדירים שינה מעיניך בלילות</l>
+          <l>שנים עוברות, אתה אוטם את האוזניים</l>
+          <l>עוצם עיניים, נאחז בקרנות, לא מרפה ותוהה</l>
+          <l>כל החיים עוברים, האם זה ישתנה</l>
+          <l>ומן השבר שנפתח אור קצת מתגלה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הנה עולה הלבנה</l>
+          <l>בואי אלי הנחמה</l>
+          <l>תלטפי את פני</l>
+          <l>תהיי עוגן אל מול פחדי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב מכה בקירות, בכוח מנסה לשנות</l>
+          <l>נשאר לבד ולא עונה לקריאות</l>
+          <l>לא משנה שכבר נפלת לפה פעם אותו הטעם</l>
+          <l>שוב אותם השאלות שאת כל עולמך מרעידות</l>
+          <l>שמשכיחות ממך את כל הנפלאות</l>
+          <l>ומן השבר שנפתח אור קצת מתגלה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הנה עולה הלבנה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תהיי עמוד ענן בלכתי במדבר</l>
+          <l>בין הקולות, בין המראות</l>
+          <l>את הצלליים יופייך יאיר</l>
+          <l>אל חדרי את תיכנסי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

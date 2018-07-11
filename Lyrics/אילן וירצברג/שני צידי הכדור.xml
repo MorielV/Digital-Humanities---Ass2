@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שני צידי הכדור</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>אילן וירצברג</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שני צידי הכדור</head>
+        <lg number="1" type="stanza">
+          <l>אם אתה רוצה ללכת</l>
+          <l>מחפש מקום לשבת</l>
+          <l>חכה, עוד תמצא</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם אתה עכשיו חזרת</l>
+          <l>מהדרך התעייפת</l>
+          <l>זה פה, זה נמצא</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>משני צידי הכדור</l>
+          <l>משני צידי הכדור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי אמר לך טעית</l>
+          <l>לא ידעת, התבלבלת</l>
+          <l>חכה, עוד תמצא</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא חשבת שזה ככה</l>
+          <l>הסתכלת, לא הבנת</l>
+          <l>זה פה, זה נמצא</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>משני צידי הכדור</l>
+          <l>משני צידי הכדור</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>בגלגל גדול ישבת</l>
+          <l>הסתובבת, הסתבכת</l>
+          <l>חכה, עוד תמצא</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>רק בפנים עמוק ידעתי</l>
+          <l>שאותך אני אהבתי</l>
+          <l>חכי, יש מוצא</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>משני צידי הכדור</l>
+          <l>משני צידי הכדור</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

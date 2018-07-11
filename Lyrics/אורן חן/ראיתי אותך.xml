@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ראיתי אותך</title>
+        <singer classification="male singer">אורן חן</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ראיתי אותך</head>
+        <lg number="1" type="stanza">
+          <l>ראיתי אותך</l>
+          <l>יושבת לבד</l>
+          <l>ראיתי אותך היה לך חיוך על השפתיים</l>
+          <l>ראיתי אותך יושבת בצד</l>
+          <l>עושה לי עיניים</l>
+          <l>ראיתי אותך</l>
+          <l>ידעתי מייד</l>
+          <l>ראיתי אותך מבלי לחכות</l>
+          <l>אותך סימנתי</l>
+          <l>ראיתי אותך</l>
+          <l>ידעתי שאת</l>
+          <l>אחת שחיפשתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה קרה לי איתך</l>
+          <l>זה קרה לי</l>
+          <l>את עושה לי את זה נערה</l>
+          <l>אהבה שכזאת לא היתה לי</l>
+          <l>ועכשיו רק איתך זה קרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ראיתי אותך</l>
+          <l>חיפשתי מילה</l>
+          <l>ראיתי אותך רציתי לומר</l>
+          <l>מה את עושה לי?</l>
+          <l>ראיתי אותך</l>
+          <l>חיפשתי מילה</l>
+          <l>וכלום לא יצא לי</l>
+          <l>ראיתי אותך ראיתי כלה</l>
+          <l>ראיתי אותך ראיתי את העתיד שלנו</l>
+          <l>ראיתי אותך</l>
+          <l>ראיתי כלה</l>
+          <l>ועוד לא הכרנו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה קרה לי איתך</l>
+          <l>זה קרה לי</l>
+          <l>את עושה לי את זה נערה</l>
+          <l>אהבה שכזאת לא היתה לי</l>
+          <l>ועכשיו רק איתך זה קרה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה קרה לי איתך</l>
+          <l>זה קרה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

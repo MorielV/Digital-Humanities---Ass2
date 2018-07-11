@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חוף 3</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חוף</head>
+        <lg number="1" type="stanza">
+          <l>כי היו אדומים הדרכים שהלכו לשקיעה </l>
+          <l>ועדרי החולות שגלשו אל הים </l>
+          <l>כי כנפי השחפים עדים מול אור השקיעה </l>
+          <l>כי כל זה היה פה קרוב בעולם </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כי היה רק הרום, רק הרום חגיגי וכחול </l>
+          <l>כי פרק אלוהים משכמו את העול </l>
+          <l>כי פרק אלוהים, אלוהים משכמו את העול </l>
+          <l>זאת, זכרו והבינו הכל </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אבל למה בכתה הילדה הקטנה </l>
+          <l>הילדה בשמלה לבנה </l>
+          <l>לבדה, לבדה </l>
+          <l>על החוף</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

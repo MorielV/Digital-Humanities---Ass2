@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוח סתיו 3</title>
+        <singer classification="unknown">אוסנת פז</singer>
+        <writer>שרה שובל</writer>
+        <composer>נמרוד טנא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוח סתיו</head>
+        <lg number="1" type="stanza">
+          <l>רוח סתיו חלפה נעלמה ואיננה</l>
+          <l>סחור רקדו עלים שנשרו ממרום.</l>
+          <l>פנסי הרחוב מאירים טרם ערב,</l>
+          <l>כי אספה חמה קרן אור וחום.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>במשעול ההר</l>
+          <l>טף עולה בין ניר וכר</l>
+          <l>להשיג ענן נמהר </l>
+          <l>בטרם בא מטר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שועלון ילל יללה מנומנמת</l>
+          <l>עץ חרק ברוח, חרק וצרם.</l>
+          <l>ריצתה עצרה איילה משתוממת,</l>
+          <l>ועצים הרכינו שיבת ראשם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>במשעול ההר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הרחוב נדם מנמנם ונרדם</l>
+          <l>ובחלונות אט כבו האורות.</l>
+          <l>עלעלים הניחו מרבד אדמדם</l>
+          <l>וקראה טיפה חרש סתיו נחתם.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>במשעול ההר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

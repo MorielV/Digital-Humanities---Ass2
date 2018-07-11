@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טיפות טיפות</title>
+        <singer classification="male singer">ארז דן</singer>
+        <writer>ארז דן</writer>
+        <composer>ארז דן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טיפות טיפות</head>
+        <lg number="1" type="stanza">
+          <l>הגשם הראשון הגיע טיפות טיפות של עצבות</l>
+          <l>בתצוגת אופנה חורפית אני מציג בדידות</l>
+          <l>הליכתי זקופה אבל הכל משחק מכור </l>
+          <l>העננים עושים צורות גדולות של לב שבור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אז לוקח אוויר ומשחרר</l>
+          <l>לפעמים זה עוזר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>טיפות טיפות באו בדמותך</l>
+          <l>עוד מעט יירד מבול עוד מעט ירד מבול</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין כמו הים ביום גשום לרוח משאלה </l>
+          <l>אולי ייפול עליי כוכב שעוד לא התגלה</l>
+          <l>כמו סרט בשחור לבן עם סוף עצוב נורא</l>
+          <l>נשאר לי רק פנס רחוב ידיד לעת צרה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז לוקח אוויר ומשחרר</l>
+          <l>לפעמים זה עוזר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>טיפות טיפות באו בדמותך</l>
+          <l>עוד מעט יירד מבול עוד מעט ירד מבול</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

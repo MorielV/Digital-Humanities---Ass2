@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל פעם מחדש</title>
+        <singer classification="male singer">אבי פרץ</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל פעם מחדש</head>
+        <lg number="1" type="stanza">
+          <l>כל פעם מחדש לפני שאת הולכת</l>
+          <l>בא לי לחבק אותך חזק בכל כוחי</l>
+          <l>וללחוש בעצם את מילת הקסם</l>
+          <l>שאם אדע אותה אף פעם לא תלכי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ביום שהכרתי אותך פגשתי את הפחד</l>
+          <l>ומאז אני כל יום חושש להיפרד</l>
+          <l>מי יגיד לי למה מי יסביר עד כמה</l>
+          <l>באהבה גובר הפחד לאבד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל פעם מחדש לפני שאת נרדמת</l>
+          <l>בא לי להגיד איזה משפט בלתי נשכח</l>
+          <l>שישמור עליך יגרש צלליך וזה מה שיוצא</l>
+          <l>אני אוהב אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ביום שהכרתי אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

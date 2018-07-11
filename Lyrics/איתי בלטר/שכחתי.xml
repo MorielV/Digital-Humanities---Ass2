@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שכחתי</title>
+        <singer classification="unknown">איתי בלטר</singer>
+        <writer>איתי בלטר</writer>
+        <composer>איתי בלטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שכחתי</head>
+        <lg number="1" type="stanza">
+          <l>שכחתי את הלב שלי אצלך </l>
+          <l>וככה הסתובבתי חצי שנה </l>
+          <l>בלי להרגיש בלי מגע חם </l>
+          <l>עכשיו- </l>
+          <l>באתי לקחת אותו בחזרה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שכחתי את הראש שלי אצלך </l>
+          <l>וככה הסתובבתי חצי שנה </l>
+          <l>בלי קו מחשבה בלי תשובה </l>
+          <l>עכשיו- </l>
+          <l>באתי לקחת אותו בחזרה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שכחתי למה באתי בהתחלה </l>
+          <l>וככה הסתובבתי סביב עצמי </l>
+          <l>פיזרתי רעל בכל פינה </l>
+          <l>קראו לי איתי אבל לא הייתי אני</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

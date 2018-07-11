@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אושר פנימי</title>
+        <singer classification="band">אלמנה שחורה</singer>
+        <writer>אסף חסון</writer>
+        <composer>אלי זולטא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אושר פנימי</head>
+        <lg number="1" type="stanza">
+          <l>נסית לסביר לי</l>
+          <l>נסיתי לראות אבל היה לך חושך</l>
+          <l>פספסתי את הדלת</l>
+          <l>שתוביל אותי אל האור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ומה שאתה קראת לו</l>
+          <l>אושר פנימי</l>
+          <l>מה שאת קוראת לו</l>
+          <l>אושר פנימי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בסוף את הלכת</l>
+          <l>נסיתי לצחוק אבל זה לא הצליח</l>
+          <l>אך מה שהשארת</l>
+          <l>תמון בוא אושר לעתיד מבטיח</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ומה שאתה קראת לו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני על הדרך סוף סוף</l>
+          <l>עולם מחייך</l>
+          <l>בחורות על החוף</l>
+          <l>האושר תמון במיני - קצר</l>
+          <l>האושר היחיד שניתן לי מושלם.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ומה שאתה קראת לו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

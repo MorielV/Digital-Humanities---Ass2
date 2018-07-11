@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמא תראי</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמא תראי</head>
+        <lg number="1" type="stanza">
+          <l>אמא תראי בנך לובש ת'מדים לבד</l>
+          <l>וקושר ת'שרוכים לבד</l>
+          <l>ומוכן כבר לכל פעולה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אמא תראי בנך יודע לטעון לבד</l>
+          <l>ולירות על כל מה שרק</l>
+          <l>יבקש מפקד הפלוגה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואסור לי לבכות</l>
+          <l>ומותר לי למות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אמא תראי איך אני לא נושם לבד</l>
+          <l>איך אני לא הולך לבד</l>
+          <l>ואבדה לי בגוף התחושה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אמא תראי העלו אותי בדרגה</l>
+          <l>בנך גיבור של המחלקה</l>
+          <l>אמא האם את גאה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואסור לי לבכות</l>
+          <l>ומותר לי למות</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אז אמא תראי איך אנחנו מתים גיבורים</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>ואסור לי לבכות</l>
+          <l>ומותר לי למות</l>
+          <l>אז אמא תראי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

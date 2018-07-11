@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה היא שיר לשניים</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>עדנה פלג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה היא שיר לשניים</head>
+        <lg number="1" type="stanza">
+          <l>כן, כן, זה שוב מתנגן</l>
+          <l>זמר שיר ישן נושן</l>
+          <l>שנכתב מחדש בשבילך</l>
+          <l>אשיר אותו לך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ושוב עונים הכינורות</l>
+          <l>אף אני כמו מיתר שנועד למנגינה אחת -</l>
+          <l>למנגינה שלך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ישירו השמיים</l>
+          <l>אהבה היא שיר לשניים</l>
+          <l>העולם כולו צוחק אלי ושר</l>
+          <l>כמה טוב, כמה טוב!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ישירו השמיים</l>
+          <l>אהבה היא שיר לשניים</l>
+          <l>כי שירי הוא השיר שלך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כן, כן, זה שוב מתנגן</l>
+          <l>זמר שיר ישן נושן</l>
+          <l>שהיום פה בשניים נשיר,</l>
+          <l>בשניים נשיר</l>
+          <l>כי השיר לא נגמר</l>
+          <l>תמיד הוא יושר, תמיד!</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ישירו השמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

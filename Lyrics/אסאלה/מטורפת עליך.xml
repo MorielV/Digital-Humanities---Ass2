@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מטורפת עליך</title>
+        <singer classification="female singer">אסאלה</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מטורפת עליך</head>
+        <lg number="1" type="stanza">
+          <l>אני חושבת רק עליך</l>
+          <l>וטוב לי לדבר איתך </l>
+          <l>אתה כל כך חמוד </l>
+          <l>כל כך רומנטי </l>
+          <l>ובגללך השתגעתי </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מטורפת עליך, מביטה בעיניך </l>
+          <l>ורוצה כל הזמן לחבק לנשק, </l>
+          <l>מטורפת עליך, ורוצה רק אליך</l>
+          <l>ורוצה כל הזמן לחבק לנשק, </l>
+          <l>מטורפת עליך, אתה היחיד</l>
+          <l>שנמצא אצלי בראש</l>
+          <l>אתה היחיד, שרוצה לפגוש. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה יודע להבטיח </l>
+          <l>ולעשות לי טוב בלב, </l>
+          <l>ואם קשה פתאום </l>
+          <l>אתה מרגיע </l>
+          <l>אומר לי שאתה אוהב </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מטורפת עליך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

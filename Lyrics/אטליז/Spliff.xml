@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Spliff</title>
+        <singer classification="band">אטליז</singer>
+        <writer>גיא בן שיטרית</writer>
+        <composer>גיא בן שיטרית</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Spliff</head>
+        <lg number="1" type="stanza">
+          <l>Every time someone’s getting </l>
+          <l>Into my life </l>
+          <l>I find my self just hating </l>
+          <l>Everything that he does </l>
+          <l>Hope your heart is </l>
+          <l>Bigger than mine </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>I just want you </l>
+          <l>To get out of my view </l>
+          <l>Take a look at the mirror </l>
+          <l>There’s a picture of you </l>
+          <l>Promise you that one day I'll wake up </l>
+          <l>And destroy all the stuff </l>
+          <l>That connects my own self </l>
+          <l>To your stupid ideas</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

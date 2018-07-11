@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נאמר כבר הכל</title>
+        <singer classification="unknown">אור בן ברוך</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נאמר כבר הכל</head>
+        <lg number="1" type="stanza">
+          <l>נאמר כבר הכל</l>
+          <l>אין לי מה להוסיף לזה</l>
+          <l>פשוט לא יכול</l>
+          <l>הלילות ארוכים והפחד</l>
+          <l>לא תדעי לעולם</l>
+          <l>איך בכיתי כמו ילד</l>
+          <l>לא תרגישי דבר</l>
+          <l>תשכחי את הדרך</l>
+          <l>לכאן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי הזמן הולך ותם</l>
+          <l>לא נושם ולא נרדם</l>
+          <l>לא חולם ולא הוזה</l>
+          <l>רק שר...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כי נאמר כבר הכל </l>
+          <l>אז מה אפשר להוסיף לזה </l>
+          <l>פשוט לא יכול </l>
+          <l>הלילות ארוכים והפחד </l>
+          <l>לא תדעי לעולם </l>
+          <l>איך בכיתי כמו ילד </l>
+          <l>לא תרגישי דבר</l>
+          <l>תשכחי את הדרך </l>
+          <l>לכאן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי הזמן הולך ותם</l>
+          <l>לא נושם ולא נרדם</l>
+          <l>לא חולם ולא הוזה</l>
+          <l>רק שר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כוכב 5</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>אסף אמדורסקי</composer>
+        <album>מנועים שקטים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כוכב</head>
+        <lg number="1" type="stanza">
+          <l>תן את ימיך</l>
+          <l>כמו טבעת יהלום</l>
+          <l>לא עוד עלה רועד</l>
+          <l>נצנץ למרחקים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתה הכוכב היחיד בשמיים</l>
+          <l>ולא כמו שהיה בעבר</l>
+          <l>היום אתה זוהר</l>
+          <l>זורם בעורקים</l>
+          <l>נצנץ למרחקים</l>
+          <l>בוהק לעולמים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

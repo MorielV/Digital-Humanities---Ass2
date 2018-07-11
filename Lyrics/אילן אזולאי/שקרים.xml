@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שקרים 5</title>
+        <singer classification="unknown">אילן אזולאי</singer>
+        <writer>אילן אזולאי</writer>
+        <composer>אילן אזולאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שקרים</head>
+        <lg number="1" type="stanza">
+          <l>גדלת במקום שילדות גדלות מהר מדי</l>
+          <l>נתת מה שרצו ולקחת מה שנתנו</l>
+          <l>יכולת לחיות חיים אחרים אבל בקשו ממך יותר מדי</l>
+          <l>ניסית להתרחק מצילך ולבקש לך שם אחר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נסעת למקום שנערות לומדות מהר מדי</l>
+          <l>פתחת לו את ליבך ושברת את החומות</l>
+          <l>כל הסודות החלומות והפחדים כבר לא שלך</l>
+          <l>האם לזה את התכוונת כשחיפשת עולם אחר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נשארו לך חלומות על דברים שמעולם לא היו לך</l>
+          <l>נשארו ההבטחות שנגמרו תמיד עם יריה בין העיניים</l>
+          <l>והשקרים הקטנים שסיפרת להם להשקיט את הפחד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נשארת במקום שמאבדים זהות מהר מדי</l>
+          <l>המשכת את החיים ואין שום מטרה</l>
+          <l>בכוחותייך האחרונים תזעקי לעזרה ותקווי</l>
+          <l>שיום המחר יציל אותך מן החיים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>נשארו לך חלומות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

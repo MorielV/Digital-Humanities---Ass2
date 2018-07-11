@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פאם פטאל</title>
+        <singer classification="unknown">אורלי זילברשץ</singer>
+        <writer>לו ריד</writer>
+        <composer>לו ריד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פאם פטאל</head>
+        <lg number="1" type="stanza">
+          <l>היא מגיעה</l>
+          <l>יותר טוב תיזהר</l>
+          <l>היא תשבור לשניים את ליבך</l>
+          <l>ואותך</l>
+          <l>זה לא קשה לראות</l>
+          <l>תביט לתוך עיניה החודרות</l>
+          <l>היא תרים אותך כדי שתיפול</l>
+          <l>זה הכל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וכולם יודעים שהיא פאם פטאל</l>
+          <l>מה שהיא עושה פאם פטאל</l>
+          <l>אותך היא מכניסה פאם פטאל</l>
+          <l>שפתיה לוחשות</l>
+          <l>רגליה מוליכות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רשמה אותך ביומן</l>
+          <l>מספר שלושים ושבע בקטן</l>
+          <l>היא תשחק בך טיפש</l>
+          <l>כן טיפש</l>
+          <l>לא היא לא תשתעמם</l>
+          <l>לפני שתתחיל אתה כבר מדמם</l>
+          <l>היא תחייך כדי שתפחד</l>
+          <l>לבד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכולם יודעים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

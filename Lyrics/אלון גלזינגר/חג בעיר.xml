@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חג בעיר</title>
+        <singer classification="unknown">אלון גלזינגר</singer>
+        <writer>אלון גלזינגר</writer>
+        <composer>אלון גלזינגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חג בעיר</head>
+        <lg number="1" type="stanza">
+          <l>חג בעיר כל ספסלים ריקים</l>
+          <l>חג בעיר כל החלונות סגורים</l>
+          <l>הרחוב הראשי ננטש ונעזב</l>
+          <l>כי חג בעיר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חג בעיר נשף של אורות כבויים</l>
+          <l>יש שקט שמצליח להדגים</l>
+          <l>שיש רק איש אחד שלא מצליח להפנים</l>
+          <l>שחג בעיר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אלף אלפי ספסלים ריקים</l>
+          <l>לא היו יכולים להוציא אותי מדעתי</l>
+          <l>אלף אלפי חלונות סגורים</l>
+          <l>לא היו מדכאים אותי רק מצחיקים אותי</l>
+          <l>ולמרות שלא עזבתי מעולם</l>
+          <l>אני מתגעגע</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חג בעיר קיפאון צורם שלא מפשיר</l>
+          <l>חג בעיר פנס בודד בגן מאיר</l>
+          <l>אצטרובל שנופל עליי מתנחם בזרועותיי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חג בעיר בכל חלון נשמע השיר</l>
+          <l>חג בעיר החיוך כבר לא מסתיר</l>
+          <l>שהייתי רוצה שתהיי כאן ונעשה לנו</l>
+          <l>חג בעיר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אלף אלפי ספסלים ריקים</l>
+          <l>לא היו יכולים להוציא אותי מדעתי</l>
+          <l>אלף אלפי חלונות סגורים</l>
+          <l>לא היו מדכאים אותי רק מצחיקים אותי</l>
+          <l>ולמרות שלא עזבתי מעולם</l>
+          <l>אני מתגעגע</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

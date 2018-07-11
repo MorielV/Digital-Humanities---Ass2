@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו רוח סערה</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>אייל גולן</writer>
+        <composer>לא ידוע</composer>
+        <album>לחישה בלילה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו רוח סערה</head>
+        <lg number="1" type="stanza">
+          <l>ראיתיך ברחוב עוברת ילדה יפה תמימה</l>
+          <l>מול פני את כך חולפת כמו רוח סערה</l>
+          <l>את שכל חיי חלמתי בלילות</l>
+          <l>והלב שלי יוצא לו, רק אותך רוצה ילדה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הלילה לחבוק גופך בלילה</l>
+          <l>רק שמעי נא וסודך גלי ספרי נא</l>
+          <l>כן ילדה הלילה לחבוק גופך בלילה</l>
+          <l>רק תאמרי נא שאותי רוצה ודי לך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא יודע מה קורה לי אותי את מטריפה</l>
+          <l>שום דבר יותר לא בא לי רק להיות איתך</l>
+          <l>אני שכל חיי שברתי לבבות</l>
+          <l>בחדרי עכשיו יושב פה וליבי מלא תקוות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הלילה לחבוק גופך בלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

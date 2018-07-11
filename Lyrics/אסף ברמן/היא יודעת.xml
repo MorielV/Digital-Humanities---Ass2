@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא יודעת</title>
+        <singer classification="unknown">אסף ברמן</singer>
+        <writer>נינט טייב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא יודעת</head>
+        <lg number="1" type="stanza">
+          <l>היא יודעת, אנשים תמיד אומרים לה</l>
+          <l>אנשים רק מתערבים לה</l>
+          <l>מה ללבוש, מה לאכול</l>
+          <l>מה נכון, מה לא נכון</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מלחשים מה הם חושבים לה</l>
+          <l>משתפים מה הם רוצים לה</l>
+          <l>איך אסור, כמה מותר</l>
+          <l>אם אפשר או אי אפשר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תעשי ותלכי, תלמדי</l>
+          <l>ותראי איך ברגע, ברגע כובשים ת'עולם</l>
+          <l>תצרחי, תשתקי</l>
+          <l>רק תבואי, בואי חזרי אלי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כן, היא יודעת</l>
+          <l>שהוא תמיד מקשיב לה</l>
+          <l>שהוא זה שמראה לה</l>
+          <l>מראה את האמת, מה לקחת מה לתת</l>
+          <l>ואם אתה שומע אולי אתה יודע</l>
+          <l>איך ממשיכים מכאן</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תעשי ותלכי, תלמדי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

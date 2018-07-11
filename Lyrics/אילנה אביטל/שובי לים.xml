@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שובי לים</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>חמוטל בן זאב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שובי לים</head>
+        <lg number="1" type="stanza">
+          <l>את שכחת את מה שיש בך</l>
+          <l>והלכת אחר ליבך</l>
+          <l>ובסוף ימיך אלה</l>
+          <l>את הולכת לדרכך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>המראות המוכרים לך</l>
+          <l>מתקרבים שוב אל חופך</l>
+          <l>ועכשיו חלומותיך</l>
+          <l>מחכים לתשובתך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שובי, שובי, שובי לים</l>
+          <l>שובי, שובי, שובי לשם</l>
+          <l>שובי, שובי, שובי לים ים ים</l>
+          <l>שובי, שובי, שובי לשם.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את הלכת אחר הגשם</l>
+          <l>את חיפשת צדפים בחול</l>
+          <l>אך שקעת בשתיקותיך</l>
+          <l>שהבטיח לך הכל.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מחפשת את השקט</l>
+          <l>איך חשבת להשתנות</l>
+          <l>מה עכשיו את מבקשת ?</l>
+          <l>שובי בדרכים לנדוד.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שובי, שובי, שובי לים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

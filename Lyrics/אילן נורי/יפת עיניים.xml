@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יפת עיניים</title>
+        <singer classification="male singer">אילן נורי</singer>
+        <writer>רמי לב</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יפת עיניים</head>
+        <lg number="1" type="stanza">
+          <l>הלב זורח בתוך הערפל</l>
+          <l>שב אני אלייך נערה </l>
+          <l>כוכב השחר לעיני נופל</l>
+          <l>ומאיר פנייך יקרה </l>
+          <l>עוד יום זועק אלייך</l>
+          <l>בלעדייך אין לי מחר</l>
+          <l>בנפשי עולים שירייך</l>
+          <l>מגלים את כל מה שנסתר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהובתי, יפת עיניים</l>
+          <l>שמרי לי את סודות אהבתך </l>
+          <l>כי בשבילך חיי אתן    </l>
+          <l>אלחם תמיד למענך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מגע של קסם כזהב טהור</l>
+          <l>שפורט בתוך הנשמה</l>
+          <l>את גן העדן, שעליו אשמור</l>
+          <l>את אהבתי הראשונה</l>
+          <l>עוד יום זועק אלייך,</l>
+          <l>בלעדייך אין לי מחר</l>
+          <l>בנפשי עולים שירייך</l>
+          <l>מגלים את כל מה שנסתר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהובתי, יפת עיניים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עדר של שוורים</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>יהודה אור כשדים</writer>
+        <composer>missing</composer>
+        <album>שיר טיול</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עדר של שוורים</head>
+        <lg number="1" type="stanza">
+          <l>עדר של שוורים רץ למטה</l>
+          <l>אני קורא לך, אני קורא לך</l>
+          <l>את שוטפת כלים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עדר של שוורים רץ למטה</l>
+          <l>החתולים על העצים</l>
+          <l>כמו פירות אקזוטיים, פרוותיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תחזיקי את המעקה,</l>
+          <l>תראי איתי, איתי</l>
+          <l>את הישבנים האדומים והגדולים נעלמים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

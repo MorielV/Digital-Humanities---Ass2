@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המלחמה לשלום</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המלחמה לשלום</head>
+        <lg number="1" type="stanza">
+          <l>בתש"ח, את חירותך, נתתי לך.</l>
+          <l>בקרבות סיני פרשתי לך מדבר.</l>
+          <l>ובששת הימים, ירושלים שבה בך,</l>
+          <l>להיות לעיר ואם בראש ההר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואני, הנה אני מולך,</l>
+          <l>בי נשבעתי, בבואי לכאן היום,</l>
+          <l>להגיש לך את התכלת,</l>
+          <l>להגיש לך את האור,</l>
+          <l>להגיש לך, על כפי, את השלום.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את ידעת את מלחמות ההתשה,</l>
+          <l>מפסגת חרמון ועד מדבר סיני.</l>
+          <l>וביום הכיפורים, כשנשמתך תפילה ביקשה,</l>
+          <l>שוב יצאת כנגד מבקשי חיי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואני, הנה אני מולך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

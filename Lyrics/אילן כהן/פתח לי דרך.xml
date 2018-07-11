@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פתח לי דרך</title>
+        <singer classification="unknown">אילן כהן</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פתח לי דרך</head>
+        <lg number="1" type="stanza">
+          <l>כל העולם מלא עצב ושמחה</l>
+          <l>קצת אושר וכאב צער וברכה</l>
+          <l>וממך אלוהים מה עוד אבקש</l>
+          <l>פתח לי דרכים טובות שלא אתייאש</l>
+          <l>וממך אלוהים מה עוד אבקש</l>
+          <l>פתח לי דרכים טובות שלא אתייאש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פתח את השער כדי שאצליח</l>
+          <l>קח את הצער תן לשמוח</l>
+          <l>בלב תן אמונה בתוך הנשמה</l>
+          <l>תן כח למחר להיות מאושר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל יום שחולף לא משאיר דבר</l>
+          <l>גם חייו של אדם הם דבר נגמר</l>
+          <l>וממך אלוהים מה עוד אבקש</l>
+          <l>תן לי שמחה בלב שלא אתייאש</l>
+          <l>וממך אלוהים מה עוד אבקש</l>
+          <l>תן לי שמחה בלב שלא אתייאש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פתח את השער כדי שאצליח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פעם איתך ולמות</title>
+        <singer classification="unknown">אושרי פרי</singer>
+        <writer>שיקו חייק</writer>
+        <composer>שיקו חייק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פעם איתך ולמות</head>
+        <lg number="1" type="stanza">
+          <l>מחכה לשעון</l>
+          <l>רוצה אותך כבר לראות</l>
+          <l>מדמיין מה את לובשת</l>
+          <l>מדמיין במחשבות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא יכול יותר לשתוק</l>
+          <l>אני רוצה לך לצעוק</l>
+          <l>אך השעה מאוחרת</l>
+          <l>אז בשקט מתחיל לשתות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>התשוקה אותי הורסת</l>
+          <l>היא בראשי מהדהדת</l>
+          <l>אומר לך דבר פשוט</l>
+          <l>פעם איתך ואז למות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ממני את מתחמקת</l>
+          <l>אך בתוכך את בי חושקת</l>
+          <l>אני מבטיח לך מתוקה</l>
+          <l>אם תתני לי לא אברח ילדה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אותי את משגעת</l>
+          <l>מתאפק בך לא לגעת</l>
+          <l>בסוף זה יבוא לבד</l>
+          <l>וזה יהיה יותר מנחמד</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>שתביני אותי נכון</l>
+          <l>אני רוצה להיות הראשון</l>
+          <l>אני לך מבטיח</l>
+          <l>לא אתייאש כי בגופי בוערת אש</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>התשוקה אותי הורסת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

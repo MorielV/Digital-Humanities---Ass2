@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מילימטר</title>
+        <singer classification="female singer">אחינועם ניני</singer>
+        <writer>אחינועם ניני</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מילימטר</head>
+        <lg number="1" type="stanza">
+          <l>במילימטר שביני לבינך</l>
+          <l>אין מקום</l>
+          <l>והאור הופך כחול</l>
+          <l>פתאום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>במילימטר שביני לבינך</l>
+          <l>כמו תמונה</l>
+          <l>זיכרונות של אושר</l>
+          <l>כתום</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואמרת לי בואי, בואי</l>
+          <l>תראי איך השמש שוקעת לים</l>
+          <l>ואמרת לי בואי, בואי</l>
+          <l>במילימטר שבינו לבינה</l>
+          <l>כל החלומות בעולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בקילומטר שביני לבינך</l>
+          <l>אין פרחים</l>
+          <l>והאור הופך לבן</l>
+          <l>ורע</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בספידומטר מפוצץ מחוג</l>
+          <l>אין מספיק</l>
+          <l>מספרים מימין למאה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואמרת לי בואי, בואי</l>
+          <l>תראי איך השמש שוקעת לים</l>
+          <l>ואמרת לי בואי, בואי</l>
+          <l>במילימטר שבינו לבינה</l>
+          <l>כל החלומות בעולם</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>במילימטר בין העט אל הדף</l>
+          <l>אין חדש</l>
+          <l>זו אותה הנשמה</l>
+          <l>שנים</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>במילימטר שמעל העפעף</l>
+          <l>יש חשש</l>
+          <l>מחלל עצום נפער</l>
+          <l>בפנים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

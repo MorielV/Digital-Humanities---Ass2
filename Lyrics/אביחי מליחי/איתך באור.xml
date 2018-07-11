@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איתך באור</title>
+        <singer classification="unknown">אביחי מליחי</singer>
+        <writer>דיוניסיס צקניס</writer>
+        <composer>דיוניסיס צקניס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איתך באור</head>
+        <lg number="1" type="stanza">
+          <l>ליבי אינו פוסק מגעגוע</l>
+          <l>אחרייך אלך תמיד אהיה צמא</l>
+          <l>ומהאהבה שלי לא תמה</l>
+          <l>אם אלייך אבוא אשיר לך נשמה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הדרך ארוכה כה מייגעת</l>
+          <l>אך בשביל בו נלך אולי נמצא מקום</l>
+          <l>שם אכתיר אותך ולך אהיה המלך</l>
+          <l>בתוך ארמון מזהב רק שם אותך אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם רק תגידי שבינינו</l>
+          <l>דבר לא יהיה לבד עצוב אשאר</l>
+          <l>אם רק תאמרי כן אהבתנו</l>
+          <l>אבקש את ידך יפה ולא אחר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כתבתי לך שירי ובך נטוע</l>
+          <l>רגש אהבה שבא מתוך הלב</l>
+          <l>בתוכי כואב כולי וכה כנוע</l>
+          <l>אלייך רוצה אני האושר להסר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>האם חיוך אוכל בך להטביע</l>
+          <l>לאחוז בך כל חג להיות איתך באור</l>
+          <l>תני לי רק ליבך ולו מעט לגמוע</l>
+          <l>התהיי לי אהובה כן לא אוכל לעצור</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אם רק תגידי שבינינו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

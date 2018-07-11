@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דבר איתי 2</title>
+        <singer classification="female singer">אסתר שמיר</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>אסתר שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דבר איתי</head>
+        <lg number="1" type="stanza">
+          <l>ענן כיסה את פני האהבה </l>
+          <l>ענן ביני ובינך </l>
+          <l>אתה שותק מפני שתיקתי </l>
+          <l>ואני מפני שתיקתך </l>
+          <l>ארכין את ראשי מכאב </l>
+          <l>נשימתי כבדה </l>
+          <l>אתה יודע כי היית כוזב </l>
+          <l>ומרכין את ראשך. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>דבר איתי - יש עננים שמתפזרים מהר </l>
+          <l>דבר איתי - יש דברים שנסלחים במילה </l>
+          <l>דבר איתי - כל רגע שעובר </l>
+          <l>הוא רגע מחילה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ענן כיסה את פני האהבה </l>
+          <l>ענן ביני ובינך </l>
+          <l>כמו מטר שבוי באויר </l>
+          <l>מחכה לאות סערה. </l>
+          <l>מה יהיה עכשיו? </l>
+          <l>מה יפנה את הדרך? </l>
+          <l>דבר איתי כל עוד אפשר </l>
+          <l>לכעס אין ערך. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דבר איתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

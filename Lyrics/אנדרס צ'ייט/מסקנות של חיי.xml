@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מסקנות של חיי</title>
+        <singer classification="unknown">אנדרס צ ייט</singer>
+        <writer>אנדרס צ'ייט</writer>
+        <composer>אנדרס צ'ייט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מסקנות של חיי</head>
+        <lg number="1" type="stanza">
+          <l>אלה המסקנות שהבנתי בחיי</l>
+          <l>שתוכלו למצוא בכל מקום בעולם</l>
+          <l>אם חושב על סיפורים שעוד לא חייתי</l>
+          <l>הגורל יעזור לי לחפש אותם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואנסה לזכור את אלה שחיכו לי</l>
+          <l>ואנסה לזכור את כל מה שאין לי עכשיו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד זוכר את כל הנשיקות שאיבדתי</l>
+          <l>והידיים שנתנו לי את חומם</l>
+          <l>הנשים שבגופי עברו כל לילה</l>
+          <l>והאישה למי שאני אתן את האהבה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם המוות היא הסוף של הנוסטלגיה</l>
+          <l>אז תודה שיש לי זכרונות בלב</l>
+          <l>ואם אגיד שלא חזר לי שום דבר</l>
+          <l>אז זה כל האהבה שתישאר אצלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

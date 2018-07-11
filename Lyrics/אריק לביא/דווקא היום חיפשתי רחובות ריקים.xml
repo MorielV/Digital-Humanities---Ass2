@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דווקא היום חיפשתי רחובות ריקים</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>יהודה אלמוג</writer>
+        <composer>יהודה אלמוג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דווקא היום חיפשתי רחובות ריקים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>דווקא היום חיפשתי רחובות ריקים, דווקא היום </l>
+          <l>דווקא היום אלפי אנשים עוברים, אלפי אנשים עוברים </l>
+          <l>אנשים עוברים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא פגשתי בדמותך ניצבת בכיכר </l>
+          <l>לא פגשתי בדמותך ושוב עוד יום עבר </l>
+          <l>עוד יום עבר, עוד יום עבר </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>דווקא היום חיפשתי רחובות ריקים... </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לו פגשתי בדמותך ניצבת בכיכר </l>
+          <l>לו פגשתי בדמותך, אך שוב עוד עבר </l>
+          <l>עוד יום עבר, עוד יום עבר </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>דווקא היום חיפשתי רחובות ריקים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

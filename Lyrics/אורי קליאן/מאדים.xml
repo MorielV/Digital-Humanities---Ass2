@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאדים</title>
+        <singer classification="male singer">אורי קליאן</singer>
+        <writer>אורי קליאן</writer>
+        <composer>אורי קליאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאדים</head>
+        <lg number="1" type="stanza">
+          <l>אני לא בכושר ואין מפתח לאושר </l>
+          <l>ההיפים הפכן ליאפים וזה פחות כואב </l>
+          <l>אולי חיינו בסרט שהאמת משחררת </l>
+          <l>רצינו אח אוהב אבל אדם לאדם זאב </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בחוץ הילדים בכדור משחקים </l>
+          <l>ואמא לוקחת כדור נגד כאבים </l>
+          <l>בוא נחסל את כדור הארץ התמים </l>
+          <l>ונעבור לגור במאדים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>העולם השתגע ואני לא שומע </l>
+          <l>את הצעקה הגדולה, את קולות ההמון ברחוב </l>
+          <l>ולא אשתכנע, כי רואה ויודע </l>
+          <l>שיכול להיות סוף טוב, שיש דרך אחרת לחשוב </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בחוץ הילדים בכדור משחקים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

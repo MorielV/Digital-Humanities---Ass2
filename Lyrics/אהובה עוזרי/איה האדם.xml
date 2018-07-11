@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איה האדם</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איה האדם</head>
+        <lg number="1" type="stanza">
+          <l>כוס היין בידי</l>
+          <l>טעמו כה מריר</l>
+          <l>מתוכו נשקף לי</l>
+          <l>החיים המרים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איה אותו האדם</l>
+          <l>אשר מבין את הזולת</l>
+          <l>את אותו העני</l>
+          <l>אשר מביט בתחנונים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זעקה מהחלון</l>
+          <l>אלוהים נשאת לו</l>
+          <l>היא ממול בשכונה</l>
+          <l>שמחת חתונה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ליבי נכמר לאדם</l>
+          <l>אשר יושב שם בדד</l>
+          <l>וכותב את הנשכח</l>
+          <l>אולי מחר החגיגה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

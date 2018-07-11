@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר אהבה פשוט</title>
+        <singer classification="unknown">איה כורם</singer>
+        <writer>איה כורם</writer>
+        <composer>איה כורם</composer>
+        <album>איה כורם</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר אהבה פשוט</head>
+        <lg number="1" type="stanza">
+          <l>עוד יבוא לנו בוקר, מתוך הסדינים</l>
+          <l>יעלה שוב ריחו של הגוף.</l>
+          <l>יצחקו צהריים חזק בפנים</l>
+          <l>וצחוקם מסנוור וחצוף.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוד ירד לנו חושך, מבלי שנרגיש</l>
+          <l>ידלקו פנסים ראשונים.</l>
+          <l>והלילה יבוא ויפול על הכביש</l>
+          <l>וילחש בשמות נכונים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה שיר אהבה פשוט,</l>
+          <l>פשוט שיר אהבה</l>
+          <l>ללילה בקיץ,</l>
+          <l>לרוח טובה.</l>
+          <l>זה שיר אהבה פשוט,</l>
+          <l>פשוט שיר אהבה</l>
+          <l>ללילה בקיץ.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד יגיעו שעות מתוקות במרפסת</l>
+          <l>שלא נזקקות למילים.</l>
+          <l>עוד יצאו שבתות בשלווה ובחסד,</l>
+          <l>ברשרוש העדין בעלים.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יערכו צלחות וכלים על שולחן,</l>
+          <l>ארוחות יתבשלו בסירים,</l>
+          <l>ואתה גם תבוא ותשב איתי כאן,</l>
+          <l>אני לא אצטרך עוד שירים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה שיר אהבה פשוט...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>עוד ינוח העט, תסגר המחברת,</l>
+          <l>רק לצאת ולנשום קצת אוויר.</l>
+          <l>הרחובות שוממים, השעה מאוחרת,</l>
+          <l>רק אני והלילה בעיר.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>זה שיר אהבה פשוט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

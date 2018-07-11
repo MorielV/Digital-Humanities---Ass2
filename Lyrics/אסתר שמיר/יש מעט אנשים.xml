@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש מעט אנשים</title>
+        <singer classification="female singer">אסתר שמיר</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>אסתר שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש מעט אנשים</head>
+        <lg number="1" type="stanza">
+          <l>יש מעט אנשים שעפים</l>
+          <l>והרבה קוצצים להם כנפיים</l>
+          <l>מעט אנשים ששרים</l>
+          <l>והרבה מזייפים את שירם</l>
+          <l>יש מעט אנשים שבונים</l>
+          <l>והרבה מחבלים בירכתיים</l>
+          <l>יש מעט אנשים אוהבים</l>
+          <l>והרבה פוחדים מעצמם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ובשקט הבא מחמלת שמיים</l>
+          <l>של שלוות קיום תמימה</l>
+          <l>די באחד שקולו מחריש אוזניים</l>
+          <l>להרוס את הדממה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש מעט שנוגעים באמת</l>
+          <l>והרבה שעוצמים את העיניים</l>
+          <l>יש מעט שיודעים איך לתת</l>
+          <l>והרבה שקומצים את ידם</l>
+          <l>יש מעט אנשים שחולמים</l>
+          <l>והרבה ששמים להם רגליים</l>
+          <l>יש מעט אנשים שמחים</l>
+          <l>והרבה שסגרו את ליבם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ובשקט הבא מחמלת שמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

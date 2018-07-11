@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תשטה באהבה</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>תלמה אליגון רוז</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תשטה באהבה</head>
+        <lg number="1" type="stanza">
+          <l>אם געגועים שוברים את לבבך</l>
+          <l>אם אתה חולם ולא איכפת לך</l>
+          <l>תבוז לגאווה ושמח באהבה</l>
+          <l>אל תשטה בה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היא את העולם הופכת לאחר</l>
+          <l>לא יודעת גבול ומה זאת לוותר</l>
+          <l>אם רק בה תשחק - בן רגע תישחק</l>
+          <l>ולא תהיה לך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את כל יופיו של העולם הגישה היא לך</l>
+          <l>איך בה התלת איך</l>
+          <l>איך לא שמרת איך</l>
+          <l>היא לא תשוב יותר</l>
+          <l>היא לא תשוב יותר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם אתה את צער העולם כואב</l>
+          <l>אם אתה גם קצת על אחרים חושב</l>
+          <l>חייך בגאווה ושמח באהבה</l>
+          <l>אל תשטה בה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היא הופכת בית לארמון זהב</l>
+          <l>היא דמעות עוטפת בחיוך רחב</l>
+          <l>אך אל בה תשחק, בן רגע תישחק</l>
+          <l>ולא תהיה לך.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את כל יופיו של העולם הגישה היא לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

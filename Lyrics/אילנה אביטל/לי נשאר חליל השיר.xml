@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לי נשאר חליל השיר</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>אלישבע</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לי נשאר חליל השיר</head>
+        <lg number="1" type="stanza">
+          <l>לי נשאר חליל השיר</l>
+          <l>הנחמד הקטן</l>
+          <l>הוא בוכה בימות סגריר</l>
+          <l>על הכר על הגן</l>
+          <l>ועגום אבל הצליל</l>
+          <l>כי לבי נתרוקן</l>
+          <l>מן הכאב ומן הגיל</l>
+          <l>כי לבי הוא זקן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הה, שמעו לקול חליל</l>
+          <l>הבוכה על הלב</l>
+          <l>שנותר לו רק הצליל</l>
+          <l>היתום העצב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לארבע רוחות פרחו</l>
+          <l>הזיות נעוריו</l>
+          <l>נמלטו ונשכחו</l>
+          <l>גם שיריו, גם שיריו</l>
+          <l>יתומים ואבלים</l>
+          <l>הם תועים בעולם</l>
+          <l>בלבבות אחרים</l>
+          <l>מבקשים מפלטם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הה, שמעו לקול חליל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

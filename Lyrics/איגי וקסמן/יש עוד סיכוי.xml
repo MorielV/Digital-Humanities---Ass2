@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש עוד סיכוי</title>
+        <singer classification="female singer">איגי וקסמן</singer>
+        <writer>איגי וקסמן</writer>
+        <composer>אייל אבן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש עוד סיכוי</head>
+        <lg number="1" type="stanza">
+          <l>יש פניה חדה ימינה, כביש ראשי שם.</l>
+          <l>אפשרות לראות קדימה, אין עצים כאן.</l>
+          <l>אם היה כדאי לדעת</l>
+          <l>דשא שם ירוק יותר</l>
+          <l>לא רוצים לחצות את הגשר</l>
+          <l>אין רצון להתפזר</l>
+          <l>תחזיקו חזק.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש אחר כך</l>
+          <l>יש על מה לחשוב</l>
+          <l>יש מחר גם ללכת ברחוב</l>
+          <l>לה לה לה לה</l>
+          <l>יש עוד סיכוי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רכבות טסות בשקט, אין כאן רעש</l>
+          <l>בעיה של זמן היתה פה, לא כרגע</l>
+          <l>אם היה כדאי לדעת</l>
+          <l>דשא שם ירוק יותר</l>
+          <l>היינו אז חוזרים אחורה</l>
+          <l>מנסים להסתתר</l>
+          <l>תחזיקו חזק.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש אחר כך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

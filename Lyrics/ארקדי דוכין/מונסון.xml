@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מונסון</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>מיכה שטרית</writer>
+        <composer>missing</composer>
+        <album>נקודת מבט</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מונסון</head>
+        <lg number="1" type="stanza">
+          <l>נשרוף ת'זמן נשרוף נשרוף</l>
+          <l>את כל מה שבינינו</l>
+          <l>תני לרגע שיחלוף</l>
+          <l>העבר עוד לפנינו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמו שבאתי הלכתי</l>
+          <l>זה הכל חלומות</l>
+          <l>ואולי לא הייתי שם לאהוב</l>
+          <l>כנראה ששכחתי</l>
+          <l>אולי הלכתי רחוק</l>
+          <l>לא יכול לאהוב אותך מקרוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הצמאון לאהבה</l>
+          <l>ורעב שמתמשך</l>
+          <l>ויש שושן ויש בו קוץ</l>
+          <l>ושריטה קטנה בלב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמו שבאת לי הלכת לי</l>
+          <l>זה הכל חלומות</l>
+          <l>ואולי לא היית שם לאהוב</l>
+          <l>כנראה שנשכחתי</l>
+          <l>את הולכת רחוק</l>
+          <l>כנראה שזה ככה</l>
+          <l>בחלומות.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

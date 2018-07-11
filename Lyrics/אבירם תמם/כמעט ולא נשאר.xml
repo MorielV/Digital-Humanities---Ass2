@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמעט ולא נשאר</title>
+        <singer classification="unknown">אבירם תמם</singer>
+        <writer>אבירם תמם</writer>
+        <composer>אבירם תמם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמעט ולא נשאר</head>
+        <lg number="1" type="stanza">
+          <l>כמעט ולא נשאר מזכרת מהיופי</l>
+          <l>כל פעם מחדש אני נזכר וזה קשה לי</l>
+          <l>גם אני בין הילדים שמצפים שתחזרי כי</l>
+          <l>כמעט ולא נשאר כמעט ולא נשאר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אוי ירושלים שלי על חומותייך תבני</l>
+          <l>אוי ירושלים שלי אם אשכחך תשכח ימיני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לראות אותך אבא מחוץ לבית</l>
+          <l>אני יושב ובוכה ומסתכל לשמיים</l>
+          <l>כמו ילדה אבודה השכינה לבדה</l>
+          <l>זועקת בתפילה זועקת בתפילה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אוי ירושלים שלי על חומותייך תבני</l>
+          <l>אוי ירושלים שלי אם אשכחך תשכח ימיני</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לפעמים אני שוכח נהנה ממה שנתן לי</l>
+          <l>בורא עולם אומר בני אל תשכחני</l>
+          <l>אתם הישנים שמחים ומתענגים</l>
+          <l>ואני זה שבראתי את כל הברואים לבד</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אוי ירושלים שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

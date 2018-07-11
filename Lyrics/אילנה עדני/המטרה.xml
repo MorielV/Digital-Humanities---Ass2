@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המטרה</title>
+        <singer classification="unknown">אילנה עדני</singer>
+        <writer>אילנה עדני</writer>
+        <composer>שירה ביליג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המטרה</head>
+        <lg number="1" type="stanza">
+          <l>כשהייתי ילד הלכתי בשביל אחד ארוך שעות</l>
+          <l>לא ידעתי לאן יוביל אותי או לא לאור רחוק</l>
+          <l>ביקשתי את אותו חלום ולא רציתי לגנוז אותו לא לא</l>
+          <l>לא הפסקתי לא וויתרתי</l>
+          <l>לא התעוררתי מהחלום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תתעוור מתי תתעורר</l>
+          <l>בדרך שלך ישנם לפעמים אנשים</l>
+          <l>אל תדרוך הם לא אבנים</l>
+          <l>אין המטרה מקדשת את האמצעים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איש חכם אמר לי לך לאט</l>
+          <l>לאן אתה רץ ?</l>
+          <l>אל תסטה בדרך</l>
+          <l>תטפס בשביל אל הפסגה</l>
+          <l>כשתרים עוד אבן אז תראה</l>
+          <l>הדרך לא פשוטה</l>
+          <l>לא הבנתי לא ידעתי</l>
+          <l>מה יגנוב אותו חלום בבוא היום</l>
+          <l>אותו חלום בבוא היום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תתעוור מתי תתעורר</l>
+          <l>בדרך שלך ישנם לפעמים אנשים</l>
+          <l>אל תדרוך הם לא אבנים</l>
+          <l>אין המטרה מקדשת את האמצעים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

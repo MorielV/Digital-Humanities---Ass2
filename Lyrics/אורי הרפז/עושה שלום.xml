@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עושה שלום</title>
+        <singer classification="unknown">אורי הרפז</singer>
+        <writer>מן התפילה</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עושה שלום</head>
+        <lg number="1" type="stanza">
+          <l>עושה שלום במרומיו</l>
+          <l>הוא יעשה שלום עלינו</l>
+          <l>ועל כל עם ישראל</l>
+          <l>ואמרו, אמרו אמן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יעשה שלום, יעשה שלום</l>
+          <l>שלום עלינו ועל כל ישראל</l>
+          <l>יעשה שלום, יעשה שלום</l>
+          <l>שלום עלינו ועל כל ישראל.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר השיכורים</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>אבי ביטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר השיכורים</head>
+        <lg number="1" type="stanza">
+          <l>רק השיכורים מבינים אותי</l>
+          <l>הכוס והמשקה הם חברים שלי</l>
+          <l>שיורד האור אני מתחיל לחיות</l>
+          <l>עם כל החברים שסובלים מהחיים</l>
+          <l>אל תשאלו אותי מדוע זה ולמה</l>
+          <l>החיים נראים ממש ממש כמו קרחנה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מלא לי את הכוס עד שאפסיק לסבול</l>
+          <l>שהראש יהיה מלא אני אשכח הכל</l>
+          <l>לא הכוס הראשונה ולא האחרונה</l>
+          <l>אני אשתה ורק אשתה עד שאפול על הרצפה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בכל לגימה אני מחפש תקווה</l>
+          <l>תמיד בתוך הכוס תמיד היא מופיע</l>
+          <l>האם זה דימיון האם זה רק חלום</l>
+          <l>מכל הבקבוקים בסוף אבנה ארמון</l>
+          <l>ואז אני יישב עם כל הבקבוקים</l>
+          <l>ואז אני ישיר את שיר השיכורים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מלא לי את הכוס...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

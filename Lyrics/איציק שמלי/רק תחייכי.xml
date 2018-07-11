@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק תחייכי 2</title>
+        <singer classification="male singer">איציק שמלי</singer>
+        <writer>איציק שמלי</writer>
+        <composer>איציק שמלי</composer>
+        <album>סיפור אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק תחייכי</head>
+        <lg number="1" type="stanza">
+          <l>אם לפעמים עצבות תוקפת את ליבך</l>
+          <l>הרימי את ראשך אני מולך ניצב</l>
+          <l>לשמור ולהגן לסלול לך את דרכך</l>
+          <l>ולהבטיח שום דבר לך לא יכאב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק תחייכי</l>
+          <l>אני אוהב שאת צוחקת</l>
+          <l>וכמה כמה את יפה כשאת שמחה</l>
+          <l>רק תחייכי </l>
+          <l>ולליבי יחזור השקט</l>
+          <l>ואז הדרך אל האושר בטוחה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאת צוחקת מדינות עושות שלום</l>
+          <l>ואנשים כבר לא חושבים על מלחמות</l>
+          <l>והשקט בעולם חוזר פתאום</l>
+          <l>עם החיוך שלך את מפילה חומות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק תחייכי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמא אדמה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>יענקל'ה רוטבליט</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמא אדמה</head>
+        <lg number="1" type="stanza">
+          <l>היא תביט אלי טובה וחכמה</l>
+          <l>כמו בבן השב הביתה מן הדרך</l>
+          <l>תחבק אותי אליה בנשימה חמה</l>
+          <l>אמא אדמה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היא תגיד - "אתה עייף מן המסע</l>
+          <l>אל תפחד אני חובשת את פצעיך"</l>
+          <l>היא תיקח אותי אליה כשאקרא בשמה</l>
+          <l>אמא אדמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא תביט אלי טובה וחכמה</l>
+          <l>היא שקטה כל כך וכמו תמיד סולחת</l>
+          <l>תחבק אותי אליה בנשימה חמה</l>
+          <l>אמא אדמה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

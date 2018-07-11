@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פרפר נחמד</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>לאה נאור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פרפר נחמד</head>
+        <lg number="1" type="stanza">
+          <l>פרפרים מכל מיני צבעים</l>
+          <l>ירדו אלי ביום אביב נעים</l>
+          <l>הביאו לי במתנה</l>
+          <l>ריחות שדה וקצת אבקה</l>
+          <l>וגם דרישת שלום חמה</l>
+          <l>מקרן שמש מתוקה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז בוא אלי פרפר נחמד</l>
+          <l>שב אצלי על כף היד</l>
+          <l>שב, תנוח, אל תפחד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ריחפו ברוח הקלה</l>
+          <l>כשהתעייפו, ירדו ישר אלי</l>
+          <l>הם נחו קצת, שמעו סיפור</l>
+          <l>וגם שתו טיפה של צוף</l>
+          <l>ואז כולם פרחו להם</l>
+          <l>פשוט, כי בא להם לעוף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז בוא אלי פרפר נחמד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חוט הזהב</title>
+        <singer classification="unknown">אפריל</singer>
+        <writer>שי גרברז</writer>
+        <composer>גלעד מאיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חוט הזהב</head>
+        <lg number="1" type="stanza">
+          <l>מכיוונים שונים התחברנו לאחד </l>
+          <l>בחרנו בכיוון יצאנו למסע </l>
+          <l>ובין הרי אולי ובין שדות התקווה </l>
+          <l>צעדנו שלווי ידיים אל גיא האהבה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לצד חופי ים הכאב את לחשת את שמי </l>
+          <l>ומול מדבר יבש של מחשבה בחרתי בלבי </l>
+          <l>וכך צעדנו בינינו חוט זהב נרקם </l>
+          <l>אך אם הוא לא נמתח איך נדע שהוא קיים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לפעמים צריך את הלילה </l>
+          <l>שניזכר ביום </l>
+          <l>לפעמים צריך את הפרדה </l>
+          <l>כדי שתבוא האהבה... </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מולנו התפצלות דרכנו נפרדות </l>
+          <l>אך חוט הזהב נמתח למרחקים </l>
+          <l>ורק בראשינו יש פחדים </l>
+          <l>שיפגשו דרכינו זה יהיה בפסגות הרים </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לפעמים צריך את הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

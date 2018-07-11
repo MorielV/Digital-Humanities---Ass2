@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חצי 4</title>
+        <singer classification="male singer">אמיר דדון</singer>
+        <writer>טל רביב</writer>
+        <composer>אמיר דדון</composer>
+        <album>אמיר דדון</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חצי</head>
+        <lg number="1" type="stanza">
+          <l>חצי עצוב חצי שמח</l>
+          <l>חצי נשאר פה חצי בורח</l>
+          <l>חצי נגמל חצי מעשן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חצי נובל חצי פורח</l>
+          <l>חצי גר פה חצי אורח</l>
+          <l>חצי אופטימי חצי מיואש</l>
+          <l>חצי עוקץ וחצי דבש</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>וזה רק עניין של זמן</l>
+          <l>עד שאברח רחוק מכאן</l>
+          <l>מלחמות בתוך הלב</l>
+          <l>כן זה רק עניין של זמן</l>
+          <l>לא מתעורר ולא נרדם</l>
+          <l>מלחמות בתוך הלב</l>
+          <l>חצי שונא אותך חצי אוהב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חצי זוכר חצי שוכח</l>
+          <l>חצי נסגר חצי פותח</l>
+          <l>חצי קורה חצי מדמיין</l>
+          <l>חצי נותן חצי לוקח</l>
+          <l>חצי כועס חצי סולח</l>
+          <l>חצי אופטימי חצי מיואש</l>
+          <l>חצי עוקץ וחצי דבש</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>וזה רק עניין של זמן</l>
+          <l>עד שאברח רחוק מכאן</l>
+          <l>מלחמות בתוך הלב</l>
+          <l>כן זה רק עניין של זמן</l>
+          <l>לא מתעורר ולא נרדם</l>
+          <l>מלחמות בתוך הלב</l>
+          <l>חצי שונא אותך חצי אוהב</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>חצי מסתורי חצי שקוף</l>
+          <l>חצי נשמה וחצי גוף</l>
+          <l>חצי מודע חצי מתעלם</l>
+          <l>חצי רוצה להיות שלם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

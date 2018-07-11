@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיפורים ושקרים</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>יוש גרנות</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיפורים ושקרים</head>
+        <lg number="1" type="stanza">
+          <l>הכאב שהותרת מלווה אותי</l>
+          <l>זרכונות מציפים שוב את נשמתי</l>
+          <l>הכאב שהותרת מלווה אותי</l>
+          <l>איך יכולת כך לרמוס את אהבתי</l>
+          <l>למה זה עוררת בי את האשליה</l>
+          <l>סיפורים ושקרים זה מה שהיה</l>
+          <l>סיפורים ושקרים זה מה שהיה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רציתי להאמין בזאת האהבה</l>
+          <l>ניסיתי ללכת אחר לבבי</l>
+          <l>רציתי להאמין שיש לנו תיקווה</l>
+          <l>ניסיתי לתת לך את כל מה שבי</l>
+          <l>למה זה עוררת בי את האשליה</l>
+          <l>סיפורים ושקרים זה מה שהיה</l>
+          <l>סיפורים ושקרים זה מה שהיה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך יכול כך לנהוג</l>
+          <l>אני לא מבין</l>
+          <l>איך אוכל שוב באישה להאמין</l>
+          <l>איך יכולת כך לנהוג</l>
+          <l>אני לא מבין</l>
+          <l>לא מוכן שוב בשקרים להאמין</l>
+          <l>למה זה עוררת בי את האשליה</l>
+          <l>סיפורים ושקרים זה מה שהיה</l>
+          <l>סיפורים ושקרים זה מה שהיה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רציתי להאמין...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

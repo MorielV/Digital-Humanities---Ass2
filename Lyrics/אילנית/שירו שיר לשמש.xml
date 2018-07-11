@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שירו שיר לשמש</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שירו שיר לשמש</head>
+        <lg number="1" type="stanza">
+          <l>שירו לשמש אשר את יומנו צובע זהב,</l>
+          <l>שירו לשמש אשר בליבנו פוקח אשנב,</l>
+          <l>זה הרוקם את שירנו שלנו בחוט אהבה,</l>
+          <l>שירו לשמש החי בתוכינו כאש להבה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שיר מול השמש הטוב</l>
+          <l>שלך ניתן,</l>
+          <l>הוא שזורח עלי ועליך</l>
+          <l>מקרעי הענן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שירו לשמש אשר את יומנו צובע זהב,</l>
+          <l>שירו לשמש אשר בליבנו פוקח אשנב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שירו לשמש הבא מן האופק אדום ונרגש,</l>
+          <l>שירו לשמש השט מעלינו כל יום מחדש,</l>
+          <l>זה המדליק את נרות נשמותינו כל בוקר השכם,</l>
+          <l>זה הקושר את חדרי לבבנו בלילה נושם.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שיר מול השמש הטוב</l>
+          <l>שאותך אוהב,</l>
+          <l>הוא שיאיר על שירי ושיריך</l>
+          <l>החודרים אל הלב.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>שירו לשמש החי בתוכינו כאש,</l>
+          <l>שירו לשמש החי בתוכינו כאש להבה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

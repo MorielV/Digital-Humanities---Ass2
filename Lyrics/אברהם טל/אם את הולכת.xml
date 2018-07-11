@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם את הולכת</title>
+        <singer classification="male singer">אברהם טל</singer>
+        <writer>אברהם טל</writer>
+        <composer>אברהם טל</composer>
+        <album>אורות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם את הולכת</head>
+        <lg number="1" type="stanza">
+          <l>אם את הולכת או אם את חוזרת</l>
+          <l>שייגמר יומך בטוב</l>
+          <l>יוצאת אל הדרך, נראית מאושרת</l>
+          <l>ליבי איתך לכל היום</l>
+          <l>אז אני שר...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוצם עיניים ועוזב את הידיים</l>
+          <l>ופתאום הכל נראה כמו חלום</l>
+          <l>את מחייכת לי ממול</l>
+          <l>אני קולט כמה עבדנו קשה עד היום</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז אם את הולכת או אם את חוזרת</l>
+          <l>שייגמר יומך בטוב</l>
+          <l>יוצאת אל הדרך, נראית מאושרת</l>
+          <l>ליבי איתך לכל היום</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אחר הצהריים והשמש בשמיים</l>
+          <l>ושומעים את הילדים מרחוק</l>
+          <l>בכלל לא חורף, בקושי אביב</l>
+          <l>ימים טובים נותנים עוד כוח לצחוק</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שים אלי לב שוב נתאהב</l>
+          <l>בוא נדבר להתקרב</l>
+          <l>ולחוות אחד את השני מחדש</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>תני לו את הלב הוא מחכה</l>
+          <l>תני לכאב להירפא</l>
+          <l>ולחוות אחד את השני מחדש</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אז אם את הולכת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

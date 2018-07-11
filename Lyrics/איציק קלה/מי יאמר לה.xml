@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי יאמר לה</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי יאמר לה</head>
+        <lg number="1" type="stanza">
+          <l>היא כל יום אותי רואה ואני רואה אותה</l>
+          <l>מבטיה היא שולחת, אהבה בה כבר פורחת</l>
+          <l>אך אני עוד מתבייש, לא רגיל יד לבקש.</l>
+          <l>מה לעשות, נא לי הגידו</l>
+          <l>ופתרון טוב לי הציעו.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אאאאך...מי יאמר לה?</l>
+          <l>מי יספר לה שאהבתיה?</l>
+          <l>בבת-עין היא הייתה לי,</l>
+          <l>לספר לה התביישתי,</l>
+          <l>וי לי, וי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי יתן לי אומץ-לב להפסיק להתבייש?</l>
+          <l>את הצעד הקובע מי יסביר לי, מי יודע?</l>
+          <l>התבגרתי זה מכבר אך לא השתנה דבר</l>
+          <l>וביישן כמו אז נשארתי ואותה אולי הפסדתי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אאאאך...מי יאמר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

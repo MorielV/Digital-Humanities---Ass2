@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בגלגול אחר</title>
+        <singer classification="male singer">אמיר דדון</singer>
+        <writer>אמיר דדון</writer>
+        <composer>אמיר דדון</composer>
+        <album>יש אין סוף</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בגלגול אחר</head>
+        <lg number="1" type="stanza">
+          <l>יש בך את כל האור</l>
+          <l>ואני לא רואה דבר</l>
+          <l>איבדתי את התום שבלב</l>
+          <l>אל תחכי לי עוד אהובה </l>
+          <l>לכי לדרכך</l>
+          <l>אולי בגלגול אחר נפגש</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את הדרך אני אעבור</l>
+          <l>ואשאל את כל השאלות</l>
+          <l>אהיה מוכן כשאראה אותך</l>
+          <l>אולי בגלגול אחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש בך את כל החום</l>
+          <l>ואני לא מרגיש כבר כלום</l>
+          <l>נגעתי בכל דבר שאסור</l>
+          <l>אל תחכי לי עוד אהובה</l>
+          <l>לכי לדרכך</l>
+          <l>אולי בגלגול אחר נפגש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

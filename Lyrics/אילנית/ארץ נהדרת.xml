@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ארץ נהדרת</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>ברוך פרידלנד</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ארץ נהדרת</head>
+        <lg number="1" type="stanza">
+          <l>יש פה ארץ נהדרת וכדאי בה לחיות</l>
+          <l>אם יודעים לראות הכל בעיניים אחרות</l>
+          <l>יש פה ארץ נהדרת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם יודעים לצחוק אחרי שבולעים את הדמעה</l>
+          <l>אם לומדים להתחמם מחומה של הבטחה</l>
+          <l>יש פה ארץ נהדרת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז בוא ניקח נשימה</l>
+          <l>ונשבור את הקיר</l>
+          <l>הימים בהירים והלילה צעיר</l>
+          <l>אין ממה לפחד ומותר גם לשיר</l>
+          <l>המחר מתקרב והדופק מהיר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש פה ארץ נהדרת ולמרות החדשות</l>
+          <l>הכל בה יסתדר, קצת יותר או קצת פחות</l>
+          <l>יש פה ארץ נהדרת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם נראה את הזריחה רחוקים ממקלטים</l>
+          <l>אם נפסיק להיצמד בכל שעה למקלטים</l>
+          <l>יש פה ארץ נהדרת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז בוא ניקח נשימה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>יש פה ארץ נהדרת להתחיל מהתחלה</l>
+          <l>ואנחנו עוד בדרך והדרך לא קלה</l>
+          <l>יש פה ארץ נהדרת</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>אם נאהב להתאהב, אם נזכור את התקוות</l>
+          <l>אם נלמד להתרגש ונתחיל סוף סוף לחיות</l>
+          <l>אז יש פה ארץ נהדרת</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>אז בוא ניקח נשימה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

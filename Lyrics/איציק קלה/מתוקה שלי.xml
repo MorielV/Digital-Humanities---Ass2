@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתוקה שלי</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>אלי חוג'ה</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתוקה שלי</head>
+        <lg number="1" type="stanza">
+          <l>יש אחד מועד בדרך</l>
+          <l>ואחר איבד כל ערך</l>
+          <l>כל הולך לו כל אדם לגורלו</l>
+          <l>מי אשר נגע באושר</l>
+          <l>מי אשר זכה ביושר</l>
+          <l>מי אשר מצא את אהבת נפשו.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואני מוצא בך את כל העולם</l>
+          <l>ואני מוצא בך בית חם</l>
+          <l>כל הדרך לך קראתי את חלום שלי</l>
+          <l>אלוקים היה לי ושמע קולי</l>
+          <l>כל הדרך לך קראתי את חיים שלי</l>
+          <l>כמה טוב שאת כאן מתוקה שלי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם עדיין לא אהבנו</l>
+          <l>אומרים עוד לא נולדנו</l>
+          <l>זה היום ידעתי כי נולדתי</l>
+          <l>כי עכשיו שאת נוגעת</l>
+          <l>עכשיו שאת נשבעת</l>
+          <l>יש לי עוד סיבה לחיות שאת איתי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

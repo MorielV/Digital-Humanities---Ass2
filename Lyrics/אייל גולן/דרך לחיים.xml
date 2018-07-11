@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דרך לחיים</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>שלומי חן</writer>
+        <composer>שלומי חן</composer>
+        <album>דרך לחיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דרך לחיים</head>
+        <lg number="1" type="stanza">
+          <l>אותך רציתי כל הלילה </l>
+          <l>נסעתי כה רחוק וכמה </l>
+          <l>עוד דקה עד שאגיע אלייך </l>
+          <l>לוקח את הגיטרה </l>
+          <l>פורט כותב על שכמה </l>
+          <l>הנשמות שלנו תאומות </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הוי אלוהי הוי אלוהים</l>
+          <l>סמן לי דרך לחיים </l>
+          <l>אתן מתנה רוצה רק אותה</l>
+          <l>כל נשימה שבגופי </l>
+          <l>אלך רק איתך </l>
+          <l>אשמור לי אותך </l>
+          <l>כי את הדרך לחיים שלי </l>
+          <l>את החצי החזק שבי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשבי יש עייפות ופחד </l>
+          <l>אצלך יש כוח וביחד </l>
+          <l>העננים עוד יכסו שמיים </l>
+          <l>אני משלים את מה שאין לך </l>
+          <l>גם כשקשה לי דווקא יש בך </l>
+          <l>את הכוחות לחזק ולתמוך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הוי אלוהי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

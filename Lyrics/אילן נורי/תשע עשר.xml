@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תשע עשר</title>
+        <singer classification="male singer">אילן נורי</singer>
+        <writer>גילי זכאי</writer>
+        <composer>גילי זכאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תשע עשר</head>
+        <lg number="1" type="stanza">
+          <l>שמונה, מחכה לך</l>
+          <l>תשע, לא בוער לך</l>
+          <l>עשר, מתקשר ואת לא עונה לי</l>
+          <l>איפה כל מה שהבטחת לי</l>
+          <l>כל מה שאמרת לי</l>
+          <l>האמנתי לך...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נשבר ממך, כלום כבר לא הולך</l>
+          <l>לא יודע איך כל הזמן אני נשבר ממך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלו תעני לי</l>
+          <l>כל זה לא בריא לי</l>
+          <l>למה את לא מבינה</l>
+          <l>שכבר אין לי כוח</l>
+          <l>בא לי רק לברוח</l>
+          <l>ואותך לשכוח</l>
+          <l>תני לי מנוחה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נשבר ממך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

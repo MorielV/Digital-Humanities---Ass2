@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לבד 10</title>
+        <singer classification="unknown">אביהו שבת</singer>
+        <writer>ניצן קייקוב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לבד</head>
+        <lg number="1" type="stanza">
+          <l>בקצב, רוקדת, שולחת מבטים אלי</l>
+          <l>ואני עומד בצד</l>
+          <l>את באה בשקט, אל גופי מיד נצמדת</l>
+          <l>למה את מעלה בי רגש לא מוכר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איתך אני מרגיש חלש </l>
+          <l>רוצה רק לדעת </l>
+          <l>שאת שלי אני שלך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז בואי נברח ונשאיר את המחשבות בצד</l>
+          <l>נשכח מהפחדים</l>
+          <l>אני ואת אחד</l>
+          <l>ותלמדי אותי ללילה אחד</l>
+          <l>בסוף היום הזה אהיה לבד </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בלהט, ניגשת באוזני את שוב לוחשת</l>
+          <l>בוא כבר, וניסע רחוק מכאן</l>
+          <l>רציתי, ניסיתי להקשיב ללב שלי</l>
+          <l>הלילה ולגלות אותי מחדש </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>איתך אני מרגיש חלש</l>
+          <l>רוצה רק לדעת</l>
+          <l>שאת שלי אני שלך</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אז בואי נברח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

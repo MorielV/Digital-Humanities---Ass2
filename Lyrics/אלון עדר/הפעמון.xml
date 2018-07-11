@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הפעמון</title>
+        <singer classification="unknown">אלון עדר</singer>
+        <writer>אלון עדר</writer>
+        <composer>אלון עדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הפעמון</head>
+        <lg number="1" type="stanza">
+          <l>כולם מתייאשים ממני </l>
+          <l>כי שוב שכחתי את עצמי </l>
+          <l>יותר חמור משנדמה לי </l>
+          <l>נדמה לי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>החלומות שלעתיד </l>
+          <l>החמיצו כמו חלב עמיד </l>
+          <l>פג תוקפם ולתמיד </l>
+          <l>לתמיד </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הפעמון נתן כבר את הטון </l>
+          <l>עצר בשגעון </l>
+          <l>זה לא נכון זה בטח לא נכון </l>
+          <l>משהו כאן בטוח לא נכון </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז שכחתי את כל אלה </l>
+          <l>אלה שזוכרים אותי </l>
+          <l>נקלעתי למצב של סבל </l>
+          <l>יחסי </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מרגיש כמו דמות של צ'ארלס בוקובסקי </l>
+          <l>מלוכלכת ושתויה </l>
+          <l>וכשהיד רושמת </l>
+          <l>אז הזרוע נטויה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הפעמון נתן כבר את הטון... </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ככה בתחילת הסתיו </l>
+          <l>מחכה שוב לאביב </l>
+          <l>שומע את עצמי קורא לי </l>
+          <l>לא מקשיב </l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>הפעמון</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

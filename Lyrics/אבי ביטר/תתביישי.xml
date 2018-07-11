@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תתביישי</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תתביישי</head>
+        <lg number="1" type="stanza">
+          <l>את היית חברתי כאחות היית</l>
+          <l>סודותי גיליתי לך זו את שטעית</l>
+          <l>את היית חברתי כאחות היית</l>
+          <l>נשמתי נתתי לך ואותי רמית</l>
+          <l>איך יכולת זאת לעשות ולפגוע בי</l>
+          <l>ולצאת עם אהובי מאחורי גבי?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את גרמת סבל רב שלא ישכח </l>
+          <l>אלוקים שבמרום יעניש אותך</l>
+          <l>את גרמת סבל רב שלא ישכח</l>
+          <l>עוד יבוא יום תשלמי על כך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך יכולת לשקר לרמות אותי</l>
+          <l>ולבגוד עם אהובי מאחורי גבי</l>
+          <l>איך יכולת לשקרא לרמות אותי</l>
+          <l>ולבגוד עם הגבר שהיה שלי?!</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איך הייתי תמימה והאמנתי בך</l>
+          <l>לי היית חברה אהבתי אותך!</l>
+          <l>איך הייתי תמימה האמנתי בך</l>
+          <l>כמה שדאגתי ועזרתי לך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>איך יכולת זאת לעשות ולפגוע בי </l>
+          <l>ולצאת עם אהובי מאחורי גבי</l>
+          <l>איך יכולת זאת לעשות ולפגוע בי</l>
+          <l>ולצאת עם אהובי מאחורי גבי?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את גרמת סבל רב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

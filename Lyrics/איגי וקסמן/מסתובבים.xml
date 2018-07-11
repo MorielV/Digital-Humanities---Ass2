@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מסתובבים</title>
+        <singer classification="female singer">איגי וקסמן</singer>
+        <writer>איגי וקסמן</writer>
+        <composer>שיקו פלדמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מסתובבים</head>
+        <lg number="1" type="stanza">
+          <l>אם השמחה שבי הייתה גודלת</l>
+          <l>אז לא היה צריך לדאוג</l>
+          <l>יחד עם צבעים, גוון צהבהב ותכלת</l>
+          <l>אפשר גם ריגושים לקנות</l>
+          <l>עם הבדידות שלי כבר אין לאן ללכת</l>
+          <l>פעם עוד הלכתי, היום זה כבר נסגר</l>
+          <l>את השריפה שבי שדולקת לא דועכת</l>
+          <l>היה אפשר אז לכבות</l>
+          <l>אולי אפשר עכשיו לראות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את כל המילים</l>
+          <l>שמעתי שאומרים</l>
+          <l>בכל הדרכים שאפשר להגיד</l>
+          <l>ואיך לפעמים</l>
+          <l>אחרי שאומרים</l>
+          <l>מסתובבים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם השמחה שבי מעוררת איזה קצב</l>
+          <l>ביחד רקדנו והיום הגוף לא זז</l>
+          <l>אם היית רק מבין שיכול להיות אחרת</l>
+          <l>היה לי אז אוצר יותר יקר מפז</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את כל המילים</l>
+          <l>שמעתי שאומרים</l>
+          <l>בכל הדרכים שאפשר להגיד</l>
+          <l>ואיך לפעמים</l>
+          <l>אחרי שאומרים</l>
+          <l>מסתובבים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מסתובבים...מסתובבים...מסתובבים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

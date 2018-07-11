@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ענני אלוקי</title>
+        <singer classification="unknown">אליה גיאת</singer>
+        <writer>בני דקל</writer>
+        <composer>שליו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ענני אלוקי</head>
+        <lg number="1" type="stanza">
+          <l>חבק אותי אלוקי</l>
+          <l>עטוף אותי ברחמיך</l>
+          <l>לווני האר דרכי</l>
+          <l>פתח לי שערי שמיך</l>
+          <l>בחרת בנו עם סגולה</l>
+          <l>ראינו מנפלאותיך</l>
+          <l>פתח דלתך הנעולה </l>
+          <l>למדני מתורתך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ענני אלוקי ענני</l>
+          <l>חונני אל רחום חנון</l>
+          <l>בכל אשר אפנה ענני</l>
+          <l>בניך אותך יהללון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עטוף אותי אלוקי</l>
+          <l>הסתירני בכנפיך</l>
+          <l>את עיניי אני אפקח</l>
+          <l>אשא תפילה ואודך</l>
+          <l>ברך אותי אלוקי</l>
+          <l>הראני אל גדולתיך</l>
+          <l>את חוקותיך אקיים</l>
+          <l>אזכור את דיברותיך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ענני אלוקי ענני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

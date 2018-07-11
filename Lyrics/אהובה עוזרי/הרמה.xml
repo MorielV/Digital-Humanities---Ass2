@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הרמה</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הרמה</head>
+        <lg number="1" type="stanza">
+          <l>זה קרה בתשעה ביוני</l>
+          <l>גדוד ברק עלה לרמה</l>
+          <l>השמש הטייעתה בלוחמים</l>
+          <l>את פניהם כיוונו פגזים</l>
+          <l>את פניהם כיוונו פגזים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הרמה הנוקשה</l>
+          <l>את דמנו היא לגמה</l>
+          <l>הרמה הנוקשה</l>
+          <l>את דמנו היא לגמה</l>
+          <l>אחדים נותרו בחיים</l>
+          <l>את זיכרם הם מכבדים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עיירה דייג תלפחר</l>
+          <l>שם נפלו כל המפקדים</l>
+          <l>אחריהם חיילים נפצעו</l>
+          <l>נשמתם לאל הם מסרו</l>
+          <l>נשמתם לאל הם מסרו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הרמה הנוקשה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בל אראה בכל התעלות</l>
+          <l>שם שכבו גופות לא נאות</l>
+          <l>בל הראה עצים שטופים בדם</l>
+          <l>שם שכבו גיבורי הפצועים</l>
+          <l>שם שכבו גיבורי הפצועים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הרמה הנוקשה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>גדוד ברק דוד שכבר לחם</l>
+          <l>ודגלו נישא בראש הרם</l>
+          <l>אם תרצו את הסיפור לדעת</l>
+          <l>ביום זכרם ודאי זאת תדעו</l>
+          <l>ביום זכרם ודאי זאת תדעו</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>הרמה הנוקשה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

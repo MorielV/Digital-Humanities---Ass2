@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בקבוק של בירה</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>אריק לביא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בקבוק של בירה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>תן לי בקבוק של בירה, או של ויסקי, או של ג'ין </l>
+          <l>אני אשתה אותו ואשיר לי, גם בחורף גם חמסין </l>
+          <l>תן לי בקבוק של בירה, או של ויסק, או של יי"ש </l>
+          <l>אני אשתה אותו ואשיר לי בכל לילה שיר חדש </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני חלמתי חלום הלילה על בקבוק ישן נושן </l>
+          <l>אני חלמתי חלום הלילה על בקבוק בלב הים </l>
+          <l>זה היה סתם בקבוק של בירה שצף בין הגלים </l>
+          <l>זה היה סתם בקבוק של בירה שהפחיד את הדגים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תן לי בקבוק של בירה... </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בבקבוק הייתה איגרת ועליה כתוב בכתב יד </l>
+          <l>כל מי שימצא את הבקבוק הזה שישתה את הבירה מיד </l>
+          <l>זה היה סתם בקבוק של בירה שלא היה לו מה לעשות </l>
+          <l>זה היה סתם בקבוק של בירה שהסתבך בין רשתות </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תן לי בקבוק של בירה... </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מאז אני כל בוקר כבר לא יכול לישון </l>
+          <l>יורד אל חוף התכלת להיות שם הראשון </l>
+          <l>מסתכל לי במשקפת אל ים גדול נודד </l>
+          <l>אולי על קו האופק יצוץ בקבוק בודד </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>תן לי בקבוק של בירה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ספר על אהבה</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>שמרית אור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ספר על אהבה</head>
+        <lg number="1" type="stanza">
+          <l>ספר על אהבה, ספר</l>
+          <l>על ריח שערה בגשם,</l>
+          <l>ספר על אהבה, ספר</l>
+          <l>איך צווארה נטוי כקשת -</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ספר על הכאב, ספר</l>
+          <l>על מה גאוותה עיקשת -</l>
+          <l>גם אם נשבר הלב, ספר</l>
+          <l>עד מה אהבה נואשת -</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוח מבשרת</l>
+          <l>על סופה סוערת -</l>
+          <l>אך היא לא אמרה דבר -</l>
+          <l>רעם בשמיים</l>
+          <l>בהירי עיניים -</l>
+          <l>את ליבי ברק שבר -</l>
+          <l>רוח מבשרת</l>
+          <l>על סופה סוערת,</l>
+          <l>על סופה של אהבה -</l>
+          <l>רעם בשמיים</l>
+          <l>בהירי עיניים -</l>
+          <l>מבשר את כאבה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ספר על אהבה, ספר</l>
+          <l>על מי בלילה היא חולמת,</l>
+          <l>ספר על גאווה, ספר</l>
+          <l>איזה מחיר היא משלמת.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ספר על הכאב, ספר</l>
+          <l>על הבדידות בה היא נלחמת.</l>
+          <l>גם אם נשבר הלב, ספר</l>
+          <l>כי שתיקתה אלי רועמת.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

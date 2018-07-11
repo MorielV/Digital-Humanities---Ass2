@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני העבד 3</title>
+        <singer classification="unknown">אבי בן ישראל</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>יורם חיימוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני העבד</head>
+        <lg number="1" type="stanza">
+          <l>אני העבד ניצב מנגד ואתה האלוקים מאור עיני</l>
+          <l>אני ההלך אתה המלך, האר לי את הדרך לפני.</l>
+          <l>כי הדרך שעולה לה עד למעלה אל ההר</l>
+          <l>מסתבכת והולכת מה צופנת לי מחר.</l>
+          <l>אם אדע מנין באתי, איך אדע לאן אבוא</l>
+          <l>גם משה הלך לארץ ונשאר על הר נבו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הנה הגעתי עד פי הבאר</l>
+          <l>אך מה לי התכלית בלי כד המים.</l>
+          <l>אני העבד שמאמין בדרכיך במעשיך</l>
+          <l>להרוות את צימאוני.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני העבד ניצב מנגד</l>
+          <l>ואתה האלוקים מאור עיני.</l>
+          <l>אני ההלך אתה המלך</l>
+          <l>האר לי את הדרך לפני</l>
+          <l>כי אני עטוף קליפה כמו טיפה בתוך הים</l>
+          <l>והדרך רצופה היא וסופה הוא נעלם</l>
+          <l>אם אדע מניין באתי, לא אדע לחפש</l>
+          <l>גם משה על סף הארץ, לא זכה להיכנס</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הנה הגעתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא למדתני את היודל</title>
+        <singer classification="unknown">אלמוגים</singer>
+        <writer>יצחק פרי</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא למדתני את היודל</head>
+        <lg number="1" type="stanza">
+          <l>היה זה פעם בטיול לאלפים בהרים</l>
+          <l>פגשתי בת שוייצריה צעירה וחיננית</l>
+          <l>היו לה שתי צמות שיער זהוב, קלועות פאר</l>
+          <l>ושתי עיניה הנוצצות חדרו אל תוך ליבי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אמרה לי: רק יודל</l>
+          <l>יודל-הו-הי-הי...</l>
+          <l>אותך לי יזכיר הוא</l>
+          <l>יודל-הו-הי-הי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הושיטה את ידה אלי ברוך לקראת ידי</l>
+          <l>חייכתי כי חייכה גם היא בחן לעומתי</l>
+          <l>צעדנו יחד יד ביד והיא למדה אותי</l>
+          <l>איך את היודל יש לשיר, ניסיתי את כוחי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אמרה לי: רק יודל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

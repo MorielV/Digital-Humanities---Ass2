@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פוליטיקאי קטן</title>
+        <singer classification="unknown">אדם סול</singer>
+        <writer>אורן גלעד</writer>
+        <composer>אדם סול</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פוליטיקאי קטן</head>
+        <lg number="1" type="stanza">
+          <l>אני לא רוצה שתגידו לי</l>
+          <l>אסור מותר, ואיך לחיות את חיי</l>
+          <l>עוד שר נבחר עם הבטחה</l>
+          <l>ואין שינוי, עוד מיסוי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l> עוד הבטחה עוד אכזבה</l>
+          <l>עוד ממשלה ועוד אשליה</l>
+          <l>שוב המילים ללא כיסוי</l>
+          <l>שוב השקרים ועוד מיסוי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l> עם הזמן את האמת שכחת ,</l>
+          <l> מילים יפות, ורק עם השקר נשארת</l>
+          <l> חלפה לה עוד שנה</l>
+          <l> ואין שינוי, רק עוד מיסוי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוד הבטחה, עוד אכזבה</l>
+          <l>עוד ממשלה ועוד אשליה</l>
+          <l>שוב המילים ללא כיסוי</l>
+          <l>שוב השקרים ועוד מיסוי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עוד הבטחה, עוד אכזבה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>את הזמן עד הבחירות מרחת,</l>
+          <l>פוליטיקאי קטן, ואז מהכסא נפלת,</l>
+          <l>ואין שינוי, ועוד מיסוי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

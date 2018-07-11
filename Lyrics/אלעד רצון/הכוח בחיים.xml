@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכוח בחיים</title>
+        <singer classification="unknown">אלעד רצון</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכוח בחיים</head>
+        <lg number="1" type="stanza">
+          <l>ברגע שאותך אני פגשתי</l>
+          <l>החסרתי פעימה למול יופייך</l>
+          <l>ובלי מילים בלב אני בקשתי</l>
+          <l>שלעולם איתך תמיד אלך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה שיהיה לא משנה,</l>
+          <l>באהבה גדולה נחיה</l>
+          <l>ונתגבר על כל מכשול שבחיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את המלאך שלי</l>
+          <l>תמיד את מבינה אותי</l>
+          <l>לך אתן את הנשמה,</l>
+          <l>לצידך ליבי נכנע</l>
+          <l>את המלאך שלי</l>
+          <l>אשמור לך אמונים</l>
+          <l>את לי כל הכוח שבחיים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הניחי את ראשך עלי בחושך</l>
+          <l>ותני לי להרגיש את חום ליבך</l>
+          <l>את נותנת לי הילה של אושר</l>
+          <l>החיים שלי יפים רק בזכותך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מה שיהיה לא משנה,</l>
+          <l>באהבה גדולה נחיה</l>
+          <l>ונתגבר על כל מכשול שבחיים</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>את המלאך שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

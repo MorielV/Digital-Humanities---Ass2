@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ארץ 18</title>
+        <singer classification="unknown">אבי אפריאט</singer>
+        <writer>אבי אפריאט</writer>
+        <composer>אבי אפריאט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ארץ</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אֶרֶץ מַה יָּפִית </l>
+          <l>לוּ רָאִית אוֹתִי וּבֵינְתַיִם </l>
+          <l>רָחֲקוּ יָדַי מִפָּנַיִךְ הַיָּפִים </l>
+          <l>רָחֲקוּ עֵינַי מִשְּׂדוֹתַיִךְ יְרוּקִים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אֶרֶץ עֲנֻגָּה </l>
+          <l>וַאֲנִי סָמוּךְ בֵּין כְּתֵפַיִךְ </l>
+          <l>בֵּין הָעֲנָנִים </l>
+          <l>בֵּין הַשֶּׁמֶשׁ וְהַיָּם </l>
+          <l>בֵּין הָאֳרָנִים </l>
+          <l>אֶרֶץ – אַתְּ עוֹלָם </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וּכְשֶׁעָצוּב וְקַר לִי </l>
+          <l>וְהַכֹּל מוּזָר כִּי </l>
+          <l>אֵין דָּבָר אֲשֶׁר </l>
+          <l>יַעֲמֹד אִתִּי אֵיתָן </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אָז בֵּין טִפּוֹת הַגֶּשֶׁם </l>
+          <l>דִּמְעוֹתַי זוֹלְגוֹת הֵן </l>
+          <l>וַאֲנִי חוֹזֵר אֵילַיִךְ אֲהוּבָה </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אֶרֶץ מַה יָּפִית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

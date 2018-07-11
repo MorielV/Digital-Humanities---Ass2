@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איש יקר</title>
+        <singer classification="female singer">אביבה אבידן</singer>
+        <writer>חמוטל בן זאב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איש יקר</head>
+        <lg number="1" type="stanza">
+          <l>איש יקר שלי, אישי ואהובי.</l>
+          <l>אתה הרוח הסוערת בליבי.</l>
+          <l>בלילות הכי קרים, </l>
+          <l>ברגעים הכי שבורים..</l>
+          <l>אתה תמיד איתי..</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני יודעת יש על מי להשען.</l>
+          <l>אתה עוטף אותי בתוך חומת מגן.</l>
+          <l>תמיד ישנה כתף גדולה..</l>
+          <l>ואם רוחי פתאום נפלה,</l>
+          <l>אתה היד שתחזק.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה הזמן לומר לך תודה,</l>
+          <l>כי אתה הדרך היחידה.</l>
+          <l>זה הזמן ורק אני עדה,</l>
+          <l>בלעדיך אבודה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את הכח להמשיך ולקוות,</l>
+          <l>ואת האור שבזכותך אפשר לראות.</l>
+          <l>שארגיש יום יום איתך,</l>
+          <l>את האהבה שלך, תמיד בנשמתי.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשאתה מביט עינייך בי יוקדות.</l>
+          <l>וכל המנגינות שלי איתך רוקדות.</l>
+          <l>אתה הבית, השלווה, הילדים, האמונה.</l>
+          <l>אתה עולם של אהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה הזמן לומר לך תודה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

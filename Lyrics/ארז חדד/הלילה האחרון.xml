@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלילה האחרון</title>
+        <singer classification="unknown">ארז חדד</singer>
+        <writer>מיכה סופר</writer>
+        <composer>מיכה סופר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלילה האחרון</head>
+        <lg number="1" type="stanza">
+          <l>זה היה הלילה האחרון</l>
+          <l>נפרדים בדמעות ומחנק בגרון</l>
+          <l>ממחר לא תראי אותי יותר</l>
+          <l>וכל אחד הולך בשביל אחר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא יהיו חיבוקים וליטופים</l>
+          <l>נשארים בתוכך זכרונות כה יפים</l>
+          <l>העצבות תחלוף לך ומהר</l>
+          <l>תגלי שבלילות את עם אחר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>גם אם זה כואב זה הזמן להיפרד</l>
+          <l>גם אם אותך אוהב בסבל לא עומד</l>
+          <l>ניסינו יחדיו להילחם להתמודד</l>
+          <l>זה הלילה האחרון צריך להיפרד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>גם אם הנשמה מזילה דמעה</l>
+          <l>וגם אם בלב הרגשה כה איומה</l>
+          <l>אהבנו ונלחמנו בטירוף עד שיגעון</l>
+          <l>אך לבסוף נפרדנו זה הלילה האחרון</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מחר בבוקר תתעוררי לך לבדך</l>
+          <l>ותגלי שאני לא נמצא כבר לידך</l>
+          <l>התעוררת למציאות כל כך קשה</l>
+          <l>אני כבר לא איתך יודע איך את מרגישה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עכשיו שהבנת שאת לך לבדך</l>
+          <l>אני חושב כמוך ומרגיש מה בליבך</l>
+          <l>חושבת עלי עם מי והיכן אני</l>
+          <l>גם אני חושב עליך ומזיל את דמעתי</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>גם אם זה כואב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

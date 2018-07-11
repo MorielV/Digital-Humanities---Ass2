@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציפור זהב</title>
+        <singer classification="unknown">איה כורם</singer>
+        <writer>חיים נחמן ביאליק</writer>
+        <composer>איה כורם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציפור זהב</head>
+        <lg number="1" type="stanza">
+          <l>בין נהר פרת לנהר חידקל, על ההר מתמר דקל</l>
+          <l>ובדקל, בין עפאיו, תשכון לה דוכיפת זהב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ציפור זהב, עופי, חוגי, צאי ובקשי לי בן זוגי</l>
+          <l>ובאשר תמצאיהו, כפתי אותו והביאיהו. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אך אין לך חוט השני, דברי שלום אל חתני</l>
+          <l>מה תגידי לו, הגידי – נפשי יוצאת אל ידידי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אמרי לו – הגן פורח, נעול הוא ואין פותח</l>
+          <l>רימון פז שם יש בין עליו, אך אין מי שיברך עליו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ועוד תגידי לו – מיטתי, אשחה לילה בדמעתי</l>
+          <l>ומתחת לבנת בשרי נשרף מדי לילה כרי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ואם ימאן, שמעי רזי, הכל מוכן בארגזי</l>
+          <l>שש ומשי ובמלתחתי עשרים כותונת רקמת מחטי</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ובמחבואה, זהב רקומה, כבר מחכה ההינומה</l>
+          <l>נדני משולש, נכונה אני ולמה אחרו פעמי חתני</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>ועוד תגידי לו – מיטתי, אשחה לילה בדמעתי</l>
+          <l>ומתחת לבנת בשרי נשרף מדי לילה כרי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קמיעות</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>מוריס</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קמיעות</head>
+        <lg number="1" type="stanza">
+          <l>התפללי לאל המים במקדשי גלים תתני עולה </l>
+          <l>הפני את ידייך לשמיים כמו תמיד רוצה רק אהבה </l>
+          <l>התפללי לאל הרוח בנשיפה אחת הוא ישא אותך מכאן </l>
+          <l>אולי למקום יותר בטוח ואני מחוץ לכל פולחן </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לי יש אלוהים אחד </l>
+          <l>וכשאשאר לבד </l>
+          <l>הוא יפרוש עלי כנפיים </l>
+          <l>לא קמיעות ואבנים </l>
+          <l>יחזקו אותי בפנים </l>
+          <l>רק הכוח בשמיים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז מה את חושבת עלי </l>
+          <l>אם בכלל את חושבת עלי </l>
+          <l>אז מה את חושבת עלי </l>
+          <l>את האור של חיי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>התפללי לאל השמש אולי יש לו כוח לחמם ימים קרים </l>
+          <l>ניסית את כוחו שלשום ואמש וראית הוא לא עושה ניסים </l>
+          <l>כל האלים שלך בחופש תני לי לתת לך את הלב ילדה </l>
+          <l>ואלוהים ישמור עלינו ותראי שאת לא אבודה </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יהיה לנו שומר אחד </l>
+          <l>ולא נשאר לבד </l>
+          <l>הוא יפרוש מעל כנפיים </l>
+          <l>בלי קמיעות ובלי שקרים </l>
+          <l>אחמם לילות קרים </l>
+          <l>את תרגישי בשמיים </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז מה את חושבת עלי </l>
+          <l>אם בכלל את חושבת עלי </l>
+          <l>אז מה את חושבת עלי </l>
+          <l>את האור של חיי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

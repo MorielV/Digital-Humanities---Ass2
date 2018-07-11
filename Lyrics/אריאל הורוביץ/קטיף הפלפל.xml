@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קטיף הפלפל</title>
+        <singer classification="male singer">אריאל הורוביץ</singer>
+        <writer>אריאל הורוביץ</writer>
+        <composer>אריאל הורוביץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קטיף הפלפל</head>
+        <lg number="1" type="stanza">
+          <l>אני עוזר למנהל בקטיף הפלפל</l>
+          <l>שלושה שבועות יהיה לי כאן חדר</l>
+          <l>לפעמים לא נעים לבד עם הפועלים</l>
+          <l>אבל רובם נראים בסדר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בערב עם ספר על דרום מזרח אסיה</l>
+          <l>אני מתכנן את הטיול המושלם</l>
+          <l>שם איוורור על שלוש קורא עמוד ונופל לי הראש</l>
+          <l>ואני מתעורר באמצע הלילה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אמרתם לרוץ לרוץ</l>
+          <l>אמרתם חשוב לזרוע בדמעה</l>
+          <l>בלי להיות טרף, בלי להיות צייד</l>
+          <l>אני עם העולם אחד</l>
+          <l>אני עם העולם אחד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>צליל רחוק של גיטרה ומישהי שרה</l>
+          <l>צללית בתנועה מול חלון מואר</l>
+          <l>שלא כדרכי הצגתי את עצמי</l>
+          <l>התיישבתי ועכשיו אני שר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הנה עותק של ירח מתארח</l>
+          <l>במי בריכת הדגים מולנו</l>
+          <l>משנה צורה כל פעם שרוח קרה</l>
+          <l>עוברת על פני המים ועל פנינו</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אמרתם לרוץ לרוץ...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>בעזרת האל כשיגמר הפלפל</l>
+          <l>כבר כל הנסיעה תהיה מסודרת</l>
+          <l>לרוץ בלי חלום זה לדרוך במקום</l>
+          <l>עד שהנשימה נגמרת</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>אמרתם לרוץ לרוץ</l>
+          <l>אמרתם חשוב לזרוע בדמעה</l>
+          <l>בצל הצמרת בלי שום ציפור ביד</l>
+          <l>אני עם העולם אחד</l>
+          <l>אני עם העולם אחד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

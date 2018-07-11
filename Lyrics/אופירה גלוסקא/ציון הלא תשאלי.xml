@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציון הלא תשאלי</title>
+        <singer classification="female singer">אופירה גלוסקא</singer>
+        <writer>רבי יהודה הלוי</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציון הלא תשאלי</head>
+        <lg number="1" type="stanza">
+          <l>ציון, הלא תשאלי לשלום אסירייך,</l>
+          <l>דורשי שלומך והם יתר עדרייך?</l>
+          <l>מים ומזרח ומצפון ותימן שלום</l>
+          <l>רחוק וקרוב שאי מכל עברייך.</l>
+          <l>ושלום אסיר תקוה נותן דמעיו כטל חרמון</l>
+          <l>ונכסף לרידתם על הררייך!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לבכות ענותך אני תנים, ועת אחלום</l>
+          <l>שיבת שבותך - אני כינור לשירייך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ציון, הלא תשאלי לשלום אסירייך,</l>
+          <l>דורשי שלומך והם יתר עדרייך?</l>
+          <l>אשרי מחכה ויגיע ויראה עלות</l>
+          <l>אורך ויבקעו עליו שחרייך -</l>
+          <l>לראות בטובת בחירייך ולעלוז בשימחתך</l>
+          <l>בשובך אלי קידמת נעורייך!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לבכות ענותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

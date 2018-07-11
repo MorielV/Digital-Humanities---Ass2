@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דמעות 4</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>רוחות טובות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דמעות</head>
+        <lg number="1" type="stanza">
+          <l>וזה קורה </l>
+          <l>כשמישהו פתאום עוזב </l>
+          <l>אחד הולך, שני חושב </l>
+          <l>על כל מה שבִּפנים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וזה קורה </l>
+          <l>כשמישהו נשאר לבד </l>
+          <l>מרגיש פתאום מעט נפחד </l>
+          <l>מהגעגועים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>והדמעות - </l>
+          <l>דמעות של אהבה </l>
+          <l>דמעות של דאגה </l>
+          <l>דמעות ששוטפות את החיוך שבלב </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז קח תרמיל </l>
+          <l>ושים בִּפנים את הזכרונות </l>
+          <l>שים בִּפנים את החוויות </l>
+          <l>אם יש שם עוד מקום </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואל תשכח </l>
+          <l>שאבא שוב דואג לך </l>
+          <l>ואמא היא תמיד שלך </l>
+          <l>צלצל תגיד שלום </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>והדמעות... </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אז קח תרמיל </l>
+          <l>ושים בִּפנים את השיר הזה </l>
+          <l>שמתישב שם בחזה </l>
+          <l>עמוק בתוך הלב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

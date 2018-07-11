@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלאת אהבה</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>אופיר כהן</writer>
+        <composer>אופיר כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלאת אהבה</head>
+        <lg number="1" type="stanza">
+          <l>רק פיתחי את ליבך</l>
+          <l>אם תרצי לחייך ואבוא עד אלייך</l>
+          <l>להרגיש מקרוב ואותך לאהוב</l>
+          <l>עד אחרון הימים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשאת את כאן בסביבה</l>
+          <l>ניצוצות אהבה מאירים את עיניי</l>
+          <l>וקולך הנעים כשירת מלאכים מהדהד באוזני</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מלאת אהבה את פוסעת אלי</l>
+          <l>מביאה לי מרגוע ושמחה לחיי</l>
+          <l>בליבי את שוכנת נצורה לעולם</l>
+          <l>כי אותי את בוחרת להיות אהובך מכולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רק תתני לי סימן ואגיע בזמן לנשק דמעותייך</l>
+          <l>שזולגות משמחה בדקות של ברכה שאותך אקדש</l>
+          <l>ואיתך אני עף בדמיון מטורף בלילות של ירח</l>
+          <l>שם נרקוד בשתיקה את מחול התשוקה שבוער לי בגוף</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מלאת אהבה את פוסעת אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין לאן ללכת</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין לאן ללכת</head>
+        <lg number="1" type="stanza">
+          <l>בין אורחת גמלים</l>
+          <l>את מסתירה פנייך</l>
+          <l>את השפחה</l>
+          <l>הקנויה, הבזויה</l>
+          <l>טבעת המלכות</l>
+          <l>שבין אצבעותייך</l>
+          <l>כבר לא נותנת כלום</l>
+          <l>מלבד האשליה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואין לאן ללכת</l>
+          <l>ואין לאן ללכת...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל ואמונה</l>
+          <l>כבר לא הולכים ביחד</l>
+          <l>את מתנערת</l>
+          <l>ממסורת ומצוות</l>
+          <l>האל נטש אותך</l>
+          <l>לקחו אותך בלי שוחד</l>
+          <l>את מוכנה עכשיו</l>
+          <l>לשש שנים קשות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואין לאן ללכת</l>
+          <l>ואין לאן ללכת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

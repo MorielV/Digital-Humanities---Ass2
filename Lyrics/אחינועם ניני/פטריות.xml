@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פטריות</title>
+        <singer classification="female singer">אחינועם ניני</singer>
+        <writer>אחינועם ניני</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פטריות</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים אני ריקה מתוכן</l>
+          <l>כמו חנות ספרים קטנה אחרי שריפה</l>
+          <l>ויודעת שקשה למצוא לי עוגן</l>
+          <l>ביממה טרופה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לפעמים אני ריקה מצבע</l>
+          <l>כמו ציור על מדרכה אחרי גשמים</l>
+          <l>ויודעת שעכשיו הרגע</l>
+          <l>להוליד מילים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>פטריה גדולה מעל העיר</l>
+          <l>משטרה חוקרת את הנסיבות</l>
+          <l>פטריה קטנה, מצאו אותה</l>
+          <l>צפופה בין שאר הפטריות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לפעמים אני ריקה מדרך</l>
+          <l>כמו מונית שירות בערב יום כיפור</l>
+          <l>המקום מוצא אותי אחרת</l>
+          <l>כשהלב שבור</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>פטריה גדולה מעל העיר...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לפעמים אני ריקה מזעם</l>
+          <l>כמו כיכר בזיכרון המתקהה</l>
+          <l>מחפשת במילים טעם</l>
+          <l>לכאב הזה...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>פטריה גדולה מעל העיר...</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>פטריה גדולה מעיל העיר</l>
+          <l>אין אומר מה מחכה בשער</l>
+          <l>פטריה קטנה, מצאו אותה</l>
+          <l>רחוקה מהיער</l>
+          <l>רחוקה מהיער</l>
+          <l>רחוקה מהיער</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

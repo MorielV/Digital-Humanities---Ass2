@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לחיים</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>לאה לופנפלד</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לחיים</head>
+        <lg number="1" type="stanza">
+          <l>יש לי ארץ מבורכת ופריחות רבות יש לה</l>
+          <l>ובתוך לבי פורטת על נימיה נשמה</l>
+          <l>ארץ של שיטים עומדים, לוחשים שיר אהבה</l>
+          <l>ממדבר ועד כנרת לך נשזרת מנגינה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש לי ארץ משוררת העתים עכשיו קשות</l>
+          <l>ושורה אחת חוזרת, למה איש לאיש פחות</l>
+          <l>יש לי ארץ מכורה של אחד ושל כולם</l>
+          <l>למה זה כבר לא נושבת רוח אהבת אדם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז בואו נברך לחיים</l>
+          <l>לתקווה, לאהבה</l>
+          <l>לחיים טובים יותר</l>
+          <l>לימים יפים יותר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש לי ארץ עוד חולמת, ארץ של הרבה זריחות</l>
+          <l>ואני לה אור של תכלת, אמונה וניצוצות</l>
+          <l>יש לי ים וגם חולות, ובתים עם תינוקות</l>
+          <l>הן אפשר לחיות אחרת פה בחמדת האבות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז בואו נברך לחיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

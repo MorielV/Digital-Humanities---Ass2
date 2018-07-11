@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ממהרת</title>
+        <singer classification="female singer">איילה אינגדשט</singer>
+        <writer>רוי אדרי</writer>
+        <composer>איילה אינגדשט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ממהרת</head>
+        <lg number="1" type="stanza">
+          <l>קומי כל בוקר תגידי תודה,</l>
+          <l>תסתכלי אל השמש איך שוב היא זרחה,</l>
+          <l>שימרי את העיקר,</l>
+          <l>הזמיני את הגשם אל המדבר</l>
+          <l>כי מה שטוב נשאר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תשאירי משהו לשארית כוחותייך,</l>
+          <l>לא כל דבר מתאים לציפיותייך,</l>
+          <l>אל תסתירי את האור</l>
+          <l>תראי לי את פנייך</l>
+          <l>החיים עוד לפנייך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא משנה מה יהיה מחר</l>
+          <l>תחיי את הרגע זה מה שנישאר</l>
+          <l>תצמדי לאהבה</l>
+          <l>ללכת עם הזרם לפעמים מותר</l>
+          <l>בטעם טוב אפשר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תשאירי משהו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לאן.... את ממהרת?</l>
+          <l>מה מה למה? את מוותרת?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תשאירי משהו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

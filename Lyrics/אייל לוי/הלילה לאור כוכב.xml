@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלילה לאור כוכב</title>
+        <singer classification="male singer">אייל לוי</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>עופר לב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלילה לאור כוכב</head>
+        <lg number="1" type="stanza">
+          <l>החיוך שלך מאיר את אפילת לילי</l>
+          <l>איך פתאום איתך נגמר לי כל הזמן שלי</l>
+          <l>את לי אומרת "לא אפגוש בך יותר"</l>
+          <l>איך את שוברת את האהבה שאני שומר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הלילה לאור כוכב אמרי לי מילת זהב</l>
+          <l>מעבר למילים הנפלאות</l>
+          <l>הלילה לאור כוכב אמרי לי מילת זהב</l>
+          <l>להתראות אמרי להתראות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כבר חצות כמעט, איך השעון שלך דוהר</l>
+          <l>בטח עוד מעט יבוא אליך איש אחר</l>
+          <l>את סודותיך אל תשאירי לי אי שם</l>
+          <l>את לילותיך עד סוף הימים לי שימרי אישה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הלילה לאור כוכב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

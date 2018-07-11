@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איפה את 4</title>
+        <singer classification="male singer">אביהו מדינה</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איפה את</head>
+        <lg number="1" type="stanza">
+          <l>מאי שם עוד לא חזרת,</l>
+          <l>אני דואג מה קרה</l>
+          <l>ולא דיברנו גם מילה</l>
+          <l>את לא עונה, איפה את?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בלעדייך את עצמי מחפש ולא מוצא</l>
+          <l>כמו גוף שאיבד את אימו אותך רוצה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז איפה את הגידי</l>
+          <l>תני לי רמז, תני לי סימן</l>
+          <l>איפה את הגידי</l>
+          <l>אל תלכי רחוק מדי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איפה את הגידי</l>
+          <l>תני לי רמז, תני לי סימן</l>
+          <l>איפה את הגידי</l>
+          <l>והשיבך אלי לכאן.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בלעדייך אהובה</l>
+          <l>היום קודר הלילה קר</l>
+          <l>אין עם מי להשתובב</l>
+          <l>מי לנשק, מי לחבק</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ובחדרים שוב לא נשמע קולך שיר מפזם</l>
+          <l>שומם הבית ודומם בלי צחוקך כי את אינך</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אז איפה את הגידי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

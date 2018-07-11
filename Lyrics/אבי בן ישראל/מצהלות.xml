@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מצהלות</title>
+        <singer classification="unknown">אבי בן ישראל</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>יורם נחמני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מצהלות</head>
+        <lg number="1" type="stanza">
+          <l>קול המולת חוגגים מהדהד </l>
+          <l>קול צהלה ושירה </l>
+          <l>קול נעימה בליבי לה אוהד </l>
+          <l>בשירת הוללים אדירה </l>
+          <l>קול נעימה בליבי לה אוהד </l>
+          <l>בשירת הוללים אדירה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה מה נותר לשיר </l>
+          <l>אחרי זמיר אחר נעים זמירות </l>
+          <l>יש כשהלב עולץ גם יונה גם נץ </l>
+          <l>ינעימו בנגינות </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש מקומות וזמנים לפעמים </l>
+          <l>אשר את חיי מנעימים </l>
+          <l>וכשטוב בלב והכל כה שלו </l>
+          <l>גם קולו של עורב או ערב </l>
+          <l>וכשטוב בלב והכל כה שלו </l>
+          <l>גם קולו של עורב או ערב </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה מה נותר לשיר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

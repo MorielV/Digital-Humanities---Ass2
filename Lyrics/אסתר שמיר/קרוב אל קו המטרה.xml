@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קרוב אל קו המטרה</title>
+        <singer classification="female singer">אסתר שמיר</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>אסתר שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קרוב אל קו המטרה</head>
+        <lg number="1" type="stanza">
+          <l>קרוב אל קו המטרה, זה הולך ונהיה קשה</l>
+          <l>מי זוכר בשביל מה, מי זוכר למה באנו לכאן</l>
+          <l>יש כמה שתקועים שם, הם וויתרו כבר על הפסגה</l>
+          <l>והם רוצים לחזור אך לא יודעים לאן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואני הולכת ליד ביתי בשמים</l>
+          <l>מי זה קורא לי לבוא מתוך החצר השבורה</l>
+          <l>"בואי לראות, אפשר לשתות את המים</l>
+          <l>במקום שהייתה פעם באר אסורה"</l>
+          <l>האם שמעתי אותך קורא לי</l>
+          <l>אל קו המטרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתמול חלמתי חלום, שאנחנו כבר בשמיים</l>
+          <l>למי איכפת מה היינו, למי איכפת מה קרה</l>
+          <l>ויוסקה השיכור, לא יודע שהוא כבר מת בינתיים</l>
+          <l>והוא שותה ושותה כל הדרך</l>
+          <l>אל קו המטרה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואני הולכת...</l>
+        </lg>
+        <lg number="5" type="stanza" />
+        <lg number="6" type="stanza">
+          <l>אי שם מפוחית מנגנת את כל החלומות</l>
+          <l>ואני מנסה שוב לשיר את השיר איתך</l>
+          <l>אם אתה עוזב את השמיים, יש לך רק אותך</l>
+          <l>אז תהיה אתה, תהיה אתה, תהיה אתה</l>
+          <l>האם שמעתי אותך קורא לי</l>
+          <l>אל קו המטרה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

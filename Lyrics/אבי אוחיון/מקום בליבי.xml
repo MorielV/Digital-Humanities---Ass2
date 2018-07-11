@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מקום בליבי</title>
+        <singer classification="unknown">אבי אוחיון</singer>
+        <writer>מרטי קרפל</writer>
+        <composer>מרטי קרפל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מקום בליבי</head>
+        <lg number="1" type="stanza">
+          <l>יש לך עוד מקום בליבי האם את יודעת</l>
+          <l>יש לך עוד תמונה אצלי האם את שומעת</l>
+          <l>שום דבר עוד לא נגמר חזרי עוד הלילה </l>
+          <l>אתן לך את כל עולמי אם תהיי שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי ונחזור לימים שאהבנו </l>
+          <l>בואי נתחבק כמו אז בלילות</l>
+          <l>אמרי שהאש עוד בוערת</l>
+          <l>אמרי שאני שלך</l>
+          <l>כמו שאת שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תזכרי בימים היפים איך היית מאושרת</l>
+          <l>בין זרועותי חייכת איך היית מאוהבת</l>
+          <l>שום דבר עוד לא נגמר חזרי עוד הלילה </l>
+          <l>אתן לך את כל עולמי אם תהיי שלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בואי ונחזור לימים שאהבנו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איש מגבעתיים</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איש מגבעתיים</head>
+        <lg number="1" type="stanza">
+          <l>איש מגבעתיים בא לתל אביב,</l>
+          <l>שם ראה ילדונת עם מראה חביב.</l>
+          <l>איש מגבעתיים בן ששים שנה</l>
+          <l>אז ניגש אליה, הציע מתנה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>"הצורה שלך זה לא דבר שבא לי,</l>
+          <l>חוץ מזה אתה כבר מבוגר</l>
+          <l>ובגלל כמוך אמא לי אמרה</l>
+          <l>שאני צריכה להתרחק מגבר זר.</l>
+          <l>אם אתה תציק לי אז תהיה מסכן,</l>
+          <l>הסתלק מכאן אשמאי זקן"</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איש מגבעתיים, מה אפשר לומר?</l>
+          <l>לא רצה ללכת, לא עזר דבר.</l>
+          <l>איש מגבעתיים הציע לה טיול,</l>
+          <l>אך סטירה בלחי היא החטיפה 'בול '.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הצורה שלך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>איש מגבעתיים, לה הוא לא ויתר.</l>
+          <l>מה עשתה ילדונת? - קראה חיש לשוטר.</l>
+          <l>איש מגבעתיים יושב בחד-גדיא,</l>
+          <l>שם זוכר כל רגע את שהיא אמרה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הצורה שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

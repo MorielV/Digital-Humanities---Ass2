@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד נגיע 3</title>
+        <singer classification="unknown">אניטה גסין</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד נגיע</head>
+        <lg number="1" type="stanza">
+          <l>מי שלא ידע אהבה בחייו</l>
+          <l>מי שלא ידע אהבה</l>
+          <l>מי שלא טעם גאווה מימיו</l>
+          <l>מי שלא טעם גאווה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בל יקשה את ליבו לקרוב</l>
+          <l>בל יאמר בנפשו לעזוב</l>
+          <l>עוד לא באה דרכו אל סופה</l>
+          <l>עוד תבוא שעתו היפה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עוד נגיע נגיע</l>
+          <l>עוד נגיע ליום המואר</l>
+          <l>עוד נפתיע נפתיע</l>
+          <l>עוד נפתיע את יום המחר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי שלא מצא מנוחה לרגליו</l>
+          <l>מי שלא מצא מנוחה</l>
+          <l>מי שלא שמע הבטחה באוזניו</l>
+          <l>מי שלא שמע הבטחה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בל יקשה את ליבו לקרוב...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עוד נגיע...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>מי שלא זרע אדמה בידיו</l>
+          <l>מי שלא זרע אדמה</l>
+          <l>מי שלא מצא נחמה בשנותיו</l>
+          <l>מי שלא מצא נחמה</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>עוד נגיע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

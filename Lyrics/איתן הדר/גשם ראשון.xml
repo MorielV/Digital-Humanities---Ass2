@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גשם ראשון</title>
+        <singer classification="unknown">איתן הדר</singer>
+        <writer>איתן הדר</writer>
+        <composer>איתן הדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גשם ראשון</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הבט למעלה לשמיים</l>
+          <l>הנה הגשם הראשון.</l>
+          <l>מחלונות הושטו ידיים</l>
+          <l>האם אמת היא או חלום.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הגשם הראשון,</l>
+          <l>טיפ טיפונת על האף.</l>
+          <l>הגשם הראשון</l>
+          <l>טיף טף טיף טף, טיף טף.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ובחוצות שורקת רוח</l>
+          <l>והעלים מתעופפים.</l>
+          <l>הציפורים באות לשוח</l>
+          <l>תחת גגות הרעפים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הגשם הראשון...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואמאל'ה שכבר סורגת</l>
+          <l>ומגלגלת בחוטים.</l>
+          <l>והילדים מתים ללכת</l>
+          <l>לשלוליות שבדרכים.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>וברחוב יורד הערב</l>
+          <l>ונדלקים הפנסים.</l>
+          <l>ובאוויר ריחות של חורף</l>
+          <l>והלילות ארוכים.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>הגשם הראשון,</l>
+          <l>טיפ טיפונת על האף.</l>
+          <l>הגשם הראשון</l>
+          <l>טיף טיטיף, טיף טף, טיף טף, טיף טף,</l>
+          <l>טיף טיטיף, טיף טף, טיף טף, טיף טף,</l>
+          <l>טיף טיטיף, טיף טף, הגשם הראשון.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

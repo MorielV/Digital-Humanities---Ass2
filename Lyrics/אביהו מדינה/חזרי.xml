@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חזרי 3</title>
+        <singer classification="male singer">אביהו מדינה</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חזרי</head>
+        <lg number="1" type="stanza">
+          <l>רק יום עבר וכבר אני מתגעגע </l>
+          <l>ובחזה כל כך מעיק ולב דומע </l>
+          <l>לא מאמין שזה קורה אבל יודע </l>
+          <l>כעת כשאת אינך פתאום לי זה נוגע </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חזרי ואל תשאלני </l>
+          <l>איך אני כאן לבד מסתדר </l>
+          <l>כי אשיב לך הכל בסדר </l>
+          <l>אך בעצם אני משקר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הכל שונה הכל הפוך כאן ובלי סדר </l>
+          <l>ולא יכול להרדם לבד בחדר </l>
+          <l>כאן עם עצמי חשבתי אסתדר כמו גבר </l>
+          <l>כעת באמת איני יכול בלי העזר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חזרי ואל תשאלני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

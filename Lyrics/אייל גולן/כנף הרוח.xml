@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כנף הרוח</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>דודו מתנה</writer>
+        <composer>דודו מתנה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כנף הרוח</head>
+        <lg number="1" type="stanza">
+          <l>שוב זו את</l>
+          <l>ודמעתך אשר זלגה לאט</l>
+          <l>אל ידך אשר ליטפה ברוך</l>
+          <l>את פניו שאהבת</l>
+          <l>אל תבכי, אל תבכי</l>
+          <l>כי בסוף לבטח תחייכי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>דמעתך הפכה לגעגוע</l>
+          <l>תקוותך נשאת על כנף הרוח</l>
+          <l>היו ימייך רק לו</l>
+          <l>ולילותייך הם לא לו</l>
+          <l>את אהבתך נתת רק בשבילו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ושוב זו את</l>
+          <l>אל גנך הוא יתגנב לאט</l>
+          <l>בצעדיו אשר מכים על חטא</l>
+          <l>אבד בדרך שסלל</l>
+          <l>אל תבכי, אל תבכי</l>
+          <l>כי בסוף לבטח תחייכי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דמעתך הפכה לגעגוע</l>
+          <l>תקוותך נשאת על כנף הרוח</l>
+          <l>היו ימייך רק לו</l>
+          <l>ולילותייך הם לא לו</l>
+          <l>את אהבתך נתת רק בשבילו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

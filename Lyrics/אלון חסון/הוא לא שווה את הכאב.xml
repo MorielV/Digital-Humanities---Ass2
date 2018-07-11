@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הוא לא שווה את הכאב</title>
+        <singer classification="unknown">אלון חסון</singer>
+        <writer>אלון חסון</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הוא לא שווה את הכאב</head>
+        <lg number="1" type="stanza">
+          <l>כשתגדלי זכרי ילדונת דמעה דמעה איך זלגו הן</l>
+          <l>את הסבל שעטף וחבק בך ילדונת</l>
+          <l>והיום שאת לבד חובקת כאן בזיכרונך</l>
+          <l>הוא שבר גם אחרות חידלי ילדה חדלי לבכות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הוא לא שווה את הכאב ליבך יקר לי פה מעבר</l>
+          <l>יבוא עוד יום הוא ישלם במרומים חותמים לו ספר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גם ליבי נשבר ילדונת דמעה ודם בי זלגו הן</l>
+          <l>היא שברה לי את ליבי בזיכרונה שברה עוד גבר</l>
+          <l>והיום אני לבד מזיל דמעה אוחז בחושך</l>
+          <l>זו דרכה של אהבה שסופה היא אכזבה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ניסינו ילדה</l>
+          <l>ניסינו לשתול בליבם פרחים</l>
+          <l>אך על הסלע לא צומחים פרחים</l>
+          <l>ניסינו</l>
+          <l>על סלעים לא צומחים פרחים</l>
+          <l>לא צומחים פרחים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הוא לא שווה את הכאב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

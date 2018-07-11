@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוץ 9</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>אילן וירצברג</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוץ</head>
+        <lg number="1" type="stanza">
+          <l>רוץ רוץ רוץ</l>
+          <l>קח את הגמד שלך</l>
+          <l>קח את הנסיך שלך</l>
+          <l>ורוץ רוץ רוץ</l>
+          <l>קח את האקדח שלך</l>
+          <l>קח את היונה שלך</l>
+          <l>וטוס טוס טוס</l>
+          <l>קח את הכנף שלך</l>
+          <l>קח את הזנב שלך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רוץ רוץ רוץ</l>
+          <l>רוץ עם הזקיף שלך</l>
+          <l>רוץ עם הדחליל שלך</l>
+          <l>ורוץ רוץ רוץ</l>
+          <l>קח את הגפרור שלך</l>
+          <l>קח את השרוף שלך</l>
+          <l>וטוס טוס טוס</l>
+          <l>קח ת'מטאטא שלך</l>
+          <l>קח ת'מכשפה שלך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ורוץ - אל עבר עולמך</l>
+          <l>רוץ - התוהו מסביבך</l>
+          <l>רוץ - עם כל מה ששלך</l>
+          <l>רוץ</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רוץ רוץ רוץ</l>
+          <l>קח את העומד שלך</l>
+          <l>קח את הנופל שלך</l>
+          <l>ורוץ רוץ רוץ</l>
+          <l>קח ת'עצירות שלך</l>
+          <l>קח את השלשול שלך</l>
+          <l>וטוס טוס טוס</l>
+          <l>קח ת'כאב ראש שלך</l>
+          <l>קח ת'כדורים שלך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ורוץ - אל עבר עולמך</l>
+          <l>רוץ - התוהו מסביבך</l>
+          <l>רוץ - עם כל מה ששלך</l>
+          <l>רוץ</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

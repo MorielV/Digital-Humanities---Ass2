@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היונה והשושן</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>שם טוב לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היונה והשושן</head>
+        <lg number="1" type="stanza">
+          <l>ברוח ערבים </l>
+          <l>אדמה הקמה. </l>
+          <l>מאין תבואי </l>
+          <l>יונה תמה? </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מקצה השמים </l>
+          <l>קולך נשמע, </l>
+          <l>האור על כנפייך, </l>
+          <l>יונה תמה. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היום את השמש </l>
+          <l>בים רמה. </l>
+          <l>קרוב הלילה, </l>
+          <l>יונה תמה. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קרוב הלילה, </l>
+          <l>הגיע התור. </l>
+          <l>שמרי על כנפך </l>
+          <l>אחרית האור. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יין עתיק, זמר ישן. </l>
+          <l>צמחו בגן שושנה ושושן. </l>
+          <l>חמדה לרוח לוטפת, </l>
+          <l>אויה היד הקוטפת! </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>יין עתיק, זמר ישן, </l>
+          <l>אבוי, התיבול שושנה-אין-שושן? </l>
+          <l>דמעת הטל היורדת, </l>
+          <l>חמדת הפריחה הבוגדת! </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>עז התירוש, זמר חדש - </l>
+          <l>נשאה הדבורה לכוורת הדבש. </l>
+          <l>יערות גם ריח ניחוח. </l>
+          <l>עת לנבול ועת לפרוח.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

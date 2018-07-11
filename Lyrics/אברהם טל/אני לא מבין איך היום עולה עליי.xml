@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני לא מבין איך היום עולה עליי</title>
+        <singer classification="male singer">אברהם טל</singer>
+        <writer>אברהם טל</writer>
+        <composer>אברהם טל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני לא מבין איך היום עולה עליי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אני לא מבין איך היום עולה עלי</l>
+          <l>אני לא מבין איך הולך לי ונגמר</l>
+          <l>אני לא מבין איך היום עולה עלי</l>
+          <l>אני לא מבין איך הולך לי ונגמר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היום עולה ואני מסתכל רחוק</l>
+          <l>מחפש את קצה הדרך</l>
+          <l>תוהה מתי נגיע אל הארץ הטובה</l>
+          <l>אני רואה איך כל חושי אומרים לי </l>
+          <l>ממה להיזהר</l>
+          <l>רגלי הולכות באדמה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני לא מבין איך היום עולה עלי</l>
+          <l>אני לא מבין איך הולך לי ונגמר</l>
+          <l>אני לא מבין איך היום עולה עלי</l>
+          <l>אני לא מבין איך הולך לי ונגמר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קום ותסתכל רחוק אל המרחב</l>
+          <l>תרגיש קרוב אל תפחד</l>
+          <l>בוא אהיה לך למשכן ראש</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני לא מבין איך היום עולה עלי</l>
+          <l>אני לא מבין איך הולך לי ונגמר</l>
+          <l>אני לא מבין איך היום עולה עלי</l>
+          <l>אני לא מבין איך הולך לי ונגמר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

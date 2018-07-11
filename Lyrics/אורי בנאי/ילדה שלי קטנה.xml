@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילדה שלי קטנה</title>
+        <singer classification="male singer">אורי בנאי</singer>
+        <writer>אורי בנאי</writer>
+        <composer>אורי בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילדה שלי קטנה</head>
+        <lg number="1" type="stanza">
+          <l>נשחק בגן השעשועים אני ואת</l>
+          <l>את תיהי פייה טובה אני אהיה פיראט </l>
+          <l>פתאום תגידי אבא בוא</l>
+          <l>תקנה לי אפרסק</l>
+          <l>נתחלק בו ואחר כך שוב פעם נשחק.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הנה היא באה לעולם ילדה שלי קטנה</l>
+          <l>בואי אני אקח אותך אתן לך נשיקה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אווירה של חג בכדורגל בשבת</l>
+          <l>מי זה שמה ביציע זה אני ואת</l>
+          <l>מפצחים קצת גרעינים</l>
+          <l>ומסננים קללה</l>
+          <l>אבוקסיס קיבל צהוב בגלל ההכשלה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הנה היא באה לעולם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואני אקרא לה סיפור לפני השינה</l>
+          <l>ביום ההולדת אביא מתנה</l>
+          <l>בקיץ נלך לרחוץ בתוך ים כחול.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ועם הגיטרה אני אשיר לה שירים</l>
+          <l>את בובה זהבה ואת פרפרים</l>
+          <l>גלידה עם קצפת ביחד נלך לזלול, לזלול.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>הנה היא באה לעולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

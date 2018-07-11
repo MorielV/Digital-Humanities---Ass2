@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלוז שרשרת</title>
+        <singer classification="male singer">אבנר שטראוס</singer>
+        <writer>אבנר שטראוס</writer>
+        <composer>אבנר שטראוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלוז שרשרת</head>
+        <lg number="1" type="stanza">
+          <l>שנים מתגלגלות כמו חרוזים</l>
+          <l>בשרשרת מוסלמית, חרוז אחר חרוז</l>
+          <l>מחר אני עומד ללכת</l>
+          <l>נראה ששום דבר אינו עומד לזוז</l>
+          <l>שמישהו יגיד לי למה כבד עלי הבלוז</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בגיאוגרפיה של גופך איבדתי את הצפון</l>
+          <l>אני לא מוצא סיפוק, אני לא יכול לישון</l>
+          <l>מחר אני עומד ללכת</l>
+          <l>נראה ששום דבר אינו עומד לזוז</l>
+          <l>שמישהו יגיד לי למה כבד עלי הבלוז</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הייתי בעל חלומות, חיכיתי לנסים</l>
+          <l>מהכותונת שלי קילפו את הפסים</l>
+          <l>מחר אני עומד ללכת</l>
+          <l>נראה ששום דבר אינו עומד לזוז</l>
+          <l>שמישהו יגיד לי למה כבד עלי הבלוז</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

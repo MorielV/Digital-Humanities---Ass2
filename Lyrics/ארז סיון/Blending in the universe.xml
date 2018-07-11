@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Blending in the universe</title>
+        <singer classification="unknown">ארז סיון</singer>
+        <writer>ארז סיון</writer>
+        <composer>ארז סיון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Blending in the universe</head>
+        <lg number="1" type="stanza">
+          <l>Flying way up high</l>
+          <l>Don't have a need to say goodbye</l>
+          <l>Sleep upon a cloud</l>
+          <l>Leave that crowd down bellow</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>No, I don't care</l>
+          <l>I don't mind</l>
+          <l>Leaving Everything behind</l>
+          <l>No, I don't fit in</l>
+          <l>And I don't mind</l>
+          <l>Leaving,</l>
+          <l>Everything behind</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Sand Beneath my feet </l>
+          <l>I can feel the heat</l>
+          <l>Where shall I go</l>
+          <l>Diving through the Dead Sea</l>
+          <l>Oh it forces me to float</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>No, I don't care</l>
+          <l>I don't mind</l>
+          <l>Leaving Everything behind</l>
+          <l>No, I don't fit in</l>
+          <l>And I don't mind</l>
+          <l>Leaving,</l>
+          <l>Everything behind</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

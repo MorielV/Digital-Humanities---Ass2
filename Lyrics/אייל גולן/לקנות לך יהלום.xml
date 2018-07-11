@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לקנות לך יהלום</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>חייל של אהבה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לקנות לך יהלום</head>
+        <lg number="1" type="stanza">
+          <l>אני נוסע אבל חושב עליה</l>
+          <l>הזכרונות במזוודה</l>
+          <l>אני לא בורח ואני יודע</l>
+          <l>היא לא נשארת אבודה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם אין לחם אין אהבה</l>
+          <l>אני נוסע לסדר לנו עתיד</l>
+          <l>כמה זמן אפשר לחיות בלי עבודה</l>
+          <l>זמן לא עוזר לי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לי רק חלום לקנות לך יהלום</l>
+          <l>לראות אותך עוד פעם מחייכת</l>
+          <l>יש בי אהבה, הישארי קרובה</l>
+          <l>יודע שאותי את רק אוהבת</l>
+          <l>וגם אני אוהב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לך אני מבטיח שבקרוב אצליח</l>
+          <l>ונוכל לחיות בלי דאגות</l>
+          <l>הכסף לא קובע אבל אני יודע</l>
+          <l>שאם חסר יש בעיות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם אין לחם אין אהבה</l>
+          <l>אני נוסע לסדר לנו עתיד</l>
+          <l>כמה זמן אפשר לחיות בלי עבודה</l>
+          <l>זמן לא עוזר לי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>יש לי רק חלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

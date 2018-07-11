@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלכת הערב</title>
+        <singer classification="male singer">אילן נורי</singer>
+        <writer>דודו מתנה</writer>
+        <composer>דודו מתנה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלכת הערב</head>
+        <lg number="1" type="stanza">
+          <l>בשמלה כה מבליטה</l>
+          <l>את כך עוברת</l>
+          <l>שיער פזור כמו בז'ורנל</l>
+          <l>את מפזרת</l>
+          <l>ניצוצות של אהבה לכל עבר</l>
+          <l>לשגע לי ת'נשמה</l>
+          <l>למועדון את מרביצה כניסה מושלמת</l>
+          <l>שייראו הנה היא באה מלכת הערב</l>
+          <l>את כולם לרחבה את מושכת</l>
+          <l>זה משגע לי ת'נשמה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל הלילה את כך רוקדת</l>
+          <l>מנענעת משגעת בתוך הקצב</l>
+          <l>אז בואי נא אליי הביטי בעיניי</l>
+          <l>אני רוצה להיות איתך הלילה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עם חיוך ולוק שובב</l>
+          <l>את מתגרה בי</l>
+          <l>תרגישי איך ליבי פועם</l>
+          <l>זה לא נורמלי</l>
+          <l>ניפגש אצלי בשש</l>
+          <l>כך היא אמרה לי</l>
+          <l>שהלילה אני שלך</l>
+          <l>אך לפתע זה קרה</l>
+          <l>איך התייבשתי,</l>
+          <l>בזרועות אחר הייתה</l>
+          <l>לא האמנתי</l>
+          <l>שאני פתאום נהיה לא רלוונטי</l>
+          <l>והלילה אני לבד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

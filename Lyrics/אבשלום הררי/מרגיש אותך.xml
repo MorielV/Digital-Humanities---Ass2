@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מרגיש אותך</title>
+        <singer classification="unknown">אבשלום הררי</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מרגיש אותך</head>
+        <lg number="1" type="stanza">
+          <l>היום אני יוצא לדרך חדשה</l>
+          <l>עוזב הכל כדי לבוא אלייך</l>
+          <l>טעון באהבה המכוונת לליבך</l>
+          <l>רוצה להיות המאהב שלך</l>
+          <l>אתן הכל שמאושר תחייכי</l>
+          <l>כל הזמן בכל מקום אליו תלכי</l>
+          <l>בואי ונתחיל היום</l>
+          <l>לחיות את החלום</l>
+          <l>מעכשיו ולעולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני מרגיש אותך חזק הלילה</l>
+          <l>מה את עושה לי נערה</l>
+          <l>איתך הלב שלי ממריא למעלה</l>
+          <l>וחוזר אלי בחזרה</l>
+          <l>אני מרגיש אותך חזק הלילה</l>
+          <l>עף למעלה ובחזרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלילה נתמזג כמו תזמורת מדהימה </l>
+          <l>ואלוהים עלינו ינצח</l>
+          <l>חבקי אותי חזק מלאי לי את הנשמה </l>
+          <l>ביחד נהפוך כל יום לחג</l>
+          <l>אתן הכל שמאושר תחייכי</l>
+          <l>כל הזמן בכל מקום אליו תלכי</l>
+          <l>בואי ונתחיל היום</l>
+          <l>לחיות את החלום</l>
+          <l>מעכשיו לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני מרגיש אותך חזק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

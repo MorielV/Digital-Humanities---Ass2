@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברגוע</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אבי טולדנו</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברגוע</head>
+        <lg number="1" type="stanza">
+          <l>אני רוצה לחיות</l>
+          <l>אני רוצה לעוף</l>
+          <l>אני רוצה לחוש</l>
+          <l>את הרוח על פני</l>
+          <l>לפרוח כמו כדור</l>
+          <l>רק לא להיות סגור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רוצה לחיות עד לב שבור</l>
+          <l>להישרף כמו גפרור</l>
+          <l>להתפורר כמו זיקוקי דינור</l>
+          <l>ללכת לאיבוד</l>
+          <l>ואז בשקט לשכב....לנוח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מספיק עם מלחמות</l>
+          <l>כואב בחלומות</l>
+          <l>נופל מאכזבות שמשתקות לנצח</l>
+          <l>לא רוצה להתרגל</l>
+          <l>גם לא להסתגל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רוצה לחיות עד לב שבור...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל תוותר</l>
+          <l>אל תשבר</l>
+          <l>אתה עוד יכול לקום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

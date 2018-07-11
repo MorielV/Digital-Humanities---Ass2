@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אוורסט</title>
+        <singer classification="female singer">אדרת</singer>
+        <writer>אדרת</writer>
+        <composer>אדרת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אוורסט</head>
+        <lg number="1" type="stanza">
+          <l>מישהו ניצב עכשיו לצידך</l>
+          <l>משהו עוטף ברוך את כל גופך</l>
+          <l>את יכולה תמיד לבחור באהבה</l>
+          <l>אבל את בוחרת לחלום על דרך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך לטפס עד לפסגתו של האוורסט</l>
+          <l>ואת נשארת לבד</l>
+          <l>וחולמת להגיע לאוורסט</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מישהו משאיר אותך בודדה</l>
+          <l>משהו ממך נבנה אל המטרה</l>
+          <l>ואין לך יותר דרך חזרה</l>
+          <l>ואז את נרדמת</l>
+          <l>ושוב חולמת</l>
+          <l>איך לטפס עד לפסגתו של האוורסט</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

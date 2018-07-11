@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סנילי</title>
+        <singer classification="male singer">אודי דוד</singer>
+        <writer>אודי דוד</writer>
+        <composer>אודי דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סנילי</head>
+        <lg number="1" type="stanza">
+          <l>אני יורד במדרגות לכיוון אותו מקום</l>
+          <l>הייתי עוצר את הזמן</l>
+          <l>הרגליים יחפות נעליים נחוצות</l>
+          <l>ואין מנוחה לא עכשיו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתה עוזב את המקום את הדברים שם מאחור</l>
+          <l>חסר לך כי אין לך משהו טוב</l>
+          <l>אתה הולך עם החושים הם ימשכו אותך בחוטים</l>
+          <l>ואין לך רגע לבחור</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קצת סנילי הייתי אחרת תתעורר</l>
+          <l>קצת בועט צעד לכיוון הלב</l>
+          <l>קצת סנילי הייתי אחרת מתפורר</l>
+          <l>קצת בועט לכיוון אחר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה עוזב את השבילים במקומות החדשים</l>
+          <l>שורף לך ואין לך מילים</l>
+          <l>כבר לא בורח מהקטנים אתה פותח גם אם במחיר</l>
+          <l>שיש איזה ספק שתמשיך אתה יכול לרשום</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שהשיטה משמעותית לדבר ולהזכיר</l>
+          <l>האם יתכן ותקשיב</l>
+          <l>אז יש מרדף וויכוחים מציאות לשקרנים</l>
+          <l>תרדו מהעץ אנשים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>קצת סנילי...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>תשמעו ילדים בחוץ האנשים טובים</l>
+          <l>עדיף לא להרגיז לא להצית לא להתיש...</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>קצת סנילי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

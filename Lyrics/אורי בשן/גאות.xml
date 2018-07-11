@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גאות</title>
+        <singer classification="male singer">אורי בשן</singer>
+        <writer>אורי בשן</writer>
+        <composer>אורי בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גאות</head>
+        <lg number="1" type="stanza">
+          <l>אש או מים</l>
+          <l>תמיסה יצוקה</l>
+          <l>והרגליים הולכות בתשוקה</l>
+          <l>חברים לחיים ולמוות</l>
+          <l>נשמות טהורות ועיתוי מזויף</l>
+          <l>ואם קול אבוד נישא באוויר כמו השיר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אדמה ושמיים</l>
+          <l>יציקה נמסה</l>
+          <l>והידיים נוגעות בתשוקה</l>
+          <l>חברות לחיים ולמוות</l>
+          <l>נשמות תאומות ועיתוי מזופת</l>
+          <l>ואם קול אבוד נישא באוויר כמו השיר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בתוך מערה גר אדם עם מורה</l>
+          <l>מחייך לתקרה ובוחן הרצאה</l>
+          <l>אל תגלי לי הכל</l>
+          <l>הסוד זה הסוד, ניצחון או שכול</l>
+          <l>ואם קול אבוד נישא באוויר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

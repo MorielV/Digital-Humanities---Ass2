@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קח לך אישה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>שלום חנוך</writer>
+        <composer>שלום חנוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קח לך אישה</head>
+        <lg number="1" type="stanza">
+          <l>אני רוכב, לא יתפסוני חי</l>
+          <l>כן אני זוכר אותה איתי, רוכבת איתי</l>
+          <l>אני עוזב, אולי כהו עיני</l>
+          <l>והיא עומדת שם צוחקת אלי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קח לך אישה ובנה לה בית</l>
+          <l>קח לך, קח לך,</l>
+          <l>קח לך אישה ובנה לה בית</l>
+          <l>קח לך, קח לך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני רוכב השמש בגבי.</l>
+          <l>כן, אני מרגיש אותך איתי כאילו עכשיו</l>
+          <l>הזמן עוקב וכבר נוגע בי</l>
+          <l>ואין כבר דרך להמשיך ולרכב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אולי אשוב בצהרי היום</l>
+          <l>כן, אני זקן יותר ואת זוכרת אותי</l>
+          <l>זה לא עצוב כשמסתיים חלום</l>
+          <l>זה לא עצוב כי את נשארת איתי.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>קח לך אישה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

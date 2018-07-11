@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חכי לי אהובה</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חכי לי אהובה</head>
+        <lg number="1" type="stanza">
+          <l>משוטט כמו כלב ברחובות</l>
+          <l>הרוכלים כיבו את האורות</l>
+          <l>מדרכות עומדות מיותמות</l>
+          <l>רק הקור חודר לעצמות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מחפש לי רק פינה מוגנת</l>
+          <l>כאן בתוך העיר המתנכרת</l>
+          <l>ורק שיר מוכר מאיר לי דרך</l>
+          <l>אל ליבך, אל תוך הנשמה שלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אלוהים יודע שטעיתי</l>
+          <l>ואני יודע שרציתי</l>
+          <l>אלוהים יודע שאהבתי</l>
+          <l>ואני יודע שהכאבתי</l>
+          <l>כמה סבל יש באהבה</l>
+          <l>כמה שקר יש באכזבה</l>
+          <l>כמה זמן עד שאמצא תשובה</l>
+          <l>אחבק אותך, חכי לי אהובה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מחפשת אותך העיר זועקת</l>
+          <l>הכאב ישר צמא לשקט</l>
+          <l>מתוך הנשמה חומקת המנגינה הישנה</l>
+          <l>זיכרון תשוקה, מגע ידך</l>
+          <l>כמו ציפור פצועה אני אליך</l>
+          <l>והעיר הנדיבה סולחת</l>
+          <l>מתעוררת לחיים</l>
+          <l>לאהבה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אלוהים ידע שטעיתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

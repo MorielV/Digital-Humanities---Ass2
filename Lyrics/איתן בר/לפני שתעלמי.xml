@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לפני שתעלמי</title>
+        <singer classification="unknown">איתן בר</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לפני שתעלמי</head>
+        <lg number="1" type="stanza">
+          <l>רואה אותך מתרחקת, שונא את השקט בלעדייך</l>
+          <l>היום נופל ושוקע צילך עוד נוגע ועוזב </l>
+          <l>רק הלילה נותר מהיום שעבר</l>
+          <l>כמו צל שנתן לך הירח בלכתך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אולי זה הזמן להודות: אני אשם</l>
+          <l>ואולי גם תשמעי אותי בוכה</l>
+          <l>בין השורות לפני שתעלמי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי נדמה שוויתרתי על מי שאהבתי, רק נדמה לך </l>
+          <l>ימים חולפים בלעדייך, חולם את עינייך ושותק</l>
+          <l>את הזמן שעבר מהיום שהלכת לבדך </l>
+          <l>ועכשיו אני לומד להצטער.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אולי זה הזמן להודות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המבט</title>
+        <singer classification="male singer">אורי קליאן</singer>
+        <writer>אורי קליאן</writer>
+        <composer>אורי קליאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המבט</head>
+        <lg number="1" type="stanza">
+          <l>המבט בעינינו אותו המבט </l>
+          <l>הולכים באותו הכיוון כאחד </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הלוואי ויכולתי, אם תרשי לי אולי, </l>
+          <l>לבלות איתך את כל חיי </l>
+          <l>לראות מהחלון את הספינות הרחוקות </l>
+          <l>לסיים את מסלול נדודי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ראיתי אותך ישנה, יפה מתמיד </l>
+          <l>בחושך קסום ונפלא, הוא לא מפחיד </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הלוואי ויכולתי, אם תרשי לי אולי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>באתי אליך כמ שאני, את באת כמו שאת </l>
+          <l>ספרנו כוכבים בשמיים שחורים </l>
+          <l>עד שלא נשאר אפילו אחד </l>
+          <l>מחובקים התעוררנו, נשארנו לבד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

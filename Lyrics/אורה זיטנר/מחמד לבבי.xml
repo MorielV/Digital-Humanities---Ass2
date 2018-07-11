@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחמד לבבי 2</title>
+        <singer classification="female singer">אורה זיטנר</singer>
+        <writer>שרה לוי תנאי</writer>
+        <composer>שרה לוי תנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחמד לבבי</head>
+        <lg number="1" type="stanza">
+          <l>התכלא ציפור קולה</l>
+          <l>עת השמש דום עולה</l>
+          <l>פרח חן יכלא בושמו</l>
+          <l>עת אביב קוסם קסמו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כן יכלא מחמד לבבי</l>
+          <l>ערגתו ברון קולי</l>
+          <l>בין ערביים, פתח אוהלי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היברח הגיא מהר,</l>
+          <l>מהים יחמוק נהר?</l>
+          <l>האין אח הליל ליום</l>
+          <l>סהר ליל לחלום?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כן יכלא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

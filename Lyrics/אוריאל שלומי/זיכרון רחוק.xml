@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זיכרון רחוק</title>
+        <singer classification="male singer">אוריאל שלומי</singer>
+        <writer>ראובן אלוני</writer>
+        <composer>ראובן אלוני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זיכרון רחוק</head>
+        <lg number="1" type="stanza">
+          <l>בבית קפה לייד הדיגים </l>
+          <l>אהבנו וידענו ימים מאושרים </l>
+          <l>לרחש הגלים רקמנו חלומות </l>
+          <l>הקסם בעינייך ניגון של כינורות </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לכל אחד משנינו נכתב גורל אחר </l>
+          <l>והחלום שלנו נסחף לחוף אחר </l>
+          <l>מה שהיה בינינו נגמר לא מסתדר </l>
+          <l>שנים את נשואה למישהו אחר </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>האם את מאושרת </l>
+          <l>ספרי לי מה איתך </l>
+          <l>האם את נאהבת </l>
+          <l>כמו שאהבתי אותך </l>
+          <l>אולי את לפעמים </l>
+          <l>חושבת עלי </l>
+          <l>כמו שאני חושב </l>
+          <l>עלייך </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היום אני יודע שהיינו ילדים </l>
+          <l>המחשבות זורקות אותי </l>
+          <l>לכל הכיוונים </l>
+          <l>האם שוב ניפגש </l>
+          <l>ליד הדייגים </l>
+          <l>הן לא מזמן היינו </l>
+          <l>אוהבים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>האם את מאושרת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

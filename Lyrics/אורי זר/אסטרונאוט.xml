@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אסטרונאוט</title>
+        <singer classification="male singer">אורי זר</singer>
+        <writer>דודו ברק</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אסטרונאוט</head>
+        <lg number="1" type="stanza">
+          <l>שייך למזלות המים</l>
+          <l>או למזלות האוויר</l>
+          <l>מרחף, לפתע מתנדף</l>
+          <l>יד ימין לא מכירה את שמאל</l>
+          <l>לא יודע כלל וכלל לשאול.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אסטרונאוט</l>
+          <l>In and out</l>
+          <l>Twist and shout</l>
+          <l>כל חיי מעופף</l>
+          <l>קצת פה, קצת שם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מן אוטיסט</l>
+          <l>אנרכיסט</l>
+          <l>וארטיסט</l>
+          <l>קח אישה ותתחפף</l>
+          <l>קצת חוף, קצת ים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אסטרונאוט</l>
+          <l>Out, out, out</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נקי ולא מסניף בחושך</l>
+          <l>ואולי קצת מרובע</l>
+          <l>לא יודע מי הולך ובא</l>
+          <l>מנותק וכל כך מחובר</l>
+          <l>מחפש אתמול, היום, מחר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אסטרונאוט...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אסטרונאוט בחללית האם</l>
+          <l>בלי מוצא, בלי בית ובלי שם.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>אסטרונאוט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הקברט של מירנדה</title>
+        <singer classification="unknown">אורלי זילברשץ</singer>
+        <writer>אורלי זילברשץ</writer>
+        <composer>יובל בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הקברט של מירנדה</head>
+        <lg number="1" type="stanza">
+          <l>הוילון האדום הכבד כבר נסגר</l>
+          <l>אמא סולינה לוגמת בבר</l>
+          <l>הגמד הקטן של מירנדה שותק</l>
+          <l>אין לו ברירה הוא מדי בולט</l>
+          <l>מירנדה מניחה על כתפה העבה</l>
+          <l>פרווה עלובה של חיה עלובה</l>
+          <l>בואו בהמוניכם למופע הגדול</l>
+          <l>אל קרקס האומללים הבדידות והשכול</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בואו בהמוניכם למופע הגדול</l>
+          <l>אל קרקס האומללים הבדידות והשכול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוילון האדום הכבד כבר נסגר</l>
+          <l>אמא סולינה לוגמת בבר</l>
+          <l>חלקים של חיים יטמעו בשיכר</l>
+          <l>המופע של מירנדה תיכף נגמר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

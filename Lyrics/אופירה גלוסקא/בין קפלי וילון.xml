@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בין קפלי וילון</title>
+        <singer classification="female singer">אופירה גלוסקא</singer>
+        <writer>דודו ברק</writer>
+        <composer>נחצ'ה היימן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בין קפלי וילון</head>
+        <lg number="1" type="stanza">
+          <l>בוילון מצאו זבובי הקיץ את מותם.</l>
+          <l>בוילון, שיר ערב שר הרוח.</l>
+          <l>וסודות כמוסים, אליו, הברוש המיותם,</l>
+          <l>משלח, עת אור יום יפוח.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בוילון, בבואתך שלחת עם בוא הליל.</l>
+          <l>בוילון, נתלו אז שתי עינייך.</l>
+          <l>מבטך שנאלם, יודע וקובל,</l>
+          <l>על שעזבך לאנחותיך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בין המון קפלי וילון, נעלמו: הסתיו.</l>
+          <l>קיץ ואביב וחורף. זיכרונות בית אב.</l>
+          <l>וליבו אליך. דאבון ליבך, ליבך,</l>
+          <l>בין קפלי זה הוילון שבביתך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בוילון צחק הרוח, בלילות כחולים.</l>
+          <l>בוילון, תלה פרפר צוף פרח.</l>
+          <l>בעדו, בועות סבון, הפרחתם, עיגולים,</l>
+          <l>פעם, כשהיה עוד טעם. ריח.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בוילון אדמו הנשיקות שיש לזכור.</l>
+          <l>בוילון הלבינו שפתותיך.</l>
+          <l>כול שרק נותר, היה. לעד לא יחזור.</l>
+          <l>אך עוד בוילון יפים פניך.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בין המון קפלי וילון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

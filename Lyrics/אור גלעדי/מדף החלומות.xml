@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מדף החלומות</title>
+        <singer classification="unknown">אור גלעדי</singer>
+        <writer>עינת הולנדר</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מדף החלומות</head>
+        <lg number="1" type="stanza">
+          <l>אני אוסף אותם שנים ושָם בַצד </l>
+          <l>לכל אחד מהם יש אופי מיוחד </l>
+          <l>הם מחכים לי עד אשר יבוא היום </l>
+          <l>להגשים חלום אחר חלום </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הם חלק ממני, אני חלק מהם </l>
+          <l>אני פשוט אדם חולם </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל יום אני מֵציץ במדף החלומות </l>
+          <l>מוודא שהם עוד שם, נותן להם שמות </l>
+          <l>היום אני מַגיע אֲליהם בלי בעיות </l>
+          <l>פעם נגעתי רק בִּקצות האצבעות </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני מבריק אותם, מֵסיר מהם אבק </l>
+          <l>וּמאמץ אותם אלי חזק-חזק </l>
+          <l>וגם אם לפעמים הם משנים צורה </l>
+          <l>אחליף את המדף בְמגירה </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הם חלק ממני, אני חלק מהם </l>
+          <l>אני פשוט אדם חולם </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כל יום אני מֵציץ במדף החלומות </l>
+          <l>מוודא שהם עוד שם, נותן להם שמות </l>
+          <l>היום אני מַגיע אֲליהם בלי בעיות </l>
+          <l>פעם נגעתי רק בִּקצות האצבעות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

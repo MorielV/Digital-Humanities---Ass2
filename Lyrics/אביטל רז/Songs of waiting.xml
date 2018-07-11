@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Songs of waiting</title>
+        <singer classification="unknown">אביטל רז</singer>
+        <writer>אביטל רז</writer>
+        <composer>אביטל רז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Songs of waiting</head>
+        <lg number="1" type="stanza">
+          <l>How can I sing to you my loveless lover?</l>
+          <l>I'll change your name.</l>
+          <l>How can I sing to you my loveless lover?</l>
+          <l>I'll sing of pain.</l>
+          <l>Songs of pain and of waiting...</l>
+          <l>Waiting to sing to you again.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Like a snake that sheds his skin,</l>
+          <l>I'll shed these songs I'll shed my sins,</l>
+          <l>I'll slither on without tattoos, </l>
+          <l>without these pains I pained for you.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

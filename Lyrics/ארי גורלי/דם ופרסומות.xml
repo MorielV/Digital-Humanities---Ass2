@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דם ופרסומות</title>
+        <singer classification="male singer">ארי גורלי</singer>
+        <writer>ארי גורלי</writer>
+        <composer>ארי גורלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דם ופרסומות</head>
+        <lg number="1" type="stanza">
+          <l>שוב ברדיו שיר אהבה</l>
+          <l>המחשב יוצר שיר שכבר היה</l>
+          <l>זה לא נותן לי כוח</l>
+          <l>זה לא נותן תקווה</l>
+          <l>תיכף משדרים בין המנגינות</l>
+          <l>דם ופרסומות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שוב ברדיו שיר אהבה</l>
+          <l>מקווה מאוד שלי תהיה טובה</l>
+          <l>הכל הופך לציני</l>
+          <l>כבר לא יכול לראות</l>
+          <l>תיכף משדרים בין המנגינות</l>
+          <l>דם ופרסומות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דם ופרסומות</l>
+          <l>דם ופרסומות</l>
+          <l>כל כך רוצה לבכות</l>
+          <l>כל כך רוצה לבכות</l>
+          <l>והדמעות יורדות</l>
+          <l>כל כך לא רטובות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק אהבת אמת מביסה קנאה</l>
+          <l>רק אהבת אמת מביסה שנאה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שוב ברדיו שיר אהבה</l>
+          <l>שוב אתה נזכר יש מציאות טובה</l>
+          <l>יכול להיות אופטימי, רק לכמה דקות</l>
+          <l>תיכף ישדרו בין המנגינות</l>
+          <l>דם ופרסומות</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>דם ופרסומות...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>רק אהבת אמת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

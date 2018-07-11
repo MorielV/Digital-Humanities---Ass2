@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בובת ברבי</title>
+        <singer classification="unknown">אבי לוי</singer>
+        <writer>אבי לוי</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בובת ברבי</head>
+        <lg number="1" type="stanza">
+          <l>ראיתי ברחוב איך שאת מתהלכת</l>
+          <l>חולצה קצרה וג'ינס צמוד לגופך</l>
+          <l>האודם בשפתיים איך את מושכת</l>
+          <l>כל גבר ברחוב בך הוא חושק</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רוצה אותך קרוב ואת מתרחקת</l>
+          <l>שוברת במבט כל גבר שזז</l>
+          <l>מרים לך טלפון ואת מתחמקת</l>
+          <l>איך השתנית ילדה זה לא כמו שאז</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כמו בובה של ברבי מתהלכת</l>
+          <l>את כולם שוברת במבט</l>
+          <l>את אישה יפה ונהדרת</l>
+          <l>ואני רוצה אותך כל כך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נוסעת במהירות ולא מביטה בי</l>
+          <l>עם וולבו לבנה וגג מתקפל</l>
+          <l>עברת כאן לידי הלב שוב קפא לי</l>
+          <l>מתי תבואי אני אלייך מייחל</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כמו בובה של ברבי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

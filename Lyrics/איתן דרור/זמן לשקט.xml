@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמן לשקט</title>
+        <singer classification="male singer">איתן דרור</singer>
+        <writer>איתן דרור</writer>
+        <composer>איתן דרור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמן לשקט</head>
+        <lg number="1" type="stanza">
+          <l>שנינו בחדר יושבים מדברים</l>
+          <l>המלים מכסות על כתמים אחרים</l>
+          <l>ועכשיו זמן לשקט</l>
+          <l>בעוד כמה דקות ירתח הקפה</l>
+          <l>השיחה מסתובבת ליד הקצה</l>
+          <l>ועכשיו זמן לשקט</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתה רוצה ימים יפים</l>
+          <l>שמזכירים לך שירים</l>
+          <l>כמו פעם</l>
+          <l>גם אם הלב נפתח פתאום</l>
+          <l>זה לא תופס אותו מקום</l>
+          <l>או טעם. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זרוקים על שטיח</l>
+          <l>כמעט בלי תנועה</l>
+          <l>כמו בובות נרדמות בתוך עריסה</l>
+          <l>ועכשיו זמן לשקט</l>
+          <l>הראשון שיקום יביא עוד קפה</l>
+          <l>השיחה כבר מזמן פגשה ת'קצה</l>
+          <l>ועכשיו זמן לשקט. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אתה רוצה ימים יפים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש רגע אחד שהכל בו אפשר</l>
+          <l>מהחלון שלי רואים את מחר</l>
+          <l>ועכשיו זמן לשקט. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אתה רוצה ימים יפים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

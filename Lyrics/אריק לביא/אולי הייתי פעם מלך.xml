@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אולי הייתי פעם מלך</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>חיים חפר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אולי הייתי פעם מלך</head>
+        <lg number="1" type="stanza">
+          <l>אני עובר בין הכפרים העתיקים </l>
+          <l>נועץ באשכולות הכפור את שיני</l>
+          <l>הולך בוואדיות גומע מרחקים </l>
+          <l>ושמש קיץ אדומה בתוך עיני </l>
+          <l>ושמש קיץ אדומה מתוך שפתיך </l>
+          <l>ושמך ניגר אלי כקול של מעיין </l>
+          <l>רק שרוצה אני לומר דבר אליך </l>
+          <l>אני אבוד בנוף, תועה בתוך הזמן </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אולי הייתי פעם מלך ולי ריבוא של פרשים </l>
+          <l>אולי הגשתי פת במלח כשראיתיך בין אנשים </l>
+          <l>אולי היית שפחתי אולי היית נסיכתי, נסיכתי. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני דוהר עכשיו על פני דרכי עפר </l>
+          <l>וכל הפרשים באים בעקבותי</l>
+          <l>הקיץ הוא אדום, הצעד הוא נמהר </l>
+          <l>ועץ אלה צמח אל תוך שערותי</l>
+          <l>ועץ אלה מניח צל כבד על שנינו </l>
+          <l>ואור השמש לא נגע עוד בידינו </l>
+          <l>אני תלוי במבטים אשר בינינו </l>
+          <l>אם לא אלך עכשיו לנצח אאבדך </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אולי הייתי פעם מלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ביקשתי רק</title>
+        <singer classification="unknown">אביהו שבת</singer>
+        <writer>גילי זכאי</writer>
+        <composer>גילי זכאי</composer>
+        <album>אביהו</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ביקשתי רק</head>
+        <lg number="1" type="stanza">
+          <l>אני לא ביקשתי כלום כי את הכל כבר יש לי </l>
+          <l>מתרגש ממך כמו פעם ראשונה </l>
+          <l>הראש בעננים, ואת עמוק עמוק בנשמה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני לא צריך דבר שאת איתי רוקדת </l>
+          <l>מתמכר לך כמו אוויר לנשימה </l>
+          <l>כשאת לצידי, רוצה רק להרגיש אותך איתי </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ביקשתי רק את האהבה שלך </l>
+          <l>לקום בבוקר מאוהב </l>
+          <l>ביקשתי רק להיות בלב שלך, לעולם </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני לא ביקשתי כלום כי מה שאת נותנת </l>
+          <l>לא קיבלתי עוד מאף אדם אחר </l>
+          <l>ולא מוצא מילים, שאותך יצליחו לתאר </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אפילו כשהאדמה אצלי רועדת </l>
+          <l>מחזיקה אותי בתוך המציאות </l>
+          <l>מתי שאת איתי, אני לא מאבד את השפיות </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ביקשתי רק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

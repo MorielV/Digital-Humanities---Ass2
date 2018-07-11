@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל החיילים חוזרים הביתה</title>
+        <singer classification="unknown">אבי דן</singer>
+        <writer>אריה פרננד</writer>
+        <composer>אריה פרננד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל החיילים חוזרים הביתה</head>
+        <lg number="1" type="stanza">
+          <l>כל החיילים חוזרים הביתה</l>
+          <l>הקרב עוד לא תם</l>
+          <l>כל החיילים רוצים לאמא</l>
+          <l>שתלטף שיער ראשם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וכשהקרב עוד לא תם</l>
+          <l>והקשר נותק</l>
+          <l>ישבה האמא וכתבה עד המכתב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תשמור על עצמך ילדי</l>
+          <l>תמיד תיזכור את אמא</l>
+          <l>ולכל אשר תלך</l>
+          <l>ברכה שלוחה מאמא</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל החיילים חוזרים הביתה</l>
+          <l>מדוע הוא לא שב?</l>
+          <l>על קברו ספדו לו</l>
+          <l>הוא היה גיבור הקרב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רק אמא נותרה שם</l>
+          <l>מבכה את אהובה</l>
+          <l>את ילדה שלא ישוב עוד</l>
+          <l>לא תראה היא לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תשמור על עצמך ילדי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

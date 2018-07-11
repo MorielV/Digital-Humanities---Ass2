@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין בחוף מקום</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>דני מסינג</writer>
+        <composer>דני מסינג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין בחוף מקום</head>
+        <lg number="1" type="stanza">
+          <l>רק לקטוף עלה אחד</l>
+          <l>ולא להזכר,</l>
+          <l>אין על מה להצטער</l>
+          <l>לא לבכות לאבא</l>
+          <l>הוא איננו שם</l>
+          <l>לא כדאי לברוח אל הים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין בחוף מקום אפילו לצדפות</l>
+          <l>מישהו גרש אותן משם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק לחזור אל הרחוב</l>
+          <l>ולא להשאר</l>
+          <l>אין על מה להצטער,</l>
+          <l>לא לרוץ הביתה</l>
+          <l>הוא איננו שם</l>
+          <l>לא כדאי לברוח אל הים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין בחוף מקום אפילו לצדפות</l>
+          <l>מישהו גרש אותן משם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

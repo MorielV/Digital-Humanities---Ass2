@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גברת מגונדרת</title>
+        <singer classification="unknown">אורית אסף</singer>
+        <writer>מיקי גבריאלוב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גברת מגונדרת</head>
+        <lg number="1" type="stanza">
+          <l>שמש בוקר באה בחלון</l>
+          <l>והיא מתעוררת עם חיוך חלום</l>
+          <l>את פניה מלטפת קרן אור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תלתלים שחורים בשערה</l>
+          <l>שמלה מקושטת לגופה לבשה</l>
+          <l>צעיפים של משי לראשה קשרה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כך היא מתגנדרת כל היממה</l>
+          <l>פעם עם הכובע פעם עם שמלה</l>
+          <l>בת שלוש וחצי כמו אשה גדולה</l>
+          <l>וכל כך שבא לי לחבק אותה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כבר הגיעה השעה לישון</l>
+          <l>הבגדים חוזרים בסדר לארון</l>
+          <l>ואם אין פיג'מה יש קומבניזון</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היא שוכבת לה עם הבובה</l>
+          <l>ולפני שהיא נרדמת במיטה</l>
+          <l>אז היא קמה להחליף לה עוד שמלה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כך היא מתגנדרת כל היממה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

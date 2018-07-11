@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כנפיים אינך שומע</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>יוסף שריג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כנפיים אינך שומע</head>
+        <lg number="1" type="stanza">
+          <l>כנפיים, אינך שומע</l>
+          <l>משק כנפיים בחוץ</l>
+          <l>באויר הקר כנפיים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כנפיים, אינך שומע</l>
+          <l>משק כנפיים בחוץ</l>
+          <l>בטיסה חרישית מלמעלה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ההייתי עומד על שפת הים</l>
+          <l>והיו הקרניים האחרונות</l>
+          <l>עולות מעלה מעלה ורסיסים שבורים בתוכן</l>
+          <l>היה העולם גבוה מעלי ולא הייתי אני נמוך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

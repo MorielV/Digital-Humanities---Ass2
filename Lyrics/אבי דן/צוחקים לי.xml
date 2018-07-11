@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צוחקים לי</title>
+        <singer classification="unknown">אבי דן</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צוחקים לי</head>
+        <lg number="1" type="stanza">
+          <l>לא, ילדה, אל תצחקי לי,</l>
+          <l>התחשבי ברגשותי</l>
+          <l>כי חבל ולא נראה לי</l>
+          <l>שתפילי הכל עלי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>צוחקים לי מכל עבר</l>
+          <l>ואומרים אני לא גבר</l>
+          <l>ואני נדרתי נדר</l>
+          <l>שאיתך אהיה בסדר.</l>
+          <l>את לבי את לא שומעת,</l>
+          <l>מה טמון בי לא יודעת.</l>
+          <l>בגללך יוצא מדעת,</l>
+          <l>נשמתי בי כבר נקרעת.</l>
+          <l>לא אינני מתבדח,</l>
+          <l>בתוכי אני רותח.</l>
+          <l>צוחקים לי מכל עבר </l>
+          <l>ואומרים אני לא גבר</l>
+          <l>ואני נדרתי נדר</l>
+          <l>שאיתך אהיה בסדר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי בפנים את מאוהבת,</l>
+          <l>זו דרכך באהבה.</l>
+          <l>אם להדליק אותי חושבת,</l>
+          <l>לא אגיד לך "תודה רבה".</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>צוחקים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

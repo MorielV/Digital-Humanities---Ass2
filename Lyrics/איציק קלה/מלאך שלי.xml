@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלאך שלי</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>אלי חוג'ה</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלאך שלי</head>
+        <lg number="1" type="stanza">
+          <l>מה אהבתי בי נשבעתי</l>
+          <l>את אחת לי אין אחרת</l>
+          <l>לא חלמתי כי אמת היא</l>
+          <l>לעולם את בי שוכנת</l>
+          <l>כל דקה לך הענקתי</l>
+          <l>כל פינה בלב נתתי</l>
+          <l>רק דבר אחד ביקשתי</l>
+          <l>כי לעד תהיי איתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מלאך שלי את גורלי</l>
+          <l>החן שבך מאיר לילי</l>
+          <l>מלאך שלי את מזלי</l>
+          <l>כולי שלך ואת שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יום וליל ערב בוקר</l>
+          <l>לי ינעמו חיוכייך</l>
+          <l>את רוקמת את הקשר</l>
+          <l>שבונים בי מבטייך</l>
+          <l>חום לבך כשמש בוקר</l>
+          <l>ושפשך שלווה ויושר</l>
+          <l>לי נתת שנות אור ואושר</l>
+          <l>כל דקה בלב זוכר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מלאך שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

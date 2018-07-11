@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שער החיים</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>מיקי שביב</writer>
+        <composer>מיקי שביב</composer>
+        <album>מציאות אחרת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שער החיים</head>
+        <lg number="1" type="stanza">
+          <l>כוכבים בסוף הלילה,</l>
+          <l>מה הם מבקשים</l>
+          <l>ברכתם של מאורות גדולים</l>
+          <l>יום חדש מפציע על מפתן,</l>
+          <l>שער החיים</l>
+          <l>הן הייתי נער,</l>
+          <l>גם נסיך וגם אביון</l>
+          <l>עוד אני מפליג בין הימים</l>
+          <l>כמו אצל חלום,</l>
+          <l>אני עומד כל יום</l>
+          <l>מול שער החיים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שער החיים,</l>
+          <l>לפתחי ימים</l>
+          <l>כאן אני עובר</l>
+          <l>כאן ימי חולפים</l>
+          <l>מה אמצא ביום הזה,</l>
+          <l>ביום הזה בשער החיים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו אצל חלום,</l>
+          <l>אני עומד כל יום</l>
+          <l>מול שער החיים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שער החיים,</l>
+          <l>לפתחי ימים</l>
+          <l>כאן אני עובר</l>
+          <l>כאן ימי חולפים</l>
+          <l>מה אמצא ביום הזה,</l>
+          <l>ביום הזה בשער החיים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שער החיים,</l>
+          <l>לפתחי ימים</l>
+          <l>כאן אני עובר</l>
+          <l>כאן ימי חולפים</l>
+          <l>מה אמצא ביום הזה,</l>
+          <l>ביום הזה בשער החיים.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ביום הזה,</l>
+          <l>אמצא,</l>
+          <l>בשער החיים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>במעלה ההר</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>אברהם לוי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>במעלה ההר</head>
+        <lg number="1" type="stanza">
+          <l>מהלכת היא בדד </l>
+          <l>ופוסעת לה בלאט </l>
+          <l>והשקט שם הולם בתוך ליבה </l>
+          <l>שם בהר נטוע כרם, כך אמרה עם רדת ערב </l>
+          <l>קח אותי ביקשה במעלה ההר </l>
+          <l>אוהל שם נקימה יחד </l>
+          <l>לחשה לי היא לי בנחת </l>
+          <l>קח אותי ביקשה, קח אותי ביקשה עם הרוח אל ההר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שם במעלה ההר </l>
+          <l>לא אמרה לי דבר </l>
+          <l>קסם דממה ועלטה והמית שירתה </l>
+          <l>קסם דממה ועלטה והמית שירתה </l>
+          <l>ולי קסמה כאגדה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בא השחר ועלה </l>
+          <l>והטל בסערה </l>
+          <l>ואני איתה הולך בתוך הגיא </l>
+          <l>בנתי לך עם ליל, לחשו לי השפתיים </l>
+          <l>הנשוב יחדיו אל מעלה ההר </l>
+          <l>פעמיי לשם אשימה את ביתנו שם נקימה </l>
+          <l>קח אותי ביקשה, קח אותי ביקשה עם הרוח אל ההר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שם במעלה ההר... </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שם במעלה ההר </l>
+          <l>מה נותר מה נשאר </l>
+          <l>אופל הליל שוב חזר סוד היה לי ונגמר </l>
+          <l>אופל הליל שוב חזר סוד היה לי ונגמר </l>
+          <l>חלום היה זה ונשבר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

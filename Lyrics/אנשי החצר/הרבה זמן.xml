@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הרבה זמן</title>
+        <singer classification="band">אנשי החצר</singer>
+        <writer>אלי סורני</writer>
+        <composer>אלי סורני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הרבה זמן</head>
+        <lg number="1" type="stanza">
+          <l>אין שום מקום שבו אני רוצה להיות</l>
+          <l>אין אף אחד שאני רוצה ממש לראות</l>
+          <l>יש לי פחד מימים שדומים לאתמול</l>
+          <l>יש לי פחד מימים שעוצרים במקום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואין לי אהבה לתת</l>
+          <l>אין לי אחיזה בכלום</l>
+          <l>אין לי אהבה לתת</l>
+          <l>מתמלא בריקנות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תקוע באמצע המדבר</l>
+          <l>אני הולך כבר הרבה הרבה זמן</l>
+          <l>קיללתי ת'שמיים מעלי</l>
+          <l>השטן עצמו דיבר אלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואין לי אהבה לתת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

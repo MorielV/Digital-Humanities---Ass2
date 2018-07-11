@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השיר שלך 2</title>
+        <singer classification="unknown">אביחי 3</singer>
+        <writer>אביחי</writer>
+        <composer>אביחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השיר שלך</head>
+        <lg number="1" type="stanza">
+          <l>אני שלך לעולם אהובתי אני נשבע לך</l>
+          <l>אהיה מי שתרצי אתן כל מה שתבקשי</l>
+          <l>את היפה בנשים ולא אדע אחרת,</l>
+          <l>שתגדל את ילדי ותהיה לאם אוהבת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>השיר הוא לך שייך </l>
+          <l>אשיר אותו עד יום מותי</l>
+          <l>תבטיחי שממני לא תלכי</l>
+          <l>הגוף רועד עכשיו </l>
+          <l>אני ואת בגוף אחד</l>
+          <l>הלילה לא אשכח אותו לעד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בכל כאב שבי, את נלחמת ודואגת,</l>
+          <l>לא נותנת לי ליפול</l>
+          <l>בזכותך אני יכול</l>
+          <l>להגשים עוד חלום</l>
+          <l>אין מאושר ממני זה היום </l>
+          <l>מכולם בחרת רק בי</l>
+          <l>מהדממה הצלת אותי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תני לי לומר את מה שבלב</l>
+          <l>לפני שהופעת עוד היה בי כאב,</l>
+          <l>הרמתי ידיים</l>
+          <l>באת משמיים</l>
+          <l>שינית את חיי.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>השיר הוא לך שייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

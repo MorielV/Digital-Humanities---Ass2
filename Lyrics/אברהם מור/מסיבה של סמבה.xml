@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מסיבה של סמבה</title>
+        <singer classification="male singer">אברהם מור</singer>
+        <writer>לאה שילון</writer>
+        <composer>אלדד שרים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מסיבה של סמבה</head>
+        <lg number="1" type="stanza">
+          <l>מתחשק לנו הערב סתם לשמוח בלי סיבה</l>
+          <l>אז הורדנו שתי בובות ודובי מהאיצטבה</l>
+          <l>השפן חיש הצטרף והגמד מיהר ובא</l>
+          <l>ובלילה אז ערכנו בחדרנו מסיבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מסיבה של סמבה</l>
+          <l>אף אחד לא נם בה</l>
+          <l>מסיבה שחם בה</l>
+          <l>קצב עוד לא תם בה</l>
+          <l>מסיבה של סמבה</l>
+          <l>וכולם וכולם בה</l>
+          <l>מה עליז ליבם בה</l>
+          <l>איזו מסיבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>התזמורת מנגנת את הקצב המשוגע</l>
+          <l>השפן שתה קצת יין השתולל ולא נירגע</l>
+          <l>סוס העץ רקד בקצב קוביה קפצה דילגה</l>
+          <l>כך רקדנו ורקדנו כל הלילה חגיגה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מסיבה של סמבה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשהאיר פתאום השחר נגמרה המסיבה</l>
+          <l>השפן והבובות חזרו מיד לאיצטבה</l>
+          <l>אז נכנסנו למיטה וראש הנחנו על הכר</l>
+          <l>וחלמנו על הסמבה שאותה נרקוד מחר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מסיבה של סמבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

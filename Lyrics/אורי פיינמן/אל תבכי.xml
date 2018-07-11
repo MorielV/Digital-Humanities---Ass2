@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תבכי 3</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תבכי</head>
+        <lg number="1" type="stanza">
+          <l>ושוב את לבד, נוגה וכואבת.</l>
+          <l>ושוב את לבד. אהובך, את חייך עזב.</l>
+          <l>מה מצפה לך באופק, נעצבת?</l>
+          <l>ולאן החיים ייקחו אותך עכשיו?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תבכי, אל תבכי.</l>
+          <l>עוד יגיע היום ותהיי מאושרת.</l>
+          <l>את חכי לי, את תחכי.</l>
+          <l>עוד אבוא את חייך להאיר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על מה, אהובה, דומעות שתי עינייך?</l>
+          <l>על מה מקוננת נפשך. וראשך מיוסר?</l>
+          <l>הן אם תיסגר לך הדלת, על פנייך,</l>
+          <l>חלון ייפתח למחר המאושר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תבכי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

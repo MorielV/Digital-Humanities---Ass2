@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דרך חדש 3</title>
+        <singer classification="unknown">אבי הנחל</singer>
+        <writer>רבי נחמן מברסלב</writer>
+        <composer>אופיר בר עמי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דרך חדש</head>
+        <lg number="1" type="stanza">
+          <l>דע שהאדם </l>
+          <l>צריך לעבור בזה העולם </l>
+          <l>על גשר צר מאד</l>
+          <l>והכלל העיקר </l>
+          <l>שלא יתפחד כלל</l>
+          <l>שלא יתפחד כלל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תנו לי את לבכם </l>
+          <l>ואני אוליך אתכם </l>
+          <l>בדרך חדש</l>
+          <l>תנו לי את לבכם </l>
+          <l>ואני אוליך אתכם </l>
+          <l>בדרך חדש דרך חדש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלא האדם</l>
+          <l>בשביל תענוג קטן אחד </l>
+          <l>של רבע שעה</l>
+          <l>יכול לאבד להפסיד</l>
+          <l>כל העולם הזה והעולם הבא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תנו לי את לבכם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לגלות אחדות הפשוט </l>
+          <l>מתוך פעולות משתנות</l>
+          <l>לגלות אחדות הפשוט לגלות אחדות</l>
+          <l>לגלות אחדות הפשוט </l>
+          <l>מתוך פעולות משתנות</l>
+          <l>משתנות פעולות מתוך הפשוט</l>
+          <l>אחדות לגלות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תנו לי את לבכם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נגמרו לי המילים</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>וירה מאטסון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נגמרו לי המילים</head>
+        <lg number="1" type="stanza">
+          <l>Love me tender, love me sweet</l>
+          <l>Never let me go</l>
+          <l>You have made my life complete</l>
+          <l>And I love you so</l>
+          <l>Love me tender, love me true</l>
+          <l>All my dreams fulfilled</l>
+          <l>For my darling I love you</l>
+          <l>And I always will</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נגמרו לי, נגמרו</l>
+          <l>אין לי כבר מילים</l>
+          <l>אז אני יושב עכשיו</l>
+          <l>וכותב שירים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איזה שקט כאן עכשיו, רק הציפורים</l>
+          <l>ואני יושב לבד, מחפש מילים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נגמרו לי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>משהו זורם עכשיו, אין לזה מילים</l>
+          <l>זה תמיד השיר שלך, בלי הרבה מילים</l>
+          <l>זה תמיד השיר שלך, בלי הרבה מילים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נגמרו לי, נגמרו</l>
+          <l>אין לי כבר מילים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

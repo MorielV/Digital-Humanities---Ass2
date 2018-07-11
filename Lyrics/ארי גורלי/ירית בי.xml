@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ירית בי</title>
+        <singer classification="male singer">ארי גורלי</singer>
+        <writer>ארי גורלי</writer>
+        <composer>ארי גורלי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ירית בי</head>
+        <lg number="1" type="stanza">
+          <l>רק רציתי לספר לך</l>
+          <l>אני לא האחרון</l>
+          <l>אולי תמיד אני אהיה שם</l>
+          <l>אולי תמיד אהיה ראשון</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אחרי הכל עוד לא יודע</l>
+          <l>אם אני המשוגע</l>
+          <l>אולי סתם מתגעגע</l>
+          <l>אולי אני יותר נפגע</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ירית בי</l>
+          <l>אני הולך מכאן</l>
+          <l>ירית בי</l>
+          <l>לנצח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רוב השירים שכבר כתבתי לך</l>
+          <l>רוב השירים שעוד אכתוב</l>
+          <l>רוב הלילות שהתבוננתי בך</l>
+          <l>רוב הלילות שאסתכל</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ירית בי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

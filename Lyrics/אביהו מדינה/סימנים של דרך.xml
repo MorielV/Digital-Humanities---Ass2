@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סימנים של דרך</title>
+        <singer classification="male singer">אביהו מדינה</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סימנים של דרך</head>
+        <lg number="1" type="stanza">
+          <l>יושב חושב על אבא</l>
+          <l>כל שבי אמר</l>
+          <l>בשבט פיו היכני</l>
+          <l>מוסר לי מסר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יושב חושב כי אבא</l>
+          <l>תמים היה וחם</l>
+          <l>ישר לבב עם אלוהיו ועם אדם</l>
+          <l>וטוב היה לאבא</l>
+          <l>בדרך בה בחר</l>
+          <l>בתורתו בוטח</l>
+          <l>אמונתו שמר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>סור מרע ועשה טוב</l>
+          <l>ברוך תהא אז שבעתיים ושכרך לרוב</l>
+          <l>ברך אל שמיים על לחם ומים</l>
+          <l>כך אמר לי אבא תם וישר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ברך אל שמיים על לחם ומים</l>
+          <l>כך אמר לי אבא תם וישר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יושב חושב על דרך</l>
+          <l>בה אני הולך</l>
+          <l>הזו היא דרך מלך שבה אשרך</l>
+          <l>האם היא תובילני אל התהילה</l>
+          <l>הזה אני מוביל הדרך או היא מובילה</l>
+          <l>ושוב חושב על אבא סימן שלי נתן</l>
+          <l>סימנים של דרך אל עדן הגן</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>סור מרע ועשה טוב</l>
+          <l>ברוך תהא אז שבעתיים ושכרך לרוב</l>
+          <l>ברך אל שמיים על לחם ומים</l>
+          <l>כך אמר לי אבא תם וישר</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ברך אל שמים על לחם ומים</l>
+          <l>כך אמר לי אבא תם וישר....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

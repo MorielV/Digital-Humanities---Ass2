@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איתך באהבה</title>
+        <singer classification="male singer">אליקו</singer>
+        <writer>אליקו</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איתך באהבה</head>
+        <lg number="1" type="stanza">
+          <l>את לי עולם מלא בצבעים</l>
+          <l>את לי ירח וזריחה בכל בוקר</l>
+          <l>את לי האור כוכב שמאיר</l>
+          <l>ולצידך מבקש את האושר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ולך אני שר </l>
+          <l>ממריא איתך לשמיים</l>
+          <l>באש איתך וגם במים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מלאך שלי אני אוהב אותך</l>
+          <l>וכמו בים סוער נסחף אלייך</l>
+          <l>איך הלב נרגש אל מול עינייך</l>
+          <l>יפה איתך באהבה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את ממלאה אותי בכל יום</l>
+          <l>את גן עדן שיש בו רק טוב</l>
+          <l>את כל שגבר יוכל לבקש</l>
+          <l>תבטיחי לי שנמשיך לאהוב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ולך אני שר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

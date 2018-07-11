@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בעולמי הפנימי</title>
+        <singer classification="male singer">אופיר נפקר</singer>
+        <writer>אופיר נפקר</writer>
+        <composer>יוסי נפקר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בעולמי הפנימי</head>
+        <lg number="1" type="stanza">
+          <l>בחוץ שלכת</l>
+          <l>עננים כבדים</l>
+          <l>ככה זה כשאת הולכת</l>
+          <l>באים הפחדים</l>
+          <l>קרן האור התפוגגה</l>
+          <l>וגן העדן נסגר</l>
+          <l>ואני כבר שנים</l>
+          <l>מעמיד פנים</l>
+          <l>כאילו שאת</l>
+          <l>עדיין כאן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בעולמי הפנימי</l>
+          <l>את עוד אוהבת</l>
+          <l>מלטפת את פני</l>
+          <l>כמו בעבר</l>
+          <l>בעולמי הפנימי</l>
+          <l>אין שלכת</l>
+          <l>ואין בעולם אדם</l>
+          <l>ממני מאושר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יכול לכאוב לי</l>
+          <l>לחשוב שאת</l>
+          <l>נמצאת עם מישהו</l>
+          <l>ואני לבד</l>
+          <l>את מתעופפת כמו פיה</l>
+          <l>ומה שנגמר לא היה</l>
+          <l>ואני כבר שנים</l>
+          <l>מעמיד פנים</l>
+          <l>כאילו שאת</l>
+          <l>עדיין כאן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בעולמי הפנימי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבת הדייג</title>
+        <singer classification="male singer">אריס סאן</singer>
+        <writer>יובב כץ</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבת הדייג</head>
+        <lg number="1" type="stanza">
+          <l>למה זורמים כל הנחלים דווקא לים?</l>
+          <l>למה עפים כל השחפים גם הם לשם?</l>
+          <l>למה השמש כבר מהבקר הקם</l>
+          <l>כמו ממהרת אל המפרץ הנרדם?</l>
+          <l>למה הרוח שם מסתחרר כנדהם </l>
+          <l>וגל המים רץ אל החוף כמוקסם?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כי אהובתי שם בין סירות הדייגים</l>
+          <l>נערתי שם צוחקה אל הגלים</l>
+          <l>היא עם הרוח משחקה מחבואים</l>
+          <l>ומשתובבת עם להקות השחפים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אך בין ערביים היא ואני מפליגים</l>
+          <l>ים ושמיים אהבתנו יודעים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ואולי אני חולמת</title>
+        <singer classification="unknown">אביגיל רוז</singer>
+        <writer>אביגיל רוז</writer>
+        <composer>יוני בלוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ואולי אני חולמת</head>
+        <lg number="1" type="stanza">
+          <l>ואולי אני חולמת בהקיץ</l>
+          <l>ואולי אתה תסכים לחלום איתי</l>
+          <l>אמרת לי את כל כך יפה </l>
+          <l>מחר ניפגש באותה שעה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך שלא יהיה </l>
+          <l>אותך תמיד ארצה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וחלמתי אותך</l>
+          <l>מחר ניפגש בחלום הבא</l>
+          <l>אני רוצה אהבה </l>
+          <l>לא כל כך טובה</l>
+          <l>שלא יהיה נחמד </l>
+          <l>שרק יהיה ליד </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך שלא יהיה</l>
+          <l>אותך תמיד ארצה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואולי אני חולמת בהקיץ</l>
+          <l>ואולי אתה תסכים לחלום איתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

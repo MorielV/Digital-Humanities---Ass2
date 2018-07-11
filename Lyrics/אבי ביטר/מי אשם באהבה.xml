@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי אשם באהבה</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>אבי ביטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי אשם באהבה</head>
+        <lg number="1" type="stanza">
+          <l>יכולנו להציל ת'אהבה הזאת</l>
+          <l>יכולנו לתקן את כל הטעויות</l>
+          <l>יכולנו לעצור את כל הדמעות</l>
+          <l>כמה האמבתי באהבה הזאת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>האשמת אותי בכל הטעויות</l>
+          <l>אולי אני אשם גם לך היו שגיאות</l>
+          <l>רציתי להסביר ואת לא הקשבת</l>
+          <l>מהאמת ברחת ואת עצמך הסגרת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הייתי מטורף מרוב אהבה</l>
+          <l>כל מה שעשית זה לא הוגן ילדה</l>
+          <l>יכולנו להציל את זאת אהבה</l>
+          <l>אולי אני אשם אולי את אשמה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חשבתי שנואהב כל החיים ילדה</l>
+          <l>היו לי חלומות הייתה לי גם תקווה</l>
+          <l>זו את שהרסת את זאת אהבה</l>
+          <l>האמנתי לך עד הסוף ילדה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יבואו עוד ימים שתצטערי</l>
+          <l>את זאת האהבהאת עוד תחפשי</l>
+          <l>יבואו עוד ימים שגם את תבכי</l>
+          <l>אף אחד לא יאהב אותך כמו שאני</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הייתי מטורף מרוב אהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

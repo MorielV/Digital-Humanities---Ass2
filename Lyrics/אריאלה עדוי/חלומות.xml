@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלומות 5</title>
+        <singer classification="unknown">אריאלה עדוי</singer>
+        <writer>דניאל קורן</writer>
+        <composer>דניאל קורן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלומות</head>
+        <lg number="1" type="stanza">
+          <l>חשבתי יום אחד אני אעוף מכאן רחוק</l>
+          <l>חייכי עכשיו כי מצלמים תתני מבט עמוק</l>
+          <l>הלב דופק לוקחים אויר סופרת עד שלוש</l>
+          <l>רק בואי תחתמי לי פה ותני להם בראש</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אמרו לי שכל הדלתות פתוחות לי בחיים</l>
+          <l>אז למה לא אמרו לי שאני בחוץ והמפתחות בפנים</l>
+          <l>לכתוב מילים לרשום תווים לשפוך את מה שיש</l>
+          <l>לתת ללב להוביל כי זה מה שהולך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני לא זוכרת אני לא רוצה לזכור</l>
+          <l>אבל משהו בתוכי זה דופק חזק בראש</l>
+          <l>אז מדמיינת וזה עושה לי טוב</l>
+          <l>כי ממתי מענישים על חלומות יותר מדי גדולים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז אולי תוכלו לתת לי קצת עזרה</l>
+          <l>תנו לזיכרון הזה לחזור בחזרה</l>
+          <l>חבקו אותי חזק תסלחו על כל טעות</l>
+          <l>אם רק אפשר בבקשה להפוך את החלום שלי למציאות.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני לא זוכרת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

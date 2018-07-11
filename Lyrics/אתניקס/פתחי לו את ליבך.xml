@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פתחי לו את ליבך</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פתחי לו את ליבך</head>
+        <lg number="1" type="stanza">
+          <l>לילה קר קור אכזר</l>
+          <l>אבני בזלת על אדמת מדבר</l>
+          <l>אהובך יושב רואה שחור</l>
+          <l>לא השארת בפיו מילים</l>
+          <l>רק אש בוערת בין שני גחלים</l>
+          <l>אהובך רועד ולא מקור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תעזבי אותו</l>
+          <l>רק פתחי לו את ליבך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא השארת אף סימן</l>
+          <l>רק התנ"ך נשאר על הקוראן</l>
+          <l>גם הים נסער מרגשות</l>
+          <l>תשאלו את הדגים</l>
+          <l>את האצות וגם את השחפים</l>
+          <l>עזבה את אהובה בגלל דתו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תעזבי אותו</l>
+          <l>רק פתחי לו את ליבך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

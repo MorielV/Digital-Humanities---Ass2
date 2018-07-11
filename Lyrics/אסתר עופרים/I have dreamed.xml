@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>I have dreamed</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>I'll See You In My Dreams – בהופעה 2009</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>I have dreamed</head>
+        <lg number="1" type="stanza">
+          <l>I have dreamed</l>
+          <l>That your arms are lovely...</l>
+          <l>I have dreamed</l>
+          <l>What a joy you'll be...</l>
+          <l>I have dreamed</l>
+          <l>Every word you whisper</l>
+          <l>When you're close</l>
+          <l>Close to me</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>How you look</l>
+          <l>In the glow of evening</l>
+          <l>I have dreamed</l>
+          <l>And enjoyed the view</l>
+          <l>In these dreams I've loved you so</l>
+          <l>That by now I think I know</l>
+          <l>What it's like to be loved by you</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>I will love being loved by you!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

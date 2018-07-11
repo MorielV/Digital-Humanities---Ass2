@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הדייגים</title>
+        <singer classification="male singer">ארז הלוי</singer>
+        <writer>ארז הלוי</writer>
+        <composer>ארז הלוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הדייגים</head>
+        <lg number="1" type="stanza">
+          <l>הדייגים יצאו להם לים</l>
+          <l>ואל תשאל אותי מה להם שם</l>
+          <l>הדייגים</l>
+          <l>יצאו לים</l>
+          <l>ואל תשאל אותי מה להם שם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הדייגים יצאו להם לים</l>
+          <l>ואת נערתי לקחו איתם</l>
+          <l>הדייגים</l>
+          <l>נערתי</l>
+          <l>הדייגים לקחו אותה איתם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלכתי אחריה אל הים</l>
+          <l>והיא אלי חייכה מתוך ראשם</l>
+          <l>נערתי</l>
+          <l>הדייגים</l>
+          <l>נערתי חייכה מתוך ראשם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מאז אני עם חברי הים</l>
+          <l>והדגים ידעו זאת לבדם</l>
+          <l>הדייגים</l>
+          <l>נערתי</l>
+          <l>הדייגים איבדו אותה איתם</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הדייגים יצאו להם לים</l>
+          <l>ואל תשאל אותי מה להם שם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בשורה טובה</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>שמרית אור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בשורה טובה</head>
+        <lg number="1" type="stanza">
+          <l>הוא קרב, הוא בא</l>
+          <l>הוא קרב לאט</l>
+          <l>שוב אינו רחוק</l>
+          <l>הוא מושיט אלינו יד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>על חמור לבן</l>
+          <l>הוא קרב ובא</l>
+          <l>ובחיוכו</l>
+          <l>הוא מביא בשורה טובה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הנה עוד שעה</l>
+          <l>עוד שעה אחת</l>
+          <l>כל רסיס דימעה</l>
+          <l>מקרב אותו מעט</l>
+          <l>על חמור לבן</l>
+          <l>הוא קרב ובא</l>
+          <l>ובחיוכו</l>
+          <l>הוא מביא בשורה טובה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הלוואי, הלוואי</l>
+          <l>שיגיע כבר הלום</l>
+          <l>הלוואי, הלוואי</l>
+          <l>שיגיע בשלום</l>
+          <l>ואולי, ואולי</l>
+          <l>אם נרצה זה לא חלום</l>
+          <l>כן, אם נרצה זה לא חלום</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הוא קרב ובא</l>
+          <l>הוא קרב ובא</l>
+          <l>הוא יפתח כל לב</l>
+          <l>בידו הנדיבה</l>
+          <l>על חמור לבן</l>
+          <l>הוא קרב ובא</l>
+          <l>ובחיוכו</l>
+          <l>הוא מביא בשורה טובה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הלוואי, הלוואי...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>הוא קרב, הוא בא</l>
+          <l>הוא קרב, הוא בא</l>
+          <l>שוב אינו רחוק</l>
+          <l>הוא קרב ובא</l>
+          <l>ובחיוכו</l>
+          <l>הוא מביא בשורה טובה</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>הלוואי, הלוואי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ניגונים</title>
+        <singer classification="unknown">אוסנת פז</singer>
+        <writer>פניה ברגשטיין</writer>
+        <composer>דוד זהבי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ניגונים</head>
+        <lg number="1" type="stanza">
+          <l>שתלתם ניגונים בי אימי ואבי</l>
+          <l>ניגונים מזמורים שכוחים</l>
+          <l>גרעינים גרעינים נשאם לבבי</l>
+          <l>עתה הם עולים וצומחים</l>
+          <l>עתה הם שולחים פאורות בדמי</l>
+          <l>שורשיהם בעורקי שלובים</l>
+          <l>ניגוניך אבי ושירייך אימי</l>
+          <l>בדופקי נעורים ושבים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הנה אאזין שיר ערשי הרחוק</l>
+          <l>הביע פי אם אלי בת</l>
+          <l>הנה לי תזהרנה בדמע ושחוק</l>
+          <l>איכה וזמירות של שבת</l>
+          <l>כל הגה יתם וכל צליל יאלם</l>
+          <l>בי קולכם הרחוק כי יהום</l>
+          <l>עיני אעצום והריני איתכם</l>
+          <l>מעל לחשכת התהום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רגעים של קסם</title>
+        <singer classification="unknown">אופיר חדד</singer>
+        <writer>סגיב כהן</writer>
+        <composer>סגיב כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רגעים של קסם</head>
+        <lg number="1" type="stanza">
+          <l>מי היה מאמין, שאיתך אני אשכים</l>
+          <l>בכל בוקר מחדש נראה אותנו</l>
+          <l>הולכים ומתקרבים, הראש בעננים</l>
+          <l>רוצה שיהיה כך לעולמים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא רוצה תשובה, עימדי על המשמרת</l>
+          <l>הישארי חידה אל תיפתרי</l>
+          <l>כי עוד יום יבוא, אולי תהיי אחרת </l>
+          <l>מרגעים של קסם נהנים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא אני לא נביא, אבל לך אני אביא</l>
+          <l>את האושר אל המקום שהוא איננו</l>
+          <l>עד שיעלם, ואז שנינו נתעלם</l>
+          <l>ואולי עד אז נגיע לסופנו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא רוצה תשובה, עימדי על המשמרת</l>
+          <l>הישארי חידה אל תיפתרי</l>
+          <l>כי עוד יום יבוא, אולי תהיי אחרת </l>
+          <l>מרגעים של קסם נהנים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא רוצה תשובה, עימדי על המשמרת</l>
+          <l>הישארי חידה אל תיפתרי</l>
+          <l>כי עוד יום יבוא, אולי תהיי אחרת </l>
+          <l>אז בואי נהנה מהחיים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

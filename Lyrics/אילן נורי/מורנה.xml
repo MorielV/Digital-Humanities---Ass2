@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מורנה</title>
+        <singer classification="male singer">אילן נורי</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מורנה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אך מורנה היה לי טוב איתך מורנה, </l>
+          <l>מורנה הוי היה לי טוב מורנה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כי רק איתך לאורך כל הדרך </l>
+          <l>באש במים גם אלך </l>
+          <l>את לי מלכה אני לך מלך </l>
+          <l>תמיד ידעת כיצד ואיך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אך מורנה הלכה איננה כשאמצנה </l>
+          <l>לה אתן חיי, </l>
+          <l>אך מורנה איתי עודנה אחפשנה </l>
+          <l>עד אחרון ימי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אך מורנה היה לי טוב איתך מורנה, </l>
+          <l>מורנה הוי היה לי טוב מורנה </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וכשענן העיב על שמי הליל </l>
+          <l>נדרת לי אור באפלה </l>
+          <l>חיזקת ידי בשתי ידייך </l>
+          <l>בלב הרגשתי הקלה </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אך מורנה הלכה איננה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה היה ביתי</title>
+        <singer classification="band">אינפקציה</singer>
+        <writer>מני בגר</writer>
+        <composer>מני בגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה היה ביתי</head>
+        <lg number="1" type="stanza">
+          <l>איך שבאו חברים כל יום לשבת</l>
+          <l>על כוסית או שתיים.</l>
+          <l>סיפורי ילדות סיפרנו על שטיח בפינה</l>
+          <l>חתול ישב לו.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קפה שחור מספלים קטנים</l>
+          <l>קוביות, תקליטים ומשחקים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה היה ביתי,</l>
+          <l>עם גינה ולול היה ביתי.</l>
+          <l>היה שלך, היה שלי, היה שלנו</l>
+          <l>עם שחר יגורו פה זרים</l>
+          <l>ואנחנו עם כל הזכרונות נעלמים, נעלמים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שוב לא רואים אורות ניאון</l>
+          <l>בחלונות אשר עזבנו</l>
+          <l>כשאת הלכת הלכו איתך כל המצרכים</l>
+          <l>אשר כל כך, כל כך אהבנו</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>החתול השחור כבר נעלם</l>
+          <l>העץ שבחצר נדם</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לא היה זיתים, רק גבינה ושום וחמוצים</l>
+          <l>היה חמאה, היה בוטנים, היה שלנו</l>
+          <l>עם שחר יגורו פה זרים</l>
+          <l>ואנחנו עם כל הזכרונות נעלמים, נעלמים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

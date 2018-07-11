@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הקרנף</title>
+        <singer classification="male singer">אבנר שטראוס</singer>
+        <writer>אבנר שטראוס</writer>
+        <composer>אבנר שטראוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הקרנף</head>
+        <lg number="1" type="stanza">
+          <l>הקרנף הוא צמחוני</l>
+          <l>אוכל חציר ושחת</l>
+          <l>ועל האף יש לקרנף</l>
+          <l>קרן חדה כמו מחט</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שום דבר אינו עוזר</l>
+          <l>הקרנפה נאנחת</l>
+          <l>תמיד כשקרנף מנגב את האף</l>
+          <l>נקרעת לו המטפחת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הקרנפה כל בוקר ניגשת</l>
+          <l>ישר אל בית המרקחת</l>
+          <l>משם היא לוקחת ארגז ענקי</l>
+          <l>שכתוב עליו "אלף מטפחת"</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שום דבר אינו קורה </l>
+          <l>כשקרנף מנגב את התחת</l>
+          <l>אבל כשקרנף מנגב את האף</l>
+          <l>נקרעת לו המטפחת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הקרנפון אפו דולף</l>
+          <l>כאילו שיש לו קדחת</l>
+          <l>כל פעם שיש לו עיטוש</l>
+          <l>זה נשמע ממש כמו טוש במקלחת</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הקרנפון הוא כבר גדול</l>
+          <l>ואמא אותו אוהבת</l>
+          <l>לבד הוא מנגב ת'מקום</l>
+          <l>עליו נהוג לשבת</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>שום דבר אינו קורה</l>
+          <l>כשקרנף מנגב את התחת</l>
+          <l>אבל כשקרנף מנגב את האף</l>
+          <l>נקרעת לו המטפחת</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>רם פה פם פה רם פם פם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

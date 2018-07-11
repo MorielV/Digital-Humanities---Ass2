@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק היום</title>
+        <singer classification="male singer">אורי רווח</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>יאיר רוזנבלום</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק היום</head>
+        <lg number="1" type="stanza">
+          <l>בואו ימים טובים</l>
+          <l>שהשמש בם זורחת</l>
+          <l>והעיר כולה פורחת כמו השיר</l>
+          <l>בואו ימים טובים</l>
+          <l>לא איכפת לך הפסולת</l>
+          <l>והדיזל והסולר באויר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואז אתה פתאום עשיר</l>
+          <l>כמו הבעל הבית של העיר</l>
+          <l>ואז אתה פשוט יכול את הכל</l>
+          <l>ואלה הם ימים טובים</l>
+          <l>שהלבבות מתרחבים</l>
+          <l>ובני האדם אז נפתחים</l>
+          <l>כמו פרחים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואו ימים טובים</l>
+          <l>והעיר כמו בתחפושת</l>
+          <l>ואתה מביא לה בושם של פרחים</l>
+          <l>בואו ימים טובים</l>
+          <l>ואפשר אז באופנוע</l>
+          <l>ברחובות ריקים לנסוע כמו מלכים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואז אתה פתאום עשיר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

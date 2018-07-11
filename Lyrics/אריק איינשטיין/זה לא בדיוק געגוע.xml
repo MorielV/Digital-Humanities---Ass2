@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה לא בדיוק געגוע</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה לא בדיוק געגוע</head>
+        <lg number="1" type="stanza">
+          <l>קולנוע "עדן", אדי קנטור</l>
+          <l>משהו מצחיק עם חיילים רומאים</l>
+          <l>מנחם מנדל, פיסטוק חלבי</l>
+          <l>שמים זרועים מיליון כוכבים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הצריף של "האוהל", ניחוח של ים</l>
+          <l>מפרש בודד מלבין באופק</l>
+          <l>מגרש עמירם - החול מה זה חם</l>
+          <l>"הצבי", "אמיל", "אייל" ו"עופר"</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה לא בדיוק געגוע</l>
+          <l>זה סתם נעים להיזכר</l>
+          <l>לא כל כך רוצה להתעמק מדוע</l>
+          <l>זה בא ונמוג מהר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מכון "שמשון", דוד בן גוריון</l>
+          <l>רצים שישים בשדרות קק"ל</l>
+          <l>ברדיו שמוליק חד איזה חידון</l>
+          <l>וחוט השני תמיד רחוב לסל</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מרלנה דיטריך, לילי, רגליים,</l>
+          <l>פרנק סינטרה מעתה ועד עולם</l>
+          <l>מרצ'לו מסטרויאני, "אדיסון" ירושלים</l>
+          <l>ברט לנקסטר הגיבור של כולם</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה לא בדיוק געגוע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

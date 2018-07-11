@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תעלות</title>
+        <singer classification="male singer">אוהד חיטמן</singer>
+        <writer>אוהד חיטמן</writer>
+        <composer>אוהד חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תעלות</head>
+        <lg number="1" type="stanza">
+          <l>גם פה אני זה לא אני</l>
+          <l>יותר מדי אורות,</l>
+          <l>על רקע של תמונות.</l>
+          <l>זה מגרה במשך כל היממה</l>
+          <l>לשכב ושוב הפוך,</l>
+          <l>לראות את התקרה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בתעלות נשפכת כל הזוהמה</l>
+          <l>אז בשביל מה צריך גן עדן?</l>
+          <l>כשיושבים בפאב של סוטים ושומעים את הדממה,</l>
+          <l>לכל אחד יש מציאות נפרדת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גם פה אני זה לא אני,</l>
+          <l>רוצה לגמור מהר,</l>
+          <l>רוצה להתמכר,</l>
+          <l>זה מגרה במשך כל היממה,</l>
+          <l>קריצות וחיוכים,</l>
+          <l>אחר כך שוב בוכים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בתעלות נשפכת כל הזוהמה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לפחות שטים ביחד,</l>
+          <l>לאורכן של תעלות,</l>
+          <l>ומהמקום הכי נמוך אפשר רק לעלות.</l>
+          <l>זה משחק שאין בו כוח,</l>
+          <l>משחק בלי הכרעות,</l>
+          <l>לפחות אנחנו כאן בתעלות.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בתעלות נשפכת כל הזוהמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

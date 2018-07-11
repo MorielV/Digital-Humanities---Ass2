@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחכה לך שם בגן</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחכה לך שם בגן</head>
+        <lg number="1" type="stanza">
+          <l>כמו שמש מלטף את הגבעות</l>
+          <l>בכרם את מכה לך שורשים</l>
+          <l>שולחת את קולך אל הגלים אל המצולות</l>
+          <l>קולעת לך עוד זר מן הפרחים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נוגעת במגע שמלטף</l>
+          <l>גופי יוצא אלייך בת ההרים</l>
+          <l>טווה בחוט זהב את האריג אשר עוטף</l>
+          <l>את שנינו בגינת פרחי יסמין.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

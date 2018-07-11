@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלף אהבות</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלף אהבות</head>
+        <lg number="1" type="stanza">
+          <l>אלף אהבות, אין-סוף אכזבות לי היו</l>
+          <l>רק הזכרונות מן הנעורים נשארו.</l>
+          <l>אשליות היו לי ונופצו כולן,</l>
+          <l>לי השאירו שיר עצוב וסיפור נושן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תמתי, יפתי, מה הייתי עד בואך?</l>
+          <l>מנעורי לי קדר הלילה נעצב יומי</l>
+          <l>והנה בבואך לקחתיני ללבך</l>
+          <l>וכעת יערב לי לילה ויצהל יומי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הנה בא היום, באת אלי פתאום, לא אדע</l>
+          <l>מה קורה עמי, מה זה בלבי שוב נגע</l>
+          <l>ושואל עודני: מה יהיה עלי?</l>
+          <l>הייתגשם לי חלומי, ייתמו סבלותי?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תמתי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יד שלובה ביד, שנינו שוב לבד בדממה</l>
+          <l>ובדמי לילות בין שני לבבות אין חומה.</l>
+          <l>קחיני בין ידייך אל תוך עולמך,</l>
+          <l>בתוך שבילייך הקסומים חרש אהלך.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תמתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

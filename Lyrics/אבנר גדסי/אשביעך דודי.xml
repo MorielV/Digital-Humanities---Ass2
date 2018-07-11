@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אשביעך דודי</title>
+        <singer classification="male singer">אבנר גדסי</singer>
+        <writer>רבי שלום שבזי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אשביעך דודי</head>
+        <lg number="1" type="stanza">
+          <l>אשביעך דודי בחיי האהבה</l>
+          <l>ובחיי גברת חן אשר נעמה.</l>
+          <l>אם לא תרפא מחלת לב חושקים,</l>
+          <l>לנדודך מתעלפים בצמא.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רב לך נדוד, הואל ובוא ושכון נות -</l>
+          <l>בית הידידות פן תהי שוממה.</l>
+          <l>הופע עליהם בהדר פנים ואור</l>
+          <l>שכל והמדע מאוד רוממה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ובטל שפתיך וצוף אימרתך</l>
+          <l>דבר עלי ליבם דבר נחמה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

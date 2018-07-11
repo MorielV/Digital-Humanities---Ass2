@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ממשיך לנסוע</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>אהוד בנאי</writer>
+        <composer>אהוד בנאי</composer>
+        <album>אהוד בנאי והפליטים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ממשיך לנסוע</head>
+        <lg number="1" type="stanza">
+          <l>אוטובוס עייף</l>
+          <l>נוסע לאט</l>
+          <l>כבשים עולות מתוך הואדי</l>
+          <l>מבעד לחלון פתוח</l>
+          <l>חליל רחוק נמזג ברוח</l>
+          <l>מעיין זורם נפתח בי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הלב שקפא הפשיר</l>
+          <l>לא חוזר לעיר</l>
+          <l>ממשיך לנסוע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מאחור השארתי עיר מתכת</l>
+          <l>מלפני הדרך מתמשכת</l>
+          <l>אור זהב בין הערביים</l>
+          <l>איזה שיטפון פנימי</l>
+          <l>זורם בתוך תוכי</l>
+          <l>מתוך הלב אל הלחיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הלב שקפא הפשיר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תוותרי עלי</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>שלום חנוך</writer>
+        <composer>שלום חנוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תוותרי עלי</head>
+        <lg number="1" type="stanza">
+          <l>אל תשקרי אותי לילה בלילה</l>
+          <l>אל תאבדי אותי, אל תאבדי</l>
+          <l>אל תשקרי אותי לילה בלילה</l>
+          <l>אל תוותרי עלי</l>
+          <l>לא, לא, אל תוותרי עלי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל תגרשי אותי לילה בלילה</l>
+          <l>אל תשנאי אותי, אל תשנאי</l>
+          <l>אל תגרשי אותי לילה בלילה</l>
+          <l>אל תוותרי עלי</l>
+          <l>לא, לא, אל תוותרי עלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תפתי אותי לילה בלילה</l>
+          <l>אל תוותרי עלי</l>
+          <l>לא, לא, אל תוותרי עלי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל תשנאי אותי לילה בלילה</l>
+          <l>אל תוותרי עלי, לא</l>
+          <l>לא, לא, אל תוותרי עלי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל תשקרי אותי לילה בלילה</l>
+          <l>אל תוותרי עלי, לא</l>
+          <l>לא, לא, אל תוותרי עלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

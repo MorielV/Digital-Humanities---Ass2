@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ימות משיח</title>
+        <singer classification="female singer">אביבה אבידן</singer>
+        <writer>נתנאל נועם</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ימות משיח</head>
+        <lg number="1" type="stanza">
+          <l>הנה בא כבר המשיח</l>
+          <l>בא לו הגואל</l>
+          <l>לאסיר ציון הודיע קום לישראל</l>
+          <l>כל הקור וקול זמיר</l>
+          <l>עם ישראל כאן ישיר</l>
+          <l>ואסיר ציון הודיע קום ותעלה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהלן גרישה, אהלן פנטה</l>
+          <l>ברוך הבא לישראל</l>
+          <l>לכבודך ארצי נרגשה</l>
+          <l>עד שאתה תתרגל</l>
+          <l>כל העם בקול אדיר</l>
+          <l>לקראתך תמיד ישיר</l>
+          <l>את הלב לך פותח בוא ותעלה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>באולפן שפה חדשה</l>
+          <l>מהו יהודי</l>
+          <l>העיקר שאתה באת</l>
+          <l>אתה יהודי</l>
+          <l>בארצנו יש צבא</l>
+          <l>שלך תמיד הוא שר</l>
+          <l>והצליל אשר בוקע לכבודך עולה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהלן גרישה, אהלן פנטה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

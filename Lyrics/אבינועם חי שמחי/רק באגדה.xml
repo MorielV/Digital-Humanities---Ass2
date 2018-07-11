@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק באגדה</title>
+        <singer classification="unknown">אבינועם חי שמחי</singer>
+        <writer>אבינועם חי שמחי</writer>
+        <composer>אבי אבליאב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק באגדה</head>
+        <lg number="1" type="stanza">
+          <l>הכל עוד אפשרי </l>
+          <l>מכאן הכל פתוח </l>
+          <l>ואם יש אלוהים </l>
+          <l>אני בטוח </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שיום אחד אבין </l>
+          <l>את פשר הדברים </l>
+          <l>מקרי או לא מקרי </l>
+          <l>בסוף נדע </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>למה זה באת ומאיזה עולם את </l>
+          <l>נסיכה שבויה שלי, האהובה </l>
+          <l>רציתי להציל אותך אך </l>
+          <l>לא ידעתי איך </l>
+          <l>ואם זה הכל מהדמיון שלי </l>
+          <l>אולי אני משוגע </l>
+          <l>אך כמו שאני אוהב אותך ילדה </l>
+          <l>יש רק באגדה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואם הכל זמני </l>
+          <l>חולף עם בוא הרוח </l>
+          <l>שתיקח אותי </l>
+          <l>אני מוכן </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>למה זה באת...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ואם הכל מתכלה </l>
+          <l>בעולם הזה </l>
+          <l>ואם אני כעלה </l>
+          <l>ברוח נידף </l>
+          <l>או רק מטורף </l>
+          <l>שהוזה ורק מתבזה </l>
+          <l>מרחף ועף </l>
+          <l>ונסחף </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ואם זה הכל מהדמיון שלי </l>
+          <l>אולי אני משוגע </l>
+          <l>אך כמו שאני אוהב אותך ילדה </l>
+          <l>יש רק באגדה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יצו השם</title>
+        <singer classification="male singer">אוהד מושקוביץ</singer>
+        <writer>מן המקורות</writer>
+        <composer>יוסף גרין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יצו השם</head>
+        <lg number="1" type="stanza">
+          <l>יצו השם אתך</l>
+          <l>את הברכה באסמך</l>
+          <l>ובכל משלח ידך</l>
+          <l>וברכך בארץ</l>
+          <l>אשר השם אלוקיך נותן לך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יפתח השם לך</l>
+          <l>את אוצרו הטוב</l>
+          <l>את השמים</l>
+          <l>לתת מטר ארצך בעתו</l>
+          <l>ולברך את כל מעשה ידך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

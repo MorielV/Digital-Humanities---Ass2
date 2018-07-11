@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתגעגע לחיוך</title>
+        <singer classification="male singer">אורי בנאי</singer>
+        <writer>אורי בנאי</writer>
+        <composer>אורי בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתגעגע לחיוך</head>
+        <lg number="1" type="stanza">
+          <l>אם השמיים הלילה שחורים זה אומר שאת לא תבואי</l>
+          <l>תן עוד כוסית לפני שסוגרים המצב שלי אוי ואבוי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם הרוח הלילה דרומית אז מחר יעלו גלים</l>
+          <l>אני לוקח הביתה מונית ובפנים עמוק בפנים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מתגעגע לחיוך</l>
+          <l>אם אני לא נוגע בך אני שפוך</l>
+          <l>לא יודע איך</l>
+          <l>איך אני מתגבר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם הגשם הלילה ירד אז מחר זה שלוליות</l>
+          <l>יש לי מעיל אני לא פוחד אך בכל זאת בכל זאת</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מתגעגע לחיוך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

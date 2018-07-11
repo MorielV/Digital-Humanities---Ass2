@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שחור לבן</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שחור לבן</head>
+        <lg number="1" type="stanza">
+          <l>כתבת לי שאת לבד</l>
+          <l>את חיה איתו ומרגישה בצד</l>
+          <l>ואיתו זה כמו שנים, לבד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל תחכי, אל תתני לחיים לעבור בשחור לבן</l>
+          <l>אני אוסיף לך צבעים, אני בא להציל אותך</l>
+          <l>חכי, אני בדרך אלייך</l>
+          <l>אני בא, אני בא, אני בא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אמרת שאני כמו גלויה</l>
+          <l>שמישהו שלח לך ממקום רחוק ונפלא</l>
+          <l>כמו גן עדן, בסתיו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל תחכי, אל תתני לחיים לעבר בשחור לבן</l>
+          <l>אני אוסיף לך צבעים, </l>
+          <l>אני בא להציל אותך</l>
+          <l>חכי, אני בדרך אלייך</l>
+          <l>אני בא, אני בא, אני בא</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אמרת לי תשמע, אתה לא מבין</l>
+          <l>לא יורים על משאית בנזין בכביש המהיר. </l>
+          <l>אמרת לי תשמע, אתה לא מבין</l>
+          <l>לא יורים על משאית בנזין בכביש המהיר. </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אל תחכי, אל תתני לחיים לעבור בשחור לבן</l>
+          <l>אני אוסיף לך צבעים, אני בא להציל אותך</l>
+          <l>חכי אני בדרך אלייך</l>
+          <l>אני בא, אני בא, אני בא</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>שנים לבד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

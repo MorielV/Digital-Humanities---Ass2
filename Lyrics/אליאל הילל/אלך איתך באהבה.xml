@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלך איתך באהבה</title>
+        <singer classification="unknown">אליאל הילל</singer>
+        <writer>עוזי בוקובזה</writer>
+        <composer>עוזי בוקובזה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלך איתך באהבה</head>
+        <lg number="1" type="stanza">
+          <l>שוב אני נוגע ביופי שלך </l>
+          <l>ומבקש בחלומות רק להיות איתך </l>
+          <l>אל העננים הרחוקים נעוף </l>
+          <l>יד ביד בנפש ובגוף </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלך איתך באהבה עד סוף העולם </l>
+          <l>אדמיין אותך בכל רגע </l>
+          <l>אהיה שלך גם אם לא קל </l>
+          <l>את זורמת לי בדם </l>
+          <l>בשבילך אהיה לנצח </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב אני לוקח נשימה אחת </l>
+          <l>ומנסה שלא תראי דמעה שאת יצרת </l>
+          <l>נושאת איתך מילים ללא שום הבחנה </l>
+          <l>לא אומרת את המילה הנכונה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אלך איתך באהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

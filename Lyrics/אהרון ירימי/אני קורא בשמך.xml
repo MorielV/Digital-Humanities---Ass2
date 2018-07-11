@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני קורא בשמך 3</title>
+        <singer classification="male singer">אהרון ירימי</singer>
+        <writer>יוש גרנות</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני קורא בשמך</head>
+        <lg number="1" type="stanza">
+          <l>איך ברחה לה התשוקה לה התמכרנו</l>
+          <l>נעלמה האהבה אותה היכרנו</l>
+          <l>כמו חלום היא נמוגה</l>
+          <l>לא מבין עוד איך הגענו אל הקטע</l>
+          <l>שאנחנו שני זרים כך סתם לפתע</l>
+          <l>ועכשיו את רחוקה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני קורא בשמך את לא עונה לי</l>
+          <l>וקולי חוזר כמו הד</l>
+          <l>בלילות של נדודים את חסרה לי</l>
+          <l>ואני כל כך בודד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לבדי אני יושב בבית מרזח</l>
+          <l>מנסה למחוק דמותך אך לא שוכח</l>
+          <l>ושותה את כאבי</l>
+          <l>את היית לי אהבה בלתי נשכחת</l>
+          <l>בכל רגע שהיה לנו ביחד</l>
+          <l>כמו חרוט לי בלבבי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני קורא בשמך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

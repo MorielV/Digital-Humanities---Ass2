@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבירי העוטף והמגן</title>
+        <singer classification="unknown">אהוד שגב</singer>
+        <writer>אהוד שגב</writer>
+        <composer>אהוד שגב</composer>
+        <album>אוסף מיוחד ליום הזכרון</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבירי העוטף והמגן</head>
+        <lg number="1" type="stanza">
+          <l>בית קברות עזוב</l>
+          <l>על מצבה כתוב</l>
+          <l>"שיריון כסוף נפרץ</l>
+          <l>למצוא שם לב זהוב"</l>
+          <l>כשאין איש בסביבה</l>
+          <l>פוסעת בדממה</l>
+          <l>אלמנת געגועים</l>
+          <l>אלמנה של אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבירי</l>
+          <l>העוטף והמגן</l>
+          <l>את זכרונותי</l>
+          <l>אוסיף לשיר ולנגן</l>
+          <l>לעולם עולמי עולמייא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ביום חורפי קודר</l>
+          <l>על קברו היא נשכבה</l>
+          <l>הקור כמעט חודר</l>
+          <l>ללב המתפורר</l>
+          <l>לפתע שירתה פסקה</l>
+          <l>בית הקברות נדם</l>
+          <l>היא לא קמה</l>
+          <l>עכשיו הם אוהבים אי שם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבירי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כלה כלה</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כלה כלה</head>
+        <lg number="1" type="stanza">
+          <l>בשתי ידי כלה כלה</l>
+          <l>אשא אותך אל בית תפילה</l>
+          <l>לאור נרות נרקוד עד כלות</l>
+          <l>הנשימה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יביטו בנו כל בני העיר</l>
+          <l>ולכבודנו ישירו שיר</l>
+          <l>גם שנינו יחד נשיר איתם</l>
+          <l>כלה -</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>"הללו שמו הוא הוא</l>
+          <l>הללו שמו הוא הוא</l>
+          <l>הללו שמו הוא הוא</l>
+          <l>הללו שמו כל הזמן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הללו שמו הוא הוא</l>
+          <l>הללו שמו הוא הוא</l>
+          <l>הללו שמו הוא הוא</l>
+          <l>הללו שמו כל הזמן"</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אשא אותה ביום של חג</l>
+          <l>נשתול ביחד זרעי פרג</l>
+          <l>עזה כמוות אהבתה</l>
+          <l>אשא רק אותה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מחרחרים רעי הלב</l>
+          <l>שלא אותך אני אוהב</l>
+          <l>אך כשישירו נשיר איתם מההתחלה -</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>"הללו שמו הוא הוא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שחרחורת 2</title>
+        <singer classification="female singer">אתי לוי</singer>
+        <writer>טולי רביב</writer>
+        <composer>טולי רביב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שחרחורת</head>
+        <lg number="1" type="stanza">
+          <l>אמרי נא לי למה מדוע / כבשת אותי במבטך </l>
+          <l>בזמר אהבה פרוע / ליבי רודף את לבבך </l>
+          <l>ואין עוד טעם / לאביב שבלבבך </l>
+          <l>תני רק עוד פעם  / לחיל אמונתך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שחרחורת / כך קראו לה בפלוגה / ילדונת </l>
+          <l>מכולן את חמודה / שחרחורת / הכוכב שבמרומים </l>
+          <l>ילדונת / לך נכתב שיר השירים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תוך חדרי תציץ עוד שמש / אותך עדיין אחבק </l>
+          <l>אביטה ואזכור ליל אמש / ואת עיניך אנשק </l>
+          <l>וזרועותיך / מתפתלות כלהבה / ואש שפתיך </l>
+          <l>טעמתי טעם אהבה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

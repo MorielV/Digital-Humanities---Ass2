@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סואן בדמי הליל</title>
+        <singer classification="unknown">אורי זוהר</singer>
+        <writer>דב מגן</writer>
+        <composer>יורי מיליוטין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סואן בדמי הליל</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>סואן בדמי הליל</l>
+          <l>פונדק בנמל מרסיל</l>
+          <l>מלח ירים שם כוס</l>
+          <l>עם נערתו</l>
+          <l>טבק חריף, ירבה ללעוס.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חיים  ערכם שם דל</l>
+          <l>אהבה  מתנת שלל.</l>
+          <l>עם בוקר אור, מלצר</l>
+          <l>יסיר דומם</l>
+          <l>מן הרצפה כתמי הדם.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>סואן בדמי הליל...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חלון פונדק אפל</l>
+          <l>הרוח תיילל</l>
+          <l>הלכה ספינה אל סוף</l>
+          <l>הלך מלח מנערתו של החוף</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הים קורא לי שוב</l>
+          <l>אלייך לא אשוב</l>
+          <l>הים הוא לך חידה</l>
+          <l>ולי הים הוא אב ואם גם נערה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

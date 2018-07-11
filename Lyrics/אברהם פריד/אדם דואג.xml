@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אדם דואג</title>
+        <singer classification="unknown">אברהם פריד</singer>
+        <writer>בצלאל לנדאו</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אדם דואג</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אדם דואג על דמיו</l>
+          <l>ואינו אינו דואג על ימיו</l>
+          <l>אדם דואג על דמיו</l>
+          <l>ואינו דואג על ימיו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אדם דואג על דמיו</l>
+          <l>ואינו אינו דואג על ימיו</l>
+          <l>אדם דואג על דמיו</l>
+          <l>ואינו דואג על ימיו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דמיו אינם עוזרים</l>
+          <l>וימיו אינם חוזרים</l>
+          <l>אדם דואג על איבוד דמיו</l>
+          <l>ואינו אינו דואג על איבוד ימיו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>דמיו אינם עוזרים</l>
+          <l>וימיו אינם חוזרים</l>
+          <l>אדם דואג על איבוד דמיו</l>
+          <l>ואינו אינו דואג על איבוד ימיו</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אדם דואג על דמיו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

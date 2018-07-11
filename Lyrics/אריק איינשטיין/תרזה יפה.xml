@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תרזה יפה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>חיים נחמן ביאליק</writer>
+        <composer>שם טוב לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תרזה יפה</head>
+        <lg number="1" type="stanza">
+          <l>תרזה יפה ועבותה</l>
+          <l>על היאור עומדת מוטה;</l>
+          <l>כל היום במים צופה,</l>
+          <l>חושבה: מה יהא בסופה?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גדלה, פרחה, ריחה זלף,</l>
+          <l>אביב בא, ואביב חלף;</l>
+          <l>כבר מגיעים ימים קרים -</l>
+          <l>ואנה באו הציפורים?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ובתוך חדרה מול המראה</l>
+          <l>עומדה כל היום הנערה,</l>
+          <l>כל היום בדמותה צופה,</l>
+          <l>חושבה: מה יהא בסופה?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>גדלה, פרחה, ריחה זלף,</l>
+          <l>אביב בא ואביב חלף;</l>
+          <l>אנחות ליל וימי שימורים -</l>
+          <l>והיכן המה הבחורים!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

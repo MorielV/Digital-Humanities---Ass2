@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק איתך 2</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק איתך</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>רק איתך אני חי ואין מאושר ממני</l>
+          <l>רק איתך החיוך שלך את היום עושה לי</l>
+          <l>רק איתך זה פשוט כל יום מחדש קורה לי</l>
+          <l>רק.. רק איתך!</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רק רציתי להגיד לך שאת לא יודעת</l>
+          <l>מה קורה אצלי בלב שאת בי נוגעת</l>
+          <l>אני מת ושוב נולד לאהוב אותך לעד</l>
+          <l>עד הסוף, עד הסוף שנינו רק אני ואת.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רק איתך ...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>להצית אש בעינייך רק את מסוגלת</l>
+          <l>כשאני רואה אותך, מתרגש כמו ילד</l>
+          <l>והלב שלי נפתח אל האהבה שלך</l>
+          <l>לעולם.. לעולם הוא רוצה להיות איתך.</l>
+          <l>לעולם..לעולם הוא רוצה להיות איתך.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רק איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

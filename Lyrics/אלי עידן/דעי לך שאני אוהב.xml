@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דעי לך שאני אוהב</title>
+        <singer classification="male singer">אלי עידן</singer>
+        <writer>מאיה גבריאלי</writer>
+        <composer>אבנר גדסי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דעי לך שאני אוהב</head>
+        <lg number="1" type="stanza">
+          <l>דעי לך שאני אוהב</l>
+          <l>ומוכן לוויתורים</l>
+          <l>אך למרות מה שבלב</l>
+          <l>גם מוכן לפיתויים.</l>
+          <l>דעי לך שאני כועס</l>
+          <l>לא מוכן למשחקים</l>
+          <l>רק רוצה שנתפייס</l>
+          <l>ככה זה שאוהבים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז אולי תתחילי</l>
+          <l>לגלות קצת הבנה</l>
+          <l>את מזמן כבר לא ילדה קטנה.</l>
+          <l>ואולי בכלל לא היתה זאת אהבה</l>
+          <l>רק כמה ימים של אשליה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחכה לך תשובה</l>
+          <l>אין לי את כל החיים</l>
+          <l>אם לא את, אמצא אותה</l>
+          <l>שתאהב ללא תנאים.</l>
+          <l>לא אתן לך אף פעם</l>
+          <l>לעשות ממני צחוק</l>
+          <l>יש לך עוד כמה ימים</l>
+          <l>אחר כך אלך רחוק.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז אולי תתחילי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

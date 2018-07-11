@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש שם מישהו</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>אריק לביא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש שם מישהו</head>
+        <lg number="1" type="stanza">
+          <l>יש שם מישהו בעבר השני </l>
+          <l>יש שם מישהו </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מעבר לנהר </l>
+          <l>בחלון ממול </l>
+          <l>מאחורי ההר </l>
+          <l>מאחורי ההר </l>
+          <l>מעבר לגבול </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>להושיט יד ולגעת </l>
+          <l>לשלוח קול </l>
+          <l>לשלוח צליל </l>
+          <l>יש מי שרוצה לדעת </l>
+          <l>יש שם מי שמחפש שביל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

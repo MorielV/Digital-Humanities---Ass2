@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דמעה חמה</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דמעה חמה</head>
+        <lg number="1" type="stanza">
+          <l>דמעה חמה ירדה על לב ונעלמה</l>
+          <l>הצל קפא כאור חיוור על פני</l>
+          <l>רציתי רק לאהוב אותך</l>
+          <l>רציתי רק להרגיש הנשמה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עולם אכזר לי ולך</l>
+          <l>לא נדע מהי אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלב זועק הכל נחנק עד דמעה</l>
+          <l>הצל נפל נטול שם בפינה</l>
+          <l>רציתי רק להחזיק את ידך</l>
+          <l>רציתי רק לנשק את עינייך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

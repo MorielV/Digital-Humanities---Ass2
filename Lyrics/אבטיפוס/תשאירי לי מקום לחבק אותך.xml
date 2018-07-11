@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תשאירי לי מקום לחבק אותך</title>
+        <singer classification="band">אבטיפוס</singer>
+        <writer>אמיר בן דוד</writer>
+        <composer>אמיר בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תשאירי לי מקום לחבק אותך</head>
+        <lg number="1" type="stanza">
+          <l>אמרת לי אתמול</l>
+          <l>שחלמת עלי בלילה</l>
+          <l>זה דבר כל כך נחמד</l>
+          <l>לדעת שמישהו חולם עליך</l>
+          <l>גם אם זה חלום קצר</l>
+          <l>ואם זו את</l>
+          <l>זה אפילו עוד יותר נחמד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תחלמי, תחלמי</l>
+          <l>ותשאירי לי מקום לחבק אותך בחלום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאת ישנה</l>
+          <l>ומחייכת לעצמך</l>
+          <l>אני שמח שאני שם</l>
+          <l>לפעמים</l>
+          <l>נחמד שחולמים עליך</l>
+          <l>גם אם זה חלום קצר</l>
+          <l>ואם זו את</l>
+          <l>זה אפילו עוד יותר נחמד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תחלמי, תחלמי</l>
+          <l>ותשאירי לי מקום לחבק אותך בחלום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

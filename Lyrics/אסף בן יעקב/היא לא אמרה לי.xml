@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא לא אמרה לי</title>
+        <singer classification="unknown">אסף בן יעקב</singer>
+        <writer>אסף בן יעקב</writer>
+        <composer>אסף בן יעקב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא לא אמרה לי</head>
+        <lg number="1" type="stanza">
+          <l>היא לא אמרה לי </l>
+          <l>היא לא חזרה אלי</l>
+          <l>היא רק שתקה שם </l>
+          <l>בחיי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואין לי איך לומר תודה </l>
+          <l>מכל הלב </l>
+          <l>ואין לי איך לומר לך שאני אוהב </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז בואי אלי </l>
+          <l>בואי איתי </l>
+          <l>בואי יפה </l>
+          <l>ושבי לידי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>והיא ביקרה בי </l>
+          <l>כל ערב כמו אגדה </l>
+          <l>היא רק הייתה שם </l>
+          <l>לרב לא אמרה מילה </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואין לי איך להתמודד </l>
+          <l>עם הכאב </l>
+          <l>ואין לי איך לומר לה שאני אוהב </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אז בואי אלי...</l>
+          <l>והיא אחרת </l>
+          <l>עכשיו היא בדמות סיפור </l>
+          <l>כלום לא זוכרת </l>
+          <l>אלבום, זיכרון שבור </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ואין לי איך להתבלבל ולקוות </l>
+          <l>ואין לי איך לומר לה שאני אבוא </l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>אז בואי אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

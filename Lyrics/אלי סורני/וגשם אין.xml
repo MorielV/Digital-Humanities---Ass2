@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>וגשם אין</title>
+        <singer classification="male singer">אלי סורני</singer>
+        <writer>ארז ברזוליק</writer>
+        <composer>אלון ורדי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>וגשם אין</head>
+        <lg number="1" type="stanza">
+          <l>זה הזמן לאהבה גדולה</l>
+          <l>הקיץ עוד מעט מתחיל</l>
+          <l>דקה אחרי דקה שכחתי בשביל מה</l>
+          <l>שכחתי והמשכתי כרגיל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לחיות - ללא כתמים, בלי טעויות</l>
+          <l>לחיות - לנדוד אל הלילות</l>
+          <l>להיות - קרוב ,קרוב ושוב לראות</l>
+          <l>חלומות כמו רוח וגשם אין</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה הזמן לחזור אל העבר</l>
+          <l>אולי להיות שוב ילד חולמני</l>
+          <l>שנה אחרי שנה לבדוק שם מה נשבר</l>
+          <l>מה נשאר ומה זמני.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לחיות - ללא כתמים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה הזמן לאהבה גדולה</l>
+          <l>מה עוד יכול בן רגע להציל</l>
+          <l>מתחושת הריחוף בסוף הנפילה</l>
+          <l>הקיץ עוד מעט כרגיל.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

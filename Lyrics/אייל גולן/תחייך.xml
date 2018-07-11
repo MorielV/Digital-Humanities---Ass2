@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תחייך</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>עינת הולנדר</writer>
+        <composer>רביב רם בן מנחם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תחייך</head>
+        <lg number="1" type="stanza">
+          <l>כשיש אושר על הבוקר זה אולי סימן</l>
+          <l>שלכל כאב וסבל יש מרפא בזמן</l>
+          <l>לפעמים אנחנו מתגרים קצת בַמזל</l>
+          <l>אך הכל בידי שמים, זה הכל גורל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תחייך, תחייך, שמע לי אל תיקח ללב</l>
+          <l>בלי דמעות, רק שמחה, תנצח כל כאב</l>
+          <l>תחייך, תחייך, שמע לי אל תיקח ללב</l>
+          <l>שא תקווה, לטובה, ככה אלוהים אוהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בסוף יום נפלא חביבי, גם אתה תבין</l>
+          <l>שטפל הופך עיקר, רק אם תאמין</l>
+          <l>אם טעית אין דבר כי אין אדם מושלם</l>
+          <l>תכפר וּתברך על כל מה שקיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תחייך, תחייך, שמע לי אל תיקח ללב</l>
+          <l>בלי דמעות, רק שמחה, תנצח כל כאב</l>
+          <l>תחייך, תחייך, שמע לי אל תיקח ללב</l>
+          <l>שא תקווה, לטובה, ככה אלוהים אוהב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

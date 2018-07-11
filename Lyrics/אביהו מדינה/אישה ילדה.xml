@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה ילדה</title>
+        <singer classification="male singer">אביהו מדינה</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה ילדה</head>
+        <lg number="1" type="stanza">
+          <l>אישה יפה מהממת תמיד כרוח סוערת </l>
+          <l>את כל חושי מעוררת עת מול עיני מחוללת</l>
+          <l>ומתנועעת בחן מעכסת, חמוקיה כמעט וחושפת</l>
+          <l>ובלהט שפתיה פושקת, מתמכרת לקצב סוחף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מאמי, מי לחדרך בא בליל</l>
+          <l>מי חומק מן השער</l>
+          <l>לפני בוא השחר</l>
+          <l>שיכור הוא מליל אהבה </l>
+          <l>מאמי, יוצא מדעת רק לדעת </l>
+          <l>איי ומי הוא הגבר</l>
+          <l>איתו עד הבוקר</l>
+          <l>רוית לך מיין אהבה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אישה ילדה מטרפת במבטה אש רושפת </l>
+          <l>וביופיה היא כובשת ולה כל עין מתמכרת</l>
+          <l>בכל מקום בלי רחם היא שולחת את חיציה סביב ופוגעת</l>
+          <l>אין אונים חרותי לה נכנעת ונשרפת באש אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מאמי, מי לחדרך בא בליל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

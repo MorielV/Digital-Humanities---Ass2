@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האהבה תנצח 2</title>
+        <singer classification="unknown">אביתר קורקוס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האהבה תנצח</head>
+        <lg number="1" type="stanza">
+          <l>לו בחייקך הייתי בגיא צונן</l>
+          <l>מגונן הכל נותן</l>
+          <l>אף פעם לא רציתי לפגוע בך</l>
+          <l>לאבד אותך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם רק תבקשי הלילה</l>
+          <l>אקח אותך איתי רחוק רק אל תגידי לא</l>
+          <l>וכשייגמר הלילה ליום חדש חכי</l>
+          <l>הוא יבוא ואתן לך את הכל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כי רק אהבה תנצח את כל הדמעות</l>
+          <l>כשהכאב יחלוף אותך אני אשמור</l>
+          <l>כי רק אהבה תנצח את כל הדמעות</l>
+          <l>ובימים קשים אתן לך גם מסתור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשבך אני נוגע גופי רועד</l>
+          <l>לא אמרת שניפרד</l>
+          <l>כי לא אוכל לשכוח מה שנתת</l>
+          <l>כשאהבת אותי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם רק תבקשי הלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבני הכותל</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבני הכותל</head>
+        <lg number="1" type="stanza">
+          <l>יש אבנים להם ציפיתי</l>
+          <l>יש אבנים להם לחמתי</l>
+          <l>דמעותיי בכל אבן</l>
+          <l>חלומי הנכסף</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אבן אבן פה בכותל</l>
+          <l>תקבץ אל כל תבל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אשא קולי כמו שופר</l>
+          <l>אשא עיני אל פיסגת ההר</l>
+          <l>שמרי על בנייך</l>
+          <l>הטמונים למרגלותיו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד נפשי איתנה</l>
+          <l>לעמוד כאן איתן</l>
+          <l>את ירושלים</l>
+          <l>ליבי תמיד אלייך</l>
+          <l>את ראשי ארכין לך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

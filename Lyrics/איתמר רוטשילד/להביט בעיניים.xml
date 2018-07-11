@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>להביט בעיניים</title>
+        <singer classification="unknown">איתמר רוטשילד</singer>
+        <writer>איתמר רוטשילד</writer>
+        <composer>איתמר רוטשילד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>להביט בעיניים</head>
+        <lg number="1" type="stanza">
+          <l>אי אפשר להביט בעיניים</l>
+          <l>אי אפשר לתאר במילים</l>
+          <l>מה שחסר רק נוכח שבעתיים</l>
+          <l>אי אפשר לתאר במילים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אי אפשר להביט בעיניים</l>
+          <l>למי שמזמן כבר אין לו פנים</l>
+          <l>לא מדובר ביום או יומיים</l>
+          <l>אי אפשר לתאר במילים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וביום שבו נדבר לשפתיים</l>
+          <l>אשמיע לך כמה יפים הצלילים</l>
+          <l>והלב יחזיק לנו את הידיים</l>
+          <l>רק הלב יספר לנו איפה עולים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

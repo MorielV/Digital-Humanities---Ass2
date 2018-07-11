@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שולמית</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>נתן אלתרמן</writer>
+        <composer>שם טוב לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שולמית</head>
+        <lg number="1" type="stanza">
+          <l>עננים שטים על הגלבוע,</l>
+          <l>הברק פולח כחנית</l>
+          <l>סער, סער שר לי מגבוה:</l>
+          <l>בואי לשדות, השולמית!</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שולמית, התירי צמותיך,</l>
+          <l>שולמית, יפה הנך כליל.</l>
+          <l>שולמית, הראיני את מראיך,</l>
+          <l>כי מראיך - ארץ ישראל!</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הוי, הוי, עוד יושר,</l>
+          <l>עוד יושר, עוד יסופר.</l>
+          <l>יך הרוח ויסער,</l>
+          <l>אך הזמר עוד יושר!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הוי, הוי, עוד יושר,</l>
+          <l>ארץ, ארץ גיא והר,</l>
+          <l>ארץ גן וארץ בר</l>
+          <l>גם שירנו עוד יושר!</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם האיש נכנע לצל החרב,</l>
+          <l>דע כי אין בו אהבת תמיד.</l>
+          <l>אך אם קם הוא יחידי מול אלף,</l>
+          <l>דע כי הוא נשבע לשולמית!</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>שולמית - עוד צמתך ברוח,</l>
+          <l>שולמית - עוד סנדלך אדמון.</l>
+          <l>גם אם יאהבוך כמו בשל תפוח</l>
+          <l>יאהבוך כמו בשל ארמון!</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>הוי, הוי...</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>אל הקיר האחרון הגענו,</l>
+          <l>ותלויה עלינו החנית.</l>
+          <l>אך גם אנו, כן, אחי, גם אנו,</l>
+          <l>עוד נשמע את שיר השולמית!</l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>היא תקום חוגגת לעינינו!</l>
+          <l>היא תבוא! רקיע לנו עד!</l>
+          <l>עוד יושר שיר זמר גם אצלנו!</l>
+          <l>עוד יושר! הכונו למועד!</l>
+        </lg>
+        <lg Chorus="yes" number="10" type="stanza">
+          <l>הוי, הוי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיבוב שלא נגמר</title>
+        <singer classification="male singer">אריה מוסקונה</singer>
+        <writer>נחום סלמן</writer>
+        <composer>אריה מוסקונה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיבוב שלא נגמר</head>
+        <lg number="1" type="stanza">
+          <l>קם לי נם לי</l>
+          <l>סבוב שלא נגמר</l>
+          <l>רץ לי נח לי</l>
+          <l>כל יום אותו צבר</l>
+          <l>את לי היא לי</l>
+          <l>מה זה חשוב לי כבר?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נולדתי כמו כולם</l>
+          <l>אני כאן בעולם</l>
+          <l>כדי לחיות סתם כך</l>
+          <l>ולמות שכח!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חם לי, קר לי,</l>
+          <l>זה בא וזה עובר</l>
+          <l>יש לי אין לי</l>
+          <l>מה זה בכלל עוזר</l>
+          <l>חי לי מת לי</l>
+          <l>אותו גלגל חוזר -</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נולדתי כמו כולם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>קם לי נם לי - סיבוב שלא נגמר</l>
+          <l>רץ לי נח לי - כל יום אותו דבר</l>
+          <l>את לי היא לי - מה זה חשוב לי כבר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נולדתי כמו כולם....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

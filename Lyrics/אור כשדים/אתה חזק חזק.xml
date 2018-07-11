@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתה חזק חזק</title>
+        <singer classification="band">אור כשדים</singer>
+        <writer>שי להב</writer>
+        <composer>שי להב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתה חזק חזק</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הם רוצים אותך לקבור</l>
+          <l>הם חופרים כבר את הבור</l>
+          <l>בתוך הלב נהיה לו חור</l>
+          <l>הרבה זמן לא ראית אור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הם מוציאים עכשיו חוזה</l>
+          <l>הם אומרים אתה הוזה</l>
+          <l>כאב פולח בחזה</l>
+          <l>בסוף עוד תתרגל לזה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אבל אתה, חזק חזק חזק</l>
+          <l>כן אתה, ענק ענק ענק</l>
+          <l>רץ בדרך, רץ לבד לבד</l>
+          <l>ומפיל אותם אחד אחד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הם כותבים הרבה שקרים</l>
+          <l>אגדות האחים גרים,</l>
+          <l>קושרים רק לעצמם כתרים</l>
+          <l>עושים מעמקים הרים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הם רוצים אותך לקבור</l>
+          <l>הם חופרים כבר את הבור</l>
+          <l>בתוך הלב נהיה לו חור</l>
+          <l>הרבה זמן לא ראית אור</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אבל אתה, חזק חזק חזק</l>
+          <l>כן אתה, ענק ענק ענק</l>
+          <l>רץ בדרך, רץ לבד לבד</l>
+          <l>ומפיל אותם אחד אחד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

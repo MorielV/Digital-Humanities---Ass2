@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיי 14</title>
+        <singer classification="unknown">אסף עומסי</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>ניסן פרידמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיי</head>
+        <lg number="1" type="stanza">
+          <l>חיי לא שווים הרבה בלעדייך.</l>
+          <l>חיי נועדו רק לך בזכותך.</l>
+          <l>חיי הם כמו שביל אפל עד אלייך.</l>
+          <l>חיי הם עולם של אור לצידך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אלוהים ברא אותנו שניים, שניים</l>
+          <l>ויצר בתוך גופנו נשמה.</l>
+          <l>אלוהים שומר עלינו משמיים</l>
+          <l>שנאהב לחיות על פני האדמה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה, מה, מה נשמה</l>
+          <l>את, כן את כל חיי!</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חיי משתקפים יפה בעינייך.</l>
+          <l>חיי שוב נולדו איתך מחדש.</l>
+          <l>חיי מתוקים יותר על שפתייך.</l>
+          <l>חיי זורמים כמו נחל דבש.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אלוהים ברא אותנו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

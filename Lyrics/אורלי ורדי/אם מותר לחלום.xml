@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם מותר לחלום</title>
+        <singer classification="unknown">אורלי ורדי</singer>
+        <writer>יוסי גמזו</writer>
+        <composer>יוסף הדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם מותר לחלום</head>
+        <lg number="1" type="stanza">
+          <l>אם בשמיים יש עוד תכלת</l>
+          <l>אם עוד אומרים: שלום.</l>
+          <l>אם עוד נושקים אשה וילד,</l>
+          <l>אם עוד מותר לחלום.</l>
+          <l>אם לא כל הנחלים אכזב,</l>
+          <l>אם יש עוד תוחלת:</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בוא נא הערב ויחד נתעה בדרך,</l>
+          <l>בדרך ממך אלי ובחזרה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם האביב חוזר כל פעם</l>
+          <l>אם לא הכל נכר,</l>
+          <l>אם לחיינו יש עוד טעם,</l>
+          <l>אם עוד אומרים: מחר.</l>
+          <l>אם לא האגדות כזב,</l>
+          <l>אם יש עוד שעת פלא.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בוא נא הערב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

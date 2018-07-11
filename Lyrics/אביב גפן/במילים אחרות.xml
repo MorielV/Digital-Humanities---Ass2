@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>במילים אחרות</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>במילים אחרות</head>
+        <lg number="1" type="stanza">
+          <l>בחוץ חשוך פחות רואים אותך</l>
+          <l>שעה טובה להעלם</l>
+          <l>אתה אחד שבשעה כזאת</l>
+          <l>מתאהב או מתאבד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוזב את העיר לבד במכונית</l>
+          <l>עם יין זול שדופק את הראש</l>
+          <l>אומרים שהיא החברה שלך</l>
+          <l>אז איפה היא לעזאזל</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ויש שם כאב שרוצה כבר לצאת</l>
+          <l>במילים אחרות אתה בודד הלילה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>פתאום אתה מתחיל לשרוק לך</l>
+          <l>ויש לך סיבה טובה</l>
+          <l>כי זה היום האחרון שלך</l>
+          <l>במציאות המסריחה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ויש שם כאב שרוצה כבר לצאת</l>
+          <l>במילים אחרות אתה בודד הלילה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

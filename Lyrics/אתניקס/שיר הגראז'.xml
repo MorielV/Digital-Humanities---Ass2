@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הגראז </title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הגראז'</head>
+        <lg number="1" type="stanza">
+          <l>דלת של ברזל, חלקי חילוף פזורים.</l>
+          <l>ארון מכני, קירות בטון סדוקים.</l>
+          <l>הדרך אל האור, אם בכלל אני רוצה.</l>
+          <l>היא דרך הדלת, אבל אנ'לא יוצא.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש לי שם תמונות עירום,</l>
+          <l>ודגל של משטר אדום.</l>
+          <l>הם רוצים אותי בחוץ,</l>
+          <l>אך שם אני מרגיש לחוץ.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אוהב את הגראז' שלי</l>
+          <l>אוהב את הגראז' שלי</l>
+          <l>אוהב את הגראז' שלי</l>
+          <l>אני אוהב, את הגראז'.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בחוץ הכל בוער, יש ריח סכנה.</l>
+          <l>עדיף להסתתר במסווה של הגנה.</l>
+          <l>תאמרו לי מה פסול לחיות בתוך גראז',</l>
+          <l>כששם לא מצטרפים למירוץ חימוש מופרז.</l>
+          <l>כן.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יש לי שם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

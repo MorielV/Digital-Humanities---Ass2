@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמצע הלילה</title>
+        <singer classification="female singer">אוליב</singer>
+        <writer>ישי אמיר</writer>
+        <composer>ישי אמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמצע הלילה</head>
+        <lg number="1" type="stanza">
+          <l>שוב זה מתקרב</l>
+          <l>חושף שכבות של יופי וערמה</l>
+          <l>ואז גם מתלכלך</l>
+          <l>נותן לזיעה ליפול על הרצפה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חיוור עכשיו בחוץ, אפילו קצת קר</l>
+          <l>לא הייתי מתקשרת</l>
+          <l>אולי לא הייתי נזכר</l>
+          <l>הזכוכית, המכונית</l>
+          <l>אמצע הלילה, אצלך הכל משתנה</l>
+          <l>אמצע הלילה, אצלך הכל משתנה</l>
+          <l>הכל משתנה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ושוב זה מתקרב</l>
+          <l>משאיר ניחוח חמוץ באוויר</l>
+          <l>הצלצול מהדהד</l>
+          <l>בין קירות החדר, דרום העיר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חיוור עכשיו בחוץ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

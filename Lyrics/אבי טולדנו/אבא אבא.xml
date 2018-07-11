@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבא אבא</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבא אבא</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אבא ארז מזוודה ותרמיל</l>
+          <l>אבא לקח שני ספרים ומעיל</l>
+          <l>אבא אמר לי: אשוב לראותך</l>
+          <l>אמר לי שלום וכמעט שבכה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אמא אמרה זה הכל יסתדר</l>
+          <l>אבא יבוא בכול יום לבקר</l>
+          <l>תלכו לשחק תעשו מלחמות</l>
+          <l>אך למה עיניה היו אדומות?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אבא, אבא תישאר</l>
+          <l>אבא, אבא אל תלך</l>
+          <l>אבא בוא אלי מהר</l>
+          <l>אבא, אבא'לה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אבא נשק לי, ליטף את ראשי</l>
+          <l>יצא מן הדלת בקול חרישי</l>
+          <l>פתאום הוא חזר לו, כאילו שכח</l>
+          <l>חיבק אותי שוב בחוזקה והלך.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אינני בוכה אני ילד גדול</l>
+          <l>אני כבר כאילו מבין את הכל</l>
+          <l>ורק בכל בוקר כשאני מתעורר</l>
+          <l>שוכב ומקשיב אולי אבא חוזר.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אבא, אבא תישאר...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אבא בוא אלי מהר</l>
+          <l>אבא, אבא'לה.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>אבא ארז מזוודה ותרמיל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טיפ טיפה</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>אהוד בנאי</writer>
+        <composer>אהוד בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טיפ טיפה</head>
+        <lg number="1" type="stanza">
+          <l>טיפי טיפי טיפ טיפ טיפ טיפה</l>
+          <l>לאן נושרת הקליפה ומסתלקת</l>
+          <l>אל האוקיינוס הגדול תכול שמיים</l>
+          <l>שמחת ירח מתמלא ומתגלה במאור עיניים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מרחוק הם מנגנים עכשיו רק לנו</l>
+          <l>עוד טיפה תראי, כמעט הגענו</l>
+          <l>אל אותה פינה, אל המנגינה</l>
+          <l>זאת המנגינה שלנו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>טיפי טיפי טיפ טיפ טיפ טיפה</l>
+          <l>לאן נושרת לה דמעה ומתגלגלת</l>
+          <l>אל האוקיינוס הגדול, תכול שמיים</l>
+          <l>שמחת ירח מתמלא ומתגלה במאור עיניים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מרחוק הם מנגנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

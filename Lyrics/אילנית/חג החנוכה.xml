@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חג החנוכה</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חג החנוכה</head>
+        <lg number="1" type="stanza">
+          <l>שמונה נרות בחנוכיה</l>
+          <l>ולביבה וסופגניה,</l>
+          <l>ונס גדול שהיו היה</l>
+          <l>פה ושם</l>
+          <l>והללויה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זהו חג החנוכה</l>
+          <l>נס נרים ואבוקה,</l>
+          <l>חג הוא לחשמונאים</l>
+          <l>הו מה טוב ומה נעים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הסביבונים מרקדים סוב סוב</l>
+          <l>מעות לחג נקבל לרוב,</l>
+          <l>האש זהב והאור זהוב</l>
+          <l>מה נפלא,</l>
+          <l>מה נעים וטוב.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זהו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שימעי, אחות, מיזמור חדש,</l>
+          <l>מיזמור עתיק, מיזמור נירגש,</l>
+          <l>על נס החג בבית המיקדש</l>
+          <l>טוב הנס,</l>
+          <l>צפיחית בדבש.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זהו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

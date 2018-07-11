@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>להיות 9</title>
+        <singer classification="unknown">אביהו שבת</singer>
+        <writer>סהר חגי</writer>
+        <composer>ניצן קייקוב</composer>
+        <album>אביהו</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>להיות</head>
+        <lg number="1" type="stanza">
+          <l>כמה פעמים שאלתי </l>
+          <l>חיפשתי רק תשובה </l>
+          <l>בכל המנגינות ששרתי </l>
+          <l>חיפשתי נחמה </l>
+          <l>והשעות היו קשות </l>
+          <l>אני החבאתי צלקות בלב </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שלא עוזבות אותי </l>
+          <l>מכות כמו גלים על החולות </l>
+          <l>זה להיות או לא להיות </l>
+          <l>כמו אתמול שפחדנו לנסות </l>
+          <l>לגעת בדמעות </l>
+          <l>מאיפה הן באות </l>
+          <l>אני רוצה להיות </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה אנשים הכרתי </l>
+          <l>זה לא מרגיש קרוב </l>
+          <l>איך בסיפורים מפעם </l>
+          <l>תמיד הסוף הוא טוב </l>
+          <l>ושוב עולות המחשבות </l>
+          <l>מסתיר עוד רגשות בלב </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שלא עוזבות אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

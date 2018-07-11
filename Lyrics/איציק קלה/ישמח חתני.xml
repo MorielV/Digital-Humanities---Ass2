@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ישמח חתני</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>עממי</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ישמח חתני</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>ישמח חתני בקהל אמוני</l>
+          <l>ישא ברכה מאת ה'</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שדי ימלא תאות ליבו</l>
+          <l>מגן וצינה יהיה סביבו</l>
+          <l>ויאר אותו ויישר נתיבו</l>
+          <l>לגמור ולשמור דרכי ה'</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ישמח חתני...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לראשו יצוה ברכות עצומות</l>
+          <l>וייסע בכל עת כנהר שלומות</l>
+          <l>באיבא ברינה נושא אלומות</l>
+          <l>יזכה ויראה ישועת ה'</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ישמח חתני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

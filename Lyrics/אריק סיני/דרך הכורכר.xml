@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דרך הכורכר</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>יעקב גלעד</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דרך הכורכר</head>
+        <lg number="1" type="stanza">
+          <l>אני חוזר בדרך הכורכר</l>
+          <l>בפיתולי אותו מסלול מוכר</l>
+          <l>ושוב נדמה שזה אותו צרצר</l>
+          <l>שר מתחת שיח הצבר.</l>
+          <l>שני הברושים בשער הקדמי</l>
+          <l>שומרים על סף הבית של אימי</l>
+          <l>ועל עמוד בטון טבוע שמי</l>
+          <l>שרשמתי פעם בעצמי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וריח מלונים עם דבק אורנים</l>
+          <l>נופל כבד כמו השנים,</l>
+          <l>אבל תמיד מסביר פנים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני הולך בדרך הכורכר</l>
+          <l>ומחפש את כל ילדי הכפר</l>
+          <l>שורק פזמון מתוך "שיר הקטר"</l>
+          <l>אך לאיש זה לא מזכיר דבר.</l>
+          <l>באופניים שחצו שדות</l>
+          <l>גלגל חסר כנפיים חלודות</l>
+          <l>ועל העץ תלויות שתי נדנדות</l>
+          <l>רק ברוח הן מתנדנדות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וריח מלונים עם דבק אורנים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני יוצא בדרך הכורכר</l>
+          <l>אני חושב על אפר ועפר</l>
+          <l>על מה עכשיו ומה שבעבר</l>
+          <l>ועל זה שכבר מחשיך וקר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>וריח מלונים עם דבק אורנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תני סימן</title>
+        <singer classification="male singer">אורן חן</singer>
+        <writer>חגי חן</writer>
+        <composer>חגי חן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תני סימן</head>
+        <lg number="1" type="stanza">
+          <l>חושב איך לבלות הלילה</l>
+          <l>אולי אצא לי שוב לאיזה בר</l>
+          <l>רואה אותך לבד רוקדת</l>
+          <l>והלב שלי פתאום נשבר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תני סימן אקח אותך הלילה</l>
+          <l>אל ביתי ויחד כך נאהב</l>
+          <l>תני סימן אולי אותי תביני</l>
+          <l>ליבך לנצח לא יכאב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאת רואה אותי לרגע</l>
+          <l>מסתירה מבט ושוב פונה</l>
+          <l>עושה עצמך כלא יודעת</l>
+          <l>מי הגבר שאליך בא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תני סימן...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תני סימן תני מבט</l>
+          <l>אולי אותי תביני</l>
+          <l>שרק לך חיכיתי כל חיי</l>
+          <l>תני סימן תני מבט</l>
+          <l>תראי הלב שביר</l>
+          <l>את הפרח לי מכולן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

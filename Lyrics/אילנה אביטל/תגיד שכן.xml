@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תגיד שכן</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תגיד שכן</head>
+        <lg number="1" type="stanza">
+          <l>כשכתבת מאתונה,</l>
+          <l>לא סיפרת לי על לונה,</l>
+          <l>רק הוספת: "בלגונה, היה מגניב".</l>
+          <l>כשטלפנת מבהאיה,</l>
+          <l>לא הזכרת את מריה,</l>
+          <l>רק דיברת על אחיה- "בחור חביב".</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חושב עלי - לא! לא!</l>
+          <l>חולם עלי - לא! לא!</l>
+          <l>צוחק עלי - לא יתכן.</l>
+          <l>זוכר אולי - לא! לא!</l>
+          <l>דואג אולי - לא! לא!</l>
+          <l>אוהב אולי - תגיד שכן!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשפקססת לי מצ'ילי, </l>
+          <l>לא תיארת לי את לילי,</l>
+          <l>רק תקתקת: "את חכי לי, חכי רק לי"</l>
+          <l>כששלחת לי מרומא,</l>
+          <l>בושם יער עם ארומה,</l>
+          <l>על פתקה נכתב: "פלומה, יפה שלי".</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חושב עלי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>פקסימיליה ואגרת,</l>
+          <l>טלפונים בשרשרת,</l>
+          <l>חבילות אני צוברת ממש בכייף.</l>
+          <l>את המאצ'ו משחק לי,</l>
+          <l>עוד רוצה שיתחשק לי,</l>
+          <l>אז תבוא ותנשק לי ותתנדף.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>חושב עלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

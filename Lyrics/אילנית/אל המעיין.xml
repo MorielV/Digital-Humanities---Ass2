@@ -1,0 +1,39 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל המעיין 2</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>יעקב דוד קמזון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל המעיין</head>
+        <lg number="1" type="stanza">
+          <l>אל המעיין בא גדי קטן, בא גדי לבן,</l>
+          <l>מאין תבוא הגדי?</l>
+          <l>ויען לי ויאמר: מחרן.</l>
+          <l>השלום ללבן בן-בתואל?</l>
+          <l>השלום ליעקב ולרחל?</l>
+          <l>ויען הגדי ויאמר: שלום.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

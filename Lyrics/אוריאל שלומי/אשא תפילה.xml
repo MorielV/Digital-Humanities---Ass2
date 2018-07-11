@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אשא תפילה</title>
+        <singer classification="male singer">אוריאל שלומי</singer>
+        <writer>גבריאל בקר</writer>
+        <composer>גבריאל בקר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אשא תפילה</head>
+        <lg number="1" type="stanza">
+          <l>אליך אלוקי אשא תפילה </l>
+          <l>בך רק אתנחם עד סוף ימי</l>
+          <l>ואנא אל תשכח יש בי תקווה </l>
+          <l>מבלעדיך מהם לי חיי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עלי חלפו רגעים ללא תקוה </l>
+          <l>היית למשענת ולאמונה </l>
+          <l>נופל וקם ושוב נופל וקם </l>
+          <l>אבל תמיד נשען על חסדיך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תשובה ניסיתי קצת מעט מדי</l>
+          <l>קיבלתי יסורים באהבה</l>
+          <l>השחר יעלה ויום חדש </l>
+          <l>יביא איתו אור לנשמה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לאן אלך ואנא אני בא</l>
+          <l>כל יום יום שעה אחר שעה </l>
+          <l>אם יש בי כוח לעשות תשובה </l>
+          <l>אנא תן לי חלק לעולם הבא</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תשובה ניסיתי קצת מעט מדי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אליך אלוהי</title>
+        <singer classification="male singer">אביהו מדינה</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אליך אלוהי</head>
+        <lg number="1" type="stanza">
+          <l>רק אליך, אלוהי</l>
+          <l>קורא אני בלי קול</l>
+          <l>רק אותך תמיד ביקשתי</l>
+          <l>רק אותך מכל</l>
+          <l>שתשמע אותי קורא</l>
+          <l>סומא מתוך הליל</l>
+          <l>ותאיר לי את הדרך</l>
+          <l>שלא אהיה נופל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי ידעת את כל לב</l>
+          <l>וידעת מה כואב</l>
+          <l>מה אסור מה מותר</l>
+          <l>מהו רע מה ישר</l>
+          <l>אני יודע מעיניך לא נעלם דבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש תמים וחכמים</l>
+          <l>ויש גם בני אדם</l>
+          <l>כאדונים ישחקו הם, וגבה ליבם</l>
+          <l>ולשונם כצדיקים, בסתר חידתם</l>
+          <l>אך לך הכל גלוי הוא</l>
+          <l>לך בורא עולם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי ידעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

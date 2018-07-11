@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא בכית איתי</title>
+        <singer classification="male singer">אמיר גבריאל</singer>
+        <writer>אמיר גבריאל</writer>
+        <composer>אמיר גבריאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא בכית איתי</head>
+        <lg number="1" type="stanza">
+          <l>שוקל מחדש הכל מהתחלה </l>
+          <l>היה בי חשש היה לי רע </l>
+          <l>מפצל עולמות </l>
+          <l>מגלה מלחמות </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היה לי רע את לא בכית איתי </l>
+          <l>הייתה בחירה את לא היית איתי </l>
+          <l>היה לי רע את לא בכית איתי </l>
+          <l>הייתה שתיקה את לא שתקת איתי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בודק אפשרות לא מחדש </l>
+          <l>הודתי טעות עכשיו מתייאש </l>
+          <l>שקט מפחיד </l>
+          <l>מכאן לתמיד </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היה לי רע את לא בכית איתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

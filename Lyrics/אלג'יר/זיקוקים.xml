@@ -1,0 +1,39 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זיקוקים</title>
+        <singer classification="unknown">אלג יר</singer>
+        <writer>אביב גדג'</writer>
+        <composer>אביב גדג'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זיקוקים</head>
+        <lg number="1" type="stanza">
+          <l>הפציצו אלף זיקוקים</l>
+          <l>אנחנו מתחבקים</l>
+          <l>הפציצו אלף זיקוקים</l>
+          <l>אנחנו מאושרים</l>
+          <l>להתראות ילדים וילדות</l>
+          <l>אני אלך בעקבות הכוכב הנופל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

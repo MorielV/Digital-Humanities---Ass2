@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עברתי רק כדי לראות</title>
+        <singer classification="female singer">אסתר שמיר</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>אפרים שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עברתי רק כדי לראות</head>
+        <lg number="1" type="stanza">
+          <l>כאן היה מכחול ואנו שניים</l>
+          <l>מציירים ציור בתוך צבעים, שלא יוכלו לדהות</l>
+          <l>כאן היתה טירה ונהר זורם בלי מים</l>
+          <l>עברתי רק כדי לראות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הטירה עמדה בראש הגבע</l>
+          <l>בתוכה נפלו הרבה מילים, שאיש עוד לא אמר</l>
+          <l>הפרחים שרקו מין מזמור מחמיא לטבע</l>
+          <l>היום הוא שיר מאוד מוכר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא, אין טירה אל תביט עליה, היא איננה</l>
+          <l>אין מה לרוץ ככה, אין יותר שמיים</l>
+          <l>הגבירה כבר מתה</l>
+          <l>אין נהר בלי מים</l>
+          <l>עברתי רק כדי לראות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הקירות סדוקים, הכל קפא</l>
+          <l>ואתה יושב בראש זקוף וכבר מוכן לשלוט</l>
+          <l>קח את שתי ידי וראה בשתי עינייך</l>
+          <l>היום הכל בוער פחות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא, אין טירה אל תביט עליה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

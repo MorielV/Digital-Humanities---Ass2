@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Adio Querida</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>I'll See You In My Dreams – בהופעה 2009</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Adio Querida</head>
+        <lg number="1" type="stanza">
+          <l>Tu madre cuando te parió</l>
+          <l>Y te quitó al mundo, </l>
+          <l>Coracon ella no te dió </l>
+          <l>Para amar segundo.</l>
+          <l>Coracon ella no te dió </l>
+          <l>Para amar segundo. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Adío,</l>
+          <l>Adío Querida, </l>
+          <l>No quero la vida,</l>
+          <l>Me l'amagrates tu.</l>
+          <l>Adío,</l>
+          <l>Adío Querida,</l>
+          <l>No quero la vida,</l>
+          <l>Me l'amargates tú. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Va, búxcate otro amor,</l>
+          <l>Aharva otras puertas,</l>
+          <l>Aspera otro ardor,</l>
+          <l>Que para mi sos muerta.</l>
+          <l>Aspera otro ardor,</l>
+          <l>Que para mi sos muerta.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>Adío,</l>
+          <l>Adío Querida, </l>
+          <l>No quero la vida,</l>
+          <l>Me l'amagrates tu.</l>
+          <l>Adío,</l>
+          <l>Adío Querida,</l>
+          <l>No quero la vida,</l>
+          <l>Me l'amargates tú.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

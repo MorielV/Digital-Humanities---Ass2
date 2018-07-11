@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה 17</title>
+        <singer classification="male singer">אורן חן</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>אבשלום צוברה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה</head>
+        <lg number="1" type="stanza">
+          <l>אמש מול ביתי הופיעה</l>
+          <l>כמו השמש יופיה עלי השפיעה</l>
+          <l>לא נתנה לי לחשוב</l>
+          <l>היא רצתה בי רק רק לאהוב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא הספקתי לומר מילה או שתיים</l>
+          <l>בתוך רגע נפגשו שפתיים</l>
+          <l>והלילה התמים הפך להיות פתאום</l>
+          <l>כל כך מדהים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אשה אשה משוחררת כל כך</l>
+          <l>העתיד אף פעם איתה לא מובטח</l>
+          <l>היא חוצה גבולות</l>
+          <l>בלי לשאול שאלות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>התמכרתי לחמימות ידיה</l>
+          <l>וניסיתי לפגוש את שתי עיניה</l>
+          <l>אך לפתע היא חייכה</l>
+          <l>ולי אמרה מיד איני שלך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>באופק היא נעלמה בליל</l>
+          <l>והותירה זכרונות בשניים</l>
+          <l>לא יודע עד היום</l>
+          <l>אם היא מציאות או רק חלום</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אשה אשה משוחררת כל כך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

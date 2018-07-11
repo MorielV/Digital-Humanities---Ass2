@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רקדנית לוהטת</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>13</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רקדנית לוהטת</head>
+        <lg number="1" type="stanza">
+          <l>רקדנית לוהטת זזה, מהפנטת</l>
+          <l>את מולי רוקדת, כך אני הוזה</l>
+          <l>על כוסית טקילה וחוזר חלילה</l>
+          <l>אבלה איתך עוד לילה שכזה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל תשמרי מרחק חבקי אותי חזק</l>
+          <l>עכשיו זאת מסיבה והמקצב סוחף</l>
+          <l>חבשתי ילדתי שאת כבר לא איתי</l>
+          <l>ארקוד איתך על כלות כך עד שאתעלף</l>
+          <l>סוחף, עוטף, לוטף</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואבא רק אמר לי:</l>
+          <l>"קרידו - תן לה אהבה"</l>
+          <l>ואבא רק אמר לי:</l>
+          <l>"קרידו - היא בחורה טובה"</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשאת חמומה נבנית סביבך חומה</l>
+          <l>מקצב אחד כזה ירקיד לך את הלב</l>
+          <l>ואני איתך ליבי כולו שלך</l>
+          <l>אזמין אותך לרקוד את הריקוד הזה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואבא רק אמר לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

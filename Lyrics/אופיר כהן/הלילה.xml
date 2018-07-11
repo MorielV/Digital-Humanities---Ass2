@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלילה 7</title>
+        <singer classification="unknown">אופיר כהן</singer>
+        <writer>ליאור קינג</writer>
+        <composer>ליאור קינג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלילה</head>
+        <lg number="1" type="stanza">
+          <l>כולם נרקוד ונשיר ונשמח אל תוך הלילה</l>
+          <l>עד עלות השחר שהשמש שוב תזרח</l>
+          <l>ונרקוד ונשיר ונשמח אל תוך הלילה</l>
+          <l>תאהבי אותו הלילה כי הלילה הוא שלך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמו ציפור קטנה את מרחפת,</l>
+          <l>ומעופך אל המרום.</l>
+          <l>בין אצבעותיו את שוב נסחפת</l>
+          <l>כמו לעמוד על סף תהום.</l>
+          <l>יש רגעים קטנים של אושר -</l>
+          <l>שמחה שלא היתה בך זה מכבר,</l>
+          <l>כשאת יודעת שלנצח האהבה שלו תמיד תבער.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את מאוהבת בו כל כך,</l>
+          <l>הוא איתך ורק איתך.</l>
+          <l>הלילה קחי אותו,</l>
+          <l>הלילה הוא שלך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כולם נרקוד ונשיר ונשמח...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תמיד ידעת שזה יגיע, שיתגשם לך החלום</l>
+          <l>כן זה הרגע המפתיע, שבו הלב מפסיק לפעום.</l>
+          <l>והוא מביט בך בעינייך ונושק את צווארך</l>
+          <l>ופתאום כורע ברך, ומבקש שוב את ידך.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את מאוהבת בו כל כך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

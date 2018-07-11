@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זוהרים</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>עם הזמן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זוהרים</head>
+        <lg number="1" type="stanza">
+          <l>בתוך נפשי ההרס העצמי</l>
+          <l>אוכל אותי משאיר בי סימנים</l>
+          <l>גודל איתי..</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוד מתפלל לכל כוכב נופל</l>
+          <l>אך האמת, ראיתי רק כוכב</l>
+          <l>שמת..</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את בוכה</l>
+          <l>בוכה..</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חולות התלות כבר חרושי סדקים</l>
+          <l>כבר לא נוצץ</l>
+          <l>זוכרת שהיינו זוהרים?</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את בוכה</l>
+          <l>בוכה..</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>יושבים, שותקים</l>
+          <l>כאילו מחכים</l>
+          <l>שיעברו הימים</l>
+          <l>כבר לא זוהרים</l>
+          <l>רוצים פצצות לפנים</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>את בוכה</l>
+          <l>בוכה..</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

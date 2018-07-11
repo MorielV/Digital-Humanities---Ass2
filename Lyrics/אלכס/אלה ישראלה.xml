@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלה ישראלה</title>
+        <singer classification="unknown">אלכס 3</singer>
+        <writer>דודו ברק</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלה ישראלה</head>
+        <lg number="1" type="stanza">
+          <l>אלה ישראלה</l>
+          <l>את כבר לא ילדה קטנה</l>
+          <l>אלה מה קורה לך מה כבר נשתנה</l>
+          <l>אלה ישראלה אל תקחי הכל ללב</l>
+          <l>אלה מה קורה לך?</l>
+          <l>צאי מן הכאב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שמש בשמיים יום חדש הנה עולה בהר</l>
+          <l>תפקחי את העיניים אל האור הנהדר</l>
+          <l>אלה ישראלה</l>
+          <l>איש קורא לך לשלום יום חדש בורא לך</l>
+          <l>לך רוקם חלום.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עיר ואם יועיד לך עם חצר ובית מסודר</l>
+          <l>וגם ילדים יוליד לך ויכתוב לך שיר קצר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

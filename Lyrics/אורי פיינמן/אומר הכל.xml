@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אומר הכל</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>ירון כהן</writer>
+        <composer>ירון כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אומר הכל</head>
+        <lg number="1" type="stanza">
+          <l>אולי עכשיו כשאת אינך, זה לא יהיה פשוט</l>
+          <l>מבלי מגע אהבתך, אבדה המשמעות</l>
+          <l>פתחי פרצה אחת קטנה, אל תוך הלב שלך,</l>
+          <l>אני אוהב אוהב אותך...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שנים חיפשתי ביופייך, את כל חלומותי</l>
+          <l>ובלעדייך מסתבך, נהיה קשה מדי</l>
+          <l>חורט את שמך בכל פינה, שבה אני הולך</l>
+          <l>ומחפש מקום בליבך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אולי הייתי קצת מוזר שלא אומר</l>
+          <l>אולי פחדתי מזה להישבר</l>
+          <l>אבל היום אני אומר לך את הכל</l>
+          <l>אוהב אותך ובלעדייך לא יכול.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואיפה את אני תוהה, ומצייר אותך</l>
+          <l>ובדמותך אני בוהה רוצה להיות איתך</l>
+          <l>נסחף אלייך כמו סופה שמתפרצת </l>
+          <l>בתוך הלב שעוד אוהב...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אולי הייתי קצת מוזר שלא אומר </l>
+          <l>אולי פחדתי מזה להישבר</l>
+          <l>אבל היום אני אומר לך את הכל</l>
+          <l>אוהב אותך ובלעדייך לא יכול.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אולי הייתי קצת מוזר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שנינו שווים</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שנינו שווים</head>
+        <lg number="1" type="stanza">
+          <l>שנינו שווים פחות או יותר</l>
+          <l>רק לך יש עוד טמבל ששונא לדבר</l>
+          <l>ואהבתי אותך והלכתי ממך</l>
+          <l>ונתת לי הרגשה שאף פעם לא נתראה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אוהב אותך אך את לא מאושרת</l>
+          <l>שונא אותה בחבל היא קושרת</l>
+          <l>רוצה אותך ולא רואה אותך נלחמת</l>
+          <l>חושב שהיא תפסה והיא כבר מתעייפת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שנינו לבד רק לך יש פחדים</l>
+          <l>שהטמבל יבוא ויראה אותנו שוכבים</l>
+          <l>ולי יש כאב הראש מסתובב</l>
+          <l>ותגידי לטמבל שלא יתערב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אוהב אותך אך את לא מאושרת</l>
+          <l>שונא אותה היא כל יום מתקשרת</l>
+          <l>רוצה אותך ולא רואה אותך נלחמת</l>
+          <l>חושב שהיא תפסה והיא כבר מתעייפת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר ליפתח</title>
+        <singer classification="unknown">ארנון פרידמן</singer>
+        <writer>ארנון פרידמן</writer>
+        <composer>שירלי אהרון</composer>
+        <album>סימנים ברוח</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר ליפתח</head>
+        <lg number="1" type="stanza">
+          <l>מי הילד שתמיד בורקות שתי עיניו?</l>
+          <l>זה הילד שפותח את שעריו</l>
+          <l>כשהשמש מתעוררת רצה אליו,</l>
+          <l>מחייכת לו ומאירה תלתליו.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מבוקר ועד ערב רגע אחד לא נח</l>
+          <l>הוא מתרוצץ בלי הרף הכל להספיק מוכרח</l>
+          <l>וכשעולה ירח מלטף את הילד הרך</l>
+          <l>הוא בנפשי נוגע ואת לבבי יפתח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ילד העולם כולו פרוש לרגליו</l>
+          <l>אוצרות קטנים קומץ לי בשתי ידיו</l>
+          <l>מלמד אותי לשמוח ומחדש</l>
+          <l>לאהוב בלי לפחד להיות שוב חלש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מבוקר ועד ערב רגע אחד לא נח</l>
+          <l>הוא מתרוצץ בלי הרף הכל להספיק מוכרח</l>
+          <l>וכשעולה ירח מלטף את הילד הרך</l>
+          <l>הוא בנפשי נוגע ואת לבבי יפתח</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הוא נרדם לו ואני יורד לאסוף</l>
+          <l>משחקים של ילד שנותרו על החוף</l>
+          <l>חיילים מפלסטיק ערמת קוביות</l>
+          <l>כשתהיה גדול כבר לא יהיו מלחמות...(אינשאללה)</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מבוקר ועד ערב רגע אחד לא נח</l>
+          <l>הוא מתרוצץ בלי הרף הכל להספיק מוכרח</l>
+          <l>וכשעולה ירח מלטף את הילד הרך</l>
+          <l>הוא בנפשי נוגע ואת לבבי יפתח</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

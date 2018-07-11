@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יורי וריקה</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יורי וריקה</head>
+        <lg number="1" type="stanza">
+          <l>ישר מלווינגרד למיטת סוכנות בטבריה</l>
+          <l>ולביטוח הלאומי</l>
+          <l>בלשכת התעסוקה יש עבודה בזבל</l>
+          <l>וגם הזבל לאומי</l>
+          <l>הוועדים הם כמו ברוסיה</l>
+          <l>אבל הכאב הוא מכאן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יורי וריקה, יורי וריקה</l>
+          <l>עוד ינסו בחו"ל</l>
+          <l>יורי וריקה, יורי וריקה</l>
+          <l>חיים על זמן שאול בתיסכול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מרכז "קליטה קשה"</l>
+          <l>הם רבו עם שני כייסים</l>
+          <l>שלא ידעו על מה רבים</l>
+          <l>עכשיו עם הכינור</l>
+          <l>הם עומדים בז'בוטינסקי</l>
+          <l>ומנגנים לאלוהים</l>
+          <l>כל הצלילים מאמא רוסיה</l>
+          <l>אבל הכאב שייך לכאן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יורי וריקה, יורי וריקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שאני עמך</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>פנינה אבני</writer>
+        <composer>צבי אבני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שאני עמך</head>
+        <lg number="1" type="stanza">
+          <l>שאני עמך במחול במחול</l>
+          <l>הלהב בי כל נים שרדם</l>
+          <l>תן ואשכר מאישי</l>
+          <l>ישוב וירון בי הדם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תן ואציתה בי שוב</l>
+          <l>אור שנגה והועם, הועם</l>
+          <l>תן ואעירה הקול</l>
+          <l>בי התנגן ונדם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הב לנפשי, לנפשי הכנף</l>
+          <l>זו נשאתני אל על</l>
+          <l>שגבני לשחק, לשחק ביעף</l>
+          <l>שאני עמך במחול.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

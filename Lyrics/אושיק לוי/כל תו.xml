@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל תו</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>דידי שחר</writer>
+        <composer>דידי שחר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל תו</head>
+        <lg number="1" type="stanza">
+          <l>קמטים שרשם על פנייך הזמן</l>
+          <l>אני מכיר, מכיר בך כל תו</l>
+          <l>דאגה שחלפה והשאירה סימן</l>
+          <l>אני מכיר, מכיר בך כל תו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וקוים שמתח לעינייך הצחוק</l>
+          <l>ואיך את יפה כשנרדמת עמוק</l>
+          <l>בדיוק כמו עכשיו</l>
+          <l>אני מכיר בך כל תו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פרטים שאוהבת כאלה שלא</l>
+          <l>אני מכיר, מכיר בך כל תו</l>
+          <l>מתחברים מחברים את הקסם כולו</l>
+          <l>אני מכיר, מכיר בך כל תו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>טיפות נמשים שהשמש טיפטף</l>
+          <l>אני מכיר, מכיר בך כל תו</l>
+          <l>כשני יובלים אל מורד הכתף</l>
+          <l>אני מכיר, מכיר בך כל תו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

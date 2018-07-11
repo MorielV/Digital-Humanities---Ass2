@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שאלתיאל קוואק</title>
+        <singer classification="unknown">אורית ירון</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שאלתיאל קוואק</head>
+        <lg number="1" type="stanza">
+          <l>אני עף ויודע גם לשחות</l>
+          <l>שואל מדוע זה דווקא כך</l>
+          <l>כי אני ברווז סקרן כל כך</l>
+          <l>ואם תשיר לי שיר</l>
+          <l>ארקוד, אקפוץ, ארחף באוויר</l>
+          <l>כדי שתשמח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בין טיפות המים</l>
+          <l>טוב לי כאן כפליים</l>
+          <l>אני קצת מתעכב</l>
+          <l>כי סתם אני שוכח</l>
+          <l>מבין טיפות המים</l>
+          <l>רואים את השמיים</l>
+          <l>אני פה מחכה</l>
+          <l>עד שיצא ירח</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לה לה לה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בין טיפות המים</l>
+          <l>נהדר כפליים</l>
+          <l>עוד מעט אבוא</l>
+          <l>בין טיפות המים</l>
+          <l>נהדר כפליים</l>
+          <l>אבל אני כבר פה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

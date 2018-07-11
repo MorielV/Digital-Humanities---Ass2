@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בין הטוב והרע</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>אביהו מדינה</composer>
+        <album>צליל מיתר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בין הטוב והרע</head>
+        <lg number="1" type="stanza">
+          <l>אמרת לי שאת כה אוהבת</l>
+          <l>שאני היקר לך בחלד</l>
+          <l>שתלכי אחרי כעיוורת</l>
+          <l>אם אקח את ידך המושטת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אמרת כי טעית וסלחתי</l>
+          <l>שאת רק בת אדם והבנתי</l>
+          <l>שלטעות זו חולשה אנושית</l>
+          <l>ולמחול מעלה אלוהית</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אך מתי כבר תבחיני</l>
+          <l>בין הטוב והרע ותביני</l>
+          <l>אני לא אלוהים לא אינני</l>
+          <l>אני רק בן אדם אוהב הנני</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אמרת כי אמת את דוברת</l>
+          <l>ועל מה שהיה מצטערת</l>
+          <l>התסלח לי הפעם שואלת</l>
+          <l>אם אומר כן תהי מאושרת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מול אותן הדמעות בעינייך</l>
+          <l>חיש נמס ממתק שפתייך</l>
+          <l>מאבד את ראשי וחושי</l>
+          <l>ועוטף את כולך בזרועותי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אך מתי כבר תבחיני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

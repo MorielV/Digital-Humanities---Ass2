@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה טהורה</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>דני שושן</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה טהורה</head>
+        <lg number="1" type="stanza">
+          <l>היתה בינינו אהבה טהורה</l>
+          <l>לך נתתי את הכל נערה</l>
+          <l>לא שכחתי מעולם את יום הולדתך</l>
+          <l>את היית מלכתי, לא חסכתי ממך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אך את הלכת בדרך זרה</l>
+          <l>נשמתך מכרת לשטן הרע</l>
+          <l>שברתי חסכונות, ניסיתי הכל</l>
+          <l>מכרתי את רכושי כמה אני יכול</l>
+          <l>נותרתי בלי דבר מה כבר הוא העול.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היו חלומות ורודים ויפים</l>
+          <l>בלילות אהבה, בתום נעורים</l>
+          <l>בנינו בחול ארמונות זהב</l>
+          <l>נשבענו זה לזו כל החיים נאהב.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אך את הלכת בדרך זרה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

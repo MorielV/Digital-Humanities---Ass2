@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה גדולה</title>
+        <singer classification="female singer">אתי אנקרי</singer>
+        <writer>אתי אנקרי</writer>
+        <composer>אתי אנקרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה גדולה</head>
+        <lg number="1" type="stanza">
+          <l>הו אהבה גדולה שלי</l>
+          <l>ראיתי את הבוקר</l>
+          <l>הו אהבה גדולה שלי</l>
+          <l>לקום איתך זה אושר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תגיד לי, האם אתה שמח</l>
+          <l>כמו שאני שמחה?</l>
+          <l>תגיד לי, האם אתה שמח</l>
+          <l>כמו שאני שמחה?</l>
+          <l>להיות איתך....</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הו אהבה גדולה שלי</l>
+          <l>הלב שלך כמו מים</l>
+          <l>הו אהבה גדולה שלי</l>
+          <l>יש מלך בשמיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תגיד לי....</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הו אהבה גדולה שלי</l>
+          <l>כמה מלא החדר</l>
+          <l>כשפניך מאירות</l>
+          <l>אז לראשי יש כתר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תגיד לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

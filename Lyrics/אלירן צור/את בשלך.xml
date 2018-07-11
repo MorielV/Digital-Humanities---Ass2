@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את בשלך</title>
+        <singer classification="unknown">אלירן צור</singer>
+        <writer>רמי עזרא</writer>
+        <composer>אלירן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את בשלך</head>
+        <lg number="1" type="stanza">
+          <l>שוב מחפש אותך הלב מתמלא געגוע </l>
+          <l>איך את עזבת אותי קמת והלכת</l>
+          <l>אני עוד שואל כאן מדוע היו פה ימים טובים</l>
+          <l>חשבתי תמיד רק עלייך היום אני כאן </l>
+          <l>מחפש את התשובות ורץ כל הדרך אלייך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואת בשלך מאוהבת כל כך </l>
+          <l>שוכחת את מה שעברנו ליבי מבקש </l>
+          <l>אך לא מתייאש להיות במקום שאהבנו </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אהבה היית אלי כל כך קרובה</l>
+          <l>ועכשיו את רחוקה</l>
+          <l>אני קורא אני קורא לך בואי</l>
+          <l>אהבה היית אלי כל כך קרובה</l>
+          <l>ועכשיו את רחוקה</l>
+          <l>אני קורא אני קורא לך בואי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שמעתי קולך מרחוק</l>
+          <l>מיהרתי לראות את פנייך</l>
+          <l>ראיתי אותך מאוהבת כל כך</l>
+          <l>מה אעשה בלעדייך לקחתי רגלי חזרה</l>
+          <l>אל המקום בו הלכתי היום אני כאן </l>
+          <l>מחפש את את התשוובה </l>
+          <l>לשכוח את מה שעברתי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את בשלך מאוהבת כל כך </l>
+          <l>שוכחת את מה שעברנו </l>
+          <l>ליבי מבקש אך לא מתייאש</l>
+          <l>להיות במקום שאהבנו </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אהבה היית אלי כל כך קרובה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,38 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סובו ציון</title>
+        <singer classification="unknown">אפרים שרייבר</singer>
+        <writer>עממי</writer>
+        <composer>אפרים שרייבר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סובו ציון</head>
+        <lg number="1" type="stanza">
+          <l>סובו ציון והקיפוה, סיפרו מיגדליה!</l>
+          <l>שיתו ליבכם לחילה פסגו ארמנותיה</l>
+          <l>למען תספרו לדור אחרון:</l>
+          <l>כי זה אלוהים אלוהינו</l>
+          <l>עולם ועד.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התארגנות</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התארגנות</head>
+        <lg number="1" type="stanza">
+          <l>הבערנו מדורה זרדי אלה ותות </l>
+          <l>הקמנו מאהל וערכנו מפקד </l>
+          <l>ושתינו מלוא, מלוא מימיה וכד </l>
+          <l>השלמנו ציוד ותיקנו חגור </l>
+          <l>והיצבנו שומרים להבריח מגור </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ליד כוכב הצפון </l>
+          <l>בלי הלל ומכתם </l>
+          <l>גילינו המון </l>
+          <l>המון כוכבים של סתיו </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ניתקנו את הקרב </l>
+          <l>ספרנו אבדות </l>
+          <l>עודדנו שני פצועים </l>
+          <l>פצועים הם קל מאוד </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הבערנו מדורה זרדי אלה ותות </l>
+          <l>מצאנו מקום למרפאה </l>
+          <l>מקום לאלונקות </l>
+          <l>אך לא מקום שהקצינים </l>
+          <l>יוכלו שמה לבכות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום אחד יעבור הזמן</title>
+        <singer classification="unknown">איתמר רוטשילד</singer>
+        <writer>איתמר רוטשילד</writer>
+        <composer>איתמר רוטשילד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום אחד יעבור הזמן</head>
+        <lg number="1" type="stanza">
+          <l>יום אחד יעבור הזמן</l>
+          <l>וניזכר בזמן הזה</l>
+          <l>יום אחד יעבור הזמן</l>
+          <l>וניזכר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בחדר שבו שכבת על הגב</l>
+          <l>בתקופה שהיה לי את זה</l>
+          <l>אולי געגוע צובט מן הסתם יתעורר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יום אחד יעבור הזמן</l>
+          <l>יום אחד יעבור הזמן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נביט מסביב ומה שם נראה?</l>
+          <l>האם אהובים נגלה?</l>
+          <l>אולי געגוע צובט מן הסתם יתעורר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בחדר שבו שכבת על הגב</l>
+          <l>בתקופה שהיה לי את זה</l>
+          <l>אולי געגוע צובט מן הסתם יתעורר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

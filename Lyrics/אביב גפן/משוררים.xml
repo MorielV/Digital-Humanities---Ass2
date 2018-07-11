@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משוררים</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משוררים</head>
+        <lg number="1" type="stanza">
+          <l>משוררים מעבירים את החיים</l>
+          <l>בצורה כואבת</l>
+          <l>נופלים אל תוך בורות שהם עצמם חופרים</l>
+          <l>משהו לא מצליח הם מתחילים בנפילהה</l>
+          <l>הם לא יוצאים וישר נעזרים בשתייה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>משוררים מעדיפים את החיים בצורה הישנה</l>
+          <l>עם העלים הירוקים אפשר בקלות לראות</l>
+          <l>את היונה הלבנה</l>
+          <l>משהו מפריע , הם שואלים את עצמם מה</l>
+          <l>הם לא מוצאים וישר נעזרים בשתייה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ללא שום ילד</l>
+          <l>ללא בית ואישה</l>
+          <l>הם לבדם</l>
+          <l>רק הם והשתייה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>משוררים</l>
+          <l>מעבירים את החיים בצורה כואבת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

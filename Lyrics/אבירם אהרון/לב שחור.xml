@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לב שחור</title>
+        <singer classification="unknown">אבירם אהרון</singer>
+        <writer>עטרה גלינסקי</writer>
+        <composer>אבירם אהרון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לב שחור</head>
+        <lg number="1" type="stanza">
+          <l>רוצה לצעוק, רוצה לבכות,</l>
+          <l>לצאת מתוך הסערה הזאת, </l>
+          <l>גופי עולה בלהבה, </l>
+          <l>ליבי בוער מאהבה</l>
+          <l>ואין לי תקווה,</l>
+          <l>ואת וצוחקת </l>
+          <l>כשאני נשרף מאהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לב לב, לב שחור,</l>
+          <l>אולי תקל על כאבי,</l>
+          <l>אין לי כח עוד לסבול , </l>
+          <l>אני ממש חבול... </l>
+          <l>אלוהים עשה לי נס</l>
+          <l>שכל זה לא יגמר </l>
+          <l>הלב שלי לא ישבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רואה אותך עוברת ברחוב,</l>
+          <l>והכל בי מתהפך.</l>
+          <l>ואני משתגע , החיים שלי כמו תהום.</l>
+          <l>אין עוד רגשות, הכל כבה מזמן </l>
+          <l>כלום כבר לא נשאר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לב לב, לב שחור...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הביטי אייך, היום עלי חשך </l>
+          <l>והלילה עוד נמשך, ולא נותר</l>
+          <l>עוד כוח את הזמן למשוך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

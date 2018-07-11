@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שרפה לי את הלב</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>מאקיס דאלקס</writer>
+        <composer>מאקיס דאלקס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שרפה לי את הלב</head>
+        <lg number="1" type="stanza">
+          <l>אני לא יודע עלייך הכל</l>
+          <l>פוחד להתאהב עוד הפעם וליפול</l>
+          <l>הפצע עדיין פתוח נשאר</l>
+          <l>לאהוב מחדש לא חשוב לי כבר</l>
+          <l>הפצע עדיין פתוח נשאר</l>
+          <l>לאהוב מחדש לא חשוב לי כבר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גם היא היתה כמוך יפה</l>
+          <l>אהבתי אותה והאמנתי לה</l>
+          <l>אף פעם לא חיכיתי לכזו הפתעה</l>
+          <l>שרפה לי את הלב ובשקט הלכה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חייתי בתקווה שהצפע יתרפא</l>
+          <l>לא פייר מצידה לסבול לא יפה</l>
+          <l>אני לא בטוח אם שכחתי אותה</l>
+          <l>זה יהיה לי קשה היא אהבה ראשונה</l>
+          <l>אני לא בטוח אם שכחתי אותה</l>
+          <l>זה יהיה לי קשה היא אהבה ראשונה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גם היא היתה כמוך יפה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכל מכתוב</title>
+        <singer classification="unknown">אופיר חדד</singer>
+        <writer>שי חגי</writer>
+        <composer>ברק רוני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכל מכתוב</head>
+        <lg number="1" type="stanza">
+          <l>את כל הזמן חושבת</l>
+          <l>בלילות את לא נרדמת</l>
+          <l>משנה את הכללים של המשחק</l>
+          <l>רואה הכל כמו סרט</l>
+          <l>לפעמים את גם גורמת</l>
+          <l>להכל להיראות כה מפוברק</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בגינה שלך שמת פתק</l>
+          <l>שעליי את רק חושבת</l>
+          <l>רק חבל ששמרת את זה בסוד</l>
+          <l>תגידי איזה קסם</l>
+          <l>את עושה עלי בעצם</l>
+          <l>שעליי כבר יעבוד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הכל מכתוב, הכל מכתוב</l>
+          <l>מה שתעשי כבר לא חשוב</l>
+          <l>גם אם תשתני, אותי לא תשני</l>
+          <l>גם לא את גלגל המזלות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה נשאר עוד להסתיר</l>
+          <l>באהבה מסוג נדיר</l>
+          <l>שהיא באה והולכת לא צפויה</l>
+          <l>השקעתי מאמץ אדיר</l>
+          <l>אהבתנו לא נתיר</l>
+          <l>נדאג שהיא תהיה יותר בנויה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא סתם רצינו שנינו</l>
+          <l>לשנות את מזלנו</l>
+          <l>להוציא את הרע מהמשחק</l>
+          <l>ולפעמים שכחנו</l>
+          <l>את עצמנו אז ברחנו</l>
+          <l>וגילינו שהכל נשחק.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הכל מכתוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

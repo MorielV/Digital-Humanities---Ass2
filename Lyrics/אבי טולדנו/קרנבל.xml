@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קרנבל</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>שמרית אור</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קרנבל</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>עוד ועוד נוסיף לצעוד בקרנבל.</l>
+          <l>עוד שנה ועוד שנה,</l>
+          <l>נראים כמו מתוך תמונה של קרנבל.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לפעמים אנו משנים פנים,</l>
+          <l>מתכסים במסכות עצובות או משמחות,</l>
+          <l>יש בינינו מוקיונים, אדונים ואביונים,</l>
+          <l>יש פוסעים על חבל דק, רק לשמור על המשחק,</l>
+          <l>הם עושים זאת כבר הרבה שנים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עוד ועוד נוסיף לצעוד...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לפעמים מכוונים למטרה</l>
+          <l>שאינה תמיד ברורה, או שינתה פתאום צורה,</l>
+          <l>לפעמים לבושים מדים, לפעמים פושטים בגדים,</l>
+          <l>יש ימים שנדלקים בעינינו זיקוקים</l>
+          <l>ותקווה תמה של ילדים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עוד ועוד נוסיף לצעוד...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>יש כמה מאושרים, יש כמה משוררים,</l>
+          <l>מפריחים, כמו יונים, חלומות לעננים,</l>
+          <l>יש פוסעים על חבל דק, רק לשמור על המשחק -</l>
+          <l>ויש אלה שפתאום נושרים.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>עוד ועוד נוסיף לצעוד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה הזמן 2</title>
+        <singer classification="male singer">אדי בטלר</singer>
+        <writer>אוסנת צבאג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה הזמן</head>
+        <lg number="1" type="stanza">
+          <l>זה הזמן להתאחד עם כל הנשמה</l>
+          <l>זה הרגע, זה הזמן</l>
+          <l>It's now or never </l>
+          <l>זה הזמן לא לפחד ולפתוח את הלב</l>
+          <l>Raise your hand </l>
+          <l>and pray for love together</l>
+          <l>בתוך לבי עכשיו אני יודע</l>
+          <l>שרק אהבה תצית הלהבה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Together we are one</l>
+          <l>תקווה בלב עולה</l>
+          <l>I know that we, we can make it if we try</l>
+          <l>Look into your soul </l>
+          <l>Listen to your heart</l>
+          <l>אוהב אותך לעד </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה הזמן להתעורר</l>
+          <l>לעולם יפה יותר</l>
+          <l>עם אהבה גדולה בלב לגעת </l>
+          <l>זה הזמן להתקרב</l>
+          <l>אין עוד פחד מכאב</l>
+          <l>אוהב אותך עד אובדן הדעת</l>
+          <l>בתוך ליבי עכשיו אני יודע</l>
+          <l>בגוף אחד נצעד</l>
+          <l>אני שלך לעד </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>Together we are one</l>
+          <l>תקווה בלב עולה</l>
+          <l>I know that we, we can make it if we try</l>
+          <l>Look into your soul</l>
+          <l>Listen to your heart</l>
+          <l>בואי ונתחיל כמו יום חדש</l>
+          <l>שוב נוגע בך כולי נרגש</l>
+          <l>עוצם עיני, חי את החלום</l>
+          <l>זה הרגע</l>
+          <l>זה הזמן</l>
+          <l>זה היום </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>Together we are one</l>
+          <l>תקווה בלב עולה</l>
+          <l>I know that we, we can make it if we try</l>
+          <l>Look into your soul</l>
+          <l>Listen to your heart</l>
+          <l>אוהב אותך לעד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

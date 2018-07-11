@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבשלום</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אורי זוהר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבשלום</head>
+        <lg number="1" type="stanza">
+          <l>יום אחד, יום אחד,</l>
+          <l>שם נולד לטייל ביער,</l>
+          <l>ורקמה מחוטים של זהב בן מלך קטן,</l>
+          <l>אם חורגת וסוס לבן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יום אחד, יום אחד</l>
+          <l>בית קט ונפתח השער...</l>
+          <l>נסיכה עייפה נרדמה על קרן של אור,</l>
+          <l>בא אורח על סוס שחור.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>למה לא, למה לא עכשיו,</l>
+          <l>מה שבטח יבוא רק מחר.</l>
+          <l>למה לא, למה לא עכשיו</l>
+          <l>מה שבטח יבוא מחר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא היה, לא היה</l>
+          <l>סוס לבן, נסיכה ביער</l>
+          <l>לא היו אגדות מעולם היה רק חלום</l>
+          <l>לא באושר, אך עד היום</l>
+          <l>לא היה לא היה שלום.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>למה לא, למה לא עכשיו...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אבשלום, אבשלום</l>
+          <l>כמו חלום, כמו חלום בקיץ</l>
+          <l>למה לא, למה לא, למה לא יבוא כבר עכשיו</l>
+          <l>מה שבטח יבוא מחר.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

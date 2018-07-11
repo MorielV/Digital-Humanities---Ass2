@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלושה קופים</title>
+        <singer classification="unknown">אסי אשד</singer>
+        <writer>גלעד ערמון</writer>
+        <composer>אסי אשד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלושה קופים</head>
+        <lg number="1" type="stanza">
+          <l>כשאתה לא מקשיב </l>
+          <l>אתם גם לא יכול לשמוע </l>
+          <l>לכולם אתה תכאיב </l>
+          <l>גם אם לא תרצה לפגוע </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גם אם תסגור עיניים ותקווה </l>
+          <l>זה לא יהפוך קיים </l>
+          <l>ולמרות עיניים סגורות </l>
+          <l>ההווה לא הופך פתאום מושלם </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם תתנהג כמו הקוף הראשון </l>
+          <l>לפני שתרגיש יקרה פה אסון </l>
+          <l>אם תתנהג כמו הקוף השני </l>
+          <l>זה יותר מסוכן, עד כדי קטלני </l>
+          <l>אם תתנהג כמו הקוף השלישי </l>
+          <l>השטן ייקח את זה באופן אישי </l>
+          <l>אם גם תשמע, גם תראה וגם תדבר </l>
+          <l>העולם יהפוך למקום טוב </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם ראית או שמעת </l>
+          <l>זה היה פשע לא להגיד </l>
+          <l>כאילו חטאת , פגעת </l>
+          <l>רק לחשוב על זה מוציא לי ת'וריד </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם תתנהג כמו הקוף הראשון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

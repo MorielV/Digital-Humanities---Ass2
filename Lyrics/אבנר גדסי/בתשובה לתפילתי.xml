@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בתשובה לתפילתי</title>
+        <singer classification="male singer">אבנר גדסי</singer>
+        <writer>אילן גולדהירש</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בתשובה לתפילתי</head>
+        <lg number="1" type="stanza">
+          <l>ימים רבים חיכיתי לך</l>
+          <l>ומר דמותך לא ידעתי</l>
+          <l>עיני למעלה נשאתי</l>
+          <l>וליבי לחש תפילה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לילות מילאו את לילותי</l>
+          <l>הזמן חלף בלי תוחלת</l>
+          <l>פתאום היית שם בדלת</l>
+          <l>מחכה לראות עיני</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בתשובה לתפילתי</l>
+          <l>מישהו שמע אותי</l>
+          <l>המלאך המשדך</l>
+          <l>חלונו פתח</l>
+          <l>נתקבלה תפילתי</l>
+          <l>ושלחו אותך</l>
+          <l>מעכשיו את שלי </l>
+          <l>ואני שלך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נפשי מאושר לא אדע</l>
+          <l>לחיות בתוך זרועותייך</l>
+          <l>ושוב תפילה על שפתי</l>
+          <l>אבל זו תפילת תודה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בתשובה לתפילתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

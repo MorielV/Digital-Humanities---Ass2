@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פתאום זה קרה</title>
+        <singer classification="unknown">איתמר רוטשילד</singer>
+        <writer>איתמר רוטשילד</writer>
+        <composer>איתמר רוטשילד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פתאום זה קרה</head>
+        <lg number="1" type="stanza">
+          <l>ערב הסתיו </l>
+          <l>צאת השלכת </l>
+          <l>בלילה רחב </l>
+          <l>היא מהלכת </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רוח לא זז </l>
+          <l>ת'רחוב היא חותכת </l>
+          <l>שותקת </l>
+          <l>ואז </l>
+          <l>מחייכת </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>פתאום זה קרה </l>
+          <l>נעורים התפרצו לי אל תוך הדירה </l>
+          <l>ועיניים צחקו לי </l>
+          <l>מצאתי צרה </l>
+          <l>והיא מצאה חן בעיני נורא </l>
+          <l>פתאום זה קרה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמה קרובה </l>
+          <l>ככה מתרחקת </l>
+          <l>אין לי רגע שלווה </l>
+          <l>אין לי שקט </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>המלחמה </l>
+          <l>מביאה לה ת'חשק </l>
+          <l>לא נותר לי אלא </l>
+          <l>להחזיר לה בנשק שלה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>פתאום זה קרה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כל כך מדברת את כל השפות </l>
+          <l>ועוד את כל המילים היפות </l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>כל כך מדברת את כל השפות </l>
+          <l>כל המילים יפות </l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>פתאום זה קרה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

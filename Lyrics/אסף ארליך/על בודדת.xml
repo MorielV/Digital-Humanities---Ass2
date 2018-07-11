@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>על בודדת</title>
+        <singer classification="male singer">אסף ארליך</singer>
+        <writer>אסף ארליך</writer>
+        <composer>אסף ארליך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>על בודדת</head>
+        <lg number="1" type="stanza">
+          <l>על בודדת, באמצע העיר הרדופה שלו </l>
+          <l>נתקל בפרצופים שנראים לו כמעט מוכרים </l>
+          <l>את אומרת להחזיק בשתי ידיים את מי שכבר הלך </l>
+          <l>ולשחרר, לשחרר, לשחרר, רק כשהוא חוזר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לעזוב זה לא טוב, לא טוב לך </l>
+          <l>לעזוב זה לא טוב, לא טוב לך </l>
+          <l>כמו לקפוץ מהבניין הכי נמוך בעיר </l>
+          <l>כמו לאבד בנשימה אחת כל כך הרבה אוויר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב על בודדת באמצע הרחוב הרציני הזה </l>
+          <l>טבליות ממוקדות בגינה החזיתית החדשה </l>
+          <l>את אומרת להחזיק קרוב את מי שכבר ברח בשתי ידיים </l>
+          <l>ולשחרר, לשחרר, לשחרר, רק כשהוא חוזר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לעזוב זה לא טוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

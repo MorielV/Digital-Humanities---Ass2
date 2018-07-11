@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הסירונית</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הסירונית</head>
+        <lg number="1" type="stanza">
+          <l>היא הולכת כשיורד הגשם</l>
+          <l>לא רוצה לראות אפור נשטפת אל הים</l>
+          <l>באביב חוזרת עם עלי כותרת</l>
+          <l>כמו נופר היא עולה מלמטה שבה לאגם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בכל לילה לעולם לא די לה</l>
+          <l>היא רוקדת שם בכיכר ליד המזרקה</l>
+          <l>הגברים ישירו כשאותה יכירו</l>
+          <l>היא תיקח את אהבתם עמוק לאדמה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>היא עולה אל ים</l>
+          <l>בין הגלים היא מחפשת קורבן אהבתה</l>
+          <l>היא עולה אל ים</l>
+          <l>בין עננים כבדים של גשם מחפשת את טרפה</l>
+          <l>כמו סירונית בים פרוע גם את הרוח היא הרגה!</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בכל פעם שמכה הרעם</l>
+          <l>היא חוזרת ללבן עם נר של נשמה</l>
+          <l>באגם רוחצת ברגעים של עצב</l>
+          <l>כי אהבתה טמונה עמוק באדמה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>היא עולה אל ים</l>
+          <l>בין הגלים היא מחפשת קורבן אהבתה</l>
+          <l>היא עולה אל ים</l>
+          <l>בין עננים כבדים של גשם מחפשת את טרפה</l>
+          <l>כמו סירונית בים פרוע גם את הרוח היא הרגה!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

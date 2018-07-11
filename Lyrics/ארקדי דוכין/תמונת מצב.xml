@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תמונת מצב</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>שלום חנוך</writer>
+        <composer>שלום חנוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תמונת מצב</head>
+        <lg number="1" type="stanza">
+          <l>השמיים מאיימים</l>
+          <l>השמעת רעמים</l>
+          <l>הברקים אינם נראים בימים</l>
+          <l>והגשם מתאפק</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>העיניים בחלון</l>
+          <l>כבר יומיים הדרקון</l>
+          <l>מחשבות אינן נותנות לי לישון</l>
+          <l>והחבל מתהדק</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ונדמה לי שבכיתי</l>
+          <l>ונדמה לי שעכשיו</l>
+          <l>מצטיירת לי</l>
+          <l>מתבהרת לי</l>
+          <l>תמונת מצב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>גוף השיש החלק</l>
+          <l>חום שפתייך מנושק</l>
+          <l>חסרונך אינו שייך למרחק</l>
+          <l>ואני עוד מתפלא</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ובינתיים ציפורים הגיטרה ושירים</l>
+          <l>הימים פה נעימים בבקרים</l>
+          <l>והשקט מתמלא</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ונדמה לי שבכיתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

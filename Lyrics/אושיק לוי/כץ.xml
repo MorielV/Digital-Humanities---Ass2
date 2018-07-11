@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כץ</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כץ</head>
+        <lg number="1" type="stanza">
+          <l>כץ זה יעלה לך ביוקר</l>
+          <l>כבר חמש שנים שלא ראית בוקר</l>
+          <l>היום אם ההיא ומחר אם אותה</l>
+          <l>קופץ ממיטה למיטה, הו...לה לה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כץ אתה פשוט האויב הגבר</l>
+          <l>כבר חמש שנים שלא פתחת ספר</l>
+          <l>את כל הנשים הוא יודע מראש</l>
+          <l>אצל כץ הנמרץ שום דבר לא קדוש</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כץ תזרוק איזה עצם</l>
+          <l>כץ אתה אוהב יותר מדי</l>
+          <l>די כץ, די כץ - די כץ די</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כץ אתה קוטף אותו כמו פרח</l>
+          <l>ועוזב אותן זרוקות בצד בדרך</l>
+          <l>לוקח הכל מה שבא לו ממול</l>
+          <l>כץ הוא שפן בעורו של חתול</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כץ אולי תפסיק לירוק לשקות</l>
+          <l>ולחברים אתה משאיר ירוקת</l>
+          <l>חרשת את כל היפות שבעיר</l>
+          <l>הזורעים בדמעה גם בכו בקציר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כץ תזרוק איזה עצם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

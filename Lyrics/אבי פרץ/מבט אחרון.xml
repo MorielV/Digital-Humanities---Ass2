@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מבט אחרון</title>
+        <singer classification="male singer">אבי פרץ</singer>
+        <writer>גבי דהאן</writer>
+        <composer>גבי דהאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מבט אחרון</head>
+        <lg number="1" type="stanza">
+          <l>השביל שמוביל </l>
+          <l>אל שדרת העצים </l>
+          <l>מעלה בי זכרונות </l>
+          <l>מעורפלים ומכוסים </l>
+          <l>באבק של השנים </l>
+          <l>שחלפו ולא ישובו </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מבט אחרון ששלחתי </l>
+          <l>אל המקום שעזבתי </l>
+          <l>געגועים שחשתי </l>
+          <l>החזירוני שוב לכאן </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני עוד זוכר </l>
+          <l>רגעים כה יפים </l>
+          <l>התמונות שוב עולות </l>
+          <l>ואותי הן מחזירות </l>
+          <l>אל אותם הימים </l>
+          <l>שחלפו ולא ישובו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אסוף את השברים</title>
+        <singer classification="male singer">אורי זר</singer>
+        <writer>שרה אנג'ל</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אסוף את השברים</head>
+        <lg number="1" type="stanza">
+          <l>רואה אותך יושב עטוף בחשיכה </l>
+          <l>עיניך כבויות </l>
+          <l>סיגריה עוד סיגריה נשמטת מאצבעות רפויות </l>
+          <l>כן אתה אליך אני מדבר </l>
+          <l>מנגינה רחוקה וכינור נוגה </l>
+          <l>אתה שהיית נשר דואה </l>
+          <l>מתרסק בנחיתה על אספלט של שקרים </l>
+          <l>נו לך עכשיו אסוף את השברים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הושט יד ויושטו לך מאה בחזרה </l>
+          <l>ואף אחד לא ישאיר אותך לבד באפילה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה מביט לתוך הבטן רואה עיניים לא שלך </l>
+          <l>והכעס שמות רבים לו גם השם שלך </l>
+          <l>והסכין ננעץ </l>
+          <l>אקורדיון מנגן מתיבה צבעונית עת הסם בורידים מחולל </l>
+          <l>פעם דהרו בך פרשים ואתה סוס בודד </l>
+          <l>נו לך עכשיו אסוף את השברים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הושט יד... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תסתכל לאישונים תראה שהעבר שלך מצהיב </l>
+          <l>והעתיד מחוק </l>
+          <l>הערב רד על בוקר כשהשמש מבחוץ </l>
+          <l>תוף בודד זו לוויה בינתיים לא לא לא שלך </l>
+          <l>אז נער את התקווה ערבב עם אמונה </l>
+          <l>ולך עכשיו אסוף את השברים </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הושט יד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

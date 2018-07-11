@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני הולכת</title>
+        <singer classification="male singer">אסף ארליך</singer>
+        <writer>אסף ארליך</writer>
+        <composer>אסף ארליך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני הולכת</head>
+        <lg number="1" type="stanza">
+          <l>יש תקווה ויש גם תאונה</l>
+          <l>ומישהו שכח לסגור את הברז באמצע הלילה</l>
+          <l>הוא כמו שפן שסופר זיונים</l>
+          <l>הוא דורך עכשיו</l>
+          <l>הוא דופק את כל מי שמפריע</l>
+          <l>ואין לי סיבה אין לי יומרה</l>
+          <l>אני רק מנסה לחיות בדרך המהירה</l>
+          <l>ועם טיפת ניפוח אני גדול עכשיו</l>
+          <l>אני מלך הפילפול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהובתי אל תנסי לגעת</l>
+          <l>הוא דופק את מה שזז מולו כאילו זו עוד דלת</l>
+          <l>אמרת אני אולי זורמת יותר מידי</l>
+          <l>כאילו אין מחר אני מזדיינת</l>
+          <l>ואתה קרוב אליי זורם בעורקיי</l>
+          <l>אבל לא איכפת לי מי נשאר כשאני הולכת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש תקווה ויש גם תאונה</l>
+          <l>אני אולי אגיע למקום שאף אחד בו לא דרך</l>
+          <l>אני עכשיו צמא</l>
+          <l>אז אשתה את כל המיצים הענוגים שלך</l>
+          <l>אני נשבר מכל העננים ששברו עוד טיפה</l>
+          <l>שהספיקה לי ביום אחר</l>
+          <l>והיום אני שלך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהובתי אל תנסי לגעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

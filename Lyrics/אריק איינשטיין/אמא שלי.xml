@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמא שלי</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמא שלי</head>
+        <lg number="1" type="stanza">
+          <l>יש לי אישה שאוהבת אותי,</l>
+          <l>היא רק שלי.</l>
+          <l>היא מכירה אותי מהתחלה</l>
+          <l>שלי שלה.</l>
+          <l>היא מוכרחה להיות חכמה -</l>
+          <l>אמא שלי</l>
+          <l>ואת השיר אני שר בשבילה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אמא, אמא,</l>
+          <l>את הינקת אותי,</l>
+          <l>את פינקת אותי,</l>
+          <l>את הבאת אותי,</l>
+          <l>אמא,אמא,</l>
+          <l>את פינקת אותי,</l>
+          <l>את הבאת אותי,</l>
+          <l>את.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה ימים שביליתי איתה -</l>
+          <l>אמא שלי.</l>
+          <l>כמה דמעות שמחיתי איתה</l>
+          <l>שלי שלה</l>
+          <l>כמה דברים שגיליתי איתה -</l>
+          <l>אמא שלי</l>
+          <l>כמה תקוות שתליתי איתה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אמא, אמא...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תמיד היית איתי</l>
+          <l>גם כשהייתי לבדי.</l>
+          <l>תמיד אהיה איתך -</l>
+          <l>אמא שלי.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>יש לפעמים שאני בצרות -</l>
+          <l>אמא שלי.</l>
+          <l>את מבינה את זה בין השורות</l>
+          <l>שלי שלך</l>
+          <l>למה דואגת ולא ישנה -</l>
+          <l>אמא שלי.</l>
+          <l>איך זה שאם לא סומכת על בנה?</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אמא, אמא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

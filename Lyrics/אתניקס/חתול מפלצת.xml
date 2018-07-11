@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חתול מפלצת</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>רמי פורטיס</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חתול מפלצת</head>
+        <lg number="1" type="stanza">
+          <l>מי מסתתר מאחורי המסכה?</l>
+          <l>חתול, מפלצת או ילדה יפה?</l>
+          <l>כל בוקר נפגשים בחשמלית</l>
+          <l>מון-אמור-ז'טם אהובתי</l>
+          <l>אני רואה אותך בכל פינה</l>
+          <l>עושה לך סימנים ואין תגובה</l>
+          <l>תראי, אני שבור לחתיכות</l>
+          <l>ובגללך אני עושה שטויות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תשברי, אל תשכחי אותי</l>
+          <l>אני רוצה אותך יקירתי</l>
+          <l>אל תעזבי אל תגמרי אותי</l>
+          <l>אני רוצה אותך יקירתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי מסתתר מאחורי המסכה?</l>
+          <l>חתול, מפלצת או ילדה יפה?</l>
+          <l>כשאת עוברת לידי</l>
+          <l>אני מביט עלייך בחיוך טיפשי</l>
+          <l>מון-שרי-ז'טם אהובתי</l>
+          <l>אני אתן לך כל מה שתרצי</l>
+          <l>די מספיק עם כל המשחקים</l>
+          <l>תראי אני יורד מהפסים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תשברי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

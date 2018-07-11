@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האור בקצה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>יהודה פוליקר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האור בקצה</head>
+        <lg number="1" type="stanza">
+          <l>החיים ילדתי</l>
+          <l>זה סיפור רציני</l>
+          <l>לפעמים אני מת מפחד</l>
+          <l>מהצל של עצמי</l>
+          <l>מכל מה שסביבי</l>
+          <l>יש לפעמים רגעים ונדמה</l>
+          <l>הנה האור בקצה</l>
+          <l>ופתאום זה חושך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וגם את כמו כולם</l>
+          <l>שאיבדו את דרכם</l>
+          <l>תחפשי איזה אור בחושך</l>
+          <l>תתבגרי תשתני</l>
+          <l>הזדקני ותיראי</l>
+          <l>יש לפעמים רגעים שנדמה</l>
+          <l>הנה האור בקצה</l>
+          <l>מפרפר בחושך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל הנרות</l>
+          <l>שהדלקנו בלילה</l>
+          <l>לא יגרשו את החושך הקר הזה</l>
+          <l>כל הרוחות שנשבו כל הלילה</l>
+          <l>לא יכבו את האור בקצה</l>
+          <l>לא יכבו את האור</l>
+          <l>שעולה בבוקר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תחפשי תשאלי</l>
+          <l>וגם את תגלי</l>
+          <l>התשובה עוד נישאת ברוח</l>
+          <l>יש כתובות על הקיר</l>
+          <l>בכיכר של העיר</l>
+          <l>יש לפעמים רגעים שנדמה</l>
+          <l>הנה האור בקצה</l>
+          <l>מהבהב בחושך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כל הנרות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המסע</title>
+        <singer classification="male singer">אוהד חיטמן</singer>
+        <writer>אוהד חיטמן</writer>
+        <composer>אוהד חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המסע</head>
+        <lg number="1" type="stanza">
+          <l>ושוב האבן מתגלגלת</l>
+          <l>מפיסגת ההר צוללת</l>
+          <l>כל חייך מטוטלת</l>
+          <l>עבודה ללא תכלית</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בין איוב לבין קוהלת</l>
+          <l>במסע חסר תועלת</l>
+          <l>והדרך מסורבלת</l>
+          <l>מלאה באפלולית</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אבל די לך לקום</l>
+          <l>ולבקש להילחם</l>
+          <l>על מה שטוב עוד ביקום</l>
+          <l>כשזה בא, זה מנחם</l>
+          <l>שמחה עולה אז בליבך</l>
+          <l>על שהגשמת הבטחה</l>
+          <l>ממשיך ללכת במסע הזה שלך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ועוד האבן מתגלגלת</l>
+          <l>את חייך מנהלת</l>
+          <l>מנסה לשמור גחלת</l>
+          <l>לעבוד מבלי לחדול</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נעשתה לך איוולת</l>
+          <l>עוד לא פתחת איזו דלת</l>
+          <l>אך עדיין מאמין</l>
+          <l>שתגלה עולם גדול</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אבל די לך לקום</l>
+          <l>ולבקש להילחם</l>
+          <l>על מה שטוב עוד ביקום</l>
+          <l>כשזה בא, זה מנחם</l>
+          <l>שמחה עולה אז בליבך</l>
+          <l>על שהגשמת הבטחה</l>
+          <l>ממשיך ללכת במסע הזה שלך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

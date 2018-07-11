@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רגעים ללא מילה</title>
+        <singer classification="unknown">אלי בר קליפה</singer>
+        <writer>אלי בר קליפה</writer>
+        <composer>אלי בר קליפה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רגעים ללא מילה</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים איתה, </l>
+          <l>רגעים ללא מילה. </l>
+          <l>זו מול זה לאט </l>
+          <l>מתיישבים על הספה, </l>
+          <l>לא אומרים דבר </l>
+          <l>ואוסף ממבטה </l>
+          <l>רוח חדשה </l>
+          <l>ונרגע. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לפעמים היא כאן </l>
+          <l>להראות לי את הדרך, </l>
+          <l>לפעמים אולי </l>
+          <l>מעלי היא מרחפת, </l>
+          <l>ויודע כבר </l>
+          <l>שאלי היא מבקשת, </l>
+          <l>כשהיום עבר </l>
+          <l>ואני אליה רץ. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפעמים איתה </l>
+          <l>רגעים ללא שתיקה, </l>
+          <l>מתוך המולה </l>
+          <l>היא יוצאת אלי לאט. </l>
+          <l>בנגיעה אחת </l>
+          <l>מוודא שעוד ישנה </l>
+          <l>ואוסף אותה </l>
+          <l>אלי ונרגע.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לפעמים היא כאן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

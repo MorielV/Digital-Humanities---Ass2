@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא שאת</title>
+        <singer classification="male singer">אלי עידן</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא שאת</head>
+        <lg number="1" type="stanza">
+          <l>אם היית הולכת</l>
+          <l>לא הייתי מוותר</l>
+          <l>כי את כל כך מושכת</l>
+          <l>ויופייך כה מסנוור.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>משהו עוצר אותי</l>
+          <l>אני חושש כשאת אתי,</l>
+          <l>גם טוב וגם כשרע לי,</l>
+          <l>כשאת במיטתי.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה לא שאת אינך טובה אלי,</l>
+          <l>זה רק מפני שזה מהר מידי.</l>
+          <l>זה שלא שאת אינך קרובה לתקוותי.</l>
+          <l>תני לי זמן להתרגל, אולי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם היום זורח</l>
+          <l>זה ודאי גם בזכותך,</l>
+          <l>אף פעם לא שוכח</l>
+          <l>את קולך ומבטך.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>משהו קורה פתאום</l>
+          <l>תגידי לי, זה רק חלום?</l>
+          <l>הכל מאוד מוזר לי</l>
+          <l>בלילה וביום.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה לא שאת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

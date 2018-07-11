@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ההיו</title>
+        <singer classification="male singer">אלי לס</singer>
+        <writer>אלי לס</writer>
+        <composer>אלי לס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ההיו</head>
+        <lg number="1" type="stanza">
+          <l>באוטובוס ירוק </l>
+          <l>חוזר אל הכרך </l>
+          <l>יושב מאחורה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שמש צהובה מעל הר תבור </l>
+          <l>חיילות יפות עם נשק שחור </l>
+          <l>בחור דתי עם בירה ביד </l>
+          <l>תימנייה עם חיית מחמד </l>
+          <l>מבחין בגוש כינים עם דיסקמן חדיש </l>
+          <l>נראה שלא כל כך בטוב הוא מרגיש </l>
+          <l>מן הסתם הפריז בשתייה </l>
+          <l>ופרצופו דומה למימייה של קיא </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>האור תפש זוית קהה חורפית </l>
+          <l>ולי יש את הרוח בתיק </l>
+          <l>מעניין שהחליפה רחוב </l>
+          <l>ההיו פעמים שהיא חשה בטוב איתי?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

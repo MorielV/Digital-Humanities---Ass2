@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סוג של התחלה</title>
+        <singer classification="unknown">אורית אזרח</singer>
+        <writer>אורית אזרח</writer>
+        <composer>אורית אזרח</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סוג של התחלה</head>
+        <lg number="1" type="stanza">
+          <l>ציפור דואה על פני המים </l>
+          <l>היא מתכוונת אל הציד </l>
+          <l>עם הרוח תאזן כנפיים </l>
+          <l>נוגעת...... </l>
+          <l>ושוב חמק נשמט ממקורה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קשה הדרך אך יפה היא </l>
+          <l>כנף לבן ותכול שמים </l>
+          <l>חדה השמש במראת המים </l>
+          <l>קשה היא..... </l>
+          <l>חושפת את גופה מעל טרפה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתוך חלום ריחפתי </l>
+          <l>ואת נפשי נתתי </l>
+          <l>לפגוש בשמש העולה </l>
+          <l>ובחיים ראיתי </l>
+          <l>כשעל ברכיי ירדתי </l>
+          <l>שסוף הוא סוג של התחלה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>האיילה קלה בעמק </l>
+          <l>ומכל רחש נעלמת </l>
+          <l>אני הייתי גם כשלא רציתי </l>
+          <l>נשארתי.... </l>
+          <l>לא פעם במקום יותר מדי </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מתוך חלום ריחפתי.... </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בתוך הצל שקעה השמש </l>
+          <l>מצאה מסתור בין הר לארז </l>
+          <l>ואם הרוח לו יכלה לנוח </l>
+          <l>הייתה היא..... </l>
+          <l>מונעת מיופיו של יום חדש </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>מתוך חלום ריחפתי....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

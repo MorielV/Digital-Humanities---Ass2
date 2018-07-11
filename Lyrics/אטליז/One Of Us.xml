@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>One Of Us</title>
+        <singer classification="band">אטליז</singer>
+        <writer>גיא בן שטרית</writer>
+        <composer>סיון אבלסון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>One Of Us</head>
+        <lg number="1" type="stanza">
+          <l>Listen to the trees stomp through the forest</l>
+          <l>They bend their heads to see you through the clouds</l>
+          <l>You walked into the woods to follow your sorrow</l>
+          <l>But it tricked you down into a swamp</l>
+          <l>Nothing is out there to pull you out</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Please come over here if you’re one of us</l>
+          <l>Don’t cover your ears if you’re one of us</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>The willow keeps your tears inside a safe</l>
+          <l>But it’s dripping through a hole in your heart</l>
+          <l>The water pushes out pain that you buried</l>
+          <l>All your secrets rise and burst through the ground</l>
+          <l>There’s a war inside a fight without sound</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

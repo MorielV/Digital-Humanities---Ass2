@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ראי אני חוזר</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אהוד מנור</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ראי אני חוזר</head>
+        <lg number="1" type="stanza">
+          <l>ראי ראי אני חוזר</l>
+          <l>שמעי שמעי אותי אומר</l>
+          <l>שוב לא אפליג לקצה עולם</l>
+          <l>אין כמותך בלב הים</l>
+          <l>ראי ראי הים זועק</l>
+          <l>שמעי שמעי אותי צוחק</l>
+          <l>שוב לא קוסמים לי הגלים</l>
+          <l>איך לומר זאת במילים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הו הו, הו הו הים לא יברח</l>
+          <l>הו הו, הו הו אני שוב שלך</l>
+          <l>הו הו, הו הו אני אוהב אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ראי ראי אני חום</l>
+          <l>שמעי שמעי ליבי הולם</l>
+          <l>בואי נבנה על שפת הים</l>
+          <l>את ביתנו לעולם</l>
+          <l>ראי ראי הים עייף</l>
+          <l>שמעי שמעי אותו לוטף</l>
+          <l>הוא מתחנן ומתנוצץ</l>
+          <l>שנבוא להתרחץ</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הו הו, הו הו הים לא יברח...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני אוהב אותך</l>
+          <l>אני אוהב אותך</l>
+          <l>אני אוהב אותך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

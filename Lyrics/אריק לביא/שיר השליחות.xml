@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר השליחות</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>אברהם שלונסקי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר השליחות</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>עכשיו אצא רכוב על סוס </l>
+          <l>לרשום שמות של כל אוכלוס </l>
+          <l>על הכביר שבסוסים </l>
+          <l>ואתערב באוכלוסים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אלך, אשמע, אשאל לשמם </l>
+          <l>כביכול רק ככה סתם </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אך אם פתאום, אך אם פתאום </l>
+          <l>אשמע מן שם כזה איום </l>
+          <l>או מגוחך, או מסובך </l>
+          <l>מיד ארשום ולא אשכח </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ולא אשאל לאיזה צורך </l>
+          <l>כל המרוצה וכל הטורח </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה ענינה של המלכות </l>
+          <l>ולי, לצורך השליחות </l>
+          <l>קצוב קצבו כאן לא פחות </l>
+          <l>משני ימים ושני לילות </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>וככה אם יאיר מזל לי </l>
+          <l>את המבוקש ודאי אמצא לי </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>עכשיו אצא רכוב על סוס...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

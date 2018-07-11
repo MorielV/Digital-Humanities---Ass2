@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילדי הישן חלם עלי חלום</title>
+        <singer classification="male singer">אלון לוטרינגר</singer>
+        <writer>יהודה עמיחי</writer>
+        <composer>עומר קליין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילדי הישן חלם עלי חלום</head>
+        <lg number="1" type="stanza">
+          <l>ילדי הישן חלם עלי חלום </l>
+          <l>בעת חלמתי על אבי, עליו השלום </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לך אב חי, ולי אב מת </l>
+          <l>אתה מתחיל ואני רוצה לצאת </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני רחוק מרגש וחוויה </l>
+          <l>כרחוק פחם מן היער שהיה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>גם לך הזמן ייהפך לחוט דק </l>
+          <l>והתיק המתוק יתרחק מן התק </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>המשחק מתחיל: לא להביט מן החלון </l>
+          <l>וזוכה מי שזוכר אחרון</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

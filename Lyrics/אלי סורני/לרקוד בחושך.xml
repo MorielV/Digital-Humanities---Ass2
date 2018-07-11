@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לרקוד בחושך</title>
+        <singer classification="male singer">אלי סורני</singer>
+        <writer>אלי סורני</writer>
+        <composer>אלי סורני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לרקוד בחושך</head>
+        <lg number="1" type="stanza">
+          <l>את הקיץ הזה כבר חשבת על זה,</l>
+          <l>יהיה קשה לעבור בלי אהבה.</l>
+          <l>יהיה קשה אתה אומר לעצמך,</l>
+          <l>תחשוב על הטוב ולא על הרע,</l>
+          <l>האם זה מצליח לך?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לפעמים צריך לעצום עיניים</l>
+          <l>ולא לזכור איפה ומי אתה בכלל.</l>
+          <l>לפעמים צריך לרקוד בחושך</l>
+          <l>ולא לחשוב על מה רצית להיות כשתגדל.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ההורים התקשרו - הם דואגים לך,</l>
+          <l>דברים שהם אמרו מלחיצים אותך,</l>
+          <l>מה יהיה מחר?</l>
+          <l>וכל הזמן אתה אומר לעצמך,</l>
+          <l>תחשוב רק על מה שטוב בשבילך,</l>
+          <l>מתי זה יצליח לך?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לפעמים צריך לעצום עיניים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Take Me</title>
+        <singer classification="female singer">אחינועם ניני</singer>
+        <writer>אחינועם ניני</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Take Me</head>
+        <lg number="1" type="stanza">
+          <l>Take me, take me as I am </l>
+          <l>take me, don't let go my hand </l>
+          <l>take the part of me that strives to reach the light </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>take my hand and lead me through the darkest night </l>
+          <l>hold me, when I'm feeling low </l>
+          <l>hold me, never let me go </l>
+          <l>hold the part of me that fears the setting sun </l>
+          <l>hold my hand and tell of better days to come </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>everyone I know plays games </l>
+          <l>everybody's so untrue </l>
+          <l>when it's over what remains </l>
+          <l>nobody but me and you </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>hold me, when I fall apart </l>
+          <l>hold me, closer to your heart </l>
+          <l>hold the part of me that vibrates when I sing </l>
+          <l>hold me so I'm not afraid of anything </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>everyone I know plays games </l>
+          <l>everybody's so untrue </l>
+          <l>when it's over what remains </l>
+          <l>nobody but me and you </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>so take me, take me as I am </l>
+          <l>take me, don't let go my hand... </l>
+          <l>take the part of me that strives to reach the light </l>
+          <l>take my hand and lead me through the darkest night </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>take me as I am </l>
+          <l>(never let me go...) </l>
+          <l>take me as I am</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

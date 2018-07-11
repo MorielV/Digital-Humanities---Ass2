@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דקה לשש</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>נורית בת-שחר צפריר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דקה לשש</head>
+        <lg number="1" type="stanza">
+          <l>עומד באור מתחת לשעון</l>
+          <l>נשען לי על עמוד נאון</l>
+          <l>הולך לפגוש אותה בשביל מוכר</l>
+          <l>קבענו באותה כיכר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>צועד על המקום ומסתובב</l>
+          <l>עם פרפרים בלב</l>
+          <l>היא לא תבוא היום אני חושש</l>
+          <l>עכשיו  דקה לשש.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא עוזב בלי נשיקה</l>
+          <l>אבל הדרך עוד ריקה</l>
+          <l>הלילה לא תהיה פגישה</l>
+          <l>וכבר שש וחמישה</l>
+          <l>לא עוזב בלי נשיקה</l>
+          <l>תני לי רגע רק דקה</l>
+          <l>אהובתי עוד לא עברה</l>
+          <l>וכבר שש ועשרה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עברה דקה אחת כמו שעה</l>
+          <l>עדיין היא לא מופיעה</l>
+          <l>עומד על המקום ומתייבש</l>
+          <l>היא כבר לא תבוא בשש.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מודד לי אבנים במדרכה</l>
+          <l>לאן היא שוב הלכה</l>
+          <l>עברו להן כבר עוד חמש דקות</l>
+          <l>נמאס לי לחכות.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא עוזב בלי נשיקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

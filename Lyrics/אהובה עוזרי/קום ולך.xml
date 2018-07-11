@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קום ולך</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קום ולך</head>
+        <lg number="1" type="stanza">
+          <l>קום ולך אל האורות בלילה</l>
+          <l>קום וצעד אל יום חדש, רגוע</l>
+          <l>המנגינה ממשיכה</l>
+          <l>מיתר אחד לוחש לך</l>
+          <l>קום ולך אל החיים הממשיכים גם בלעדיך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתמול שונה היית עם חיים בלב</l>
+          <l>היום שדוד נפלת - איך אדם נופל</l>
+          <l>היא רקעה לה, אותך השאירה</l>
+          <l>עזוב, עצוב בצד</l>
+          <l>היא רקעה לה, אותך השאירה</l>
+          <l>עזוב, עצוב אתה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קום ושמע את רחשי הלילה</l>
+          <l>קום וראה אדם צוחק עד דמע</l>
+          <l>הצלילים המתמשכים</l>
+          <l>אל תוך לבך הם זורמים</l>
+          <l>את יום אתמול אתה זוכר</l>
+          <l>דע לך - היא לא תחזור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אתמול שונה היית...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>קום ולך</l>
+          <l>אל האורות בלילה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

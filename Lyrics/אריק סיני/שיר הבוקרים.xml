@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הבוקרים</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>יעקב אורלנד</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הבוקרים</head>
+        <lg number="1" type="stanza">
+          <l>ערבה, ערבה אין קץ,</l>
+          <l>עין הבוקרים תרה:</l>
+          <l>לא ערער, לא דרדר, לא עץ,</l>
+          <l>רוח בא המידברה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זמר הבוקרים יעלה ויבקע</l>
+          <l>על מרחבים אבודים עד אין גמר,</l>
+          <l>ותזרח החמה ותשקע</l>
+          <l>ומוסיף וקולח הזמר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ערבה, ערבה, אלמון,</l>
+          <l>שנות אלפים קמו:</l>
+          <l>הבוקר על גב סוס קדמון</l>
+          <l>בדרכים שנשמו.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הו, הו, הו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שדה בוקר, שדה שלום, העור!</l>
+          <l>סול נתיבות הרה!</l>
+          <l>כי אתה המעוז לדור</l>
+          <l>בן מרדות ובן פרא.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>זמר הבוקרים יעלה ויבקע</l>
+          <l>על רחלים ואילים ועל צמר,</l>
+          <l>ותזרח החמה ותשקע</l>
+          <l>ויוסיף לקלח הזמר.</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ערבה, ערבה, עני!</l>
+          <l>אל יכסך רדם!</l>
+          <l>נחדש נא, את ואני,</l>
+          <l>את ימייך כקדם.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>הו, הו, הו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

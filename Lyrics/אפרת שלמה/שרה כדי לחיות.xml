@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שרה כדי לחיות</title>
+        <singer classification="unknown">אפרת שלמה</singer>
+        <writer>גיל פינץ</writer>
+        <composer>גיל פינץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שרה כדי לחיות</head>
+        <lg number="1" type="stanza">
+          <l>אוהבת את החיים</l>
+          <l>שומרת אמונים</l>
+          <l>לילדי לחברים</l>
+          <l>לדברים החשובים</l>
+          <l>רוצה עוד לאהוב</l>
+          <l>להרגיש מקרוב </l>
+          <l>עצב גם שמחה</l>
+          <l>חום ואהבה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ילדי היקרים</l>
+          <l>אוהבים אך דואגים</l>
+          <l>שמחים להיות איתי</l>
+          <l>כואבים את כאבי</l>
+          <l>ידידי האהובים</l>
+          <l>דואגים לי ועוזרים</l>
+          <l>עוטפים ומלטפים</l>
+          <l>שומרים ומרפאים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שרה כדי לחיות</l>
+          <l>את הימים את הלילות</l>
+          <l>לחוש באהבה </l>
+          <l>לדעת יש תקווה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נושאת לאל תפילה</l>
+          <l>רכה זכה צלולה</l>
+          <l>אלי ברך אותי</l>
+          <l>סלק מחלתי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תן כוח ותקווה</l>
+          <l>חזק האמונה</l>
+          <l>רפא המחלה</l>
+          <l>ולך אומר תודה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שרה כדי לחיות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

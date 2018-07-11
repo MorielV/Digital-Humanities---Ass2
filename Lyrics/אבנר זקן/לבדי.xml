@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לבדי 3</title>
+        <singer classification="unknown">אבנר זקן</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לבדי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>בדרעים רבות פוסע לבדי, ליי לים ליי</l>
+          <l>בלי כוכב מאיר למעלה את דרכי, ליי לים ליי</l>
+          <l>שחור-הלילה הקורא לי הוא רעי, ליי לים ליי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לבדי אני הולך לי בדרכי, יחידי</l>
+          <l>ליי לים ליי, ליי לים ליי.</l>
+          <l>ליי לים ליי, ליי לים ליי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי שומע ויודע מה קורה לי, ליי לים ליי</l>
+          <l>מי יקל עלי את כובד כאבי, ליי לים ליי</l>
+          <l>ואמחה דמעה רותחת מעיני, ליי לים ליי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לבדי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אנא אלוהי תן כוח בלבי, ליי לים ליי</l>
+          <l>בדרכי-חיים לפסוע בכאבי, ליי לים ליי</l>
+          <l>עוד יבוא יום שיזרח לי אביבי, ליי לים ליי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לבדי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

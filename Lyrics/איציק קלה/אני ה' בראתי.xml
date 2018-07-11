@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני ה בראתי</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>רבי שמעון בנימין אבידני</writer>
+        <composer>איציק קלה</composer>
+        <album>לך אלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני ה' בראתי</head>
+        <lg number="1" type="stanza">
+          <l>אני ה' בראתי </l>
+          <l>שבת לכם נתתי</l>
+          <l>שמים מכון שבתי</l>
+          <l>שמרתי יום השבת</l>
+          <l>שמרני כאישון בת. </l>
+          <l>כי אשמור דיני שבת</l>
+          <l>ארבעים חסר אחת</l>
+          <l>אלפים תחום שבת</l>
+          <l>אני ה' בראתי </l>
+          <l>שבת לכם נתתי</l>
+          <l>שמים מכון שבתי</l>
+          <l>שמרתי יום השבת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

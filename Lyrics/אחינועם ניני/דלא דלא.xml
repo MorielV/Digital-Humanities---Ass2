@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דלא דלא</title>
+        <singer classification="female singer">אחינועם ניני</singer>
+        <writer>אחינועם ניני</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דלא דלא</head>
+        <lg number="1" type="stanza">
+          <l>I have to breath </l>
+          <l>I have to stop and breathe </l>
+          <l>other wise I'll buckle at the knees. </l>
+          <l>otherwise I'll freeze. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>I have to count to ten, </l>
+          <l>וואחד, תנאן... </l>
+          <l>then once again </l>
+          <l>oh god, there isn't time </l>
+          <l>אחת ושתיים... </l>
+          <l>three, four, </l>
+          <l>my heart, the door. </l>
+          <l>סהר שעלה... </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>דלא דלא יא רשאל (לאט לאט אהובתי) </l>
+          <l>לא ישמעוק עלי (שלא ישמעוך) </l>
+          <l>ויתלעוק אל חבוס (כי אם ישמעוך יכלאוך) </l>
+          <l>ויסמסו חאלי (ואת גרוני ישספו) </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>I have to run </l>
+          <l>I know I have to run </l>
+          <l>I can hear the beating of the drum </l>
+          <l>but my legs are numb </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>I have to count to ten... </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>love and death </l>
+          <l>the sweetness of your breath </l>
+          <l>the perfume of your skin </l>
+          <l>death and love </l>
+          <l>the water and the flames </l>
+          <l>the echo of our names </l>
+          <l>the promise in your eyes for which I yearn </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>דלא דלא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

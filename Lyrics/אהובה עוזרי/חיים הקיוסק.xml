@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיים הקיוסק</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיים הקיוסק</head>
+        <lg number="1" type="stanza">
+          <l>הולכת לי כל בוקר</l>
+          <l>אל הקיוסק של חיים</l>
+          <l>יושבת לי שותה לי תה</l>
+          <l>את הפול לי מכין</l>
+          <l>לא אדע לא אבין</l>
+          <l>מה מושך אצל חיים</l>
+          <l>קיוסק קטן ויפה</l>
+          <l>הרבה אהבה וגם אוכל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בין רחוב אלנבי שבזי והתיאטרון</l>
+          <l>יש רחוב לילינבלום שם נמצא חיים הקיוסק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הולכת לי כל בוקר</l>
+          <l>אל הקיוסק של חיים</l>
+          <l>שמש לי בחלוני</l>
+          <l>רצה לי אל החיים</l>
+          <l>מבט עיניו הכחולות</l>
+          <l>מספרות לי את הכל</l>
+          <l>מי היה מה עבר</l>
+          <l>הרי אנחנו כאן החבר'ה</l>
+          <l>לשבת כאן זה עולם</l>
+          <l>אנשים בוהרים רק אליו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בין רחוב אלנבי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

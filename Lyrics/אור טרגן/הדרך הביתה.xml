@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הדרך הביתה</title>
+        <singer classification="unknown">אור טרגן</singer>
+        <writer>קובי אפללו</writer>
+        <composer>קובי אפללו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הדרך הביתה</head>
+        <lg number="1" type="stanza">
+          <l>תראי אותי זורח, מול המראה שלך</l>
+          <l>תראי אותי נוגע, בנשמתך מונח</l>
+          <l>תראי אותי אוסף לך את כל המשאלות</l>
+          <l>את כל שברי הלב, לרקום  לך הגנות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תביני איך בשקט ניגנו לך רגשות </l>
+          <l>תפנימי שחזרתי, למרות החששות </l>
+          <l>את כאבי החושך, את כל מה שבוער </l>
+          <l>ספגתי בשתיקה ושוב אני חוזר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל הדרך הביתה, אליך ללב </l>
+          <l>אל היום והלילה בדרכו של אוהב</l>
+          <l>כך שולח שירים אל הטוב בעולם </l>
+          <l>בתקווה שאמצא אותך שם </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>וכמו סיפור ידוע על אהבה תמימה </l>
+          <l>כשיר על געגוע, נולד מהדממה</l>
+          <l>הילד ששוכן בי, בלי גבול החלומות</l>
+          <l>חובק מילים ושוב עולה בסולמות </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל הדרך הביתה, אליך ללב </l>
+          <l>אל היום והלילה בדרכו של אוהב</l>
+          <l>כך שולח שירים אל הטוב בעולם </l>
+          <l>בתקווה שאמצא אותך שם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשתחזור 2</title>
+        <singer classification="female singer">איגי וקסמן</singer>
+        <writer>איגי וקסמן</writer>
+        <composer>איגי וקסמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשתחזור</head>
+        <lg number="1" type="stanza">
+          <l>כשתחזור אני לא אחכה</l>
+          <l>לא אקפוץ לבריכה משמחה</l>
+          <l>כשתרצה, אני לא אתרצה</l>
+          <l>לפנות לך חלל</l>
+          <l>בחדרים הכי חמים</l>
+          <l>באולם שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואתה שרואה רק אותך</l>
+          <l>תסתכל בעיניך החומות</l>
+          <l>אלי, תיקח אותי אולי</l>
+          <l>תיקח אותי רחוק, רחוק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשתחליט, אני לא אתפתה</l>
+          <l>לבקש עוד סיכוי להזדמנות</l>
+          <l>כן, אין סיכוי</l>
+          <l>כשתדע אני כבר אתעייף</l>
+          <l>מלחכות לך המון זמן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואתה שרואה רק אותך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשתחזור, אני לא אחכה</l>
+          <l>מצידי שתתפוצץ</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

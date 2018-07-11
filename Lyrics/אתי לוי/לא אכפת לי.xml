@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא אכפת לי</title>
+        <singer classification="female singer">אתי לוי</singer>
+        <writer>דני שושן</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא אכפת לי</head>
+        <lg number="1" type="stanza">
+          <l>מספרים אתה בחור פגיע</l>
+          <l>מספרים אתה רגיש כל כך</l>
+          <l>מספרים אתה לאהוב יודע</l>
+          <l>ביום הולדת זה פרחים תשלח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לי איכפת לי כלל</l>
+          <l>אוהבת אותך אני כל כך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מספרים אתה קנאי ידוע</l>
+          <l>ולא תיתן לרקוד עם אחרים</l>
+          <l>אך מספרים שבסופי שבוע</l>
+          <l>תעטר ראשי בכתרים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מספרים שבמבטך מרתיע</l>
+          <l>קולך צרוד ומחוספס</l>
+          <l>אך מבטך אותי כל כך מרגיע</l>
+          <l>בזרועותיך לבבי נמס</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לי איכפת לי...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מספרים אתה תמיד ברחת</l>
+          <l>מקשר כמו מאש ולהבה</l>
+          <l>הפלא ופלא את ידי ביקשת</l>
+          <l>ובעיניך</l>
+          <l>ים של אהבה</l>
+          <l>ים של אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>לא איכפת לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הורה ממטרה 2</title>
+        <singer classification="male singer">איתן מסורי</singer>
+        <writer>יחיאל מוהר</writer>
+        <composer>משה וילנסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הורה ממטרה</head>
+        <lg number="1" type="stanza">
+          <l>רן קילוח בצינור,</l>
+          <l>צינורות ‟ עורקי הנגב,</l>
+          <l>זה דרכו של המזמור ‟</l>
+          <l>מן הברז אל הרגב</l>
+          <l>יעלו מימי תהום.</l>
+          <l>משאבה אומרת לחם!</l>
+          <l>נגב, נגב, מה מיום?</l>
+          <l>נגב, ממטרות עליך!</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>סובי, סובי, ממטרה, הי!</l>
+          <l>סובי, סובי, ממטרה,</l>
+          <l>לפזר פניני אורה,</l>
+          <l>סובי והתיזי מים!</l>
+          <l>עץ יריע בשדרה,</l>
+          <l>אדמה תיתן פריה</l>
+          <l>באין גשם משמיים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המרחב כולו נצוד,</l>
+          <l>צינורות פרשו הרשת,</l>
+          <l>והנה סימן ואות,</l>
+          <l>בטיפין נראית הקשת,</l>
+          <l>ברית הפרח והניר,</l>
+          <l>ברית השקט והזמר,</l>
+          <l>ממטרה, שירך הוא שיר,</l>
+          <l>רנניהו, עד אין גמר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סובי, סובי, ממטרה , הי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

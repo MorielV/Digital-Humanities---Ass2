@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחפשים</title>
+        <singer classification="male singer">אריאל זילבר</singer>
+        <writer>דודו ויזר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחפשים</head>
+        <lg number="1" type="stanza">
+          <l>רציתי את הים ורציתי יבשה</l>
+          <l>רציתי את הבוקר שנפתח כמו פרסה</l>
+          <l>רציתי את הרגש הסוחף והגואה</l>
+          <l>רציתי את הדבש בתוך הלוע של אריה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והמשכתי לחפש את מה שלא מוצאים</l>
+          <l>ועד היום וגם עכשיו כולנו מחפשים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רציתי אשליות ורציתי תהילה</l>
+          <l>רציתי את הבכי שחוזר בכל עונה</l>
+          <l>רציתי להיות גדול וגם חזק</l>
+          <l>רציתי את הבדולח עם האור הירקרק</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שוב המשכתי לחפש את מה שלא מוצאים</l>
+          <l>ועד היום וגם עכשיו כולנו מחפשים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רציתי את השמש בחצות היא לא יוצאת</l>
+          <l>רציתי את הירח בצהרי יום ב'</l>
+          <l>רציתי את הפרי לפני שבא אביב</l>
+          <l>רציתי את האושר מענג אך לא מכאיב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>והמשכתי לחפש את מה שלא מוצאים</l>
+          <l>ועד היום וגם עכשיו כולנו מחפשים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

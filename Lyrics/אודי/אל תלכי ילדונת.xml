@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תלכי ילדונת</title>
+        <singer classification="unknown">אודי 4</singer>
+        <writer>דודי עומרד</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תלכי ילדונת</head>
+        <lg number="1" type="stanza">
+          <l>אל תלכי ילדונת</l>
+          <l>אל תלכי ממני</l>
+          <l>את ליבי שברת לי</l>
+          <l>מה נשאר לי בחיים</l>
+          <l>אל תלכי ביקשתי</l>
+          <l>גם מכתב כתבתי</l>
+          <l>זר פרחים שלחתי</l>
+          <l>את יפה אין לי מילים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סיפורים סיפרת לי</l>
+          <l>לא היה אכפת לי</l>
+          <l>מה שאת עושה לי</l>
+          <l>את שיגעת לי את החיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל דקה חיכיתי</l>
+          <l>אהבה שמרתי</l>
+          <l>ברחוב עוברת</l>
+          <l>בשמלה כל כך יפה</l>
+          <l>את לא מדברת</l>
+          <l>שלום את לא אומרת</l>
+          <l>איך אתמול נשקת לי</l>
+          <l>והיום את רחוקה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סיפורים סיפרת לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

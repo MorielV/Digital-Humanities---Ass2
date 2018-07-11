@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לגמרי לא משמעותי</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>אורלי מורג</writer>
+        <composer>רן בגנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לגמרי לא משמעותי</head>
+        <lg number="1" type="stanza">
+          <l>איש קטן</l>
+          <l>מה עובר בראש שלך</l>
+          <l>מה זה שמזיז אותך</l>
+          <l>מה אכלת לארוחת הבוקר?</l>
+          <l>מה אוכל אותך מבפנים?</l>
+          <l>אולי יש כאן טעות אופטית</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הדרך מטשטשת אותי</l>
+          <l>אבל זה לא משמעותי</l>
+          <l>לגמרי, לא משמעותי</l>
+          <l>הדרך מטשטשת אותי</l>
+          <l>אבל זה לא משמעותי</l>
+          <l>לגמרי, לא משמעותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איש קטן</l>
+          <l>אולי אתה גדול ממני</l>
+          <l>אולי גדול מהחיים</l>
+          <l>או שאתה מתפורר</l>
+          <l>לרסיסים יומיומיים -</l>
+          <l>הפירורים על השפם שלך</l>
+          <l>זה שקצת מסתיר אותך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הדרך מטשטשת אותי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>האם אתה סקרן</l>
+          <l>רגשן וציניקן כמוני?</l>
+          <l>כלום יש בינינו איזה שוני?</l>
+          <l>איזה שוני?</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הדרך מטשטשת אותי...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>הדרך מטשטשת אותי</l>
+          <l>אבל זה לא משמעותי</l>
+          <l>לא משמעותי</l>
+          <l>לא משמעותי</l>
+          <l>לא לא לא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הבית שלי</title>
+        <singer classification="male singer">אוהד חיטמן</singer>
+        <writer>יואב גינאי</writer>
+        <composer>אוהד חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הבית שלי</head>
+        <lg number="1" type="stanza">
+          <l>זה הבית שלי שעכשיו מצלם </l>
+          <l>את הקיץ הזה שכולו עננים </l>
+          <l>הוא פוקח עיניו וחורק את שיניו </l>
+          <l>ורואה באבק שוב פנים מישתנים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה הבית שלי שעכשיו מהרהר </l>
+          <l>על השקט ההוא מול החול שבים </l>
+          <l>שמש יולי טובה ושעות של שלווה </l>
+          <l>והקסם החי בין אדם ואדם </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רעמים בשרב רועדים בי עכשיו </l>
+          <l>והלב משנן שוב את כל הכללים </l>
+          <l>כוכב הצפון מכסה את פניו</l>
+          <l>אבל לא את הבית שלי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זה הבית שלי שעכשיו מחבק</l>
+          <l>ונושם את הזמן בנשימות של תקווה </l>
+          <l>זה הבית החם שאותי מנחם </l>
+          <l>מלטף ושוטף ועוטף אהבה </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה הבית שלי שעדיין חולם </l>
+          <l>גם אם זוהי עכשיו עוד עונה משונה </l>
+          <l>ורוחות הצפון ורוחות הדרום</l>
+          <l>לא יגעו לו עכשיו בחלום היונה </l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מילים 3</title>
+        <singer classification="unknown">איה כורם</singer>
+        <writer>אריק ברמן</writer>
+        <composer>אריק ברמן</composer>
+        <album>איה כורם</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מילים</head>
+        <lg number="1" type="stanza">
+          <l>את יושבת הלילה בחדר,</l>
+          <l>מסדרת מדף של ספרים ישנים</l>
+          <l>לימים את תביני שאין זה מקרה,</l>
+          <l>שמצאת דווקא דף מקומט משנים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הוא כתב - </l>
+          <l>"לעולם לא תהיה לי אחרת,</l>
+          <l>והשמש זוכרת כה נשבעתי לך כאן.</l>
+          <l>עד יומך האחרון לא תדעי מהו עצב,</l>
+          <l>ותשבי ערב ערב, עימי בשולחן".</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מילים, מילים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כבר שבוע הוא לא מסתכל בך,</l>
+          <l>וגם כשלבשת הטובה בשמלות.</l>
+          <l>לימים את תביני שאין זה מקרה,</l>
+          <l>זאת הדרך שלו להגיד לך שלום.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הוא כתב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

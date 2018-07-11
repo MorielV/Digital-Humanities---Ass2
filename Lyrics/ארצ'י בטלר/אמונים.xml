@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמונים</title>
+        <singer classification="unknown">ארצ י בטלר</singer>
+        <writer>ג'קי עובד</writer>
+        <composer>ג'קי עובד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמונים</head>
+        <lg number="1" type="stanza">
+          <l>מבטיח לך דמעות של שמחה.... אהבה.. אעשה הכל</l>
+          <l>את הפרח שבחוחים, את הקסם בתוך האור</l>
+          <l>את מקודשת לי מעתה ועד עולם</l>
+          <l>מעל לכל מקום בכל זמן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אמונים אני נשבע באל הטוב ובנשמה</l>
+          <l>עד המוות לצידך בקדושת האהבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשנסתכל נביט לאחור בלי כאב עם הרבה שלווה</l>
+          <l>נכתוב את הזכרונות על הקיר או בשיר במרכז העיר</l>
+          <l>את מקודשת לי מעתה ועד עולם</l>
+          <l>מעל לכל מקום בכל זמן.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אמונים אני נשבע...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא דמיינתי כשנועדנו, כשנדרנו, כשהבטחנו</l>
+          <l>לא מבטי לך גן-עדן איתי אך אנסה תמיד לתת את כולי</l>
+          <l>את תהיי כמו מלכה בשבילי</l>
+          <l>בתפילה לאהוב בקדושת האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אמונים אני נשבע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

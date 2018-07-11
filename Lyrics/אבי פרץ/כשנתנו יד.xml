@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשנתנו יד</title>
+        <singer classification="male singer">אבי פרץ</singer>
+        <writer>מייק לוק</writer>
+        <composer>מייק לוק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשנתנו יד</head>
+        <lg number="1" type="stanza">
+          <l>אני פוגש אותך</l>
+          <l>ליד השער</l>
+          <l>וכשהייתי נער</l>
+          <l>אז נפרדנו בכאב</l>
+          <l>אני אוהב אותך</l>
+          <l>ממש כמו פעם</l>
+          <l>עם אותו הטעם</l>
+          <l>שנשאר לי בלב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשנתנו יד זה לזו</l>
+          <l>היא עברה מן תחושה שכזו</l>
+          <l>שהפעם לא אתן לך ללכת</l>
+          <l>עוד לא הייתה לי אהבה שכזאת</l>
+          <l>כמו עיוור סירבתי לראות</l>
+          <l>שאת אותי</l>
+          <l>שאת אותי כה אוהבת</l>
+          <l>לא אתן לך ללכת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני רוצה אותך</l>
+          <l>ממש כמו פעם</l>
+          <l>אבל הפעם</l>
+          <l>לא אצא שוב לנדוד</l>
+          <l>אני מבטיח לך</l>
+          <l>שזאת הפעם</l>
+          <l>לא תיהיה עוד פעם</l>
+          <l>שאתן לך לבכות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשנתנו יד זה לזו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא אתן לך ללכת</l>
+          <l>ללכת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

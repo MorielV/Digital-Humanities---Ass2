@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טובל הימין טובל השמאל</title>
+        <singer classification="unknown">אורי זוהר</singer>
+        <writer>עממי</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טובל הימין טובל השמאל</head>
+        <lg number="1" type="stanza">
+          <l>טובל הימין, יורד השמאל כתורן בים גלים</l>
+          <l>ים תכלת לנו יטהר גן עדן האיים</l>
+          <l>ובגן עדן האיים ארבעת השרים</l>
+          <l>שר לב, שר חץ, ריבוע, צלב שרים ומזמרים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מזוג, ידיד, מזוג כוס היין על מלאה</l>
+          <l>למלח בלי יין העולם כולו חלאה</l>
+          <l>לא אכפת! בשתייה נעבור על המידה</l>
+          <l>מה מידה? אין מידה</l>
+          <l>שטות מידה!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתחת נקניקי תמרים זורם לו נחל ג'ין</l>
+          <l>ובשמי תכלת מטבק עבי עשן טסים</l>
+          <l>האבנים שם פודינגים, כל עשב הוא טבק</l>
+          <l>כל שעל  - יין מזדמן, כל בית הוא פונדק</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מזוג, ידיד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חיות שם נשמות טועות של מלחים טועים</l>
+          <l>וגם מבחר יפהפיות מכל מיני גזעים</l>
+          <l>וחוק לשמוח שם שורר, בעד החטא חיים</l>
+          <l>וכך באהבה חיים, שרים ומזמרים:</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מזוג, ידיד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

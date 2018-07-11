@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צועק חזק</title>
+        <singer classification="male singer">אילן נורי</singer>
+        <writer>ניסים מרי</writer>
+        <composer>רביב בן מנחם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צועק חזק</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אני צועק חזק עד השמיים </l>
+          <l>איך אני רוצה אותך כאן לצידי </l>
+          <l>חולם לעוף איתך לפרוש כנפיים</l>
+          <l>חולם שאת אוהבת רק אותי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קרה לי משהו אומרים שהשתנתי </l>
+          <l>הם לא יודעים שבמקרה פגשתי </l>
+          <l>אתמול בערב מישהי אחרת</l>
+          <l>מישהי מושלמת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קבעה איתי רמזה לי להגיע </l>
+          <l>לחצה לי יד, גרמה לי להזיע</l>
+          <l>אמרה שניפגש אולי מחר</l>
+          <l>אני מאושר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני צועק חזק עד השמיים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נתנה לי כתובת של מישהי אחרת </l>
+          <l>וכבר שבוע שהיא לא מתקשרת </l>
+          <l>היא נעלמה לי אנ'לא רוצה אחרת </l>
+          <l>מתי היא חוזרת </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני צועק חזק עד השמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תבלע את הכדור</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תבלע את הכדור</head>
+        <lg number="1" type="stanza">
+          <l>תבלע את הכדור הזה תבלע</l>
+          <l>תספור עד עשר בצורה סדירה</l>
+          <l>10 9 8 7 6 5 4 3 2 1</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יותר שוב לא נראה אותך</l>
+          <l>יותר שוב לא נהיה איתך</l>
+          <l>יותר שוב לא נכיר אותך</l>
+          <l>יותר שוב לא תהיה אתה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תירק את הכדור הזה תירק</l>
+          <l>תספור אחורה ותחזיק חזק</l>
+          <l>1 2 3 4 5 6 7 8 9 10</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יותר שוב לא נראה אותך</l>
+          <l>יותר שוב לא נהיה איתך</l>
+          <l>יותר שוב לא נכיר אותך</l>
+          <l>יותר שוב לא תהיה אתה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תבלע את הכדור הזה תבלע</l>
+          <l>(יופי!)</l>
+        </lg>
+        <lg number="6" type="stanza" />
+      </lg>
+    </body>
+  </text>
+</TEI>

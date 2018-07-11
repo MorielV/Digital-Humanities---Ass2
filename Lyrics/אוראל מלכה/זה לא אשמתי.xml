@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה לא אשמתי</title>
+        <singer classification="unknown">אוראל מלכה</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה לא אשמתי</head>
+        <lg number="1" type="stanza">
+          <l>בתוך התא יושב ועלייך רק חושב</l>
+          <l>השוטר שוב צועק ואני אותך אוהב</l>
+          <l>נמאס מהחיים אוהב אותך לעולמים</l>
+          <l>את ליבי את שברת ונעלמת</l>
+          <l>מאז שהלכת הדרדרתי בדרכים</l>
+          <l>ופתאום מוצא את עצמי בין עברינים</l>
+          <l>לא ידעתי מה לעשות לא הפסקתי לבכות</l>
+          <l>איך פתאום לא ידעתי אם למות או לחיות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה לא אשמתי זו רק אשמתך</l>
+          <l>זה לא בגללי זה רק בגללך</l>
+          <l>את אותי עזבת ונעלמת</l>
+          <l>ואני חיכיתי לך ואת לא חזרת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ושוב ליבי נשבר כשבעיניך אני נזכר</l>
+          <l>מאז שהלכת הלב שלי נסגר</l>
+          <l>בין ארבע קירות יושב לבדי</l>
+          <l>ההורים אומרים שזה באשמתי</l>
+          <l>אבל אף אחד אותי לא מבין</l>
+          <l>אני ישאר כך לעולמים</l>
+          <l>אני לא ישתנה בשביל אף אחד</l>
+          <l>ואם צריך אני ישב בתא לעד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה לא אשמתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

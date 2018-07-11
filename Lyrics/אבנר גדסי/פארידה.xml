@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פארידה</title>
+        <singer classification="male singer">אבנר גדסי</singer>
+        <writer>אלון אבידר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פארידה</head>
+        <lg number="1" type="stanza">
+          <l>פארידה את היית ילדת מדבר גדול </l>
+          <l>בין הגמלים הנודדים בחול </l>
+          <l>פארידה כה יפה ויחפה בלי פחד </l>
+          <l>עד שהוא הופיע ונתן לך יד ואת לבד </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שמה, לא שמעו את קול הזעקה </l>
+          <l>שמה, שוב נולדה בסוד המועקה </l>
+          <l>שמה, כמו קורבן עלית על המזבח </l>
+          <l>שמה, אם הוא מבקש הוא גם לוקח </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואת לבד כי הוא הרי חשב שבך הוא מאוהב </l>
+          <l>כיסה אותך עכשיו </l>
+          <l>כמו החול רצה את כל הטוב </l>
+          <l>בין הדקלים בחול צעק בקול גדול </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>פארידה החולות אומרים ומספרים </l>
+          <l>מה שלא ידעו באוהל ההביל </l>
+          <l>פארידה שוב עם הגמלים כשאת פוסעת </l>
+          <l>את לי היחידה שאת סודך יודעת ואת ילדה </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שמה, לא שמעו את קול הזעקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני אוהב 3</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני אוהב</head>
+        <lg number="1" type="stanza">
+          <l>אני אוהב שוקולד ועוגות גבינה</l>
+          <l>וארטיק וסוכריות ותות גינה</l>
+          <l>אני אוהבת ימי הולדת ושקיות עם דברים טובים</l>
+          <l>ואת השמש ואת הירח וגם כמה כוכבים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני אוהב את החורף ואת הקיץ ואת הסתיו</l>
+          <l>ואת האביב ואת מה שעכשיו</l>
+          <l>אני אוהב את גלית בעיקר עם צמות</l>
+          <l>ואת זאת עם הנמשים ואת זאת עם הגומות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני אוהב את אמא ואת אבא גם</l>
+          <l>ואת שולה הגננת ואת הדודה מרים</l>
+          <l>אני אוהב את סבא ואת סבתא אני אוהב את אחותי</l>
+          <l>אבל הכי הכי הרבה אני אוהב אותי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני אוהב את החורף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קל כל כך 2</title>
+        <singer classification="male singer">אופיר נפקר</singer>
+        <writer>אופיר נפקר</writer>
+        <composer>יוסי נפקר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קל כל כך</head>
+        <lg number="1" type="stanza">
+          <l>שוב אני מחביא </l>
+          <l>ת'אהבה שלי </l>
+          <l>עמוק בפנים </l>
+          <l>אני שותה המון </l>
+          <l>ואומר הכל </l>
+          <l>שיכורים אומרים </l>
+          <l>את האמת </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ושקית געגועי</l>
+          <l>התמלאה עד תום </l>
+          <l>את היית הדבר </l>
+          <l>הכי טוב בחיי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קל כל כך </l>
+          <l>לאהוב אותך </l>
+          <l>אבל קשה </l>
+          <l>תמיד קשה </l>
+          <l>שתאהבי אותי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

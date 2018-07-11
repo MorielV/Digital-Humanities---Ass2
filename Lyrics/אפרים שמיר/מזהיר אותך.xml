@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מזהיר אותך</title>
+        <singer classification="male singer">אפרים שמיר</singer>
+        <writer>אפרים שמיר</writer>
+        <composer>אפרים שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מזהיר אותך</head>
+        <lg number="1" type="stanza">
+          <l>אני הולך לאט אבל בטוח</l>
+          <l>אני קרוב יותר משנדמה</l>
+          <l>היד רושמת והפנקס פתוח</l>
+          <l>אני קרוב אלייך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עננים שחורים כיסו את השמיים</l>
+          <l>ורוח סערה פשוט בחוף</l>
+          <l>אני חייב לבוא בעקבותייך</l>
+          <l>אני מזהיר אותך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני מזהיר אותך</l>
+          <l>אני קרוב</l>
+          <l>אני מזהיר אותך</l>
+          <l>כל כך קרוב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תקשיבי לי, אני לא מתבדח</l>
+          <l>המצוקה קשה והמצב לא טוב</l>
+          <l>אני חייב אותך, חייב למצוא מפתח</l>
+          <l>הפתיל קצר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני מזהיר אותך...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>גם אם יקח לי נצח להגיע</l>
+          <l>אני נחוש ויש לי סבלנות</l>
+          <l>ויום אחד פתאום אני אופיע</l>
+          <l>אני מזהיר אותך - אני לחוץ</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אז יפתחו שערי גן העדן</l>
+          <l>ואת תתאהבי בי מיד בו במקום</l>
+          <l>וכאן במקום הזה בו את עומדת</l>
+          <l>אני מזהיר אותך</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>אני מזהיר אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

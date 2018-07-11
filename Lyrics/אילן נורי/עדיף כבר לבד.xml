@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עדיף כבר לבד</title>
+        <singer classification="male singer">אילן נורי</singer>
+        <writer>גילי זכאי</writer>
+        <composer>גילי זכאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עדיף כבר לבד</head>
+        <lg number="1" type="stanza">
+          <l>ביקשת ממני את השמש </l>
+          <l>ואת כל הכוכבים </l>
+          <l>שבשבילך את השמיים </l>
+          <l>אכבוש כל הימים </l>
+          <l>שאותך תמיד אפתיע </l>
+          <l>ואמלא לך את החיים </l>
+          <l>שרק לך כל יום אריע </l>
+          <l>לא נשארו לי חברים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אלייך באתי ונתתי </l>
+          <l>ושכחתי את עצמי </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ומה נתת לי את </l>
+          <l>גם אותי שכחת </l>
+          <l>כל היום מבקשת דורשת </l>
+          <l>עוקצת עדיף כבר לבד </l>
+          <l>מה נתת לי את גם אותי שכחת </l>
+          <l>כל היום מבקשת דורשת </l>
+          <l>עדיף כבר לבד </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשחשבתי שיצאתי </l>
+          <l>והשתחררתי מכוחך </l>
+          <l>אז לאחרת התמכרתי </l>
+          <l>השתדלתי כמו אתלט </l>
+          <l>להוריד לה את הירח </l>
+          <l>ולכבוש את כל הים </l>
+          <l>והלב שלה כמו קרח </l>
+          <l>לא יפשיר הוא לעולם </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשהבנתי אני יצרתי </l>
+          <l>ושאלתי גם אותה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ומה נתת לי את...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

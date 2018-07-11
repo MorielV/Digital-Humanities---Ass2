@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כוכב שלי</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כוכב שלי</head>
+        <lg number="1" type="stanza">
+          <l>מעולם זר לא שלחת</l>
+          <l>מעולם מכתב לא כתבת</l>
+          <l>מעולם עלי לא שאלת</l>
+          <l>כי לך כבר לא איכפת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כוכבי שלי מעל ענה לתפילתי</l>
+          <l>כוכבי שלי מעל שלח את אהובי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הפנס שלי כבה</l>
+          <l>את הלילה לי שלח</l>
+          <l>בוכיה על אם הדרך</l>
+          <l>רק אותך אבקש</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אור הבוקר לי הבקיע</l>
+          <l>כוכבים גזו מעל</l>
+          <l>את היום אני אמשיך</l>
+          <l>בתקווה שאתה שלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

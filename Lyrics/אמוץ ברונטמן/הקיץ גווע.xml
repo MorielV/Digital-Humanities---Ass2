@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הקיץ גווע</title>
+        <singer classification="male singer">אמוץ ברונטמן</singer>
+        <writer>חיים נחמן ביאליק</writer>
+        <composer>אמוץ ברונטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הקיץ גווע</head>
+        <lg number="1" type="stanza">
+          <l>הקיץ גווע מתוך זהב וכתם </l>
+          <l>ומתוך הארגמן </l>
+          <l>של שלכת הגנים ושל עבי ערבים </l>
+          <l>המתבוססות בדמן. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ומתרוקן הפרדס. רק טיילים יחידים </l>
+          <l>וטיילות יחידות </l>
+          <l>ישאו עינם הנוהה אחרי מעוף האחרונה </l>
+          <l>בשיירות החסידות. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ומתייתם הלב. עוד מעט ויום סגריר </l>
+          <l>על החלון יתדפק בדממה: </l>
+          <l>"בדקתם נעליכם? טלאתם אדרתכם? </l>
+          <l>צאו הכינו תפוחי אדמה".</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה ויום</title>
+        <singer classification="female singer">אתי אנקרי</singer>
+        <writer>אתי אנקרי</writer>
+        <composer>אתי אנקרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה ויום</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אתה יכול להגיד שלום</l>
+          <l>לזאת שכמעט הכרת</l>
+          <l>אתה יכול לוותר עלי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אפשר שנמשיך ללכת</l>
+          <l>צל ליד צל</l>
+          <l>אפשר שתאיר עיני</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה פעמים</l>
+          <l>עזבת פתאום</l>
+          <l>כמה פעמים</l>
+          <l>חזרת לאותו מקום</l>
+          <l>לילה ויום...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אתה יכול להגיד שלום</l>
+          <l>לזאת שכמעט הכרת</l>
+          <l>אתה יכול לוותר עלי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אפשר שנמשיך ללכת</l>
+          <l>צל ליד צל</l>
+          <l>אפשר שתאיר את עיני</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לא מכירה את האיש</l>
+          <l>את פני התהום</l>
+          <l>כמה הוא שונה</l>
+          <l>מזה שחוזר פתאום</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>לילה ויום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

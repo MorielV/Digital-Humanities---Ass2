@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המוסיקה שלנו</title>
+        <singer classification="unknown">אנדרס צ ייט</singer>
+        <writer>אנדרס צ'ייט</writer>
+        <composer>אנדרס צ'ייט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המוסיקה שלנו</head>
+        <lg number="1" type="stanza">
+          <l>תני לי שוב להגיע אל הלב שלך</l>
+          <l>יש לך מול עינייך משהו רציני</l>
+          <l>תני לי עוד אזדמנות כדי לא ליפול עוד פעם</l>
+          <l>אל תלכי, אל תלכי, אהובה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה שהיינו מרגישים היה נפלא</l>
+          <l>מה שלא שיתפנו אז נשתף עכשיו</l>
+          <l>ננסה שהכל יצא כמו שרצית</l>
+          <l>אל תלכי, אל תלכי, עכשיו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז בא נשמור על מה שיש בינינו</l>
+          <l>ונגלה שמסתכלים אלינו</l>
+          <l>אין לך מה לראות, זה המוסיקה שלנו</l>
+          <l>וככה נשתפר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בוא נגיד שככה אפשר ללמוד יותר</l>
+          <l>בוא נגיד שזה היה חלום ישן</l>
+          <l>בוא נראה אם עכשיו הכל יהיה שונה</l>
+          <l>ואם לא, אז תלכי בכיף</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

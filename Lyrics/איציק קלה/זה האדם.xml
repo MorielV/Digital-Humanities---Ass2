@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה האדם</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה האדם</head>
+        <lg number="1" type="stanza">
+          <l>אני רואה לפעמים את האדם</l>
+          <l>כחידה הגדולה שבעולם</l>
+          <l>ולא מבין איך ייצרו אותו מניע,</l>
+          <l>למה רואה בו רוע.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה האדם וזה טבעו</l>
+          <l>שלא שולט הוא בעצמו,</l>
+          <l>ייצרו הוא שמושל בו</l>
+          <l>והוא סבור שעולמו</l>
+          <l>קיים רק לו ובגללו,</l>
+          <l>הוא לא לבד וזה חורה לו.</l>
+          <l>למה? למה?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גם לא מבין איך שותק האלוהים,</l>
+          <l>לא יוצא בברקים וברעמים,</l>
+          <l>לא מתגלה בעולם כזה פרוע</l>
+          <l>ולא מסיר הרוע.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה האדם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני רואה מאבק ומלחמות,</l>
+          <l>תחרות על רכוש ואדמות</l>
+          <l>וכל אחד את שכנו רוצה לבלוע,</l>
+          <l>גם אם צריך לפגוע.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה האדם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

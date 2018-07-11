@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישתי</title>
+        <singer classification="unknown">איתי הררי</singer>
+        <writer>ביגי</writer>
+        <composer>איתי הררי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישתי</head>
+        <lg number="1" type="stanza">
+          <l>יש רגעים של פחד פתאום זה לא ברור </l>
+          <l>ואת אותי לוקחת כמו מתוך סיפור </l>
+          <l>שני שכבר עברנו לא משאירות ברירה </l>
+          <l>את אומרת בעלי אני קורא לך חזרה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אשתי בואי קחי אותי </l>
+          <l>את כל אהבתי אתן </l>
+          <l>לך את חיי </l>
+          <l>אשתי בואי רק איתי זה </l>
+          <l>רגע אמיתי נגבי את דמעותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היום הזה שלנו נשבעתי מול כולם </l>
+          <l>אוהב אותך לנצח אדאג לך לעולם </l>
+          <l>שנים שכבר עברנו לא משאירות ברירה </l>
+          <l>את אומרת בעלי אני קורא לך חזרה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אשתי בואי קחי אותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

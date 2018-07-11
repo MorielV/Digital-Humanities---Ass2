@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בא לו</title>
+        <singer classification="unknown">אילן שמחי</singer>
+        <writer>מקס מקסים</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בא לו</head>
+        <lg number="1" type="stanza">
+          <l>כשאת בוכה את לא מוותרת </l>
+          <l>והדמעות שלך צורבות בלב </l>
+          <l>הוא בחור רגיש שבוכה מסרט </l>
+          <l>ולפגוע בך לא התכוון </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז תלחשי לו, חייכי לו </l>
+          <l>וותרי לו, תני לו </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כי בא לו, בא לו, בא לו, בא לו </l>
+          <l>להתנשק איתך את מתאימה לו </l>
+          <l>בא לו, בא לו, בא לו, בא לו </l>
+          <l>לדעת שתמיד את מחכה לו </l>
+          <l>בא לו, הו כמה בא לו </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אך בלי מילים את בליבו שולטת </l>
+          <l>רק ליטוף ממך והוא נמס </l>
+          <l>ואם את עצובה ולא מחייכת </l>
+          <l>באהבתו ימלא לך את הלב </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז תלחשי לו, חייכי לו </l>
+          <l>וותרי לו, תני לו </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כי בא לו, בא לו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

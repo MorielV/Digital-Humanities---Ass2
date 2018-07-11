@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאה ועשרים כופים</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאה ועשרים כופים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אין עבודה יש אבטלה</l>
+          <l>המיתון חוגג הלכה הכלכלה</l>
+          <l>את הפרנסה לקח מס הכנסה</l>
+          <l>את השאר לקחה הממשלה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מאה ועשרים כופים קובעים לי איך לחיות</l>
+          <l>ואני תקוע פה בים של בעיות</l>
+          <l>את הגב אני שובר עובד כמו חמור</l>
+          <l>את החודש לא יכול לגמור</l>
+          <l>לא יכול עם החובות נמאס לעזאזאל</l>
+          <l>כי אותי החודש מחסל</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אין עבודה יש אבטלה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מאה ועשרים כופים עלי את החוקים</l>
+          <l>והם חיים סבבבה אנחנו חנוקים</l>
+          <l>יש להם שמנת לנו אין מה לאכול</l>
+          <l>למה רק להם מותר הכל</l>
+          <l>כל אחד מוצא כיסא תופס ולא עוזב</l>
+          <l>ואנחנו כאן אוכלים ת'לב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אין עבודה יש אבטלה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

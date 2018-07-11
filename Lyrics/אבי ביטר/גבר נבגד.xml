@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גבר נבגד</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>דני שושן</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גבר נבגד</head>
+        <lg number="1" type="stanza">
+          <l>נתתי לך מלב אוהב</l>
+          <l>מה שרצית היית מלכה</l>
+          <l>בניתי לך בית שלם</l>
+          <l>וכל מה שנפשך חשקה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שיחקת אותה אישה טובה</l>
+          <l>מה לי עשית כפויית טובה</l>
+          <l>את מבלה עם גבר זר</l>
+          <l>איך זה ליבך כל כך אכזר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שרפתי לי את הלב אישה ואת הנשמה</l>
+          <l>אין בעולם מילה שתביא לי נחמה</l>
+          <l>השפלת אותי אישה רמסת גם את כבודי</l>
+          <l>ואיך יכולת אישה לבוא למיטתי</l>
+          <l>אוף אוף אוףף</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הבאתי לך אל המיטה</l>
+          <l>קפה שחור כמו שאהבת</l>
+          <l>היית יפה כמו נסיכה</l>
+          <l>קניתי לך מה שחשקת</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שיחקת אותה אישה טובה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

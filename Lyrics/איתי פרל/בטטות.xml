@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בטטות</title>
+        <singer classification="male singer">איתי פרל</singer>
+        <writer>איתי פרל</writer>
+        <composer>גיא תובל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בטטות</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אני יודע להכין בטטות</l>
+          <l>ברוטב מגרה </l>
+          <l>אני אשקה אותך מיין</l>
+          <l>והנה זה קורה</l>
+          <l>ואנגן לך שירים ויהיה מקסים</l>
+          <l>לא תהיה לך ברירה</l>
+          <l>את חייבת להסכים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא תהיה לך ברירה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הזמן יקח אותנו לארץ הכמעט</l>
+          <l>והשקר כמו חבר ימלא את החסר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני יודע להכין בטטות</l>
+          <l>אבל אנ'לא לא יודע את מבטך</l>
+          <l>איך זה דועך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לילה אחת נסע במכונית</l>
+          <l>בדרך הרגילה</l>
+          <l>נלחם בדמעות ואף אחד לא יוציא מילה</l>
+          <l>זה יהיה הסוף בשבילי</l>
+          <l>אבל לך אין מה לחשוש</l>
+          <l>כמו איזה שיר מטופש</l>
+          <l>את לא תצאי לי מהראש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

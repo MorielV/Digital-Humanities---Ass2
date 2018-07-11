@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אנא אלי</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אנא אלי</head>
+        <lg number="1" type="stanza">
+          <l>אנא אלי אם בא יומי</l>
+          <l>לפני לכתי מבקש אני</l>
+          <l>אך לא עלי, כי רב, רב לי די</l>
+          <l>כי כשלו ברכי ועייפה נפשי</l>
+          <l>כי עלי צרי ניצנים רכים</l>
+          <l>רחם על זאת ומכל רע אותם שמור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהיה אני כפרתם, היה אתה כאב להם</l>
+          <l>היה איתם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלא תדע אלי הטוב</l>
+          <l>הן כל חיי ביקשתי טוב</l>
+          <l>אח לי לא היה</l>
+          <l>ואף עתה עזבתני אתה ויומי קרוב</l>
+          <l>אך את גוזלי האהובים</l>
+          <l>חזק ונצור, מלא מחסור ואל תעזוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהיה אני כפרתם, היה אתה כאב להם</l>
+          <l>היה איתם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

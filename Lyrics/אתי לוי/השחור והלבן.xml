@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השחור והלבן</title>
+        <singer classification="female singer">אתי לוי</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השחור והלבן</head>
+        <lg number="1" type="stanza">
+          <l>יש כאלה מחזיקים כרטיס אשראי זהב</l>
+          <l>אחרים לומדים לאט לחיות עם הרעב</l>
+          <l>העולם עומד על החלש והחזק</l>
+          <l>ושניהם הולכים על חבל דק</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש אחד יוצא כל יום בבוקר לעבוד</l>
+          <l>מנסה להשתחרר לצאת מהחובות</l>
+          <l>אחר חותם לבד הוא לא צריך אישור</l>
+          <l>מעביר לבנק כספי ציבור</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כסף מסובב את העולם...כסף מסובב</l>
+          <l>כסף משגע את כולם</l>
+          <l>לאחד אין שקל בארנק...</l>
+          <l>אחר יכול לקנות ת'בנק</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בין הלבן והשחור יש הבדל גדול</l>
+          <l>זה לפינוקים נולד והשני לסבול</l>
+          <l>זה פשוט מאוד ענין של אפליה</l>
+          <l>זה אפשר לראות בלי בעיה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עד מתי זה ימשך אנו שואלים</l>
+          <l>לא נוכל לחיות לנצח כך עם הבדלים</l>
+          <l>השחור והלבן יודעים להסתדר</l>
+          <l>רק על הקלידים שבפסנתר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כסף מסובב את העולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

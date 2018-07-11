@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המחבוא שלי</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>יוני רכטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המחבוא שלי</head>
+        <lg number="1" type="stanza">
+          <l>אם יש לי משהו</l>
+          <l>שהוא באמת יקר,</l>
+          <l>אני תכף מחביא אותו</l>
+          <l>מתחת לכר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גולה נוצצת,</l>
+          <l>צדפים או נוצה,</l>
+          <l>מתחת לכר,</l>
+          <l>שאיש לא ימצא!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>(רק אתמול,</l>
+          <l>כשלא ראו,</l>
+          <l>שמתי מסטיק</l>
+          <l>שלא ימצאו).</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עיפרון ומסרק,</l>
+          <l>תמונה של טלה,</l>
+          <l>בקבוק חצי ריק</l>
+          <l>וחצי מלא.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תפוח אדמה,</l>
+          <l>מה שיש בכיסים,</l>
+          <l>לא חשוב מה,</l>
+          <l>העיקר לשים.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>יום אחד,</l>
+          <l>את הכר אסיר,</l>
+          <l>אקח הכל</l>
+          <l>ואהיה</l>
+          <l>איש עשיר!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

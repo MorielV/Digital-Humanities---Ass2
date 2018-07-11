@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אי אפשר לכתוב שירה</title>
+        <singer classification="unknown">אלי רוזן</singer>
+        <writer>אלי רוזן</writer>
+        <composer>אלי רוזן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אי אפשר לכתוב שירה</head>
+        <lg number="1" type="stanza">
+          <l>אי אפשר לכתוב שירה </l>
+          <l>על קיבה מלאה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואי אפשר לכתוב על החיים </l>
+          <l>בעיניים יבשות </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלי סוליות מרופטות </l>
+          <l>אי אפשר לכתוב על הדרכים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>(כאלה שלא נשחקו אף פעם </l>
+          <l>המספר עדיין חד וברור) </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני אגיד את זה עוד פעם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ידעת שזה זמני</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>אלדד רגב</writer>
+        <composer>דורון מדלי</composer>
+        <album>דרך לחיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ידעת שזה זמני</head>
+        <lg number="1" type="stanza">
+          <l>אני רוצה שתהיי יפה, בדיוק לטעמי</l>
+          <l>עם ריח מתוק וחיוך אלוהי</l>
+          <l>רוצה שתדעי מה זה עצב וגעגועים</l>
+          <l>רוצה שתיכנסי לצרה קטנה</l>
+          <l>ואני אציל אותך ואת תכירי לי תודה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני לא מחפש ריגושים,</l>
+          <l>אבל צריך קצת עניין בחיים</l>
+          <l>ואם פתאום אקום ואלך</l>
+          <l>תגידי שאת לא כועסת</l>
+          <l>שידעת שזה זמני.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני רוצה שתהיי יפה, בדיוק לטעמי</l>
+          <l>עם ריח מתוק וחיוך אלוהי</l>
+          <l>רוצה שתביני את משמעות החיים</l>
+          <l>רוצה שתיכנסי לצרה קטנה</l>
+          <l>ואני אציל אותך ואת תכירי לי תודה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני לא מחפש ריגושים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

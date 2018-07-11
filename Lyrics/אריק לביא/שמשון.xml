@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמשון</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>אורי סלע</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמשון</head>
+        <lg number="1" type="stanza">
+          <l>בין הכרמים שמשון הלך בדרך לתמנעתה </l>
+          <l>וירא אריה שואג בסבך </l>
+          <l>וישסעו כגדי </l>
+          <l>ויעבור שמשון שנית בדרך לתמנעתה </l>
+          <l>וירא נחיל דבורים בגב וירד הדבש לפיו </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ומה מתוק יותר מדבש </l>
+          <l>מה עז יותר מליש </l>
+          <l>חידה ואין איש אשר יפתור את חידתי </l>
+          <l>יופייך דלילה מתוק מדבש </l>
+          <l>אהבתי עזה היא </l>
+          <l>הפקדתי בחיקך את סוד חיי וגם מותי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בין הכרמים שמשון הלך בדרך לתמנעתה </l>
+          <l>וירא אישה מבנות פלישתים </l>
+          <l>ובלבבו היקוד </l>
+          <l>ולילה לילה הוא הולך בדרך לתמנעתה </l>
+          <l>חומה אל בית אישה פלישתית </l>
+          <l>ובלבבו הסוד </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ומה מתוק יותר מדבש... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל ההיכל שמשון הובל עיוורות עיניו השתיים </l>
+          <l>המון צוחק סביבו אבל צימחו מחלפותיו </l>
+          <l>הבאנו אל העמודים </l>
+          <l>חזקני רק הפעם </l>
+          <l>תמות נפשי עם מות פלישתים </l>
+          <l>עם מות אהבתי </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי מה מתוק יותר מדבש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

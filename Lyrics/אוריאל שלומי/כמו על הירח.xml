@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו על הירח</title>
+        <singer classification="male singer">אוריאל שלומי</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו על הירח</head>
+        <lg number="1" type="stanza">
+          <l>חזרתי כעת מליל אמש לגעת בתום חיוכך </l>
+          <l>ואת היפה כמו השמש סוגרת חזק את ליבך </l>
+          <l>כגל מתנפץ על המים ושקט אחר הסערה </l>
+          <l>רציתי לראות את עינייך סולחות על כל מה שקרה </l>
+          <l>סולחות על מה שקרה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איתך הרגשתי כמו על הירח </l>
+          <l>רק לך לחשתי מעימקי הלב </l>
+          <l>שיחד החיים הם שיר שמח</l>
+          <l>ועד כמה אותך אני אוהב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היתי שיכור רק לרגע שבוי לטיפה המרה </l>
+          <l>מילים שזרקתי לפתע אקח מימך בחזרה </l>
+          <l>עכשיו הבדידות והפחד שוכנים בליבי הסוער </l>
+          <l>תמיד אהבה מנצחת תמיד אהבה מנצחת </l>
+          <l>תראי שהכל עוד יסתדר תראי הכל יסתדר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איתך הרגשתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

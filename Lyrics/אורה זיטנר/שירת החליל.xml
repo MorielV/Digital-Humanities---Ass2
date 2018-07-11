@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שירת החליל</title>
+        <singer classification="female singer">אורה זיטנר</singer>
+        <writer>יצחק שנהר</writer>
+        <composer>מרדכי זעירא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שירת החליל</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הנה אחללה בחלילי</l>
+          <l>בדומית לילי.</l>
+          <l>ישמע אדם, יקשיב הצאן</l>
+          <l>לזה השיר, לזה הרון.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מני עדר תעה גדי,</l>
+          <l>לא בכדי, לא בכדי,</l>
+          <l>יען בא אל אהלי,</l>
+          <l>בצאתי אל פעלי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ראש חיכך בלאט הגדי,</l>
+          <l>ביתרי וביתרי.</l>
+          <l>חוסה נא, הגידה, אח:</l>
+          <l>היש מקום לגדי מודח?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הנה  אחללה בחלילי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מן העיר ברחה ילדה</l>
+          <l>לבדה, לבדה.</l>
+          <l>ותבוא אל אוהלי</l>
+          <l>בצאתי אל פועלי.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>את דפקה ביד תמה</l>
+          <l>בנפשי הנרדמ:</l>
+          <l>חוסה נא, הגידה, אח:</l>
+          <l>היש מקום לגדי מודח?</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>הנה אחללה בחלילי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

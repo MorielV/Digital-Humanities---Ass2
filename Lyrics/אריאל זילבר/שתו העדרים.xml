@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שתו העדרים</title>
+        <singer classification="male singer">אריאל זילבר</singer>
+        <writer>אלכסנדר פן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שתו העדרים</head>
+        <lg number="1" type="stanza">
+          <l>מעמק לגבעה, מהר להר,</l>
+          <l>כענני הסתיו גולשים בסדר</l>
+          <l>עדרי הצאן. ושיר להם אז שר</l>
+          <l>פזמון עצוב רועה צעיר בעדר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שתו, שתו, שתו העדרים,</l>
+          <l>בחליל לכם אנעים -</l>
+          <l>לי לי לי לי לי...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני ארעה צאני כחום היום</l>
+          <l>והשרב גם הוא לא יפחידני,</l>
+          <l>כי יש לי פנאי לשבת ולחלום</l>
+          <l>על היפה אשר אוהב הנני.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שתו, שתו, שתו העדרים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

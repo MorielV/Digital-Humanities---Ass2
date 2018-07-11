@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני מבין</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני מבין</head>
+        <lg number="1" type="stanza">
+          <l>הגדולים אומרים - "אתה עוד ילד"...</l>
+          <l>זה נכון, אבל אני מבין</l>
+          <l>הם רבים - אני נהיה מתוח</l>
+          <l>כי אני מבין</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבא צועק פתאום על אמא,</l>
+          <l>אמא עונה לו חזרה.</l>
+          <l>אבא משלים בסוף עם אמא -</l>
+          <l>איזו הצגה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אבא צועק פתאום על אמא,</l>
+          <l>אמא עונה לו חזרה.</l>
+          <l>אבא משלים בסוף עם אמא -</l>
+          <l>איזו הצגה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

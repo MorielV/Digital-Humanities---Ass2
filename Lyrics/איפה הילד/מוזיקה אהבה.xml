@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מוזיקה אהבה</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מוזיקה אהבה</head>
+        <lg number="1" type="stanza">
+          <l>אני עף </l>
+          <l>אני זוכר את תל אביב בסוף השמונים</l>
+          <l>להקות מתאבדות במועדונים</l>
+          <l>לא יודעים לנגן אך הלב</l>
+          <l>במקום הנכון והלב הוא יודע</l>
+          <l>והכסף מספיק לפיתה עם צ'יפס</l>
+          <l>וסיגריות ובירה זה מה שצריך</l>
+          <l>טלפון וחשמל מנותק קיום מפוקפק</l>
+          <l>הלו מישהו שומע? </l>
+          <l>אותי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה שנשאר זה בעצם רוקנ'רול</l>
+          <l>אם את איתי אל תתני לי ליפול</l>
+          <l>מוזיקה אהבה לך תמיד עם הלב שלך</l>
+          <l>שחרר צעקה בינתיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני עף</l>
+          <l>אני זוכר איך אנחנו בלילה חוזרים</l>
+          <l>מחדרי חזרות דרומיים אבודים</l>
+          <l>מתווכחים מדברים על פרנק זאפה</l>
+          <l>כאילו זה מה שחשוב וזה מה שקובע</l>
+          <l>הציפוי של הציניות רק הגנה</l>
+          <l>להגן על תמימות שבכל זאת אבדה</l>
+          <l>היום שהכסף מספיק ליותר</l>
+          <l>אתה בכל זאת מרגיש משהו חסר</l>
+          <l>כאילו הכל חי בעצם ובועט רק בטלוויזיה</l>
+          <l>טכנולוגיה בקריזה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה שנשאר זה בעצם רוקנ'רול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

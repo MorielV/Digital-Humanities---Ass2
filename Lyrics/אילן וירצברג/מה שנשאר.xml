@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה שנשאר 2</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>אילן וירצברג</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה שנשאר</head>
+        <lg number="1" type="stanza">
+          <l>אור זר מתוך הלילה</l>
+          <l>רוח יללה</l>
+          <l>אש גדולה מתוך היער</l>
+          <l>מה, מה שנשרף</l>
+          <l>מה, מה שנשאר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עדר אץ במנוסה</l>
+          <l>זכר מזמן עבר</l>
+          <l>החיה שפגעה בדרך</l>
+          <l>מה, מה שנטרף</l>
+          <l>מה, מה שנשאר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הו לילי השחור המתוק</l>
+          <l>אם אשיר את השיר אודותיך</l>
+          <l>את אבי החוור איך אמצא</l>
+          <l>אם נשאר דבר אחריך</l>
+          <l>הו לילי השחור</l>
+          <l>אם אדליק את הנר אחריך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תם אך לא נשלם</l>
+          <l>כעס שמסתתר</l>
+          <l>יריעה שנפרשה בינינו</l>
+          <l>מה, מה שנגמר</l>
+          <l>מה, מה שנשאר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הו לילי השחור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר השוק</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>נעמי שמר</writer>
+        <composer>נעמי שמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר השוק</head>
+        <lg number="1" type="stanza">
+          <l>איך נשפכים פלגי שכר כאן</l>
+          <l>ונהרות משקה קולחים</l>
+          <l>אבטיחים כהר ההר כאן</l>
+          <l>על יד גבעות התפוחים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>השושנים יפות פי שבע</l>
+          <l>מאחרי דוכן הפרי</l>
+          <l>אבל אנחנו מול השפע</l>
+          <l>כאן יחפים כסנדלרים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>על כן שתה ואכול ושמח ביין</l>
+          <l>היום צעיר אתה מחר תזקין</l>
+          <l>כן רק היום בזול ומחרתיים</l>
+          <l>על הסכין, על הסכין.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>השוק מחליף צבעים בלי הרף</l>
+          <l>אבל קבועים בו המחירים</l>
+          <l>כשהרוכלים יוצאים לטרף</l>
+          <l>אז אין חוכמות ואין שקרים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אלינו בוא והתהלך פה</l>
+          <l>במקלך ובסלך</l>
+          <l>גדול השוק אין איש מולך בו</l>
+          <l>כולו שלך, כולו שלך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>על כן שתה ואכול ושמח ביין...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כאן נסלסל במלוא גרוננו</l>
+          <l>בחרוזים המזהירים</l>
+          <l>ולחם עוני זה חלקנו</l>
+          <l>כי אין שכר למשוררים.</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>וכשנמות יקברו אותנו</l>
+          <l>כאן בין חבית ובין בקבוק</l>
+          <l>כי רק אתמול לשוק הגענו</l>
+          <l>וכבר הגיע סוף פסוק.</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>על כן שתה ואכול ושמח ביין...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

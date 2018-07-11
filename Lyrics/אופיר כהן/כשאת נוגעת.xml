@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשאת נוגעת</title>
+        <singer classification="unknown">אופיר כהן</singer>
+        <writer>אופיר כהן</writer>
+        <composer>רן אביב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשאת נוגעת</head>
+        <lg number="1" type="stanza">
+          <l>נכנסים בסוף הלילה לחדרך, </l>
+          <l>איך מצב רוחי למעלה לצדך</l>
+          <l>אני עוד מחכה לסימן מתוך ליבך </l>
+          <l>ולפתע ידי בידיך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חום גופי עולה עולה עולה כשאת נוגעת,</l>
+          <l>כל גופי רועד רוקד ומתנדנד כשאת נוגעת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתבוננת בירח ואומרת לי: "הבט",</l>
+          <l>וברקע מתנגן לו שיר שקט </l>
+          <l>ואני עוד מחכה לסימן מתוך ליבך </l>
+          <l>רק עוד רגע גופי בגופך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חום גופי עולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גם לי מותר להחליט</title>
+        <singer classification="female singer">אתי לוי</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>ארנון אלמסי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גם לי מותר להחליט</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אתה אומר לי שאתה הבוס</l>
+          <l>ומתכנן לי מה לומר ומה ללבוש</l>
+          <l>נותן פקודות כמו של רמטכ"ל</l>
+          <l>שאסתפר וארד במשקל</l>
+          <l>אם קובע אם יוצאים היום</l>
+          <l>ולצידך קשה לי כבר לנשום</l>
+          <l>אתה חונק אותי מאהבה</l>
+          <l>עד שבסוף תשאר לבדך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גם לי מותר להחליט</l>
+          <l>גם לי מותר מה להגיד</l>
+          <l>אולי אתה נחשב למין החזק</l>
+          <l>אך לי גם חלק במשחק</l>
+          <l>יושב בסתלבט שולח מבטים</l>
+          <l>ובכל רגע נכנס לי לחיים</l>
+          <l>ואם תמשיך אחזור אל ההורים</l>
+          <l>וחביבי לי זה לא מתאים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אתה אומר לי שאתה הבוס...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

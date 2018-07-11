@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מטרה</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>ספטמבר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מטרה</head>
+        <lg number="1" type="stanza">
+          <l>מטרת הקשר שבינינו היא לגלות את הבורא</l>
+          <l>שנים נסינו לבדנו אך כלום עוד לא קורה</l>
+          <l>האור מופיע בתוכנו כשיש אליו תשוקה</l>
+          <l>אם לא נדרוש שהוא יאיר עלינו תגיע הצרה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לאהוב אדם בלי אלוהים</l>
+          <l>קליפה שלא תשיג דבר</l>
+          <l>סם החיים יהפוך לסם המות</l>
+          <l>ויהיה כל כך קר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הם הרגו ארבעים מיליון בלי סיבה</l>
+          <l>בלי מטרה</l>
+          <l>קיוו לשנות אך בלי תוצאות </l>
+          <l>כלום לא השתנה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>והבורא רוצה שהאדם יהיה דומה לו</l>
+          <l>דומה לאלוהים</l>
+          <l>רוצה שיהיה חזק כמוהו</l>
+          <l>מבחוץ ומבפנים</l>
+          <l>האור מופיע בתוכנו כשיש אליו תשוקה</l>
+          <l>אם לא נדרוש שהוא יאיר עלינו</l>
+          <l>תגיע המכה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לאהוב אדם בלי אלוהים...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מטרת הקשר שבינינו זה לגלות את הבורא</l>
+          <l>שנים ניסינו לבדנו אך כלום עוד לא קורה</l>
+          <l>כלום עוד לא קורה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני מתגעגע אבא</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>שם טוב לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני מתגעגע אבא</head>
+        <lg number="1" type="stanza">
+          <l>מאז שהלכת אבא</l>
+          <l>זה כבר לא אותו דבר</l>
+          <l>בבית שבנית אבא</l>
+          <l>כבר אף אחד לא גר</l>
+          <l>הם הרסו את בית הספר</l>
+          <l>ועקרו את עץ התות</l>
+          <l>אני מתגעגע אבא</l>
+          <l>לא רוצה שזה ימות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ימי הסטנגה הכחולים האבודים</l>
+          <l>ושקט גמור בין שתיים לארבע</l>
+          <l>קרח מגיע, ייאללה ילדים</l>
+          <l>אני מתגעגע לאמא ואבא</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מתפלש בזכרונות חזור והתפלש</l>
+          <l>לא רוצה ולא יכול לצאת מזה</l>
+          <l>ארץ ישראל אני עוד מתעקש</l>
+          <l>עוד מתעקש על החלום הזה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מאז שהלכת אבא</l>
+          <l>זה כבר לא אותו דבר</l>
+          <l>סדום ועמורה, הו אבא</l>
+          <l>האלים גבר</l>
+          <l>הלך לו בית הספר</l>
+          <l>הלך לו עץ התות</l>
+          <l>אני מתגעגע אבא</l>
+          <l>לא רוצה שזה ימות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מתפלש בזכרונות חזור והתפלש</l>
+          <l>לא רוצה ולא יכול לצאת מזה</l>
+          <l>ארץ ישראל אני עוד מתעקש</l>
+          <l>עוד מתעקש על החלום הזה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מאז שהלכת אבא</l>
+          <l>זה כבר לא אותו דבר</l>
+          <l>בבית שבנית אבא</l>
+          <l>כבר אף אחד לא גר</l>
+          <l>אני מתגעגע אבא</l>
+          <l>לא רוצה שזה ימות</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

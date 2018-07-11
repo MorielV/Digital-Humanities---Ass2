@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הדעיכה</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>מיכה שטרית</writer>
+        <composer>missing</composer>
+        <album>נקודת מבט</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הדעיכה</head>
+        <lg number="1" type="stanza">
+          <l>עוד מעט צהריים, סוף הבוקר,</l>
+          <l>פרדי מאבד כוח, פרדי דועך.</l>
+          <l>כשהשמש באמצע השמיים צריך לדעת איך...</l>
+          <l>לעמוד בבחינה המדוקדקת, שנערכת...</l>
+          <l>בטווח המוגבל של העיניים.</l>
+          <l>לשחק את הליצן? לשחק את החכם?</l>
+          <l>להיות אני? או להיות כמו כולם?</l>
+          <l>להיות אחד ממליון או אחד למליון?</l>
+          <l>להשתנות כל הזמן, להיות הכל, ודי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

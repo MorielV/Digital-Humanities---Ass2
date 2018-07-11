@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סוף הדרך</title>
+        <singer classification="unknown">אביב מוטלה</singer>
+        <writer>אביב מוטלה</writer>
+        <composer>אביב מוטלה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סוף הדרך</head>
+        <lg number="1" type="stanza">
+          <l>שוב מרגיש את סוף הדרך</l>
+          <l>שוב השביל נהיה רחוק</l>
+          <l>כל הזמן זה רק חלום</l>
+          <l>את אומרת זה בסדר </l>
+          <l>ורק אני נשאר מאחור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש דברים אני יודע</l>
+          <l>גם כשאי אפשר לפתור</l>
+          <l>את הדרך אני צולח </l>
+          <l>ולאחור שוב לא אחזור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב ניצב בין גבול לסדק</l>
+          <l>שוב אני יוצא ללחום</l>
+          <l>את נשארת מהומהמת </l>
+          <l>לא יודעת מה לבחור</l>
+          <l>עכשיו אני צריך לחזור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש דברים אני יודע...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עכשיו זה סוף הדרך</l>
+          <l>עכשיו זה כמו בסרט</l>
+          <l>אם רק היית נשארת </l>
+          <l>היה לי טוב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יש דברים אני יודע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

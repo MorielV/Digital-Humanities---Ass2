@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איש מושלם</title>
+        <singer classification="unknown">אהוד שגב</singer>
+        <writer>אהוד שגב</writer>
+        <composer>אהוד שגב</composer>
+        <album>אוסף מיוחד ליום הזכרון</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איש מושלם</head>
+        <lg number="1" type="stanza">
+          <l>היה היה פעם איש מושלם</l>
+          <l>איש יפה, איש חכם</l>
+          <l>אבל לקחו לנו אותו</l>
+          <l>כי אין צדק בעולם</l>
+          <l>כי מושלמים צריכים להיות רק באגדות</l>
+          <l>כי מושלמים צריכים לחיות רק בחלומות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בסיפורי הילדים</l>
+          <l>שמספרים לקטנטנים</l>
+          <l>שנייה לפני שהם חולמים</l>
+          <l>על אנשים מושלמים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו נמרוד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

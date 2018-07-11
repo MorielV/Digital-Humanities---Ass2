@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קרע בכותונת</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קרע בכותונת</head>
+        <lg number="1" type="stanza">
+          <l>מה מטריד אותך ילדונת, </l>
+          <l>מה קורע,</l>
+          <l>את נפשך העייפה, כול כך?</l>
+          <l>יש לך קרע בכותונת,</l>
+          <l>מי יודע,</l>
+          <l>מה איתך?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נשמתך כה נעצבת</l>
+          <l>ודואגת.</l>
+          <l>לא יודעת רגע נחמה.</l>
+          <l>הן האהבה נחשבת</l>
+          <l>אם חורגת,</l>
+          <l>איומה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לאן תלכי? חכי עוד רגע,</l>
+          <l>אתן לך רק נשיקה.</l>
+          <l>האהבה, אמנם היא נגע,</l>
+          <l>אך גם עוגה מתוקה.</l>
+          <l>לאן תלכי? ראי מנגד,</l>
+          <l>האיש הזה הוא שלך.</l>
+          <l>אל תקרעי קריעה בבגד,</l>
+          <l>כי הוא ילך רק איתך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>דמייני, כשאת עוצמת </l>
+          <l>את עינייך,</l>
+          <l>איך איתך עושה הוא אהבה.</l>
+          <l>הוא שלך, את לא חולמת,</l>
+          <l>הוא אליך,</l>
+          <l>להבה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לאן תלכי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

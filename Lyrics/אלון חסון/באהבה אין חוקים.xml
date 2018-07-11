@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>באהבה אין חוקים</title>
+        <singer classification="unknown">אלון חסון</singer>
+        <writer>שי קסלר</writer>
+        <composer>שיקו חייק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>באהבה אין חוקים</head>
+        <lg number="1" type="stanza">
+          <l>אל תחשוב שהאהבה</l>
+          <l>כה ורודה וטובה</l>
+          <l>יום אחד אתה תדע</l>
+          <l>מהו טעם האכזבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>באהבה</l>
+          <l>אין חוקים</l>
+          <l>אין גבולות</l>
+          <l>שמתאהבים</l>
+          <l>אם אינך</l>
+          <l>רוצה בכאב</l>
+          <l>חשוב לפני</l>
+          <l>שתתאהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה כעת מסונוור</l>
+          <l>לא שומע שום דבר</l>
+          <l>חשוב חבר על המחר</l>
+          <l>לפני שיהיה מאוחר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>באהבה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

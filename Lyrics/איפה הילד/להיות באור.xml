@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>להיות באור</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>להיות באור</head>
+        <lg number="1" type="stanza">
+          <l>עזור לי עזור לי תן לי תקווה</l>
+          <l>אני אחרי הלמטה מתחת לרצפה</l>
+          <l>אני מבקש אני מבקש</l>
+          <l>תסתכל בי חזק אתה אף פעם לא רואה אותי</l>
+          <l>אני מורד בך בגלל בדידותי</l>
+          <l>אני מבקש אני מבקש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>להיות באור הנורא להסתנוור מהשמש הטובה</l>
+          <l>להיות אנושי לא להיות רע לקבל ולתת אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלוואי שהלילה אף אחד לא ימות</l>
+          <l>שלא יהיה צער ולא אלימות</l>
+          <l>אני מבקש אני מבקש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>להיות באור הנורא...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני מתפלל אני מתפלל</l>
+          <l>חבק אותי אמץ אותי אל תוך ליבך</l>
+          <l>אני זקוק בסך הכל בסך הכל להיות באור</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

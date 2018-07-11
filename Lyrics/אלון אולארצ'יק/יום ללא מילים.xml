@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום ללא מילים</title>
+        <singer classification="unknown">אלון אולארצ יק</singer>
+        <writer>אלון אולארצ'יק</writer>
+        <composer>אלון אולארצ'יק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום ללא מילים</head>
+        <lg number="1" type="stanza">
+          <l>איתך יש לי רצון</l>
+          <l>בשביל הנסיון</l>
+          <l>לא לפתוח את הפה</l>
+          <l>כן איתך אני רוצה</l>
+          <l>בשקט כל הזמן</l>
+          <l>כאילו בלי מובן</l>
+          <l>יום ללא מילים בכלל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הקץ למילים - גמרנו</l>
+          <l>אמרנו את הכל</l>
+          <l>מילה היא רק מילה - לא יותר</l>
+          <l>יפה השתיקה</l>
+          <l>יפה היא כמו מלכה</l>
+          <l>נסתכל רק בעיניים ונקשיב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רד רד לילה</l>
+          <l>צמד כוכבים</l>
+          <l>מסתכל הלילה בנו</l>
+          <l>כמו באוהבים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

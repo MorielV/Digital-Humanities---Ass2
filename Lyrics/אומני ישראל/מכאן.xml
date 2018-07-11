@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מכאן</title>
+        <singer classification="unknown">אומני ישראל</singer>
+        <writer>יגאל בשן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מכאן</head>
+        <lg number="1" type="stanza">
+          <l>מכאן, לא חשוב לאן</l>
+          <l>לא נזוז מכאן,</l>
+          <l>יחד נישאר ואולי</l>
+          <l>מכאן, בוקר יעלה,</l>
+          <l>אני לא אתפלא</l>
+          <l>שאני עוד כאן..</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כאן הכל התחיל,</l>
+          <l>לא יגמר לעולם</l>
+          <l>כאן שוב נשבעים</l>
+          <l>מתפללים עם כולם</l>
+          <l>לא נהיה לבד</l>
+          <l>אוספים את התקוות</l>
+          <l>הלילה עוד מותר לנו לבכות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מכאן יש לי אור קטן</l>
+          <l>אם אני עוד כאן</l>
+          <l>זה תמיד סימן </l>
+          <l>שיבוא רק טוב</l>
+          <l>אלוקים לקח</l>
+          <l>אלוקים נתן</l>
+          <l>אור כחול לבן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כאן הכל התחיל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

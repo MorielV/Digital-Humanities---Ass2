@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לבקש מילים</title>
+        <singer classification="unknown">אליה בוסקילה</singer>
+        <writer>אליה בוסקילה</writer>
+        <composer>אליה בוסקילה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לבקש מילים</head>
+        <lg number="1" type="stanza">
+          <l>קמה הבוקר לעוד קפה לבד</l>
+          <l>רושמת אתה לא כאן כבר חודשיים</l>
+          <l>תסלח לי אם אתקשר לבקש מילים</l>
+          <l>אתה המשכת כל כך מהר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תגיד איך החיבוק</l>
+          <l>תגיד לי אם זה חם</l>
+          <l>אם טוב לכם היום, מחר תיסעו לים</l>
+          <l>ואיך הנשימות</l>
+          <l>תגיד איך היא שרה</l>
+          <l>ואיך עובר הזמן כשגשם בחוץ</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם היום אתה חוזר אליה</l>
+          <l>אם היום אתה חוזר</l>
+          <l>אני מזמן נושמת מישהו אחר</l>
+          <l>אתה חסר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>גם השולחן פה ריק ממכתב של בוקר</l>
+          <l>"שיהיה לך יום נפלא, אהובה"</l>
+          <l>זמן עבר, תראה אני בסדר</l>
+          <l>רק תספר לי מה היא כותבת שם</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תגיד איך החיבוק...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אם היום אתה חוזר אליה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>תגיד איך החיבוק</l>
+          <l>תגיד לי אם זה חם</l>
+          <l>עדיין מחכה</l>
+          <l>זה רק אתה שקם</l>
+          <l>אל הנשימות שלה</l>
+          <l>ואיך היא שרה</l>
+          <l>לי לא עובר הזמן כשגשם בחוץ</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>אם היום אתה חוזר אליה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

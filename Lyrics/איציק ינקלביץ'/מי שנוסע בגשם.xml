@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי שנוסע בגשם</title>
+        <singer classification="unknown">איציק ינקלביץ </singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>איציק ינקלביץ'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי שנוסע בגשם</head>
+        <lg number="1" type="stanza">
+          <l>מי שנוסע בגשם </l>
+          <l>לומד לחפש לו נתיב </l>
+          <l>בין הטיפות על הגשר </l>
+          <l>לבין החומות מסביב. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מי שנוגע בחומר </l>
+          <l>נכון אל האש והכפור. </l>
+          <l>מי שנוגע ברוח </l>
+          <l>מצמיח כנפיים של אור. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מי שנוסע על פני המסלול </l>
+          <l>בין הטיפות הזורמות, </l>
+          <l>לא יעצרוהו שמיים וגבול </l>
+          <l>כי הוא האדון לעצמו. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי שנוסע בגשם </l>
+          <l>לומד להכיר את עצמו </l>
+          <l>בין הכוכב והקשת </l>
+          <l>לבין מציאות חלומו. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מי שעמל כל הקיץ </l>
+          <l>יגיע בשל אל הסתיו. </l>
+          <l>מי שזרע יום וליל </l>
+          <l>ישאיר את פריו אחריו. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מי שנוסע על פני המסלול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

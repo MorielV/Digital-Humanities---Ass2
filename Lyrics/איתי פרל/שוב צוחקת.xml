@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שוב צוחקת</title>
+        <singer classification="male singer">איתי פרל</singer>
+        <writer>איתי פרל</writer>
+        <composer>איתי פרל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שוב צוחקת</head>
+        <lg number="1" type="stanza">
+          <l>יום שהתחיל נגמר</l>
+          <l>והשמש כבר</l>
+          <l>נעלמה בהר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עד יעלה האור</l>
+          <l>נסי לזכור</l>
+          <l>זה לא יעזור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לילה ורוח קר</l>
+          <l>הכאב נשאר</l>
+          <l>זה עוד לא נגמר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עד יעלה עשן</l>
+          <l>לא אלך מכאן</l>
+          <l>אני קורא לך לחזור</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מה יעשה אותך שוב</l>
+          <l>צוחקת</l>
+          <l>ומה יעשה לך עצוב</l>
+          <l>בדרך אליי</l>
+          <l>אני קורא לך לבוא</l>
+          <l>קורא לך לבוא</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כמה אפשר ליפול</l>
+          <l>על כאב גדול</l>
+          <l>שהיה אתמול</l>
+          <l>אם תסלחי לי קצת</l>
+          <l>בשנייה אחת</l>
+          <l>אני שוכח הכל</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>מה יעשה אותך שוב...</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>יום שהתחיל נגמר</l>
+          <l>והשמש כבר נעלמה בהר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מישהו אחר</title>
+        <singer classification="unknown">אורי אילוז</singer>
+        <writer>אורי אילוז</writer>
+        <composer>אורי אילוז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מישהו אחר</head>
+        <lg number="1" type="stanza">
+          <l>מכות את יודעת </l>
+          <l>לתת את נשבעת </l>
+          <l>שתמשיכי לנקום </l>
+          <l>מחפשת אחיזה </l>
+          <l>בדמעות את שוקעת </l>
+          <l>בעצמך את נוגעת </l>
+          <l>(אני) במחשבות שלך </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ומעלי אין שמיים </l>
+          <l>ואין לי אוויר בריאות </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם תבואי לא אבין, לא אסתדר </l>
+          <l>לא אשקר, הפכתי מישהו אחר </l>
+          <l>אם תבואי לא אהיה כאן בשבילך </l>
+          <l>רק לדבר, הפכתי מישהו אחר </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה לעשות איתך הלאה </l>
+          <l>זה כתוב מלמעלה </l>
+          <l>ואין סיכוי להשתכנע </l>
+          <l>כי הכל כבר מת מזמן </l>
+          <l>להתכסות בכל לילה </l>
+          <l>עם עוד אחת שלא די לה </l>
+          <l>אני רוצה שאת תדעי </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שמעלי אין שמיים </l>
+          <l>ואין לי אוויר בריאות </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אם תבואי לא אבין...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כך שלבינתיים, את לבד ואין, לי אין שמיים </l>
+          <l>כך שלבינתיים, את לבד </l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>ואם תבואי לא אבין...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

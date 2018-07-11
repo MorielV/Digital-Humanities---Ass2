@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הדוב והנחש</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>אביתר בנאי</composer>
+        <album>אביתר בנאי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הדוב והנחש</head>
+        <lg number="1" type="stanza">
+          <l>בשקט בשקט</l>
+          <l>לא מעיר את השכן</l>
+          <l>לאט לאט מאוד</l>
+          <l>צריך לעמוד יותר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הנחש מתקרב</l>
+          <l>וכשהדוב ישן הוא לא ידע בכלל</l>
+          <l>איך זה קרה</l>
+          <l>מתקרב מתקרב</l>
+          <l>נשיקת נחש קטנה</l>
+          <l>לא בכי, לא צעקה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זהירות זהירות</l>
+          <l>לא לשבור שום דבר</l>
+          <l>לבד</l>
+          <l>לא לחכות</l>
+          <l>ואחר כך לשתות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הנחש מתקרב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

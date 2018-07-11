@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה רודפת</title>
+        <singer classification="unknown">איציק בן ארי</singer>
+        <writer>דודו ברק</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה רודפת</head>
+        <lg number="1" type="stanza">
+          <l>שוב אני אל ההרים נמלט</l>
+          <l>מאהבתך אלי הבת</l>
+          <l>לא בהר בגב בצלע</l>
+          <l>גם לא בין חגווי הסלע</l>
+          <l>לא אמצא מסתור או עיר מקלט</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא אמצא מזור לנפש</l>
+          <l>כל עוד את אותי רודפת</l>
+          <l>מן האהבה אין כל מפלט</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אחר כך אברח לי אל הים</l>
+          <l>שמא לא תגיעי עד לשם</l>
+          <l>אך אהבתך צוללת עד אל תוך גלי התכלת</l>
+          <l>שם אהבתך אלי תשעט</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא אמצא מזור...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לבסוף אנוס אל המדבר</l>
+          <l>שם תופיעי לי בדמות הגר</l>
+          <l>בין השמש לירח</l>
+          <l>אל האופק נס בורח</l>
+          <l>לו בנוה מדבר אמצאמשלט</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא אמצא מזור לנפש</l>
+          <l>כל עוד את אותי רודפת</l>
+          <l>מן האהבה אין כל מפלט</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר החי ל</title>
+        <singer classification="unknown">אילקה רווה</singer>
+        <writer>יעקב אורלנד</writer>
+        <composer>מרדכי זעירא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר החי"ל</head>
+        <lg number="1" type="stanza">
+          <l>דמנו נהר ואשד, </l>
+          <l>בריתנו קוראת: נקם!</l>
+          <l>נשבענו, נשבענו, אחים, לנשק, </l>
+          <l>אשר לא ישוב ריקם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עלי נא, עלי, </l>
+          <l>שלהבת שלי, </l>
+          <l>בדם חלליך הדליקי-נא אור.</l>
+          <l>היי-נא, היי, </l>
+          <l>שלהבת שלי, </l>
+          <l>בפי חיליך מזמור.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כי אם את הברית נקימה, </l>
+          <l>ואם תעמוד לעד, </l>
+          <l>אשרי היורים, היורים קדימה, </l>
+          <l>אשרי הנופלים על יד.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עלי-נא, עלי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואור כי יבקע מליל</l>
+          <l>ובן כי יולד לדור, </l>
+          <l>יושר-נא, יושר-נא לו שיר החי"ל, </l>
+          <l>אשר לא נסוג אחור!</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עלי-נא , עלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

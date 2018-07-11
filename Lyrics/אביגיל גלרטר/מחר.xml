@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחר 6</title>
+        <singer classification="unknown">אביגיל גלרטר</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>רונן הופמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחר</head>
+        <lg number="1" type="stanza">
+          <l>מחר אנחנו נצא </l>
+          <l>אל חוף נחל ירוק </l>
+          <l>במימיו איבדה החמה </l>
+          <l>טבעת זהב</l>
+          <l>אנחנו נשוט בסירה </l>
+          <l>בנחל ירוק </l>
+          <l>עמוק עמוק במימיו</l>
+          <l>טבעת זהב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>המכמרת תרד למצולה </l>
+          <l>תעלה הטבעת ברשת </l>
+          <l>תענדנה על אצבעי </l>
+          <l>הרי את מקודשת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

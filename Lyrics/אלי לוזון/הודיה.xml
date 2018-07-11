@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הודיה 2</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>נורית בת-שחר צפריר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הודיה</head>
+        <lg number="1" type="stanza">
+          <l>את כל כך שלי, אותה רקמה חיה</l>
+          <l>כל אהבתי תהא לך נדוניה</l>
+          <l>על שם תפילתי את לנצח קרויה</l>
+          <l>תודה ילדתי זה כמו הללויה</l>
+          <l>הודייה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בזכותך אני אבא, אודה ליה</l>
+          <l>ואת בי שיר ומנגינה חבויה</l>
+          <l>בליבי כתבי תווים בקול המיה</l>
+          <l>הרעידי בי מיתר בתי הודייה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את אביב שלי, פריחת השקדיה</l>
+          <l>הודייה שלי, שירה יפיפייה</l>
+          <l>כל המלאכים יהיו לך פמליה</l>
+          <l>ילדתי שלי, אחת ואין שניה</l>
+          <l>הודייה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בזכותך אני אבא...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נשמה שלי, את אותי מחייה</l>
+          <l>את בין פעימות הלב לבין הדומיה</l>
+          <l>אבק הכוכבים משרביט הפיה</l>
+          <l>את המילה האחת אשר אין דיה</l>
+          <l>הודייה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בזכותך אני אבא...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>שנים חיכיתי לך חולם בציפיה</l>
+          <l>עצמתי עיני עד קצות  הראיה</l>
+          <l>שם ראיתי אותך אל ידי מגיעה</l>
+          <l>תראי מלב של אבא מה נהיה.</l>
+          <l>הודייה.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>בזכותך אני אבא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

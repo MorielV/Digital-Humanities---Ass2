@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בגלל מסמר</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>נעמי שמר</writer>
+        <composer>נעמי שמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בגלל מסמר</head>
+        <lg number="1" type="stanza">
+          <l>מפרסתו הימנית, </l>
+          <l>של סוס קרבות דוהר</l>
+          <l>בבוקר צח וזיווני, </l>
+          <l>נפל פתאם מסמר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הכל בגלל מסמר קטן</l>
+          <l>הכל בגלל מסמר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז פרסתו הימנית, </l>
+          <l>של סוס קרבות דוהר</l>
+          <l>נפלה גם היא, </l>
+          <l>נפלה גם היא</l>
+          <l>כנפול אותו מסמר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הכל בגלל...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>צלע על רגל ימנית, </l>
+          <l>אז סוס קרבות דוהר</l>
+          <l>וחץ מהיר ופחזני, </l>
+          <l>ביתר אותו ביתר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הכל בגלל..</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>נפול נפל אז הרוכב, </l>
+          <l>מסוס קרבות דוהר</l>
+          <l>והאויב, והאויב </l>
+          <l>קדימה הסתער.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>הכל בגלל...</l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>הובס הקרב נפלה העיר, </l>
+          <l>כסוס קרבות דוהר</l>
+          <l>וכל השיר, וכל השיר - </l>
+          <l>חדל בגלל מסמר.</l>
+        </lg>
+        <lg Chorus="yes" number="10" type="stanza">
+          <l>הכל בגלל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

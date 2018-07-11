@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הרכבת כבר עברה בתחנה</title>
+        <singer classification="female singer">אסתר שמיר</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>אסתר שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הרכבת כבר עברה בתחנה</head>
+        <lg number="1" type="stanza">
+          <l>לעיתים קרובות מדי הדרך מתעקשת</l>
+          <l>הרגע כבר עבר ואני עוד ממתינה</l>
+          <l>כולם כולם הלכו ולפני שאני תופשת</l>
+          <l>הרכבת כבר עברה בתחנה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לעיתים קרובות מדי עוד הזדמנות חומקת</l>
+          <l>הזמן חולף מהר שנה אחר שנה</l>
+          <l>והמזל נופל בחיק מי שצוחקת</l>
+          <l>הרכבת כבר עברה בתחנה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז אל תשאירו אותי מאחור</l>
+          <l>אולי זו רק פאניקה קטנה (וזה עובר)</l>
+          <l>אם לא תשאירו אותי מאחור</l>
+          <l>כשהרכבת כבר עברה בתחנה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לעיתים קרובות מדי אני הולכת ומועדת</l>
+          <l>לעבר הקטר שצופר במסילה</l>
+          <l>ועד שאני רואה ועד שאני מודדת</l>
+          <l>הרכבת כבר עברה בתחנה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אז אל תשאירו...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לעיתים קרובות מדי, אחת ליום בערך</l>
+          <l>אני קונה כרטיס עוד פעם אחרונה</l>
+          <l>כי איש לא יעבור יותר, כאן זה סוף הדרך</l>
+          <l>הרכבת כבר עברה בתחנה</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אז אל תשאירו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

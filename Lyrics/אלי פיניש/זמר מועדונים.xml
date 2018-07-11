@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זמר מועדונים</title>
+        <singer classification="male singer">אלי פיניש</singer>
+        <writer>אלי פיניש</writer>
+        <composer>אהרל'ה קירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זמר מועדונים</head>
+        <lg number="1" type="stanza">
+          <l>מחיאות, פחיות</l>
+          <l>לבמה שלי עפות</l>
+          <l>ואני עומד כאן לבד</l>
+          <l>עם שיר שלא מזיז לאף אחד</l>
+          <l>שתי זקנות מחייכות</l>
+          <l>לי עיניים הן עושות</l>
+          <l>"אתה הרי מוכר", הן שואלות</l>
+          <l>מכרתי איזה עשר קלטות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי אני זמר מועדונים</l>
+          <l>אני נמצא בקאמבק כבר שנים</l>
+          <l>תנו רק לנשום את האבק שבא מהכוכבים</l>
+          <l>יש לי רק שלוש מעריצות</l>
+          <l>השכנה ושתי הבנות דודות</l>
+          <l>זה מה שהצלחתי להיות</l>
+          <l>זמר של לוח מודעות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כבר שנתיים איתך</l>
+          <l>שיר קצר כתבתי לך</l>
+          <l>את לא מתרגשת בכלל</l>
+          <l>ועוד סיפור של אהבה נפל</l>
+          <l>ועכשיו בהופעה מזמין את החתן והכלה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי אני זמר מועדונים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

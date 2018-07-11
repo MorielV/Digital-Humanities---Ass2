@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עננים 4</title>
+        <singer classification="unknown">אורן ג ורנו</singer>
+        <writer>אורן ג'ורנו</writer>
+        <composer>אורן ג'ורנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עננים</head>
+        <lg number="1" type="stanza">
+          <l>דרך ערפל עשן,נסיעה שלא נגמרת</l>
+          <l>יש כאן שבר בענן,חזאית עכשיו אומרת, גשם כאן</l>
+          <l>הוא מתחיל ולא נגמר, תישאר יהיה בסדר.</l>
+          <l>רחובות הוא מנקה ושוטף מפה ת'זבל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עננים באים מרחוק המבול כאן בקרוב...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשהגשם הראשון ירד לו מלמעלה הוא ינקה לנו את הנשמה</l>
+          <l>עננים של טוב ירדו מלמעלה ויעשו פה אהבה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>השמיים נפתחו מה עשינו שמגיע שפע?</l>
+          <l>ילדים ברחוב שיחקו עם קרן שמש שתופיע</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עננים באים מרחוק המבול כאן בקרוב...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כשהגשם הראשון ירד לו מלמעלה הוא ינקה לנו את הנשמה</l>
+          <l>עננים של טוב ירדו מלמעלה</l>
+          <l>ויעשו פה אהבה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

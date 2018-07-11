@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתהלך לבדי</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>אבי ביטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתהלך לבדי</head>
+        <lg number="1" type="stanza">
+          <l>אל תשאלו כמה בכיתי חברים</l>
+          <l>אל תשאלו כמה שתיתי ידידים</l>
+          <l>אני שותה עוד כוס של יין ובוכה</l>
+          <l>אני שותה בישביל לשכוח את הגורל הזה</l>
+          <l>שום חבר לא נשאר לי גם לא ידיד</l>
+          <l>כמו שיכור מסתובב והכל מפחיד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מתהלך לבדי ברחובות</l>
+          <l>בלי כוכב שיאיר לי את הלילות</l>
+          <l>תשאלו את העיינים כמה בכיתי</l>
+          <l>תשאלו את הבקבוק כמה שתיתי</l>
+          <l>תשאלו את העיינים כמה בכיתי</l>
+          <l>תשאלו את הבקבוק כמה שתיתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חברים אותי שיכור ברחוב ראו</l>
+          <l>לא הושיטו את ידם והלכו</l>
+          <l>שהיה לי פעם טוב אותי הם אהבו</l>
+          <l>ועכשיו אני שואל לאן הלכו</l>
+          <l>שהיה לי פעם טוב אותי אהבו</l>
+          <l>ועכשיו אני שואל לאן הלכו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מתהלך לבדי ברחובות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

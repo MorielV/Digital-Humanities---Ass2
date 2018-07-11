@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פנינים מדמעות</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>מאיר גולדברג</writer>
+        <composer>רן בגנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פנינים מדמעות</head>
+        <lg number="1" type="stanza">
+          <l>אנשי שלומנו, שואלים לשלומנו</l>
+          <l>השלום שאיננו, הוא שלום בלהות</l>
+          <l>למי שבעדנו, קשה לראות</l>
+          <l>איך עוברות עלינו, השעות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עושים פנינים מדמעות,</l>
+          <l>פנינים מדמעות.</l>
+          <l>עושים פנינים מדמעות,</l>
+          <l>פנינים מדמעות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חולי ירח, מחכים לאורח</l>
+          <l>הזמן בורח, מתיבת ההפתעות</l>
+          <l>למי שבעדנו, קשה לראות</l>
+          <l>איך עוברות עלינו, השעות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עושים פנינים מדמעות,</l>
+          <l>פנינים מדמעות.</l>
+          <l>עושים פנינים מדמעות,</l>
+          <l>פנינים מדמעות.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>גם ידידנו הטובים ביותר,</l>
+          <l>לא יצליחו תמיד להזדהות,</l>
+          <l>עם אותה תפילה שהפחד יוצר,</l>
+          <l>מהשפתיים, מבין האצבעות.</l>
+          <l>היינו חכמים יותר,</l>
+          <l>אם לא היינו מחכים לאות.</l>
+          <l>העניינים יגעים, העיניים יגעות.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עושים פנינים מדמעות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

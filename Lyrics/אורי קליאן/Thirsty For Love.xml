@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Thirsty For Love</title>
+        <singer classification="male singer">אורי קליאן</singer>
+        <writer>אורי קליאן</writer>
+        <composer>דיויד בואי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Thirsty For Love</head>
+        <lg number="1" type="stanza">
+          <l>נסתרות הן הדרכים</l>
+          <l>איך פתאום אני כמו ילד </l>
+          <l>רוצה הכל מהתחלה </l>
+          <l>ידיים מושטות מנגד </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מי אמר שאת הכל צריך לדעת? </l>
+          <l>שמש בוקר מאירה, אותי משגעת </l>
+          <l>עוד טיפה של פשטות, בי היא פוגעת </l>
+          <l>יש צמא לאהבה, רוצה לגעת </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מרחבים בלי מחשבות </l>
+          <l>משפטים שלא נגמור כבר </l>
+          <l>מוריד ממך את הקליפה </l>
+          <l>את רואה שלך אני שר </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מי אמר שאת הכל צריך לדעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

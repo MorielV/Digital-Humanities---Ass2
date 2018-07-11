@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ימים יגידו</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>טום נגולה</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ימים יגידו</head>
+        <lg number="1" type="stanza">
+          <l>אם גופי יכאב עמוק את לכתך</l>
+          <l>אם אדם אחר יכיל גודל אהבתך</l>
+          <l>אם יהיה דומה מגע ידיו לידיי</l>
+          <l>לילות יגידו את חיי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם עינייך ילטפו את פניו</l>
+          <l>חום גופך ימיס את לילותיו</l>
+          <l>אם תלחשי לו מילות אהבה</l>
+          <l>לילות יגידו אין כמוך אויי אהובה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ימים יגידו</l>
+          <l>אם געגוע יתגנב אל תוך ליבך</l>
+          <l>אם בשקט אם אצעק בקול את שמך</l>
+          <l>אם תלכי, אני נשבע אני שלך אני איתך</l>
+          <l>עכשיו שבור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם לעת זריחה אתעורר לצד דמותך</l>
+          <l>אסיט ראשי כשאביט על סף ביתך</l>
+          <l>אם אחפש דמיון פנייך בנשות הרחוב</l>
+          <l>לילות יגידו רוצה אותך קרוב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם לעת שקיעה אדמיין את קולך</l>
+          <l>אשיר לך שיר אקרא בשמך</l>
+          <l>אם בשבילי הדרכים תשובי אליי</l>
+          <l>לילות יגידו את אהבת חיי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ימים יגידו</l>
+          <l>אם געגוע יתגנב אל תוך ליבך</l>
+          <l>אם בשקט אם אצעק בקול את שמך</l>
+          <l>אם תלכי, אני נשבע אני שלך אני איתך</l>
+          <l>עכשיו שבור</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

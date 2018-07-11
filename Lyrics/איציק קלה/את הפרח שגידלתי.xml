@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את הפרח שגידלתי</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>איציק קלה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את הפרח שגידלתי</head>
+        <lg number="1" type="stanza">
+          <l>אני רואה אותך ושוב נפשי נפעמת</l>
+          <l>כי את לי מתנה יפה, כל כך מושלמת</l>
+          <l>את יפה כמו הירח, בזכותך כוכב זורח</l>
+          <l>את הופכת יום של חול ליום שבת</l>
+          <l>את יפה כמו הירח, בזכותך כוכב זורח</l>
+          <l>לצידך שוב מחדש אני נולד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את הפרח שגידלתי, את האושר שחיפשתי</l>
+          <l>אלוקים ברא אותך למעני</l>
+          <l>את הפרח שגידלתי, את האושר שחיפשתי</l>
+          <l>כי את חלק מגופי, אהובתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלילה שיורד עוטף בחום את שנינו</l>
+          <l>ומשמים מלאכים שומרים עלינו</l>
+          <l>לא יודע מה קרה לי, לליבי את יקרה לי</l>
+          <l>וכל רגע לצידך הוא אגדה</l>
+          <l>לא יודע מה קרה לי, לליבי את יקרה לי</l>
+          <l>והנשמה שלי רק לך מודה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את הפרח שגידלתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

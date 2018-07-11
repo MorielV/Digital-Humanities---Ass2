@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דגלי</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>שלומית כהן אסיף</writer>
+        <composer>יוני רכטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דגלי</head>
+        <lg number="1" type="stanza">
+          <l>אולי מיליון פעם דגתי במים</l>
+          <l>ואף פעם לא תפסתי דג.</l>
+          <l>והיום, הרבה שמש, הרבה שמיים</l>
+          <l>בחכה שלי ראיתי דג.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הידד לי!</l>
+          <l>קראתי לו דגלי.</l>
+          <l>דגלי פחד</l>
+          <l>כל גופו רעד לי</l>
+          <l>ביד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מבולבל מרוב חג</l>
+          <l>נפלתי למים</l>
+          <l>נרטבה החולצה</l>
+          <l>נרטבו המכנסיים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>דגלי קפץ לי</l>
+          <l>מן היד</l>
+          <l>לים נמלט.</l>
+          <l>ולי לא אכפת</l>
+          <l>היום דגתי דג.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

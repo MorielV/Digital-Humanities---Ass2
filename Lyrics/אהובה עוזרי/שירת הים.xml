@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שירת הים</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אמה מטה לוי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שירת הים</head>
+        <lg number="1" type="stanza">
+          <l>גלי הים נושקים רגלי</l>
+          <l>בחום השמש ישבתי שם</l>
+          <l>לך תמיד חיכיתי</l>
+          <l>שמך בחול רשמתי</l>
+          <l>כי אתה לי כמו ספינה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אהבה זאת לא ספינה</l>
+          <l>עם הזמן זאת תדע</l>
+          <l>אך אני חיכיתי עם שירת הים</l>
+          <l>כי אני שייכת לך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זהוב החול מתחתי</l>
+          <l>מרכך לי את הנשמה</l>
+          <l>למרחקים אביטה</l>
+          <l>עם האפק אנעימה</l>
+          <l>כי לך רק אספר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אך הים הוא כה אכזר</l>
+          <l>נשמות הוא כבר לקח</l>
+          <l>איך אדע מה גורלי</l>
+          <l>כי הים הוא אכזר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

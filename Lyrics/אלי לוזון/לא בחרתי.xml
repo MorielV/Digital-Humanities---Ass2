@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא בחרתי 2</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא בחרתי</head>
+        <lg number="1" type="stanza">
+          <l>לא ביקשתי לבוא אל העולם, אבל באתי... </l>
+          <l>לא נשאלתי מתי והיכן אבקש </l>
+          <l>לא בחרתי לי אבא לא בחרתי לי עם </l>
+          <l>אך לי תמיד לי אמרו יש בורא לעולם </l>
+          <l>לא בחרתי לי אבא לא בחרתי לי עם </l>
+          <l>אך לי תמיד לי אמרו יש בורא לעולם </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שיודע הכל והכל הוא רואה זה עולמו </l>
+          <l>והוא כל יכול הוא יעזור הוא גם ישמור </l>
+          <l>הוא הבורא הנורא הגדול </l>
+          <l>אם נאמין בטובו לא יחסר ולא ניפול </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עת אבוא לפניך לבקש רחמיך </l>
+          <l>תתן לעובדך כי דבר לי אינך </l>
+          <l>את התורה לא הבנתי מרוב פרשנים </l>
+          <l>אך תמיד האמנתי יש מעל אלוקים </l>
+          <l>את התורה לא הבנתי מרוב פרשנים </l>
+          <l>אך תמיד האמנתי יש מעל אלוקים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שיודע הכל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

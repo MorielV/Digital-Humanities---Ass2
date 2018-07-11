@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למי אני שייך</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אבי טולדנו</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למי אני שייך</head>
+        <lg number="1" type="stanza">
+          <l>למי אני שייך לעזאזל </l>
+          <l>בין הכיסאות אני תמיד נופל </l>
+          <l>האם קיים סיכוי בכלל להתקבל </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבל הכל חסום </l>
+          <l>ואי אפשר לקום </l>
+          <l>ולא נשאר פה כלום </l>
+          <l>ואתה אומר </l>
+          <l>הם לא שווים יותר </l>
+          <l>ובשבילנו הכל נשאר פתוח </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>למי אני שייך לעזאזל </l>
+          <l>האם אני מוכרח יותר לסלסל </l>
+          <l>אולי בקו ישר זה פחות מבלבל </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבל הכל חסום... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הו! ספר לי על ההוא </l>
+          <l>שבא לכאן בלי כלום </l>
+          <l>מארץ רחוקה </l>
+          <l>איך הפך לו לסיפור </l>
+          <l>הכל היה שמור רק לו באהבה </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>למי אני שייך לעזאזל </l>
+          <l>עוד מחפש מקום חדש להתגלגל </l>
+          <l>ומחכה כל יום לנס שיתחולל </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אבל הכל חסום... </l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

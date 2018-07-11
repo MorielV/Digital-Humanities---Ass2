@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אצו רצו גמדים</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>מרים ילן שטקליס</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אצו רצו גמדים</head>
+        <lg number="1" type="stanza">
+          <l>אצו רצו גמדים -</l>
+          <l>טרל-רל-רידים,</l>
+          <l>אצו רצו שיחקו -</l>
+          <l>קוקו-ריקו-ריקוקו,</l>
+          <l>שיחקו במחבואים -</l>
+          <l>בילים-בילים-בים-בם-בים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואחד קטון קטן,</l>
+          <l>שם יפה לו טימפינטן,</l>
+          <l>התחבא בתוך שבלול -</l>
+          <l>לולי-לולי-לולי-לול,</l>
+          <l>אך לצאת הוא לא ידע -</l>
+          <l>דדי-דדי-רידדה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בשבלול הגוץ נרדם, -</l>
+          <l>עד הבוקר נם שם, נם.</l>
+          <l>נומה, נומה גם אתה -</l>
+          <l>טט-רט-ריטטה.</l>
+          <l>נומי, נומי נא גם את -</l>
+          <l>טירלי-טירלי-טירליטט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

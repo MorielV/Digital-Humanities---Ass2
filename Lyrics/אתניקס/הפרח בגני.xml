@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הפרח בגני 2</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הפרח בגני</head>
+        <lg number="1" type="stanza">
+          <l>מיום אביב בהיר וצח אותך אני זוכר</l>
+          <l>וכבר מאז היטב ידעתי שלא אוותר</l>
+          <l>כי לי היית בבת עיני בכל יום וכל ליל</l>
+          <l>היית לי כמלאך האל מתוך הערפל.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רציתי לבקש ידך רציתי לך לומר</l>
+          <l>סוד אהבה שבלבבי שמור מכל משמר</l>
+          <l>רציתי לך לומר אהבתי אהבתי ונגמר</l>
+          <l>אך לא העזתי גם כשהיה כבר מאוחר.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את עולמי עם שחר את לי כל היום</l>
+          <l>את עולמי בלילה את החלום</l>
+          <l>את בדמי ברוחי ולבבי</l>
+          <l>את הניחוח המתוק הפרח בגני.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מאז הלכת יומי קודר ארוך ומשעמם</l>
+          <l>לשוא רוצה אני לשכוח ולהתעלם</l>
+          <l>חזרי מהר כי בלעדייך עולמי שומם</l>
+          <l>נדמו מיתרי קולי וכינורי דומם.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את עולמי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

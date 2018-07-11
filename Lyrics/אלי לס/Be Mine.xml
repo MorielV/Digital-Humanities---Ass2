@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Be Mine</title>
+        <singer classification="male singer">אלי לס</singer>
+        <writer>אלי לס</writer>
+        <composer>אלי לס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Be Mine</head>
+        <lg number="1" type="stanza">
+          <l>And when the night's falling </l>
+          <l>Dogs are barking </l>
+          <l>Trees are hanging low </l>
+          <l>She's gone and I'm relieved </l>
+          <l>Just another poorly chosen bone </l>
+          <l>Back to the guitar </l>
+          <l>Random clichés on the smooth bright neck </l>
+          <l>Of a feminine substitute </l>
+          <l>There's an only feeling </l>
+          <l>Nothing left to fake </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Be mine in speed notes </l>
+          <l>And far away roads </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>I want to be naked all of the time </l>
+          <l>Nothing but sandals </l>
+          <l>They were yours </l>
+          <l>Back then I felt like they're mine </l>
+          <l>Without position it feels like you own your fate </l>
+          <l>But the minute you're out again </l>
+          <l>You're brain is struggling </l>
+          <l>Too late </l>
+          <l>It's flooded with junk </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>Be mine in speed notes </l>
+          <l>And far away roads</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

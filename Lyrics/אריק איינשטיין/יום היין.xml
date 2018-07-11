@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום היין</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>על גבול האור</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום היין</head>
+        <lg number="1" type="stanza">
+          <l>לא עושה חשבון לאף אחד</l>
+          <l>היום זה היום שלי</l>
+          <l>לא כל יום אני עושה לי חג</l>
+          <l>היום אני אוהב אותי</l>
+          <l>היום יום היין</l>
+          <l>מלא את הכוס לחיים</l>
+          <l>זה יום היין</l>
+          <l>כן הלילה צעיר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מי שמעוניין לבוא איתי</l>
+          <l>אז אהלן וסהלן</l>
+          <l>מי שמעוניין לחגוג איתי</l>
+          <l>כל הלילה יש לי זמן</l>
+          <l>היום יום היין</l>
+          <l>מלא את הכוס לחיים</l>
+          <l>זה יום היין</l>
+          <l>כן הלילה צעיר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בא לי, בא לבכות מתוך שמחה</l>
+          <l>בא לי לחבק אותך</l>
+          <l>לבקש ממך סליחה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היום יום היין</l>
+          <l>סולחים על הכל ביין</l>
+          <l>זה יום היין</l>
+          <l>כן הלילה צעיר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בא לי, בא לבכות מתוך שמחה</l>
+          <l>בא לי לחבק אותך</l>
+          <l>לבקש ממך סליחה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הכל על היין</l>
+          <l>סולחים על הכל ביין</l>
+          <l>זה יום היין</l>
+          <l>כן הלילה צעיר</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>לילה, הו לילה</l>
+          <l>לילה, כן הלילה צעיר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

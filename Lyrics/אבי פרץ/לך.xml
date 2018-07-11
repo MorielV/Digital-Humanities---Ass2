@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לך 8</title>
+        <singer classification="male singer">אבי פרץ</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לך</head>
+        <lg number="1" type="stanza">
+          <l>עברתי ברחוב כשאת הופעת ממול</l>
+          <l>אמרת שלום אני נתפסתי לבלבול</l>
+          <l>מאז הלכת חיכיתי כמו עלה נבול</l>
+          <l>לך לך...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אולי טעיתי לא רצית אז לוותר</l>
+          <l>גם כשלחשתי לך באוזן מצטער</l>
+          <l>אבל בכל זאת את אהבתי שומר</l>
+          <l>לך לך...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רק אלייך אני תמיד רציתי</l>
+          <l>מאז שהלכת לבד הייתי </l>
+          <l>בלילות בימים </l>
+          <l>רק לך חיכיתי לך </l>
+          <l>לה לה לה לה לה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>האהבה שלך לימדה אותי שיעור</l>
+          <l>היום אני רואה הכל יותר ברור</l>
+          <l>לא מתבטא עכשיו הלב שלי שבור</l>
+          <l>לך לך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל תכעסי עלי סילחי לי על הכל</l>
+          <l>ותשכחי את כל מה שהיה אתמול </l>
+          <l>אני אתן לך את כל מה שאני יכול</l>
+          <l>לך לך...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רק אלייך אני תמיד רציתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיבוב קיץ</title>
+        <singer classification="unknown">אורי חזקיה</singer>
+        <writer>אורי חזקיה</writer>
+        <composer>אורי חזקיה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיבוב קיץ</head>
+        <lg number="1" type="stanza">
+          <l>שמש באה, מסתובב בתחתונים</l>
+          <l>שש בש דמקה, אל הים עם חברים</l>
+          <l>מי זאת ההיא? יש מצב היא מחפשת</l>
+          <l>מישהו כמוני או שהיא בסרט</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד סיבוב של קיץ</l>
+          <l>סיבוב אחד ודי</l>
+          <l>בחורות בטייץ</l>
+          <l>תגידי רק מתי</l>
+          <l>ואני שלך לעוד סיבוב של קיץ</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ערב בא כבר, אין מזגן יש מאוורר</l>
+          <l>נותן קפיצה אני בבר, שותה ומברר</l>
+          <l>מי זאת ההיא? כל הזמן היא מסתכלת</l>
+          <l>לכיוון שלי או שאני בסרט</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוד סיבוב של קיץ</l>
+          <l>סיבוב אחד ודי</l>
+          <l>בחורות בטייץ</l>
+          <l>תגידי רק מתי</l>
+          <l>ואני שלך לעוד סיבוב של קיץ</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בוקר קמתי, מתהפך במיטתי</l>
+          <l>וכף של יד מלטפת את ראשי</l>
+          <l>מי זאת בכלל? לא זוכר איך זה קרה לי</l>
+          <l>אני שם עלי שרוואל ויוצא מהר ל...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עוד סיבוב של קיץ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחפש את הדרך</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>איברהים טאטליסיס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחפש את הדרך</head>
+        <lg number="1" type="stanza">
+          <l>אני נשבע באהבה</l>
+          <l>שבטוב וברע</l>
+          <l>אהיה שלך ורק שלך</l>
+          <l>כי בשבילך ליבי נברא</l>
+          <l>את האש אל תכבי</l>
+          <l>כי אותי תאבדי</l>
+          <l>תני תקווה לאהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מחפש את הדרך לליבך</l>
+          <l>מחפש את האושר לצידך</l>
+          <l>מתרגש בכל רגע לראותך</l>
+          <l>נשמה תני תקווה לאהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תגידי לי מה עוד אפשר</l>
+          <l>לעשות בשבילך</l>
+          <l>כי את הכל עשיתי כבר</l>
+          <l>כדי לכבוש את ליבך</l>
+          <l>לאיש אחר אם תחכי</l>
+          <l>את ליבי תאבדי</l>
+          <l>תני תקווה לאהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מחפש את הדרך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

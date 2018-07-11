@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הקטנטנה הסמיקה</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>עמנואל כץ</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הקטנטנה הסמיקה</head>
+        <lg number="1" type="stanza">
+          <l>הַקְּטַנְטַנָּה הִסְמִיקָה </l>
+          <l>כְּיַהֲלֹם הִבְרִיקָה, </l>
+          <l>אֵשׁ בְּלִבִּי הִדְלִיקָה, </l>
+          <l>כְּלָל לֹא יָדְעָה רַחֵם. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הָבָה וְאֶשָּׁקֶנָּה </l>
+          <l>אֵין חֲמוּדָה מִמֶּנָּה </l>
+          <l>עָפָה לָהּ וְאֵינֶנָּה </l>
+          <l>וָאֶשָּׁאֵר בָּדָד </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עָפָה צִפּוֹר אֱלוֹהַּ </l>
+          <l>אֵין עוֹד אַחַת כָּמוֹהָ, </l>
+          <l>אָנָה עַתָּה אָבוֹאָה? </l>
+          <l>אֵין בִּלְעָדֶיהָ אוֹר. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שְׁתַּיִם עֵינֶיהָ פֶּלֶא </l>
+          <l>לֹא עוֹד אֶרְאֶה כָּאֵלֶּה. </l>
+          <l>כָּל הָעוֹלָם לִי כֶּלֶא – </l>
+          <l>כֶּלֶא לְלֹא רַחֵם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

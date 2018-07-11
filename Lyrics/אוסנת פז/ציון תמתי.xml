@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציון תמתי</title>
+        <singer classification="unknown">אוסנת פז</singer>
+        <writer>מנחם מנדל דוליצקי</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציון תמתי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>ציון תמתי, ציון חמדתי</l>
+          <l>לך נפשי מרחוק הומיה</l>
+          <l>תשכח ימיני אם אשכחך יפתי</l>
+          <l>עד תאטר בור קברי עלי פיה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא אשכחך, ציון חמדתי</l>
+          <l>את, כל עוד אחי, תוחלתי ושברי</l>
+          <l>ועת הכל אשכחה עד שארית נשמתי</l>
+          <l>וציון, את ציון, תהי עלי קברי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ציון תמתי, ציון חמדתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

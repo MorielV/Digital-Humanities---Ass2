@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רציתי לכתוב לך</title>
+        <singer classification="male singer">אורי זר</singer>
+        <writer>צחי כהן</writer>
+        <composer>צחי כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רציתי לכתוב לך</head>
+        <lg number="1" type="stanza">
+          <l>רציתי לכתוב לך משהו הלילה.</l>
+          <l>דברים שנולדו וצצו לא מזמן.</l>
+          <l>חיוך שפתאום עולה</l>
+          <l>בלי סיבה נראית לעין,</l>
+          <l>ורעד שמרעיד למראה שפתיים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רציתי לראות</l>
+          <l>ולשמוע את רעד קולך באזני</l>
+          <l>בין סדינים לבנים</l>
+          <l>ידך הטובה נוגעת בגופי.</l>
+          <l>רציתי לכתוב לך על האהבה</l>
+          <l>שהתחילה הקיץ.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רציתי לכתוב לך משהו</l>
+          <l>שיביא את אלוהים לכאן</l>
+          <l>שכל אנשי הרוח והדת </l>
+          <l>ינסו אולי לראות</l>
+          <l>מה זאת אהבה מטורפת</l>
+          <l>ומה זו התמימות שאותי עוטפת.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רציתי לראות...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רציתי לכתוב לך משהו הלילה</l>
+          <l>דברים שנולדו וצצו לא מזמן</l>
+          <l>מגע עדין של יד</l>
+          <l>שנוגעת ולא מתחשבת</l>
+          <l>ומה שאת עושה כשאת אוהבת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רציתי לראות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

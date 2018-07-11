@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני מדבר</title>
+        <singer classification="female singer">אסתי כץ</singer>
+        <writer>דני רובס</writer>
+        <composer>דני רובס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני מדבר</head>
+        <lg number="1" type="stanza">
+          <l>במדבר האדמה נוגעת בשמים </l>
+          <l>רק אנשי מדבר נוגעים בארץ בידיים </l>
+          <l>ואני תמיד פונה בדרך אל הבית </l>
+          <l>ומחפשת את הזר מקום מוכר אני מדבר אני מדבר </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>במדבר החלומות קרובים מאור למים </l>
+          <l>רק אנשי מדבר לא מרימים את העיניים </l>
+          <l>ואני כמו ציפור בציפורני העיט </l>
+          <l>שוב מחפשת את הזר מקום מוכר אני מדבר אני מדבר </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ויום עולה ויום עבר </l>
+          <l>אני קנה של סוף נשבר </l>
+          <l>אך בשבילי לא מאוחר </l>
+          <l>עוד לא נגמר </l>
+          <l>ושיר עולה עוד שיר עבר </l>
+          <l>כמו לילה בין שיחי הבר </l>
+          <l>אני מדבר אני מדבר אני מדבר אני מדבר </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מסתכלת אל האופק הבהיר עדיין </l>
+          <l>השמים הקרובים שוב אדומים כיין </l>
+          <l>במקום שבו אני ארגיש כמו בבית </l>
+          <l>שוב מחפשת את הזר מקום מוכר אני מדבר אני מדבר </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ויום עולה ויום עבר </l>
+          <l>אני קנה של סוף נשבר </l>
+          <l>אך בשבילי לא מאוחר </l>
+          <l>עוד לא נגמר </l>
+          <l>ושיר עולה עוד שיר עבר </l>
+          <l>כמו לילה בין שיחי הבר </l>
+          <l>אני מדבר אני מדבר אני מדבר אני מדבר </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>במדבר האדמה נוגעת בשמים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

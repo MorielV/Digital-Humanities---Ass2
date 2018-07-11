@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלמעלה</title>
+        <singer classification="male singer">איתי יצחקי</singer>
+        <writer>איתי יצחקי</writer>
+        <composer>איתי יצחקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלמעלה</head>
+        <lg number="1" type="stanza">
+          <l>למה את הלכת לתוך חלום אני לך מנגן </l>
+          <l>מחפש אותך הלילה בין אבק של כוכבים </l>
+          <l>תמצאי אותי... </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מלמעלה שומע את צחוקך המתגלגל </l>
+          <l>מלמעלה דומע, מתכרבל לי עם האל </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>למה את הלכת לתוך חלום אני שם מחכה </l>
+          <l>מקווה שרד הלילה ועלי את תחלמי </l>
+          <l>תחלמי אותי... </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מלמעלה שומע את יופייך המלטף </l>
+          <l>מלמעלה יודע ואני כאן מרחף</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

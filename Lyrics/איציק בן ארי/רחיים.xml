@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רחיים</title>
+        <singer classification="unknown">איציק בן ארי</singer>
+        <writer>דודו ברק</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רחיים</head>
+        <lg number="1" type="stanza">
+          <l>רכב על שכב נסובב,</l>
+          <l>ממל על ים בבית הבד.</l>
+          <l>ינוע אט,</l>
+          <l>ינוע אט.</l>
+          <l>לך דגן </l>
+          <l>ולי יצהר נערה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אבן רחיים נסובב,</l>
+          <l>לאט,</l>
+          <l>לאט.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גפן אדרת נדרוך,</l>
+          <l>יין נמזוג בבור הגת.</l>
+          <l>מעט, מעט,</l>
+          <l>מעט, מעט.</l>
+          <l>לך תירוש</l>
+          <l>ולי עסיס, נערה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אבן רחיים נסובב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>דבש מכוורת נרדה,</l>
+          <l>דבש יערה יוגש על פת.</l>
+          <l>ניגר ושט,</l>
+          <l>ניגר ושט.</l>
+          <l>נופת לך</l>
+          <l>ולי הצוף, נערה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אבן רחיים נסובב...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ונשיקות מתוקות,</l>
+          <l>לך היפה לי מכול בת.</l>
+          <l>בלאט, בלאט,</l>
+          <l>בלאט, בלאט.</l>
+          <l>לך קורטוב</l>
+          <l>ולי קורטוב, נערה.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>אבן רחיים נסובב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

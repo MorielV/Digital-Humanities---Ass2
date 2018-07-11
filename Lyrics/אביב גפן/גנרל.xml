@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גנרל</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גנרל</head>
+        <lg number="1" type="stanza">
+          <l>הוא שומע מסוק צפצופים באוזניים</l>
+          <l>החבר הכי טוב גוסס לו בין הידיים</l>
+          <l>הוא שומע קריאות אפ אפ על הרגליים</l>
+          <l>אישה זקנה נשבתה, הוא לא יתן לה כוס מים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גנרל, הצבא בהלם קרב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא מקבל מכתבים אחות של אמא מודאגת</l>
+          <l>ואחותו בבית חולים היא כבר לא כואבת</l>
+          <l>היא מונשמת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>גנרל, הצבא בהלם קרב</l>
+          <l>גנרל, כולנו בהלם קרב</l>
+          <l>אתה לא רואה</l>
+          <l>גנרל, כולנו בהלם קרב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

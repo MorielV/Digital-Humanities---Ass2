@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש עיר</title>
+        <singer classification="male singer">אבי פרץ</singer>
+        <writer>יהודה אופן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש עיר</head>
+        <lg number="1" type="stanza">
+          <l>יש עיר שבלב העולם</l>
+          <l>ויש אבנים שיודעות לדבר.</l>
+          <l>יש הר מקודש לכולם -</l>
+          <l>ולנו קדוש ביותר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ים המלח, ים שמיים.</l>
+          <l>עיר של מלך, הר הבית.</l>
+          <l>ים המלח, ים שמיים.</l>
+          <l>עיר של מלך, ירושלים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש עיר בהרי יהודה</l>
+          <l>ויש מדרגות שעולות לשחקים</l>
+          <l>יש הר שטומן אגדה</l>
+          <l>ויש אגדה בטרשים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ים המלח...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש עיר יחידה של דוד</l>
+          <l>ויש בה סלעים רוטטים כמיזמור</l>
+          <l>יש הר שנישא נתצפית</l>
+          <l>והוא כבר צופה את האור.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ים המלח...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>יש עיר של חומה ושלום</l>
+          <l>יש כותל דומע אחד ששרד.</l>
+          <l>יש הר למול יד אבשלום</l>
+          <l>חובק את העיר האחת.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>ים המלח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

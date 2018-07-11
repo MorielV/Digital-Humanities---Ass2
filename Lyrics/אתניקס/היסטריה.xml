@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היסטריה</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היסטריה</head>
+        <lg number="1" type="stanza">
+          <l>אין רקדן כמוני לפחות לדעתי גם אם אני מגזים</l>
+          <l>כשאני רוקד אני עומד וזה ריקוד כי ככה בא לי</l>
+          <l>אני עומד שעות בלי נעלי ריקוד, אני אלוף הרקדנים,</l>
+          <l>תראו את התנועות היציבות, אני חושב שזה נורמלי,</l>
+          <l>תצטרפו אלי כולם ועימדו שעות,</l>
+          <l>כשיעמוד כל העולם יעצרו המלחמות -</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הו היסטריה</l>
+          <l>כל העולם ירקוד מבלי לזוז</l>
+          <l>הו היסטריה</l>
+          <l>יש לי תמיד כוחות לעוד ריקוד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פנסים מהבהבים בתוך עשן, אני מרגיש בעננים,</l>
+          <l>בין הרקדנים אני אחד גם אם ארקוד נגד הזרם,</l>
+          <l>שמעתי שכמוני יש רבים שרק עומדים תמיד כשהם רוקדים</l>
+          <l>בואו נתאחד ונעמוד לעוד ריקוד אחד בטרם -</l>
+          <l>בטרם אנשים רעים יהרסו הכל,</l>
+          <l>לחיי הרקדנים שעומדים מבלי ליפול -</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הו היסטריה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מילדות</title>
+        <singer classification="unknown">אבי אפריאט</singer>
+        <writer>אבי אפריאט</writer>
+        <composer>אבי אפריאט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מילדות</head>
+        <lg number="1" type="stanza">
+          <l>מילדות אל בגרות </l>
+          <l>מאותה נקדה של תמימות </l>
+          <l>מעבר אל הווה אל עתיד שֶׁנִּצְפֶּה </l>
+          <l>הכל חוזר... </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מהאש אל המים </l>
+          <l>אל כל מה שעברנו ביינתים </l>
+          <l>מלקבל אל לתת להשתנות באמת </l>
+          <l>הכל עובר... </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>והרוח ליטפה את פני </l>
+          <l>הזכירה לי את נדודי </l>
+          <l>את הילד שבי שסער בתוכי </l>
+          <l>ועכשיו הוא בילדי </l>
+          <l>ניפול, נקום, </l>
+          <l>נעשה הרבה או שכלום </l>
+          <l>נריב נתרצה נסלח ונטעה </l>
+          <l>ונלמד מהחיים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>והילד גדל, כמעט כבר הכל הוא שאל </l>
+          <l>על האור הגדול על הים הכחל </l>
+          <l>הלב נפתח... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ועכשיו שראינו את הדרך שבה גם טעינו </l>
+          <l>נתגבר ונקשיב אל הקולות מסביב </l>
+          <l>הלב יסלח... </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>והרוח ליטפה את פני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

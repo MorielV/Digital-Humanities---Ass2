@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני חופר</title>
+        <singer classification="male singer">אייל קופמן</singer>
+        <writer>אייל קופמן</writer>
+        <composer>אייל קופמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני חופר</head>
+        <lg number="1" type="stanza">
+          <l>אני חופר, אני חופר </l>
+          <l>כמו פרש מונגולי </l>
+          <l>מגלח את השלג </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני דוהר, אני דוהר </l>
+          <l>הטירוף הזה מוביל אותי </l>
+          <l>שורף לי את הבטן </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני חוסם, אני חוסם </l>
+          <l>חוסם אותך מלאך שלי </l>
+          <l>מכניס אותך לתוך הרשת </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני חוזר </l>
+          <l>את שומעת אותי </l>
+          <l>אני חוזר אני רעב </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני שותק, אני שותק </l>
+          <l>שששששש </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני חוזר </l>
+          <l>את שומעת אותי </l>
+          <l>אני חוזר אני רעב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

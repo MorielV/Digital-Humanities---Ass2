@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק סימן</title>
+        <singer classification="male singer">אבי פרץ</singer>
+        <writer>אבי פרץ</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק סימן</head>
+        <lg number="1" type="stanza">
+          <l>כל השנים לך מחכה</l>
+          <l>בכל מקום דמותך אני רואה</l>
+          <l>רוצה רק אותך</l>
+          <l>כי החיים נועדו בשבילנו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל החיים לך מצפה</l>
+          <l>להתעורר איתך אני רוצה</l>
+          <l>להיות רק שלך</l>
+          <l>גם הימים, הימים שחולפים לא יפרידו בינינו</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תני לי רק סימן, אותך אני רוצה עכשיו</l>
+          <l>אני מרגיש כל כך קרוב אליך</l>
+          <l>תני לי רק סימן, כי את האור שבחיי</l>
+          <l>ולא אוכל לחיות עוד בלעדייך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל השנים רק מנסה</l>
+          <l>למצוא אותך אני כל כך רוצה </l>
+          <l>אוהב רק אותך</l>
+          <l>מי יתן ויפגישו דריכנו</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זר שושנים אדום אקנה</l>
+          <l>ואת גופך הרך פה אכסה</l>
+          <l>לחיות איתך </l>
+          <l>זיכרונות ישנים ויפים עוד ישובו אלינו</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תני לי רק סימן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

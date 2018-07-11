@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המון אנשים</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אתגר קרת</writer>
+        <composer>missing</composer>
+        <album>עומד על נייר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המון אנשים</head>
+        <lg number="1" type="stanza">
+          <l>המון אנשים דומים לי</l>
+          <l>רק אני לעצמי לא דומה</l>
+          <l>שותה עם עצמי כל לילה</l>
+          <l>שותה ונשאר צמא</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>המון אנשים קשורים בי</l>
+          <l>רק אני לעצמי לא קשור</l>
+          <l>זוכר חלומות מפעם</l>
+          <l>וגם התחלה של סיפור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי את גם זוכרת</l>
+          <l>הרבה רגעים יפים</l>
+          <l>נשיקה על האף בסרט</l>
+          <l>יושבים באמבט חפופים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בסדנא כשהגיע תורי</l>
+          <l>בכיתי שעה שלמה</l>
+          <l>המון אנשים דומים לי</l>
+          <l>רק לך אף אחת לא דומה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

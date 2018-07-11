@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם היית 2</title>
+        <singer classification="unknown">אלון ז אן</singer>
+        <writer>אלון ז'אן</writer>
+        <composer>חגי מזרחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם היית</head>
+        <lg number="1" type="stanza">
+          <l>אני זוכר אותך</l>
+          <l>כמו שאני זוכר אותי</l>
+          <l>ואת רחוקה</l>
+          <l>אני אוהב אותך</l>
+          <l>כמו שאני אוהב אותי</l>
+          <l>ואני לא אשכח</l>
+          <l>את המבט את החיוך שלך</l>
+          <l>את המגע. זה כל מה שנשאר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם היית פה לידי</l>
+          <l>נושבת כמו הרוח מהים</l>
+          <l>אם היית כל הזמן איתי</l>
+          <l>לא היינו נפרדים לעולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ביום יפה אחד</l>
+          <l>את לא תהיי שם עוד לבד</l>
+          <l>וזה לא יכאב</l>
+          <l>נשב ונדבר</l>
+          <l>על מה שלא הספקתי לספר</l>
+          <l>את המבט </l>
+          <l>את החיוך שלך</l>
+          <l>אני שומר שרק לא יגמר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם היית פה לידי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

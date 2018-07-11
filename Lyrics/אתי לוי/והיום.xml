@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>והיום 2</title>
+        <singer classification="female singer">אתי לוי</singer>
+        <writer>רמי לב</writer>
+        <composer>דורון אלימלך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>והיום</head>
+        <lg number="1" type="stanza">
+          <l>היית לי עיניים בתוך הערפל</l>
+          <l>היית לי שפתיים, כשלא יכולתי לדבר</l>
+          <l>היית הדמעות כשרציתי לבכות</l>
+          <l>היית כל דבר שלא היה לי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והיום, כשאתה לא כאן</l>
+          <l>נשאר לי קצת ממך ואין לי לאן</l>
+          <l>עוד חלום שלי נסדק לאט לאט</l>
+          <l>אבל אני חזקה להמשיך לבד !!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היית לי כנפיים להפליג אל הדמיון</l>
+          <l>וגשר על המים לחצות את התהום</l>
+          <l>היית החלום בו רציתי לאחוז</l>
+          <l>היית כל דבר שלא היה לי...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והיום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

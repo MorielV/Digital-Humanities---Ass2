@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כוכבי בוקר 2</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>שמעיהו קוסון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כוכבי בוקר</head>
+        <lg number="1" type="stanza">
+          <l>שימו לב על הנשמה</l>
+          <l>לשם שבו ואחלמה</l>
+          <l>ואורה כאור החמה</l>
+          <l>שבעתיים כאור הבוקר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מכסא כבוד חוצבה</l>
+          <l>לגור בארץ ערבה</l>
+          <l>להצילה מלהבה</l>
+          <l>ולהאירה לפנות בוקר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אודה לאל לבב חוקר</l>
+          <l>ברון יחד כוכבי בוקר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נעם השם לחזות</l>
+          <l>נזכה ובשנה הזאת</l>
+          <l>בשמחות תחת רגזות</l>
+          <l>בוקר תשמע קולי בוקר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אודה לאל לבב חוקר</l>
+          <l>ברון יחד כוכבי בוקר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

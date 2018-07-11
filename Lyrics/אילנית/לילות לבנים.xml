@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילות לבנים 3</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילות לבנים</head>
+        <lg number="1" type="stanza">
+          <l>לילות כאלה לבנים </l>
+          <l>מושכים אותי בשקיפותם </l>
+          <l>מה שאהבנו לפנים </l>
+          <l>נושב אלי מן המפתן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עיתים לשקט אין שיעור </l>
+          <l>אבל נוצקת בו חזות</l>
+          <l>עם משהו מן הוויתור</l>
+          <l>ומשהו מן העצבות </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אין דבר, אין דבר</l>
+          <l>אשלח את קולי </l>
+          <l>גם הזמן שעבר</l>
+          <l>הוא מעוף בשבילי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין דבר, אין דבר </l>
+          <l>אשלח את קולי </l>
+          <l>כבר יומך שחוור</l>
+          <l>נארג בלילי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מן המרחק מבט אובד</l>
+          <l>נגש ונח על ערפך</l>
+          <l>יוצא הרגש הנודד</l>
+          <l>להיות איתך בדרכך </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ובמרחב חסר השם </l>
+          <l>קולי מדביק את צעדך </l>
+          <l>ואין חפה ואין אשם </l>
+          <l>ואין נידון לשכחה </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אין דבר, אין דבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

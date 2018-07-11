@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חסקה</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חסקה</head>
+        <lg number="1" type="stanza">
+          <l>הים יפה הבוקר, הים הוא די שקט</l>
+          <l>אז בואי נא ילדונת אלי לחסקה</l>
+          <l>פה אין מפרש מתוח ואין גם מעקה</l>
+          <l>אבל מאוד בטוח אצלי בחסקה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חסקה, חסקה, בלי סיפון ומעקה</l>
+          <l>שנחיה ושנזכה רק לשוט בחסקה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את הגלים חותכת ממש כמו חמאה</l>
+          <l>תוכלי לשכב עליה כמו על מיטה חמה</l>
+          <l>מעל בוערת שמש אני עוד מחכה</l>
+          <l>מדוע את לא באה אלי לחסקה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חסקה, חסקה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>משוט אחד וגבר, זה הציוד כולו</l>
+          <l>אם את רוצה תבואי, אם לא תגידי לא</l>
+          <l>בלי ארובה ותורן, בלי אוכל ומשקה</l>
+          <l>את העולם אמכור לך אצלי בחסקה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>חסקה, חסקה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ממי את מפחדת, תגידי בקול רם,</l>
+          <l>מן הספינה הזאתי או מגלי הים,</l>
+          <l>הולכת לך הביתה, אין טעם שאבכה,</l>
+          <l>אביא לך לאמבטיה את כל החסקה.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>חסקה, חסקה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

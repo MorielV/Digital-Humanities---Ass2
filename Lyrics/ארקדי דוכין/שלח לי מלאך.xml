@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלח לי מלאך</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>יובל בנאי</writer>
+        <composer>missing</composer>
+        <album>נקודת מבט</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלח לי מלאך</head>
+        <lg number="1" type="stanza">
+          <l>שלח לי מלאך</l>
+          <l>שיקח, שיקח אותי ללב</l>
+          <l>שאוהב ומחכה לי</l>
+          <l>ורוצה בי כל הזמן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שלח לי מלאך</l>
+          <l>שאותי ואותך הוא לא יקח</l>
+          <l>למקום שאין בו</l>
+          <l>מה שיש פה כל הזמן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ולפעמים הכל נראה אותו דבר</l>
+          <l>ולפעמים, פתאום, יש רגע מאושר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שלח לי מלאך</l>
+          <l>שישמח וידליק פה את האור</l>
+          <l>וישמור על מה שיש לשמור פה</l>
+          <l>כל הזמן</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>סתם הזיות זה גן חיות</l>
+          <l>אריות ונמרים ואחרים</l>
+          <l>מנסים למצוא מקום לחיות בו</l>
+          <l>כל הזמן</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כן, לפעמים הכל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

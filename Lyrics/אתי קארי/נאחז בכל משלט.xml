@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נאחז בכל משלט</title>
+        <singer classification="female singer">אתי קארי</singer>
+        <writer>זאב חבצלת</writer>
+        <composer>דובי זלצר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נאחז בכל משלט</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>נאחז בכל משלט</l>
+          <l>מני דן ועד אילת.</l>
+          <l>תאמין, לא תאמין,</l>
+          <l>אנו, נח"ל, נאמין.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הי... וניצב הוא לו איתן,</l>
+          <l>כך בשדות התלתן,</l>
+          <l>וקוצר לו וקוצר,</l>
+          <l>וקוצר לו שמאל, ימין הי...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נאחז בכל משלט...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הי... ויושב לו הרפתן,</l>
+          <l>עניבה לו, חי שטן,</l>
+          <l>וחולב לו וחולב,</l>
+          <l>וחולב לו שמאל, ימין, הי...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>נאחז בכל משלט...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הי... והולכים להם השניים</l>
+          <l>בשדה בין הערביים,</l>
+          <l>והולכים הם והולכים,</l>
+          <l>היא לשמאל והוא לימין, הי...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>נאחז בכל משלט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

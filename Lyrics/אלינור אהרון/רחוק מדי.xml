@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רחוק מדי</title>
+        <singer classification="unknown">אלינור אהרון</singer>
+        <writer>אלינור אהרון</writer>
+        <composer>אלינור אהרון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רחוק מדי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הכי טוב בשבילי</l>
+          <l>אתה היופי המושלם</l>
+          <l>ואיפה שתהייה אני אסע לשם</l>
+          <l>אני אקח מטוס שעות מעל הים</l>
+          <l>כי להיות איתך זה הכי טוב בעולם...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הכי טוב בשבילי</l>
+          <l>אתה היופי המושלם</l>
+          <l>ואיפה שתהייה אין מטוס לשם</l>
+          <l>וכמה שאמרת שאהבת רק אלי</l>
+          <l>כמה שהתקרבתי תמיד רחוק מדי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ומי אתה בכלל</l>
+          <l>ומי מכיר שאני אשאל</l>
+          <l>ומה אתה עושה לי</l>
+          <l>שעכשיו כל כך קשה לי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הכי טוב בשבילי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ומי אתה בכלל</l>
+          <l>ומי מכיר אותך שתלך ותשאל</l>
+          <l>על מה הטעם ומה הריח</l>
+          <l>ממה אתה כל כך בורח</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

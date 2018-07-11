@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>והיא איננה</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>אהוד מנור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>והיא איננה</head>
+        <lg number="1" type="stanza">
+          <l>ידענו כל הזמן דרכינו מתקרבות</l>
+          <l>נועדנו זה לזה, חיכינו לבאות</l>
+          <l>חלמנו חלומות, צחקנו לפחדים</l>
+          <l>בחרנו כבר שמות לכל הילדים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והיא איננה, אחכה, אבקשנה</l>
+          <l>עד אשר אמצאנה, אעלה תפילתי</l>
+          <l>והיא איננה, אחכה, אבקשנה</l>
+          <l>עד אשר אמצאנה, אעלה תפילתי</l>
+          <l>והיא איננה, והיא איננה</l>
+          <l>אמות בתוך ביתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חיבקה במבטה, קולה ליטף אותי</l>
+          <l>ובאהבתה נגעה בנשמתי</l>
+          <l>שעה לפני הסוף היתה לנו תוכנית</l>
+          <l>אדם יכול לשאוף אך אלוהים מחליט</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והיא איננה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא הולכת בדרכים</title>
+        <singer classification="unknown">אלון אולארצ יק</singer>
+        <writer>אלון אולארצ'יק</writer>
+        <composer>אלון אולארצ'יק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא הולכת בדרכים</head>
+        <lg number="1" type="stanza">
+          <l>ובבוקר יום ראשון</l>
+          <l>מתעוררת לחלום</l>
+          <l>ובבוקר יום שישי</l>
+          <l>עם זיכרון ילדות אישי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מתחמקת נשמתה</l>
+          <l>למגע העלטה</l>
+          <l>מתעטפת לתוכה</l>
+          <l>היא נסיכה בלי ממלכה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>היא הולכת בדרכים</l>
+          <l>היא הולכת בדרכים</l>
+          <l>מעל הים במטוסים גדולים</l>
+          <l>אנה פניה יפנו</l>
+          <l>אנה פניה יפנו</l>
+          <l>אנה תלכי מרים</l>
+          <l>מסתובבת בעולם</l>
+          <l>אן תלכי מרים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>והלילה בלי כוכב</l>
+          <l>והקסם בידיו</l>
+          <l>ואורות בעיר זרה</l>
+          <l>מלטפים את שערה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יום יבוא אולי תדע</l>
+          <l>מה צפון בכף ידה</l>
+          <l>מה טומן לה גורלה</l>
+          <l>באמתחתו האפלה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>היא הולכת בדרכים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

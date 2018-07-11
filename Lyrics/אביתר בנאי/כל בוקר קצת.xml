@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל בוקר קצת</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>אביתר בנאי</composer>
+        <album>לילה כיום יאיר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל בוקר קצת</head>
+        <lg number="1" type="stanza">
+          <l>לילה מכסה</l>
+          <l>מנגינה שברחה ממני</l>
+          <l>הבוקר הזה מגלה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בכנפיים קטנות</l>
+          <l>מרחפת החוצה</l>
+          <l>זורמת בין קרני החמה</l>
+          <l>את העצב מרפאה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עד השיר הנקי</l>
+          <l>האמיתי</l>
+          <l>בבוקר</l>
+          <l>אתלבש ואתחדש</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוצם את עיני</l>
+          <l>הלילה שב אלי</l>
+          <l>מארץ זרה</l>
+          <l>מתחתית המגירה</l>
+          <l>תופס אותי לא מוכן</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כשהשמש עולה</l>
+          <l>אני קופץ למים</l>
+          <l>שוטף אותו ממני</l>
+          <l>מתיר אותי ממנו</l>
+          <l>מפורר אותו</l>
+          <l>כל בוקר קצת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

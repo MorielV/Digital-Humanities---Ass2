@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לאן לאן</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לאן לאן</head>
+        <lg number="1" type="stanza">
+          <l>לאן לאן לאן הולכות השנים?</l>
+          <l>הזמן הזמן הזמן בורח איתן,</l>
+          <l>קשה לזכור את מה שהיה,</l>
+          <l>קשה לאהוב כמובן מאליו עכשיו,</l>
+          <l>לאן לאן לאן הקסם הלך?</l>
+          <l>הזמן הזמן הזמן  השאיר אותו רק לך,</l>
+          <l>אני סגריר אני החורף האכזר והקר,</l>
+          <l>אבל אני אוהב אותך...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מתהפך מצד לצד,</l>
+          <l>את ישנה אני לבד,</l>
+          <l>לילות לילות הרוח לא שכחה,</l>
+          <l>לילות לילות שאין לי מנוחה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואם ואם ואם הצליל שלנו יאבד,</l>
+          <l>צלילים צלילים צלילים טבעם לגווע,</l>
+          <l>אני כלוא בתוך שירים שמזמן כתבתי,</l>
+          <l>ועכשיו שכחתי,</l>
+          <l>ואם ואם ואם אמות מחר,</l>
+          <l>האם האם האם אהיה שלך?</l>
+          <l>אני סגריר אני החורף האכזר והקר,</l>
+          <l>אבל אני אוהב אותך,</l>
+          <l>אני יכול להביט בך שעות שאת ישנה,</l>
+          <l>מכורבלת כמו גרה חתלתולה קטנה...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מתהפך מצד לצד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

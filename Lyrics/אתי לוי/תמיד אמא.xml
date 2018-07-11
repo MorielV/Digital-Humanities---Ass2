@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תמיד אמא</title>
+        <singer classification="female singer">אתי לוי</singer>
+        <writer>דני שושן</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תמיד אמא</head>
+        <lg number="1" type="stanza">
+          <l>תמיד את איתי הו אמא</l>
+          <l>תמיד את בתוך הלב פנימה</l>
+          <l>תמיד אותך אהבתי מהנשמה תמיד</l>
+          <l>תמיד לי את אמא תמיד תמיד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אמא רק את הו אמא</l>
+          <l>יודעת לנווט את ספינת חיי</l>
+          <l>אמא רק את הו אמא</l>
+          <l>רק בחיכך אתן דרור</l>
+          <l>לדמעותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תמיד את נמצאת אמא תמיד</l>
+          <l>תמיד מילתך אותי ריצתה תמיד</l>
+          <l>יודעת איך להשכין שלום תמיד</l>
+          <l>יודעת גם לפתור לי חלום תמיד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אמא רק את הו אמא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

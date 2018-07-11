@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני לא הומו</title>
+        <singer classification="unknown">ארמדילוס</singer>
+        <writer>מאור גולדשטיין</writer>
+        <composer>עידו פרנקל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני לא הומו</head>
+        <lg number="1" type="stanza">
+          <l>אני זוכר היינו בסיבוב הופעות </l>
+          <l>ברוך בא אלי ואמר לי, יש עלייך שמועות </l>
+          <l>אז אמרתי לו </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני לא הומו אני אוהב בנות </l>
+          <l>מכיתה י"א אני אני אוהב בנות אוהב בנות </l>
+          <l>לפני י"א היו לי כמה התנסויות </l>
+          <l>אבל אני אני אוהב בנות התנסויות </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קובי החרמן הזה הוא בן זונה כזה </l>
+          <l>מה שהוא עשה לי אני לא ישכח את זה </l>
+          <l>קובי החרמן הזה הוא בן זונה כזה </l>
+          <l>מה שהוא עשה לי אני לא ישכח את זה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עידו לא הומו (לא לא...) הוא אוהב בנות </l>
+          <l>(תגיד תגיד להם את זה..) </l>
+          <l>זה לא בושה ללבוש שמלה</l>
+          <l>מול המראה לשים איפור נשי </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בואנה אחי, אתה שר מזה יפה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>קובי החרמן הזה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

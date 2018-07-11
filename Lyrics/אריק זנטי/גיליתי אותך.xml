@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גיליתי אותך 2</title>
+        <singer classification="unknown">אריק זנטי</singer>
+        <writer>גל שריג</writer>
+        <composer>אריק זנטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גיליתי אותך</head>
+        <lg number="1" type="stanza">
+          <l>רוצה להגיד מה ששמרתי בבטן</l>
+          <l>שתיקה מעולם לא עשתה לנו טוב</l>
+          <l>אולי את שכחת אולי את זוכרת</l>
+          <l>הבטחת מזמן להמשיך לאהוב</l>
+          <l>ואת היחידה שנוגעת ברגש</l>
+          <l>אמרי לי לאן נעלם החיוך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גיליתי אותך כשרציתי לשכוח</l>
+          <l>הלב מסרב גם לברוח ממך</l>
+          <l>אם רק תתקרבי שוב נמצא את הכח</l>
+          <l>אתן את הכל רק לחיות לצידך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוצה להבטיח כל מה שמזמן לא הבטחתי</l>
+          <l>דמעה מעולם לא עזרה לך לחשוב</l>
+          <l>אולי קצת נבהלת אז ממה את פוחדת</l>
+          <l>לא תוכלי לפחד כשאני קצת קרוב</l>
+          <l>ואת היחידה שנוגעת ברגש</l>
+          <l>אמרי לי לאן נעלם החיוך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גיליתי אותך....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

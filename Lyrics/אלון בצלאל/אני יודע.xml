@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני יודע 3</title>
+        <singer classification="unknown">אלון בצלאל</singer>
+        <writer>רונית בצלאל</writer>
+        <composer>אייבי קזס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני יודע</head>
+        <lg number="1" type="stanza">
+          <l>אני יודע, </l>
+          <l>שהתרחקתי מעט </l>
+          <l>לא חשתי בכאב </l>
+          <l>הנשקף מהמבט </l>
+          <l>לא הייתי איתך </l>
+          <l>כשביקשת מקלט</l>
+          <l>ואת,</l>
+          <l>איתי נשארת </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אוהב אותך היום </l>
+          <l>כמו שאהבתי ברגע הראשון</l>
+          <l>חלמתי בגדול לעבור איתך הכל</l>
+          <l>שאהייה רק לך, ואת לי לעולם</l>
+          <l>האם תהיי שלי, </l>
+          <l>עכשיו כשאני כאן?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני יודע </l>
+          <l>שנעלמתי כמעט </l>
+          <l>לא הפניתי ראשי </l>
+          <l>כשאת כתפי ביקשת </l>
+          <l>לא שמעתי אותך </l>
+          <l>גם כשדמעת </l>
+          <l>ואת, </l>
+          <l>אותי אהבת </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל תבדקי </l>
+          <l>אם את מופיעה</l>
+          <l>במשאלות שלי </l>
+          <l>הביטי בי</l>
+          <l>לרגע אחד ותראי,</l>
+          <l>שהיית ועודך בליבי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אוהב אותך היום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

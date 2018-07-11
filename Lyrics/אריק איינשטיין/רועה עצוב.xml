@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רועה עצוב</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>נתן יונתן</writer>
+        <composer>יעקב שגיא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רועה עצוב</head>
+        <lg number="1" type="stanza">
+          <l>שלוות הכפר ברדת יום.</l>
+          <l>שדה עזוב יתעורר פתאום.</l>
+          <l>זה לא הרוח בין שילפי קציר,</l>
+          <l>רועה עצוב שם פתח בשיר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>על מה ישיר רועה עצוב</l>
+          <l>הנה הכפרה הוא שוב ישוב</l>
+          <l>עלה העדר, שירה חלילי</l>
+          <l>עלמה הולכת במישעולי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לאן תלך עלמה שלי?</l>
+          <l>ענה ענה לי חלילי,</l>
+          <l>אל תעצבה, שח לו החליל,</l>
+          <l>איתך תלך היא במשעולים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

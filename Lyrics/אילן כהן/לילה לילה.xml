@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה לילה 4</title>
+        <singer classification="unknown">אילן כהן</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה לילה</head>
+        <lg number="1" type="stanza">
+          <l>כשלילה בא לתוך ביתי רק אלוקים יודע </l>
+          <l>מה שעובר בתוך ליבי כשעוד חולם עליה </l>
+          <l>קירות החדר רועדים ומחפשים אותנו </l>
+          <l>הם בוודאי אינם יודעים שרק אתמול נפרדנו </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לילה לילה מחכה לה לילה לילה משתגע </l>
+          <l>איך הייתי בה נוגע ועכשיו מתגעגע </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פתאום אני מרגיש חופשי אך מבקש אליה </l>
+          <l>כי היא נמצאת בתוך נפשי ואת קולה שומע </l>
+          <l>כינור לבן שוב מנגן שיר אהבה לשנינו </l>
+          <l>אך אין על מי להשען כי כבר נגמר בנינו </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לילה לילה מחכה לה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

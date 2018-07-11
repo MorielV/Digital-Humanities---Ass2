@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עדיין שלך</title>
+        <singer classification="unknown">אביהו שבת</singer>
+        <writer>לי בירן</writer>
+        <composer>לי בירן</composer>
+        <album>אביהו</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עדיין שלך</head>
+        <lg number="1" type="stanza">
+          <l>כמה זמן חיכיתי</l>
+          <l>אפילו לא ראיתי נשיקה...</l>
+          <l>כמה האמנתי</l>
+          <l>את כל כולי נתתי</l>
+          <l>ועכשיו שתיקה...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נצבע הכל בלבן</l>
+          <l>כאילו לא היה בכלל</l>
+          <l>נשכח את העבר</l>
+          <l>כאילו לא קרה דבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>למעשה אני עדיין שלך</l>
+          <l>ובלעדייך שום דבר לא נראה מוצלח</l>
+          <l>למעשה אני עדיין שלך</l>
+          <l>מאחורי חזות קשוחה</l>
+          <l>עומד לו איש עם לב רגיש כל כך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמה זמן חיכיתי </l>
+          <l>קיוויתי וציפיתי </l>
+          <l>לקבל אהבה </l>
+          <l>וכמה שניסיתי </l>
+          <l>למרות הכל חוויתי אכזבה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>נצבע הכל בלבן</l>
+          <l>כאילו לא היה בכלל</l>
+          <l>נשכח את העבר</l>
+          <l>כאילו לא קרה דבר</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>למעשה אני עדיין שלך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

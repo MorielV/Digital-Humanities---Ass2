@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זיכרון גרוע</title>
+        <singer classification="male singer">אלי לס</singer>
+        <writer>אלי לס</writer>
+        <composer>אלי לס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זיכרון גרוע</head>
+        <lg number="1" type="stanza">
+          <l>אמרת דברים על אהבה חדשה </l>
+          <l>כל יום שלא אדע אם טוב לה </l>
+          <l>יהיה הפרעה </l>
+          <l>או תרופה לזכרון גרוע </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שימרת תנועות מן העבר החפשי </l>
+          <l>קונטור של גפרור </l>
+          <l>עושה לך כיווץ ברובד האישי </l>
+          <l>שמתנדף ברוח</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

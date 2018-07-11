@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מפגש הנשמות</title>
+        <singer classification="unknown">אסף לייבוביץ </singer>
+        <writer>אסף לייבוביץ'</writer>
+        <composer>פזית לייבוביץ'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מפגש הנשמות</head>
+        <lg number="1" type="stanza">
+          <l>עומד אל מול הדר גאון עזך נרעד ונפעם </l>
+          <l>קולות בוקעים מעבר לאופק קוראים לי לשוב </l>
+          <l>מעל לרקיעים ולשמיים מעבר לזמן </l>
+          <l>אלפי צלילים כמו גלי הים לוחשים לי סוד </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וואו או או חוזרים ונפגשים </l>
+          <l>וואו או או פותחים השערים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בשבילים ובנתיבים שבם הלכנו אלפים בשנים </l>
+          <l>עקבותיך אשר לא נודעו מצטיירות על החול </l>
+          <l>את כל מי שאיבדנו ושכחנו בתהומות אפלים </l>
+          <l>עכשיו אפשר לראות ולהבין לסלוח למחול </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וואו או או חוזרים ונפגשים </l>
+          <l>וואו או או פותחים השערים </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מצפים ברטט משלבים ידיים יחד בתפילה </l>
+          <l>קרניים מגרשות צללים אחרונים </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>וואו או או חוזרים ונפגשים </l>
+          <l>וואו או או פותחים השערים </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אור ראשון של יום בהיר מפציע אל בוקר חדש </l>
+          <l>עתיד מאיר לתוך עבר הווה באלפי גוונים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

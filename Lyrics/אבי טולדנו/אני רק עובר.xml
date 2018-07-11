@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני רק עובר</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>ענת שרים</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני רק עובר</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים אני סתם מתעקש</l>
+          <l>רוצה לראות עולה</l>
+          <l>מה התחדש</l>
+          <l>ולך קשה להבין</l>
+          <l>מה הטירוף</l>
+          <l>כמו ציפור חופשייה</l>
+          <l>החוצה לעוף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>או או או</l>
+          <l>אל תכעסי עלי</l>
+          <l>אל תשאלי מתי</l>
+          <l>יש בי דברים שמתפרעים</l>
+          <l>שאיני רוצה ואיני עושה</l>
+          <l>לא תמיד ישנה שיטה</l>
+          <l>לא תמיד ישנה שליטה</l>
+          <l>או או או </l>
+          <l>אל תכעסי עלי</l>
+          <l>אל תשאלי מתי</l>
+          <l>יום או יומיים</l>
+          <l>ובינתיים אירגע אולי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני מעט שונה מה אעשה</l>
+          <l>אבל ידעת מזמן</l>
+          <l>שיש בי את זה</l>
+          <l>כשיש מעט סקרנות</l>
+          <l>אז אין מנוחה</l>
+          <l>ואין כוח יותר</l>
+          <l>לבקש שוב סליחה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>או או או...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני אוהב מרחב, אל תכעסי</l>
+          <l>אל תעצרי אותי, אל תנסי</l>
+          <l>אני כמו גל ענקי אל החוף מסתער</l>
+          <l>מתפרץ ונסוג והביתה חוזר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

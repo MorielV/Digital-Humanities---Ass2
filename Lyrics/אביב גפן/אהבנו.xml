@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבנו</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבנו</head>
+        <lg number="1" type="stanza">
+          <l>זה שוב הגשם הראשון</l>
+          <l>מנגן שירו על החלון</l>
+          <l>מזכיר לי את החורף שעבר</l>
+          <l>התחבקנו כשהיה אז קר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני זוכר את הנשיקה</l>
+          <l>בתחנת רכבת ישנה</l>
+          <l>היית צריכה לחזור אז אל הכפר</l>
+          <l>ודמעותי ענן נשבר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואהבנו אהבנו</l>
+          <l>כמו שלא נאהב עוד לעולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אנ'לא אשכח את המכתב</l>
+          <l>רמזת שמישהו את ליבך גנב</l>
+          <l>וכשאמרת שאת רוצה טיפה לבד</l>
+          <l>הבנתי שלא אראה אותך לעד</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואהבנו אהבנו...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני אוהב אותך</l>
+          <l>ואת יודעת שאני אוהב אותך</l>
+          <l>אם את שומעת אז אני אוהב אותך</l>
+          <l>אם את שומעת אותי...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>ואהבנו אהבנו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

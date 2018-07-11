@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לבד בשטח</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לבד בשטח</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>זה קרה לי בליל אמש,</l>
+          <l>כשירדה עלי השמש</l>
+          <l>וחשכו חיי.</l>
+          <l>ובאפלה גיששתי,</l>
+          <l>קרן אור אחת ביקשתי</l>
+          <l>ואת ידידי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מתוך בדידות כואבת,</l>
+          <l>ממצוקה צורבת,</l>
+          <l>מתוך שכבר נואשתי,</l>
+          <l>אל יד חמה ביקשתי,</l>
+          <l>למילה טובה ולאהבה,</l>
+          <l>לפיסת שלווה,</l>
+          <l>לפתח של תקווה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד אציג ניקיון כפיים,</l>
+          <l>מול אלי שבשמיים,</l>
+          <l>אור יזרח עלי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואיך זה לא ידעתי שזהו העולם?</l>
+          <l>בקרב שעל חייך, אתה לבד נלחם.</l>
+          <l>אולי הייתי פתי, ילד מבולבל,</l>
+          <l>על חלומות המראתי, ברוע הגורל.</l>
+          <l>עכשיו הכול ברור לי, על משמר חיי,</l>
+          <l>רק אני לבד בשטח, נוכח אלוהיי.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוד אציג ניקיון כפיים...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה קרה לי בליל אמש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

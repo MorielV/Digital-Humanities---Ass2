@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לפעמים קורה לי</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>יהודה אטלס</writer>
+        <composer>יוני רכטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לפעמים קורה לי</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים קורה לי</l>
+          <l>במקום שלא הייתי</l>
+          <l>שפתאום נדמה לי</l>
+          <l>שמה שאני רואה כבר ראיתי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שכל בית, חלון או קיר</l>
+          <l>שאני רואה פה</l>
+          <l>אני כבר מכיר,</l>
+          <l>לא יודע מאיפה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני כאילו הולך</l>
+          <l>בחלום של מישהו אחר</l>
+          <l>או אולי בחלום של עצמי</l>
+          <l>שאני כבר לא זוכר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תמיד אני מתחיל לחשוב</l>
+          <l>כשקורים לי כאלה דברים</l>
+          <l>שאולי לפני שנולדתי</l>
+          <l>היו לי חיים אחרים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

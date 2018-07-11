@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רגע לפני 4</title>
+        <singer classification="unknown">אניה בוקשטיין</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רגע לפני</head>
+        <lg number="1" type="stanza">
+          <l>רגע לפני שסוגרים את הדלת</l>
+          <l>ואין ברחוב אנשים.</l>
+          <l>רגע לפני שהשמש צוללת</l>
+          <l>בים של בתים וכבישים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רגע לפני, אתה איתי</l>
+          <l>ושוב מבטך בי נוגע</l>
+          <l>ולו רק ניתן במבטי -</l>
+          <l>למשוך ולמשוך את הרגע.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רגע לפני שהחורף בזעם</l>
+          <l>מצניח ברד ממרומים,</l>
+          <l>רגע לפני שעונה לו הרעם</l>
+          <l>באשד אדיר של סלעים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רגע לפני, אתה איתי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רגע לפני שהבוקר צובע</l>
+          <l>באור את שלבי התריסים,</l>
+          <l>רגע לפני שהרוח גווע</l>
+          <l>ברחש צמרות העצים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רגע לפני, אתה איתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

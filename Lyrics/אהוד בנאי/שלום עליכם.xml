@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלום עליכם</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>עממי</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלום עליכם</head>
+        <lg number="1" type="stanza">
+          <l>שלום עליכם מלאכי השלום</l>
+          <l>מלאכי עליון</l>
+          <l>ממלך מלכי המלכים, הקדוש ברוך הוא.</l>
+          <l>בואכם לשלום, מלאכי השלום,</l>
+          <l>מלאכי עליון</l>
+          <l>ממלך מלכי המלכים, הקדוש ברוך הוא</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ברכוני לשלום מלאכי השלום</l>
+          <l>מלאכי עליון</l>
+          <l>ממלך מלכי המלכים, הקדוש ברוך הוא.</l>
+          <l>צאתכם לשלום, מלאכי השלום,</l>
+          <l>מלאכי עליון,</l>
+          <l>ממלך מלכי המלכים, הקדוש ברוך הוא.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

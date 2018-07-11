@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם תתן לי ורד</title>
+        <singer classification="unknown">אורלי ורדי</singer>
+        <writer>אורי אסף</writer>
+        <composer>יוסף הדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם תתן לי ורד</head>
+        <lg number="1" type="stanza">
+          <l>אם תתן לי ורד לא אשכח אותך.</l>
+          <l>שמך עלי כותרת לפרח לב נפתח.</l>
+          <l>אם תלך בשקט על משעול ליבי</l>
+          <l>ותהיה הקשת לחץ אהבתי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך שורד אחד עושה לי חג.</l>
+          <l>אם תלך בשקט על משעול ליבי</l>
+          <l>ותהיה הקשת לחץ אהבתי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם תתן לי ורד לא אשכח שמך.</l>
+          <l>גם בתוך עשרת נערים כמותך.</l>
+          <l>רק תלך בשקט על משעול ליבי</l>
+          <l>ותהיה הקשת לחץ אהבתי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך שורד אחד עושה לי חג...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

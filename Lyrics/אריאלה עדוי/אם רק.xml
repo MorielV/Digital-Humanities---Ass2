@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם רק 3</title>
+        <singer classification="unknown">אריאלה עדוי</singer>
+        <writer>אריאלה עדוי</writer>
+        <composer>אריאלה עדוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם רק</head>
+        <lg number="1" type="stanza">
+          <l>אם רק הייתי קצת אחרת</l>
+          <l>אולי אז היה לנו טוב</l>
+          <l>אם רק ידעתי לשתוק קצת יותר </l>
+          <l>אולי היה לנו עוד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם רק היית קצת אחר</l>
+          <l>אולי אז היה מקסים</l>
+          <l>אם רק היית קצת יותר רגיש</l>
+          <l>אולי אז היה מדהים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם רק היינו קצת יותר שונים</l>
+          <l>אולי זה היה מתאים</l>
+          <l>אם רק היינו קצת יותר ברורים</l>
+          <l>אולי זה לא היה מכאיב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אולי בעצם לא נועדנו...</l>
+          <l>אולי בעצם לא נועדנו... </l>
+          <l>נועדנו לאהוב....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ג ורג יה</title>
+        <singer classification="female singer">אפרת גוש</singer>
+        <writer>ברק פלדמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ג'ורג'יה</head>
+        <lg number="1" type="stanza">
+          <l>רוח עולה מן הים</l>
+          <l>גל מתקדם ועוד גל</l>
+          <l>מישהו בא ומבחין בי</l>
+          <l>מישהו בא ונבהל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני שוכבת קפואה</l>
+          <l>קול מהדהד במרחק</l>
+          <l>מישהו בא ונושם בי</l>
+          <l>בא ולוחץ בי חזק</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל התחושות נשכחו כבר</l>
+          <l>כל הכאב נעלם</l>
+          <l>אין בי דבר להציל עוד</l>
+          <l>אין לי בכל העולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רוח עולה מן הים</l>
+          <l>טעם מלוח בפי</l>
+          <l>מישהו לא מוותר לי</l>
+          <l>בא ונלחם במקומי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רעש קולות אנשים</l>
+          <l>צל מכסה את פני</l>
+          <l>מישהו בא ובוכה</l>
+          <l>לא אל תבכה, לא עלי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל התחושות נשכחו כבר</l>
+          <l>כל הכאב נעלם</l>
+          <l>אין בי דבר להציל עוד</l>
+          <l>אין לי בכל העולם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

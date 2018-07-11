@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה שבגדה</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>עממי ספרדי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה שבגדה</head>
+        <lg number="1" type="stanza">
+          <l>הכאב לא דיבר ושתקתי </l>
+          <l>שמרתי בלב את הכל </l>
+          <l>הדמעות לא זלגו אך ידעתי </l>
+          <l>שאיתך עוד אין לי תקווה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הלב לא יכל לדבר </l>
+          <l>והרגשתי דבר מצמרר </l>
+          <l>כשהופעת עם גבר אחר </l>
+          <l>רציתי להיות כבר עיוור </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לעולם לא אסלח נשבעתי </l>
+          <l>גם אם אבכה ואסבול </l>
+          <l>שאת לא כנה ידעתי </l>
+          <l>חבל שנתתי הכל </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הפצע עדיין פתוח </l>
+          <l>למרות שחלפו השנים </l>
+          <l>אהבתי אותך כמו בסרט </l>
+          <l>קשה לי עדיין לשכוח </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נשארת בלב חרוטה </l>
+          <l>עם צלקת כל כך עמוקה </l>
+          <l>זו הייתה אהבה ראשונה </l>
+          <l>זה סיפור על אישה שבגדה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לעולם לא אסלח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

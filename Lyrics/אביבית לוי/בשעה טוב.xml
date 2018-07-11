@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בשעה טוב</title>
+        <singer classification="unknown">אביבית לוי</singer>
+        <writer>אביבית לוי</writer>
+        <composer>אביבית לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בשעה טוב</head>
+        <lg number="1" type="stanza">
+          <l>מפריח באוויר </l>
+          <l>את יסודות הרהורי-הזמן</l>
+          <l>בנינוחות מזרחית</l>
+          <l>ומבט מערבה מכאן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני</l>
+          <l>בנקודת הפיתול</l>
+          <l>אניח לשעון הרחם</l>
+          <l>לתקתק חיים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והוא אשר יביא אותם</l>
+          <l>לעולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בשעה טובה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

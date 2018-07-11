@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מדברים בשקט</title>
+        <singer classification="female singer">אורטל אופק</singer>
+        <writer>עידן רייכל</writer>
+        <composer>עידן רייכל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מדברים בשקט</head>
+        <lg number="1" type="stanza">
+          <l>דבר אלי מילים פשוטות כמו שהיינו פעם</l>
+          <l>כשעוד כתבת מכתבים של אהבה</l>
+          <l>כמו שהיית מחבק נשאר איתי ולא בורח</l>
+          <l>היית בא מביא לי פרח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>דבר אלי מילים פשוטות כמו שהיינו פעם</l>
+          <l>כשעוד היית מסתכל עלי</l>
+          <l>נרדמת לצידך כמו שהיית דואג</l>
+          <l>אם תמיד אהיה שלך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>פעם היינו מדברים לאט</l>
+          <l>היינו מדברים בשקט מדברים מעט</l>
+          <l>היית מסתכל לי בעיניים כשדיברתי איתך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>דבר אלי מילים פשוטות כמו שהיינו פעם</l>
+          <l>כשעוד היית מסתכל עלי</l>
+          <l>נרדמת לצידך כמו שהיית דואג</l>
+          <l>אם תמיד אהיה שלך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>פעם היינו מדברים לאט...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>תחבק אותי חזק ואל תרפה</l>
+          <l>ימים קשים עוברים</l>
+          <l>אני נופלת מהכובד על כתפי</l>
+          <l>אני נופלת מהכובד על כתפי</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>פעם היינו מדברים לאט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

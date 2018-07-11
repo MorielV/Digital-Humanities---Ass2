@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איני יכול</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>ניסים סרוסי</writer>
+        <composer>ניסים סרוסי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איני יכול</head>
+        <lg number="1" type="stanza">
+          <l>איני יכול, יותר לסבול</l>
+          <l>לראות אותם, מתהלכים יד ביד</l>
+          <l>בזמן שאותי, השאירה פה לבד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איני יכול, יותר לסבול</l>
+          <l>לראות אותם מעבר לרחוב</l>
+          <l>בזמן שדיברת אליו כה קרוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוי למה? הלכת ממני</l>
+          <l>למרות שהזהירו אותי ממך</l>
+          <l>חשבתי שנתת לי את ליבך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איני יכול, יותר לסבול</l>
+          <l>לראות יותר את חדרי הקטן</l>
+          <l>היכן שבילינו יחדיו רוב הזמן</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הוי למה? הלכת ממני</l>
+          <l>הכל בגלל שטות כה קטנה</l>
+          <l>קלקלת אהבה כה גדולה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אווווו....</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>איני יכול, יותר לסבול</l>
+          <l>אני מנסה לשכוח הכל</l>
+          <l>אך כלום לא עוזר אני ממשיך לסבול</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>איני יכול, לא, לא יכול</l>
+          <l>אני הולך רחוק רחוק מכאן</l>
+          <l>לשכוח הכל במשך הזמן</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>אני הולך.....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

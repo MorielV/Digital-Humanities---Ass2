@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא רק בגלל</title>
+        <singer classification="male singer">אילן נורי</singer>
+        <writer>רון בן שלום</writer>
+        <composer>רון בן שלום</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא רק בגלל</head>
+        <lg number="1" type="stanza">
+          <l>לא רק בגלל אור הירח</l>
+          <l>אף פעם לא מחשיך כשאת כאן</l>
+          <l>זה לא בגלל שהגן פורח</l>
+          <l>את לי הפרח הכי יפה בגן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא רק בגלל שברקיע קשת</l>
+          <l>גם כך איתך רואה רק ורוד</l>
+          <l>זה לא בגלל זריחת השמש</l>
+          <l>כי רק את מביאה את האור</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה רק בגלל שהיום החלטנו</l>
+          <l>לצעוד ביחד את העתיד</l>
+          <l>זה רק בגלל שנשבענו שנינו</l>
+          <l>להיות ביחד ולתמיד</l>
+          <l>רק מאושר אני בוכה</l>
+          <l>רק מאושר אני צוחק</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא רק בגלל ששחר הפציע </l>
+          <l>איתך חיי זורחים גם בליל</l>
+          <l>זה לא בגלל שהאביב הגיע</l>
+          <l>איתך ימי פורחים כל העת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא רק בגלל נצנוץ כוכבים</l>
+          <l>את לי כוכב שמאיר גם ביום</l>
+          <l>זה לא בגלל חלומות מתוקים</l>
+          <l>גם המציאות איתך היא חלום</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>זה רק בגלל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

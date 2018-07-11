@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי צריך יותר 2</title>
+        <singer classification="unknown">איציק בן ארי</singer>
+        <writer>אבי קורן</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי צריך יותר</head>
+        <lg number="1" type="stanza">
+          <l>אם יש לי שמש,אם יש שמיים </l>
+          <l>אם יש לי בגד וגג מעל. </l>
+          <l>פרוסה של לחם קנקן של מים </l>
+          <l>חיוך או שניים ואהבה. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אה...אין ממני מאושר </l>
+          <l>אה...אין,מי צריך יותר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם יש לי ארץ </l>
+          <l>חבר או שניים </l>
+          <l>אם יש לי זמר שמתנגן </l>
+          <l>אלך בדרך עם חבר או שניים </l>
+          <l>שיר על השפתיים ככה אנגן: </l>
+        </lg>
+        <lg number="4" type="stanza" />
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אה...אין ממני מאושר </l>
+          <l>אה...אין,מי צריך יותר </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אם רק ידענו </l>
+          <l>אם רק שמרנו </l>
+          <l>אם רק זכרנו שוב לאהוב </l>
+          <l>נלך בדרך עם חבר או שניים </l>
+          <l>שיר על השפתיים </l>
+          <l>ככה עד אין סוף. </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אה...אין ממני מאושר </l>
+          <l>אה...אין,מי צריך יותר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

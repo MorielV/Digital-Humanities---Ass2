@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מהשמיים</title>
+        <singer classification="unknown">אשר ביטון</singer>
+        <writer>משה פרץ</writer>
+        <composer>משה פרץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מהשמיים</head>
+        <lg number="1" type="stanza">
+          <l>מהשמיים נופל כמו טיפות המים </l>
+          <l>ומעניק לך אהבה שתלטף את הנשמה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני לבד יושב בצד </l>
+          <l>ומחכה רק שתבואי ותאמרי שאת שלי </l>
+          <l>אני רוצה שתחבקיני שוב בכוח </l>
+          <l>ולא לשכוח, שאהבה כזאת יש פעם בחיים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מהשמיים נופל כמו טיפות המים </l>
+          <l>ומעניק לך אהבה שתלטף את הנשמה </l>
+          <l>מהשמיים נופל כמו טיפות המים </l>
+          <l>ומעניק לך אהבה שתלטף את הנשמה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני שלך רק שלך </l>
+          <l>אני מגשים איתך את כל החלומות הכי יפים </l>
+          <l>כן, רוצה שתחבקיני שוב בכוח, ולא לשכוח </l>
+          <l>שאהבה כזאת יש פעם בחיים </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מהשמיים נופל כמו טיפות המים </l>
+          <l>ומעניק לך אהבה שתלטף את הנשמה </l>
+          <l>מהשמיים נופל כמו טיפות המים </l>
+          <l>ומעניק לך אהבה שתלטף את הנשמה </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>איך אני רוצה שתחבקיני שוב בכוח </l>
+          <l>ולא לשכוח, שאהבה כזאת יש פעם בחיים </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>מהשמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

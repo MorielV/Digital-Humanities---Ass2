@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רציתי 2</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>בדרך שלך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רציתי</head>
+        <lg number="1" type="stanza">
+          <l>רציתי לנגן</l>
+          <l>רציתי לזיין</l>
+          <l>רציתי לאהוב אותך</l>
+          <l>לשתות ולעשן,</l>
+          <l>רציתי מכונית</l>
+          <l>עם גג שחור נפתח</l>
+          <l>יוצא מהבסיס</l>
+          <l>רוצה להיות איתך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כן רק אותך רציתי</l>
+          <l>לאהוב אותך</l>
+          <l>ביום שבת לקום לראות את אמא</l>
+          <l>בערב יום שישי לראות אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רציתי לנסות</l>
+          <l>לחיות בהזיות,</l>
+          <l>רציתי לעשות הכל</l>
+          <l>לחיות בלי חשבונות,</l>
+          <l>רציתי לשנות</l>
+          <l>לחיות ללא קווים</l>
+          <l>לחיות ללא גבולות</l>
+          <l>לחיות ללא רובים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כן רק אותך רציתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

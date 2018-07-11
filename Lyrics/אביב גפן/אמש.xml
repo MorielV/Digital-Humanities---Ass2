@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמש</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמש</head>
+        <lg number="1" type="stanza">
+          <l>אמש התבזתי בפעם המאה</l>
+          <l>חלמתי שוב עלייך בלונדינית קטנטנה</l>
+          <l>שתיתי אצל אושיק חלומות די חריפים</l>
+          <l>האגו התנפח הרגשתי עננים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אמש שוב הקאתי בחצר האחורית</l>
+          <l>שתיתי מהברז חלודה משמעותית</l>
+          <l>ובעטו מול כולם כי לא הייתי בצבא</l>
+          <l>ומה זה לב רגיש מול בטחון של מדינה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נהייתי חקלאי מצצתי דונם דשא</l>
+          <l>ולא אלך לישון לא אלך לפני ש...</l>
+          <l>לא אלך לישון לפני שאת קצת תלטפי</l>
+          <l>כבר חצי תל ברוך יודעים שאני יהודי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תמיד את באה אחר כך כשהעיניים נסגרות</l>
+          <l>תמיד את באה בחלומות</l>
+          <l>ועכשיו אלך לישון, אקום לי מאוחר</l>
+          <l>ושוב מחר יהיה אותו דבר</l>
+          <l>אמש התבזתי בפעם המאה</l>
+          <l>אמש</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה רעש</title>
+        <singer classification="female singer">אתי אנקרי</singer>
+        <writer>אתי אנקרי</writer>
+        <composer>אתי אנקרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה רעש</head>
+        <lg number="1" type="stanza">
+          <l>מה שישאר ממני אחרי הרעש הגדול</l>
+          <l>יחכה לך כאן</l>
+          <l>אחרי שילכו כולם</l>
+          <l>מה שצועק בך</l>
+          <l>לא מגיע אלי</l>
+          <l>יש רעש בחיי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה שהולך ממני פוסע כלעומת שבא</l>
+          <l>כאב הולך, כאב חוזר</l>
+          <l>ללא סיבה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אולי אתה צודק</l>
+          <l>אולי אתה כועס מדי</l>
+          <l>לא יכולה לראות</l>
+          <l>לא יכולה לקרוא את תנועות שפתי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמה רעש..</l>
+          <l>כמה רעש בחיי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הרבה מאוד עיניים מסתירות לי</l>
+          <l>ומכוונות את חיי</l>
+          <l>מה שצועק בך לא מגיע אלי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>זה לא פשוט לחכות בפינה כשאין בך אמונה</l>
+          <l>זה לא פשוט לחכות בפינה עד שתחלוף העונה</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אולי אתה צודק</l>
+          <l>אולי אתה כועס מדי</l>
+          <l>לא יכולה לראות</l>
+          <l>לא יכולה לקרוא את תנועות שפתי</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>כמה רעש..</l>
+          <l>כמה רעש בחיי</l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>אם עדיין תרצה בי</l>
+          <l>אתה מוזמן לך לאסוף את שברי..</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

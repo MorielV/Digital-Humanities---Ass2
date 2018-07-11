@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הוזה אותך מולי</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>קירוקוס פפדופולוס</composer>
+        <album>זר כיסופים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הוזה אותך מולי</head>
+        <lg number="1" type="stanza">
+          <l>היינו זוג כל כך מושלם, את ואני</l>
+          <l>והיום כבר לא רואים אחד את השני</l>
+          <l>לא חבל על שנינו, את זה לא הבנתי</l>
+          <l>תני לי הזדמנות, אני עייפתי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה אני עשיתי, מה כבר</l>
+          <l>העולם מחדיר בי פחד</l>
+          <l>ואני כבר לא אני </l>
+          <l>כי את כבר לא איתי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הייתי כה רגוע, עכשיו הלב פצוע </l>
+          <l>הראש רק בך שקוע, הוזה אותך מולי</l>
+          <l>תדעי שאת הולכת, הים סוער אין שקט</l>
+          <l>ורק דמעות זולגות, שוטפות את כל כולי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה איתך ילדה, אולי ספרי לי</l>
+          <l>שתיקתך שברה הכל בתוכי</l>
+          <l>לאהוב אותך לעד נשבעתי </l>
+          <l>את הדבר הכי יקר לקחת לי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מה אני עשיתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

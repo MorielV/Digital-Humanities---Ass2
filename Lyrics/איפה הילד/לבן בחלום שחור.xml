@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לבן בחלום שחור</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לבן בחלום שחור</head>
+        <lg number="1" type="stanza">
+          <l>עמוק עמוק עמוק צללנו</l>
+          <l>רחוק רחוק רחוק הגענו רחוק</l>
+          <l>אהבה למה עזבת אותנו</l>
+          <l>אם תסלחי לי אי פעם אהובתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם תרצי אחזור לבן בחלום שחור</l>
+          <l>אם תסלחי לי אי פעם אהובתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוקדים רוקדים רוקדים עד שמתים</l>
+          <l>את שהרגת אותי אהובתי</l>
+          <l>אהבה למה עזבת אותנו</l>
+          <l>אם תסלחי לי אי פעם אהובתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם תרצי אחזור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

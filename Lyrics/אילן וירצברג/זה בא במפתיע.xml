@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה בא במפתיע</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>אילן וירצברג</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה בא במפתיע</head>
+        <lg number="1" type="stanza">
+          <l>עוד מעט תגיע שעת החסד</l>
+          <l>ובשקט אנגן בה</l>
+          <l>שיר חדש</l>
+          <l>עוד מעט הוא מגיע</l>
+          <l>עוד עניין קטן של הרגשה</l>
+          <l>וזה תקוע בגרון כמו בכי</l>
+          <l>פעם בא ופעם נעלם</l>
+          <l>זה בא במפתיע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוד מעט תגיע שעת החסד</l>
+          <l>ובינתיים מנסה שוב</l>
+          <l>דף חדש</l>
+          <l>מילים שנכתבות שוב</l>
+          <l>מוסיפות עוד קצת משמעות</l>
+          <l>וזה חומק כמו זיכרון עם בא ופעם נעלם</l>
+          <l>זה בא במפתיע</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

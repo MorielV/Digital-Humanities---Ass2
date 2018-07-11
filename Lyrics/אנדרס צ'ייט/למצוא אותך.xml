@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למצוא אותך</title>
+        <singer classification="unknown">אנדרס צ ייט</singer>
+        <writer>אנדרס צ'ייט</writer>
+        <composer>אנדרס צ'ייט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למצוא אותך</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>היום אחפש אותך</l>
+          <l>אולי אפשר לא לחשוב בך</l>
+          <l>דברים חוזרים להיות לא מובנים</l>
+          <l>זאת ההזדמנות האחרונה שלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היום אחפש אותך</l>
+          <l>לא איכפת לי מה שהם חושבים</l>
+          <l>זה אומר רק מה שאני מרגיש</l>
+          <l>כי רק אוהב לחלום עלייך,</l>
+          <l>לחלום עלייך, לחלום עלייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז מחר זה לא יראה כאילו הלכת</l>
+          <l>אבל למרות הכל לא הצלחתי למצוא אותך</l>
+          <l>אז מחר זה לא יראה כאילו הלכת</l>
+          <l>אבל למרות הכל לא הצלחתי למצוא אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היום אחפש אותך</l>
+          <l>אך אין אף אחד בדרך</l>
+          <l>זה סוף של סיפור אחד</l>
+          <l>אז למה רצית ללכת</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>היום אחפש אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

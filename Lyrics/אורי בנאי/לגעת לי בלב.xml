@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לגעת לי בלב</title>
+        <singer classification="male singer">אורי בנאי</singer>
+        <writer>אורי בנאי</writer>
+        <composer>אורי בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לגעת לי בלב</head>
+        <lg number="1" type="stanza">
+          <l>מתחת לבניין שלך מחכה בשקט</l>
+          <l>הנה עוד 26 עוצר בתחנה</l>
+          <l>זה יום חמסין של קיץ לח כל העיר נחנקת</l>
+          <l>אין אותך ואין לי צל</l>
+          <l>את לא מאמינה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ארבתי לך ליד ביתך אבל את לא חזרת</l>
+          <l>ואני לא יודע איך לומר לך שנבחרת</l>
+          <l>מכל הבחורות בבלוק לגעת לי בלב</l>
+          <l>אז תתקשרי ובואי נבדוק</l>
+          <l>מספיק עם הכאב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל האנשים ברחוב מחייכים קבוע</l>
+          <l>תסתכלו איזה אידיוט ממשיך להאמין</l>
+          <l>שיום אחד (רצוי קרוב) במשך השבוע</l>
+          <l>היא תכין לו תבשילים</l>
+          <l>ובשבת חמין</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ארבתי לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

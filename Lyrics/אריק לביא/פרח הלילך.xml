@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פרח הלילך 2</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>אורי אסף</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פרח הלילך</head>
+        <lg number="1" type="stanza">
+          <l>היום אולי נדחה את בוא הלילה</l>
+          <l>ולא נשאף לאור כוכב</l>
+          <l>הן לי ולך יש כל אשר נשאלה</l>
+          <l>מבלי מילים נדע זאת, כי נאהב.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היום אולי נדחה את קץ דרכנו</l>
+          <l>ולא נזכור כי סוף לכל.</l>
+          <l>זה המשעול שבו דורכות רגלינו,</l>
+          <l>בשני קצותיו הדשא לא יבול.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שותקים נאהב כי לי ולך</l>
+          <l>די בלי מילים שהן לאלה,</l>
+          <l>אשר אינם יודעים לומר אחרת</l>
+          <l>כמה יפה פורח הלילך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היום אולי נדחה את העצבת</l>
+          <l>אם יד ביד באור, נלך,</l>
+          <l>כי רוח כפור בחשכה נושבת</l>
+          <l>רק במקום בו לא שמעו את שמך.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שותקים נאהב...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>היום אולי נדחה בוא השלכת</l>
+          <l>ולא יוכל לבוא הסתיו.</l>
+          <l>דרכים רבות הן לאביב ממלכת -</l>
+          <l>אם רק אותן אור חיוכך יאהב.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>שותקים נאהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

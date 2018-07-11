@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כינור דוד</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כינור דוד</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>כינור דוד לך אנעים, לך אנעים</l>
+          <l>כינור דוד לך אנעים, לך אנעים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הנך שושנה בין החוחים, בין החוחים</l>
+          <l>קומתך כתמר, לחייך שושנים</l>
+          <l>מה יפית ומה נעמת, כי את ליבי כבשת</l>
+          <l>מה יפית ומה נעמת, כי את ליבי כבשת.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כינור דוד...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נפשי בך חשקה, עלמת החן, עלמת החן</l>
+          <l>את כל אשר תאבי לך אתן, לך אתן</l>
+          <l>מה יפו פעמייך, ליבי רק אלייך</l>
+          <l>מה יפו פעמייך, ליבי רק אלייך.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כינור דוד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

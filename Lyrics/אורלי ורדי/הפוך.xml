@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הפוך 2</title>
+        <singer classification="unknown">אורלי ורדי</singer>
+        <writer>אורלי ורדי</writer>
+        <composer>אורלי ורדי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הפוך</head>
+        <lg number="1" type="stanza">
+          <l>כשאני מעונינת - אתה פחות.</l>
+          <l>כשאתה מעונין - זה לא לעניין.</l>
+          <l>"כשאגוז הוא קשה", כך אני נמשכת,</l>
+          <l>"כמו אל מגנט", אתה נתפס ...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא יודעת מה עובר לי בראש עכשיו,</l>
+          <l>אתה בעצם לא שווה שום דבר.</l>
+          <l>איך אתה בכל זאת אצלי במקום נכבד?</l>
+          <l>והאחר מחפש את דרכו אלי?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>טילפנת אלי ללא הפסקה,</l>
+          <l>אמרת שחדרתי לך לנשמה.</l>
+          <l>בשיא הקלילות הקשבתי לדברים,</l>
+          <l>הלב ממש לא נשבר לרסיסים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

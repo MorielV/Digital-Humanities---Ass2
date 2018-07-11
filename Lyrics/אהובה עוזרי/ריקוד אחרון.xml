@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ריקוד אחרון</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ריקוד אחרון</head>
+        <lg number="1" type="stanza">
+          <l>ריקוד אחרון אותך רציתי</l>
+          <l>המנגינה חודרת אל ליבי</l>
+          <l>פזמון ישן נושן שאהבנו</l>
+          <l>זכרונות לעד בליבנו</l>
+          <l>ימים חמים יפים אנו עברנו</l>
+          <l>זכרונות בלב תמיד אשמור</l>
+          <l>חבק אותי אני תמיד בקשתי</l>
+          <l>חום גופך היה לי למשען</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קל רגליים כמו עלה רך</l>
+          <l>אותי מרקיד לקול המנגינה</l>
+          <l>את המילים לוחש לי באוזני</l>
+          <l>אהבה בך תמיד ערה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תמיד אחזת בי בחזקה</l>
+          <l>ולחשת רק אני שלך</l>
+          <l>פחדת שמא אני אבהל</l>
+          <l>אך נשמתי לעד נקשרה</l>
+          <l>לא אוכל אני לחצות הדרך</l>
+          <l>אם אתה לא אוחז בי</l>
+          <l>מים אש לא כיבתה את אהבה</l>
+          <l>כך מתאים לי בנשמה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קל רגליים כמו עלה רך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כן כן ככה זה</title>
+        <singer classification="unknown">אפי שושני</singer>
+        <writer>אלי בכנר</writer>
+        <composer>אפי שושני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כן כן ככה זה</head>
+        <lg number="1" type="stanza">
+          <l>על הספסל אשר בגן </l>
+          <l>שפה הוא גן העיר נקרא </l>
+          <l>יושב זקן מסכן קטן. </l>
+          <l>יש לו זקן ארוך לבן </l>
+          <l>ועל ראשו כיפה שחורה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קשה קליפת הלחם כאן </l>
+          <l>ולזקן רק שן אחת </l>
+          <l>רק לינזנזופה הוא אכל </l>
+          <l>וכוח אין לו כבר בכלל </l>
+          <l>זקן מסכן בגן!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

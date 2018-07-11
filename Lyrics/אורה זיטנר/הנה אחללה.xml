@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנה אחללה</title>
+        <singer classification="female singer">אורה זיטנר</singer>
+        <writer>יעקב אורלנד</writer>
+        <composer>מרדכי זעירא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנה אחללה</head>
+        <lg number="1" type="stanza">
+          <l>הנה אחללה בחלילי</l>
+          <l>בדומיית לילי.</l>
+          <l>ישמע אדם, יקשיב הצאן</l>
+          <l>לזה השיר, לזה הרן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מני עדר תעה גדי,</l>
+          <l>לא בכדי, לא בכדי,</l>
+          <l>יען בא אל אהלי,</l>
+          <l>בצאתי אל פעלי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ראש חיכך בלאט הגדי</l>
+          <l>ביתרי וביתדי.</l>
+          <l>הוי חושה והגידה אח -</l>
+          <l>היש מקום לגדי מודח?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מני עדר תעתה ילדה</l>
+          <l>לבדה לבדה</l>
+          <l>ותבוא אל אהלי</l>
+          <l>בצאתי אל פעלי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז לטפה ביד חמה</l>
+          <l>את נפשי הנרדמה</l>
+          <l>הוי חושה והגידה אח</l>
+          <l>היש מקום לגדי מודח?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

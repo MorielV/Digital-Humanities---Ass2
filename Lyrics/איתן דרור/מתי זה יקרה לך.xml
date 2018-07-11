@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתי זה יקרה לך</title>
+        <singer classification="male singer">איתן דרור</singer>
+        <writer>איתן דרור</writer>
+        <composer>איתן דרור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתי זה יקרה לך</head>
+        <lg number="1" type="stanza">
+          <l>את מי מחבק העולם</l>
+          <l>וכמה טוב לכולם</l>
+          <l>אולי זה יקרה לך</l>
+          <l>מתי זה יקרה לך. </l>
+          <l>הרגל לנעל כמעט מתאימה</l>
+          <l>זה סיפור של אחרת ואת מחכה</l>
+          <l>שאולי זה יקרה לך</l>
+          <l>מתי זה יקרה לך. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הם אומרים, לא דובים</l>
+          <l>הם אומרים, לא דובים ולא יער, זהבה. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ויש משאלה שבקיץ הבא</l>
+          <l>רק התחושה בצבעים של שקיעה</l>
+          <l>ואולי זה יקרה לך</l>
+          <l>מתי זה יקרה לך</l>
+          <l>ועוד יום שהלך</l>
+          <l>והלב כבר מוכרח</l>
+          <l>אינשאללה יקרה לך</l>
+          <l>מחר זה יקרה לך. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הם אומרים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

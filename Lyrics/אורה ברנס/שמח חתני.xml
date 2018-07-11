@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמח חתני</title>
+        <singer classification="unknown">אורה ברנס</singer>
+        <writer>אלעד דויטש</writer>
+        <composer>אלעד דויטש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמח חתני</head>
+        <lg number="1" type="stanza">
+          <l>להוד כלה יפת מראה</l>
+          <l>ימי שלווה תנה נא לה</l>
+          <l>שתתענג בבית אישה</l>
+          <l>בילדי חן ותהילה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שמח חתני שמחי נא בת ציון </l>
+          <l>הנה באה שמחה גדולה </l>
+          <l>לעם סגולה בדור הגאולה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אנא אלי ריבון עולם</l>
+          <l>שמור אותם ואת זרעם</l>
+          <l>רק שיבוא כבר הגואל</l>
+          <l>יהי שלום על ישראל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שמח חתני...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>איילת חן בת אהבים</l>
+          <l>עמך שוכן מעונים</l>
+          <l>רק שתזכו לרוב ברכה</l>
+          <l>כאברהם וכשרה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

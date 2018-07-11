@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עצוב מדי</title>
+        <singer classification="band">אבטיפוס</singer>
+        <writer>טל יניב</writer>
+        <composer>טל יניב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עצוב מדי</head>
+        <lg number="1" type="stanza">
+          <l>כל כך הרבה אנשים על החוף</l>
+          <l>פרשתי מגבת לבנה</l>
+          <l>עצמתי עיניים, ניסיתי לא לחשוב</l>
+          <l>כמעט שהצלחתי לשנייה</l>
+          <l>השמש כבר לא איימה לסרטן</l>
+          <l>אך נשאר עוד קצת זמן לשקיעה</l>
+          <l>מציל צעק בקול מאיים כאילו אף אחד לא שמע</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חזרתי הביתה ולא היה שם כלום</l>
+          <l>היה לי ריק והייתי לבד</l>
+          <l>הייתי עצוב מדי</l>
+          <l>עצוב מדי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בבוקר שוב חזרתי לים</l>
+          <l>חיפשתי לי מקום לשבת</l>
+          <l>כאילו שאפשר לברוח לשם</l>
+          <l>שאנשים מסביב זה אחרת</l>
+          <l>היו לידי אישה וילדה</l>
+          <l>ששיוו לי מראה של איש משפחה</l>
+          <l>מישהי שהכרתי מזמן</l>
+          <l>עברה, עצרה ובהתה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חזרתי הביתה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

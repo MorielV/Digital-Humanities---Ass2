@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה קרה לליבך</title>
+        <singer classification="unknown">אלי יהודה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה קרה לליבך</head>
+        <lg number="1" type="stanza">
+          <l>כשעלה הכוכב באתי לביתך</l>
+          <l>כי ליבי מאוהב לא נגמל ממך</l>
+          <l>אבל אז בחלון איש אחר עמד</l>
+          <l>וגופך בתופו כמו היה אחד</l>
+          <l>ואני לא מבין איך ליבך בגד</l>
+          <l>הן אמרת שגופך לגופי נועד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה קרה לליבך איך עלי ויתר</l>
+          <l>איך שכחת את עצמך שאחר חיזר</l>
+          <l>מה קרה לליבך איך עלי ויתר</l>
+          <l>איך נתת את גופך לאדם אחר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה קרה לליבך איך עלי ויתר</l>
+          <l>איך נתת את גופך לאדם אחר.</l>
+          <l>איך ליבך ויתר, איך ליבך ויתר</l>
+          <l>ובילית בלילה עם אדם אחר</l>
+          <l>איך ליבך ויתר, איך ליבך ויתר</l>
+          <l>ובילית בלילה עם אדם אחר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הדמעות בעיני כבר מזמן יבשו</l>
+          <l>לראותך ביחידות הם כל כך ביקשו</l>
+          <l>אבל את בין ידיו לא זכרת אותי</l>
+          <l>ושכחת איך הבטחת רק להיות איתי</l>
+          <l>ואני מקווה שעד יום מותי</l>
+          <l>עוד אזכה להחזיר את אהבתי.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מה קרה לליבך...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>איך ליבך ויתר, איך ליבך ויתר</l>
+          <l>ובילית בלילה עם אדם אחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבא אמא וארץ ישראל</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבא אמא וארץ ישראל</head>
+        <lg number="1" type="stanza">
+          <l>יש לי שני הורים שאוהבים לטייל</l>
+          <l>הם עברו ברגל כבר את כל ישראל</l>
+          <l>כשהייתי בת שנה נסעו לגליל</l>
+          <l>וסחבו אותי איתם בתוך התרמיל.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל שבת יוצאים אנחנו כאיש אחד</l>
+          <l>כובע על הראש ומימיה על הצד</l>
+          <l>פעם אל החולה לבקר בשמורה</l>
+          <l>פעם בכרמל לראות איזו מערה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אבא, אמא קצת יותר לאט</l>
+          <l>אבא, אמא תחכו מעט</l>
+          <l>אין לאן לרוץ ואין לאן למהר</l>
+          <l>ארץ ישראל פה לעולם תשאר.</l>
+        </lg>
+        <lg number="4" type="stanza" />
+        <lg number="5" type="stanza">
+          <l>כבר ראיתי בגלבוע את הפריחה</l>
+          <l>ומהר תבור ראיתי את הזריחה</l>
+          <l>כבר עליתי למצדה בשביל הנחש</l>
+          <l>להורי תמיד קראתי בקול חלש:</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אבא, אמא קצת יותר לאט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תלתלים שחורים</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>מייק לוק</writer>
+        <composer>מייק לוק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תלתלים שחורים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>תלתלים שחורים, נופלים על הכתפיים</l>
+          <l>כמו שתי פנינות, יפות הן העיניים</l>
+          <l>גומות קטנות, ואף חטוב</l>
+          <l>ושפתיים מכל טוב</l>
+          <l>ואיך שאת יפה אח מאמא מיה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נקודת החן שבפנים, נותנת שמש לחיים</l>
+          <l>עור החלק כבד קטיפה, אח לנשק את כל גופה</l>
+          <l>היא מריחה כמו הורדים, בגן עדן מדברים</l>
+          <l>אני סופר את השנים, אח מאמא מיה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תלתלים שחורים...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היא במציאות כמו מלאך, אותה ממני אל תיקח</l>
+          <l>אני רוצה להיות איתה, אני אוהב אותה כל כך</l>
+          <l>היא אהבה כמו בספרים, כמו בסרטים הישנים</l>
+          <l>אני סופר את השנים, אח מאמא מיה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תלתלים שחורים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

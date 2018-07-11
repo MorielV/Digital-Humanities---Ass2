@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תנו לה</title>
+        <singer classification="unknown">אופיר כהן</singer>
+        <writer>נדב אסולין</writer>
+        <composer>נדב אסולין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תנו לה</head>
+        <lg number="1" type="stanza">
+          <l>איך אני רוצה, כמה מנסה</l>
+          <l>להביט בשתי עיניים וזה לא יוצא</l>
+          <l>ואת בשלך, כל כך רוצה אותך</l>
+          <l>מתעלמת את ממני, מה יהיה איתך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יאללה תני לה כפיים</l>
+          <l>תרקדי ברחבה</l>
+          <l>ונעוף עד השמיים</l>
+          <l>רק תתני לי אהבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה לך נתתי, ורק לך דאגתי</l>
+          <l>את היחידה וזה עכשיו מובן לי</l>
+          <l>לא אתייאש ממך, רק מבקש</l>
+          <l>את רק תביאי, אתן מה שיש.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יאללה תני לה כפיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חופשי ומאושר</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חופשי ומאושר</head>
+        <lg number="1" type="stanza">
+          <l>תן את השמיים והשמש החמה</l>
+          <l>תן לראות אותם מן הנשמה</l>
+          <l>תן לנפש שתבער</l>
+          <l>תן להיות חופשי ומאושר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שיר לנו שיר ושלח לנו אור</l>
+          <l>תן יום בהיר וערב טהור</l>
+          <l>צחק בנפשי, לבן ומואר</l>
+          <l>בואה חופשי ולך מאושר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש ימים יפים שהדרכים בהם גדולות</l>
+          <l>יש דברים יפים גם בלילות</l>
+          <l>וכל מה שעוד נותר</l>
+          <l>רק להיות חופשי ומאושר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שיר לנו שיר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוד תפילה אחת אנחנו נבקש ממך</l>
+          <l>עוד תפילה נריע לשמך</l>
+          <l>זכור אותנו גם מחר</l>
+          <l>תן להיות חופשי ומאושר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שיר לנו שיר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני בנאדם</title>
+        <singer classification="male singer">אודי דוד</singer>
+        <writer>שרון אבילחק</writer>
+        <composer>שרון אבילחק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני בנאדם</head>
+        <lg number="1" type="stanza">
+          <l>לא יודע איך לתאר</l>
+          <l>את הימים הללו שאני עובר</l>
+          <l>רוצה לתת לך אהבה ויותר</l>
+          <l>אבל לנו זה לא מסתדר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זוכר את הימים כשהיו עוד תקוות</l>
+          <l>היינו יחד ובלי דאגות</l>
+          <l>רוצה אותך ולא אחרות</l>
+          <l>אך לא יכול איתך להיות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני בנאדם אוהב ואמנם</l>
+          <l>לא יכול להיות איתך יותר</l>
+          <l>אני מוותר עלינו הפעם</l>
+          <l>לא יכול להיות איתך הלילה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז מה עושים ואיך מנסים</l>
+          <l>למצוא אושר ובלי אשמים</l>
+          <l>רוצה לחיות בלי אי הבנות</l>
+          <l>אז לא יכול איתך להיות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני בנאדם אוהב ואמנם</l>
+          <l>לא יכול להיות איתך יותר</l>
+          <l>אני מוותר עלינו הפעם</l>
+          <l>לא יכול להיות איתך הלילה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בנאדם אשאר לעולם</l>
+          <l>אל תגידי לי אני מוותר</l>
+          <l>אני אסתדר בלעדינו הפעם</l>
+          <l>לא יכול להיות איתך הלילה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

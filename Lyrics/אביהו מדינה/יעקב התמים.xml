@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יעקב התמים</title>
+        <singer classification="male singer">אביהו מדינה</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יעקב התמים</head>
+        <lg number="1" type="stanza">
+          <l>ברח לו יעקב מפני עשיו</l>
+          <l>אל דודו לבן נשא רגליו</l>
+          <l>רעה שם בהרים כבשים ואיילים</l>
+          <l>כי הוא איש תמים, יושב אוהלים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תירא ישראל, אל תירא</l>
+          <l>כי גור אריה הלא אתה</l>
+          <l>ואריה אם ישאג - מי לא ירא</l>
+          <l>מי לא יירא.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ברחל הוא עבד שבע שנים</l>
+          <l>כל בוקר יאמר לה עינייך יונים</l>
+          <l>אך אוי לו בבוקר כי זוהי לאה</l>
+          <l>אמר לבן ליעקב זו הבכירה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל תירא...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אך מה זה קרה לבחיר האל</l>
+          <l>ואז חידש ימיו כקדם בישראל</l>
+          <l>ואיך שלף חרבו ובשם האלוהים</l>
+          <l>היכה עמים רבים, זה התמים, זה התמים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אל תירא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

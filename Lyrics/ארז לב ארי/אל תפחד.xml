@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תפחד 2</title>
+        <singer classification="male singer">ארז לב ארי</singer>
+        <writer>ארז לב ארי</writer>
+        <composer>ארז לב ארי</composer>
+        <album>שמחת הפרטים הקטנים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תפחד</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>מאוחר מלסגת עכשיו</l>
+          <l>אל נא תתן עמלנו לשווא</l>
+          <l>אל תוליכנו אבודים לפניך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל תפחד</l>
+          <l>אין לך מה לאבד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מאוחר מלברוח עכשיו</l>
+          <l>פתח את ליבי היה לי לאב</l>
+          <l>אל תשליכני ריקם מלפניך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל תפחד</l>
+          <l>אין לך מה לאבד</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מאוחר מלסגת עכשיו</l>
+          <l>אל נא תתן עמלנו לשווא</l>
+          <l>אל תוליכנו אבודים לפניך</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מאוחר מלברוח עכשיו</l>
+          <l>פתח את ליבי היה לי לאב</l>
+          <l>אל תשליכני ריקם מלפניך</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אל תפחד</l>
+          <l>אין לך מה לאבד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

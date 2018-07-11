@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיבה טובה</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיבה טובה</head>
+        <lg number="1" type="stanza">
+          <l>איזה פלא</l>
+          <l>היא לא עושה לי עניינים</l>
+          <l>איזה פלא</l>
+          <l>היא ואני סופרים שנים</l>
+          <l>מה הפלא</l>
+          <l>כשרוצים אז משתנים</l>
+          <l>מה הפלא</l>
+          <l>כששרים "יהיו זמנים"</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הנה זה בא</l>
+          <l>הנה זה בא</l>
+          <l>הנה סיבה סיבה</l>
+          <l>כל כך טובה</l>
+          <l>למחשבה.</l>
+          <l>הנה זה בא</l>
+          <l>הנה זה בא</l>
+          <l>הנה סיבה סיבה</l>
+          <l>כל כך טובה</l>
+          <l>לאהבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך בן רגע</l>
+          <l>יש מענה לשאלות</l>
+          <l>איך בן רגע</l>
+          <l>היא ואני חוצים גבולות</l>
+          <l>זה הרגע</l>
+          <l>שחלמנו בתפילות</l>
+          <l>זהו רגע</l>
+          <l>שנכתב לשני קולות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הנה זה בא...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אין לדעת</l>
+          <l>מה עוד ילד היום הזה</l>
+          <l>אין לדעת</l>
+          <l>איך יגמר המחזה</l>
+          <l>יש לדעת</l>
+          <l>איך ללמוד מטעויות</l>
+          <l>על הדעת</l>
+          <l>עוד עולות אפשרויות.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הנה זה בא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

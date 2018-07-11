@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Big Fish</title>
+        <singer classification="band">אטליז</singer>
+        <writer>גיא בן שיטרית</writer>
+        <composer>אדם שפלן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Big Fish</head>
+        <lg number="1" type="stanza">
+          <l>THEY TREAT YOU </l>
+          <l>REAL NICE </l>
+          <l>THE DRINKS ARE </l>
+          <l>WITH ICE </l>
+          <l>I KISSED YOU GOOD NIGHT </l>
+          <l>?//? </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ALTHOUGH I DID IT </l>
+          <l>I'LL MAKE YOU TAKE THE BLAME </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>I DO NOT WISH TO KNOW WHERE I AM </l>
+          <l>I DO NOT WISH TO KNOW WHERE YOU ARE </l>
+          <l>I DO NOT WISH TO BE WHERE YOU'RE FROM </l>
+          <l>I DO NOT WISH TO BE ANYWHERE</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

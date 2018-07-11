@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לך אותי</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לך אותי</head>
+        <lg number="1" type="stanza">
+          <l>זו מלחמה פה</l>
+          <l>בלי הרוגים</l>
+          <l>האויבים פה מאוהבים</l>
+          <l>ברחת ממני שם</l>
+          <l>כמו מחלה</l>
+          <l>ועכשיו את באה בחזרה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רוצה איתך כל החיים</l>
+          <l>אז למה שוב דוקר עמוק בפנים</l>
+          <l>ולמה שוב אני בוכה לי במיטה</l>
+          <l>עד שתבואי בחזרה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש לך אותי</l>
+          <l>וזה המון אהובתי</l>
+          <l>יש לך אותי</l>
+          <l>אני אשכח כשתתרחקי</l>
+          <l>את הדברים שרציתי לומר לך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז עכשיו ברחתי</l>
+          <l>אם את אותי רוצה</l>
+          <l>אז תקני לך טרנינג חם</l>
+          <l>ונעלי ריצה</l>
+          <l>קניתי כלב וקראתי לו תקווה</l>
+          <l>למקרה שתבואי בחזרה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יש לך אותי</l>
+          <l>וזה המון אהובתי</l>
+          <l>יש לך אותי</l>
+          <l>אני אשכח כשתתרחקי</l>
+          <l>את הדברים שרציתי לומר לך</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>יש עוד דברים שרציתי לומר לך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

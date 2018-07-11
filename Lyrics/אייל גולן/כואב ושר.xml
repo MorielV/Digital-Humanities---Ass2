@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כואב ושר</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כואב ושר</head>
+        <lg number="1" type="stanza">
+          <l>גם מבור אסיר כואב ושר לך</l>
+          <l>על תקווה אחת שכבר אבדה.</l>
+          <l>מנבכי הלב, מתוך הלילה</l>
+          <l>מבקש, שואל על מה ולמה?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>למה עזוב וכה בודד?</l>
+          <l>למה עצוב לי וכואב?</l>
+          <l>הו, גלי לי</l>
+          <l>הו, לחשי לי</l>
+          <l>ובואי נא, קרבי אלי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה לי בימי ומה הם כל חיי?</l>
+          <l>מה לי כל היום מדוע אלוהי?</l>
+          <l>לו היה זה רק חלום שלא נגמר</l>
+          <l>יום נוסף שבא וכבר עבר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>למה עזוב וכה בודד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חוויות</title>
+        <singer classification="unknown">איציק איזמירלי</singer>
+        <writer>איציק איזמירלי</writer>
+        <composer>אורן איתן</composer>
+        <album>חוויות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חוויות</head>
+        <lg number="1" type="stanza">
+          <l>שוב בדרך הביתה</l>
+          <l>חולפות אותן מחשבות </l>
+          <l>עולים מקרים שחוויתי</l>
+          <l>זוכר אותם מקומות </l>
+          <l>ואיש אחד אותו אהבתי </l>
+          <l>ואחר שאין לו פינה </l>
+          <l>איך אותם אוכל לנטוש </l>
+          <l>וללכת משם </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בכול מקום שנפגעתי </l>
+          <l>עוד מצטברות צלקות </l>
+          <l>הולך בצל של עבר מטריד</l>
+          <l>ולא יכול לעבור</l>
+          <l>את האישה שבחרתי </l>
+          <l>ואיך איתך אחלוק</l>
+          <l>אנא אספי אותי אליך </l>
+          <l>ותני לי יד לחזור </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי הפעם אסלח לי</l>
+          <l>אני מוכרח לוותר</l>
+          <l>ואיך בדרך הביתה אבנה לי אופק אחר</l>
+          <l>החברים נותנים בי כוח </l>
+          <l>ועתידי מובטח אם אוכל </l>
+          <l>לחייך גם לעבר..וללכת משם ..</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

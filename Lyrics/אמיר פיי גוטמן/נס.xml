@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נס 4</title>
+        <singer classification="male singer">אמיר פיי גוטמן</singer>
+        <writer>אמיר בן דוד</writer>
+        <composer>דודי לוי</composer>
+        <album>דבש בכוורות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נס</head>
+        <lg number="1" type="stanza">
+          <l>לא שקט גם כשבחוץ דממה</l>
+          <l>כמו בסרט אימה - מתכווץ</l>
+          <l>יריב עקשן וחסר מנוחה</l>
+          <l>מזמין אותך להילחם איתו על החוף</l>
+          <l>עד הסוף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עולה על הר כדי לרדת חזרה</l>
+          <l>אבל ממשיך כל בוקר לטפס</l>
+          <l>כאילו אין ברירה</l>
+          <l>לבד אני הורס</l>
+          <l>ואחר-כך - מחכה לנס!</l>
+          <l>לבד אני הורס</l>
+          <l>ואחר-כך - מחכה לנס!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא טוב גם כשמושלם</l>
+          <l>קצת מגושם - אבל בועט</l>
+          <l>לא רוצה להיות עם כולם</l>
+          <l>כמו כולם - ממשיך לריב עם כל העולם</l>
+          <l>כל הזמן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עולה על הר כדי לרדת חזרה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ממשיך לריב עם כל העולם</l>
+          <l>כל הזמן...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עולה על הר כדי לרדת חזרה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלושה 3</title>
+        <singer classification="female singer">אלונה דניאל</singer>
+        <writer>אלונה דניאל</writer>
+        <composer>אלונה דניאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלושה</head>
+        <lg number="1" type="stanza">
+          <l>צריף רעוע על חוף נטוש,</l>
+          <l>גל רודף רודף גל,</l>
+          <l>בוקר אחרי סערה.</l>
+          <l>שלושה חודשים לא תמימים,</l>
+          <l>שילוש לא קדוש, אבל</l>
+          <l>גורל בגורל בגורל.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בבוקר מצאנו דולפין שזרק את עצמו לחוף,</l>
+          <l>נעלתי אותך בתוכי, תנסה - לא תוכל לעזוב,</l>
+          <l>התינוק בועט בבטני, שיכאב אם צריך לכאוב,</l>
+          <l>קשרתי אותך אל עצמי, תנסה - לא תוכל לעזוב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הבטחתי לי ולך</l>
+          <l>שלא ניפרד יותר,</l>
+          <l>שלא יהיה לי אחר,</l>
+          <l>שלושה חודשים לא תמימים,</l>
+          <l>שילוש לא קדוש, אבל</l>
+          <l>גורל בגורל בגורל.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בבוקר מצאנו דולפין...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שלושה חודשים לא תמימים,</l>
+          <l>שילוש לא קדוש, אבל</l>
+          <l>גורל בגורל בגורל.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

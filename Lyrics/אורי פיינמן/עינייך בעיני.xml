@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עינייך בעיני</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עינייך בעיני</head>
+        <lg number="1" type="stanza">
+          <l>הולך אחר עינייך, אל שקט הברכות.</l>
+          <l>אל הכחול, ירוק. ואל התכלת.</l>
+          <l>נמלט אל מבטייך. גני המנוחות.</l>
+          <l>מוצא בהן מסתור וסוד ופלא.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הולך אחר עינייך, רגוע וחכם.</l>
+          <l>קורא אותך פנים. קורא מעורף.</l>
+          <l>ושט באישונייך, כמו במי אגם.</l>
+          <l>כמו במי מפל של סוף החורף.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עינייך בעיני, ראי תהפוכות.</l>
+          <l>ממך ושוב אליך, אהובה נושמת.</l>
+          <l>עינייך בעיני בוכות ומחייכות.</l>
+          <l>ממך ושוב אליך, לבנה ושמש.</l>
+          <l>עיני בשתי עינייך.</l>
+          <l>בנמל הבית שוב עוגנות.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הולך אחר עינייך עם חסד נעורים.</l>
+          <l>עם אהבה ואמונה ונדר.</l>
+          <l>המשי בריסייך. פנייך החיוורים,</l>
+          <l>עושים בי מהומות. עושים אי סדר.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הולך אחר עינייך, שנה ועוד שנה,</l>
+          <l>גם אם הן ישלחו בי אש ורשף.</l>
+          <l>יוצא בהן לשייט. ברוח משתנה.</l>
+          <l>נמשך אל המקסם ואל הכשף.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עינייך בעיני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

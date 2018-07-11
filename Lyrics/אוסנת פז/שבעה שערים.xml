@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שבעה שערים</title>
+        <singer classification="unknown">אוסנת פז</singer>
+        <writer>דודו ברק</writer>
+        <composer>דפנה אילת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שבעה שערים</head>
+        <lg number="1" type="stanza">
+          <l>בקשנו מכבר,</l>
+          <l>לשלום ירושלים,</l>
+          <l>ובאנו פתח שער הדמעות.</l>
+          <l>שם כל תרי עשר,</l>
+          <l>פרשו לנו כפיים,</l>
+          <l>ושחו כי שלום לה עד מאוד.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אז באנו לשאול,</l>
+          <l>לכבוד ירושלים,</l>
+          <l>מלאך צחור, בשער הפרחים.</l>
+          <l>כבוד לה גדול,</l>
+          <l>השיב לבן כנפיים,</l>
+          <l>ובשערנו שם זרים צחים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שבעה שערים, </l>
+          <l>שבעה שערים,</l>
+          <l>הדמע והאושר ואבני השקט.</l>
+          <l>שבעה שערים,</l>
+          <l>שבעה שערים,</l>
+          <l>הדמע והאושר והאור.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בשער יפו,</l>
+          <l>ילדה תכולת עיניים,</l>
+          <l>אמרה לנו כי רב האור בעיר.</l>
+          <l>הלכנו, אפוא,</l>
+          <l>מול תכלת השמיים,</l>
+          <l>אל שער שכם, במחולות ושיר.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יונים לבנות,</l>
+          <l>אל השירה הקשיבו</l>
+          <l>והמייתן הייתה כענבלים.</l>
+          <l>במבוא האשפות,</l>
+          <l>פרחי אביב הרהיבו,</l>
+          <l>ורוח דבש נשבה בין העלים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שבעה שערים...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>צנחן באדמון</l>
+          <l>ונהדר כתפיים,</l>
+          <l>במבוא האריות חייך דומם.</l>
+          <l>משער ציון,</l>
+          <l>פרשה ירושלים,</l>
+          <l>כנף תפילתה, על פני כל העולם.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>שבעה שערים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

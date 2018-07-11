@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אדון הסליחות</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>מן המקורות</writer>
+        <composer>מן המקורות</composer>
+        <album>לך אלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אדון הסליחות</head>
+        <lg number="1" type="stanza">
+          <l>אדון הסליחות, בוחן לבבות</l>
+          <l>גולה עמוקות, דובר צדקות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חטאנו לפניך רחם עלינו</l>
+          <l>חטאנו לפניך רחם עלינו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הדור בנפלאות, ותיק בנחמות</l>
+          <l>זוכר ברית עמו, חוקר כליות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חטאנו לפניך רחם עלינו</l>
+          <l>חטאנו לפניך רחם עלינו</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>טוב ומטיב לבריות, יודע כל נסתרות</l>
+          <l>כובש עוונות, דובר צדקות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>חטאנו לפניך רחם עלינו</l>
+          <l>חטאנו לפניך רחם עלינו</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אדון הסליחות, בוחן לבבות</l>
+          <l>גולה עמוקת, דובר צדקות</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>חטאנו לפניך רחם עלינו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

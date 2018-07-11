@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא לבד 2</title>
+        <singer classification="unknown">אורלי ורדי</singer>
+        <writer>אורלי ורדי</writer>
+        <composer>אורלי ורדי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא לבד</head>
+        <lg number="1" type="stanza">
+          <l>ראיתי אותך בבר,</l>
+          <l>היפנתי את המבט.</l>
+          <l>הכל זרם, היין גם,</l>
+          <l>בחוץ כבר הכל נדם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ראיתי אותך בבר,</l>
+          <l>הלב ממש נפעם.</l>
+          <l>רקדת לי ריקוד מדהים,</l>
+          <l>היית שבוי שלי.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני קרובה מאוד ורחוקה פתאום.</l>
+          <l>הגבר הראשון עושה לי זאת היום.</l>
+          <l>אתה בראש שלי, אתה האמיתי</l>
+          <l>שירגש אותי - לא לבד.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הולכת לישון לבד,</l>
+          <l>הראש מסוחרר, ממה?</l>
+          <l>מיין טוב, מחוש הומור,</l>
+          <l>הופעת בזיכרון...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היית מקום ראשון,</l>
+          <l>חששת שזה יעבור.</l>
+          <l>נטעת בי תשוקה פראית,</l>
+          <l>עשינו את זה לשני...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני קרובה מאוד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

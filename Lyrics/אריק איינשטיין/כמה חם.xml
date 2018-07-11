@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה חם</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה חם</head>
+        <lg number="1" type="stanza">
+          <l>קיץ בא ושוב זה חם</l>
+          <l>בואי ונברח לים</l>
+          <l>רק אני ואת, הים והשמיים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קיץ בא ושוב זה חם</l>
+          <l>בואי נשאר בים</l>
+          <l>שם בתוך החול, הכי קרוב למים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נעים לרבוץ בחול איתך</l>
+          <l>כמה חם, אני אוהב אותך</l>
+          <l>והים הזה כולו שלך ויש לי זמן</l>
+          <l>כמה חם!</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ערב בא וזה עוד חם</l>
+          <l>בואי נכנס לים</l>
+          <l>יה, איך שנהיה פתאום כבר בין ערביים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ערב בא וזה עוד חם</l>
+          <l>בואי נשאר בים</l>
+          <l>שם בתוך החול, הכי קרוב למים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נעים לרבוץ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

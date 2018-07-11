@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד כוכב אחד</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>שמרית אור</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד כוכב אחד</head>
+        <lg number="1" type="stanza">
+          <l>עוד כוכב אחד</l>
+          <l>עוד שעה אחת</l>
+          <l>עוד דקה אחת</l>
+          <l>תגמר מייד</l>
+          <l>עוד כוכב אחד</l>
+          <l>נעלם לאט</l>
+          <l>עוד דקה אחת</l>
+          <l>ותלכי גם את</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ושוב תבער השמש על האדמה</l>
+          <l>ושוב תבער לה בתוכי הנשמה</l>
+          <l>אני חולם אותך חולם איתך</l>
+          <l>שלם איתך גם עוד מעט תמימה</l>
+          <l>אני חולם אותך חולם איתך</l>
+          <l>שלם איתך גם עוד מעט תמימה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל אדם נולד</l>
+          <l>כל אדם נלכד</l>
+          <l>כל אדם כמעט</l>
+          <l>לא מוצא מקלט</l>
+          <l>כל אדם כוכב</l>
+          <l>כל כוכב נשרף</l>
+          <l>עוד דקה אחת</l>
+          <l>ותלכי גם את</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ושוב תבער השמש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

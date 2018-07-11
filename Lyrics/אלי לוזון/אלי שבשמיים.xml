@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלי שבשמיים</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>איציק אשל</writer>
+        <composer>איציק אשל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלי שבשמיים</head>
+        <lg number="1" type="stanza">
+          <l>נסתרות דרכיו </l>
+          <l>כה רבים רחמיו </l>
+          <l>לעשות נפלאות לדורי דורות </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לתפילת עניים א-ל מלא רחמים </l>
+          <l>רק הא-ל יעזור ואותם הוא ישמור </l>
+          <l>רק אבקש וכך אומר.. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אלי שבשמיים </l>
+          <l>תן לי אור עיניים </l>
+          <l>לראות את הנסתר, שלא אכשל </l>
+          <l>א-ל אשא כפיים </l>
+          <l>לחם וגם מים </l>
+          <l>כן אתה יודע שאותך אני אוהב.. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>א-ל שמע תפילותי ואסוף דמעותי</l>
+          <l>הן תמיד כך ידעתי, רק אתה אלוקי</l>
+          <l>אנא אב רחמני </l>
+          <l>אין קטן עוד ממני </l>
+          <l>מול עולם כה גדול </l>
+          <l>רק אתה כל יכול.. </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רק אבקש וכך אומר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

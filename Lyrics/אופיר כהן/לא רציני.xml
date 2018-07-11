@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא רציני</title>
+        <singer classification="unknown">אופיר כהן</singer>
+        <writer>יעקב חתן</writer>
+        <composer>יעקב חתן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא רציני</head>
+        <lg number="1" type="stanza">
+          <l>תני עוד רגע ואסביר לך את כוונות האהבה</l>
+          <l>שליבי חש אלייך בכל יום נערה</l>
+          <l>אל תסגרי ותתני לי את המפתח לליבך</l>
+          <l>כי את תמיד יודעת שאלחם למענך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אמרי לי איך להכנס לליבך</l>
+          <l>תראי לי אם יש אהבה בתוכך</l>
+          <l>את אומרת אני לא רציני </l>
+          <l>למענך אשתנה אם תרצי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חכי עוד רגע אל תלכי נערה</l>
+          <l>בתוך הלב את לי כאן חסרה</l>
+          <l>תני לי את המפתח שפותח את ליבך</l>
+          <l>כי את תמיד יודעת שאלחם למענך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אמרי לי איך להכנס לליבך</l>
+          <l>תראי לי אם יש אהבה בתוכך</l>
+          <l>את אומרת אני לא רציני </l>
+          <l>למענך אשתנה אם תרצי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

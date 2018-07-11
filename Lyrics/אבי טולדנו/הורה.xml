@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הורה 2</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הורה</head>
+        <lg number="1" type="stanza">
+          <l>עוד מזהיב השדה שעזבנו אז,</l>
+          <l>עוד הארץ נושאת יבולה.</l>
+          <l>ועוד יפים הם הלילות בכנען,</l>
+          <l>טרם השמש עולה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוד רכבת חוצה שם פרדס ירוק,</l>
+          <l>חסידה עוד רוגעת מעל.</l>
+          <l>ועוד נישא הערפל בעמק,</l>
+          <l>בין הזריחה והטל.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>וגם ההורה</l>
+          <l>ההיא עם ה - היי</l>
+          <l>קולה עוד עולה</l>
+          <l>קולה לא נדם</l>
+          <l>כן גם ההורה</l>
+          <l>ההיא עם ה - היי</l>
+          <l>שירה ממלא</l>
+          <l>ליבי לעולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד שטים עננים על בתי העיר</l>
+          <l>והים מלטף את החול</l>
+          <l>ועוד נשמע איך בלבבות פועם לו</l>
+          <l>זמר ישן ומחול.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>וגם ההורה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טיק תק</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טיק תק</head>
+        <lg number="1" type="stanza">
+          <l>טיק תק שאת יוצאת לעיר</l>
+          <l>טיק תק יש מתח באויר</l>
+          <l>טיק תק עוברת להילוך מהיר</l>
+          <l>טיק תק כל הגברים איתך</l>
+          <l>טיק תק כולם בכיס שלך</l>
+          <l>טיק תק נופלים אחד אחד בפח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תסתכלי בי יעיוני, תסתכלי עלי</l>
+          <l>מאוהב בך יעיוני עד לסוף ימי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>טיק תק כל גבר בך רוצה</l>
+          <l>טיק תק ושמיניות עושה</l>
+          <l>טיק תק את חלומו הוא בך מוצא</l>
+          <l>טיק תק הלב שלי נדלק</l>
+          <l>טיק תק נופל אצלך ביד</l>
+          <l>טיק תק אותי הופכת למשחק</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תיסתכלי בי יעיוני...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>טיק תק קובעת עם אחד</l>
+          <l>טיק תק את מביטה לצד</l>
+          <l>טיק תק עוברת כך מיד ליד</l>
+          <l>טיק תק הכל שלי נגנב</l>
+          <l>טיק תק שואל אם יש מצב</l>
+          <l>טיק תק את מסובבת את הגב</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אם ישחק המזל אפול אצלך בגורל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

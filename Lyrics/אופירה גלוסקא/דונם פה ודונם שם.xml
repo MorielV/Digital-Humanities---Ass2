@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דונם פה ודונם שם</title>
+        <singer classification="female singer">אופירה גלוסקא</singer>
+        <writer>יהושע פרידמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דונם פה ודונם שם</head>
+        <lg number="1" type="stanza">
+          <l>אספר לך הילדה</l>
+          <l>וגם לך הילד</l>
+          <l>איך בארץ ישראל</l>
+          <l>אדמה נגאלת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>דונם פה ודונם שם</l>
+          <l>רגב אחר רגב</l>
+          <l>כך נפדה אדמת העם</l>
+          <l>מצפון עד נגב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש לה ספר הזהב </l>
+          <l>לקרן הקיימת </l>
+          <l>כל דבר גדול ורב </l>
+          <l>היא מיד רושמת </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דונם פה ודונם שם...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>על הקיר תלויה קופסה,</l>
+          <l>זאת קופסת התכלת</l>
+          <l>כל פרוטה שנכנסה</l>
+          <l>אדמה נגאלת.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>דונם פה ודונם שם...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>חלוצים אז לרבבות </l>
+          <l>חלוצות כפליים </l>
+          <l>בוא יבואו לעבוד </l>
+          <l>בזעת אפיים </l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>דונם פה ודונם שם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

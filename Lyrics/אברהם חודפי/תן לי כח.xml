@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תן לי כח 4</title>
+        <singer classification="unknown">אברהם חודפי</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>אברהם חודפי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תן לי כח</head>
+        <lg number="1" type="stanza">
+          <l>הולך על אם הדרך מביט לכל כיוון</l>
+          <l>מרגיש קצת אבוד בעולם</l>
+          <l>איני אדם אבל ממשיך לחייך כמו כולם </l>
+          <l>בלב שר ומתפלל </l>
+          <l>שישמרני האל</l>
+          <l>שלא אדע יותר תלאוות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תן לי כח, תן לי תקווה</l>
+          <l>תן לי כח, תן אהבה</l>
+          <l>תן לי כח, כח לעד שלא אמעד </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חולם על קרן שמש שאת חיי תאיר</l>
+          <l>חיוך אלי תחזיר</l>
+          <l>חולם ומבקש לא להתייאש</l>
+          <l>האל ישמור על מה שיש </l>
+          <l>בלב שר ומתפלל</l>
+          <l>שישמרני האל</l>
+          <l>שלא אדע יותר תלעות</l>
+          <l>כי סבלתי כבר מדמעות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תן לי כח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

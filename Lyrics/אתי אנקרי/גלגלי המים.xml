@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גלגלי המים</title>
+        <singer classification="female singer">אתי אנקרי</singer>
+        <writer>אתי אנקרי</writer>
+        <composer>אתי אנקרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גלגלי המים</head>
+        <lg number="1" type="stanza">
+          <l>אה</l>
+          <l>עץ ונחל</l>
+          <l>אה</l>
+          <l>מים זורמים</l>
+          <l>אה</l>
+          <l>ציפור עפה</l>
+          <l>אה</l>
+          <l>שמים כחולים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שני משוטים בסירה</l>
+          <l>כך היינו</l>
+          <l>צמודים לדרכה</l>
+          <l>שמש גדולה במרום</l>
+          <l>לא ראינו</l>
+          <l>עלתה ושקעה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וגלגלי המים</l>
+          <l>נשאו אותה הרחק</l>
+          <l>וגלגלי המים</l>
+          <l>שבו איתה לחיק</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

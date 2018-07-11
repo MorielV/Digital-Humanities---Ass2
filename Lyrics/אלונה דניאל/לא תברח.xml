@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא תברח</title>
+        <singer classification="female singer">אלונה דניאל</singer>
+        <writer>אלונה דניאל</writer>
+        <composer>אלונה דניאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא תברח</head>
+        <lg number="1" type="stanza">
+          <l>כביש מרכזי עיר רחוקה</l>
+          <l>הרמזורים מתחלפים כל דקה</l>
+          <l>בדמיונך קול אזעקה</l>
+          <l>משהו כבר מנסה לעצור אותך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא תברח</l>
+          <l>אתה המטרה</l>
+          <l>לא יילך בכוח</l>
+          <l>אין לאן לברוח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סע כמו כובש סע כמו נמלט</l>
+          <l>אין כאן שופטים וזאת לא עיר מקלט</l>
+          <l>איש לא יסתיר איש לא יסגיר</l>
+          <l>חושך יירד ואתה תחזור לבד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כי אתה</l>
+          <l>פוחד מעצמך</l>
+          <l>עכשיו אתה יודע</l>
+          <l>ממה אתה בורח</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שוב אתה כאן שוב לידי</l>
+          <l>אין לך איש או חבר מלבדי</l>
+          <l>רק בשנתך ילד חיוור</l>
+          <l>על רמזורים אדומים מדבר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא תברח</l>
+          <l>אתה המטרה</l>
+          <l>לא יילך בכוח</l>
+          <l>אין לאן לברוח</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>לא תברח</l>
+          <l>אתה המטרה</l>
+          <l>כל אחד יודע</l>
+          <l>ממה אתה בורח</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

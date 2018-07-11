@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>העגורים</title>
+        <singer classification="unknown">אמנון ברנזון</singer>
+        <writer>לא ידוע</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>העגורים</head>
+        <lg number="1" type="stanza">
+          <l>העגורים חולפים מעל הכפר</l>
+          <l>העגורים עפים אל הנהר</l>
+          <l>העגורים עוזבים, יוצאים אל הדרום החם</l>
+          <l>מתי, מתי נוכל לעוף כמותם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני נושא עיני לעננים</l>
+          <l>העגורים שטים בהמונים</l>
+          <l>העגורים עוזבים, עפים אל הדרום החם</l>
+          <l>מתי נצא בהמונים כמותם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל השדה אצא עם בוא הסתיו</l>
+          <l>ובידי טבעת ומכתב</l>
+          <l>אתפוס עגור ולרגלו אצמיד מכתב דומם</l>
+          <l>פרישת שלום לכל אחי אי שם.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עם בוא הקור העגורים עוזבים</l>
+          <l>עם בוא אביב אלינו הם שבים.</l>
+          <l>העגורים שבים, חוזרים הם עם חלוף הקור</l>
+          <l>אנחנו, אם נצא - כבר לא נחזור.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

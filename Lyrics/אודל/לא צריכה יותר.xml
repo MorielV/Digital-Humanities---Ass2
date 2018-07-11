@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא צריכה יותר</title>
+        <singer classification="unknown">אודל 2</singer>
+        <writer>אבי מסיקה</writer>
+        <composer>אייבי קזס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא צריכה יותר</head>
+        <lg number="1" type="stanza">
+          <l>כמה התעלמת, אלי לא התקרבת </l>
+          <l>חיפשת וחיפשת ולא מוצא את עצמך </l>
+          <l>כמה ששכת התקרבת לא נגעת </l>
+          <l>חיפשת מסביב אבל אני כאן לידך </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גם כשרצית לבוא </l>
+          <l>החיבור כבר לא מוכר </l>
+          <l>אמרת לא מוותר</l>
+          <l>אבל עכשיו זה מאוחר </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא רוצה אותך יותר </l>
+          <l>הולכת לחפש אהבה במקום אחר </l>
+          <l>הולך ושוב חוזר לא מחכה יותר </l>
+          <l>אני לא רוצה אותך יותר </l>
+          <l>הולכת לחפש אהבה במקום אחר </l>
+          <l>הולך ושוב חוזר </l>
+          <l>לא מחכה יותר שתתעורר... </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה מרגיש ולא מרגיש </l>
+          <l>פתאום אדיש ולא אדיש </l>
+          <l>מכחיש ולא רגיש </l>
+          <l>תבין כבר מה אתה רוצה </l>
+          <l>נעלם ומצטער </l>
+          <l>פוגע וחוזר </l>
+          <l>אתה כבר לא ברור לי </l>
+          <l>מה ייצא מזה </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>גם כשרצית לבוא </l>
+          <l>החיבור כבר לא מוכר </l>
+          <l>אמרת לא מוותר אבל </l>
+          <l>עכשיו זה מאוחר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא רוצה אותך יותר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נדר</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נדר</head>
+        <lg number="1" type="stanza">
+          <l>נדר ראשון - לעולם לא תנדוד כמו החול</l>
+          <l>הסערות של חייך הן לא סופה</l>
+          <l>אתה חי את הרגע ולא נשחק</l>
+          <l>זה אתה כמו חצב בסופו של הסתיו</l>
+          <l>מתכופף וניצב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נדר שני - לעולם לא תסער כמו הים</l>
+          <l>וגם אם תסער היא לא תדע</l>
+          <l>אגו מול אגו זה רק משחק</l>
+          <l>כשאתה מאוהב יש פריחה גם בסתיו</l>
+          <l>החיים הם זהב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תגנן לה מנגינה מתוך הלב</l>
+          <l>אם אותה אתה אוהב</l>
+          <l>כשתנגן לה היא תשכח את הכאב</l>
+          <l>תנגן לה מהלב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשהיא רחוקה אתה קרוב לליבה</l>
+          <l>אתה מתרחק כשהיא קרובה</l>
+          <l>אמור לה מילה טובה גם בלי סיבה</l>
+          <l>אהבה היא לא סוד ולא משחק של כבוד</l>
+          <l>נדרת לא לבגוד</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תגנן לה מנגינה מתוך הלב</l>
+          <l>אם אותה אתה אוהב</l>
+          <l>כשתנגן לה היא תשכח את הכאב</l>
+          <l>תנגן לה מהלב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

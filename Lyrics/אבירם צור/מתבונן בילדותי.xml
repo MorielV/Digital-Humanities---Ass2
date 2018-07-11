@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתבונן בילדותי</title>
+        <singer classification="unknown">אבירם צור</singer>
+        <writer>אבירם צור</writer>
+        <composer>אבירם צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתבונן בילדותי</head>
+        <lg number="1" type="stanza">
+          <l>מתבוננים מבחוץ, תיירים במדינה שלנו </l>
+          <l>אין לאן לרוץ, זה מה שידענו </l>
+          <l>העולם נראה גדול, האופק מבטיח </l>
+          <l>לא עושים תוכניות, לא מחפשים להוכיח </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה שהיה קודם חסר ערך בעיניך </l>
+          <l>גדולים מסביבך דואגים לחייך </l>
+          <l>הזמן תמיד קיים, מרגיש כך לנצח </l>
+          <l>העולם האמיתי עוד לא בפתח </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הולך אחורה מתבונן בילדותי </l>
+          <l>חוזר קדימה, מה איתי? </l>
+          <l>הולך אחורה מתבונן בילדותי </l>
+          <l>חוזר קדימה, מה איתי? </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עכשיו מבפנים, פועלים במדינה שלנו </l>
+          <l>כל היום רצים, עוד לא הגענו </l>
+          <l>הכל כל כך רגיל, האופק לא הגיע </l>
+          <l>חיים בשגרה, כלום לא מפתיע </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הולך אחורה מתבונן בילדותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

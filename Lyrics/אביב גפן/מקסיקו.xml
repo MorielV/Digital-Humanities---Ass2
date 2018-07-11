@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מקסיקו</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מקסיקו</head>
+        <lg number="1" type="stanza">
+          <l>לא היא לא</l>
+          <l>לא נשארת פה</l>
+          <l>היא תטוס איתו למקסיקו</l>
+          <l>עצובים הם חייה כאן</l>
+          <l>אין לה שום עניין לאבד פה זמן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לעוף</l>
+          <l>היא רוצה איתו</l>
+          <l>עד למקסיקו, לחצות את קו הים</l>
+          <l>לעוף</l>
+          <l>עד למקסיקו, שם לגור איתו</l>
+          <l>הדמעות יבשו עד שם</l>
+          <l>רק לעוף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד כאב מזדקן בלב</l>
+          <l>ורק הוא מבין ורק הוא אוהב</l>
+          <l>משונה כמו ציפור זרה</l>
+          <l>היא תפרוש כנפיה בדממה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לעוף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

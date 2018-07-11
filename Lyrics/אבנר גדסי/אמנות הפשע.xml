@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמנות הפשע</title>
+        <singer classification="male singer">אבנר גדסי</singer>
+        <writer>אלון אבידר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמנות הפשע</head>
+        <lg number="1" type="stanza">
+          <l>שש בערב על המיטה</l>
+          <l>זמן לכיבוי אורות, איך הוא כבר בתא</l>
+          <l>אגף אסירי תודה, במנהל התקין</l>
+          <l>החיים כאן על פי סורגים, למי שהורגים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אמנות הפשע, וכל האמת</l>
+          <l>הסנדק לרשע, חשוב כאן למת</l>
+          <l>הזמן לא עובר חביבי, הנצח אדיש</l>
+          <l>מרוב הלכלוך קשה לנקות את השליש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יושב בשקט עוד שבע בפנים</l>
+          <l>ואת הסורג חביבי, ינסרו השנים</l>
+          <l>בחוץ ידעת על עצמך לסנגר</l>
+          <l>ואיך שנכנסת נהיית סנג'ר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז לתוך הלילה, בין הזרים</l>
+          <l>דמעה נפלה לה, בין הכרים</l>
+          <l>וכמה סהר אפשר שתוכל להמר</l>
+          <l>עניין של מוסר בעולם האחר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אמנות הפשע, וכל האמת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

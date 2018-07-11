@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני שב אלייך</title>
+        <singer classification="unknown">אבי דהן</singer>
+        <writer>אבי קורן</writer>
+        <composer>אבי דהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני שב אלייך</head>
+        <lg number="1" type="stanza">
+          <l>בספינת מפרש מפליג אלייך</l>
+          <l>כתבתי את שמך על הדגלים</l>
+          <l>וכמו הים נסחף אל זרועותייך</l>
+          <l>אני שב ממרחקים</l>
+          <l>היקפתי עולם כדי לשכוח</l>
+          <l>וחוזר עם זרם הגלים</l>
+          <l>כי עם הזמן אני הבנתי</l>
+          <l>שבלעדייך חיי אינם חיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני שב אלייך שב מאהבה</l>
+          <l>ומגדלור מאיר דרכי חזרה</l>
+          <l>שב אלייך אל האהבה </l>
+          <l>וכולי אחוז באותה תקווה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בנמל עזוב נערה עצובה</l>
+          <l>מנופפת לשלום</l>
+          <l>האם זאת את אהובה</l>
+          <l>כשעגנה ספינתי הנודדת</l>
+          <l>ראית נערה אחרת</l>
+          <l>אולי את חובקת בזר</l>
+          <l>שהובילך בין סופות וקור</l>
+          <l>אבל עדיין לא מאוחר</l>
+          <l>כי אני תמיד אותך אזכור</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני שב אלייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>געגועים 2</title>
+        <singer classification="unknown">אורית אסף</singer>
+        <writer>יואב יצחק</writer>
+        <composer>יואב יצחק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>געגועים</head>
+        <lg number="1" type="stanza">
+          <l>פתאום הכל עובר</l>
+          <l>חולף למול עיני</l>
+          <l>איך הבדידות הורגת</l>
+          <l>יוצא לי מכלי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נדדתי בעולם</l>
+          <l>ראיתי איך כולם</l>
+          <l>חולמים אותך בלילה</l>
+          <l>ואת כה רחוקה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חוזר אלייך מרחוק</l>
+          <l>נחסף אלייך למתוק</l>
+          <l>אותך אשמור מכל משמר</l>
+          <l>את לי הכל את העיקר...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>פתאום הכל עובר...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>נדדתי בעולם</l>
+          <l>ראיתי איך כולם</l>
+          <l>חולמים אותך בלילה</l>
+          <l>ואת כה רחוקה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>חוזר אלייך מרחוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

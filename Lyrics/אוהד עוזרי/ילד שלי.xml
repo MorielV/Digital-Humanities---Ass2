@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילד שלי 3</title>
+        <singer classification="unknown">אוהד עוזרי</singer>
+        <writer>יוסי בן דוד</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילד שלי</head>
+        <lg number="1" type="stanza">
+          <l>אדון עולם, בורא כל אדם </l>
+          <l>נתת לי את הילד שלי באהבה </l>
+          <l>אך מרוב דאגה, כבר אין בי שמחה </l>
+          <l>נושא עיני אלייך בתפילה </l>
+          <l>אנא אלי, שמור לי עליו </l>
+          <l>אנא אלי, בכל דרכיו </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אנא אלי, הילד שלי </l>
+          <l>שמור עליו, הוא כל עולמי </l>
+          <l>תן לי שלווה, קצת מנוחה </l>
+          <l>אנא אלי, אנא אלי, הילד שלי </l>
+          <l>שמור עליו, הוא כל עולמי </l>
+          <l>תן לי שלווה, קצת מנוחה </l>
+          <l>אנא אלי, אנא אלי, שמור לי עליו </l>
+          <l>אנא אלי, בכל דרכיו </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אדון עולם, בורא כל אדם </l>
+          <l>בורא הפרח, הרוח והים </l>
+          <l>בכל תפילותי, אבקש אלוקי </l>
+          <l>צווה מלאך שישמור לי עליו </l>
+          <l>אנא אלי, שמור לי עליו </l>
+          <l>אנא אלי, בכל דרכיו </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אנא אלי, הילד שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

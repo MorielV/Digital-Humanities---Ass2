@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שתיל</title>
+        <singer classification="band">אינפקציה</singer>
+        <writer>גיא בן שיטרית</writer>
+        <composer>ניר טרטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שתיל</head>
+        <lg number="1" type="stanza">
+          <l>אני אותו מגדל והוא לא גדל</l>
+          <l>סביבו אני מפטרל משקה ומזבל.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גם אני מגדלת</l>
+          <l>כמו שאתה מגדל</l>
+          <l>כבר הבאתי מטפלת משקה ומזבלת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אנחנו כל יום מתפללים שהוא רק יחל </l>
+          <l>לגדול!</l>
+          <l>אז למה לעזאזל, הוא רק מדלדל!?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני אותו מגדל והוא לא גדל</l>
+          <l>סביבו אני מפטרל משקה ומזבל</l>
+          <l>שתיל! שתיל!</l>
+          <l>אני כל יום מתפלל שהוא רק יחל</l>
+          <l>לגדול!</l>
+          <l>אז למה לעזאזל הוא רק מדלדל!?</l>
+          <l>שתיל! שתיל!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

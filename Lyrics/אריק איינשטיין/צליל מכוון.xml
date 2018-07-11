@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צליל מכוון</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>יצחק קלפטר</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צליל מכוון</head>
+        <lg number="1" type="stanza">
+          <l>בואי הנה, בואי לכאן</l>
+          <l>אני שולח לך צליל מכוון</l>
+          <l>אחרי שנים של חוסר וודאות</l>
+          <l>בואי הנה אל המילים</l>
+          <l>אל הקצב, אל הצלילים</l>
+          <l>מספיק חלום, הפכי למציאות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשעץ בגן מלבלב</l>
+          <l>זה לא כואב להתאהב</l>
+          <l>לכן, עומד ומנגן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואי הנה, בואי איתי</l>
+          <l>כל כך פשוט להיות מעשי</l>
+          <l>נצא ביחד, בטח נהנה</l>
+          <l>שוברת לבבות קטנה</l>
+          <l>אני שבור ללא תקנה</l>
+          <l>וזו סיבה מספיק טובה</l>
+          <l>אז בואי...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשעץ בגן מלבלב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בואי הנה, בואי לכאן</l>
+          <l>אני שולח לך צליל מכוון</l>
+          <l>אחרי שנים של חוסר וודאות</l>
+          <l>שוברת לבבות קטנה</l>
+          <l>אני שבור ללא תקנה</l>
+          <l>וזו סיבה מספיק טובה</l>
+          <l>אז בואי, כן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

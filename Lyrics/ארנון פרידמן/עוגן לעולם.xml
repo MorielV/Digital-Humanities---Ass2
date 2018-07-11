@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוגן לעולם</title>
+        <singer classification="unknown">ארנון פרידמן</singer>
+        <writer>ערן גולדשטיין</writer>
+        <composer>ארנון פרידמן</composer>
+        <album>סימנים ברוח</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוגן לעולם</head>
+        <lg number="1" type="stanza">
+          <l>מסתכל בעינייך</l>
+          <l>ים כחול סוער</l>
+          <l>יופי שוא גלייך</l>
+          <l>את ליבי שובר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה כמו לרקוד מול ירח</l>
+          <l>כמו לנשום את המלח</l>
+          <l>כמו שאלחש לך</l>
+          <l>כמה שאני...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רגע רוצה אותך</l>
+          <l>רגע נבהל</l>
+          <l>רגע אוהב אותך</l>
+          <l>רגע עוזב הכל</l>
+          <l>רגע רואה</l>
+          <l>שאם ימיי הם ים</l>
+          <l>את לי עוגן לעולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מסתכל בעינייך</l>
+          <l>ים תכול שליו</l>
+          <l>חום נשימותייך</l>
+          <l>את ליבי צורב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה כמו לרקוד על המים</l>
+          <l>לחלום שוב בשניים</l>
+          <l>כמו שאלחש לך</l>
+          <l>כמה שאני...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רגע רוצה אותך</l>
+          <l>רגע נבהל</l>
+          <l>רגע אוהב אותך</l>
+          <l>רגע עוזב הכל</l>
+          <l>רגע רואה</l>
+          <l>שאם ימיי הם ים</l>
+          <l>את לי עוגן לעולם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

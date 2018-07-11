@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עננים 2</title>
+        <singer classification="unknown">אביגיל רוז</singer>
+        <writer>אביגיל רוז</writer>
+        <composer>אביגיל רוז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עננים</head>
+        <lg number="1" type="stanza">
+          <l>משהו טוב קורה</l>
+          <l>לא צריך לפחד מזה</l>
+          <l>אני מקבלת את הטירוף הזה באהבה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני על עננים</l>
+          <l>איזה אושר מכלום</l>
+          <l>איך זה קרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שארגיש ככה כל חיי</l>
+          <l>שכולם יקפצו לי, יש תקווה</l>
+          <l>מעניין כמה ילדים יהיו לי</l>
+          <l>שלא יהיה צלצול, שום הפרעה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני על עננים....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

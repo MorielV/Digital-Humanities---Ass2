@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איך אתה מרגיש עכשיו</title>
+        <singer classification="male singer">אייל קופמן</singer>
+        <writer>אייל קופמן</writer>
+        <composer>אייל קופמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איך אתה מרגיש עכשיו</head>
+        <lg number="1" type="stanza">
+          <l>איך אתה מרגיש עכשיו </l>
+          <l>אולי תשחרר </l>
+          <l>החיוך חוזר אלייך </l>
+          <l>אתה מתעורר </l>
+          <l>עוד קשה לך </l>
+          <l>להזיז את הקרביים </l>
+          <l>אבל אתה לומד </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמו תינוק </l>
+          <l>שנופל על הברכיים </l>
+          <l>וזה כואב </l>
+          <l>כל כך כואב לך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך אתה מרגיש עכשיו </l>
+          <l>פחות מבולבל יותר חזק </l>
+          <l>מתקרב מתרחק </l>
+          <l>מנסה לגעת </l>
+          <l>אולי תדבר </l>
+          <l>קשה לך להתנצל </l>
+          <l>קשה לך </l>
+          <l>כשאתה נכשל </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמו תינוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

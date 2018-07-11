@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבא ודני</title>
+        <singer classification="unknown">אורי זוהר</singer>
+        <writer>רן אלירן</writer>
+        <composer>רן אלירן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבא ודני</head>
+        <lg number="1" type="stanza">
+          <l>אבא ודני יום אחד</l>
+          <l>קמו לדוג דגים.</l>
+          <l>דני חזר עם דג ביד</l>
+          <l>אמא אמרה לו:</l>
+          <l>"יא איזה דג גדול"</l>
+          <l>והבן ענה לה כך:</l>
+          <l>"זה לא כלום אמא,</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש דג גדול יותר</l>
+          <l>זה שאכל את אבא"</l>
+          <l>מוסר השכל ש...זהו זה</l>
+          <l>החיים אינם קלים.</l>
+          <l>כמו שכתוב בשיר השירים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

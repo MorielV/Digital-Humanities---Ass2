@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בטנדר לדרום</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>13</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בטנדר לדרום</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו אני שר לך אחי</l>
+          <l>לפני שתצא אל הדרכים</l>
+          <l>זה שיר של פרידה מנעורים</l>
+          <l>פרידה עצובה של נערים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה הזמן, זה הזמן שלך להתבגר</l>
+          <l>זה הזמן, זה הזמן שלך להישמר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם תיסע בטנדר לדרום</l>
+          <l>שם נלחמים או מגשימים חלום</l>
+          <l>כשתסתער קדימה</l>
+          <l>חשוב תמיד על אמא</l>
+          <l>וכשתבוא אולי יבוא שלום</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ברגעים הכי קשים</l>
+          <l>תדע לאהוב את החיים</l>
+          <l>תשמור על הטבע והים</l>
+          <l>תלמד לכבד כל בן אדם</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה הזמן, זה הזמן שלך להיזהר</l>
+          <l>זה הזמן, זה הזמן שלך להשתחרר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אם תיסע בטנדר לדרום</l>
+          <l>שם נלחמים או מגשימים חלום</l>
+          <l>כשתסתער קדימה</l>
+          <l>חשוב תמיד על אמא</l>
+          <l>וכשתבוא אולי יבוא שלום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

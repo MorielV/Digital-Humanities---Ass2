@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האהבה הישנה</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>שלמה ארצי</writer>
+        <composer>שלמה ארצי</composer>
+        <album>חלומות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האהבה הישנה</head>
+        <lg number="1" type="stanza">
+          <l>האהבה הישנה, זאת שברחה לי,</l>
+          <l>מונחת שם ואף אחד כבר לא נוגע,</l>
+          <l>מזמן לפני כל הסרטים הפורנוגרפיים,</l>
+          <l>היה עוד משהו פשוט להתגעגע.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הכינורות המתוקים לא מנגנים לי,</l>
+          <l>לא אשקר לך שאצלי הכל בסדר,</l>
+          <l>אין שום פטנטים, העולם נהיה כבר גימיק,</l>
+          <l>אז בואי ונחזור לאינטימיות בחדר.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בשלט רחוק, מביט רחוק,</l>
+          <l>את שוב לובשת לך שמלת כלה,</l>
+          <l>ואני תקוע בחליפת חיינו.</l>
+          <l>בשלט רחוק מביט רחוק,</l>
+          <l>לא אני לא אניח לך,</l>
+          <l>עד שהאהבה,</l>
+          <l>תחזור אלינו.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את יודעת לא הייתי שר לך סתם כך,</l>
+          <l>הנביאים כבר מתו, ואין מי שינבא לי,</l>
+          <l>חלליות עפות למעלה ולמטה,</l>
+          <l>פתאום זה שיר געגועים או שנדמה לי...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בשלט רחוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

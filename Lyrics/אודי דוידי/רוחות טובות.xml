@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוחות טובות</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>רוחות טובות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוחות טובות</head>
+        <lg number="1" type="stanza">
+          <l>כשהלב פותח</l>
+          <l>את חדריו ברווח</l>
+          <l>אז כל אחד ממשיך לשיר</l>
+          <l>ואין שמחה בלי עצב</l>
+          <l>ואין תקווה בלי אבן</l>
+          <l>שמכבידה לך בפנים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רוחות טובות עוד מנשבות סביב</l>
+          <l>כשהלב נפתח אז הוא יכול להשיב</l>
+          <l>תקשיב לעצמך </l>
+          <l>תקשיב ללב שלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והצמתים קשים הם</l>
+          <l>ואין מי שיודע</l>
+          <l>את המפה של החיים</l>
+          <l>אדם הולך בדרך</l>
+          <l>ומנסה לשמוע</l>
+          <l>את הקולות שמכוונים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רוחות טובות...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ולפעמים מרגיש אבוד </l>
+          <l>מצב הרוח די מרוט</l>
+          <l>הולך לאיבוד</l>
+          <l>כשהרוח מסביבך</l>
+          <l>מרגיש שאלוקים איתך</l>
+          <l>תקשיב לעצמך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>רוחות טובות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

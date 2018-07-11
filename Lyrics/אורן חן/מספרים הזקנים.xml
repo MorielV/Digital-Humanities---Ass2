@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מספרים הזקנים</title>
+        <singer classification="male singer">אורן חן</singer>
+        <writer>שלום בן ישי</writer>
+        <composer>צוריאל לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מספרים הזקנים</head>
+        <lg number="1" type="stanza">
+          <l>מה אספר ילדי</l>
+          <l>ארוכה הדרך עימדי</l>
+          <l>מלאה תככים בצידי</l>
+          <l>ואיך משתקף ספר לימודי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מספרים הזקנים בשבט</l>
+          <l>עובי החושך כהד מתגלגל</l>
+          <l>רוחו של אדם תחבוק</l>
+          <l>עולם ומלואו שמש וצל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה ילדי העולה מתנער</l>
+          <l>הגואה בחוכמתך מתייהר</l>
+          <l>נאה מראך ישאר</l>
+          <l>אביך מביט בגלגול החוזר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה ילדי ממשיך לשקוד</l>
+          <l>על לימודים גדולים ונדוד</l>
+          <l>תולה בחוכמה רבה מאוד</l>
+          <l>אך בדרכך לרגעים עמוד</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מספרים הזקנים בשבט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

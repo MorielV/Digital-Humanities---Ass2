@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נאסף תשרי</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>נתן יונתן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נאסף תשרי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>מת אב ומת אלול ומת חומם</l>
+          <l>גם נאסף תשרי ומת עימם</l>
+          <l>רק נשארה גחלת עמומה</l>
+          <l>של אהבת הקיץ הגדומה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל מערת דוד השונמית</l>
+          <l>תצמיד את ירכיה הקרות</l>
+          <l>אל חום האבנים שעל קברו.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מת אב ומת אלול...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>וילד זר הולך ותר כמו שאול</l>
+          <l>את עקבותיו של אב ושל אלול</l>
+          <l>ובעמום הוא מחפש את הצלול.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לך ילד לך, אולי בסוף המערב</l>
+          <l>בין ים ויבשה, בין אב לסתיו</l>
+          <l>יאור שלך יאיר בין חטאיו.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מת אב ומת אלול...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>חטאי האיש והאישה והנחש</l>
+          <l>חטאת דוד באוריה, כבשת הרש</l>
+          <l>ויונתן ויערת הדבש.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>מת אב ומת אלול, הקיץ שב</l>
+          <l>סיפור שלך ילדי, מתחיל עכשיו</l>
+          <l>עם כל הדבש והנחש והאישה.</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>מת אב ומת אלול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שדרות</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אהוד מנור</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שדרות</head>
+        <lg number="1" type="stanza">
+          <l>לא רחום ולא חנון</l>
+          <l>הלילה בשדרות</l>
+          <l>ואין בו חסד רב</l>
+          <l>ולא שלווה תמימה</l>
+          <l>אבות נושאים תפילה ואמהות ערות</l>
+          <l>וילדים חולמים על מלחמה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הייאוש עורב ליד הבית בשדות</l>
+          <l>ומאיים להיכנס לטלטל</l>
+          <l>אך אין לו סיכוי כמו באגדות</l>
+          <l>שנרקמו בארץ ישראל</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי כשאור היום עולה</l>
+          <l>ונוף הנגב מתגלה</l>
+          <l>אתה רואה פתאום את סוד האהבה</l>
+          <l>אתה שלם ומחובר</l>
+          <l>לאנשים ולמדבר</l>
+          <l>ולצלילים הישנים של התקווה</l>
+          <l>ואז אתה מוכן לזרום</l>
+          <l>בתוך אפיק של אור וחום</l>
+          <l>ואת ההבטחה לשאת מיום אל יום.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש מקום שיש בו משפחה וחברים</l>
+          <l>ויש בו משחקים ומוסיקה טובה</l>
+          <l>אז בואו נאסוף ונאחה שברים</l>
+          <l>ונתכונן לעוד שמחה קרובה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כי כשאור היום עולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

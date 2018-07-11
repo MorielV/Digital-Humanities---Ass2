@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק את 8</title>
+        <singer classification="unknown">אבי אוחיון</singer>
+        <writer>מרטי קרפל</writer>
+        <composer>מרטי קרפל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק את</head>
+        <lg number="1" type="stanza">
+          <l>אם לפעמים </l>
+          <l>כועס אני עליך</l>
+          <l>זה לא אומר</l>
+          <l>שאהבתי אליך כבתה</l>
+          <l>הכל למענך אעשה</l>
+          <l>רק לך רק את אהובתי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה אומר שתביני</l>
+          <l>מה אעשה שתאמיני</l>
+          <l>איך הוכיח אהבתי</l>
+          <l>כל כך רוצה שתרגישי</l>
+          <l>רוצה שתגשימי</l>
+          <l>את חלומי</l>
+          <l>את אהבתי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם הלילות </l>
+          <l>קרים וגם החושך</l>
+          <l>הצמדי אל גופי</l>
+          <l>יחד נעבור את הלילות</l>
+          <l>תני חיבוק </l>
+          <l>רק אותך אני רוצה אהובתי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה אומר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

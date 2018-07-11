@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חוזר אל הבית</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חוזר אל הבית</head>
+        <lg number="1" type="stanza">
+          <l>אני רחוק מכאן ושוב נוסע</l>
+          <l>אפשר לחשוב שלא הייתי כאן שנים</l>
+          <l>רק כמה שעות וכבר מתגעגע</l>
+          <l>לחיוכים של הישנים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בחוץ האורות הדרך מנצנצים</l>
+          <l>אבל בלב אורות של אהבה דולקים</l>
+          <l>מביט בדרך החולפת לאיטה</l>
+          <l>וכבר יודע שאתם שם מחכים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>חוזר אל הבית חוזר אליכם</l>
+          <l>כמה טוב להיות איתכם</l>
+          <l>חוזר אל הבית אל המראות והצלילים</l>
+          <l>רוצה להיות כבר ביניכם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אבק הזמן עוטף את זגוגית החלון</l>
+          <l>וגשם שניתז על המנורות</l>
+          <l>בוהה ולא יודע אם זו התרגשות</l>
+          <l>לראות שוב את פניכם המאירות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>חוזר אל הבית חוזר אליכם</l>
+          <l>כמה טוב להיות איתכם</l>
+          <l>חוזר אל הבית אל המראות והצלילים</l>
+          <l>רוצה להיות כבר ביניכם</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>חוזר אל הבית חוזר אליכם</l>
+          <l>כמה טוב להיות איתכם</l>
+          <l>מתפלל לאלוקים שישמור לי עליכם</l>
+          <l>רוצה להיות כבר ביניכם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

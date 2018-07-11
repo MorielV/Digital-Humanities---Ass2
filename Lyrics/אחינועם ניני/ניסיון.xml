@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ניסיון</title>
+        <singer classification="female singer">אחינועם ניני</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>אחינועם ניני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ניסיון</head>
+        <lg number="1" type="stanza">
+          <l>לך נשבעתי, אל עליון</l>
+          <l>ולא אדע האקיים</l>
+          <l>איך אעמוד בניסיון</l>
+          <l>ניסיון האושר השלם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איכה תכיל עיני האור</l>
+          <l>ידי רפות, ידי הוזות</l>
+          <l>איכה אשא ולא אשבור</l>
+          <l>שמחה כזאת, ברכה כזאת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מכובד עול איך לא אפול</l>
+          <l>איך לפניך אתייצב</l>
+          <l>זקופה גדולה נושאת בעול</l>
+          <l>של אושר אנושי שלם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

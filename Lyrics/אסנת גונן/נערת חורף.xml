@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נערת חורף</title>
+        <singer classification="unknown">אסנת גונן</singer>
+        <writer>אסנת גונן</writer>
+        <composer>אסנת גונן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נערת חורף</head>
+        <lg number="1" type="stanza">
+          <l>זהו בוקר די רגיל קצת מאוחר</l>
+          <l>הרחוב הומה אדם, הקיץ עוד מעט נגמר</l>
+          <l>ואני מסתכלת מעבר למרפסת</l>
+          <l>ורואה שם מרחוק את הים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ויש עוד פנים לשכוח</l>
+          <l>יש עוד שירים לשמוע</l>
+          <l>יש עוד דרכים שאוהב</l>
+          <l>מחכה שיבוא החורף</l>
+          <l>אולי אז יהיה לי כוח</l>
+          <l>להקשיב לעצמי, לעולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מנגינות מסתובבות ולא נותנות לי מנוחה</l>
+          <l>המילים מתערפלות וגם אני איתן</l>
+          <l>ואני מחפשת קצת אוויר, קצת שקט</l>
+          <l>מתי יבוא הגשם הראשון?</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ויש עוד פנים לשכוח</l>
+          <l>יש עוד שירים לשמוע</l>
+          <l>יש עוד דרכים שאוהב</l>
+          <l>מחכה שיבוא החורף</l>
+          <l>אולי אז יהיה לי כוח</l>
+          <l>להקשיב לעצמי, לעולם</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואני מסתכלת מעבר למרפסת </l>
+          <l>ורואה שם מרחוק את הים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

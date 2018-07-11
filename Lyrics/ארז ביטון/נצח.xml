@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נצח 2</title>
+        <singer classification="unknown">ארז ביטון</singer>
+        <writer>ארז ביטון</writer>
+        <composer>ארז ביטון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נצח</head>
+        <lg number="1" type="stanza">
+          <l>הלב נשבר </l>
+          <l>הכול נראה מוזר בזמן עבר </l>
+          <l>מוזר שאת לא פה עכשיו </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כמה זמן זה נצח </l>
+          <l>אם את לא פה זה בטח </l>
+          <l>רגע ועוד רגע נערם כמו ערפל </l>
+          <l>יום ועוד שבוע </l>
+          <l>הכול נראה קבוע </l>
+          <l>ולא ירחק היום שזר אותך עוד יקבל </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלב נשבר </l>
+          <l>גיטרה שתקועה בלי מנגינה </l>
+          <l>תקועה ללא כל נשימה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הלב נשבר </l>
+          <l>הכל נראה מוזר בזמן עבר </l>
+          <l>מוזר שאת לא פה עכשיו </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כמה זמן זה נצח...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>סיפור שלנו רק אני ואת </l>
+          <l>ואף אחד גם לא יבין מעט </l>
+          <l>סיפור שבתוכי חצי חיים </l>
+          <l>רוצה לזעוק מכאן לעולמים </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>כמה זמן זה נצח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

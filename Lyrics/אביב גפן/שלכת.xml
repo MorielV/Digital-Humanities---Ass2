@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלכת 2</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלכת</head>
+        <lg number="1" type="stanza">
+          <l>את ישנה, גם הוא במיטה</l>
+          <l>אבל לא בשלך</l>
+          <l>חולמת עליו וטוב לך עכשיו</l>
+          <l>וגם לו טוב איתה טוב לו איתה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את מזכירה לי שלכת</l>
+          <l>כשאת נופלת שותקת</l>
+          <l>את כל הזמן חולמת</l>
+          <l>והוא קם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם הוא ילך את תבכי לך</l>
+          <l>אם את תלכי הוא ישיר לך</l>
+          <l>ולא תדעי מה קרה לו לעולם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

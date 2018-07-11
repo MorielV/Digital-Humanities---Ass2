@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו ציפור 2</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו ציפור</head>
+        <lg number="1" type="stanza">
+          <l>כשהוא נזרק הוא מתרסק, אך לא לנצח יישאר</l>
+          <l>מרוח על האדמה, שרוע כך ללא תקוות</l>
+          <l>ובעוד רגע יאסוף את כוחותיו האחרונים </l>
+          <l>ולעברך ירוץ למחות את הדמעות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ושוב את מנחמת</l>
+          <l>מוחה אבק מעברם</l>
+          <l>מביט, ואת לוחשת</l>
+          <l>ושבו בנים לגבולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואת פורשת זרועותייך כשהוא שב מהמדבר</l>
+          <l>כמו ציפור שמחפשת גוזלים מרחפת מעליו</l>
+          <l>תועה, אבוד ומתנחם, מתקוות שווא הוא נזהר</l>
+          <l>רוצה לדעת זה סוף, סוף לנדודיו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ושוב את מנחמת...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את המקל הוא שוב יניח שם בצד, זרוק, מוזנח</l>
+          <l>יקווה שלא יפגוש בו לעולם</l>
+          <l>ואת תיק הייסורים ששנות אלפיים נאסף</l>
+          <l>יסיר מעל גבו, יזרוק אל תוך הים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ושוב את מנחמת...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>תראי ארץ, הוא צועק, ושמים הם עדי</l>
+          <l>לא נטשתי מעולם, ואלה עקבותי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

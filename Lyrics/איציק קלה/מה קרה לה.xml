@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה קרה לה</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>איציק קלה</writer>
+        <composer>סטיליאנוס קאזאנצ'ידיס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה קרה לה</head>
+        <lg number="1" type="stanza">
+          <l>מה קרה לה אף אחד לא יודע</l>
+          <l>הלכה ברחה לה' ואני רק יודע</l>
+          <l>ראיתיה בדד מהלכת</l>
+          <l>לא היתה אפילו מחייכת</l>
+          <l>מה קרה לה, מה קרה לה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לבד היא פסעה לה, הלכה נעלמה</l>
+          <l>ואני לה אתן את החיים והנשמה</l>
+          <l>ואני לה אתן את החיים והנשמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גם הלילה חיפשתי ועייפתי</l>
+          <l>אבל אותך עדיין לא מצאתי</l>
+          <l>את צמתך רק רציתי לדעת</l>
+          <l>אהובתי אותי את משגעת</l>
+          <l>מה קרה לה, מה קרה לה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חיפשתי חיפשתי, עייף ותשוש</l>
+          <l>בפינה, בגינה גם בבית נטוש</l>
+          <l>בפינה, בגינה גם בבית נטוש</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חברי לי סיפרו שראוה</l>
+          <l>לביתי מיד הביאוה</l>
+          <l>מה שחורות ונוגות הן עיניה</l>
+          <l>לעולם אני לא אעזבנה</l>
+          <l>מה קרה לה, מה קרה לה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>חיפשתי חיפשתי, עייף ותשוש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנאוה</title>
+        <singer classification="female singer">אורה זיטנר</singer>
+        <writer>יהודה בורלא</writer>
+        <composer>מרדכי זעירא</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנאוה</head>
+        <lg number="1" type="stanza">
+          <l>הנאווה,</l>
+          <l>הנאווה,</l>
+          <l>השיבי אהבה!</l>
+          <l>בגילה סוערה</l>
+          <l>וכאש בוערה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לה, לה...</l>
+          <l>לבחיר לבך</l>
+          <l>השוכן בחובך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גלי אושרך</l>
+          <l>ורוב זהרך,</l>
+          <l>שלחי ידך</l>
+          <l>בצוארי דודך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לה, לה...</l>
+          <l>בחיר ליבך</l>
+          <l>השוכן בחובך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

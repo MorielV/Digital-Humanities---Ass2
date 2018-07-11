@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני נשבע 3</title>
+        <singer classification="unknown">אלירן שם טוב</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני נשבע</head>
+        <lg number="1" type="stanza">
+          <l>כשפגשתי בך ידעתי</l>
+          <l>שאת שלי</l>
+          <l>לא וויתרתי והלכתי </l>
+          <l>אחרי ליבי</l>
+          <l>את הכל עשיתי</l>
+          <l>לא מבין איך זה קורה לי </l>
+          <l>נשמה שלי</l>
+          <l>רק איתך אני הרגשתי</l>
+          <l>שזה אמיתי</l>
+          <l>כמה שחיכיתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני נשבע</l>
+          <l>את היא אהבת חיי</l>
+          <l>אקח אותך הלילה</l>
+          <l>מכאן עד סוף ימי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החיוך שעל שפתייך</l>
+          <l>מרגש אותי</l>
+          <l>ומשכיח את העצב</l>
+          <l>שבליבי</l>
+          <l>כשאת בי נוגעת</l>
+          <l>את נותנת לי תכח</l>
+          <l>לאהוב בלי די</l>
+          <l>ושולחת את השמש</l>
+          <l>להאיר חיי</l>
+          <l>את הכל יודעת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני נשבע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

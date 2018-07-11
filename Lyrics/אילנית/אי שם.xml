@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אי שם</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אי שם</head>
+        <lg number="1" type="stanza">
+          <l>בא חצי הלילה ואני ערה,</l>
+          <l>חלומות באים לסף.</l>
+          <l>זה השקט שלפני הסערה,</l>
+          <l>בוא נלך עכשיו.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שם, שם ראיתי קשת בענן,</l>
+          <l>שם, שם עולה הבוקר בלבן.</l>
+          <l>אי שם, שם נמצא ביחד את הגן,</l>
+          <l>את גן האהבה.</l>
+          <l>שם, שם שמעתי שיר ישן נושן,</l>
+          <l>שם, שם ירח לילה לילה.</l>
+          <l>שם, שם נמצא ביחד את הגן.</l>
+          <l>את גן האהבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את ביתי הלילה הרוחות עוטפים,</l>
+          <l>אוחזים בו מכל צד.</l>
+          <l>אל מעבר לעבים אנו עפים,</l>
+          <l>יד אוחזת יד.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יום חדש הלילה בליבי נוקש</l>
+          <l>ואתה קרב עימו.</l>
+          <l>את גני התכלת יחד נבקש,</l>
+          <l>שערם נבוא.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שם, שם ראיתי קשת בענן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

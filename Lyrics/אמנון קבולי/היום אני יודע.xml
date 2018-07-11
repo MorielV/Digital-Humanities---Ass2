@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היום אני יודע</title>
+        <singer classification="male singer">אמנון קבולי</singer>
+        <writer>אמנון קבולי</writer>
+        <composer>אמנון קבולי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היום אני יודע</head>
+        <lg number="1" type="stanza">
+          <l>אני רוצה לומר לך ש...</l>
+          <l>לא הכל עדיין מאוחר</l>
+          <l>אני אומר שהכל</l>
+          <l>לא אבוד ויש לך גם מחר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והיום אני יודע שאולי לפני שנים</l>
+          <l>הכל היה אחר ומיוחד</l>
+          <l>הכל אבד לך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני רוצה לומר שכאן</l>
+          <l>לא הכל יהיה כמו בעבר</l>
+          <l>אני רוצה שתתגברי</l>
+          <l>ואיתם נצעד אל העתיד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ונמשיך תמיד ללכת, ונחייה את הרגעים</l>
+          <l>ללא דאגות, נסתדר עם הדמעות</l>
+          <l>ושוב אני, ושוב גם את, נחייך</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והיום אני יודע שאולי לפני שנים</l>
+          <l>הכל היה אחר ומיוחד</l>
+          <l>אך נמשיך תמיד ללכת</l>
+          <l>ונחייה את הרגעים</l>
+          <l>ונאהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

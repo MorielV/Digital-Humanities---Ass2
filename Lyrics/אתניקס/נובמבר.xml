@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נובמבר</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נובמבר</head>
+        <lg number="1" type="stanza">
+          <l>אחרי הגשם הראשון</l>
+          <l>אקח אותך רחוק</l>
+          <l>אל מקורות מפל המים</l>
+          <l>נביט בזרם השוטף בסחף הכבד</l>
+          <l>רואים שנובמבר בשמיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סופה קרובה להגיע</l>
+          <l>על גבול הצפון רועם ענן</l>
+          <l>האל יושב ברקיע</l>
+          <l>ולנו משאיר לפרוק מטען</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בשש תדליקי חדשות הידיעות קשות</l>
+          <l>מהבופור הורידו שניים</l>
+          <l>מומחים של בטחון שוטף</l>
+          <l>ביקשו לתת כתף ולשלם מלווה בינתיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סופה קרובה להגיע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

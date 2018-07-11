@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צובר</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צובר</head>
+        <lg number="1" type="stanza">
+          <l>צובר בשקט לא עושה רעש</l>
+          <l>מרגיש בבטן הרי געש</l>
+          <l>את מתפרקת את מתרחקת לי</l>
+          <l>הלב אומר: "תסבול בשקט"</l>
+          <l>והמרחק הזה עושה אותי ככה</l>
+          <l>חצי אפאטי חצי בפחד</l>
+          <l>את לא ברורה לי את לא קרובה אלי</l>
+          <l>למרות שבא לי למרות שאין שום תנאי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שוב זה אותו כאב</l>
+          <l>כל כך פשוט וכל כך שורף</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שיחות של בוקר שיחות של לילה</l>
+          <l>אוהב לגעת שאת משתנה אלי</l>
+          <l>צובר בשקט לא עושה רעש</l>
+          <l>מרגיש בבטן הרי געש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שוב זה אותו הכאב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

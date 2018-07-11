@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את מקסימה</title>
+        <singer classification="unknown">אסי משה</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>יוסי בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את מקסימה</head>
+        <lg number="1" type="stanza">
+          <l>ימים יפים של שמש מאירים עלי</l>
+          <l>הרבה דברים אני עשיתי בחיי</l>
+          <l>ראיתי גם עולם ומלואו</l>
+          <l>כל אחד חי בדרך שלו</l>
+          <l>ואיתך נסחפתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את מקסימה באהבה שלך אלי</l>
+          <l>מפתה אותי ללכת אחרייך</l>
+          <l>מה שנתת לי שינה את חיי</l>
+          <l>בוהה בך, רוצה רק אלייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואי תשמעי עכשיו את פעימות הלב</l>
+          <l>הקצב מטורף, הלילה מתקרב</l>
+          <l>הכל שונה, לגמרי אחר</l>
+          <l>מהופנט מול יופייך הזוהר</l>
+          <l>ורוצה בך יותר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את מקסימה באהבה שלך אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

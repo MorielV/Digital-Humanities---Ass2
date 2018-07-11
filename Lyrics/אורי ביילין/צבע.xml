@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צבע 2</title>
+        <singer classification="male singer">אורי ביילין</singer>
+        <writer>אורי ביילין</writer>
+        <composer>אורי ביילין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צבע</head>
+        <lg number="1" type="stanza">
+          <l>צבע</l>
+          <l>יש לך צבע</l>
+          <l>כמו שאין לאף אחת בכלל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ברונזה</l>
+          <l>כזה עם פוזה</l>
+          <l>שמש מעורבבת עם קוויאר</l>
+          <l>אז אני עף</l>
+          <l>אני עף</l>
+        </lg>
+        <lg number="3" type="stanza" />
+        <lg number="4" type="stanza">
+          <l>I knew you wanted me</l>
+          <l>but I wanted you</l>
+          <l>to love me more</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>I will never be yours</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>Agony....</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>Colour</l>
+          <l>youv'e got colour</l>
+          <l>like nobody that I have ever known</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>Show of</l>
+          <l>such a high ruff</l>
+          <l>sunshine mixed together with</l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>caviar</l>
+        </lg>
+        <lg number="10" type="stanza">
+          <l>Well I'm alive</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

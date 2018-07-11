@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המשורר</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>יצחק קלפטר</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המשורר</head>
+        <lg number="1" type="stanza">
+          <l>הוא יודע העולם גדול </l>
+          <l>זה עולם מלא הפתעות </l>
+          <l>אי אפשר לדעת את הכל </l>
+          <l>הוא מנסה דרכים שונות </l>
+          <l>יש דברים שאותם קשה ללמוד </l>
+          <l>שאלות בלי מענה </l>
+          <l>הוא לא רוצה לריב בגלל כבוד </l>
+          <l>מבקש לצאת יפה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אין לו זמן לברר יותר </l>
+          <l>החיים עוברים מהר </l>
+          <l>יהיה אשר יהיה </l>
+          <l>הן גם הוא לא יישאר </l>
+          <l>המשורר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא נוסע למקום רחוק </l>
+          <l>לפעמים הוא בא קרוב </l>
+          <l>לא תמצא אותו ברחובות </l>
+          <l>הוא כותב על חומר טוב </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כי אין לו זמן לברר יותר </l>
+          <l>החיים עוברים מהר </l>
+          <l>יהיה אשר יהיה </l>
+          <l>הן גם הוא לא יישאר </l>
+          <l>המשורר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

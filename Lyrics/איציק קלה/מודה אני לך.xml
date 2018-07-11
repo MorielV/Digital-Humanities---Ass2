@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מודה אני לך</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>דני שושן</composer>
+        <album>לך אלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מודה אני לך</head>
+        <lg number="1" type="stanza">
+          <l>בכל בוקר מתעורר ליום חדש</l>
+          <l>והלב נפעם כל רגע ונרגש</l>
+          <l>שוב רואה חיוך של ילד למולי</l>
+          <l>ואשה כל כך טובה צוחקת לי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא חולם לי חלומות כל כך גדולים</l>
+          <l>מסתפק במה שיש בחיים</l>
+          <l>כשעצוב לי לא שואל מה הסיבה</l>
+          <l>כי הכל בא משמים לטובה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מודה אני לך בורא עולם</l>
+          <l>על חיים יפים עולם מושלם</l>
+          <l>מודה על אהבה על אושר ושלווה</l>
+          <l>מודה על רגעים של תקווה</l>
+          <l>על דמעות ועל שמחה</l>
+          <l>מודה לך כי הכל בא משמים לטובה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשבסוף היום יורדת אפלה</l>
+          <l>ובלב שלי עולה שאלה</l>
+          <l>לא כועס אם לא מוצא לי תשובה</l>
+          <l>כי הכל בא משמים לטובה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מודה אני לך בורא עולם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Attractive</title>
+        <singer classification="band">אטליז</singer>
+        <writer>גיא בן שיטרית</writer>
+        <composer>מאיה דוניץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Attractive</head>
+        <lg number="1" type="stanza">
+          <l>Tip toeing on salty sand </l>
+          <l>My pink glasses work so wonderfully, </l>
+          <l>One more moment on </l>
+          <l>And it's gone. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Where ever you are, are </l>
+          <l>If you find me attractive </l>
+          <l>Who ever you are </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>Don't hesitate... </l>
+          <l>Everything's got to move on </l>
+          <l>If you wanna ride on my spiders </l>
+          <l>Everything's got to move on </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>Tip toeing on salty sand </l>
+          <l>My pink glasses work so wonderfully, </l>
+          <l>One more moment on </l>
+          <l>And it's gone. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>Where ever you are, are... </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>Don't hesitate... </l>
+          <l>Everything's got to move on </l>
+          <l>If you wanna ride on my spiders </l>
+          <l>Everything's got to move on </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>Where ever you are... </l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>Don't hesitate... </l>
+          <l>Everything's got to move on </l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>My pink glasses work so wonderfully</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

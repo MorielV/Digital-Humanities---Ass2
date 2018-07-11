@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ג סיקה</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ג'סיקה</head>
+        <lg number="1" type="stanza">
+          <l>איך בסוף השבוע</l>
+          <l>היא באופן קבוע, לא לבד</l>
+          <l>אם אין גבר בשטח</l>
+          <l>היא פותחת בדיאטת שוקולד</l>
+          <l>כמו כל אחד.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והחיוך שלה רטוב</l>
+          <l>אני חוזר כשהיא תשוב</l>
+          <l>נסעה לה למקום אחר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תמיד חשבה לה שהאלוהים</l>
+          <l>אהב לראות אותנו מנגנים</l>
+          <l>כי זה הראש של ג'סיקה</l>
+          <l>ג'סי ג'סי, ג'סי ג'סיקה אואה אואה</l>
+          <l>אה אואה אואה</l>
+          <l>עכשיו היא רחוקה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איך לבשה זוג כנפיים</l>
+          <l>ועלתה לשמים מעל כולם</l>
+          <l>עם חיוך לא נורמלי</l>
+          <l>את הלב היא שברה לי כל הזמן</l>
+          <l>כן, כל הזמן</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היתה כולה תוצרת חוץ</l>
+          <l>עבדה שנתיים בקיבוץ</l>
+          <l>נסעה לה למקום אחר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תמיד חשבה שהאלוהים...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>וכשאמרה שזה כואב</l>
+          <l>שאף אחד כבר לא אוהב</l>
+          <l>נסעה לה למקום אחר.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>תמיד חשבה שהאלוהים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

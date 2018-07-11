@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לאט כהולם הלב</title>
+        <singer classification="female singer">אחינועם ניני</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לאט כהולם הלב</head>
+        <lg number="1" type="stanza">
+          <l>אולי כאן נגמרת דרכי</l>
+          <l>על הסף השליו.</l>
+          <l>נוטפים כוכבים ירוקים</l>
+          <l>לאט- כהולם הלב.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>באיושת ענפים יבשה</l>
+          <l>בירכת שלומים:</l>
+          <l>העצים הקטנים בחורשה</l>
+          <l>חיכו לי כל הימים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה מוזר שביקשתי אותך</l>
+          <l>בדרכים לרוב,</l>
+          <l>עד שבאתי אל סף ביתך</l>
+          <l>והוא כה קרוב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

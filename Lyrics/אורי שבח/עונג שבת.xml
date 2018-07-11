@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עונג שבת</title>
+        <singer classification="male singer">אורי שבח</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עונג שבת</head>
+        <lg number="1" type="stanza">
+          <l>דודי ירד לו מכרמו</l>
+          <l>ופרי גפנו הביא עמו</l>
+          <l>פרחים קטף לו בדרכו</l>
+          <l>וגיל לו בלבבו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חמה שקעה במערב</l>
+          <l>וכבר מעל זרח כוכב</l>
+          <l>מלאה שבת הדרת זהב</l>
+          <l>איש איש באוהליו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ובשבת הוא יזמר</l>
+          <l>בחיל ורעד</l>
+          <l>שירי הלל לאלוהיו</l>
+          <l>על טוב ונחת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שירי שבת מהדהדים</l>
+          <l>ובחורשות הומות יונים</l>
+          <l>בית ישראל מרננים</l>
+          <l>שמעו כל העמים</l>
+          <l>ובשבת הוא יזמר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

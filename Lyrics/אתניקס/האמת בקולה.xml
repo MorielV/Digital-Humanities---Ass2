@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האמת בקולה</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האמת בקולה</head>
+        <lg number="1" type="stanza">
+          <l>בשפת החול היתה מילים צופנת</l>
+          <l>אל האופק קול האמת שלה</l>
+          <l>כולם עמדו שבויים בתוך הקסם</l>
+          <l>היא קול הזעם והתהילה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>או או</l>
+          <l>האמת בקולה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בשפת החול היא אסירה לוחמת</l>
+          <l>אל אופק טורקיז שלחו אותה כבולה</l>
+          <l>ניסו לכבות את ניצוץ עיניה</l>
+          <l>העם עמד איתה ושר אותה תפילה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>או או...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אסתכן בין טרף</l>
+          <l>אסתכן בין לום</l>
+          <l>אסתכן בין ררר פיל כאלם נדר בין סרהום</l>
+          <l>ררר פיל נדר</l>
+          <l>ררר פיל כאלם</l>
+          <l>מולטי נדר בין סאלאם</l>
+          <l>קדר קדר מולטי כאלם בין נדר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>או או...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לאן את הולכת</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יאיר אלוני</writer>
+        <composer>יאיר אלוני</composer>
+        <album>בלעדייך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לאן את הולכת</head>
+        <lg number="1" type="stanza">
+          <l>תני עוד טיפה</l>
+          <l>טיפה אחת מכל האור</l>
+          <l>תני עוד מבט</l>
+          <l>מבט אחד תמים טהור</l>
+          <l>תני עוד חיוך אחד לפני שאת עוזבת</l>
+          <l>אמרי לי אהובה מה שתיקתך אומרת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי את לי היחידה</l>
+          <l>את לי גם החידה</l>
+          <l>לאן הו לאן את הולכת</l>
+          <l>היכן האהבה</l>
+          <l>אמרי, אמרי אישה</l>
+          <l>על מי או על מה את נסערת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שיחקת איתי</l>
+          <l>במשחקי האהבה</l>
+          <l>נכנעתי לך</l>
+          <l>ללא כל תנאי ובלי בושה</l>
+          <l>אותה דמעה שלך היתה אותי שוברת</l>
+          <l>הרי את נשמתי לקחת לך למשמרת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי את לי היחידה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

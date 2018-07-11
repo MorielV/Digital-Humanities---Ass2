@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנגינה</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>מורן כרמל</writer>
+        <composer>רביב בן מנחם</composer>
+        <album>נגעת לי בלב</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנגינה</head>
+        <lg number="1" type="stanza">
+          <l>זו אותה מנגינה בליבי </l>
+          <l>שלוקחת אוספת אותי</l>
+          <l>אל המחר , אל עולמי </l>
+          <l>והדרך בוחנת אותי</l>
+          <l>מפלסת רואה את דרכי</l>
+          <l>בין עננים מעורפלים </l>
+          <l>לא תכבה האהבה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רק ביחד ייעלם הפחד </l>
+          <l>והמנגינה תחזק ת׳אמונה </l>
+          <l>בתוכנו האושר לפנינו </l>
+          <l>בואו ונפתח את הנשמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הזמן הוא תרופה לכאב </l>
+          <l>להמחיש כמה כח ללב </l>
+          <l>גם כשנדמה שזה לא אפשרי</l>
+          <l>לא תכבה האהבה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

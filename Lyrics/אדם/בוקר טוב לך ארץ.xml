@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוקר טוב לך ארץ</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>יואב גינאי</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוקר טוב לך ארץ</head>
+        <lg number="1" type="stanza">
+          <l>בוקר טוב ארץ </l>
+          <l>לאיזה יום את מתעוררת </l>
+          <l>ואיזה מן כנפיים נפרשות מעל ראשך </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בוקר טוב לך ארץ </l>
+          <l>כמה דמעות את עוד שומרת </l>
+          <l>מתי סוף סוף החושך יתחלף בזריחתך </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא ביקשתי גפן</l>
+          <l>וגם לא תאנה </l>
+          <l>תני לי רק לקום עכשיו אל יום חולין בהיר </l>
+          <l>בלי תופים ונבל </l>
+          <l>ואבן ישנה </l>
+          <l>תני לי רק שלווה פשוטה </l>
+          <l>ושקט באויר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בוקר טוב לך ארץ </l>
+          <l>לאחרונה את קצת אחרת </l>
+          <l>וכמה מנחלייך כבר לא שקופים כמו שהיו </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בוקר טוב לך ארץ </l>
+          <l>למה עכשיו את מתפלל</l>
+          <l>ואיזה מן ימים יבואו אלה שיהיו </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא ביקשתי גפן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

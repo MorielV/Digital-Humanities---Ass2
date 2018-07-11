@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גבר ללילה אחד</title>
+        <singer classification="female singer">אסתר שמיר</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>אפרים שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גבר ללילה אחד</head>
+        <lg number="1" type="stanza">
+          <l>מה שיש בינינו זו רק שעה מאוחרת</l>
+          <l>התרגשות של פתאום, שפגשה במקרה את הגוף</l>
+          <l>אנחנו זרים זה לזו עם כל שעה שעוברת</l>
+          <l>זרים זה לזו למרות העור החשוף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מבטים אטומים ושעון מתקתק לו קבוע</l>
+          <l>רגעים מתוחים של שתיקה ועוד בוקר נולד</l>
+          <l>ואני מחפשת מוצא מפגישת סוף שבוע</l>
+          <l>כי היית לי גבר ללילה אחד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אתה ממלמל אהבה, הפגישה מתארכת</l>
+          <l>אני מתרחקת ,ואתה בכיוון מנוגד</l>
+          <l>לא ,אינני רוצה ידידות שנמשכת</l>
+          <l>רציתי רק גבר ללילה אחד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גבר ללילה אחד...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לכל אדם יש מחיר לפי טיב האירוע</l>
+          <l>אני משתדלת לשמור על טון מיודד</l>
+          <l>אך כמה צריך לשלם על שיפוט גרוע</l>
+          <l>רציתי רק גבר ללילה אחד...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>גבר ללילה אחד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

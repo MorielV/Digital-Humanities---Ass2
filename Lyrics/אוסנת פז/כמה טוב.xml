@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה טוב 4</title>
+        <singer classification="unknown">אוסנת פז</singer>
+        <writer>אהוד מנור</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה טוב</head>
+        <lg number="1" type="stanza">
+          <l>איזה איזה ערב</l>
+          <l>מתנוצץ כחרב,</l>
+          <l>שוב יורד הערב,</l>
+          <l>כמה טוב.</l>
+          <l>איזה איזה אופק</l>
+          <l>מיסתחרר הדופק,</l>
+          <l>כמה טוב.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ערב טוב שבו חולמים כיפליים,</l>
+          <l>ערב טוב שבו טובים השניים.</l>
+          <l>ערב ללא דופי,</l>
+          <l>איזה איזה יופי,</l>
+          <l>איזה איזה ערב -</l>
+          <l>כמה טוב!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב עולה ירח</l>
+          <l>וגני פורח,</l>
+          <l>הרימון זורח -</l>
+          <l>כמה טוב.</l>
+          <l>איזה איזה שקט,</l>
+          <l>לבנה בוהקת</l>
+          <l>מענן חומקת -</l>
+          <l>כמה טוב.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ערב טוב שבו חולמים כפליים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>איזה איזה רגש</l>
+          <l>מתעורר בי חרש,</l>
+          <l>מכרסם בי חרש -</l>
+          <l>כמה טוב.</l>
+          <l>איזה איזה נער</l>
+          <l>מתקרב לשער,</l>
+          <l>מחייך בשער -</l>
+          <l>כמה טוב.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ערב טוב שבו חולמים כפליים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

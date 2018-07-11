@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איזה מוזר</title>
+        <singer classification="unknown">אורי צדוק</singer>
+        <writer>אורי צדוק</writer>
+        <composer>אורי צדוק</composer>
+        <album>גבוה מכאן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איזה מוזר</head>
+        <lg number="1" type="stanza">
+          <l>איזה מוזר</l>
+          <l>ישנם ימים שאת לא מרגישה יפה</l>
+          <l>לא מרגישה שייכת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמו שמש באמצע יום גשום</l>
+          <l>נבוכה</l>
+          <l>לאט לאט נצמדת אל הקשת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שלא ירגישו שלא ירגישו</l>
+          <l>לא למשוך תשומת לב מיותרת</l>
+          <l>שלא ירגישו שלא ירגישו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

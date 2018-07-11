@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>העיר 4</title>
+        <singer classification="unknown">אורן ברזילי</singer>
+        <writer>אריאל פוליאקוב</writer>
+        <composer>אריאל פוליאקוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>העיר</head>
+        <lg number="1" type="stanza">
+          <l>אם העיר הזאת תדע את כל שקרה בלילה אתמול</l>
+          <l>היא תשטוף באור מלטף את כל הכאב כמו מים לחול</l>
+          <l>אם העיר הזאת תזכור את הילדים בשחור שהפכו אותה פראית </l>
+          <l>היא תחרוט את שמם על הקיר כזאת היא העיר של שמש נצחית</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם העיר הזאת תחזיר ללב שהחוויר את הזמן לצידו</l>
+          <l>אז יאורו עיניו ורוח של סתיו תרכך את לבו </l>
+          <l>אז תנו לצליל או לשיר שיבוא ויחזיר לעיר את שלה</l>
+          <l>כי מול כל המילים של העוברים ושבים היא תעלם בתוכה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

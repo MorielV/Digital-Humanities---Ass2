@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהובתי הרחוקה</title>
+        <singer classification="unknown">אלעד שודלר</singer>
+        <writer>אלעד שודלר</writer>
+        <composer>אלעד שודלר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהובתי הרחוקה</head>
+        <lg number="1" type="stanza">
+          <l>אהובתי הרחוקה, שוב נתקפתי געגוע </l>
+          <l>שוב חלפה המחשבה </l>
+          <l>אהובתי הרחוקה, לא אוכל לומר עד כמה </l>
+          <l>ועד כמה אהובה, את. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זמן זורם לאט </l>
+          <l>וכששנינו שוב נצמיד את המבט </l>
+          <l>נישאר לבד לבד אני ואת </l>
+          <l>אהובתי הרחוקה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהובתי הרחוקה, שוב נתקפתי געגוע </l>
+          <l>אהובתי הרחוקה מחייכת וצוחקת </l>
+          <l>כשהשמש מאירה </l>
+          <l>אהובתי הרחוקה מסוגרת ונסערת </l>
+          <l>וחושבת בוודאי, עלי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זמן זורם לאט...</l>
+          <l>זמן חולף מהר </l>
+          <l>ובבוא היום נרפה ונוותר </l>
+          <l>ועינייך ימלאו את החסר </l>
+          <l>אהובתי הרחוקה </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לה לה לה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

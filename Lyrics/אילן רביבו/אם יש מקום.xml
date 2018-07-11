@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם יש מקום</title>
+        <singer classification="male singer">אילן רביבו</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>אילן רביבו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם יש מקום</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אם יש מקום אחד קטן שבו נוכל </l>
+          <l>להתבודד ולא להיפרד לעד.</l>
+          <l>אני חושב שאין וזה כל כך חבל.</l>
+          <l>במקום זה נתחבק, תחזיקי לי ת'יד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם יש מקום, אני אמצא בשבילך.</l>
+          <l>אני אוביל אותך כשנלך.</l>
+          <l>רחוק-רחוק מבני אדם.</l>
+          <l>לא מעוקצם, לא מדבשם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם יש תפילה אחת קטנה שבשבילי,</l>
+          <l>זה להיות איתך תמיד ולא חשוב היכן.</l>
+          <l>אני חושב שאין וזה ידוע לכולם</l>
+          <l>לכל דבר יש סוף, בינתיים בואי לכאן.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם יש מקום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

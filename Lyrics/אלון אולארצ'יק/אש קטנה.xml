@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אש קטנה</title>
+        <singer classification="unknown">אלון אולארצ יק</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אש קטנה</head>
+        <lg number="1" type="stanza">
+          <l>אהוב אותי על אש קטנה</l>
+          <l>חבק לאט ואל תחנוק</l>
+          <l>הלב זקוק להגנה</l>
+          <l>חייך אלי כמו תינוק</l>
+          <l>אהוב אותי בזהירות</l>
+          <l>בעדינות וברכות</l>
+          <l>גלה עניין והבנה</l>
+          <l>ושמור על כל המתיקות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כי אש קטנה היא מתנה</l>
+          <l>היא חמימה וחכמה</l>
+          <l>ששומרת מקור</l>
+          <l>ויש בה אור</l>
+          <l>לעוד שנה ועוד שנה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על אש קטנה אפשר לחיות</l>
+          <l>ולא ליפול בבת אחת</l>
+          <l>תראה שכל התוכניות</l>
+          <l>עוד יתגשמו לאט לאט</l>
+          <l>כן אש קטנה היא כל הסוד</l>
+          <l>כי כך לא נשרפים מיד</l>
+          <l>לשמור עליה יש ללמוד</l>
+          <l>ואז אולי נבער לעד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי קטנה היא מתנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

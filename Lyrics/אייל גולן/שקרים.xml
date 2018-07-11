@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שקרים</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>אריק זנטי</writer>
+        <composer>פאר טסי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שקרים</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים אני הולך סתם לים ומחפש</l>
+          <l>את הסתיו איתך את הלב שלך </l>
+          <l>מה הוא מבקש</l>
+          <l>לא רציתי לוותר אולי לשכוח</l>
+          <l>ושוב להתאהב</l>
+          <l>במבט שלך במגע שלך אני עוד מחכה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עלים נושרים וזה רק בגללך עכשיו</l>
+          <l>הכל כאן מכוסה באכזבה </l>
+          <l>שקרים זה לא אני בחוף הולך לבד</l>
+          <l>פתאום עולה הכל ואז נשבר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כן ציפיתי ליותר שתבואי ונדבר</l>
+          <l>והבגדים שלך המילים שלך</l>
+          <l>איך למדתי לשקר</l>
+          <l>לפעמים אני הולך סתם לים</l>
+          <l>ומחפש את הסתיו איתך</l>
+          <l>את הלב שלך מה הוא מבקש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עלים נושרים וזה רק בגללך עכשיו</l>
+          <l>הכל כאן מכוסה באכזבה </l>
+          <l>שקרים זה לא אני בחוף הולך לבד</l>
+          <l>פתאום עולה הכל ואז נשבר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

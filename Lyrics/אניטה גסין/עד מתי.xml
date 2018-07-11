@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד מתי 8</title>
+        <singer classification="unknown">אניטה גסין</singer>
+        <writer>אתי אנקרי</writer>
+        <composer>אתי אנקרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד מתי</head>
+        <lg number="1" type="stanza">
+          <l>תן לי דקה לשכוח</l>
+          <l>תן לי דקה לנשום</l>
+          <l>לא נותר בי כוח</l>
+          <l>להבין היום</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עד מתי</l>
+          <l>תרצה רחוק,</l>
+          <l>תרצה קרוב אלי?</l>
+          <l>עד אולי -</l>
+          <l>עד קרוב אלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תן לי דקה לשמוח</l>
+          <l>שאמרת - אהבה</l>
+          <l>למה תמיד כשיחד</l>
+          <l>מאיים הרגע הבא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עד מתי</l>
+          <l>תרצה רחוק,</l>
+          <l>תרצה קרוב אלי?</l>
+          <l>עד אולי -</l>
+          <l>עד קרוב אלי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תן לי דקה לשכוח</l>
+          <l>את האישה שלך</l>
+          <l>לא נותר בי כוח</l>
+          <l>להבין אותה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עד מתי</l>
+          <l>תרצה רחוק,</l>
+          <l>תרצה קרוב אלי?</l>
+          <l>עד אולי -</l>
+          <l>יבוא אחר,</l>
+          <l>ירווה את לילותי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

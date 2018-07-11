@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלאך שומר</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>ישראל בלו</writer>
+        <composer>ישראל בלו</composer>
+        <album>חלק מחיי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלאך שומר</head>
+        <lg number="1" type="stanza">
+          <l>אם תתני טיפה</l>
+          <l>אתן לך ים</l>
+          <l>אם תושיטי יד</l>
+          <l>אתן חיבוק גדול וחם</l>
+          <l>אם תפני לי חדר בליבך</l>
+          <l>אתן את כל כולי למענך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ורק תדעי</l>
+          <l>שיש אחד בעולם</l>
+          <l>שאוהב אותך</l>
+          <l>טיפה מעל כולם</l>
+          <l>זכרי תמיד</l>
+          <l>מביט עלייך מהצד</l>
+          <l>כמו מלאך שומר</l>
+          <l>שלא תהי לבד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם תתני מילה</l>
+          <l>אתן לך שיר</l>
+          <l>אם תתני כוכב</l>
+          <l>אביא ירח שיאיר</l>
+          <l>אם תצעדי רק צעד לחיי</l>
+          <l>ארוץ אשא אותך בשתי ידי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ורק תדעי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

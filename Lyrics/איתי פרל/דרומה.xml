@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דרומה</title>
+        <singer classification="male singer">איתי פרל</singer>
+        <writer>איתי פרל</writer>
+        <composer>איתי פרל</composer>
+        <album>מסע בלוז</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דרומה</head>
+        <lg number="1" type="stanza">
+          <l>תקרא לזה לסגת, תקרא לזה בריחה</l>
+          <l>רציתי קצת אחרת, תקרא לזה איך שתקרא</l>
+          <l>אני יורד דרומה</l>
+          <l>אל מרחבי כורכר</l>
+          <l>אל אחרון גני העדן הפועם בלבבות מדבר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל שמש דום אל שומקום, שכל קוציו – פרחים</l>
+          <l>אל מדינת כל מתייבשיה שכל נוודיה הם אורחים</l>
+          <l>אני יורד דרומה</l>
+          <l>אל ארמונות החול</l>
+          <l>כדי להציל את נשמתי, חפשו אותי כשהפצצה תיפול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה לא מתוך אג'נדה, זו לא ממש תכנית</l>
+          <l>אין לי את הידע, אבל יש לי מכונית</l>
+          <l>אני יורד דרומה</l>
+          <l>אל מרחבי צהוב</l>
+          <l>אל המקום היחידי שבו נדמה שיהיה לי טוב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

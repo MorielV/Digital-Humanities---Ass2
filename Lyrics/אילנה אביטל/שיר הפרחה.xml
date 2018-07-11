@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הפרחה</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>אסי דיין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הפרחה</head>
+        <lg number="1" type="stanza">
+          <l>אין לי ראש למילים ארוכות</l>
+          <l>ואתה מן מילה ארוכה שכזאת.</l>
+          <l>צ'או ידידי וד"ש לחייך,</l>
+          <l>בתקוה שתבין את הפרחה.</l>
+          <l>השמש של פראג' קורעת את הים,</l>
+          <l>ואני מפליגה בתוך הכפכפים.</l>
+          <l>לאן שיקחו האורות אני שם,</l>
+          <l>עם הלקה, הליפסטיק ושאר דאוו'ין.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי בא לי לרקוד, ובא לי שטויות</l>
+          <l>בא לי לצחוק ולא בא לי עליך</l>
+          <l>בא לי בימים ובא לי בלילות</l>
+          <l>בא לי לצעוק: "אני פרחה".</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פנים שלא עושות חשבון,</l>
+          <l>וג'ינס בסטייל שכתוב בעיתון.</l>
+          <l>סלסול נצחי בשיערות,</l>
+          <l>ופוסטרים במקום קירות.</l>
+          <l>רוצה לאהוב כמו בסרטים,</l>
+          <l>חתיך שיבוא באנגלית וצבעים.</l>
+          <l>COME ON BABY המטוס מחכה,</l>
+          <l>ועוד חלום שלי ממריא לו ובוכה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי בא לי לרקוד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>פעם כשיהיה לי זמן להיות גדולה,</l>
+          <l>פעם תיגמר המסיבה.</l>
+          <l>כי בסוף כל פרחה מסתתר שיכון קטן</l>
+          <l>בעל לדוגמה ואלף כיווני עשן.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי בא לי לרקוד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

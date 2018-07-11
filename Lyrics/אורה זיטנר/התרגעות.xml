@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>התרגעות 2</title>
+        <singer classification="female singer">אורה זיטנר</singer>
+        <writer>יהודה קרני</writer>
+        <composer>עממי ספרדי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>התרגעות</head>
+        <lg number="1" type="stanza">
+          <l>אם יש אי שם רחוק</l>
+          <l>נווה קטן שקט</l>
+          <l>ולו גזוזטרה של עץ</l>
+          <l>ועל ידה שקד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לה לה לה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם יש אי שם רחוק,</l>
+          <l>ולו אלפי פרסה,</l>
+          <l>סבתא לנכדתה</l>
+          <l>תשיר שיר ערשה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לה לה לה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כי אז אעוף לשם</l>
+          <l>באחד הערבים</l>
+          <l>ושוב נמנה יחדו</l>
+          <l>מספר הכוכבים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לה לה לה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

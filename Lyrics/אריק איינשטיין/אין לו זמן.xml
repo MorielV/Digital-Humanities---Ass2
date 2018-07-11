@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אין לו זמן</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>אוהב להיות בבית</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אין לו זמן</head>
+        <lg number="1" type="stanza">
+          <l>אין לו זמן לשמוע את המוזיקה בטבע</l>
+          <l>אין לו זמן לראות את הים והשקיעה</l>
+          <l>אין לו זמן ללכת לשקוע בקולנוע</l>
+          <l>תמצאו אותו תמיד בעבודה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>על הבוקר כשהוא קם, הוא עיף ולא רגוע</l>
+          <l>ממהר עם הקפה, והראש בילדים</l>
+          <l>מנקרת מחשבה כמה כסף הוא מרוויח</l>
+          <l>וכבד בנשמה, הקרבות הם אבודים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אין לו זמן לשמוע את המוזיקה בטבע ...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ובערב כשהוא שב, הוא עיף ולא רגוע</l>
+          <l>מחבק את האישה, מנשק לילדים</l>
+          <l>שוב עולה המחשבה כמה כסף הוא מרוויח</l>
+          <l>וכבד בנשמה, הקרבות הם אבודים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אין לו זמן לשמוע את המוזיקה בטבע ...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ובלילה במיטה, הוא עיף ולא רגוע</l>
+          <l>מתהפך מצד אל צד, והראש בילדים</l>
+          <l>כל הזמן המחשבה כמה כסף הוא מרוויח</l>
+          <l>וכבד בנשמה, הקרבות הם אבודים</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אין לו זמן לשמוע את המוזיקה בטבע ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל חיי</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>שמרית אור</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל חיי</head>
+        <lg number="1" type="stanza">
+          <l>לו ניתן לי על חיי לחזור</l>
+          <l>לסובב את הגלגל אחור,</l>
+          <l>מה הייתי משנה?</l>
+          <l>ההייתי משתנה?</l>
+          <l>זו שאלה שלא אדע לפתור.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לו נולדתי שוב מחדש</l>
+          <l>מאהבותי הייתי שוב נרגש</l>
+          <l>לא הייתי מוותר</l>
+          <l>הן תמיד יפות יותר</l>
+          <l>אדם שלא אוהב - אדם חלש!</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל חיי,  חיי</l>
+          <l>שוב חוזרים אלי</l>
+          <l>ממסע בדרך רחוקה</l>
+          <l>אני חי, חי, חי</l>
+          <l>והשמש מעלי</l>
+          <l>עוד תזרח על דרך ארוכה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לו ניתן לי על חיי לחזור</l>
+          <l>לסובב את הגלגל אחור </l>
+          <l>שוב לגעת, שוב לראות,</l>
+          <l>לא לדעת, שוב לטעות -</l>
+          <l>תמיד אותה הדרך אעבור.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כל חיי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

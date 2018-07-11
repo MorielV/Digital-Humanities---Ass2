@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חבר</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חבר</head>
+        <lg number="1" type="stanza">
+          <l>חבר</l>
+          <l>איך נהיית אחר</l>
+          <l>כך אותי מסדר</l>
+          <l>מעיני מסתתר</l>
+          <l>כל כך ממהר</l>
+          <l>שום דבר לא גומר</l>
+          <l>בי אתה לא מתעסק</l>
+          <l>ושיחותיי מנתק</l>
+          <l>למה אתה משחק</l>
+          <l>בליבי מפקפק</l>
+          <l>מנצל וזורק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא, אתה יותר אלי לא תבוא</l>
+          <l>מה גרם לך כה לשנוא</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הראת לי איך לאהוב</l>
+          <l>עכשיו אתה ברחוב</l>
+          <l>מממן עוד מכאוב</l>
+          <l>שגרם לעזוב</l>
+          <l>אהבתנו בחוב</l>
+          <l>היית לי כה נאמן</l>
+          <l>עכשיו אתה מסומן</l>
+          <l>בזריקות כואבות</l>
+          <l>שאותי משכיחות</l>
+          <l>מעיניך חבר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא, אתה יותר אלי לא תבוא</l>
+          <l>מה גרם לך כה לשנוא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

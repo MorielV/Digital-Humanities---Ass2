@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פזמון החוזרת</title>
+        <singer classification="female singer">אתי לוי</singer>
+        <writer>אסי דיין</writer>
+        <composer>נפתלי אלטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פזמון החוזרת</head>
+        <lg number="1" type="stanza">
+          <l>אני חוזרת והולכת בעקבות המכתבים</l>
+          <l>ורואה את האור בדרכו אל עינייך</l>
+          <l>וריחות השרון נוגעים בפני ההדרים</l>
+          <l>והארץ עוד מובטחת לעיני לרגלייך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני חוזרת אליך מארצות הזהב</l>
+          <l>אל חלקת האור הקטנה</l>
+          <l>ולאור שהיה אין מחיר עכשיו</l>
+          <l>וכולו שלי ושלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני חוזרת והולכת בעקבות המכתבים</l>
+          <l>ודמעות הכורכר שוב נושאות אותי אליך</l>
+          <l>שמש לא עוברת לשום מקום אחר</l>
+          <l>מאירה לי את הארץ לעיניי לרגליך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני חוזרת אליך מארצות הזהב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

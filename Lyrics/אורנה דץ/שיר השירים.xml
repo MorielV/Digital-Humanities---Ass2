@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר השירים 3</title>
+        <singer classification="female singer">אורנה דץ</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר השירים</head>
+        <lg number="1" type="stanza">
+          <l>תקרא לי את שיר השירים, </l>
+          <l>כי רק אותך אני שומעת.</l>
+          <l>ולמילים יש משמעות,</l>
+          <l>כשרק אתה אותן קורא.</l>
+          <l>קולך כמו אלפי מיתרים,</l>
+          <l>את האמת אני יודעת.</l>
+          <l>אתה שייך לזמן אחר,</l>
+          <l>אולי אתה המשורר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה תמיד עוזר לי,</l>
+          <l>כשאתה אומר לי, </l>
+          <l>שמכולן בחרת בי.</l>
+          <l>רוצה לשמוע את קולך מתכוון,</l>
+          <l>בטוח ולא מתגונן.</l>
+          <l>זה תמיד עוזר לי,</l>
+          <l>כשאתה אומר לי</l>
+          <l>הינך יפה רעייתי.</l>
+          <l>אני זקוקה רק למעט שתיתן,</l>
+          <l>זקוקה לקולך מתנגן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני מקשיבה רק לך,</l>
+          <l>אתה קורא שירה כמו רוח.</l>
+          <l>אתה נחלץ כמו סערה,</l>
+          <l>ואז נרגע להכרה.</l>
+          <l>קולך מעלה זכרונות,</l>
+          <l>שיר השירים כתוב בספר.</l>
+          <l>ובין לבין אתה שותק,</l>
+          <l>אתה יכול גם לחבק.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה תמיד עוזר לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

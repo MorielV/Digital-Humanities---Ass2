@@ -1,0 +1,39 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האדמה תפתח</title>
+        <singer classification="unknown">אלג יר</singer>
+        <writer>אביב גדג'</writer>
+        <composer>אביב גדג'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האדמה תפתח</head>
+        <lg number="1" type="stanza">
+          <l>תפתח האדמה בשבילך.</l>
+          <l>תפתח האדמה בשבילך.</l>
+          <l>מי זה בא אלי,</l>
+          <l>פותח את דלתותי?</l>
+          <l>מי זה בא אלי,</l>
+          <l>סוגר את עיני?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

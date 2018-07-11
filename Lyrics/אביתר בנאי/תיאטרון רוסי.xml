@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תיאטרון רוסי</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>אביתר בנאי</composer>
+        <album>אביתר בנאי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תיאטרון רוסי</head>
+        <lg number="1" type="stanza">
+          <l>לראות מה אני מרגיש אלייך</l>
+          <l>כמה שבועות אחרי השיחה האחרונה</l>
+          <l>מה אני רוצה ממך</l>
+          <l>אני מרגיש שאת גדולה עלי</l>
+          <l>יפה וערומה בתיאטרון רוסי</l>
+          <l>איך שאני שונא אותך ככה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא היה לי טוב כשהיית איתי</l>
+          <l>את רחוקה מלהיות קצת שקט בשבילי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני כועס ומקווה שתיכשלי</l>
+          <l>שתמשיכי לרעוד ולפחד משגעון</l>
+          <l>אמן תשארי לבד לנצח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה זה נקרא לא לרצות להיות איתי</l>
+          <l>מאוד קשה פה כל הלבד הזה, אוי ואבוי לי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש לי לחץ באוזניים</l>
+          <l>וסרטים כחולים בראש</l>
+          <l>יש לי עראק ופסנתר</l>
+          <l>ואין לי אהבה בינתיים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

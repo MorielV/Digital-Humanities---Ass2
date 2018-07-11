@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה חדשה</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>אסף אמדורסקי</composer>
+        <album>אסף אמדורסקי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה חדשה</head>
+        <lg number="1" type="stanza">
+          <l>איזה שיעמום</l>
+          <l>בשביל מה בכלל אתה קם בבוקר</l>
+          <l>כאילו שיש לך סיבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתה צריך אהבה חדשה</l>
+          <l>כזאת שתעיר אותך ותרצה ממך עוד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נסעת לפה ולשם</l>
+          <l>בשביל מה לטרוח בכלל</l>
+          <l>הרי בסוף תתקע עוד פעם</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אתה צריך אהבה חדשה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הלכת לבית חולים</l>
+          <l>בשביל מה, אתה הרי לא ממש חולה</l>
+          <l>אולי כבר כדאי לגמור עם זה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לשים איזה משהו על הראש</l>
+          <l>בשביל לא לראות</l>
+          <l>איזה בד שחור</l>
+          <l>או אולי פשוט לקשור</l>
+          <l>שקית פלסטיק</l>
+          <l>פשוט לקשור שקית על הראש.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אתה צריך אהבה חדשה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

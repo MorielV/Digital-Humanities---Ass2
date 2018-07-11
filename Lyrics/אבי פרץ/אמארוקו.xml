@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמארוקו</title>
+        <singer classification="male singer">אבי פרץ</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמארוקו</head>
+        <lg number="1" type="stanza">
+          <l>מים מתוקים דבש וצימוקים</l>
+          <l>טעמים בהם פונקתי</l>
+          <l>חוב שבי נשמר חוב שלא נגמר</l>
+          <l>את הנוף הזה ינקתי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אמארוקו בית אבי</l>
+          <l>מי היה מאמין שניפגש</l>
+          <l>אמארוקו בית אבי</l>
+          <l>אלוהים איך אני כאן מתרגש</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הלב נמשך אבל שייך כבר למקום רחוק מכאן</l>
+          <l>הלב נמשך אבל שייך כבר לכחול וללבן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>צל בסמטאות עוד ועוד מראות</l>
+          <l>ואני רוצה לגעת</l>
+          <l>עוד ועוד פגישה</l>
+          <l>יש לי הרגשה שהייתי כאן כבר פעם</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אמארוקו בית אבי...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הלב נמשך אבל שייך כבר למקום רחוק מכאן</l>
+          <l>הלב נמשך אבל שייך כבר לכחול וללבן</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אמארוקו בית אבי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

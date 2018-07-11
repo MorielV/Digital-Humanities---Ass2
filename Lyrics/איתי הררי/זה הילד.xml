@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה הילד</title>
+        <singer classification="unknown">איתי הררי</singer>
+        <writer>קטרין ברכה</writer>
+        <composer>עמוס כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה הילד</head>
+        <lg number="1" type="stanza">
+          <l>במקום מסתור מעמקי הנפש והנשמה</l>
+          <l>יושב לו ילד ששבוי בעולם הדממה</l>
+          <l>איתך הוא פוסע שותק ונקשר</l>
+          <l>נכנס אל גנזי הלב מחפש ונזכר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה הילד שבך דבק הילד שאליך זועק</l>
+          <l>תשוב לאבא תחזור והוא מבטיח לך לעזור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>במקום מסתור בין זכרונות וסיפור העבר</l>
+          <l>יושב לו ילד מחוזק אך תמיד מעורער</l>
+          <l>אותך הוא שומע ושואל שאלות</l>
+          <l>נופל קם ומנסה איתך לעלות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה הילד שבך דבק הילד שאליך זועק</l>
+          <l>תשוב לאבא תחזור והוא מבטיח לך לעזור</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

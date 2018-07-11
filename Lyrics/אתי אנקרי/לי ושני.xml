@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לי ושני</title>
+        <singer classification="female singer">אתי אנקרי</singer>
+        <writer>אתי אנקרי</writer>
+        <composer>אתי אנקרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לי ושני</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>גם לי וגם שני</l>
+          <l>שתיהן חברות שלי</l>
+          <l>עם שתיהן אני אוהב לשחק בגן</l>
+          <l>גם לי וגם שני</l>
+          <l>שתיהן חברות שלי</l>
+          <l>בגללן תמיד יוצא לי בלאגן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פעם לי אומרת לי</l>
+          <l>ששני היא לא שלי</l>
+          <l>היא רוצה שאשחק רק איתה היום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואחר כך גם שני</l>
+          <l>מבקשת שאני</l>
+          <l>אשחק רק איתה ואם לא שלום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גם לי וגם שני...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>פעם לי אומרת לי</l>
+          <l>שהכל רק בגללי</l>
+          <l>היא רוצה לצבוע לבדה היום</l>
+          <l>ואחר כך גם שאני</l>
+          <l>מבקשת שאני</l>
+          <l>לא אגע בצבע האדום</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אותי זה מבלבל</l>
+          <l>אז אני קצת משתולל</l>
+          <l>והופך את כל הגו דווקא לכולם</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אז שני וגם לי מסדרות בשבילי</l>
+          <l>ואחר כך הן אומרות</l>
+          <l>שולם לעולם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

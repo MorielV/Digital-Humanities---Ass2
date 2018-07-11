@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ישנוני</title>
+        <singer classification="female singer">אופירה גלוסקא</singer>
+        <writer>מירית שם אור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ישנוני</head>
+        <lg number="1" type="stanza">
+          <l>ואלה קורותיו של ישנוני נומי נום </l>
+          <l>הילד שאף פעם לא רצה לקום </l>
+          <l>החבר'ה קראו לו ישנוני המיושן </l>
+          <l>וזה בעיקר בגלל שתמיד הוא רק ישן </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ישן בעמידה, פהק אל המורים </l>
+          <l>באמצע הנסיעה נפל על אנשים </l>
+          <l>אבל הכי הרבה הוא אהב את הבקרים </l>
+          <l>במיוחד אם היו גשומים וסגריריים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי ישנוני בליל, ישנוני ביום, </l>
+          <l>ישנוני בבוקר רוצה להמשיך לישון </l>
+          <l>ישנוני בליל </l>
+          <l>ישנוני ביום </l>
+          <l>ישנוני בבוקר </l>
+          <l>רוצה להמשיך לישון </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היתה לו הבנה גדולה עם המיטה </l>
+          <l>מתחת לשמיכה היתה שמחת שינה </l>
+          <l>לטף את הכריות, כבה את האורות </l>
+          <l>נתן לחלומות ללכת במקומו </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כי ישנוני בליל, ישנוני ביום... </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>ישן כמו תינוק על פניו חיוך מתוק </l>
+          <l>אמר - שיקוי שינה בשבילי זו לא סחורה </l>
+          <l>ישנוני המיושן חורפ כל הימים </l>
+          <l>עיניו נעצמות בכל המצבים </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>כי ישנוני בליל, ישנוני ביום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

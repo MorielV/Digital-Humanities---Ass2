@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר עם סימנים</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>נתן אלתרמן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר עם סימנים</head>
+        <lg number="1" type="stanza">
+          <l>באוויר משתפך ערפל כחלב</l>
+          <l>והעיר היא כחולה וורודה</l>
+          <l>ומרחיב האדם את ליבו הנרעד</l>
+          <l>לשיכרון האוויר.</l>
+          <l>נקודה...אה אה...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רק אני מתבודד פה אתך לבדי</l>
+          <l>והרוח אלינו מביא אגדות</l>
+          <l>ואני את ראשך מלטף בידי</l>
+          <l>ואומר לך הגידי</l>
+          <l>שלוש נקודות ...אה אה ...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הגידי מדוע עצוב כה הים</l>
+          <l>ולמה עיניך צופנות אפילה</l>
+          <l>ולמה הנפש בבני האדם</l>
+          <l>נכספת לאושר</l>
+          <l>סימן שאלה? אה אה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את לעולם אל תלכי מעמי</l>
+          <l>כי אלייך נפשי מרקיעה</l>
+          <l>בשרי ודמי ומעבר לנצח</l>
+          <l>קוראים לך</l>
+          <l>שלושה סימני קריאה!!! אה אה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

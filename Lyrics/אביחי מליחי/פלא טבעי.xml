@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פלא טבעי</title>
+        <singer classification="unknown">אביחי מליחי</singer>
+        <writer>ורה קריגל</writer>
+        <composer>אביחי מליחי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פלא טבעי</head>
+        <lg number="1" type="stanza">
+          <l>על מרפסת יושב</l>
+          <l>מול שחרית יום חדש</l>
+          <l>אלוקים עוד אוהב</l>
+          <l>כוכבים מנצנצים מעל</l>
+          <l>שמיים אדמדמים סגולים</l>
+          <l>ערפילים עננים </l>
+          <l>וטל בין בתים</l>
+          <l>ואורות מתמזגים</l>
+          <l>ושני כלבים שוטים</l>
+          <l>מסתובבים ברחובות </l>
+          <l>ובוקר עולה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לראות ואז להאמין</l>
+          <l>ואני בתמיהה מתפלל</l>
+          <l>אלוקים עשה תן להבין</l>
+          <l>איך פלא תיראי מתנהג</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הירח נעלם ועימו כוכבים</l>
+          <l>מסתלק לו אט אט נחבא</l>
+          <l>הם כבים</l>
+          <l>ותפילה חרישית שעולה</l>
+          <l>אי שם בוקעת</l>
+          <l>ושיכור שנרדם</l>
+          <l>בסימטאות העיר</l>
+          <l>בגרונו של יבש</l>
+          <l>שוב בוקע שיר</l>
+          <l>ואלוקים מעל</l>
+          <l>בחסד יאיר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לראות ואז להאמין...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

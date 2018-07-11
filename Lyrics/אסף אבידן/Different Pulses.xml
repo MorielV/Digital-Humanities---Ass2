@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Different Pulses</title>
+        <singer classification="male singer">אסף אבידן</singer>
+        <writer>אסף אבידן</writer>
+        <composer>אסף אבידן</composer>
+        <album>Different Pulses</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Different Pulses</head>
+        <lg number="1" type="stanza">
+          <l>My life is like a wound I scratch so I can bleed</l>
+          <l>Regurgitate my words, I write so I can feed</l>
+          <l>And Death grows like a tree that's planted in my chest</l>
+          <l>Its roots are at my feet, I walk so it won't rest</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Oh, Baby I am Lost...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>I try to push the colors through a prism back to white</l>
+          <l>To sync our different pulses into a blinding light</l>
+          <l>And if love is not the key. If love is not a key.</l>
+          <l>I hope that I can find a place where it could be</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>I know that in your heart there is an answer to a question </l>
+          <l>That I'm not as yet aware that I have asked</l>
+          <l>And if that tree had not drunk my tears</l>
+          <l>I would have bled and cried for all the years </l>
+          <l>That I alone have let them pass</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>Oh, Baby I am yours...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

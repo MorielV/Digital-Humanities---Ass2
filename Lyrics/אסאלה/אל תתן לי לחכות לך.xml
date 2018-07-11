@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תתן לי לחכות לך</title>
+        <singer classification="female singer">אסאלה</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תתן לי לחכות לך</head>
+        <lg number="1" type="stanza">
+          <l>אתה פוגע לי בלב שלי</l>
+          <l>רוצה שכל זה יגמר</l>
+          <l>איך בשעות הכי קשות שלי</l>
+          <l>היית במקום אחר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא, אל תתן לי לחכות לך</l>
+          <l>אני לא יכולה יותר</l>
+          <l>אני יודעת שיבוא עוד יום</l>
+          <l>שבו אתה עוד תצטער</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והימים שלי קשים לי יותר</l>
+          <l>לא נרדמתי בלילות</l>
+          <l>וכל המחשבות גדולות באות</l>
+          <l>עושות לי סבב זכרונות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא, אל תתן לי לחכות לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

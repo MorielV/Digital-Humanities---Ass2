@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הגיבור האחרון</title>
+        <singer classification="male singer">אורן חן</singer>
+        <writer>אופיר טבה</writer>
+        <composer>אורן חן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הגיבור האחרון</head>
+        <lg number="1" type="stanza">
+          <l>גברים בצבע זית</l>
+          <l>חזרו לראות את אמא</l>
+          <l>אותך חיבקה רק אמא אדמה</l>
+          <l>כל הכוחות חוזרים</l>
+          <l>איש לא צועק קדימה</l>
+          <l>אומרים שהסתיימה המלחמה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמו עץ שקד פורח</l>
+          <l>תמיד חיוך שולח</l>
+          <l>וצחוק שמתגלגל במלוא הגרון</l>
+          <l>מלאכים שוכני שמים</l>
+          <l>הצדיעו לו בפתח</l>
+          <l>קבלו את הגיבור האחרון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גברים בצבע זית</l>
+          <l>חזרו לראות את אמא</l>
+          <l>עוד יום וגם אתה היית כאן</l>
+          <l>ואמא כבר בבית</l>
+          <l>בישלה וגם הכינה</l>
+          <l>מחר חוזר הילד הקטן</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

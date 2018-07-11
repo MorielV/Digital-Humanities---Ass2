@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האהבה שלך היא ברז</title>
+        <singer classification="male singer">אבנר שטראוס</singer>
+        <writer>אבנר שטראוס</writer>
+        <composer>אבנר שטראוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האהבה שלך היא ברז</head>
+        <lg number="1" type="stanza">
+          <l>האהבה שלך היא ברז</l>
+          <l>את יכולה לפתוח ולסגור</l>
+          <l>כשאת משקה אותי ממנה</l>
+          <l>אז אני נהיה שיכור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אבל כשאת סוגרת</l>
+          <l>תאמיני זה כואב</l>
+          <l>כשאת באה והולכת כך</l>
+          <l>זה עושה לי יבלות בלב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא תמיד הזורע</l>
+          <l>פוגש בסוף את הקוצר</l>
+          <l>ולא תמיד העוד</l>
+          <l>יוצא בסוף יותר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

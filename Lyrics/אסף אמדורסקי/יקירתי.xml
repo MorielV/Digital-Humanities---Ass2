@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יקירתי</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אסף אמדורסקי</writer>
+        <composer>אסף אמדורסקי</composer>
+        <album>אסף אמדורסקי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יקירתי</head>
+        <lg number="1" type="stanza">
+          <l>יקירתי, יקירתי,</l>
+          <l>חמקתי מבין זרועותייך</l>
+          <l>שלושה שבועות שהתארכו עד למאוד</l>
+          <l>אך במהרה אשוב אלייך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יקירתי, יקירתי,</l>
+          <l>חמקתי מבין זרועותייך רפה ותשוש</l>
+          <l>שלושה שבועות היו דרושים לי עד לאין שיעור</l>
+          <l>אך בסופם, במהרה, אשוב אלייך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בקרוב את תדברי אלי שוב</l>
+          <l>וגופי ירגיש את חומך ואת נשימותייך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אשוט אלייך כמו ספינה</l>
+          <l>כמו רוח איתנה אבוא לראות</l>
+          <l>כן, בוא אבוא ובמהרה</l>
+          <l>עטור בניצחון אשוב אלייך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בקרוב את תדברי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

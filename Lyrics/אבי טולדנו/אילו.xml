@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אילו 2</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אבי טולדנו</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אילו</head>
+        <lg number="1" type="stanza">
+          <l>אילו הייתם באים אחרי</l>
+          <l>ולא הייתם נשכבים על החוף</l>
+          <l>ולא הייתם מוותרים על הכול</l>
+          <l>אולי היינו נראים אחרת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אילו הייתם אוחזים בידי</l>
+          <l>ולא הייתם מתפזרים ברוח</l>
+          <l>ולא הייתם טובעים במים</l>
+          <l>אולי אז היינו נראים אחרת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יום יום אחר יום</l>
+          <l>שנה אחר שנה</l>
+          <l>עיני רואות פחות</l>
+          <l>עיני בוכות יותר</l>
+          <l>יום יום אחר יום</l>
+          <l>שנה אחר שנה</l>
+          <l>לא אזכור את הדרך</l>
+          <l>לא אדע להוביל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אילו הייתם שומעים לדברי</l>
+          <l>ולא הייתם אוטמים שמיים</l>
+          <l>ולא הייתם חוסמים את האור</l>
+          <l>אולי היינו נראים אחרת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אילו הייתם קמים אחרי</l>
+          <l>עכשיו וללא כל תנאי</l>
+          <l>לשנות את כל שלא ניתן</l>
+          <l>אולי אז היינו נראים אחרת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יום יום אחר יום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

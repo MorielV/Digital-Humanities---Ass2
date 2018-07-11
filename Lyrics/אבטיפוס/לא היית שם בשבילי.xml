@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא היית שם בשבילי</title>
+        <singer classification="band">אבטיפוס</singer>
+        <writer>שרון הולצמן</writer>
+        <composer>שרון הולצמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא היית שם בשבילי</head>
+        <lg number="1" type="stanza">
+          <l>כשאני נזכר לחפש אלוהים</l>
+          <l>הוא לא יכול היה לברוא בדיחה יותר מוצלחת</l>
+          <l>אולי תקחי טיול איתי לצד השני של החיים</l>
+          <l>מהלכים על חבל דק, מצטטים את פליני</l>
+          <l>מישהו רחוק היה יכול לעזור לי</l>
+          <l>אני לא יכול שלא לחשוב רק על עצמי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא, לא היית שם בשבילי</l>
+          <l>לא, לא היית שם בשבילי</l>
+          <l>לא, לא היית שם</l>
+          <l>כשאני צריך אותך את לא איתי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המכתבים שאת שולחת עושים אותי עצוב</l>
+          <l>אני ואת אומרים תמיד את מה שלא חשוב</l>
+          <l>אני נזכר בך מחייכת כשאיבדתי את הדרך שלי</l>
+          <l>ואני מסתובב, מעייף את עצמי</l>
+          <l>נאבק בתחושות שלי לבד בחושך</l>
+          <l>הנה אנחנו עכשיו שני אוייבים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא, לא היית שם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

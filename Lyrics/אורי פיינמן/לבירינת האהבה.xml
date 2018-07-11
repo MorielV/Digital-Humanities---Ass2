@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לבירינת האהבה</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>פול אנקה</writer>
+        <composer>פול אנקה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לבירינת האהבה</head>
+        <lg number="1" type="stanza">
+          <l>תני לי לאחוז אותך,</l>
+          <l>תני להיאחז רק בך,</l>
+          <l>בואי, בואי, היצמדי,</l>
+          <l>איתי הלילה תרקדי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בואי, בואי, לאהוב,</l>
+          <l>אני אותך לא אעזוב,</l>
+          <l>כאן ממש בתוך תוכי,</l>
+          <l>הן את שלי הכי, הכי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אוהבת,</l>
+          <l>את אותי מסובבת,</l>
+          <l>ריקוד סובב, סובב,</l>
+          <l>מכה, מכה הלב,</l>
+          <l>אוהב,</l>
+          <l>אוהב,</l>
+          <l>אוהב אותך, אוהב.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שם בשקט הכחול,</l>
+          <l>נסחף עם המחול,</l>
+          <l>עוד מגע ועוד קרבה,</l>
+          <l>בלבירינת האהבה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אוהבת...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שם בשקט הכחול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

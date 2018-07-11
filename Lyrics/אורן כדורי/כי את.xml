@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כי את 2</title>
+        <singer classification="unknown">אורן כדורי</singer>
+        <writer>אורן כדורי</writer>
+        <composer>אורן כדורי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כי את</head>
+        <lg number="1" type="stanza">
+          <l>כבר בוקר במרכז תל אביב</l>
+          <l>את נכנסת, מביטה מסביב</l>
+          <l>מתיישבת לקפה ועוגה</l>
+          <l>ובוחנת את כל מי שבא</l>
+          <l>את צודקת, את תמיד מרגישה</l>
+          <l>שאף אחד בעולם הזה לא מבין... אותך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את אומרת, מה שבא לך לומר</l>
+          <l>לא עוצרת, כאילו אין לך מחר</l>
+          <l>לא מובנת, ואולי לא רוצה</l>
+          <l>שיבינו, את הדרך שלך</l>
+          <l>את צודקת, את תמיד מרגישה</l>
+          <l>שאף אחד בעולם הזה לא מבין... אותך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כי את, את משחקת בכולם,</l>
+          <l>חושבת שהם כלי שחמט</l>
+          <l>את מזיזה אותם לאט</l>
+          <l>ואת, חושבת שהכל מותר</l>
+          <l>שזה משחק ללא חוקים</l>
+          <l>בו את מלכה בלי עוררין.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>צהריים, זה כבר אמצע היום,</l>
+          <l>את צועקת, שיביאו חשבון,</l>
+          <l>אני שואל אותך, מה עזרה הצעקה?</l>
+          <l>את הולכת בתחושה של חוצפה,</l>
+          <l>את צודקת, את תמיד מרגישה</l>
+          <l>שאף אחד בעולם הזה לא מבין... אותך.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כי את, את משחקת בכולם...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>וגם אם לא תמיד אני מסכים</l>
+          <l>גם כשאת מחמיצה פנים</l>
+          <l>אני כאן, עדיין איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רותי 4</title>
+        <singer classification="male singer">אברהם פררה</singer>
+        <writer>חיים חפר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רותי</head>
+        <lg number="1" type="stanza">
+          <l>לי כל גל נושא מזכרת</l>
+          <l>מן הבית, מן החוף,</l>
+          <l>מן העצים יפי צמרת</l>
+          <l>וזהב שלכת בת חלוף.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הנשאי, ספינה, ושוטי -</l>
+          <l>מה רבים הכיסופים</l>
+          <l>לי נערה יש ושמה רותי,</l>
+          <l>המצפה באלה החופים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תכול עיניה כשמיים</l>
+          <l>מבטה כלהבה.</l>
+          <l>לו אך נשקתי השפתיים</l>
+          <l>אז ידעתי מה זאת אהבה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>סער, הספינה חורקת,</l>
+          <l>תקפץ מגל אל גל.</l>
+          <l>אלי עם רעם היא צוחקת</l>
+          <l>ועם רוח לי תפרע תלתל.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

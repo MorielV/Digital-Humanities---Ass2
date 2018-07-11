@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Disciple</title>
+        <singer classification="male singer">אסף אבידן</singer>
+        <writer>אסף אבידן</writer>
+        <composer>אסף אבידן</composer>
+        <album>Different Pulses</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>The Disciple</head>
+        <lg number="1" type="stanza">
+          <l>Lying on the floor, I hear it pounding down the door</l>
+          <l>All them fuzzy, awful thoughts are floating into shore</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>See these broken strings, you tore them with your lazy heart</l>
+          <l>The wind in our open, tired grave - it's tearing us apart</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>Cry! Oh angel cry</l>
+          <l>Your favorite disciple is tearing out his eyes</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>All the things these eyes have seen, this time they've really crossed the line</l>
+          <l>I think I'll pack up all my shit and cross to Palestine</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>Strip down all my clothes, I'm gonna run into the wild</l>
+          <l>Leave you with my bitter wounds, leave you with my pride</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>Cry! Oh angel cry</l>
+          <l>Your favorite disciple is tearing out his eyes</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

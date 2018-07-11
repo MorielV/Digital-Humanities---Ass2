@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיש 3</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>בדרך שלך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיש</head>
+        <lg number="1" type="stanza">
+          <l>נפגשנו לפני שנה בשדה של שיש</l>
+          <l>השמיים בכו והים היה סוער</l>
+          <l>אה אה... היה אפור אני זוכר</l>
+          <l>אה אה... היית אחר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נפגשנו לראשונה בחופשת הקיץ</l>
+          <l>בשנות השבעים של "הנוער העובד"</l>
+          <l>אה אה... את "הדלתות" אני זוכר</l>
+          <l>אה אה... היית חבר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם בזכות העצב תדע, תכול עיניים,</l>
+          <l>שליבה מהול בליבך כמו אוויר במים,</l>
+          <l>תתלהב מכל פרחי הבר</l>
+          <l>אולי תדע שאתה שוב מאושר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תראה לבבות, בשמי זהב תראה זריחות,</l>
+          <l>תראה עולם שאין בו מלחמות,</l>
+          <l>תגשים חלומות, כדי לחלום צריך לחיות</l>
+          <l>כדי לחיות צריך להשתנות.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אחרי שכבר מיצית הכל, חלפו שנתיים,</l>
+          <l>האהבה ניצחה בגדול, פקח עיניים,</l>
+          <l>לך אחרי מה שאומר ליבך</l>
+          <l>עכשיו היא מוכנה לחיות איתך.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תראה לבבות, בשמי זהב תראה זריחות,</l>
+          <l>תראה עולם שאין בו מלחמות,</l>
+          <l>תגשים חלומות, כדי לחלום צריך לחיות</l>
+          <l>כדי לחיות צריך להשתנות.</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>נפגשנו לפני שנה בשדה של שיש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

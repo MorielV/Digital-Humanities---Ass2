@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תתעורר</title>
+        <singer classification="male singer">אמיר פיי גוטמן</singer>
+        <writer>אמיר פיי גוטמן</writer>
+        <composer>אמיר פיי גוטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תתעורר</head>
+        <lg number="1" type="stanza">
+          <l>בוא תיקח עוד ניסיון אחד להתנער</l>
+          <l>מהרחמים המתוקים שלקחת לעצמך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש לך ת'זכות להרגיש מה שתרצה</l>
+          <l>אבל אנחנו כאן חיים</l>
+          <l>בארץ של המתאמצים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תתעורר כבר בן אדם</l>
+          <l>החיים לא דיסקו, לא כאן</l>
+          <l>תהיה שפוי קצת, תהיה מוכן</l>
+          <l>להתחיל לחיות כבר כמו בן אדם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בוא אלי, בוא חפש את הגיבור שלך</l>
+          <l>בוא תלמד ממנו איך עושים מזיעה סוכר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש לך יכולת לעשות מה שתרצה</l>
+          <l>אז תצטרף אלינו לחיים בארץ של המשתדלים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תתעורר כבר בן אדם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קח אותי לשדה</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קח אותי לשדה</head>
+        <lg number="1" type="stanza">
+          <l>קח אותי </l>
+          <l>לשדה הפתוח</l>
+          <l>שם זרוע אשר ינצל </l>
+          <l>קח אותי </l>
+          <l>אל העץ הנטוע</l>
+          <l>שם הכעס ינוח בצל </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פעם דמיינו </l>
+          <l>חורש ליער אבות </l>
+          <l>וחורבה לטירת מלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קח אותי</l>
+          <l>אל העיר העומדת </l>
+          <l>על שכבות העפר הצבור </l>
+          <l>קח אותי</l>
+          <l>איזו יד מלמדת </l>
+          <l>מדביקה את הכד השבור</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

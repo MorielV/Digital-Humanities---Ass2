@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלווה</title>
+        <singer classification="male singer">אבי פרץ</singer>
+        <writer>אבי קורן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלווה</head>
+        <lg number="1" type="stanza">
+          <l>על המחנה נדלק ירח</l>
+          <l>על המאהל כוכב זורח</l>
+          <l>והזמן כמו גומי מתמרח</l>
+          <l>ליל שבת בלי טעם ובלי ריח</l>
+          <l>והשקט את הלב קורע.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איזו מן שלוה ולא עושים שום דבר</l>
+          <l>איזו מן שלוה ועוד שבוע עבר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השבת בכלל אינה עוברת</l>
+          <l>כבר קראנו את עיתון הערב</l>
+          <l>שרנו כבר שירי מגל וחרב</l>
+          <l>כבר תפרנו את החור בגרב</l>
+          <l>ופתרנו תשבצים בלי הרף</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איזו מן שלוה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אף מכתב ממך עוד לא הגיע</l>
+          <l>עוד מעט המפקד יופיע</l>
+          <l>ויחזור ודאי שוב להבטיח</l>
+          <l>בקרוב לרגילה אגיע</l>
+          <l>שתיקני שוב שניים ביציע.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>איזו מן שלוה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

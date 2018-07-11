@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בסוף אמצא אותך</title>
+        <singer classification="unknown">ארז טובינא</singer>
+        <writer>רמי לב</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בסוף אמצא אותך</head>
+        <lg number="1" type="stanza">
+          <l>עומד מתחת לשמיים</l>
+          <l>ואת ממני רחוקה</l>
+          <l>הריח של גופך </l>
+          <l>הולך איתי בכל דקה</l>
+          <l>ומחכה שתחזרי</l>
+          <l>עם החיוך והמבט</l>
+          <l>ולתמיד תישארי</l>
+          <l>שלא אהיה יותר לבד...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בסוף אמצא אותך</l>
+          <l>גם אם אפליג אל הירח</l>
+          <l>יודע שנבראתי לך</l>
+          <l>האהבה עוד תנצח..</l>
+          <l>בסוף אמצא אותך</l>
+          <l>גם אם אפליג אל הירח</l>
+          <l>יודע שנבראתי לך, אהובתי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זו ברית האהבה שלנו</l>
+          <l>אותה חתמנו בנשיקה</l>
+          <l>וחלומות יפים,</l>
+          <l>חלמנו בזריחה</l>
+          <l>את חלק מחיי,</l>
+          <l>איתך הייתי מאושר</l>
+          <l>ביום שתחזרי אלי</l>
+          <l>יתגשמו חלומותיƔ</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בסוף אמצא אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

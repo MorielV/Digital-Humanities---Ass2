@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לנוע</title>
+        <singer classification="female singer">איילה אינגדשט</singer>
+        <writer>עממי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לנוע</head>
+        <lg number="1" type="stanza">
+          <l>עת...</l>
+          <l>עת ללדת ועת למות</l>
+          <l>עת...</l>
+          <l>את לטעת ועת לעקור</l>
+          <l>עת...</l>
+          <l>עת להרוג ועת לרפוא</l>
+          <l>עת...</l>
+          <l>עת לפרוץ ועת לבנות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בזמן המתאים ברגע הנכון</l>
+          <l>יש פתרון</l>
+          <l>בזמן המתאים ברגע הנכון</l>
+          <l>יש פתרון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לנוע......</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עת...</l>
+          <l>עת לבקש ועת לאבד</l>
+          <l>עת...</l>
+          <l>עת לשמור ועת להשליך</l>
+          <l>עת...</l>
+          <l>עת לקרוע ועת לתפור</l>
+          <l>עת...</l>
+          <l>עת לחשות ועת לדבר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בזמן המתאים ברגע הנכון</l>
+          <l>יש פתרון</l>
+          <l>בזמן המתאים ברגע הנכון</l>
+          <l>יש פתרון</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לנוע....</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>עת לדעת ועת להיות</l>
+          <l>תמיד ללכת אל תעומד</l>
+          <l>תמיד לנוע...</l>
+          <l>תן לסלוח ותן ללב להפתח</l>
+          <l>גם אם זה כואב</l>
+          <l>תמיד לנוע...</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>לנוע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

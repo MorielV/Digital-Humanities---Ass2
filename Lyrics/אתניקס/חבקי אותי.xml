@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חבקי אותי</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>13</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חבקי אותי</head>
+        <lg number="1" type="stanza">
+          <l>מתוך יאוש או מלחמה</l>
+          <l>מתוך תקווה או השלמה</l>
+          <l>בסוף היום אגיע אליך</l>
+          <l>ארצה חיבוק קטן, אפול לידייך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חבקי אותי, עורך קטיפה</l>
+          <l>אתן לך את חיי</l>
+          <l>כשאת איתי השמש מעלי</l>
+          <l>חבקי חזק חיבוק חונק</l>
+          <l>גופך נצמד אלי</l>
+          <l>הלב דופק, את זורמת בעורקיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתוך כאב, מתוך מחסור</l>
+          <l>מאהבה אני שיכור</l>
+          <l>מ"כביש הנלהבים" חזרתי אלייך</l>
+          <l>לשם חיבוק אוהב, לטעם שפתייך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חבקי אותי, עורך קטיפה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו בבגדאד</title>
+        <singer classification="male singer">אופיר נפקר</singer>
+        <writer>אופיר נפקר</writer>
+        <composer>יוסי נפקר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו בבגדאד</head>
+        <lg number="1" type="stanza">
+          <l>אני רוצה אישה </l>
+          <l>שתרקוד איתי בשניים </l>
+          <l>שתאהב אותי עד השמיים </l>
+          <l>שתהיה איתי תמיד לעד </l>
+          <l>כמו בבגדאד </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני רוצה אותה </l>
+          <l>יפה כמו הליל </l>
+          <l>שתהיה תמיד תמיד איתי בבית </l>
+          <l>ולא תשאיר אותי לבד </l>
+          <l>כמו בבגדאד </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כמו בבגדאד </l>
+          <l>שם הרוח מנשבת </l>
+          <l>אוהב אותך </l>
+          <l>ואת אותי אוהבת </l>
+          <l>חול ותמרים כדבש </l>
+          <l>על שפתייך </l>
+          <l>דינרי זהב </l>
+          <l>אשליך לרגלייך </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ארד אל המרפסת </l>
+          <l>בפיג'מה מפוספסת </l>
+          <l>אתן לך נשיקה </l>
+          <l>ותגידי אתה עשר </l>
+          <l>כמו עלי באבא אני בא </l>
+          <l>בא אל בגדאד </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אקשור לך מתנה </l>
+          <l>ח'מסה על עינייך </l>
+          <l>בשמש החמה </l>
+          <l>ארקוד לפנייך </l>
+          <l>ברחוב שאריע אל ראשיד </l>
+          <l>אני אשיר </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כמו בבגדאד </l>
+          <l>שם הרוח מנשבת </l>
+          <l>אוהב אותך </l>
+          <l>ואת אותי אוהבת </l>
+          <l>חול ותמרים כדבש </l>
+          <l>על שפתייך </l>
+          <l>דינרי זהב </l>
+          <l>אשליך לרגלייך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כשאחר</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>נועם חורב</writer>
+        <composer>רותם כהן</composer>
+        <album>חלק מחיי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כשאחר</head>
+        <lg number="1" type="stanza">
+          <l>כשאחר יסתנוור מהאור שבעינייך</l>
+          <l>יטעם את הטעם של שמך</l>
+          <l>יחבק וישתיק בשתי ידיו את כל פחדייך</l>
+          <l>כשאחר יתעורר לצידך</l>
+          <l>כשאחר יבין את כוחן של הדמעות</l>
+          <l>ישבר בצל של בכייך</l>
+          <l>יתקרב וילחש לך את כל הסודות</l>
+          <l>כשאחר יאחז בידך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק אז אני אשבר לאט אצעק בשמך כמעט</l>
+          <l>כשאחר יתאהב ויגלה אותך</l>
+          <l>אחכה רק לך גם אם אהיה לבד</l>
+          <l>כי אינני יכול אינני יכול בלעדייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאחר יקנא לך מרוב אהבה</l>
+          <l>לאט ישתנה בשבילך</l>
+          <l>יכאיב לעצמו כשאת קצת עצובה</l>
+          <l>כשאחר יגור בליבך</l>
+          <l>כשאחר יבקש אז ברגע מתוק</l>
+          <l>רק לחיות את חייו לצידך</l>
+          <l>אז אני אתפרק לבד וקצת רחוק</l>
+          <l>כשאחר יזדקן לצידך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק אז אני אשבר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

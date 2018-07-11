@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עונת הצייד</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אבי טולדנו</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עונת הצייד</head>
+        <lg number="1" type="stanza">
+          <l>חייב להיזרק</l>
+          <l>חייב להתפרק</l>
+          <l>אני יוצא לשטח משוחרר</l>
+          <l>שחרור מה - לאן</l>
+          <l>עילום מהקורבן</l>
+          <l>אני מודה בכלל לא נאמן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עונת הצייד נפתחה מזמן</l>
+          <l>הרישיון עכשיו בתוקף ומוכן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא זה זמן שאול</l>
+          <l>אני גם לא נעול</l>
+          <l>אם זה היה רק תלוי בי</l>
+          <l>הייתי נשאר בביתי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זוכר את השיטה</l>
+          <l>הו כמה את יפה</l>
+          <l>אוהב אולי את זו שלידה</l>
+          <l>טוחן הזיות</l>
+          <l>מפזר הבטחות</l>
+          <l>אשת חיי מסתובבת בלילות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עונת הצייד נפתחה מזמן</l>
+          <l>הרישיון עכשיו בתוקף ומוכן</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לא זה זמן שאול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

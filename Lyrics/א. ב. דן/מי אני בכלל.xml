@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מי אני בכלל</title>
+        <singer classification="unknown">א ב דן</singer>
+        <writer>א. ב. דן</writer>
+        <composer>א. ב. דן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מי אני בכלל</head>
+        <lg number="1" type="stanza">
+          <l>אומר שלום בדרך כלל ולא מוסיף מילה</l>
+          <l>חושב שהוא האיש הכי מתאים בשבילה</l>
+          <l>עליה כל הזמן רק חולם בשיעורים</l>
+          <l>אולי כדאי למען זה לפנות לאלוהים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כותב איזה חיבור קצר ולפעמים גם שר</l>
+          <l>מתי סוף סוף כבר יהיה הוא מאושר</l>
+          <l>הזמן חולף שורק לא עוברים השיעורים</l>
+          <l>אולי כדאי למען זה לפנות לאלוהים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מי אני בכלל</l>
+          <l>אולי בכלל חבל</l>
+          <l>מי אני בכלל</l>
+          <l>אולי בכלל חבל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אומר שלום בדרך כלל ורק בהפסקה</l>
+          <l>אולי הוא מחכה אולי הוא עוד לא מצא</l>
+          <l>עליה כל הזמן רק חולם בשיעורים</l>
+          <l>אולי כדאי למען זה לפנות לאלוהים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מי אני בכלל</l>
+          <l>אולי בכלל חבל</l>
+          <l>מי אני בכלל</l>
+          <l>אולי בכלל חבל</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>החלום המתוק התגשם בחלום</l>
+          <l>והיום הוא ורוד ומחר הוא אדום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

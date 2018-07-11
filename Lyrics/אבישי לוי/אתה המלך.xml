@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתה המלך 2</title>
+        <singer classification="unknown">אבישי לוי</singer>
+        <writer>שלומית צברי</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתה המלך</head>
+        <lg number="1" type="stanza">
+          <l>אתה המלך של חיי אחד ואין שני לו</l>
+          <l>מגשים את חלומותי ותפילתי אשא לו </l>
+          <l>אם התעורר ליום עצוב אתה המשמח </l>
+          <l>מחזיר לי את נשמתי את הכאב לוקח </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק אתה מושך אותי קדימה </l>
+          <l>רק לך פותח את ליבי</l>
+          <l>לעולם זוכר ולא שוכח </l>
+          <l>שבך אני בוטח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רופא לכל תחלואי זעקותי שומע</l>
+          <l>וממלא את כל ימי עושה אותי שמח </l>
+          <l>עכשיו השמש מעלי והענן נוסע </l>
+          <l>ואני שר במיתרי בשביל זהב פוסע </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק אתה מושך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

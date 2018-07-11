@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חיי אדם בין סורגים</title>
+        <singer classification="unknown">אלון חסון</singer>
+        <writer>אלון חסון</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חיי אדם בין סורגים</head>
+        <lg number="1" type="stanza">
+          <l>כל חיי סגור אני אחרי חומות</l>
+          <l>ודרכי דרכים שונות ואסורות</l>
+          <l>טעויות רבות פיזרתי בכל עבר</l>
+          <l>זעקתי לאל נשמעת זה בסדר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מדמיין לי את השמש</l>
+          <l>מדמיין לי כוכבים</l>
+          <l>מרירות שינאה והרס</l>
+          <l>חיי אדם בין סורגים</l>
+          <l>בליבי אבד הרגש</l>
+          <l>ובורחים לי השנים</l>
+          <l>מפטר כל יום בחדר</l>
+          <l>וסופר הצעדים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החיים הפכו קרים בתוך גופי</l>
+          <l>אין לי כח להמשיך ילדה שלי</l>
+          <l>רק רוצה ילדה שאותי תביני</l>
+          <l>בדמעות כותב מכתב אנא סילחי לי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>(מאחר שהורשע פשע</l>
+          <l>אנו בית המשפט גוזרים בדינו</l>
+          <l>מאסר עולם בפועל</l>
+          <l>מאחורי סורג ובריח)</l>
+          <l>לאאאאאאאאאא לאאא לא</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מדמיין לי את השמש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

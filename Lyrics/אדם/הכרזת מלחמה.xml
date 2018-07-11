@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הכרזת מלחמה</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>אלונה קמחי</writer>
+        <composer>יזהר אשדות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הכרזת מלחמה</head>
+        <lg number="1" type="stanza">
+          <l>נמאס מאותה השגרה,</l>
+          <l>נשבר ורוצה לצעוק די!</l>
+          <l>נחנק בשורה השחורה,</l>
+          <l>של חוקים שכפיתם עלי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא אלמד שיעורים איך לחיות</l>
+          <l>לא עוד עקרונות וכללים</l>
+          <l>אותי אף אחד לא יישפוט</l>
+          <l>כי לי יש אמת משלי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא רוצה להבין</l>
+          <l>לא נכנע לא בורח</l>
+          <l>עכשיו כבר ברור בשביל מה</l>
+          <l>חש חזק מפנים ויותר לא סולח</l>
+          <l>כי זאת הכרזת מלחמה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לכם, שנכנעתם מזמן</l>
+          <l>אותי בספק לא אתן</l>
+          <l>לא אהיה עוד בורג קטן</l>
+          <l>במכונה השחוקה שלכם</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נכון, בדרכי החיים</l>
+          <l>טעיתי וודאי לא מעט</l>
+          <l>אולי אך בדרך שלי</l>
+          <l>אני הצודק המוחלט.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא רוצה להבין...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

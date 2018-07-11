@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא מאופס</title>
+        <singer classification="unknown">אביב חשמונאי</singer>
+        <writer>שי שושן</writer>
+        <composer>שי שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא מאופס</head>
+        <lg number="1" type="stanza">
+          <l>כל הזמן חושב עלייך</l>
+          <l>ואין לי רגע או שניה</l>
+          <l>להתרכז במחשבה אחרת</l>
+          <l>הלב פשוט רוצה אלייך</l>
+          <l>את מתוקה ואין שליטה</l>
+          <l>על זה אני בך מאוהב כמו משוגע</l>
+          <l>אני מאהבה יודע רק אותך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא מאופס איך הלב שלי נתפס</l>
+          <l>אני מכור לאהבה שלך</l>
+          <l>את נכנסת לי חזק לנשמה</l>
+          <l>את נותנת אהבה</l>
+          <l>רק איתך הכל מושלם כל כך</l>
+          <l>לא חושב על שום דבר רוצה אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איתך מרגיש כה מאושר</l>
+          <l>אני תמיד אלייך שר</l>
+          <l>עומד עם זר פרחים גדול בדלת</l>
+          <l>חולם איתך את המחר</l>
+          <l>את מתוקה לך אין שנייה</l>
+          <l>לכן אני בך מאוהב כמו משוגע</l>
+          <l>אני מאהבה יודע רק אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא מאופס...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

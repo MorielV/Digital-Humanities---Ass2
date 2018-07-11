@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני ושלי</title>
+        <singer classification="unknown">אורן אדרי</singer>
+        <writer>יעל ידן</writer>
+        <composer>אורן אדרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני ושלי</head>
+        <lg number="1" type="stanza">
+          <l>לבסוף את מוצאת את עצמך על גג של שני מטר </l>
+          <l>בראשו של החודש, על כתפי העולם </l>
+          <l>והים נמצא בכל מקום, בכל מקום </l>
+          <l>ניצנוצי אפריל של בוקר, תתעוררי כבר </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואת חולמת, את עצמך, את חולמת </l>
+          <l>ופתאום את פיה ומזמזמת מילים שנעלמות תוך שניה </l>
+          <l>והכנפיים נקרעות, והבטן נפתחת </l>
+          <l>זו השמש, קוראת לך מבחוץ </l>
+          <l>תתעוררי אלי, תתעוררי אלי </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לבסוף את מוצאת את עצמך על גג של שני מטר </l>
+          <l>בראשו של החודש, על כתפי העולם </l>
+          <l>והים לא נחמד עוד, סערות את אומרת </l>
+          <l>סערות מתרגשות עלי לחינם </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואת חולמת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

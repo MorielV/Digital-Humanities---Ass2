@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו בסרטים של דיסני</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>אילן וירצברג</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו בסרטים של דיסני</head>
+        <lg number="1" type="stanza">
+          <l>אתה תמיד רוצה עוד</l>
+          <l>אתה רוצה לחיות</l>
+          <l>רוצה לחיות לנצח</l>
+          <l>אף פעם לא להזדקן</l>
+          <l>כמו בסרטים של דיסני</l>
+          <l>שהנסיך והנסיכה</l>
+          <l>חיים באושר עד היום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתה תמיד רוצה יותר</l>
+          <l>אתה רוצה לעוף</l>
+          <l>רוצה לעוף גבוה</l>
+          <l>רוצה לעוף כמו סופרמן</l>
+          <l>כמו בסרטים של דיסני</l>
+          <l>שנופלים ומתרסקים</l>
+          <l>אך נשארים שלמים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>חיים כמו בסרטים</l>
+          <l>ורודפים אחרי הזמן</l>
+          <l>בורחים כמו שפנים</l>
+          <l>מסתתרים מהאמת</l>
+          <l>שמתגלה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אתה תמיד רוצה כוח</l>
+          <l>אתה רוצה לכבוש</l>
+          <l>רוצה לכבוש בכוח</l>
+          <l>חושב שאפשר לשכוח</l>
+          <l>כמו בסרטים של דיסני</l>
+          <l>שהרעים מתים</l>
+          <l>אבל חוזרים בחזרה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>חיים כמו בסרטים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

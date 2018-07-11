@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>והיום את שונה</title>
+        <singer classification="male singer">איציק שמלי</singer>
+        <writer>איציק שמלי</writer>
+        <composer>ג'ורג'וס מוקידיס</composer>
+        <album>החמצן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>והיום את שונה</head>
+        <lg number="1" type="stanza">
+          <l>ברחובות ירד השקט והחושך כבר בדלת</l>
+          <l>וכולם ישנים ליל מנוחה.</l>
+          <l>ואני לבד יושב לי, כבר שבוע לא נרדמתי,</l>
+          <l>זכרונות הולמים בחוזקה,</l>
+          <l>את בחדר ישנה וזה נראה שאת את אינך וגם אורך כבה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והיום את שונה, זה כאילו הפכת לאחרת,</l>
+          <l>לא אותה התמונה נשארה לי רק המסגרת והיום את שונה,</l>
+          <l>את השער ללב את סגרת לי,</l>
+          <l>רק חיזרי אהובה, אל אותה הילדה בה התאהבתי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה עצוב אצלך בנפש, מה עוצר,</l>
+          <l>לך את הרגש, איך אוכל לגרום לך לחייך,</l>
+          <l>קחי אותי לך למשענת, רק תאמרי שאת חוזרת,</l>
+          <l>את הכל אתן למענך,</l>
+          <l>ואני עומד בפתח לליבך,</l>
+          <l>ומחכה לך עדיין יקרה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והיום את שונה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

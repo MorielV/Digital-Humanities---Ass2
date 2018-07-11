@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ריקוד חושני</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>דני ישראלי</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ריקוד חושני</head>
+        <lg number="1" type="stanza">
+          <l>תני לי - להמיס את הקרח</l>
+          <l>תני לי – להצית להבה</l>
+          <l>תני לי אותך לשמח</l>
+          <l>תני לי – לחדש אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בואי נלך יד ביד</l>
+          <l>זוכרת הבטחת לי</l>
+          <l>נצחק על כולם</l>
+          <l>בואי נחזיר את האושר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בואי נלך יד ביד</l>
+          <l>זוכרת הבטחת לי</l>
+          <l>נרקוד עד הבוקר</l>
+          <l>זה סוף העולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תני לי – חיבוק אמיתי</l>
+          <l>תני לי – ריקוד חושני</l>
+          <l>תני לי - אותך לצידי</l>
+          <l>עד הסוף רק איתי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בואי נלך יד ביד</l>
+          <l>זוכרת הבטחת לי</l>
+          <l>נצחק על כולם</l>
+          <l>בואי נחזיר את האושר</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בואי נלך יד ביד</l>
+          <l>זוכרת הבטחת לי</l>
+          <l>נרקוד עד הבוקר</l>
+          <l>זה סוף העולם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

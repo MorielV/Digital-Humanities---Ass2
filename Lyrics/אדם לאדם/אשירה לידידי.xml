@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אשירה לידידי</title>
+        <singer classification="unknown">אדם לאדם</singer>
+        <writer>אסתר לנואל</writer>
+        <composer>גיל אלדמע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אשירה לידידי</head>
+        <lg number="1" type="stanza">
+          <l>אם תכלת בשמיים</l>
+          <l>ושדה דגן מרהיב</l>
+          <l>מושב הגל במים</l>
+          <l>ילחש הנה אביב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם תכלת בשמיים</l>
+          <l>אישון עיניו ירחיב</l>
+          <l>יעור הבן ישאל אם</l>
+          <l>שנות ילדותו הניב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אשירה לידידי</l>
+          <l>בשלוש עשרה שנותי</l>
+          <l>ים טרי טרי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם תכלת בשמים</l>
+          <l>ללא רבב ענן</l>
+          <l>יתמה הבן ישאל אם</l>
+          <l>את ילדותו צפן</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם תכלת בשמיים</l>
+          <l>ואור חמה קרן</l>
+          <l>יקום הבן ישאל אם</l>
+          <l>זה קול העלם רן</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אשירה לידידי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

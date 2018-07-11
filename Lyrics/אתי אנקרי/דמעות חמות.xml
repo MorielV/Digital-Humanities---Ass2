@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דמעות חמות</title>
+        <singer classification="female singer">אתי אנקרי</singer>
+        <writer>אתי אנקרי</writer>
+        <composer>אתי אנקרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דמעות חמות</head>
+        <lg number="1" type="stanza">
+          <l>דמעות חמות זולגות בעצב</l>
+          <l>זולגות על לחיי</l>
+          <l>איך הפנמתי בעצם מתחת לבגדי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהבה אחת ועוד אחת</l>
+          <l>כולן הלכו לישון</l>
+          <l>שלא תרעשנה שלא תפרענה</l>
+          <l>לבית לחלום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתי הפסקת לבקש שאשאר בצל</l>
+          <l>או שאתה פשוט לובש</l>
+          <l>את מה שבידי מתקפל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהבה אחת ועוד אחת</l>
+          <l>כולן הלכו לישון</l>
+          <l>שלא תרעשנה שלא תפרענה</l>
+          <l>לבית לחלום</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז ככה זה עכשיו בינינו</l>
+          <l>עד שאולי יעבור</l>
+          <l>אני בוכה ומבקשת</l>
+          <l>שמישהו יעזור</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חייל 7</title>
+        <singer classification="unknown">אביהו שבת</singer>
+        <writer>ניסים אסרף</writer>
+        <composer>ניסים אסרף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חייל</head>
+        <lg number="1" type="stanza">
+          <l>סיפור הולך ונעלם </l>
+          <l>בתוך התופת בעשן</l>
+          <l>מתוך החשכחה שבכפרים</l>
+          <l>חייל שבוי,פצוע שם</l>
+          <l>בתוך המון חסר רגשות אדם</l>
+          <l>שרק תצא משם, בחיים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק חייל חזור הביתה</l>
+          <l>עם קול הנשמה </l>
+          <l>חייל חזור הביתה</l>
+          <l>מחכה המשפחה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בדימיונך רצות תמונות</l>
+          <l>ואיך תדע למה לצפות </l>
+          <l>בתקותך ארוזה אחוות לוחמים</l>
+          <l>מדינה שלמה, לא תשכח אותך</l>
+          <l>ותעשה הכל להשיב אותך</l>
+          <l>אל המשפחה אל החברים. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק חייל חזור הביתה</l>
+          <l>עם קול הנשמה </l>
+          <l>חייל חזור הביתה</l>
+          <l>מחכה המשפחה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הד רחוק קולה של אמא</l>
+          <l>אצלי בלב הדגל פנימה</l>
+          <l>צללים של אור בחשכה</l>
+          <l>אל החופש ילוו אותך.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>רק חייל חזור הביתה</l>
+          <l>עם כל הנשמה</l>
+          <l>חייל חזור הביתה </l>
+          <l>אמא מחכה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

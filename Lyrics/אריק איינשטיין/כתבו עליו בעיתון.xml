@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כתבו עליו בעיתון</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כתבו עליו בעיתון</head>
+        <lg number="1" type="stanza">
+          <l>כתבו שהוא מצליח מאוד</l>
+          <l>הוא נהיה מפורסם</l>
+          <l>כתבו שהוא מרוויח</l>
+          <l>כתבו שהוא חדש</l>
+          <l>בסוף כתבו שהוא מושלם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כתבו עליו בעיתון הרבה דברים</l>
+          <l>הוא בכלל לא ידע שהוא כזה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כתבו שאישתו ברחה עם נוצרי, הו ג'יזוס</l>
+          <l>הוא נהיה כמו סמרטוט</l>
+          <l>הוא הלך לאיבוד</l>
+          <l>כתבו שהוא שותה</l>
+          <l>כתבו שהוא בולע</l>
+          <l>וזה הסוף שלו, חבל.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כתבו עליו...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כתבו שהוא בשמאל החדש ישן</l>
+          <l>שניסה כבר הכל</l>
+          <l>שראה את הסוף</l>
+          <l>כתבו שהוא בכלא</l>
+          <l>כתבו שהוא נשבר</l>
+          <l>בסוף כתבו שהוא נפטר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כתבו עליו...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>הו, פנחס</l>
+          <l>מה עשו לך העיתונים?</l>
+          <l>הו, פנחס</l>
+          <l>מה עשו, העיתונים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלי מילים</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>איתן פרץ</writer>
+        <composer>אפי נצר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלי מילים</head>
+        <lg number="1" type="stanza">
+          <l>הערב כשיכבו בעיר הפנסים</l>
+          <l>ורוח תשחק עם השדרה,</l>
+          <l>רק שנינו נהלך על השבילים המכוסים</l>
+          <l>עלי שלכת וצינה קרירה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואז בלי מילים,</l>
+          <l>אלחש לך בדממה</l>
+          <l>את כל הסיפורים שבעולם.</l>
+          <l>ואז בלי מילים,</l>
+          <l>אחזיק ידך דומם</l>
+          <l>וצחוק יפרוץ מתוך הנשמה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הערב כשיכבו בעיר המנורות,</l>
+          <l>וצרצרים יעורו משנתם,</l>
+          <l>והגחליליות אז באלפי אורות</l>
+          <l>יאירו את הדרך השקטה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואז בלי מילים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הלילה כשעל עיר תרד החשכה</l>
+          <l>והרקיע יהפוך חיוור,</l>
+          <l>נחזור ונהלך יחדיו על מידרכה</l>
+          <l>מלילה שאף פעם לא חוזר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואז בלי מילים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

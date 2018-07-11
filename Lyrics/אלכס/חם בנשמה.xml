@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חם בנשמה</title>
+        <singer classification="unknown">אלכס 3</singer>
+        <writer>מני בגר</writer>
+        <composer>גברי מזור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חם בנשמה</head>
+        <lg number="1" type="stanza">
+          <l>אור כחול בלילה קר של סתיו.</l>
+          <l>איך באופק שוב נולד כוכב.</l>
+          <l>גשם קל נופל אני עוד כאן</l>
+          <l>מחכה לאות ולסימן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חשבתי שאבכה</l>
+          <l>כל זמן שרק ארצה</l>
+          <l>סוף להזיות ולשקרים</l>
+          <l>הרוח בגבי</l>
+          <l>הכוח לצידי</l>
+          <l>קול קורא אלי ממרחקים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יום ועוד יום לילה לילה ועוד יום</l>
+          <l>אי אפשר לנשום וחם בנשמה.</l>
+          <l>יום ועוד יום לילה, לילה לילה ועד יום</l>
+          <l>זהו יום חדש וזו הנחמה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קול הפעמון שבכיכר</l>
+          <l>וניחוח שוק כל כך מוכר</l>
+          <l>צחוק של ילד שנופל וקם</l>
+          <l>וכלבלב שרץ בעקבותיו.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>חשבתי שאבכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

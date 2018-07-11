@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קומי לך</title>
+        <singer classification="unknown">אסף נוה שלום</singer>
+        <writer>אסף נוה שלום</writer>
+        <composer>אסף נוה שלום</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קומי לך</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>קול דודי הנה זה בא </l>
+          <l>מדלג על ההרים </l>
+          <l>הנה זה עומד אחר כותלנו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קומי לך קומי לך קומי לך </l>
+          <l>עת הזמיר הגיעה</l>
+          <l>הנה זה עומד אחר כותלנו</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קול דודי הנה זה בא </l>
+          <l>מדלג על ההרים </l>
+          <l>הנה זה עומד אחר כותלנו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קומי לך קומי לך קומי לך </l>
+          <l>עת הזמיר הגיעה</l>
+          <l>הנה זה עומד אחר כותלנו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

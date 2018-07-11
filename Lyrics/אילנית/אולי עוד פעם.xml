@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אולי עוד פעם</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>שמרית אור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אולי עוד פעם</head>
+        <lg number="1" type="stanza">
+          <l>בארץ חרבה</l>
+          <l>ברוך ואהבה</l>
+          <l>ניטעו שתילים רכים ביום בהיר -</l>
+          <l>הדס וערבה,</l>
+          <l>אלון ונֶטע דקל צעיר -</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גם לילה וגם יום</l>
+          <l>ינקו ממי תהום</l>
+          <l>וצמרתם שואפת לה אל על,</l>
+          <l>שונים היו בצמיחתם</l>
+          <l>שונים היו בפריחתם -</l>
+          <l>שווים כמהו לשמש ולטל -</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי עוד פעם</l>
+          <l>נצמח ליער</l>
+          <l>שענפיו הרחבים</l>
+          <l>כרוכים יחדיו ואוהבים -</l>
+          <l>אולי עוד פעם</l>
+          <l>נצמח ליער</l>
+          <l>שכל אילן בו מיוחד</l>
+          <l>אבל כולנו יער עד,</l>
+          <l>אולי הפעם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

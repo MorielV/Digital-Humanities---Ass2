@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הסתכלו לשמיים</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>יומן מסע</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הסתכלו לשמיים</head>
+        <lg number="1" type="stanza">
+          <l>מהלכים בין חרדה לצער</l>
+          <l>מתוק לבין מר להבדיל</l>
+          <l>מתקשים לראות בסוף חיינו</l>
+          <l>ביום מותנו</l>
+          <l>מה נשאיר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הסתכלו לשמיים</l>
+          <l>עננים מלאים מים</l>
+          <l>אלוהים לא דואג לשלומנו</l>
+          <l>אלוהים לא שוכח</l>
+          <l>אלוהים שוב לוקח</l>
+          <l>את כל מה שיקר</l>
+          <l>בכאב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי יודע אם נחיה עוד פעם</l>
+          <l>נטעם שוב טעם של חיים</l>
+          <l>אל נא נלחם למען חופש</l>
+          <l>כי כך או כך אנו כלואים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הסתכלו לשמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

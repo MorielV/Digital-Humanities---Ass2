@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>My Lagan Love</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>I'll See You In My Dreams – בהופעה 2009</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>My Lagan Love</head>
+        <lg number="1" type="stanza">
+          <l>Where Lagan stream sings lullaby, there blows a lily fair</l>
+          <l>The twilight gleam is in her eyes, the night is on her hair</l>
+          <l>And like a lovesick lenanshee she hath my heart in thrall</l>
+          <l>Nor life I own, nor liberty for love is lord of all</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>And often when the beetle's horn hath lulled the eve to sleep</l>
+          <l>I steal unto her shieling lorn and thro' the dooring peep</l>
+          <l>There on the cricket's singing stone, she stears the bird in fire</l>
+          <l>And hums in sad, sweet undertone the song of her desire</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Her welcome like her love for me is from the heart within</l>
+          <l>Her warm kiss is felicity, that knows no taint or sin</l>
+          <l>When she was only fairly small her gentle mother died</l>
+          <l>But true love keep s her memory warm, by Lagan's silver side</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

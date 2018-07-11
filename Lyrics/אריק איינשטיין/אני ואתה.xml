@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני ואתה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני ואתה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אני ואתה נשנה את העולם,</l>
+          <l>אני ואתה אז יבואו כבר כולם,</l>
+          <l>אמרו את זה קודם לפני,</l>
+          <l>לא משנה - אני ואתה נשנה את העולם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני ואתה ננסה מהתחלה,</l>
+          <l>יהיה לנו רע, אין דבר זה לא נורא,</l>
+          <l>אמרו את זה קודם לפני,</l>
+          <l>זה לא משנה - אני ואתה נשנה את העולם.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני ואתה נשנה את העולם,</l>
+          <l>אני ואתה אז יבואו כבר כולם,</l>
+          <l>אמרו את זה קודם לפני,</l>
+          <l>לא משנה - אני ואתה נשנה את העולם.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

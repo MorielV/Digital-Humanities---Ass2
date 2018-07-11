@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד מאה ועשרים</title>
+        <singer classification="male singer">אליקו</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>שי ראובני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד מאה ועשרים</head>
+        <lg number="1" type="stanza">
+          <l>כל הזמן את לצידי</l>
+          <l>וזה אומר כבר את הכל</l>
+          <l>זו את שמחזיקה אותי</l>
+          <l>חזק שלא אפול</l>
+          <l>תחייכי יפה שלי</l>
+          <l>ולעולם אל תדאגי</l>
+          <l>כל מה שרק תבקשי</l>
+          <l>לך אביא אהובתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אוהב אותך כל כך</l>
+          <l>כמו שלא אהבתי מעולם</l>
+          <l>ומאחל לך את הטוב</l>
+          <l>את כל הטוב שבעולם</l>
+          <l>זכינו לאהוב</l>
+          <l>זו מתנה לנשמה</l>
+          <l>רק שנהיה מאושרים</l>
+          <l>עד מאה ועשרים שנה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הסתכלי אל תוך עיני</l>
+          <l>אין כמוני מאושר</l>
+          <l>את לי אהבת חיי</l>
+          <l>הדבר הכי יקר</l>
+          <l>בכל יום שאת איתי</l>
+          <l>אני נולד שוב מחדש</l>
+          <l>אשא אותך אל חלומי</l>
+          <l>אל היום המקודש</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אוהב אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

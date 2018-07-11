@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל לילה</title>
+        <singer classification="unknown">אייל מוטעי</singer>
+        <writer>אייל מוטעי</writer>
+        <composer>רובי פאייר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל לילה</head>
+        <lg number="1" type="stanza">
+          <l>כל לילה כשְאת לא פה, במחשבות נלכד </l>
+          <l>לא מצליח לברוח </l>
+          <l>נופל לתוך בדידות, שאותי מחלישה </l>
+          <l>רק שם את חצי אמיתית </l>
+          <l>חצי ממה שהיית </l>
+          <l>כי בלעדייך אני, לא מכיר את עצמי </l>
+          <l>בלעדייך אני, לא אני </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל לילה, אבוד בתוך השקט </l>
+          <l>תאמרי שאת חוזרת, מחפש פינה לשכוח </l>
+          <l>טובע בים של געגוע </l>
+          <l>צועק לך שתבואי, תבואי עד אלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השקט שסוגר עלי, כאילו ממלא את חסרונך </l>
+          <l>הוי אלוהים, כמה שאת רחוקה לי </l>
+          <l>מחשבות מרוקנות את מעט הכוח </l>
+          <l>לא יכול להפסיק, לחלום עלייך </l>
+          <l>כי בלעדייך אני, לא מכיר את עצמי </l>
+          <l>בלעדייך אני, לא אני </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל לילה, אבוד בתוך השקט...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואם כל לילה אחשוב עלייך?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

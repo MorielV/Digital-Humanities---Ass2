@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מביט מהצד</title>
+        <singer classification="male singer">אבי דור</singer>
+        <writer>אבי דור</writer>
+        <composer>מירון מינסטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מביט מהצד</head>
+        <lg number="1" type="stanza">
+          <l>כשהוא איתה, הוא איננו חופשי,</l>
+          <l>הכל לוקח באופן אישי.</l>
+          <l>הוא לא מש מצידה,</l>
+          <l>כל הזמן לידה,</l>
+          <l>אין לו צורך בשום הסברים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בבוקר קם, מתישב וחושב:</l>
+          <l>היום יאמר לה אותה הוא אוהב.</l>
+          <l>מתכנן משפטים,</l>
+          <l>מסגנן חרוזים,</l>
+          <l>ובסוף מוותר ונכנע.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ורק אני, שמביט מהצד,</l>
+          <l>מחייך: מתי נוא ילמד?</l>
+          <l>האהבה, יש פנים לה רבות, משונות,</l>
+          <l>אהבה - גוונים וצורות.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תיגש, תביא, גם תיקנה, תנקה,</l>
+          <l>לא, לא הערב, לי אל תחכה.</l>
+          <l>בלי שעה ובלי גבול</l>
+          <l>הוא אליה כבול,</l>
+          <l>מחכה לתנועה או סימן.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לילה בא, הוא רוקם חלומות</l>
+          <l>איך זה להיות יחד, לחיות.</l>
+          <l>מערבב מציאות ודימיון</l>
+          <l>כך היא שלו והוא שלה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ורק אני, שמביט מהצד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

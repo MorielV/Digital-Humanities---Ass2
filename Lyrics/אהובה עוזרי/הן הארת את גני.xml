@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הן הארת את גני</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הן הארת את גני</head>
+        <lg number="1" type="stanza">
+          <l>בוא כנס אל גני</l>
+          <l>בוא שתה מייני</l>
+          <l>הן ידעת את סודי</l>
+          <l>נא גלה לי אהובי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הן הארת את ביתי</l>
+          <l>כך שכחת את עולמי</l>
+          <l>כך שכחת את גני</l>
+          <l>בוא נשוח בין העצים</l>
+          <l>נשמה הן תדע מה האהבה?</l>
+          <l>עד יום מותי אחכה</l>
+          <l>יום חורפי בא אלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הגשמים שטפו את הגן</l>
+          <l>בחלוני אני מחכה</l>
+          <l>רק לראות את פניך</l>
+          <l>העלים נשרו מעל</l>
+          <l>הפרחים נבלו מזמן</l>
+          <l>מייני לא לגמת</l>
+          <l>בוכיה כאן בדד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הן הארת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

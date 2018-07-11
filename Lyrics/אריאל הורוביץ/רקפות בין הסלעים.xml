@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רקפות בין הסלעים</title>
+        <singer classification="male singer">אריאל הורוביץ</singer>
+        <writer>אריאל הורוביץ</writer>
+        <composer>אריאל הורוביץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רקפות בין הסלעים</head>
+        <lg number="1" type="stanza">
+          <l>בין הצפירות בכביש לרחובות המלוכלכים</l>
+          <l>בין משפחות הפשע לטלוויזיה השטחית</l>
+          <l>כמו רקפות בין הסלעים </l>
+          <l>הפנים היפים של הארץ מתחבאים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בין הישנים ברחוב לדקירות במועדון</l>
+          <l>בין מה שבדרך כלל קוראים בעיתון</l>
+          <l>כמו רקפות בין הסלעים</l>
+          <l>הפנים היפים של הארץ מתחבאים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>וכשהיא לפתע צריכה </l>
+          <l>שמישהו ישכב בבוץ בתוך שוחה</l>
+          <l>לא תאמין איך הם מופיעים</l>
+          <l>כמו רקפות בין הסלעים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בין הדגלים הכתומים לחולצה הכחולה</l>
+          <l>בין שוק הפשפשים לקריית הממשלה</l>
+          <l>כמו רקפות בין הסלעים</l>
+          <l>הפנים היפים של הארץ מתחבאים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>וכשהיא לפתע צריכה...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בין מגדלי הפאר למרכז הקליטה</l>
+          <l>בין פועלים זרים לשדות החיטה</l>
+          <l>כמו רקפות בין הסלעים</l>
+          <l>הפנים היפים של הארץ מתחבאים</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>וכשהיא לפתע צריכה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

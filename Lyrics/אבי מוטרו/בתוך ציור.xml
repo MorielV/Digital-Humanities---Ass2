@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בתוך ציור</title>
+        <singer classification="unknown">אבי מוטרו</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בתוך ציור</head>
+        <lg number="1" type="stanza">
+          <l>הכחול זה עולם של שמיים וים</l>
+          <l>ועיניים שנוגעות בי כמעט</l>
+          <l>הירוק מלבלב מחמם את הלב </l>
+          <l>ועמוק בתוכו זו את</l>
+          <l>רק הלילה אפור לא מוצא את האור</l>
+          <l>מחכה שהשמש תזרח</l>
+          <l>פוקח עיניי כשאת באה אלי</l>
+          <l>ושוכח הכל איתך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איתך זה לגעת בכל הצבעים</l>
+          <l>איתך זה לאהוב כל דקה לחיים</l>
+          <l>איתך העולם נראה ברור</l>
+          <l>זה כמו לחיות בתוך ציור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם נדמה שנגמר כשעצוב לי וקר</l>
+          <l>אני בא להתמלא מיופייך</l>
+          <l>וברגע ממש כמו נולד מחדש</l>
+          <l>מהאור שאותי מושך</l>
+          <l>פוקח עיני כשאת באה אלי</l>
+          <l>ולוקח לי עוד ממך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איתך זה לגעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

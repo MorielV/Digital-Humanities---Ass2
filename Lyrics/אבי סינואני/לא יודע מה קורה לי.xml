@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא יודע מה קורה לי</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא יודע מה קורה לי</head>
+        <lg number="1" type="stanza">
+          <l>גם בלילות גם בימים</l>
+          <l>את מפעילה עליי קסמים</l>
+          <l>אצלי בתוך הנשמה</l>
+          <l>איך את עושה לי מהומה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני צוחק ללא סיבה</l>
+          <l>ומבולבל במחשבה</l>
+          <l>כי לצידך אישה יפה וואי וואי</l>
+          <l>ליבי סוער מאהבה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא יודע מה קורה לי</l>
+          <l>לא יודע וואי וואי</l>
+          <l>זו אמת או שנדמה לי</l>
+          <l>משתגע וואי וואי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשאת לפתע מביטה</l>
+          <l>אני כבר מאבד שליטה</l>
+          <l>משתי עינייך תוך דקה </l>
+          <l>אותי תופסת בלי חכה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אומרים שהחיים קצרים</l>
+          <l>מהר מאוד הם נגמרים</l>
+          <l>אבל איתך האהבה ואי וואי</l>
+          <l>תמשיך גם בעולם הבא</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא יודע מה קורה לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

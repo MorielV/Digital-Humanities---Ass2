@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חבקי 4</title>
+        <singer classification="unknown">אודי 4</singer>
+        <writer>דודי עומרד</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חבקי</head>
+        <lg number="1" type="stanza">
+          <l>יש יש יש לי אותך</l>
+          <l>יש יש אהבה אחת</l>
+          <l>לא לא אני לא אפחד</l>
+          <l>אלוקינו בליבנו</l>
+          <l>אלוקים אחד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>חבקי אותי חזק בינתיים</l>
+          <l>בורא עולם יש בשמיים</l>
+          <l>הוא נותן והוא לוקח</l>
+          <l>ואותנו לא שוכח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את את נשמה טובה</l>
+          <l>את את פרח אהבה</l>
+          <l>אנו יחד לעולם ועד</l>
+          <l>אלוקינו בליבנו</l>
+          <l>אלוקים אחד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>חבקי אותי חזק בינתיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

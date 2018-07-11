@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחצר הפלפלים</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>שושנה צחור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחצר הפלפלים</head>
+        <lg number="1" type="stanza">
+          <l>אל חצר הפלפלים</l>
+          <l>קדימה חבריה</l>
+          <l>ומה נראה ומה נשמע</l>
+          <l>ומה בכלל קרה</l>
+          <l>רגע רגע סבלנות</l>
+          <l>מיד הכל נדע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אגדות וסיפורים</l>
+          <l>על מלך ומלכה</l>
+          <l>גם נסיכה</l>
+          <l>יפהפיה</l>
+          <l>ועוד ועוד על מה</l>
+          <l>רגע רגע סבלנות</l>
+          <l>מיד הכל נדע</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

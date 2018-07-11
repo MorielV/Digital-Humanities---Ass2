@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תפילה 6</title>
+        <singer classification="unknown">אורלי ורדי</singer>
+        <writer>לאה לופנפלד</writer>
+        <composer>בוריס טוביס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תפילה</head>
+        <lg number="1" type="stanza">
+          <l>מנגינה יש לי בלב,</l>
+          <l>נושבת בי </l>
+          <l>כמו רוח.</l>
+          <l>סובבת בי, </l>
+          <l>שורקת בי,</l>
+          <l>עמוק צוללת פנימה.</l>
+          <l>בתוך הנשמה</l>
+          <l>פוגשת בי</l>
+          <l>חלום עתיק</l>
+          <l>על אמא אדמה,</l>
+          <l>פורצת </l>
+          <l>ועולה !</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מילה מתוך האור</l>
+          <l>עולה בי כציפור,</l>
+          <l>עולה בסערה, </l>
+          <l>עולה בצעקה.</l>
+          <l>מילה - כולה שלי,</l>
+          <l>רק פקוד אותה אלי,</l>
+          <l>רק פקוד אותה אלי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מנגינה יש לי בלב,</l>
+          <l>סוערת בי</l>
+          <l>כמו רוח.</l>
+          <l>נושמת בי,</l>
+          <l>הולמת בי,</l>
+          <l>עמוק צוללת פנימה.</l>
+          <l>בתוך הנשמה</l>
+          <l>פוגשת בי </l>
+          <l>חלום עתיק</l>
+          <l>על בית ויונה,</l>
+          <l>סוחפת </l>
+          <l>ועולה!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מילה מתוך האור...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

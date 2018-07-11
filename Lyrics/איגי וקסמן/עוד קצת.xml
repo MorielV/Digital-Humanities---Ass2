@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד קצת</title>
+        <singer classification="female singer">איגי וקסמן</singer>
+        <writer>איגי וקסמן</writer>
+        <composer>טל שגב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד קצת</head>
+        <lg number="1" type="stanza">
+          <l>אחר הצהריים של סוף העולם</l>
+          <l>רחובות צהובים מאבק, מאבק</l>
+          <l>איש עם טלית מתפלל לבורא</l>
+          <l>מבקש רק עוד קצת</l>
+          <l>תן לו עוד קצת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אוטובוס נוסע לשומקום גם</l>
+          <l>נאבק באבק, נאבק באבק</l>
+          <l>אישה עם תינוק ממררת בבכי</l>
+          <l>מבקשת עוד קצת</l>
+          <l>תן לה עוד קצת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מכאן או משם</l>
+          <l>או דרך הים</l>
+          <l>יש יציאה אחת לעולם</l>
+          <l>שכנה מזמינה</l>
+          <l>היא לא מבינה</l>
+          <l>אין לה עוד קצת</l>
+          <l>אין לה עוד קצת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>"אחר הצהריים עצוב לכולם"</l>
+          <l>מברך כך הקול מרחוב העולם</l>
+          <l>איש עם חתול, מיילל מיילל</l>
+          <l>מבקש רק עוד קצת</l>
+          <l>תן לו עוד קצת</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אוטובוס נוסע לשומקום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

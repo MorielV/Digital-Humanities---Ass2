@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מסתובב שעות ברחובות של ניו יורק מחפש את עצמי ולא מוצא 2</title>
+        <singer classification="unknown">אפולו</singer>
+        <writer>דורון בראונשטיין</writer>
+        <composer>דורון בראונשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מסתובב שעות ברחובות של ניו יורק, מחפש את עצמי ולא מוצא</head>
+        <lg number="1" type="stanza">
+          <l>חלק פה</l>
+          <l>חלק שם</l>
+          <l>וריק כל כך איפה שחשוב באמת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל הזמן מחפש</l>
+          <l>לא מוצא כל הזמן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נקודה</l>
+          <l>נקודה</l>
+          <l>נקודה</l>
+          <l>אין קו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נקודה</l>
+          <l>נקודה</l>
+          <l>נקודה</l>
+          <l>אין קו</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חלק פה</l>
+          <l>חלק פה</l>
+          <l>חלק פה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>חלק שם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

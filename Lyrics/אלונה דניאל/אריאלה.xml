@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אריאלה</title>
+        <singer classification="female singer">אלונה דניאל</singer>
+        <writer>אלונה דניאל</writer>
+        <composer>אלונה דניאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אריאלה</head>
+        <lg number="1" type="stanza">
+          <l>אצלי בבית ערב חג</l>
+          <l>ענן כבד מעל הגג</l>
+          <l>ובכיסיי הרסיסים</l>
+          <l>ניפצתי את הפנסים ברחוב</l>
+          <l>עד שבא החושך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ממול בבית הישן</l>
+          <l>אישה שותקת כל הזמן</l>
+          <l>וגבר זר רועד מקור</l>
+          <l>הוא מנסה לומר לה משהו</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מבטים אבודים</l>
+          <l>בחדרי ילדים</l>
+          <l>אריאלה בוכה</l>
+          <l>רק רציתי לשחק איתך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כבר יום ראשון שני שלישי</l>
+          <l>קולות הצחוק בתוך ראשי</l>
+          <l>אני משקה צמחים נובלים</l>
+          <l>אולי יפרח בבית משהו</l>
+          <l>ואני זוכרת</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מבטים אבודים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

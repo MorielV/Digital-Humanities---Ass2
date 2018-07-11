@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איציק</title>
+        <singer classification="male singer">אסף אמדורסקי</singer>
+        <writer>אייל לינור</writer>
+        <composer>אייל לינור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איציק</head>
+        <lg number="1" type="stanza">
+          <l>עדר אנשים עובר ברחוב</l>
+          <l>כל אחד מהם מסתכל עלי</l>
+          <l>אני מסתכל עם בירה ביד</l>
+          <l>לוקח סיגריה והולך לצד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>השמש מראה סימנים של העלמות</l>
+          <l>ואני מדקלם לעצמי איזו שטות</l>
+          <l>חיים זורמים, אבל אני נשפך</l>
+          <l>ורק דבר אחד אני מוכרח</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קוראים לי איציק</l>
+          <l>אני חושב שהעולם יפה</l>
+          <l>קוראים לי איציק</l>
+          <l>חושב שהעולם יפה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אחר כך אני חוזר למיטה</l>
+          <l>ורואה טלוויזיה עד מאוחר</l>
+          <l>אני לא נגנב מהתשדירים</l>
+          <l>רק מאוהב בקריינית שלי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והכלבים נובחים והכלבים נובחים</l>
+          <l>אני מתחיל לשמוע קולות</l>
+          <l>כתמים של שומן, כתמים של שומן</l>
+          <l>נוזלים מהקירות</l>
+          <l>מסתכל מאחורי ומלפני ומצדדי</l>
+          <l>ואני עומד, אני עומד</l>
+          <l>כולם מחפשים את הרוצח</l>
+          <l>אבל לי נמאס לשחק</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>קוראים לי איציק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

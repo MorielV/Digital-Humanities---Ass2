@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מביט אל הזמן</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>חמוטל בן זאב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מביט אל הזמן</head>
+        <lg number="1" type="stanza">
+          <l>הביטי בשנינו </l>
+          <l>כל מה שבינינו,</l>
+          <l>שב עכשיו ומבקש </l>
+          <l>חיזוקים בך,</l>
+          <l>דרכך מביט אל הזמן</l>
+          <l>עומד מוכן </l>
+          <l>מחכה לך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הקשיבי למים </l>
+          <l>נופלים שם שמיים</l>
+          <l>קר בחוץ </l>
+          <l>ופה האש מתגברת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נשאר איתך </l>
+          <l>לו נדע הפעם</l>
+          <l>לשמור את טעם</l>
+          <l>האהבה</l>
+          <l>הולך אלייך </l>
+          <l>ובלילותייך </l>
+          <l>את אלי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הרי את, אמרתי </l>
+          <l>מחסום בך שברתי</l>
+          <l>עד בלי די, ומתכוון </l>
+          <l>להישמר לך</l>
+          <l>איתך שלם עם עצמי </l>
+          <l>בעולמי את נקשרת</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הקשיבי למים...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>נשאר איתך</l>
+          <l>נשאר איתך</l>
+          <l>הולך אלייך </l>
+          <l>ובלילותייך</l>
+          <l>את באת אלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

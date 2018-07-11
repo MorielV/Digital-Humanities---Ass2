@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מריק</title>
+        <singer classification="unknown">אביבה שוורץ</singer>
+        <writer>ז'אק ברל</writer>
+        <composer>ז'אק ברל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מריק</head>
+        <lg number="1" type="stanza">
+          <l>היי מריק מריק אותך אוהב </l>
+          <l>עד סוף הליל עד סוף הסתיו</l>
+          <l>היי מריק מריק עצוב עכשיו </l>
+          <l>עד סוף ימי אותך אוהב </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פזמון בגרמנית...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היי מריק מריק עכשיו בוכים </l>
+          <l>גם הרוחות הכוכבים </l>
+          <l>היי מריק מריק סוערים </l>
+          <l>גלי החוף גואים גואים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פזמון...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היי מריק מריק חייך עכשיו </l>
+          <l>כל תפילותי לשווא לשווא</l>
+          <l>היי מריק מריק עצוב עכשיו </l>
+          <l>עד סוף ימי אותך אוהב </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>פזמון...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>היי מריק מריק גואש היום </l>
+          <l>ומשטרי בי זכר </l>
+          <l>היי מריק מריק ליבי מריק </l>
+          <l>היי מריק מריק עצוב לי כאן </l>
+          <l>על חוף ימי נחשול איתן </l>
+          <l>את כל ימי את כל חיי </l>
+          <l>מריק מריק חזרי אלי</l>
+          <l>חזרי אלי חזרי אלי חזרי אלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

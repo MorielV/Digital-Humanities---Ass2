@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני זוכר אותך</title>
+        <singer classification="unknown">אילן אשד</singer>
+        <writer>מירית שם אור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני זוכר אותך</head>
+        <lg number="1" type="stanza">
+          <l>אני זוכר שיער בהיר,</l>
+          <l>עיניים ירוקות,</l>
+          <l>קולך המתוק שלוחש לי:</l>
+          <l>"אני אוהבת אותך".</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני זוכר את הימים,</l>
+          <l>בסתיו אל מול הים</l>
+          <l>וקולי קצת רעד כשאמרתי:</l>
+          <l>"אני אוהב רק אותך"</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני זוכר אותך,</l>
+          <l>אני זוכר אותך,</l>
+          <l>אני זוכר אותך,</l>
+          <l>אני זוכר אותך...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני זוכר איך שהיית</l>
+          <l>בהתחלה ממש</l>
+          <l>נרגשת, בתום לא ידעת אז</l>
+          <l>מה זאת בכלל אהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני זוכר אותך יפה,</l>
+          <l>עיניים נוצצות.</l>
+          <l>ישבנו בצד ושתקנו,</l>
+          <l>כל שרצינו היה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני זוכר אותך...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אני זוכר את הימים,</l>
+          <l>שעות וגם דקות.</l>
+          <l>נוסעים לאיטם מול שמש</l>
+          <l>ושנינו תמיד יד ביד.</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>אני זוכר היטב הכל</l>
+          <l>את כל מה שהיה,</l>
+          <l>לפעמים אפילו נדמה לי</l>
+          <l>שלא עזבת מעולם.</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>אני זוכר אותך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אימרו שמיים</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אימרו שמיים</head>
+        <lg number="1" type="stanza">
+          <l>אימרו שמיים, ספרו-נא </l>
+          <l>וגלו לי מדוע</l>
+          <l>לא מתגלה לי כוכבי </l>
+          <l>ועד כה לא הופיע?</l>
+          <l>למה בוגד בי מזלי, </l>
+          <l>מדוע לי ירע?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא מסתדר לי שום-דבר </l>
+          <l>ולא מצאתי דרך</l>
+          <l>שאתהלך בה מאושר,</l>
+          <l>חיי אין בם כל ערך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלב לא נח בי לרגע</l>
+          <l>ושלווה לא ידעתי</l>
+          <l>כי כל חיי הם ארורים</l>
+          <l>ולא זרח כוכב לי</l>
+          <l>שם, בשמיים הסגורים</l>
+          <l>והמזל לא בא לי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא מסתדר לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

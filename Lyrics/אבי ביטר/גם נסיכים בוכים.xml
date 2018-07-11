@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גם נסיכים בוכים</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>אבי ביטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גם נסיכים בוכים</head>
+        <lg number="1" type="stanza">
+          <l>באהבה הזאת היו הרבה שקרים</l>
+          <l>ולא נוכל לדעת את מי להאשים</l>
+          <l>לא נוכל שוב לתקן את כול הסדקים</l>
+          <l>ואת לא יכולה אותי להאשים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>באהבה הזאת רק אני מפסיד</l>
+          <l>את דרך הגורל לא נדע תמיד</l>
+          <l>כמו סיפור ישן שבאגדות</l>
+          <l>גם נסיך מפסיד מול המזלות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם המזלות תמיד היו שווים</l>
+          <l>אז אני ואת היינו מסתדרים</l>
+          <l>מה שווה האהבה שמלאה סדקים</l>
+          <l>איך מול האהבה גם גיבורים נופלים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יכולנו להמשיך לאהוב לעד</l>
+          <l>אבל עכשיו אנחנו כול אחד לבד</l>
+          <l>אז בואי נעזוב את זאת האהבה</l>
+          <l>אולי אני אשם אולי את אשמה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יש אהבות צוחקות יש אהבות בוכות</l>
+          <l>את דרך הגורל לא נצליח לשנות</l>
+          <l>חבל על הכאב על הדמעות</l>
+          <l>מול האהבה הזאת לא נשארו תקוות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אם המזלות תמיד היו שווים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

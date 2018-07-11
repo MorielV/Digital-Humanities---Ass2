@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תאמין</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>ספטמבר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תאמין</head>
+        <lg number="1" type="stanza">
+          <l>על תדמין תשתוקק</l>
+          <l>תעשה ואז תרגיש</l>
+          <l>תמחק ותשכח את הכל</l>
+          <l>זה לא חלום</l>
+          <l>תעשה פעולות </l>
+          <l>תרפה מכל הדמיונות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>להרגיש את העולם החיצוני</l>
+          <l>זה אפשרי</l>
+          <l>זה אפשרי</l>
+          <l>אל תשכח שכולם מחוברים </l>
+          <l>תאמין תאמין</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

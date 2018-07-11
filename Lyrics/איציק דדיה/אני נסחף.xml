@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני נסחף</title>
+        <singer classification="unknown">איציק דדיה</singer>
+        <writer>שרון אבילחק</writer>
+        <composer>שרון אבילחק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני נסחף</head>
+        <lg number="1" type="stanza">
+          <l>אני מאמין ומזמן הבנתי, איך הזמן חולף לא מחכה</l>
+          <l>אז לקחתי על עצמי קיבלתי, שאיתו אני הולך</l>
+          <l>הוא משגיח נותן לי להצליח ועוטף הכל ברחמים</l>
+          <l>ועכשיו אני מרגיש את טעם החיים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני נסחף וזה עלי גובר </l>
+          <l>כשאליו קורא הלב כבר מתעורר</l>
+          <l>האהבה חודרת לתוכי</l>
+          <l>אז בוא ותצטרף גם אתה איתי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני מאזין ומזמן הפנמתי, השמחה בוערת לי בלב</l>
+          <l>התעוררתי כל הזמן ביקשתי שאמשיך להתלהב</l>
+          <l>מלמעלה אבא מלווה אותי ונותן לי כל מה שצריך</l>
+          <l>הוא המלך הגדול ואני נסיך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני נסחף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמה זמן</title>
+        <singer classification="male singer">אייל קופמן</singer>
+        <writer>אייל קופמן</writer>
+        <composer>אייל קופמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמה זמן</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>כמה זמן, כמה זמן </l>
+          <l>אפשר להמשיך לפצוע </l>
+          <l>את המקום שכואב </l>
+          <l>לחפור לעצמי בלב </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אולי עדיף לי </l>
+          <l>לשחרר את הזעם </l>
+          <l>לעזוב את החבל </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי עדיף לי </l>
+          <l>לבצע ת'תיקון </l>
+          <l>להגיש את החשבון </l>
+          <l>להסתכל להם בעיניים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כמה זמן, כמה זמן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עורה הנבל</title>
+        <singer classification="unknown">אנסמבל חולות נודדים</singer>
+        <writer>אהרון אשמן</writer>
+        <composer>ידידיה אדמון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עורה הנבל</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>עורה נבל, חצות ליל </l>
+          <l>ראש אשמורת תיכונה </l>
+          <l>דבר הי, דבר הגה </l>
+          <l>דבר שיח, דבר הגה, לב דוה! </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רועפים נטפי הגשם </l>
+          <l>ירויון תלמי שדי. </l>
+          <l>חלקה אחת אם לא נמטרה, </l>
+          <l>רוי תלמיה דמעתי. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עורה נבל... </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מים סוף ארבה הגיח </l>
+          <l>ויחסל כרמי כרמל. </l>
+          <l>אם גפן חן אחת נותרה, </l>
+          <l>תחסלנה תוגתי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

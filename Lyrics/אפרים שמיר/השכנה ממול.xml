@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השכנה ממול</title>
+        <singer classification="male singer">אפרים שמיר</singer>
+        <writer>אפרים שמיר</writer>
+        <composer>אפרים שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השכנה ממול</head>
+        <lg number="1" type="stanza">
+          <l>אחת עשרה בבוקר </l>
+          <l>תקוע בתנועה </l>
+          <l>וחושב רק עליך - אהה </l>
+          <l>ומסביבי יושבים אנשים מיותרים </l>
+          <l>שלא מבחינים בין שמאל לימין </l>
+          <l>במקום לבזבז את זמני לשווא </l>
+          <l>יכולתי להיות איתך עכשיו </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כשאני איתך השכנה ממול </l>
+          <l>כשאני איתך השמיים הם הגבול </l>
+          <l>בואי תהיי המורה שלי </l>
+          <l>יחד נלמד אחד את השני </l>
+          <l>רוצה להיות איתך... </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הערב כבר הגיע </l>
+          <l>שוכב על הספה </l>
+          <l>וצופה ב"גאולה" - אהה </l>
+          <l>ומסביב גרים אנשים מטופשים </l>
+          <l>משוכנעים שזה חיים יבין </l>
+          <l>במקום לבזבז את זמני לשווא </l>
+          <l>מוטב לי להתקשר אלייך עכשיו </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כשאני איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

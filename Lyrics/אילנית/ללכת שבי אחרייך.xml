@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ללכת שבי אחרייך</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ללכת שבי אחרייך</head>
+        <lg number="1" type="stanza">
+          <l>להיוולד כל בוקר מחדש,</l>
+          <l>עם כל מילת פרידה למות מעט,</l>
+          <l>ולהביא אל העולם עוד בן ובת</l>
+          <l>בארץ של חלב, מרור ודבש.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ללכת שבי אחרייך,</l>
+          <l>לנשום את השמש הצורב,</l>
+          <l>לחלום אותך מול שמייך,</l>
+          <l>לכאוב אותך ושוב להתאהב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לשאת חלום מבטן, מדורות,</l>
+          <l>לשאול באביבייך נחמה,</l>
+          <l>לחיות על פני ובתוכי האדמה</l>
+          <l>הנוראה והיפה הזאת.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ללכת שבי אחרייך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עם ערב הד קולנו יעלה,</l>
+          <l>מבוקר יום אלינו הוא יבוא</l>
+          <l>ופדיוננו יראה עד בוא ערבו,</l>
+          <l>מתי סוכת שלומך עלינו תיגלה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ללכת שבי אחרייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

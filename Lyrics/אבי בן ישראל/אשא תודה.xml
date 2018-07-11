@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אשא תודה</title>
+        <singer classification="unknown">אבי בן ישראל</singer>
+        <writer>שלמה כישור</writer>
+        <composer>דוד חי לורי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אשא תודה</head>
+        <lg number="1" type="stanza">
+          <l>נתיבות נפלאות לי הראה, אלוקי</l>
+          <l>ונחה דרכי בעולם</l>
+          <l>וישא לבבי ואביא בידי</l>
+          <l>תפילתי-מנחתי אליך.</l>
+          <l>נשמה יתרה ועזרה בצרה</l>
+          <l>נתת לי מידך</l>
+          <l>ועל כן יתרונן לבבי באמן</l>
+          <l>ואנצור ברוחי מצוותיך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אשא תודה וברכה</l>
+          <l>ותפילה מלב שמח.</l>
+          <l>אלוקי, ברצונך</l>
+          <l>כוכב ליעקב זורח.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בשבתי ובקומי, בלכתי לדרכי,</l>
+          <l>אתה אתי, אלוקי.</l>
+          <l>בימים של שלום ובעת מלחמתי</l>
+          <l>תחזק לבי וידי.</l>
+          <l>בחדרי-חדרים וברשות-הרבים</l>
+          <l>כבודך אותי סובב,</l>
+          <l>אעבור משברים ואבוא עדנים</l>
+          <l>כי אתה, אלוקי, אותי אוהב.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אשא תודה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ליבבתיני</title>
+        <singer classification="male singer">ארז לב ארי</singer>
+        <writer>עממי</writer>
+        <composer>missing</composer>
+        <album>שמחת הפרטים הקטנים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ליבבתיני</head>
+        <lg number="1" type="stanza">
+          <l>מה לך בבת העין</l>
+          <l>גלי לי את פנייך ואדע</l>
+          <l>מה לך יפת עיניים</l>
+          <l>הראי לי את פנייך אחות ברה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הנה את צוחקת,</l>
+          <l>את הכאב מוחקת</l>
+          <l>ליבבתיני אחותי כלה</l>
+          <l>לא נשחיר פנינו</l>
+          <l>ישוב מאור עינינו</l>
+          <l>ליבבתיני אחותי כלה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה לך עיניים</l>
+          <l>מה לך כי תבכי יונה צחורה</l>
+          <l>פתחי לי שערייך</l>
+          <l>גלי לי סודותייך ואדע</l>
+          <l>מה יפו דדייך וריח שלמותייך</l>
+          <l>נופת תתופנה שפתותייך</l>
+          <l>ירא בשוששנייך ינוסו כל צללייך</l>
+          <l>ליבבתיני אחותי כלה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הנה את צוחקת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

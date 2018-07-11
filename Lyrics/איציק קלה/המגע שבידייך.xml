@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המגע שבידייך</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>איציק קלה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המגע שבידייך</head>
+        <lg number="1" type="stanza">
+          <l>אהבה בלב יש רק אחת</l>
+          <l>ואותה רק לך אתן לעד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מרגע שהכרנו לעולם מלא</l>
+          <l>נקשרנו והבטחנו יחד לאהוב </l>
+          <l>מהרגע שהכרנו לעולם מלא</l>
+          <l>נקשרנו ונשבענו יחד עד הסוף</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>המגע שבידייך טוב עושה לי בנשמה </l>
+          <l>המבט שבעינייך מלטף כמו יד חמה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>המגע שבידייך טוב עושה לי בנשמה </l>
+          <l>המבט שבעינייך מלטף כמו יד חמה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>קחי אותי לזרועותייך</l>
+          <l>ותקשיבי לליבי שלוחש שאת, את שלי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מחשבות חולפות בעולמי </l>
+          <l>שנולדת רק למעני </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>מהרגע שהכרנו לעולם מלא</l>
+          <l>נקשרנו והבטחנו יחד לאהוב </l>
+          <l>מהרגע שהכרנו לעולם מלא</l>
+          <l>נקשרנו ונשבענו יחד לאהוב </l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>המגע שבידייך טוב עושה לי בנשמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

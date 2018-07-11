@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>גן הסתיו</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>גן הסתיו</head>
+        <lg number="1" type="stanza">
+          <l>בהתחדש הסתיו מעל ביתנו</l>
+          <l>עם רחיפת העב האפורה,</l>
+          <l>בפרוח החצב בחצרנו</l>
+          <l>הלב נועל אשנב על הרהוריו.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הנפש מבקשת אל הבית</l>
+          <l>והיראה אוחזת חדריו,</l>
+          <l>בערב עם שלהבת השמים</l>
+          <l>אנחנו נכנסים אל גן הסתיו.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ולמניין שנותינו עוד שנה נוספה</l>
+          <l>עת ארבע העונות יוצאות במעופה</l>
+          <l>ונר הנשמה שלי עודו בוער</l>
+          <l>אולי מחר שוב הרקיע יתבהר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הנה כל שקמל ישוב לפרוח</l>
+          <l>וכל אשר כשל שוב לא ימעד</l>
+          <l>ואלה השוכבים עכשיו בלי נוע</l>
+          <l>אולי מנוחתם תינון לעד.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אנחנו שחיים על סף הערב</l>
+          <l>בחלוננו מתייצבים דומם,</l>
+          <l>בסתיו הזה דרכנו שוב נוהרת</l>
+          <l>אל עבר הימים אשר אי שם.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ולמניין שנותינו עוד שנה נוספה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

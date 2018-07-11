@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יפה כלבנה 2</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>אביתר בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יפה כלבנה</head>
+        <lg number="1" type="stanza">
+          <l>סופות מתוכי ומחוץ מוטטו את קירות הבית</l>
+          <l>ואת מתוכי זרמת מפוזרת וחזרת עייפה ושותקת</l>
+          <l>עוד פעם כשהייתי ילד היית בתוכי נשברת</l>
+          <l>פעם שלך פעם אחרת על יופיך לזרים מוותר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא אבקש דבר</l>
+          <l>את לא צריכה להוכיח לי כלום</l>
+          <l>הורידי אודם שפתייך</l>
+          <l>אבק דרכים רחצי מרגלייך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היי לי קרובה וזוכרת היי לי רק לי מיוחדת</l>
+          <l>היי לי אחות מקודשת היי יחפה מנוחמת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מי זאת עולה</l>
+          <l>יפה כלבנה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

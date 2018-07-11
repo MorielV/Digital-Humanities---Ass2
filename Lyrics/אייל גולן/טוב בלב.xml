@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טוב בלב</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>ברק לידני</writer>
+        <composer>אריק זנטי</composer>
+        <album>זה אני</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טוב בלב</head>
+        <lg number="1" type="stanza">
+          <l>את מתוקה, זוהרת, יפה וחושנית</l>
+          <l>והיופי משפתייך שאת לי חייכנית</l>
+          <l>תנשקי אותי, בשבילך אהיה אביר</l>
+          <l>אבל הלב שלי בפנים מאוד מאוד שביר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קרוב קרוב אני רוצה אלייך</l>
+          <l>רק אחזי בשתי ידייך</l>
+          <l>חבקי אותי חזק.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רק אלייך אני בא</l>
+          <l>מאושר מאהבה</l>
+          <l>את עושה לי טוב בלב</l>
+          <l>הו אלוהים אותך אוהב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את כל החלומות רק איתך אני מגשים</l>
+          <l>רוצה לצעוק אוהב שישמעו האנשים</l>
+          <l>מה שלך אומר זו לא טיפה בים</l>
+          <l>יש בי אהבה הכי גדולה שבעולם.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>קרוב קרוב אני רוצה אלייך</l>
+          <l>רק אחזי בשתי ידייך</l>
+          <l>חבקי אותי חזק.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>רק אלייך אני בא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

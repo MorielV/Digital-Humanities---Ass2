@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בא מכאב</title>
+        <singer classification="unknown">אביעד גיל</singer>
+        <writer>דניאל סלומון</writer>
+        <composer>דניאל סלומון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בא מכאב</head>
+        <lg number="1" type="stanza">
+          <l>לא בא ממשפחה מאושרת </l>
+          <l>שכולם רק מחייכים </l>
+          <l>לא בא מבית אוהב </l>
+          <l>שכולם תמיד תומכים </l>
+          <l>לא בא ממקום גדול וחשוב </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בא מעפר, בא מעפר </l>
+          <l>ולעפר יום אחד אשוב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא בא ממשפחה מהורהרת </l>
+          <l>שכולם לא בטוחים </l>
+          <l>לא בא מבית הרוס </l>
+          <l>שכולם רק נפרדים </l>
+          <l>לא בא ממקום קשה ועצוב </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בא מעפר, בא מעפר </l>
+          <l>ולעפר יום אחד אשוב </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם יש אלוהים בליבי </l>
+          <l>אז למה הוא בורח </l>
+          <l>בא ונעלם </l>
+          <l>רחוק מעל כולם </l>
+          <l>עמוק בתוך הים </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אם יש אלוהים בליבי </l>
+          <l>אז למה זה צורח </l>
+          <l>עכשיו למלחמה </l>
+          <l>אז למרות שקר לך </l>
+          <l>חבקיני, אהובה </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>בא מכאב, בא מכאב </l>
+          <l>ולכאב יום אחד אשוב </l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>אם יש אלוהים בליבי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

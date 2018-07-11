@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני שבשירים</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני שבשירים</head>
+        <lg number="1" type="stanza">
+          <l>כל שירי עם הרוח הרקיעו</l>
+          <l>אל מעבר לים הכחול,</l>
+          <l>התנגנו בהמון והגיעו</l>
+          <l>עד לקצה העולם הגדול.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מיזמורי הנשמה,</l>
+          <l>פיזמוני הדממה,</l>
+          <l>כל שירי השמחה והחופש</l>
+          <l>לי יפו כתמיד</l>
+          <l>אך נוגן בי יחד,</l>
+          <l>זה השיר, זה השיר שבלב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ושטפו השירים עם הלילה</l>
+          <l>כנהר ציבעוני ושיכור,</l>
+          <l>כמו עיר אדירה שלא די לה,</l>
+          <l>כמו הים כי יסוב לאחור.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מיזמורי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את שירת העולם כבר שבעתי,</l>
+          <l>נישמתי אל הבית פרחה,</l>
+          <l>ושירות שעד הנה נשאתי</l>
+          <l>אזמר ואשמור לכבודך.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מיזמורי...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>והיום אם דרכי שוב דוהרת</l>
+          <l>ושירי בעולם שוב סובב,</l>
+          <l>עוד אשמור לאנשי העופרת</l>
+          <l>את השיר האחד שבלב.</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>מיזמורי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

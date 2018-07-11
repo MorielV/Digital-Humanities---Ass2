@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה רק של שנינו</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>רונן ירקוני</writer>
+        <composer>יוסי חן</composer>
+        <album>שיהיה רק במזל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה רק של שנינו</head>
+        <lg number="1" type="stanza">
+          <l>כשאני קרוב אלייך זה האושר של חיי, </l>
+          <l>אני מחזיק בשתי ידי ונושם אותך אלי</l>
+          <l>ונשבע לאהוב אותך כל חיי, </l>
+          <l>רק איתך להיות עד סוף ימי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה רק של שנינו, כמו שיר קיים </l>
+          <l>אהבתינו היא לעולם </l>
+          <l>זה הזמן זה הרגע שלנו </l>
+          <l>אני ואת ביחד לעולם </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בכל דבר שאת נוגעת יש סימנים של אהבה, </l>
+          <l>למרות שאת ודאי יודעת אומר לך כמה את יפה </l>
+          <l>ונשבע לאהוב אותך כל חיי, </l>
+          <l>רק איתך להיות עד סוף ימי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה רק של שנינו, כמו שיר קיים </l>
+          <l>אהבתינו היא לעולם </l>
+          <l>זה הזמן זה הרגע שלנו </l>
+          <l>אני ואת ביחד לעולם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תני לי סיבה 2</title>
+        <singer classification="male singer">אילן נורי</singer>
+        <writer>יעקב גלעד</writer>
+        <composer>יהודה פוליקר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תני לי סיבה</head>
+        <lg number="1" type="stanza">
+          <l>את יודעת שניסיתי</l>
+          <l>להגיע בחמש</l>
+          <l>אבל איך שהתעוררתי</l>
+          <l>בשעון היה כבר שש</l>
+          <l>אז נרדמתי עד שקמתי</l>
+          <l>במצב נפשי איום</l>
+          <l>והבנתי שהלך לי כל היום.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא יודע מה קורה לי</l>
+          <l>למה כלום לא מסתדר</l>
+          <l>זה לגמרי לא ברור לי</l>
+          <l>אם זה שבר או משבר</l>
+          <l>איך לרדת מהחבל</l>
+          <l>שעליו אני תלוי</l>
+          <l>לבדי אני רק שבר כלי חצוי.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הווו אל תברחי לי</l>
+          <l>לא, לא אל תלכי לי</l>
+          <l>תני לי לבוא אליך עכשיו.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם תתני לי להוכיח</l>
+          <l>לעצמי ולעצמך</l>
+          <l>אז עכשיו אני מבטיח</l>
+          <l>שיותר לא נסתבך</l>
+          <l>והכל יהיה בסדר</l>
+          <l>לא יהיו עוד עניינים</l>
+          <l>בשבילך הבאתי</l>
+          <l>זר של שושנים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הווו אל תברחי לי</l>
+          <l>לא, לא אל תלכי לי</l>
+          <l>תני לי לבוא אליך עכשיו.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הווו אל תצחקי לי</l>
+          <l>לא, לא אל תבכי לי</l>
+          <l>תני לי סיבה לחזור למוטב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

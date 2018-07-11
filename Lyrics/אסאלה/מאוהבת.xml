@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאוהבת 2</title>
+        <singer classification="female singer">אסאלה</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאוהבת</head>
+        <lg number="1" type="stanza">
+          <l>לקחת את הכל איתך, אין בי עוד שמחה </l>
+          <l>נותרתי פה בלי מנוחה, הרגש של חיי נקטע </l>
+          <l>אתה לא כאן עכשיו וזה מפחיד להיות לבד </l>
+          <l>אני מבקשת למצוא לי קצת שקט בימים הקשים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מאוהבת ...אין לי מילים </l>
+          <l>לקחת איתך את הימים הכי יפים</l>
+          <l>תשמע את קולי קורא בשמך </l>
+          <l>רציתי אותך חיכיתי לך </l>
+          <l>אוהבת אותך אוהבת אותך </l>
+          <l>מאוהבת.....אין לי מילים </l>
+          <l>לקחת איתך את הימים הכי יפים </l>
+          <l>תשמע את קולי קורא בשמך </l>
+          <l>רציתי אותך חיכיתי לך </l>
+          <l>אוהבת אותך אוהבת אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קשה להאמין, אתה כבר לא מבין אותי </l>
+          <l>וזה מפריע לי כל כך רציתי לספר לך </l>
+          <l>לשמוע את קולך רק לחבק אותך חזק </l>
+          <l>אני מבקשת למצוא קצת שקט בימים הקשים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מאוהבת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר קדמשנתי</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>יונה וולך</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר קדמשנתי</head>
+        <lg number="1" type="stanza">
+          <l>רומזים לנו שיש סקס אחר.</l>
+          <l>טוב שמישהו יודע על זה.</l>
+          <l>אם יש סקס אחר</l>
+          <l>הביאוהו לכאן</l>
+          <l>ונדעהו נדבר גלויות,</l>
+          <l>יש או אין.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שכבר אנחנו עייפים מאוד</l>
+          <l>מנשינו הבתולות</l>
+          <l>וכל הזמן מראים לנו בתמונות</l>
+          <l>יש משהו אחר</l>
+          <l>אנחנו מרגישים שזה לא סתם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואם יש סקס אחר</l>
+          <l>בעולם אחר</l>
+          <l>נשים חדשות ויודעות</l>
+          <l>למה לא יביאו כמה</l>
+          <l>ללמד את נשינו היגעות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שכבר אנחנו עייפים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

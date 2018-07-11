@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר מהלב</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>עינת הולנדר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר מהלב</head>
+        <lg number="1" type="stanza">
+          <l>מהבוקר שיר נפלא מתנגן בי בלי הפסקה</l>
+          <l>כמה אושר יכול לשכון רק בִשניה אחת של נשיקה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מגלה בך דברים חדשים   </l>
+          <l>כמו צלילים מרגשים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בא לי לשיר לך  </l>
+          <l>וּלהזכיר לך</l>
+          <l>מה שהרגשנו</l>
+          <l>כשרק נפגשנו</l>
+          <l>גם אם זה נאיבי</l>
+          <l>לקולי הקשיבי:</l>
+          <l>זה שיר מהלב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מתבונן בך משתבחת כמו יין עם השנים</l>
+          <l>וצמא לך, כמו אז עדיין, ואוהב אותך עשְרות מונים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תגלי בי דברים חדשים</l>
+          <l>כמו צלילים מרגשים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בא לי לשיר לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

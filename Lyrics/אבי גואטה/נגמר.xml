@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נגמר 2</title>
+        <singer classification="unknown">אבי גואטה</singer>
+        <writer>אבי גואטה</writer>
+        <composer>אבי גואטה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נגמר</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אמרת שזה נגמר והרגש הפך למר </l>
+          <l>געגוע בלב נותר מצטער רוצה לומר</l>
+          <l>לוגם טיפה מרה הרגשה קצת מוזרה </l>
+          <l>בליבי את חסרה אין עוד דרך חזרה .</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נגמר</l>
+          <l>מחשבות רצות עכשיו בלילה קר</l>
+          <l>בעינייך היפות אני נזכר </l>
+          <l>הכל נגמר </l>
+          <l>נגמר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הזמן כמו נעצר </l>
+          <l>רק איתך כה מאושר </l>
+          <l>אחכה לך גם מחר תחזרי כי מאוחר</l>
+          <l>מה אומר ומה נותר </l>
+          <l>בליבי עדיין שר עוד חלום אחד נשאר </l>
+          <l>תחזרי בלילה קר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נגמר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

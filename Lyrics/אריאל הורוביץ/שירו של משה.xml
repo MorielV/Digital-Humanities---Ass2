@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שירו של משה</title>
+        <singer classification="male singer">אריאל הורוביץ</singer>
+        <writer>אריאל הורוביץ</writer>
+        <composer>אריאל הורוביץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שירו של משה</head>
+        <lg number="1" type="stanza">
+          <l>עומד על ההר ולא מאמין</l>
+          <l>הכל כה מוזר אתם לא יודעים</l>
+          <l>עומד על ההר ואין לי מילים</l>
+          <l>כדי לתאר לכם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רואה דוגמנית בתוך הליקופטר</l>
+          <l>מעל עיר פלישתית, כרגע בעוצר</l>
+          <l>כרגע עוד לא אבל יפתח כאן </l>
+          <l>סניף של מקדונלד, לשרותכם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לכו אתם, לכו אתם</l>
+          <l>זה בדיוק טוב בשבילכם</l>
+          <l>לכו אתם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מזמן כבר עבר דור העבדים</l>
+          <l>נותרו זיכרונות, אחוות לוחמים</l>
+          <l>הם מתו מהר והכי מהר מתו</l>
+          <l>הכי טובים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ובוקר אחד, יסלח לי האל</l>
+          <l>הכאב היה חד אז הרמתי מקל</l>
+          <l>כי אני בנאדם והוא</l>
+          <l>סך הכל אלוהים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לכו אתם...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>עומד על ההר, השחר מפציע</l>
+          <l>יפה לגלות שמי שהגיע</l>
+          <l>נראה כה קטן כמו המציאות</l>
+          <l>יום נפלא למות</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>לכו אתם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

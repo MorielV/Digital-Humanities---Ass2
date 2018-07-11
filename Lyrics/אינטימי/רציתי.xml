@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רציתי 5</title>
+        <singer classification="unknown">אינטימי</singer>
+        <writer>יניב פרי</writer>
+        <composer>יניב פרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רציתי</head>
+        <lg number="1" type="stanza">
+          <l>רציתי שתהיה איתי</l>
+          <l>ותאהב עכשיו אותי</l>
+          <l>ולא ישכון בי עצב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ירדתי אל הרחוב הצר</l>
+          <l>האפור הכה מוכר</l>
+          <l>נזכרתי כל הדרך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בכל המילים, בכל הסודות הכי כמוסים</l>
+          <l>בשתיקות שלך, בנגיעות שלך אלי הם שוב חוזרים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רציתי שיהיה בי כח</l>
+          <l>לא להביט, אולי לברוח</l>
+          <l>אין עולם אחר, אין מקום שם איש אינו שואל</l>
+          <l>רציתי בגופך לגעת, לא להבין אולי לדעת</l>
+          <l>מה עובר בך, מה עוטף אותך</l>
+          <l>כי מישהו שואל</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ובימים של אהבה</l>
+          <l>במערבולת של תשוקה</l>
+          <l>חיפשנו את עצמנו</l>
+          <l>ובלילה במיטה שהרוח</l>
+          <l>נכנסה נזכרתי שוב בשנינו</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בכל המילים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

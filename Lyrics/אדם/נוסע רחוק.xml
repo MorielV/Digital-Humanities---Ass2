@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נוסע רחוק</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>אלונה קמחי</writer>
+        <composer>יזהר אשדות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נוסע רחוק</head>
+        <lg number="1" type="stanza">
+          <l>בסוף הלילה מהחלון כבר בוקע</l>
+          <l>בוקר ראשון שתעברי בלעדי</l>
+          <l>הולך שקט ובאמת לא יודע</l>
+          <l>מה להגיד ולא חושב שכדאי</l>
+          <l>כי את עצמך מודה שרגע הפרידה עבר</l>
+          <l>ואין לאן לחזור.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>נוסע רחוק</l>
+          <l>ומתחיל כבר לשכוח</l>
+          <l>את מה שרצית שאזכור</l>
+          <l>האש שהרסה ושרפה אותי פעם</l>
+          <l>שורפת גשרים מאחור.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה יום שלך</l>
+          <l>תלכי איתו בלעדינו</l>
+          <l>אל תפחדי כי הכאב כבר עבר</l>
+          <l>נצח מילה שיחד המצאנו</l>
+          <l>בלי להבין כמה מהר הוא נגמר</l>
+          <l>כי את עצמך מודה שרגע הפרידה עבר</l>
+          <l>ואין לאן לחזור.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נוסע רחוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

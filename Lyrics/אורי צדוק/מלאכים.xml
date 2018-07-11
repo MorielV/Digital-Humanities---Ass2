@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלאכים 3</title>
+        <singer classification="unknown">אורי צדוק</singer>
+        <writer>אורי צדוק</writer>
+        <composer>אורי צדוק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלאכים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>בשמיים עננים שטים</l>
+          <l>טיפות של גשם מזכירות דמעות</l>
+          <l>מלאכים עולים ויורדים</l>
+          <l>אוספים קרני שמש אחרונות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>על אבן באמצע שום מקום</l>
+          <l>מוקף בחברים</l>
+          <l>בחיוך של תום אומר ניצחון</l>
+          <l>אמרת שלום</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מלאכים</l>
+          <l>הם בעצם ילדים</l>
+          <l>של השמיים</l>
+          <l>כמו הורים מאמצים</l>
+          <l>הם שומרים עליו</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כולם מדברים בנועם</l>
+          <l>כולם מצטערים</l>
+          <l>אנשים באים והולכים</l>
+          <l>אבן מכוסה בפרחים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מלאכים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

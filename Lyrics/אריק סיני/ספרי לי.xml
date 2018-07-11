@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ספרי לי 2</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>רן עפרון</writer>
+        <composer>רן עפרון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ספרי לי</head>
+        <lg number="1" type="stanza">
+          <l>עוד מעט בוקר קשה לי לנשום</l>
+          <l>הלב לא מניח בשום מקום</l>
+          <l>הכל מתפורר בקלות אפילו העץ שבגן</l>
+          <l>ומה זה קשה לי כשאת לא כאן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוד מעט בוקר קורא בעיתון</l>
+          <l>מתי יגמר כבר מתי היא תחזור</l>
+          <l>הכל מתפורר בקלות אפילו העץ שבגן</l>
+          <l>אולי התרחקנו יותר מדי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ספרי לי מה השתנה</l>
+          <l>ספרי לי מה קורה איתך</l>
+          <l>ספרי לי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עוד מעט בוקר השחר יאיר</l>
+          <l>עוד יום יגיע אני כבר מכיר</l>
+          <l>הכל מתפורר בקלות אפילו אני כבר שבור</l>
+          <l>למה הלכת לי דווקא עכשיו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ספרי לי...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>האם עברה המלחמה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

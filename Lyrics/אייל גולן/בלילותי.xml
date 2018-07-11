@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלילותי</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>אביחי מליחי</writer>
+        <composer>אביחי מליחי</composer>
+        <album>לחישה בלילה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלילותי</head>
+        <lg number="1" type="stanza">
+          <l>איך חדרה אל עולמי איני יודע</l>
+          <l>מה קסמה ומה פישרה אל יודע</l>
+          <l>כמו יונה צחורת כנף מבשרת</l>
+          <l>על שלום ואהבה לא תוותר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היא תשיר בלילותי</l>
+          <l>תאיר לי את חיי</l>
+          <l>ואליה שוב אבוא</l>
+          <l>אוהב עד סוף ימיי עד בלי די</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך קראתי לילדה גם כשבגרה</l>
+          <l>לא עוד בודדה מצאה את אושרה</l>
+          <l>כמו יונה צחורת כנף מבשרת</l>
+          <l>על שלום ואהבה לא תוותר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היא תשיר בלילותי</l>
+          <l>ושוב תבוא אלי</l>
+          <l>תנחם אותי ותאהב</l>
+          <l>תאהבני עד בלי די</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

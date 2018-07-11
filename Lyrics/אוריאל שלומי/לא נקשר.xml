@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא נקשר</title>
+        <singer classification="male singer">אוריאל שלומי</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא נקשר</head>
+        <lg number="1" type="stanza">
+          <l>בן אדם נופל לרשת באהבה שוקע </l>
+          <l>לא יודע מה קורה לו עד שזה פוגע </l>
+          <l>אך לא מתאהב למה לשחק בלב </l>
+          <l>כל אחד יודע המשחק הזה כואב </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני אף פעם לא נקשר </l>
+          <l>אוהב רק כמה שאפשר </l>
+          <l>אם האהבה מתוקה מדבש </l>
+          <l>למה לא לטעום אותה כל פעם מחדש? </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מהאהבה בורח כמו האש ממים </l>
+          <l>אם אני אוהב זה בטח רק ליום יומיים </l>
+          <l>בישבילי הכל זמני יש לי לב של צועני </l>
+          <l>כי אני טיפוס כזה בכלל לא רציני </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני אף פעם לא נקשר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

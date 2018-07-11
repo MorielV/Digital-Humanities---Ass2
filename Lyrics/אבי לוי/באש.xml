@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>באש</title>
+        <singer classification="unknown">אבי לוי</singer>
+        <writer>אבי לוי</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>באש</head>
+        <lg number="1" type="stanza">
+          <l>את צוחקת</l>
+          <l>תמיד חומקת</l>
+          <l>כאילו שאני אינו קיים</l>
+          <l>איתו בלילה</l>
+          <l>איתי שבא לה</l>
+          <l>ילדה צוחקת על כולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>באש באש</l>
+          <l>באש את משחקת</l>
+          <l>לאש לאש</l>
+          <l>לאש את מתקרבת</l>
+          <l>באש באש</l>
+          <l>באש את משחקת</l>
+          <l>עוד יבוא היום</l>
+          <l>שלך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אותי מושכת</l>
+          <l>ולא הולכת</l>
+          <l>אני ידעתי את לא רצינית</l>
+          <l>לא לא אוהבת</l>
+          <l>ומסרבת</l>
+          <l>נסי לך מישהו אחר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>באש באש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

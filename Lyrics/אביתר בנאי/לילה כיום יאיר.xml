@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לילה כיום יאיר</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>אביתר בנאי</composer>
+        <album>לילה כיום יאיר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לילה כיום יאיר</head>
+        <lg number="1" type="stanza">
+          <l>שוב אני נלחם</l>
+          <l>מגנט מושך למטה</l>
+          <l>זה בנקודות הקטנות</l>
+          <l>במילות עידוד</l>
+          <l>הפעם אנ'לא לבד</l>
+          <l>איזה קרב, אלוהים אדירים, איזה קרב</l>
+          <l>בין הבור למים</l>
+          <l>לפחות יש פה קרב</l>
+          <l>לפחות יש מים</l>
+          <l>פעם היה רק בור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לילה כיום יאיר...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני מרתיח את המים</l>
+          <l>זיכרונות צפים</l>
+          <l>מאיימים לשרוף הכל</l>
+          <l>יש מגירות שעדיין אני לא פותח</l>
+          <l>עד שיוסיף בי אור</l>
+          <l>זה בנקודות הקטנות</l>
+          <l>במילות עידוד</l>
+          <l>לשרוך ת'נעליים</l>
+          <l>לכפתר את חולצת הכפתורים הלבנה</l>
+          <l>להציע לך כוס מים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לילה כיום יאיר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לאורך הנחל שנובע בי</l>
+          <l>מבין העצים עומד הבית שלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

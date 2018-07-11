@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלאך</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>זוהר עטר</writer>
+        <composer>אופיר שמעוני</composer>
+        <album>בשבילך נוצרתי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלאך</head>
+        <lg number="1" type="stanza">
+          <l>ועכשיו כשהדרכים שוב מובילות אותך,</l>
+          <l>אל אותה חלקת שמיים בליבך הקט,</l>
+          <l>היי שקטה ורגועה אני גם בסערה</l>
+          <l>ניצב למענך יקירה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם תרצי אהיה לך בית, אהיה מקלט</l>
+          <l>לנפשך המבקשת רגע מנוחה,</l>
+          <l>חייכי אלי בין שפתותייך</l>
+          <l>נבער, נתגבר וודאי</l>
+          <l>ועוד יזרח האור אהובה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל המילים שאומר</l>
+          <l>וכל שליבי לך שר</l>
+          <l>מחום הגוף והנשמה</l>
+          <l>את לילותי וימי</l>
+          <l>לך אלף חושי</l>
+          <l>אתן ילדה מתוך אהבה</l>
+          <l>ולי תהיי תמיד - מלאך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשפניך נשואות קדימה ויודעות,</l>
+          <l>וכשאת רוצה להעמיק חזק מאוד,</l>
+          <l>יש לך אותי בכל מצב,</l>
+          <l>אני כאן נושם אותך,</l>
+          <l>מרגיש איתך כל כך מאושר.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מה איתך? שאלת בלילה</l>
+          <l>מה אני לך?</l>
+          <l>ואמרת אתה נותן לי את כל העולם,</l>
+          <l>שתקתי רגע,</l>
+          <l>על מצחך, מרוויח את כל כולך,</l>
+          <l>את כל מה שאני מבקש...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל המילים שאומר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

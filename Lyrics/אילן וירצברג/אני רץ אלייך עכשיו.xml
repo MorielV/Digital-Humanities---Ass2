@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני רץ אלייך עכשיו</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>אילן וירצברג</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני רץ אלייך עכשיו</head>
+        <lg number="1" type="stanza">
+          <l>אני רואה אותך כשאת יפה</l>
+          <l>מסתכל עלייך נרגש</l>
+          <l>אני אוהב אותך איך שאת עושה</l>
+          <l>זה מדליק אותי כל כך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אז תגידי בוא, בוא אלי</l>
+          <l>תגידי בוא אלי</l>
+          <l>אני רץ אלייך עכשיו</l>
+          <l>רק תגידי בוא, בוא אלי</l>
+          <l>אני בא אלייך עכשיו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני רואה אותך כשאת בוכה</l>
+          <l>מדבר איתך, לא עונה</l>
+          <l>אני רוצה אותך ואת קרה</l>
+          <l>שוב עוד לילה בלי שינה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אז תגידי בוא...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני רואה אותך כשאת רכה</l>
+          <l>מתקרב אלייך לאט</l>
+          <l>אני מרגיש אותך, את מפשירה</l>
+          <l>אני נופל עלייך נגמר</l>
+          <l>אז תגידי בוא, בוא אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

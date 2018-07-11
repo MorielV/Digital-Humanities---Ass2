@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יולנדה</title>
+        <singer classification="unknown">ארמדילוס</singer>
+        <writer>מאור גולדשטיין</writer>
+        <composer>עידו פרנקל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יולנדה</head>
+        <lg number="1" type="stanza">
+          <l>יש אחת עם זוג עיניים מארמלד </l>
+          <l>זוג שפתיים שוקולד </l>
+          <l>שתי רגליים ורק יד אחת </l>
+          <l>כל יום שישי היא עושה את הקניות שלה </l>
+          <l>אני עושה שלום היא לא עושה לי חזרה </l>
+          <l>כי יש לה סל ביד </l>
+          <l>אני ניגש מביא לה זר פרחים יפה יפה </l>
+          <l>היא מסרבת בנימוס כזה </l>
+          <l>כי זה יותר מדי לסחוב </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יולנדה יולנדה אני אוהב את החיוך שלך </l>
+          <l>אני אוהב את המבט שלך </l>
+          <l>רק תעזבי כבר את הסל הזה </l>
+          <l>יולנדה יולנדה האהבה שלנו היא הכל </l>
+          <l>אני נוהג באוטו הכחול </l>
+          <l>כי לי יש שתי ידיים אז אני יכול </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לפעמים יולנדה אני נזכר בך</l>
+          <l>רצה בשדות בין פרחים שיבולים ועלומות </l>
+          <l>את נוטה לצד ימין כי אין לך שום איזון, </l>
+          <l>את נופלת וקמה ושוב נופלת וקמה</l>
+          <l>את מחייכת נפלה לך השן... לא חשוב </l>
+          <l>אנחנו מנסים לרקוד להשתובב קצת בשתייה</l>
+          <l>אבל אין לך שכל... זה לא עובד </l>
+          <l>יולנדה את האהבה שלי את החיים שלי </l>
+          <l>אני אוהב בך הכל </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יולנדה יולנדה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קילפתי תפוז</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>נורית זרחי</writer>
+        <composer>יוני רכטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קילפתי תפוז</head>
+        <lg number="1" type="stanza">
+          <l>קילפתי תפוז,</l>
+          <l>מצאתי בפנים -</l>
+          <l>כמו בתוך קן</l>
+          <l>ילד ישן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הילד אמר:</l>
+          <l>"אתה עשית פה חור,</l>
+          <l>תקן את הפלח,</l>
+          <l>נושב עלי קור."</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אמרתי: "רגע,</l>
+          <l>סליחה, שלום."</l>
+          <l>ואת הפלחים</l>
+          <l>שמתי במקום.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ועד היום -</l>
+          <l>אם הוא לא הצטנן,</l>
+          <l>בתוך התפוז</l>
+          <l>ילד ישן.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

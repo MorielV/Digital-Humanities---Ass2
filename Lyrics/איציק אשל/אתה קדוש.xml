@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתה קדוש</title>
+        <singer classification="unknown">איציק אשל</singer>
+        <writer>עדי רן</writer>
+        <composer>עדי רן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתה קדוש</head>
+        <lg number="1" type="stanza">
+          <l>בדרכים רבות הלכנו</l>
+          <l>לחפש קורטוב אמת</l>
+          <l>לא הססתי מלנגוס בו</l>
+          <l>במעדן החטא</l>
+          <l>לא מצאנו את עצמנו</l>
+          <l>אין עוד טעם לכחש</l>
+          <l>התרבות הזאת לא לנו</l>
+          <l>כי בלבנו אש</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואני הקטן</l>
+          <l>השפל שבין כולם</l>
+          <l>עומד פה נרעד ונדהם</l>
+          <l>ואני הקטן</l>
+          <l>האחרון שבעם</l>
+          <l>עומד פה נרגש ונפעם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כי אתה קדוש</l>
+          <l>ושמך קדוש</l>
+          <l>קדושים כל יום</l>
+          <l>יהללוך סלה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בכלה נפסד החומר</l>
+          <l>נחש החוש עוד משקר</l>
+          <l>כשעוצמים את העיניים</l>
+          <l>סוף האמת להתבאר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וקשה לתפוס בשכל</l>
+          <l>גם הדמיון פה מאכזב</l>
+          <l>אבל יש שליט לעסק</l>
+          <l>ואותנו הוא אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואני הקטן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

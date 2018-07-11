@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כך עוברים חיי</title>
+        <singer classification="male singer">אורן חן</singer>
+        <writer>עוזי חיטמן</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כך עוברים חיי</head>
+        <lg number="1" type="stanza">
+          <l>אך כך עוברים חיי</l>
+          <l>מחפש פינה לשבת לנוח</l>
+          <l>מנגן לי שיר בלב</l>
+          <l>והראש קולט פתוח</l>
+          <l>מסלסל עוד ניגון ערב</l>
+          <l>ושירים מתוך הלב</l>
+          <l>משנה מצב הרוח</l>
+          <l>פעם רע לי פעם מתלהב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אה...כל חיי שירים</l>
+          <l>ורק שירים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אך - כך עוברים חיי</l>
+          <l>מחפש פינה להיות רגוע</l>
+          <l>מנגן לי שיר חדש</l>
+          <l>איש לא שר</l>
+          <l>הוא לא ידוע</l>
+          <l>מסלסל ניגון מתוך הלב</l>
+          <l>ושירי כמו תפילה</l>
+          <l>ינשא על כנף הרוח</l>
+          <l>ויושר במקהלה גדולה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אה...כל חיי שירים</l>
+          <l>ורק שירים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

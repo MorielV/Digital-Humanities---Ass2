@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דע מאיפה באת</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>זאב טנא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דע מאיפה באת</head>
+        <lg number="1" type="stanza">
+          <l>כבד את אביך ואת אמך</l>
+          <l>אהב את חייך על פני האדמה</l>
+          <l>כבד את אחיך ואת השכנים</l>
+          <l>וקח לעצמך ותן לאחרים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>דע מאיפה באת ולאן אתה הולך</l>
+          <l>דע מאיפה באת כי לשם את הולך</l>
+          <l>כל רגע שחולף</l>
+          <l>כי רגע הוא חשוב</l>
+          <l>דע מאיפה באת כי עוד פעם לא תשוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תגיד ידעתי</l>
+          <l>אל תגיד שמעתי</l>
+          <l>אל תגיד עזוב זה לא כל כך חשוב</l>
+          <l>אם באת עד הנה</l>
+          <l>אז אל תלכלך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

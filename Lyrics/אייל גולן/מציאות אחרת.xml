@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מציאות אחרת</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>דידי שחר</writer>
+        <composer>דידי שחר</composer>
+        <album>מציאות אחרת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מציאות אחרת</head>
+        <lg number="1" type="stanza">
+          <l>נפגשנו מאוחר מדי,</l>
+          <l>אמרת לי שאת מאוהבת,</l>
+          <l>שבנית איתו בית, שטוב לך איתו,</l>
+          <l>ואולי,</l>
+          <l>מאוחר מדי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נפגשנו מאוחר מדי,</l>
+          <l>ראיתי שגם את נסערת,</l>
+          <l>רעדת מעט כשהיבטת בעיני,</l>
+          <l>אך אולי,</l>
+          <l>מאוחר מדי.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אולי בזמן אחר,</l>
+          <l>אולי במציאות אחרת,</l>
+          <l>תהיי בשבילי בשבילי מאושרת,</l>
+          <l>ויופיך ילטף את חיי, אך אולי,</l>
+          <l>מאוחר מדי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נפגשנו מאוחר מדי</l>
+          <l>איך העזנו לקום וללכת</l>
+          <l>עם פגישה כמו זאת לא מקרית בוודאי</l>
+          <l>ואולי מאוחר מדי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אולי בזמן אחר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

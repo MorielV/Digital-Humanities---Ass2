@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאמי 8</title>
+        <singer classification="unknown">אליקי</singer>
+        <writer>שולי יוסף</writer>
+        <composer>שולי יוסף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאמי</head>
+        <lg number="1" type="stanza">
+          <l>כמה זמן רצינו ביחד</l>
+          <l>ואיך עכשיו אנחנו לבד</l>
+          <l>ואני ילדה מאוהבת</l>
+          <l>שרוצה לזכות בליבך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בדמעות לך עוד כותבת</l>
+          <l>זכרונות של אושר ישן</l>
+          <l>את דמותך לרוב מדמיינת</l>
+          <l>הכאב גובר עם הזמן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מאמי מאמי מאמי, רק איתך בנשמתי  </l>
+          <l>בדמי בדמי רק אתה - אהוב ליבי</l>
+          <l>מאמי מאמי מאמי כמלאך בחלומי</l>
+          <l>בוא הבט בעיני ותאמר שאתה שלי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מחכה מאז שעזבת</l>
+          <l>ובלילות רוצה את חומך</l>
+          <l>אחצה כל ים ויבשת</l>
+          <l>כדי להיות לעולם רק שלך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מאמי מאמי מאמי, רק איתך בנשמתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

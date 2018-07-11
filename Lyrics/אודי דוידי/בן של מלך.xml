@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בן של מלך</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>אודי דוידי</writer>
+        <composer>אודי דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בן של מלך</head>
+        <lg number="1" type="stanza">
+          <l>מאז שגיליתי שאני בן של מלך</l>
+          <l>התחלתי לרקוד ברחובות</l>
+          <l>מאז שגיליתי שאני בן של מלך</l>
+          <l>התחילו לצמוח לי פאות</l>
+          <l>מאז שגיליתי שאני בן של מלך</l>
+          <l>הכל נהיה כל כך ורוד</l>
+          <l>מאז שגיליתי שאני בן של מלך</l>
+          <l>נגמרו לי הצרות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם רק תדע אחי אהובי</l>
+          <l>שהכל מאיתו והכל לטובה</l>
+          <l>אם רק תזכור אחי אהובי</l>
+          <l>אז תמיד תהיה, תהיה רק בשמחה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מאז שגיליתי שאני בן של מלך</l>
+          <l>אני לא פוחד ממלחמות</l>
+          <l>מאז שגיליתי שאני בן של מלך</l>
+          <l>אני צוחק על הצרות</l>
+          <l>מאז שגיליתי שאני בן של מלך</l>
+          <l>זורק את כל החשבונות</l>
+          <l>מאז שגיליתי שאני בן של מלך</l>
+          <l>אותך רוצה רק לעבוד</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם רק תדע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

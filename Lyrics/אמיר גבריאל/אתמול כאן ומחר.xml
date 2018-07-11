@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתמול כאן ומחר</title>
+        <singer classification="male singer">אמיר גבריאל</singer>
+        <writer>אמיר גבריאל</writer>
+        <composer>אמיר גבריאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתמול כאן ומחר</head>
+        <lg number="1" type="stanza">
+          <l>צלילים שחוזרים רק בלילות </l>
+          <l>אני יודע מילים מילים יפות </l>
+          <l>אני לומד על היום מחכה לו שיבוא </l>
+          <l>הלילה חלמתי חלום חלום בלהות </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אתמול כאן ומחר </l>
+          <l>אני לא מחכה לשווא </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לומד כשאין לצידי מרגיש חלש </l>
+          <l>אין תשאיר אותי לבדי בורא חדש </l>
+          <l>בסוף שמים כחולים שעה של שקיעה </l>
+          <l>כמו כולנו מתים בתוך השתיקה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אתמול כאן ומחר </l>
+          <l>אני לא מחכה לשווא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

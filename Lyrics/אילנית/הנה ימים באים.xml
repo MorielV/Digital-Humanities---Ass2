@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנה ימים באים</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנה ימים באים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הנה ימים באים</l>
+          <l>ימים טובים ימים רעים</l>
+          <l>הו מה עצוב ומה נעים</l>
+          <l>להתראות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הנה האור חוזר</l>
+          <l>ציור של יום חדש גוזר</l>
+          <l>אל מול עיני פרחים שוזר</l>
+          <l>אני רוצה לחיות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני רוצה עוד לאהוב</l>
+          <l>אני רוצה אותך קרוב</l>
+          <l>ביחד רע, ביחד טוב</l>
+          <l>כך עד הסוף...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני רוצה לאהוב אותך</l>
+          <l>אני רוצה מקרוב איתך</l>
+          <l>ביחד רע וביחד טוב</l>
+          <l>כך עד הסוף...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הנה ימים באים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

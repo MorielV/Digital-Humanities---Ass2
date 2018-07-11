@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הינומה</title>
+        <singer classification="unknown">אלחי לגריסי</singer>
+        <writer>אורלי אלבז</writer>
+        <composer>אלדד אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הינומה</head>
+        <lg number="1" type="stanza">
+          <l>קול ששון וקול שמחה</l>
+          <l>קול חתן וקול כלה</l>
+          <l>בואי לגני אחותי כלה</l>
+          <l>יהללו בצלצלי שמע</l>
+          <l>בואי כלה בואי כלה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פזמון:</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נשבע לך שלנצח, את מקודשת לי</l>
+          <l>נשב תמיד לבטח, לעד תהיי שלי</l>
+          <l>אלף הפנים פה יהיו עכשיו עדיי</l>
+          <l>ועל כולם ישמור האחד שדיי</l>
+        </lg>
+        <lg number="4" type="stanza" />
+        <lg number="5" type="stanza">
+          <l>אכסה את פנייך בהינומה</l>
+          <l>אושיט לך את ידי אל החופה</l>
+          <l>רגלינו רועדות הלב אומר תודה</l>
+          <l>ובעיניי זולגת הדמעה</l>
+          <l>בואי כלה בואי כלה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>פזמון:</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>נשבע לך שלנצח, את מקודשת לי</l>
+          <l>נשב תמיד לבטח, לעד תהיי שלי</l>
+          <l>אלף הפנים פה יהיו עכשיו עדיי</l>
+          <l>ועל כולם ישמור האחד שדיי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

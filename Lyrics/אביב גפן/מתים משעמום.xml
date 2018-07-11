@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתים משעמום</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתים משעמום</head>
+        <lg number="1" type="stanza">
+          <l>הולכים כמו גוויות על הכביש הראשי</l>
+          <l>מחפשים ריגושים למצב הנפשי</l>
+          <l>מטביעים ספינותינו בים אלכוהול</l>
+          <l>ואחרי זה זיון ואחרי זה ליפול</l>
+          <l>שטוחים מרצפה וטיפשים מזבובים</l>
+          <l>הלב כמו הלונה פארק בשיפוצים</l>
+          <l>ריקים מדעות נמוכים מעפר</l>
+          <l>כשאנחנו נולדנו התוכן נפטר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תסתכלו עלינו ותראו אנו מתים משעמום</l>
+          <l>אנחנו זבל של האלף הנוכחית פסולת רעילה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אורזים כאבים מעלים למטוס</l>
+          <l>ונוסעים להודו כאילו לנפוש</l>
+          <l>בולעים שם קרטון מגרדים את השפיות</l>
+          <l>וחוזרים לאשפוז מקווים לא למות</l>
+          <l>אנחנו תירוץ שעשו ההורים</l>
+          <l>אנחנו בובות שאיבדו את החוטים</l>
+          <l>מכסים את הכלום באיפור של שקרים</l>
+          <l>מתבגרים מזדקנים ואחרי זה מתים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תסתכלו עלינו ותראו אנו מתים משעמום</l>
+          <l>אנחנו זבל של האלף הנוכחית פסולת רעילה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

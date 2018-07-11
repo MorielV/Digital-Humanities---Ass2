@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאושר למדי</title>
+        <singer classification="unknown">אבי עדאקי</singer>
+        <writer>אבי עדאקי</writer>
+        <composer>אבי עדאקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאושר למדי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>ימני בידי נסתרות דעותי</l>
+          <l>ובשמאל מלטף מאושר למדי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מחופש מחפש את הדרך לצאת </l>
+          <l>רק שעני בנכסי מגרד מכיסי </l>
+          <l>אבל לא מתעשר מאושר למדי </l>
+          <l>מחפש מטייל כל הלילה מיילל </l>
+          <l>אוף אין לי זמן </l>
+          <l>אוף אין לי עניין </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחופש מחפש את הדרך </l>
+          <l>איך לצאת </l>
+          <l>אוף אוף מהיכן </l>
+          <l>אוף אוף אין לי לאן </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ימני בידי נסתרות דעותי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בפסיעות קטנות</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>עמית צח</writer>
+        <composer>עמית צח</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בפסיעות קטנות</head>
+        <lg number="1" type="stanza">
+          <l>סתם יום של סתיו מעונן</l>
+          <l>שוב מחפשת את מסלולך בעשן</l>
+          <l>לא זוכרת איך לחזור לביתך</l>
+          <l>למוכר, למוגן</l>
+          <l>איך לסובב את מחוגי הזמן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמו סערה בלי שליטה</l>
+          <l>את שוב משתוללת</l>
+          <l>בלי להסביר, בלי סיבה</l>
+          <l>את שוב מתנפצת</l>
+          <l>ואז בוכה</l>
+          <l>אבודה בדמיונות</l>
+          <l>פתחי לי דלת, אייבש לך את הדמעות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ויבואו רבים ויגידו רבות</l>
+          <l>מה לחשוב, להרגיש</l>
+          <l>ומה לעשות</l>
+          <l>כל כאב הוא חולף</l>
+          <l>גם הלב מתקלף</l>
+          <l>כל דבר שתרצי יתגשם בשבילך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני עומדת איתך</l>
+          <l>בידך אוחזת</l>
+          <l>הרגע הזה הוא רק לך</l>
+          <l>אני לא עוזבת</l>
+          <l>הדרך מתחילה בפסיעות קטנות</l>
+          <l>פתחי לי דלת, אייבש לך את הדמעות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ויבואו רבים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד לא שם</title>
+        <singer classification="female singer">אפרת בן צור</singer>
+        <writer>אפרת בן צור</writer>
+        <composer>אפרת בן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד לא שם</head>
+        <lg number="1" type="stanza">
+          <l>מביטה ככה</l>
+          <l>קודם לא היה לי אומץ להביט</l>
+          <l>משהו נעשה</l>
+          <l>שהיה צריך להיעשות</l>
+          <l>הלוואי ויהיה לי אומץ להמשיך</l>
+          <l>עוד לא שם אך בקרוב אהיה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מחליטה ככה</l>
+          <l>קודם לא היה לי כוח</l>
+          <l>מה שכאן קרה כבר פחות מפריע לי</l>
+          <l>הלוואי ויהיה לי כוח להמשיך</l>
+          <l>עוד לא שם אך בקרוב אהיה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חדר חדש מצאתי</l>
+          <l>צריך רק לשפץ</l>
+          <l>לנקות לסדר לדאוג לשפר</l>
+          <l>הלוואי ויהיה לי אומץ להמשיך</l>
+          <l>עוד לא שם אך בקרוב אהיה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

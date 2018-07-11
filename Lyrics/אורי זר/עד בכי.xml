@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד בכי</title>
+        <singer classification="male singer">אורי זר</singer>
+        <writer>דודו ברק</writer>
+        <composer>נורית הירש</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד בכי</head>
+        <lg number="1" type="stanza">
+          <l>נשמתי יוצאת אלייך</l>
+          <l>בואי וחבקי אותי</l>
+          <l>משתקפת בעינייך</l>
+          <l>סערת אהבתי</l>
+          <l>בלעדייך אין עוד טעם לחיי</l>
+          <l>את ציפור נפשי ואת מאור עיני.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את אהבתי אשה עד בכי</l>
+          <l>אל תלכי לשם לא אל תלכי</l>
+          <l>רק מולדתי אשר אי שם</l>
+          <l>רק למענך אני קיים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את הרגע בו נפגשנו</l>
+          <l>בואי ונשמור לעד</l>
+          <l>זה הרגע שביקשנו</l>
+          <l>שנולד ושאבד</l>
+          <l>איזה געגוע חי בי עד עולם</l>
+          <l>הוא שורף בי אש</l>
+          <l>והוא גואה בי ים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את אהבתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

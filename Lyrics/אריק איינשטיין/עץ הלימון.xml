@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עץ הלימון</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>ויליאם הולט</writer>
+        <composer>ויליאם הולט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עץ הלימון</head>
+        <lg number="1" type="stanza">
+          <l>עת הייתי ילד קט אבי אמר לי כך:</l>
+          <l>למד, ילדי, מעץ לימון וזכור ואל תשכח</l>
+          <l>למול חלון חדרי הצר פרח לו עץ לימון</l>
+          <l>ובאמת בזמן קצר למדתי המון</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הלימון כה יפה הוא, ריחני ונהדר</l>
+          <l>אבל אל תאכל ממנו - אי אפשר, לא אי אפשר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהבתי פרחה תמיד בצל הלימונים</l>
+          <l>לכל יפהפיות הכפר נשבעתי אמונים</l>
+          <l>טבלתי כל אותם ימים באושר על צוואר</l>
+          <l>וכך שכחתי לפעמים מה אבא לי אמר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הלימון כה יפה הוא, ריחני ונהדר</l>
+          <l>אבל אל תאכל ממנו - אי אפשר, לא אי אפשר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>היכן הן כל אהבותי? נותרה אשתי בלבד</l>
+          <l>פרחי הלימונים נשרו, נשאר לימון אחד</l>
+          <l>למדו רעיי הצעירים מניסיוני המר</l>
+          <l>אתה חכמתי גם אני וכך לכם אומר:</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>הלימון כה יפה הוא, ריחני ונהדר</l>
+          <l>אבל אל תאכל ממנו - כן, אפשר עם קצת סוכר</l>
+          <l>הלימון כה יפה הוא, ריחני ונהדר</l>
+          <l>אבל אל תאכל ממנו - אי אפשר, לא אי אפשר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

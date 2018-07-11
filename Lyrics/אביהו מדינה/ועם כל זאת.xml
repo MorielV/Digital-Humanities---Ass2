@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ועם כל זאת</title>
+        <singer classification="male singer">אביהו מדינה</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ועם כל זאת</head>
+        <lg number="1" type="stanza">
+          <l>ועם כל זאת אני יודע</l>
+          <l>כי יש מקום אליו נפשי תתגעגע</l>
+          <l>גם אם עברו כבר אלפיים </l>
+          <l>שבתי אל זו שאהבתי עוד מנעורי</l>
+          <l>אמרתי כי שוב לא אנדודה</l>
+          <l>ושוב את ביתי לא עוזב </l>
+          <l>אשיבה ימיי כאן כקדם</l>
+          <l>אך שוב על חרבי מתקיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אך היה לי חלום</l>
+          <l>אך ומה לי היום</l>
+          <l>אל עייפתי מלחום</l>
+          <l>ברך לי שלום</l>
+          <l>ושלווה ובה רוב אהבה </l>
+          <l>ברך לי היום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את גורלי אתה יודע </l>
+          <l>ובנתיבי כל נדודי איתי פוסע </l>
+          <l>יבואו ימים כך הבטחת </l>
+          <l>לבטח נשב בצל גפן וגם תאנה </l>
+          <l>דור אחר דור האמנו </l>
+          <l>נותרנו מעט מכולם</l>
+          <l>אמרת כי בנו בחרת </l>
+          <l>לטוב או לרע איך נדע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אך היה לי חלום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>2000</title>
+        <singer classification="unknown">אייל הראל</singer>
+        <writer>אייל הראל</writer>
+        <composer>אייל הראל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>2000</head>
+        <lg number="1" type="stanza">
+          <l>זו עצבות שנת 2000</l>
+          <l>בתוך עולם מלא רגשות אשם</l>
+          <l>יחסים של בינתיים</l>
+          <l>זה אני ואתה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זו שמחת שנת 2000</l>
+          <l>בתוך שדה מלא פרחי בר</l>
+          <l>זמן מאושר ובינתיים</l>
+          <l>להיות ביחד זה לא לבד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עכשיו בתוך שדה פתוח</l>
+          <l>חושב על יום המחר</l>
+          <l>דברים רבים חולפים ברוח</l>
+          <l>אנחנו כאן לעולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זה אנחנו שנת 2000</l>
+          <l>טובים יותר חולמים פחות</l>
+          <l>רוצים יותר ובינתיים</l>
+          <l>אוחזים ידיים כדי לא ליפול</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עכשיו בתוך שדה פתוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

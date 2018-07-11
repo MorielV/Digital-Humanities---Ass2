@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עשר המכות</title>
+        <singer classification="male singer">איציק שמלי</singer>
+        <writer>איציק שמלי</writer>
+        <composer>איציק שמלי</composer>
+        <album>איציק שמלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עשר המכות</head>
+        <lg number="1" type="stanza">
+          <l>כשמגיע ערב הוא יושב לבד, עצוב,</l>
+          <l>חושב מה יביא לו גורלו</l>
+          <l>הוא התפלל ולא חלם שאבא יכנס</l>
+          <l>כועס שוב לחדרו.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל יום אצלו זה כמו סיוט</l>
+          <l>שורד לבד במציאות, שהיא טעות -</l>
+          <l>ממנה אי אפשר לברוח,</l>
+          <l>לא במוח, לא בכוח, </l>
+          <l>ולילד אין מנוח</l>
+          <l>איפה הצדק, האמת </l>
+          <l>כל מה שהיה כבר מת.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מי אמר שהחיים הם מתנה</l>
+          <l>ולמה זה אני סובל כל השנה</l>
+          <l>כל מכה כואבת לי בנשמה</l>
+          <l>ואין לי דרך לחזור בחזרה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שהגיע הלילה והרגע בו צריך לנשום</l>
+          <l>להפריח חלומות</l>
+          <l>נכנס מתחת לשמיכה שלו ומסתתר</l>
+          <l>מעשר המכות</l>
+          <l>אולי היום זה לא יקרה</l>
+          <l>הלוואי ואבא ישתנה</l>
+          <l>ולי יהיה שוב חופש, מנוחה מכל ה...</l>
+          <l>"אבא די, אבא כואב לי,</l>
+          <l>הייתי ילד טוב היום, תוותר לי, אבא לא מצטער"</l>
+          <l>עוד יום של פחד ששוב סוגר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מי אמר שהחיים הם מתנה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

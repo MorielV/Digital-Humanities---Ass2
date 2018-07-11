@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש לי גן</title>
+        <singer classification="female singer">אורה זיטנר</singer>
+        <writer>חיים נחמן ביאליק</writer>
+        <composer>נחום נרדי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש לי גן</head>
+        <lg number="1" type="stanza">
+          <l>יש לי גן ובאר יש לי</l>
+          <l>ועלי בארי תלוי דלי</l>
+          <l>מדי שבת בא מחמדי</l>
+          <l>מים זכים ישת מכדי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל העולם ישן - הס!</l>
+          <l>נם תפוח ואגס</l>
+          <l>אימי נמה, נרדם אבי</l>
+          <l>ערים רק אני ולבבי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והדלי כלבבי ער</l>
+          <l>נוטף פז אל פי הבאר</l>
+          <l>נוטף פז ונוטף בדולח:</l>
+          <l>דודי הולך, דודי הולך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הס, בגן נזדעזע נוף -</l>
+          <l>דודי בא אם פרכס עוף?</l>
+          <l>דודי, דודי! - חוש מחמדי</l>
+          <l>אין בחצר איש מלבדי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

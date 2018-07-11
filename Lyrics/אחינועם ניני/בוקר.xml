@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוקר 3</title>
+        <singer classification="female singer">אחינועם ניני</singer>
+        <writer>אחינועם ניני</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוקר</head>
+        <lg number="1" type="stanza">
+          <l>יום ראשון בבוקר ואתה אומר לי</l>
+          <l>כמה טוב להתעורר כאן לצידך</l>
+          <l>שמש מלטפת בין התריסים</l>
+          <l>ובלי סיבה מיוחדת בא לי לחייך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>קומי, קומי מאמי - כך אתה אומר לי</l>
+          <l>נומי, נומי, עוד עינייך עצומות</l>
+          <l>והרדיו מקשקש בשפת הקודש</l>
+          <l>על העומס שבין ראשון לגנות.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שיר קטן מתנגן בבוקר as the day begins</l>
+          <l>שיר מואר</l>
+          <l>עוד דקה חדשות, נקווה שזה יהיה</l>
+          <l>good morning, good morning</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תשמעי, החלטתי - כך אתה אומר לי</l>
+          <l>אני ואת נוסעים אך לא לעבודה</l>
+          <l>אולי נבדוק את המפלס של הכנרת</l>
+          <l>או בשביל שוקו נתגלגל עד יטבתה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>שיר קטן מתנגן בבוקר...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>בוא ניקח את השרייד המאובקת</l>
+          <l>געגועינו עוד דבוקים על השמשה</l>
+          <l>ניסע לאט כי ההיסטוריה לפנינו</l>
+          <l>מה ייצא לנו אם נעקוף אותה</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>שיר קטן מתנגן בבוקר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמרי לי</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>ירון כהן</writer>
+        <composer>ירון כהן</composer>
+        <album>צליל מיתר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמרי לי</head>
+        <lg number="1" type="stanza">
+          <l>אמרי לי על מה את חושבת</l>
+          <l>נראה לי שאת עצובה</l>
+          <l>עוד רגע ואת כבר עוזבת</l>
+          <l>שיש בעינייך דמעה</l>
+          <l>הביני שאותך תמיד חלמתי</l>
+          <l>את האושר לי את התקווה</l>
+          <l>תדעי שאותך תמיד אהבתי</l>
+          <l>ואוהב עד אינסוף אהובה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מחי את הדמעה</l>
+          <l>חיזרי לאהבה</l>
+          <l>נשבענו שתמיד נאהב</l>
+          <l>איך את עוזבת</l>
+          <l>עוד יש לנו תקווה</l>
+          <l>עם סמל אהבה</l>
+          <l>שלא יהיו עוד כאן אם</l>
+          <l>את עכשיו הולכת.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>השיבי חיוך אל פנייך</l>
+          <l>זיכרי שאותך אני אוהב</l>
+          <l>שימרי ובידקי צעדייך</l>
+          <l>גם אם זה לרגע כואב</l>
+          <l>חיזרי אל המקום שאהבנו</l>
+          <l>עוד תראי שהכל יסתדר</l>
+          <l>על מה שלרגע כאבנו</l>
+          <l>נכה ויחדיו נתגבר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מחי את הדמעה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

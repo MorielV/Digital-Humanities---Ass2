@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>להיות ביחד</title>
+        <singer classification="female singer">איאם</singer>
+        <writer>רון סלונים</writer>
+        <composer>רון סלונים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>להיות ביחד</head>
+        <lg number="1" type="stanza">
+          <l>חוקי מוסר נוקשים משאירים אותי בחוץ</l>
+          <l>אני חורקת שיניים, אבל זה לא נחוץ</l>
+          <l>הכוחות שלי עולים ויש רצון להתעלות</l>
+          <l>מחפשים תשובה בדרך, אבודים בשאלות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל כך הרבה שחיטות מעבר לרחוב</l>
+          <l>חרדים בשחור, עיתונים בצהוב</l>
+          <l>כותרות נייר, צומר שיער</l>
+          <l>שקרים מעופפים</l>
+          <l>בורחים לחלומות בורחים, מחפשים את אלוהים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>להיות ביחד</l>
+          <l>למרות הפחד, למרות הפחד הראשון</l>
+          <l>ולעבור ביחד את הלילה</l>
+          <l>ולהגיע אל היום</l>
+          <l>להיות ביחד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אלימות, אלימות תלויה באוויר</l>
+          <l>אני מפנה את הלחי - לא מחזיר</l>
+          <l>אני פוחד, את מעודדת מרחיקה את הפחדים</l>
+          <l>יושבים לבד בפינת החדר - מחפשים את אלוהים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>להיות ביחד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

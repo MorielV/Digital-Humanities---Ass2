@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יפנדה</title>
+        <singer classification="unknown">אבי אלוס</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יפנדה</head>
+        <lg number="1" type="stanza">
+          <l>יפנדה, כבשת את לבנו</l>
+          <l>יפנדה, כולך להבה</l>
+          <l>ואם תבואי אלינו</l>
+          <l>נשירה עוד שיר-אהבה.</l>
+          <l>יפנדה, באש נעורייך</l>
+          <l>נכווינו ואיש לא נמלט</l>
+          <l>ואם הארת את פנייך,</l>
+          <l>לרגע לבנו שברת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יפנדה, את כה חמודה ומתוקונת</l>
+          <l>אז למה זה את מזלזלת בכולם?</l>
+          <l>יפנדה, את כה צעירה ונישקת</l>
+          <l>אז למה זה תהיי לבד כאן בעולם?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יפנדה, אמרו כבר עלייך</l>
+          <l>שאין עוד כמוך בעולם</l>
+          <l>אז למה תחמיצי פנייך,</l>
+          <l>מדוע קולך נאלם?</l>
+          <l>יפנדה, כדאי שתדעי לך</l>
+          <l>שלך מחזיקים אצבעות</l>
+          <l>ואם ימשיך מה שקורה לך,</l>
+          <l>תפסידי שנים כה יפות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יפנדה, את כה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יפנדה, אנחנו עדיין</l>
+          <l>בראש מסוחרר בגללך.</l>
+          <l>הלא עזה את מיין</l>
+          <l>ורק אחרייך נלך.</l>
+          <l>יפנדה, כבשת את לבנו</l>
+          <l>יפנדה, כולך להבה</l>
+          <l>ואם תבואי אלינו</l>
+          <l>נשירה עוד שיר-אהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יפנדה, את כה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

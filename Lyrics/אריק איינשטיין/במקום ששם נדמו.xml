@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>במקום ששם נדמו</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>שם טוב לוי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>במקום ששם נדמו</head>
+        <lg number="1" type="stanza">
+          <l>במקום ששם נדמו</l>
+          <l>ציפורי השיר עם ערב</l>
+          <l>שם ישבנו גם בכינו</l>
+          <l>בזוכרנו את פניו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שם נותרה עוד קרן סהר</l>
+          <l>עלי גל גוסס בנחל</l>
+          <l>שם ישבנו גם בכינו</l>
+          <l>על אחינו שלא שב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שם זכרנו שם בכינו</l>
+          <l>שם אהבנו את אחינו</l>
+          <l>ועצי החוף הרכינו</l>
+          <l>ענפים לחים מטל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ובנפול כוכבי הערב</l>
+          <l>אל השחור אשר לנחל</l>
+          <l>הבהבה גם דמעתנו</l>
+          <l>ככוכב נושר מעל</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הבהבה גם דמעתנו</l>
+          <l>עד שבאה רוח ערב</l>
+          <l>ותמחה את עקבותינו</l>
+          <l>ותייבש אחרית הטל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

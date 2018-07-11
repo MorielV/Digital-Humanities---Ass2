@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טוב לי 2</title>
+        <singer classification="male singer">אמיר דדון</singer>
+        <writer>אמיר דדון</writer>
+        <composer>אמיר דדון</composer>
+        <album>אמיר דדון</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טוב לי</head>
+        <lg number="1" type="stanza">
+          <l>טוב לי להיות אני</l>
+          <l>טוב לך להיות את – טוב</l>
+          <l>אבל נחמד גם להיות אנחנו להיות – טוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>טוב לנו להיות אנחנו</l>
+          <l>בכל מקום את נמצאת כאן</l>
+          <l>וזה נותן לי אומץ להיות לבד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>טוב לי להיות אני</l>
+          <l>טוב לך להיות את – טוב</l>
+          <l>אבל נחמד גם להיות אנחנו להיות – טוב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>טוב לנו להיות אנחנו</l>
+          <l>בכל מקום את נמצאת כאן</l>
+          <l>וזה נותן לי אומץ להיות לבד</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

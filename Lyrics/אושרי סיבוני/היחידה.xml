@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היחידה 2</title>
+        <singer classification="unknown">אושרי סיבוני</singer>
+        <writer>ערן קאשי</writer>
+        <composer>ערן קאשי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היחידה</head>
+        <lg number="1" type="stanza">
+          <l>בית 1:</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני מתחיל לצעוד בדרך אל האושר, את העתיד שלי רוצה לבנות איתך, האהבה שלי אלייך לא נגמרת, את מפזרת רגעים של תקווה, ימים וגם לילות אני חשבתי, על הרגעים שהיססו לי את השקט, ובשעות שאת עוזבת את הבית, אני רוצה רק שתשובי כמו שאת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza" />
+        <lg number="4" type="stanza">
+          <l>פזמון: </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כי את היחידה, שמחממת לי ת'לב, ובלעדייך זה כואב, את העולם שלי יצרתי לכבודך, עם הלבד לא אתמודד, עד קצה עולם איתך אלך, רוצה לחלוק איתך שמחה וגם כאב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza" />
+        <lg number="7" type="stanza">
+          <l>בית 2:</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>ואם נגמר לי שוב הכוח זה בסדר, מתחיל לחזור לי שוב הטעם לחייך, אני זוכר איך את אמרת לי בבית ספר, תזהר איתי אף פעם לא הולך, ולא בטוח שאני כל כך בסדר, אבל תביני שהכל פתאום קורה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סיכוי קלוש</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>שרון הולצמן</writer>
+        <composer>שרון הולצמן</composer>
+        <album>קול וחומר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סיכוי קלוש</head>
+        <lg number="1" type="stanza">
+          <l>מעלים אותי למעלה, מורידים אותי חזרה</l>
+          <l>אומרים לי שהלילה נגמר ושהיום עלה</l>
+          <l>ברדיו הודיעו שהמחשב כבר מצא</l>
+          <l>שם למילחמה אפשר להרגע.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואין מכאוב, אין עוד פחד</l>
+          <l>אין אהבה שלא פוגשת ייאוש</l>
+          <l>יכולנו להיות עדיין ביחד</l>
+          <l>מה נשאר לנו מה רק סיכוי קלוש.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שונא את המיטה כשאת לא בתוכה</l>
+          <l>שונא את הרחוב שמסתיר כמה את יפה</l>
+          <l>מקנא בכפתורים שעל בד חולצתך</l>
+          <l>נוגעים לא נוגעים בגופך.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואין מכאוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

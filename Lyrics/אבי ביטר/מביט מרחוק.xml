@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מביט מרחוק</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>אבי ביטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מביט מרחוק</head>
+        <lg number="1" type="stanza">
+          <l>לא מוותרת ולא מבינה</l>
+          <l>ניסערתי ממך שוב אותה מנגינה</l>
+          <l>אני הכואב שמביט מחוק</l>
+          <l>אני המסתיר ת'כאב עם הצחוק</l>
+          <l>ניסחפתי אלייך ממש כמו סופה</l>
+          <l>כולי עוד בוער את אותה נערה</l>
+          <l>מתי כבר תפסיקי איתי לשחק</l>
+          <l>די תחליטי אני לא צוחק</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את רק משחקת את לא מחליטה</l>
+          <l>אני סובל בשקט את לא מגיבה</l>
+          <l>ניסחפתי אלייך ממש כמו סופה</l>
+          <l>בים של אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עומד מול ביתך מתבונן בחלון</l>
+          <l>אולי שוב תביטי תאמרי לי שלום</l>
+          <l>אני הכואב המביט מרחוק</l>
+          <l>אני המסתיר את הכבא עם הצחוק</l>
+          <l>האהבה בשבילך סתם מילה</l>
+          <l>לא תמצאי כזאת אהבה</l>
+          <l>מתי כבר תפסיקי איתי לשחק</l>
+          <l>די תחליטי אני לא צוחק</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את רק משחקת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

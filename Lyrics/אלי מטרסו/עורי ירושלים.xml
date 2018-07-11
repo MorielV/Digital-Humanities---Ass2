@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עורי ירושלים</title>
+        <singer classification="unknown">אלי מטרסו</singer>
+        <writer>אלי מטרסו</writer>
+        <composer>אלי מטרסו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עורי ירושלים</head>
+        <lg number="1" type="stanza">
+          <l>אהובתי ירושלים </l>
+          <l>לך המזמור ירושלם </l>
+          <l>אלף שמשות לך בין ערביים </l>
+          <l>בית מקדשך נביא חולם </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מלכות דוד בין חומותייך </l>
+          <l>שיר השירים בפי בנותייך </l>
+          <l>לך היופי לך הזוהר </l>
+          <l>לך הדר וחן </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פזמון... </l>
+          <l>עורי ירושלים </l>
+          <l>קומי בת מלך </l>
+          <l>משתחווים לך אפיים </l>
+          <l>שנות אלף ואלפיים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>על מפתנך אפרוש אדרת </l>
+          <l>ואתעטף בקדושתך </l>
+          <l>מעל ראשך אשים עטרת </l>
+          <l>ובלבי אשא את שמך </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מן הכרמים תירוש אסיק לך </l>
+          <l>והגישו לאביונייך </l>
+          <l>מי ייתן שעד הערב </l>
+          <l>לך יבוא גואל </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עורי ירושלים....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

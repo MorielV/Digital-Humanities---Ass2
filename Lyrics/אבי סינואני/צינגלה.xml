@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צינגלה</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>עממי טורקי</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צינגלה</head>
+        <lg number="1" type="stanza">
+          <l>כל המצב רוח שפתאום עולה</l>
+          <l>על המצב רוח בגלל הצינגלה</l>
+          <l>שאחטה ועוד שאחטה לפתע מתגלה</l>
+          <l>מן עולם חדש בגלל הצינגלה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נפגשנו בשכונה כל החברים</l>
+          <l>מוציאים סיגריה ואז מגלגלים</l>
+          <l>רציתי לבלות לצחוק ולהנות</l>
+          <l>חזרתי הביתה התחילו צעקות</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תפסיק להסתובב תפסיק להסתובב</l>
+          <l>עם כל החברים תפסיק להסתובב</l>
+          <l>תפסיק כבר לעשן תפסיק כבר לעשן</l>
+          <l>נספר מחר לאבא</l>
+          <l>תפסיק כבר לעשן</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ירח בשמים לאט לאט עולה</l>
+          <l>על החוף ישבנו עישנו צינגלה</l>
+          <l>לא ידענו איך זה הפתעה גמורה </l>
+          <l>מהחושך באו באו משטרה</l>
+          <l>באמצע החגיגה נהרס לנו הכל</l>
+          <l>הצינגלה שלי עמוק עמוק בחול</l>
+          <l>רציתי לבלות לצחוק ולהנות</l>
+          <l>חזרתי הביתה אל תוך הצעקות</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תפסיק להסתובב תפסיק להסתובב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

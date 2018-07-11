@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>העולם שלי</title>
+        <singer classification="unknown">ארז ביטון</singer>
+        <writer>יניב רם</writer>
+        <composer>יניב רם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>העולם שלי</head>
+        <lg number="1" type="stanza">
+          <l>שוב חוזר לדרך</l>
+          <l>שמובילה ישר לתוך ליבך</l>
+          <l>מרגיש כמו מלך</l>
+          <l>כשאני אוחז בכף ידך</l>
+          <l>ושוכח את הכול</l>
+          <l>מהמחר והאתמול</l>
+          <l>עכשיו אני איתך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואת תמיד בשבילי תהיי</l>
+          <l>העולם שלי</l>
+          <l>זוהרת וכובשת את כולך נותנת</l>
+          <l>תמיד בשבילי תהיי</l>
+          <l>העולם שלי</l>
+          <l>מפלסת דרך בשבילי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו את מחייכת</l>
+          <l>ומעינייך אור מביט אליי</l>
+          <l>וממהרת לחבק אותי ואת חיי</l>
+          <l>אני אתן לך עולם</l>
+          <l>את יקרה לי מכולם</l>
+          <l>עכשיו זה רק איתך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואת תמיד בשבילי תהיי</l>
+          <l>העולם שלי</l>
+          <l>זוהרת וכובשת את כולך נותנת</l>
+          <l>תמיד בשבילי תהיי</l>
+          <l>העולם שלי</l>
+          <l>מפלסת דרך בשבילי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

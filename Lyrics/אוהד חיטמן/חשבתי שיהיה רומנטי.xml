@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חשבתי שיהיה רומנטי</title>
+        <singer classification="male singer">אוהד חיטמן</singer>
+        <writer>יואב גינאי</writer>
+        <composer>אוהד חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חשבתי שיהיה רומנטי</head>
+        <lg number="1" type="stanza">
+          <l>חשבתי שיהיה רומנטי - נשב לבד בבית קפה,</l>
+          <l>כשמישהו סביבנו כבר הופך את הכיסאות.</l>
+          <l>חשבתי שיהיה רומנטי - נראה איך שכוכב נופל</l>
+          <l>ורוח על פנינו תסחרר את השעות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חשבתי שיהיה רומנטי - נשיר חזק עם אנקורים,</l>
+          <l>שירים של ברל ופיאף על "בורגנים ואספסוף".</l>
+          <l>חשבתי שיהיה רומנטי - נמות כמו משוררים,</l>
+          <l>לשתי דקות קדושות ושוב יהיה לנו עצוב.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>העלים על הבולוואר ירחפו למים, </l>
+          <l>קו האופק של העיר יתרחץ מול השמיים,</l>
+          <l>שלוש בבוקר סלה וי בלילה צרפתי,</l>
+          <l>קיוויתי שהאהבה שבחיי היא הדבר האמיתי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חשבתי שיהיה רומנטי - נעיף ביחד עפיפון,</l>
+          <l>אל שמש שקרנית ונתעטף במעילים.</l>
+          <l>חשבתי שיהיה רומנטי - נאהב חזק עד עילפון,</l>
+          <l>אבל הזמן כבר התאבד כמו נשימות בין המילים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>העלים על הבולוואר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

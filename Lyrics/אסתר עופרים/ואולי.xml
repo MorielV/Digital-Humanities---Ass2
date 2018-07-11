@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ואולי 4</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>רחל</writer>
+        <composer>יהודה שרת</composer>
+        <album>אסתר עופרים בהיכל התרבות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ואולי</head>
+        <lg number="1" type="stanza">
+          <l>ואולי, לא היו הדברים מעולם</l>
+          <l>ואולי, מעולם לא השכמתי </l>
+          <l>עם שחר לגן, </l>
+          <l>לעבדו בזיעת אפי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מעולם, בימים ארוכים ויוקדים</l>
+          <l>(ארוכים ויוקדים) של קציר </l>
+          <l>במרומי עגלה עמוסת אלומות</l>
+          <l>לא נתתי קולי בשיר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מעולם לא טהרתי </l>
+          <l>בתכלת שוקטה ובתום</l>
+          <l>של כינרת שלי הוי כינרת שלי</l>
+          <l>ההיית או חלמתי חלום?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

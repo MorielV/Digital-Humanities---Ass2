@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אלייך 4</title>
+        <singer classification="unknown">אופק בן הרוש</singer>
+        <writer>נדב אסולין</writer>
+        <composer>נדב אסולין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אלייך</head>
+        <lg number="1" type="stanza">
+          <l>חרש את ליבי כבשת בלי </l>
+          <l>לחשוב לרגע מה יהיה איתי</l>
+          <l>בשבילך אזרוק את כל הפחד</l>
+          <l>בשביל הלהבה שמחזיקה אותי</l>
+          <l>אל תברחי לתוך עצמך </l>
+          <l>רק תראי את שמחתך כאן לצידי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פזמון :</l>
+          <l>אני חוזר אלייך </l>
+          <l>מכור ללילותייך </l>
+          <l>וכל האושר בעינייך</l>
+          <l>איתך הכל מושלם  X2</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רגש מציף בתוך בטני</l>
+          <l>בלי תקווה אחת מה יהיה איתי</l>
+          <l>אם רק תשכחי את מעידותייך</l>
+          <l>בשבילך ילדה שמחזיקה אותי</l>
+          <l>אל תברחי לתוך עצמך </l>
+          <l>רק תראי את שמחתך כאן לצידי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פזמון :</l>
+          <l>אני חוזר אלייך </l>
+          <l>מכור ללילותייך </l>
+          <l>וכל האושר בעינייך</l>
+          <l>איתך הכל מושלם  X2</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

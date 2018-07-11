@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוא נעוף</title>
+        <singer classification="unknown">א ב דן</singer>
+        <writer>א. ב. דן</writer>
+        <composer>א. ב. דן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוא נעוף</head>
+        <lg number="1" type="stanza">
+          <l>רואה ספר</l>
+          <l>בשם מסתורי החלל</l>
+          <l>על ידי יש ספר בשם</l>
+          <l>מסתורי החלל</l>
+          <l>הוא מונח על הרצפה</l>
+          <l>אני מונח על הרצפה</l>
+          <l>אנל'א יודע</l>
+          <l>הוא לא יודע</l>
+          <l>רואה ספר</l>
+          <l>אני רואה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בוא נעוף...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על ידי יש מיטה</l>
+          <l>על ידי יש מיטה</l>
+          <l>אולי השנה תהייה שנת שמיטה</l>
+          <l>שנת שמיטה</l>
+          <l>או אולי איזו שביתה</l>
+          <l>או אולי איזו שביתה</l>
+          <l>תה תה תה תה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בוא נעוף...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני רואה את החגורה</l>
+          <l>אני רואה את החגורה שלי</l>
+          <l>לכובע שלי</l>
+          <l>לכובע שלי</l>
+          <l>שלוש פינות</l>
+          <l>שלוש פינות</l>
+          <l>היו לו</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בוא נעוף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

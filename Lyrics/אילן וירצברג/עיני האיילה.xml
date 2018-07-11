@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עיני האיילה</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>אילן וירצברג</writer>
+        <composer>אילן וירצברג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עיני האיילה</head>
+        <lg number="1" type="stanza">
+          <l>מישהו בא, מישהו הלך</l>
+          <l>רוצה לספר</l>
+          <l>אל תביט לאחור אמרה האישה</l>
+          <l>אמרה ושרה את השיר האחרון</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מישהו זר, משהו מוכר</l>
+          <l>הגוף רוצה לדבר</l>
+          <l>אהבה עד הסוף אמרה האישה</l>
+          <l>אמרה והסירה את הבגד האחרון</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עיני האיילה</l>
+          <l>יורות בי חץ מתוך החשיכה</l>
+          <l>וזה כואב</l>
+          <l>עיני האיילה</l>
+          <l>יורות בי אש מתוך החשיכה</l>
+          <l>וזה שורף</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מישהו בא, מישהו הלך</l>
+          <l>רוצה לספר</l>
+          <l>המלחמה נגמרה אמרה האישה</l>
+          <l>אמרה והסירה את הנשק האחרון</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עיני האיילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

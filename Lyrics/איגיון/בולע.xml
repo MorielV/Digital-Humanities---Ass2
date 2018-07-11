@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בולע</title>
+        <singer classification="unknown">איגיון</singer>
+        <writer>ניר אוטמזגין</writer>
+        <composer>איתי אורן</composer>
+        <album>ללכת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בולע</head>
+        <lg number="1" type="stanza">
+          <l>אני אוכל את מה שהכנתם לי</l>
+          <l>שותה את מה שרקחתם לי</l>
+          <l>בולע, משתגע, מתגעגע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חוזר למקום ההוא הירוק</l>
+          <l>עם החוף המוזהב</l>
+          <l>עם המים עד הברכיים</l>
+          <l>עם הידיים בשמיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עם מה שצריך, מתגלגל</l>
+          <l>עם מה שמרגיש, אני צולל</l>
+          <l>מקלף את השכבות</l>
+          <l>רואה את כל האסונות שבדרך</l>
+          <l>וכל יום עובר כאילו אין בי נגיעה</l>
+          <l>אני נאחז ואין הרבה רק</l>
+          <l>להאמין....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

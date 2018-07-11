@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אולי צריך לתת לזה עוד זמן</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אולי צריך לתת לזה עוד זמן</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>החיים עוד לא חזרו למסלולם,</l>
+          <l>הפצעים עדיין לא הגלידו,</l>
+          <l>אולי זה יישאר כבר לעולם,</l>
+          <l>אולי צריך לתת לזה עוד זמן</l>
+          <l>מה יהיה ימים יגידו</l>
+          <l>אולי צריך לתת לזה עוד זמן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>השמש הגדולה מופיעה תמיד בזמן</l>
+          <l>הגשמים גם הם בסדר, יורדים הם בעיתם</l>
+          <l>עולם כמנהגו נוהג שוקק בעצלתיים</l>
+          <l>אבל משהו בלב זועק אל השמיים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>החיים עוד לא...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יום אחד ראינו אור בקצה המנהרה</l>
+          <l>נקודה קטנה זוהרת מאירה באש קטנה</l>
+          <l>התקרבנו לאיטנו מסרבים להאמין,</l>
+          <l>מלאכים עמדו בפתח שרים אשרי המאמין</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

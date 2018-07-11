@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>על אש קטנה</title>
+        <singer classification="male singer">אבנר שטראוס</singer>
+        <writer>אבנר שטראוס</writer>
+        <composer>אבנר שטראוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>על אש קטנה</head>
+        <lg number="1" type="stanza">
+          <l>סבתא אומרת שמרק טעים</l>
+          <l>מתבשל על אש קטנה</l>
+          <l>יש עוד משהו שהיא זוכרת</l>
+          <l>אבל היא לא זוכרת מה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>סבתא אומרת, צריך לבשל</l>
+          <l>בסיר ברזל ולא בפח</l>
+          <l>סבתא אומרת שחלב שבוכים עליו,</l>
+          <l>לא נשפך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אש גדולה בוערת</l>
+          <l>את עצמה היא מכלה</l>
+          <l>אש קטנה תמיד נשארת</l>
+          <l>כמו בהתחלה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>סבתא מדליקה סיגריה,</l>
+          <l>לוקחת שאיפה</l>
+          <l>אומרת, הרוח מכבה את הגפרור,</l>
+          <l>אך מלבה את השריפה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>סבתא אומרת שהאהבה</l>
+          <l>היא כמו הלהבה</l>
+          <l>מי שמתרחק ממנה מצטנן</l>
+          <l>מי שמתקרב - ניכווה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אש גדולה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>סבתא אומרת שאש גדולה </l>
+          <l>שורפת את הסיר</l>
+          <l>ומי שלא עונד שעון</l>
+          <l>תמיד נשאר צעיר</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>סבא אומר שלאיש צעיר</l>
+          <l>אסור להתייאש</l>
+          <l>יש עץ שחלומו הוא מים</l>
+          <l>ועץ שחלומו הוא אש</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>אש גדולה בוערת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

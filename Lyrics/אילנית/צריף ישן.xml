@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צריף ישן</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>חיים חפר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צריף ישן</head>
+        <lg number="1" type="stanza">
+          <l>אם עוד עומד הצריף הישן</l>
+          <l>אם עוד יש מטפס על הקיר</l>
+          <l>אור צהוב של עששית ועשן</l>
+          <l>והתריס חורק פה דיאז על הציר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שן, שן צריף ישן</l>
+          <l>כי התריס חורק פה דיאז על הציר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שבי כאן מול וילונות התחרים</l>
+          <l>שבי כאן בצמתך על הגב</l>
+          <l>בך עברו בצעדים זהירים</l>
+          <l>חלומות הרקומים חוט זהב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שן, שן צריף ישן</l>
+          <l>חלומות הרקומים חוט זהב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אור נח על צילומים צהובים</l>
+          <l>אור נח על הפרחים באגרטל</l>
+          <l>חלונות מגשם סתיו רטובים</l>
+          <l>מסתכלים בך כל הליל כל הליל</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>שן, שן צריף ישן</l>
+          <l>מסתכלים בך כל הליל, כל הליל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

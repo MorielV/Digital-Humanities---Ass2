@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חמש שנים על מיכאל</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>יצחק קצנלסון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חמש שנים על מיכאל</head>
+        <lg number="1" type="stanza">
+          <l>חמש שנים על מיכאל</l>
+          <l>עברו בריקודים</l>
+          <l>בטל ישב מעבודה</l>
+          <l>חופשי מלימודים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שלושה היו לו חברים</l>
+          <l>נבחן שבמלונה</l>
+          <l>חתול שחור רבי לקיק</l>
+          <l>ובשובך יונה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חמש שנים ובשישית</l>
+          <l>אל חבריו קרא</l>
+          <l>שלום נבחן שלום לקיק</l>
+          <l>שלום יונה צחורה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל בית הספר אלכה לי</l>
+          <l>אלמד יום יום עכשיו</l>
+          <l>חכו עד כלות הלימודים</l>
+          <l>שוב נשתעשע יחדיו.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

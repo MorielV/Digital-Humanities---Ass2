@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איתך ובלעדייך</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>אילן גולדהירש</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איתך ובלעדייך</head>
+        <lg number="1" type="stanza">
+          <l>איתך, זו הזריחה שמעירה את היקום</l>
+          <l>ובלעדייך, זו השקיעה שאחריה אין מאום</l>
+          <l>איתך, זה שנינו העולים באש המדורה</l>
+          <l>ובלעדייך, זה השקט שאחרי הסערה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איתך ובלעדייך</l>
+          <l>זה אומר כבר את הכל</l>
+          <l>איתך ובלעדייך</l>
+          <l>זה להיות וזה לחדול</l>
+          <l>איתך ובלעדייך</l>
+          <l>זה לא כלום וזה הכל</l>
+          <l>איתך ובלעדייך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איתך, כל כך קשה בלתי ברור ומסתורי</l>
+          <l>אך בלעדייך, האמת שזה פשוט לא אפשרי</l>
+          <l>איתך, זה אור היום זה החיים זאת האלוהות</l>
+          <l>ובלעדייך, זה לפעמים יותר גרוע מלמות.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

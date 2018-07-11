@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דורינה</title>
+        <singer classification="unknown">איש גורדון</singer>
+        <writer>איש גורדון</writer>
+        <composer>איש גורדון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דורינה</head>
+        <lg number="1" type="stanza">
+          <l>דורינה, מאין קפצת לתוך חיי </l>
+          <l>דורינה, הגזמנו קצת יותר מדי </l>
+          <l>את עוד בננה צעירה </l>
+          <l>קצת חצופה וירוקה </l>
+          <l>ואתרוגייך עם השחר בוסר טוב </l>
+          <l>דורינה, החופש שלך כל כך גדול </l>
+          <l>דורינה, הרי לא תמיד אני יכול </l>
+          <l>פצעי בגרות לך על האף </l>
+          <l>בענניך אני עף </l>
+          <l>נוגס בתותים אדומים </l>
+          <l>חמוץ - מתוק </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>המחוגים נעים קדימה </l>
+          <l>איך אשכולות של ענבים </l>
+          <l>ואיזה טעם יש עם יין בן שנים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>דורינה, רקדנו מתחת למפל </l>
+          <l>דורינה, שיחקנו תופסת בערסל </l>
+          <l>לצווארך אני ענוד </l>
+          <l>איתך הלכתי לאיבוד </l>
+          <l>בערוגות שלך החלו ניצנים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>המחוגים נעים קדימה... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>דורינה, הערב זורח בשבילך </l>
+          <l>דורינה, קרניים של אור במבטך </l>
+          <l>ואת זכה תמימה דקה </l>
+          <l>ויש לך בטן חלקה </l>
+          <l>אסור לקטוף אפילו יום לפני הזמן.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

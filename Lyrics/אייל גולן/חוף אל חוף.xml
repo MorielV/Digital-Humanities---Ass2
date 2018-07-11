@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חוף אל חוף</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>רחל שפירא</writer>
+        <composer>פבלו רוזנברג</composer>
+        <album>מציאות אחרת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חוף אל חוף</head>
+        <lg number="1" type="stanza">
+          <l>כל הלילה לא נרדמתי</l>
+          <l>השינה אותי נטשה</l>
+          <l>ובשקט התחננתי</l>
+          <l>אל תלכי בבקשה</l>
+          <l>אל תלכי, אל תלכי</l>
+          <l>אל תקחי איתך את טעם החיים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>השארי לוחש הבית</l>
+          <l>הקירות נאנחים</l>
+          <l>תפוחים על השטיח</l>
+          <l>לרגלייך משתטחים</l>
+          <l>אל תלכי, אל תלכי</l>
+          <l>אל תקחי איתך את טעם החיים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>חוף אל חוף, שורד בחושך</l>
+          <l>כמה שאפשר</l>
+          <l>מה בסך הכל בקשתי</l>
+          <l>להיות קצת מאושר.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איש גדול יושב בחדר</l>
+          <l>שוב שומע את עצמו</l>
+          <l>ומבקש ממך בלי הרף</l>
+          <l>לא לגזול את חלומו</l>
+          <l>אל תלכי, אל תלכי</l>
+          <l>אל תקחי איתך את טעם החיים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>חוף אל חוף, שורד בחושך</l>
+          <l>כמה שאפשר</l>
+          <l>מה בסך הכל בקשתי</l>
+          <l>להיות קצת מאושר.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>חוף אל חוף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כאב ואכזבות</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>אבי ביטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כאב ואכזבות</head>
+        <lg number="1" type="stanza">
+          <l>כאב ואכזבות</l>
+          <l>אני מקלל תאהבה הזאת</l>
+          <l>איך יכולת לבגוד</l>
+          <l>ולהרוס את כל החלומות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עשיתי טעות שהתאהבתי בך</l>
+          <l>היה עדיף למות מלאהוב אותך</l>
+          <l>את עוד תתחרטי ילדה שלי אני נשבע</l>
+          <l>עוד תבכי ותחפשי את זאת האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שתבכי ותסבלי כמו שאני סובל</l>
+          <l>כל החיים אותך אני רק אקלל</l>
+          <l>לחיות בלעדייך אני עוד אתרגל</l>
+          <l>אני עוד אשכח אותך גם אם אני סובל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קחי את הצמיד</l>
+          <l>לא רוצה ממך עוד זכרונות</l>
+          <l>אני אשכח אותך</l>
+          <l>גם אם צריך הרבה שנים לבכות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רק רציתי לאהוב אותך</l>
+          <l>נשבעתי להורי עוד אשכח אותך</l>
+          <l>את אף פעם לא הבנת את זאת האהבה</l>
+          <l>את שיחקת במשחקים שאסורים ילדה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שתבכי ותסבלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

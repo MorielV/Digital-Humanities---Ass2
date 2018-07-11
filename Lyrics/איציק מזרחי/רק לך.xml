@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק לך</title>
+        <singer classification="unknown">איציק מזרחי</singer>
+        <writer>איציק מזרחי</writer>
+        <composer>דורון אלימלך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק לך</head>
+        <lg number="1" type="stanza">
+          <l>משהו השתנה אצלי בלב</l>
+          <l>פתאום הבנתי שרק אותך אני אוהב</l>
+          <l>נוסע למקום שאהבנו כל-כך</l>
+          <l>אין עוד מחשבות רוצה רק אותך</l>
+          <l>בעולם שלי את כמו דמעה קטנה</l>
+          <l>סוערת בים של אהבה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רק לך כתבתי את שירי</l>
+          <l>את כמו כוכב שזוהר בתוך ימיי</l>
+          <l>אז בואי תסתכלי קרוב אל תוך עיניי</l>
+          <l>ותראי שאת כל חיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עברו ימים לילות וחודשים</l>
+          <l>ואז הבנתי שאת האור שבחיים</l>
+          <l>הלב שלי חולם לעוף אתך למרומים</l>
+          <l>רוצה להיות שלך לעולמים</l>
+          <l>בעולם שלי את כמו דמעה קטנה</l>
+          <l>סוערת בים של אהבה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

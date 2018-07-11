@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>משהו עומד להתרחש</title>
+        <singer classification="unknown">אילן וירצברג</singer>
+        <writer>אילן וירצברג</writer>
+        <composer>אילן וירצברג</composer>
+        <album>בזמן אמת</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>משהו עומד להתרחש</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>משהו עומד להתרחש</l>
+          <l>לא ברור אם טוב או לא </l>
+          <l>מקווה שטוב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שחור הופך לבן בלי הרף</l>
+          <l>לבן הופך שחור</l>
+          <l>זה לא נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>משהו עומד להתרחש</l>
+          <l>לא ברור אם טוב או לא </l>
+          <l>מקווה שטוב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה שיבוא היה יהיה תמיד</l>
+          <l>מה שיבוא היה יהיה</l>
+          <l>לא נגמר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

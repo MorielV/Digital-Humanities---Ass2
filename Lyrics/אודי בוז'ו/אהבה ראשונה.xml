@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה ראשונה</title>
+        <singer classification="unknown">אודי בוז ו</singer>
+        <writer>אודי בוז'ו</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה ראשונה</head>
+        <lg number="1" type="stanza">
+          <l>כשאת עוברת ברחוב</l>
+          <l>מפנה מבט לעיני</l>
+          <l>אני נמס כמו גלידה</l>
+          <l>את החלום של חיי</l>
+          <l>שפתייך דבש מתוקות</l>
+          <l>את מהממת כזאת</l>
+          <l>אני שבוי ביופייך</l>
+          <l>את מהראש לא יוצאת.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואיך הגוף משגע</l>
+          <l>פצצת המדינה</l>
+          <l>מי שמביט בעיניה</l>
+          <l>נפל ברישתה</l>
+          <l>רוצה לגשת אליה</l>
+          <l>ת'לב היא גנבה</l>
+          <l>אני קניתי טבעת</l>
+          <l>תהיה חתונה</l>
+          <l>תהיה חתונה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חולם שאת בשימלה</l>
+          <l>אני לובש חליפה</l>
+          <l>צועד איתך לחופה</l>
+          <l>ואת כמו נסיכה</l>
+          <l>נשבעתי לך אמונים</l>
+          <l>עדים לנו האורחים</l>
+          <l>אם חלומות מתגשמים</l>
+          <l>נאהב עד סוף הימים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואיך הגוף משגע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציפור 6</title>
+        <singer classification="band">אבטיפוס</singer>
+        <writer>שרון הולצמן</writer>
+        <composer>שרון הולצמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציפור</head>
+        <lg number="1" type="stanza">
+          <l>זה אביך המת</l>
+          <l>או אימי החיה</l>
+          <l>רגעי החסד כה קצרים</l>
+          <l>מתוך החורבות</l>
+          <l>עולים ריחות ללא מפריע</l>
+          <l>עכשיו צומחים שם גבעולים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חלונות גבוהים מפוזרים בבית</l>
+          <l>משם אני אראה את הבושה</l>
+          <l>הרופא אומר מסוכן עכשיו לנסוע</l>
+          <l>אך דעתי כבר נחושה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עוד מעט רוח חדשה תגיע</l>
+          <l>תהפוך אותי ציפור</l>
+          <l>לאט, לאט שמש באה ברקיע</l>
+          <l>אני מרגיש כבר את הקור.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בבירור אני זוכר את ארוחת הערב</l>
+          <l>עיני סגורות ופי פעור למחצה</l>
+          <l>שיכחה רגעית כאבים קלים בברך</l>
+          <l>זה סימני המחלה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עוד מעט...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אין מה לעשות</l>
+          <l>מה לעשות?</l>
+          <l>אין מה לעשות</l>
+          <l>מה לעשות?</l>
+          <l>אין מה לעשות עוד</l>
+          <l>מה לעשות.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>עוד מעט...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

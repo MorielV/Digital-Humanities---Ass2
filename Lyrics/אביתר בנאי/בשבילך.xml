@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בשבילך 3</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>אביתר בנאי</composer>
+        <album>עומד על נייר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בשבילך</head>
+        <lg number="1" type="stanza">
+          <l>אם הייתי נר להאיר לך בלילה </l>
+          <l>אם הייתי נעל הייתי מגף או כפכף</l>
+          <l>אם הייתי יד ללטף אותך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם הייתי שיר היית איתי לבד</l>
+          <l>ריח ישן שחוזר עכשיו</l>
+          <l>אם הייתי גלגל להסתובב אחורה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בשבילך, בשבילך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עלה יבש בין שפתייך</l>
+          <l>ידי בשערך </l>
+          <l>לבי בלבך </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בשבילך, בשבילך, בשבילך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

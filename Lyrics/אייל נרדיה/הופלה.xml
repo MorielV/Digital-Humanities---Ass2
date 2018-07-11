@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הופלה</title>
+        <singer classification="unknown">אייל נרדיה</singer>
+        <writer>אייל נרדיה</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הופלה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הופלה הופלה הופלה הופלה</l>
+          <l>אני כמו משוגע, עלייך הופלה </l>
+          <l>אני ממש אומלל עשי לי הופלה </l>
+          <l>הופלה הופלה הופלה הופלה הופה הופה לה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בלילות חולם עלייך </l>
+          <l>כל כך קשה לי בלעדייך </l>
+          <l>כבר שנים חושב עלייך </l>
+          <l>אז תביני אין עלייך </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הופלה הופלה...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ברחוב כשאת עוברת </l>
+          <l>את כשמש מסנוורת </l>
+          <l>כמו נחש את מתפתלת </l>
+          <l>מכישה ולא נזהרת </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הופלה הופלה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

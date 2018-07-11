@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שבחי האהבה</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שבחי האהבה</head>
+        <lg number="1" type="stanza">
+          <l>מה לא אמרתי בשבחי האהבה?</l>
+          <l>מה לא זימרתי, רק אלייך, אהובה?</l>
+          <l>מה עוד אומר שעוד לא נאמר?</l>
+          <l>מה עוד אשיר ואין לי כבר אוויר?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כה מתוקה היא, כואבת ומרה,</l>
+          <l>כמה זרה היא, ידועה ומוכרה.</l>
+          <l>כה אכזרית וכול כך עדינה,</l>
+          <l>כה שברירית וכל כך איתנה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יחד בשניים, אבל כל כך לבד,</l>
+          <l>מול שתי עינייך הצל שלי אבד.</l>
+          <l>איך יש בי כוח, מי יאמר לי, מי,</l>
+          <l>לאהבה, לזכות ולחובה?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את כאן מנגד, אך מדוע זה אינך?</l>
+          <l>את אם חורגת ואחות שאין כמותך.</l>
+          <l>את לי כלה, הטוהר והשחור,</l>
+          <l>את לי אלה, האופל והאור.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יחד בשניים אבל כל כך לבד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

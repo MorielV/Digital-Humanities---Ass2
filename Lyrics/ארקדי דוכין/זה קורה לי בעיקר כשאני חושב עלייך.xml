@@ -1,0 +1,39 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה קורה לי בעיקר כשאני חושב עלייך</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה קורה לי בעיקר כשאני חושב עלייך</head>
+        <lg number="1" type="stanza">
+          <l>זה קורה לי בעיקר כשאני חושב עלייך</l>
+          <l>סף הרגש שלי עולה</l>
+          <l>ואני מאבד את עצמי לדעת</l>
+          <l>לא מרגיש כלום או מרגיש</l>
+          <l>זמן רב מדי</l>
+          <l>כאב עמוק מדי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

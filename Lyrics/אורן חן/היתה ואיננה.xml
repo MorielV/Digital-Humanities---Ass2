@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היתה ואיננה</title>
+        <singer classification="male singer">אורן חן</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היתה ואיננה</head>
+        <lg number="1" type="stanza">
+          <l>הזוכרת את את השעות ההן</l>
+          <l>שקשרנו בהן לב ונשמה בחן?</l>
+          <l>ומתאמץ אני להבין למה</l>
+          <l>כל הרגשות מתים, אהבה תמה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היא הייתה ואיננה</l>
+          <l>אך בתוכי היא עודנה.</l>
+          <l>נא אמור, אלוהי,</l>
+          <l>אם לאחר תשאירנה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היודעת את מה שאחוש כעת,</l>
+          <l>שהכל בי דעך ומרגיש כמו מת?</l>
+          <l>מתקדר יומי כמו כבתה שמש,</l>
+          <l>עוד זוכר אני את לילות-אמש.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היא הייתה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

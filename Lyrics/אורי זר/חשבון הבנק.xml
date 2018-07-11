@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חשבון הבנק</title>
+        <singer classification="male singer">אורי זר</singer>
+        <writer>יוני רועה</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חשבון הבנק</head>
+        <lg number="1" type="stanza">
+          <l>איך בבנק האוברדרפט חונק אותי </l>
+          <l>המנהל נושף בעורפי </l>
+          <l>מתחמק משתדל וזה מטריף אותי </l>
+          <l>הריבית מתקיפה מכל צד </l>
+          <l>כל ראשון לחודש זה חוזר שנית </l>
+          <l>ההמחאות שבות לביתן </l>
+          <l>ממקום למקום זה זורק אותי </l>
+          <l>איך המינוס לא נגמר לעולם </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כן זה הבנק זה הבנק שלוקח את הכל </l>
+          <l>ואני כבר עייף אין לי לילה ולא יום </l>
+          <l>אני נחנק ונחנק להמשיך כך לא יכול </l>
+          <l>די נשבר לי עזור לי אלוהים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>במכולת הם לא נותנים לי כבר בחוב </l>
+          <l>המכונית במוסך תקועה </l>
+          <l>והקבלן הודיע לי כבר לעזוב </l>
+          <l>כי לא שילמתי את שר הדירה </l>
+          <l>כך עוברים הימים מראשון לראשון </l>
+          <l>אני כבר לא מוצא את שביל הזהב </l>
+          <l>ובבנק הריבית ממשיכה לעבוד </l>
+          <l>איך המינוס לא נגמר לעולם </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כן זה הבנק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

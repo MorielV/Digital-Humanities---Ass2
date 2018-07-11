@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סובב</title>
+        <singer classification="male singer">אלי לולאי</singer>
+        <writer>אורנה כץ</writer>
+        <composer>אלי לולאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סובב</head>
+        <lg number="1" type="stanza">
+          <l>הולך, הולך, הולך שעות</l>
+          <l>הנשימה עוד לא נרגעת.</l>
+          <l>סובב סובב המחשבות רוצות לנוח ולדעת.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בודק ומחפש את התשובות שמופיעות לי בעיניים.</l>
+          <l>סובב, סובב יכול להיות שאת שואלת בינתיים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה מילים נתתי לך.</l>
+          <l>כמה מהן הזמן לקח והחיבור הזה עדיין כאן.</l>
+          <l>כמה פנים לקול שלך והכאב הזה שבך.</l>
+          <l>מה אם אבוא אלייך מתוקן.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הולך, הולך ברחובות בין המילים שלא אמרתי.</l>
+          <l>מה שרצית יכול להיות הוא לא מה שאני</l>
+          <l>הצעתי.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כמה מילים נתתי לך...</l>
+          <l>אני אוהב אותך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

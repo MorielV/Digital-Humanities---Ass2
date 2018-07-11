@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החיים יפים</title>
+        <singer classification="female singer">אחינועם ניני</singer>
+        <writer>אחינועם ניני</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החיים יפים</head>
+        <lg number="1" type="stanza">
+          <l>סתם, חיוך ללא סיבה</l>
+          <l>תום, ימים של אהבה</l>
+          <l>שיר ישן לאור ירח</l>
+          <l>וריח משכר שלך</l>
+          <l>וכך אותך אני זוכר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גל שוטף את העולם</l>
+          <l>חום הולך ונעלם</l>
+          <l>צחוק מאיר את השמיים</l>
+          <l>מזכיר שהמשחק נמשך</l>
+          <l>והחיים יפים כל כך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לה לה לה....</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בך אסתכל מתוך עיניו</l>
+          <l>אחבק אותך ויחד ננצח במשחק</l>
+          <l>בין מציאות לחלומות</l>
+          <l>בין האושר לדמעות</l>
+          <l>תמיד אוהב אותך מאוד</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עם הקסם שבלב</l>
+          <l>בוא נשכח את הכאב</l>
+          <l>רק עוד רגע ובינתיים</l>
+          <l>נזכור שהמשחק נמשך</l>
+          <l>והחיים יפים כל כך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לה לה לה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>רק עוד רגע ובינתיים</l>
+          <l>נזכור שהמשחק נמשך</l>
+          <l>והחיים יפים כל כך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

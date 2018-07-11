@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילדה 7</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>שלמה כישור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילדה</head>
+        <lg number="1" type="stanza">
+          <l>ילדה, שיצחק מי שיצחק,</l>
+          <l>החיים זה לא משחק</l>
+          <l>ילדה, של קירבה ושל מרחק</l>
+          <l>זכרי, ילדה.</l>
+          <l>ילדה, מה מתוק יותר מדבש?</l>
+          <l>רק ליבך המבוקש.</l>
+          <l>ילדה, מה סוער מלב נרגש?</l>
+          <l>אמרי, ילדה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל ימי הם בשבילך,</l>
+          <l>הכל אתן למענך.</l>
+          <l>אל תאמרי לי שאלך,</l>
+          <l>בואי בואי ותראי,</l>
+          <l>כל ימי הם בשבילך,</l>
+          <l>הכל אתן למענך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ילדה, איך חלפה-לה אהבה,</l>
+          <l>לי אימרי, אימרי תמה.</l>
+          <l>ילדה, אחת כמוך איש לא מצא,</l>
+          <l>רק אני, ילדה.</l>
+          <l>ילדה, לא אדע אם זה חלום,</l>
+          <l>איך הגעתי עד-הלום?</l>
+          <l>ילדה, על לבי את יהלום,</l>
+          <l>תמיד, ילדה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל ימי הם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אותיות פורחות באויר</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אביתר בנאי</writer>
+        <composer>missing</composer>
+        <album>לילה כיום יאיר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אותיות פורחות באויר</head>
+        <lg number="1" type="stanza">
+          <l>באמצע הלילה</l>
+          <l>אני מתעורר</l>
+          <l>הלב מלא</l>
+          <l>אני מוזר לכולם</l>
+          <l>וזר לעצמי</l>
+          <l>בלי מקום בעולם</l>
+          <l>אולי צריך להיגמר</l>
+          <l>כדי מחר להתחיל</l>
+          <l>במקום אחר</l>
+          <l>הגיעה השעה</l>
+          <l>משליך גפרור בכוונה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יומנים נשרפים</l>
+          <l>אותיות פורחות באוויר...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אנ'לא יודע לאן</l>
+          <l>אני ממשיך מכאן</l>
+          <l>פשוט מוכרח ללכת</l>
+          <l>משאיר זאב בודד</l>
+          <l>וערפל כבד</l>
+          <l>תמונות על הקירות</l>
+          <l>מדליק את האש</l>
+          <l>ומבקש</l>
+          <l>לא להביט לאחור</l>
+          <l>עזה כמוות אהבה</l>
+          <l>שלהבתיה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יומנים נשרפים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

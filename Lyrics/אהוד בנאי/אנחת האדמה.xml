@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אנחת האדמה</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>אהוד בנאי</writer>
+        <composer>אהוד בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אנחת האדמה</head>
+        <lg number="1" type="stanza">
+          <l>הקולות שעולים כמו עשן לשמיים</l>
+          <l>נבלעים בחלל נמוגים במרחב</l>
+          <l>שאגת ההמון במגרש כדורגל</l>
+          <l>תפילת החזן נגינת העוגב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קריאתה של העיר המיית האוקיינוס</l>
+          <l>קול מים רבים וקולות מלחמה</l>
+          <l>מתמזגים להמייה אחת</l>
+          <l>אנחת האדמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יבבת התינוק שנפלט מהשקט</l>
+          <l>ואנחת הזקן שאל השקט הולך</l>
+          <l>יללת התן צפירת הרכבת</l>
+          <l>הם כולם שביל אחד מתמשך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קריאתה של העיר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ירעם הים ומלואו, תבל ויושבי בה</l>
+          <l>נהרות ימחאו כף, יחד הרים ירננו</l>
+          <l>תיכון תבל בל תימוט, ידין עמים במישרים</l>
+          <l>ישמחו השמיים ותגל הארץ</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום גדול</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אהוד מנור</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום גדול</head>
+        <lg number="1" type="stanza">
+          <l>הבוקר קמתי והיה אפור</l>
+          <l>על אדן החלון עמדה ציפור</l>
+          <l>וצייצה בקולה עד ששמש עלה</l>
+          <l>והשמש עלה ועלה וגילה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עצים גגות ורחובות שקטים</l>
+          <l>ועוד היה מעבר לבתים</l>
+          <l>את הדשא הרך</l>
+          <l>ופריחת הלילך</l>
+          <l>תינוקות עם אימם</l>
+          <l>והאופק אי שם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כן זהו יום גדול</l>
+          <l>איזה יום נהדר</l>
+          <l>הרקיע כל כך כחול</l>
+          <l>והכל מואר</l>
+          <l>כן זהו יום גדול</l>
+          <l>איזה יום נהדר</l>
+          <l>בדיוק כמו אתמול</l>
+          <l>אולי גם כמו מחר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>פגשתי כמה חברים טובים</l>
+          <l>עשינו יחד כמה סיבובים</l>
+          <l>וגילינו כבישים</l>
+          <l>ודברים חדשים</l>
+          <l>כן היה לנו כיף</l>
+          <l>ואני לא עייף</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כן זהו...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>השמש כבר פונה למערב</l>
+          <l>וזה מה שהספקתי עד עכשיו</l>
+          <l>כמה טוב שאפשר לחכות למחר</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>כן זהו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

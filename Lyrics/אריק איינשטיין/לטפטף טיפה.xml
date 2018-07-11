@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לטפטף טיפה</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>מיקי גבריאלוב</composer>
+        <album>אוהב להיות בבית</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לטפטף טיפה</head>
+        <lg number="1" type="stanza">
+          <l>לא רציתי ללמד</l>
+          <l>לא ניסיתי להטיף</l>
+          <l>לא חיפשתי לפקד</l>
+          <l>וגם לא להיות עדיף</l>
+          <l>לא רציתי להכות</l>
+          <l>לא ניסיתי להתקיף</l>
+          <l>לא חיפשתי לגנות</l>
+          <l>וגם לא ניסיתי להחניף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סך הכל רציתי לטפטף טיפה</l>
+          <l>כי טיפה, עוד טיפה</l>
+          <l>עוד טיפה, עוד טיפה</l>
+          <l>תהיינה לים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא רציתי לגלות</l>
+          <l>ולא ניסיתי לאחד</l>
+          <l>לא חיפשתי לגנות</l>
+          <l>וגם לא להתאגד</l>
+          <l>לא רציתי לחדש</l>
+          <l>לא ניסיתי להרוס</l>
+          <l>ולא חיפשתי לקדש</l>
+          <l>וגם לא להיות הבוס</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סך הכל רציתי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לא אמרתי להקריב</l>
+          <l>לא צעקתי "אחרי!"</l>
+          <l>לא חיפשתי להגיב</l>
+          <l>וגם לא יצאתי מכלי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>סך הכל רציתי...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>לא רציתי ללמד</l>
+          <l>ולא ניסיתי להטיף</l>
+          <l>לא חיפשתי לפקד</l>
+          <l>וגם לא להיות עדיף</l>
+          <l>ולא רציתי להכות</l>
+          <l>ולא ניסיתי להתקיף</l>
+          <l>לא חיפשתי לפתות</l>
+          <l>וגם לא ניסיתי להחניף</l>
+          <l>לא ניסיתי לגנות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

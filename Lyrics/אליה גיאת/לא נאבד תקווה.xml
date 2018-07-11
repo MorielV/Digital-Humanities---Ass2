@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא נאבד תקווה</title>
+        <singer classification="unknown">אליה גיאת</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עופר לב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא נאבד תקווה</head>
+        <lg number="1" type="stanza">
+          <l>כשהמחר שמתקרב אינו בטוח</l>
+          <l>ולא יודעים לאן בכלל תוביל הרוח</l>
+          <l>לא נתייאש גם לא נרים ידיים</l>
+          <l>כי אלוהים שומר אותנו משמיים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא נאבד תקווה</l>
+          <l>גם ברגעים של אכזבה</l>
+          <l>לא נאבד תקווה</l>
+          <l>כי הכוכב עוד לא כבה</l>
+          <l>נאמר תמיד תודה</l>
+          <l>גם על הטוב והרע</l>
+          <l>לא נאבד תקווה</l>
+          <l>יש אור בקצה המנהרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשהמציאות כל כך קשה ומייאשת</l>
+          <l>וגם לרגע לא עולה אלינו קשת</l>
+          <l>נישא תפילה בלב רוגש אל השמיים</l>
+          <l>ונקבל באהבה ברכה או שתיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא נאבד תקווה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

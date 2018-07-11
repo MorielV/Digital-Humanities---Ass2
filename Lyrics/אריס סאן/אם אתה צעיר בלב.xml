@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם אתה צעיר בלב</title>
+        <singer classification="male singer">אריס סאן</singer>
+        <writer>יהודה אופן</writer>
+        <composer>אריס סאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם אתה צעיר בלב</head>
+        <lg number="1" type="stanza">
+          <l>אם אתה צעיר בלב</l>
+          <l>אם אתה רווק מושבע</l>
+          <l>אם אתה אותה אוהב</l>
+          <l>תזהר באהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>גם בלילה, גם ביום</l>
+          <l>היא חולמת לה חלום</l>
+          <l>חלומה הוא עלם חן</l>
+          <l>רק להתחתן</l>
+          <l>עלם לעולם וטבעת גם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אך אתה אל תתפתה</l>
+          <l>אם חולמת היא מדי</l>
+          <l>היא חולמת על שוטה</l>
+          <l>לא עליך בוודאי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>גם בלילה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>גם אם היא כה חמודה</l>
+          <l>גם אם היא יפה מאוד</l>
+          <l>היא איננה יחידה</l>
+          <l>יש כמוה רבבות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>גם בלילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

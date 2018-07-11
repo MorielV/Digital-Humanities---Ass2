@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הדוגמנית</title>
+        <singer classification="unknown">אייל שכטר</singer>
+        <writer>אייל שכטר</writer>
+        <composer>ארי קטורזה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הדוגמנית</head>
+        <lg number="1" type="stanza">
+          <l>הדוגמנית חייכה ושאלה "טוב לכם עכשיו?"</l>
+          <l>"לא רע", מומי זמזם, "רוצה לשכב?"</l>
+          <l>אורות כחולים נגעו בפנים</l>
+          <l>ליטפו אותנו, עשו נעים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>העיר רצה מומי, זה יותר מדי מהר</l>
+          <l>נמות כל לילה ונקום ליום אחר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>העננים זזים לצדדים</l>
+          <l>התחלתי לראות אנשים קטנים</l>
+          <l>אני אוהב לחיות בצד המהיר</l>
+          <l>אני יודע ללכת באוויר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הדוגמנית הלכה הביתה</l>
+          <l>ומומי כל הטירוף שלו עומד להתפוצץ</l>
+          <l>אני מרחף במועדון קוסמים</l>
+          <l>ומומי כל הזמן מתרוצץ</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>העיר רצה מומי, זה יותר מדי מהר</l>
+          <l>נמות כל לילה ונקום ליום אחר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>העננים זזים לצדדים</l>
+          <l>התחלתי לראות אנשים קטנים</l>
+          <l>אני אוהב לחיות בצד המהיר</l>
+          <l>אני יודע ללכת באוויר</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ומומי אומר: אני מת, אתה אדיוט</l>
+          <l>תראה את הלילה, כמה קצת נשאר לחיות</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>העננים משנים צורות</l>
+          <l>התחלתי לראות מיליון מפלצות</l>
+          <l>אני אוהב לחיות בצד המהיר</l>
+          <l>אני יודע ללכת באוויר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

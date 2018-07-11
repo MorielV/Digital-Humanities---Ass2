@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה לא מסתדר לי 2</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>רן עפרון</writer>
+        <composer>רן עפרון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה לא מסתדר לי</head>
+        <lg number="1" type="stanza">
+          <l>יש ימים שבא לי לבכות, לעצום עיניים</l>
+          <l>לא להיות, לא לראות, בטח לא לצחוק</l>
+          <l>יש ימים שאין לי מקום, לא חלום, לא בית</l>
+          <l>אך יש תמיד סיבה לחכות, אולי מחר...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש ימים שבא לי לצעוק, לאבד ת'דעת</l>
+          <l>לא מוצא אל מי לפנות, של מי למי הגורל</l>
+          <l>יש ימים שאין לי תשובות, רק דמעות של פחד</l>
+          <l>אך יש תמיד סיבה לאהוב - אולי מחר...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>זה לא מסתדר לי, זה לא מסתדר לי</l>
+          <l>זה לא מסתדר לי, איתך, בכל מצב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יש ימים שבא לי לשתוק, לא לחשוב עלייך</l>
+          <l>לא לריב, לא ליפול, רק לומר לך עכשיו</l>
+          <l>שיש תמיד סיבה לדבר, לנסות עוד פעם</l>
+          <l>אז אל תבכי, רק תחכי - אולי מחר...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>זה לא מסתדר לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

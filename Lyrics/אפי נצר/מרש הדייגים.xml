@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מרש הדייגים</title>
+        <singer classification="unknown">אפי נצר</singer>
+        <writer>דוריוואל קאימי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מרש הדייגים</head>
+        <lg number="1" type="stanza">
+          <l>כשספינתי תצא - תפליג בים,</l>
+          <l>אפרוש רישתי, אהובתי,</l>
+          <l>כשספינתי שלי תחזור מים</l>
+          <l>אביא לך דג, אהובתי,</l>
+          <l>כשיחזרו גם חברי מים</l>
+          <l>אודה לאל הטוב שבמרומים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כוכב רחוק שלי לויני,</l>
+          <l>תאיר דרכי, אל תעזבני,</l>
+          <l>או אז אדע: בודד אינני,</l>
+          <l>כי מישהו חושב עלי עכשיו.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

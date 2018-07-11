@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שקרים 4</title>
+        <singer classification="band">ארבע על ארבע</singer>
+        <writer>דני רובס</writer>
+        <composer>דני רובס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שקרים</head>
+        <lg number="1" type="stanza">
+          <l>שקרים, יום יום</l>
+          <l>כל שעה, כל רגע, כל מקום</l>
+          <l>בפנים, ברחוב, בכותרות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שחור, לבן</l>
+          <l>יום זה לילה, אין אש - יש עשן</l>
+          <l>והאמת חולה מאוד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>זה לא עוזר</l>
+          <l>כל מה שיקר לי מתפורר</l>
+          <l>אף שיר עוד לא עצר קרבות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קולות קטיפה</l>
+          <l>שמוכרים לי כלום עם עטיפה</l>
+          <l>אני עייף, עייף מאוד</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אוטומטית כולם משקרים לי כל פעם</l>
+          <l>תחת כל עץ, על כל גבעה</l>
+          <l>ואני מאמין כי אחרת אין טעם</l>
+          <l>לא מאבד תקווה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>נשים יפות</l>
+          <l>ארוכות רגליים ועוטפות</l>
+          <l>קשה שלא להתמכר</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>מסך קטן</l>
+          <l>מה אומר קולו של השטן?</l>
+          <l>לך, לך מגיע קצת יותר</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>אוטומטית כולם משקרים...</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>בינתיים כולם משקרים...</l>
+        </lg>
+        <lg number="10" type="stanza">
+          <l>שקרים,</l>
+          <l>כל שעה, כל רגע, כל מקום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

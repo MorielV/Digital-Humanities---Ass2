@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למות מקנאה</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>זה אני</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למות מקנאה</head>
+        <lg number="1" type="stanza">
+          <l>את נותנת לי חום</l>
+          <l>גם בלילה גם ביום</l>
+          <l>עד שאת שורפת</l>
+          <l>די זה לא ייתכן</l>
+          <l>תלמדי קצת לעצבן</l>
+          <l>כמה עוד אפשר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא יכול להתרגל </l>
+          <l>לקבל ולקבל</l>
+          <l>ונכון שאת אוהבת</l>
+          <l>אז למה בלי לשאול</l>
+          <l>את נותנת לי הכל</l>
+          <l>תני לי לקחת לבד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תני לי לרוץ כמו עיוור אחריך </l>
+          <l>תני לי למות מקנאה בגללך </l>
+          <l>אני רוצה לחצות כמה גשרים </l>
+          <l>לאהבה שבליבך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מרחוק מקרוב</l>
+          <l>את יודעת לאהוב</l>
+          <l>לא מרפה לרגע</l>
+          <l>ואני כמו תינוק</l>
+          <l>שרוצה מהמתוק</l>
+          <l>לך אמרתי די</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא יכול להתרגל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

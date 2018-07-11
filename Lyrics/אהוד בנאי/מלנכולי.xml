@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלנכולי</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>אהוד בנאי</writer>
+        <composer>אהוד בנאי</composer>
+        <album>אהוד בנאי והפליטים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלנכולי</head>
+        <lg number="1" type="stanza">
+          <l>המסע אליו יצאתי</l>
+          <l>התארך אל תוך הלילה</l>
+          <l>לבד בצד הדרך</l>
+          <l>בנופים לא מוכרים</l>
+          <l>פרצופים זרים</l>
+          <l>בתים דולקים בתוך החושך</l>
+          <l>מדורה של נוודים</l>
+          <l>רכבת של חצות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ומלנכולי היתה מנת חלקי</l>
+          <l>מדי ערב היא חיכתה לי ברציף הדייגים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בכל עיר נמל מוארת</l>
+          <l>או בכפר יושב על המים</l>
+          <l>בשעות מעורפלות</l>
+          <l>שנמוגו כעשן</l>
+          <l>לא עזבה אותי</l>
+          <l>היתה לאורך כל הדרך</l>
+          <l>ילדה של נוודים</l>
+          <l>בצל הסמטאות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ומלנכולי היתה מנת חלקי</l>
+          <l>מדי ערב היא חיכתה לי ברציף הדייגים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הצללית שלה חומקת</l>
+          <l>מרחפת על המים</l>
+          <l>בשעות מעורפלות</l>
+          <l>שנמוגו כעשן</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ומלנכולי היתה מנת חלקי</l>
+          <l>מדי ערב היא חיכתה לי ברציף הדייגים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

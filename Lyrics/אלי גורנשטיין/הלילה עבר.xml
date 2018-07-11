@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלילה עבר</title>
+        <singer classification="unknown">אלי גורנשטיין</singer>
+        <writer>אליעוז רבין</writer>
+        <composer>רוני וייס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלילה עבר</head>
+        <lg number="1" type="stanza">
+          <l>תמיד חשבת שנפרד עם בוקר</l>
+          <l>ומשהו ייתם ביננו לעולם</l>
+          <l>אמרת הן אבודים אתם</l>
+          <l>הנשבעים לשקר</l>
+          <l>בבוא היום ישנו דבר מה</l>
+          <l>שנעלם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עכשיו עלה האור ואנו שניים</l>
+          <l>ובחלון רואה אותנו שמש פז</l>
+          <l>הנה הכל מתחיל שנית</l>
+          <l>את תפקחי עיניים</l>
+          <l>אל יום חדש ושוב יהיה</l>
+          <l>הכל כאז</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הלילה עבר</l>
+          <l>אהבתנו עוד תהיה מחר</l>
+          <l>ואנו נתעורר הבוקר מאוחר</l>
+          <l>שקטים, שלובי ידים</l>
+          <l>הלילה עבר</l>
+          <l>וקול הלב כקול תופים גבר</l>
+          <l>את נשארת כאן</l>
+          <l>ואני עוד נשאר</l>
+          <l>כמו חולמים עדיין</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לבד לבד את לא תוכלי ללכת</l>
+          <l>ובלעדי שוב לא תרצי יותר לחלום</l>
+          <l>לאט לאט תדעי אהבתנו מתמשכת</l>
+          <l>על פני חייים שלמים</l>
+          <l>מליל ועד יום</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הלילה עבר...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כאן נשאר היום</l>
+          <l>שלובי ידיים</l>
+          <l>כאן נשאר היום</l>
+          <l>חולמים עדיין</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

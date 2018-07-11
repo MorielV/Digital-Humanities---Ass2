@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אולי אני חולם</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אולי אני חולם</head>
+        <lg number="1" type="stanza">
+          <l>אורות הלילה מאירים לי בדרך אל ליבך</l>
+          <l>ומלמעלה לוחשים לי באהבה את שמך</l>
+          <l>איתך אני עוצם עיניים, לרגע לא נושם</l>
+          <l>אוי אלוקים שבשמיים, אולי אני חולם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי אני, כן אני,</l>
+          <l>איתך כל רגע שוכח את עצמי</l>
+          <l>כי אני, כן אני,</l>
+          <l>איתך כל רגע שוכח את עצמי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>המלאכים פורשים כנפיים, עלינו הם שומרים</l>
+          <l>אנחנו זוג מהשמיים, החבר'ה מספרים</l>
+          <l>ובעיני דמעה של אושר, לוחשת לך תודה</l>
+          <l>כי רק לקום איתך בבוקר, אצלי זו אגדה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי אני, כן אני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

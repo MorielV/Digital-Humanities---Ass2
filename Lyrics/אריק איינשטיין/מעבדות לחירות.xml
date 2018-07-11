@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מעבדות לחירות</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>יענקל'ה רוטבליט</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מעבדות לחירות</head>
+        <lg number="1" type="stanza">
+          <l>כשל כח הסבל </l>
+          <l>לא יכולתי לשאת </l>
+          <l>די זה די אמרתי </l>
+          <l>אני מוכרח לצאת </l>
+          <l>את העבד שבי </l>
+          <l>להשאיר מאחור </l>
+          <l>במקום שאליו </l>
+          <l>לעולם לא אחזור </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אין עוד מה להגיד </l>
+          <l>נגמרו המילים </l>
+          <l>אין לי מה להפסיד עוד </l>
+          <l>מלבד הכבלים </l>
+          <l>שחתכו עד זוב דם </l>
+          <l>ועדיין אני שרוט </l>
+          <l>הלילה הזה אצא </l>
+          <l>מעבדות לחירות </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ויש משהו בי </l>
+          <l>כמו ירח מלא של ניסן </l>
+          <l>שקורא לי לקום </l>
+          <l>וחוזר וקורא כל הזמן </l>
+          <l>לצאת למסע שכולו סיכונים </l>
+          <l>לקראת שמץ סיכוי </l>
+          <l>לסוף דמיוני מאושר והזוי </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>באמת יש מצב </l>
+          <l>שמראש איזה הר </l>
+          <l>אראה מרחוק </l>
+          <l>הבטחה למחר </l>
+          <l>שאולי לא יבוא אבל </l>
+          <l>גם אם בדרך אמות </l>
+          <l>הלילה הזה אצא </l>
+          <l>מעבדות לחירות </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ויש משהו בי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

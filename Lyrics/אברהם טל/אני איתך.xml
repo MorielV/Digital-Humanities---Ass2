@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני איתך</title>
+        <singer classification="male singer">אברהם טל</singer>
+        <writer>אברהם טל</writer>
+        <composer>אברהם טל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני איתך</head>
+        <lg number="1" type="stanza">
+          <l>והדרך היא שלך</l>
+          <l>תלך בה בבטחה</l>
+          <l>ולעולמים תדע</l>
+          <l>שאני תמיד איתך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בכל יום בכל דקה</l>
+          <l>אני איתך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ותתן ללב שלך לצרוח בשמחה</l>
+          <l>שהמנגינה תצא החוצה בשירה</l>
+          <l>ואז תדע</l>
+          <l>אני איתך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל תדאג</l>
+          <l>בעיני הנצח לא תיטעה</l>
+          <l>אל תדאג </l>
+          <l>בסוף אתה תהיה</l>
+          <l>שלם עם עצמך</l>
+          <l>ועכשיו הזמן ללכת עם הלב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

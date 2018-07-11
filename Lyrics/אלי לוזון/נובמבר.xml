@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נובמבר 2</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>נורית בת-שחר צפריר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נובמבר</head>
+        <lg number="1" type="stanza">
+          <l>בנובמבר תחזרי כמו משב</l>
+          <l>עם הרוח גם אני אליך שב</l>
+          <l>שם כוכב נופל, חשבי עלי עכשיו.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בנובמבר ניפרד כדי לשוב להתראות</l>
+          <l>תבכי מצחוק ותצחקי דמעות</l>
+          <l>בואי נתפוס כוכב נופל</l>
+          <l>בערב סתיו אפל.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בנובמבר תתאחר שוב הזריחה</l>
+          <l>עוד שקיעה נוגה את חיוכך לקחה</l>
+          <l>באינסוף רחוק יש אור בחשכה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בנובמבר ניפרד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בנובמבר נעליך שוב רוקדות</l>
+          <l>את המדרכות אלי הן מודדות</l>
+          <l>זה הגשם הסתוי אותך יביא.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בנובמבר ניפרד...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>בנובמבר כמו משב</l>
+          <l>כמו עלה עם רוח סתיו בנובמבר.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

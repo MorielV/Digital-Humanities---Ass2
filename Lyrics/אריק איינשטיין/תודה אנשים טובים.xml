@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תודה אנשים טובים</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>ברי סחרוף</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תודה אנשים טובים</head>
+        <lg number="1" type="stanza">
+          <l>היינו שבורים, המומים, כואבים</l>
+          <l>החלפנו מבט, השפלנו עיניים</l>
+          <l>אחר כך זעמנו, נשפנו, רשפנו</l>
+          <l>התחלנו לחרוק, לחשוף שיניים</l>
+          <l>רצינו לשאול, לנסות להבין</l>
+          <l>ולא ידענו נפשנו</l>
+          <l>אחר כך חייכנו, לקחנו אוויר</l>
+          <l>זרקנו הכל וחזרנו לשנינו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תודה על השקט, תודה על האור</l>
+          <l>על הלב הרחב שהמיס את הכל</l>
+          <l>על הראש הבריא, סערת הנפש</l>
+          <l>הזמן היקר, החום והרגש</l>
+          <l>תודה על הרוך, התמימות הפשוטה</l>
+          <l>הליטוף, החיבוק, המילה הטובה</l>
+          <l>על הכל בו נשמת האדם עמוסה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תודה אנשים טובים, תודה</l>
+          <l>תודה אנשים טובים, תודה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>היינו שבורים, המומים, כואבים</l>
+          <l>הפנמנו לאט, נשכנו שפתיים</l>
+          <l>אחר כך חשבנו, שתקנו, דמענו</l>
+          <l>כמעט ויתרנו, הרמנו ידיים</l>
+          <l>רצינו לשאול, לנסות להבין</l>
+          <l>ולא ידענו נפשנו</l>
+          <l>אחר כך חייכנו, לקחנו אוויר</l>
+          <l>זרקנו הכל וחזרנו לשנינו</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תודה על השקט, תודה על האור...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>תודה אנשים טובים, תודה.</l>
+          <l>תודה אנשים טובים, תודה.</l>
+          <l>תודה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

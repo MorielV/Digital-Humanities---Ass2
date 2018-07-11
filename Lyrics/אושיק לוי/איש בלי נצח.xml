@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איש בלי נצח</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>מיכה שטרית</writer>
+        <composer>missing</composer>
+        <album>קול וחומר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איש בלי נצח</head>
+        <lg number="1" type="stanza">
+          <l>עדיין מוצא חן בעיני האל</l>
+          <l>וטוב שכן המ... כן.</l>
+          <l>עדיין מוצא חן בעיניה של...</l>
+          <l>זאת שאותי תיקח לעזאזל.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עדיין לא אבוד בעיני האל</l>
+          <l>ובעיני אימי גם כן.</l>
+          <l>אם לא הולך וקצת קשה</l>
+          <l>זה עושה לי טוב לדעת ש...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>למעלה גבוה, יש מי ששומע</l>
+          <l>צעקה של איש קטן.</l>
+          <l>על הארץ, למטה, איש בלי נצח ששכחת</l>
+          <l>מבקש רק עוד קצת זמן.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עדיין לא מביט בעיני האל</l>
+          <l>וטוב שכך... כן.</l>
+          <l>השמש חמה והאויר זורם</l>
+          <l>זה באמת קורה... לא... אני חולם.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>למעלה גבוה, יש מי ששומע</l>
+          <l>צעקה של איש קטן.</l>
+          <l>על הארץ, למטה, איש בלי נצח ששכחת</l>
+          <l>מבקש רק עוד קצת זמן.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבל 2</title>
+        <singer classification="male singer">אמנון קבולי</singer>
+        <writer>אמנון קבולי</writer>
+        <composer>אמנון קבולי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבל</head>
+        <lg number="1" type="stanza">
+          <l>תמיד קיים אבל...</l>
+          <l>מה שיכולתי לעשות אם...</l>
+          <l>אבל תמיד קיים אבל</l>
+          <l>אופס...מה שיכולתי לקבל אם...</l>
+          <l>הייתי קצת, לא יותר מ...</l>
+          <l>היה לי גם...אבל</l>
+          <l>תמיד תמיד קיים אבל וחבל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לו הייתי במקום אחר</l>
+          <l>רחוק רחוק בלי... רחוק רחוק מ...</l>
+          <l>אוף, איך אוכל כך בכלל</l>
+          <l>זה בגלל... האבל</l>
+          <l>תמיד תמיד קיים אבל וחבל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לו היה לי יותר, לא הייתי חוזר, משם</l>
+          <l>מ... מי... אבל</l>
+          <l>תמיד תמיד קיים אבל וחבל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין אבל, לא</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

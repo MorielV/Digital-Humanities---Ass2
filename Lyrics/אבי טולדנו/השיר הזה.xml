@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>השיר הזה</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>גיל בקנשטיין</writer>
+        <composer>גיל בקנשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>השיר הזה</head>
+        <lg number="1" type="stanza">
+          <l>מנגינה, יורדת ועולה </l>
+          <l>לא מחכה לי, היא זורמת למעלה ולא מפסיקה </l>
+          <l>ואני, כמה רציתי שהיא, רק תיקח אותי עד המרומים </l>
+          <l>אין לי סיכוי בכלל, היא כבר עפה קדימה כמה פעמים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל השיר, הזה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נעימה, הו כמה נעימה </l>
+          <l>כמו לחישה היא, מתחזקת בכוח נהיית נהמה </l>
+          <l>וגם את, כמה רצית להיות, בהרמוניה מושלמת בין הצלילים </l>
+          <l>אל תעזבי אותה, היא רוצה שתוסיפי לה כמה מילים </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל השיר, הזה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם רק נעצור אותה, זה יהיה וודאי מאוחר </l>
+          <l>כי אם נצליח היום, היא פשוט תיפתח מחדש כבר מחר </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>זה השיר, הזה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

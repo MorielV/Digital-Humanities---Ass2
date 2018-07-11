@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צמא אלייך</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>רמי לב</writer>
+        <composer>איציק קלה</composer>
+        <album>שיהיה רק במזל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צמא אלייך</head>
+        <lg number="1" type="stanza">
+          <l>זה קורה כל פעם מחדש</l>
+          <l>לצידך אני כל כך נרגש</l>
+          <l>המתוק שבעינייך</l>
+          <l>והדבש שבשפתייך</l>
+          <l>זה עולם יפה שלא אשכח!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>צמא אלייך, כי בלעדייך</l>
+          <l>החיים שלי כמו סרט משוגע</l>
+          <l>צמא אלייך, לאור עינייך</l>
+          <l>בשבילך מוכן למות מאהבה!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>באת אלי כמו רוח סערה</l>
+          <l>וברגע עולמי נברא </l>
+          <l>מתנה מהשמיים</l>
+          <l>איתך פורש כנפיים</l>
+          <l>עף לעולמות יפים כל כך!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>צמא אלייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

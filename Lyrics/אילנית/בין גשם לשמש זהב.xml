@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בין גשם לשמש זהב</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>יורם טהרלב</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בין גשם לשמש זהב</head>
+        <lg number="1" type="stanza">
+          <l>שרות ציפורים על הרוח,</l>
+          <l>שרים הפרחים על הטל,</l>
+          <l>שרות הדרכים על ליבן הקרוע</l>
+          <l>בין גבע לבין נהלל.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פורחות ציפורים על ראשינו,</l>
+          <l>עולים הפרחים מן הטל,</l>
+          <l>פורח אבק הדרכים אל פנינו</l>
+          <l>בין גבע לבין נהלל.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שרים שועלים לירח,</l>
+          <l>עפות היונים אל פניו,</l>
+          <l>נושרים כוכבים לפרדס הפורח,</l>
+          <l>לימון ותפוח זהב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שרים אנשים על הרוח</l>
+          <l>שקיץ וסתיו בכנפיו,</l>
+          <l>שרים אנשים על ליבם הקרוע</l>
+          <l>בין גשם לשמש זהב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתה נולדת לאהוב</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתה נולדת לאהוב</head>
+        <lg number="1" type="stanza">
+          <l>הוא ישב לו בכיתה</l>
+          <l>ולא הבין את הבדיחה</l>
+          <l>עד שתפס שהבדיחה זה הוא</l>
+          <l>ואז בהפסקה מקובלים מהשכבה</l>
+          <l>דפקו לו את הראש על האסלה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם תשאלו אותי אני תמיד אומר</l>
+          <l>אתה נולדת לאהוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ונולדה לך ילדה</l>
+          <l>ואז כשאמא לא היתה</l>
+          <l>הוספת לה חוקים למשחקים</l>
+          <l>והיום היא כבר גדלה</l>
+          <l>היא גרה במחלקה סגורה</l>
+          <l>כשאתה עוד מסתובב לך חפשי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם תשאלו אותי אני תמיד אומר</l>
+          <l>אתה נולדת לאהוב</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז בואי נתחבק ובואי נתנשק</l>
+          <l>יש רגעים שאנו שוכחים</l>
+          <l>אתה נולדת לאהוב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

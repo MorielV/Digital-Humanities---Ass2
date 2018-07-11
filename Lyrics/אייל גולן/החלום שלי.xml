@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>החלום שלי</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>אורלי אלבז</writer>
+        <composer>שמואל אלבז</composer>
+        <album>צליל מיתר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>החלום שלי</head>
+        <lg number="1" type="stanza">
+          <l>אמרת שתחשבי אני עוד מחכה לך</l>
+          <l>החלום שלי שבוי באפלה</l>
+          <l>לבדי יושב על גיטרה מנגן לך</l>
+          <l>הצלילים עולים מתוך הנשמה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל תשפטי אותי לפי מראה עיניים</l>
+          <l>רק תרקדי לקצב פעימות הלב</l>
+          <l>גלי את התשובה לחידותייך</l>
+          <l>נפשי כבר עייפה מהכאב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תשכחי את בליבי מנעורייך</l>
+          <l>אל תגרמי לרגשות להתעכב</l>
+          <l>חולם על התמימות שבשפתייך</l>
+          <l>יודע רק אותך אני אוהב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מרוב אהבתי את חיי אתן לך</l>
+          <l>אין עוד כח שיפריד אותי ממך</l>
+          <l>אולי זה רק אני האחד שמחכה לך</l>
+          <l>שיגשים את הוורוד בחלומך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אל תשפטי אותי לפי מראה עיניים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

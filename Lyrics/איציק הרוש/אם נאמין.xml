@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם נאמין</title>
+        <singer classification="male singer">איציק הרוש</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>משה נגר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם נאמין</head>
+        <lg number="1" type="stanza">
+          <l>השמש עוד תזרח </l>
+          <l>ותפזר פניני שמחה </l>
+          <l>תנשק את ילדינו </l>
+          <l>ותזרע עוד הבטחה </l>
+          <l>האתמול לא יזכר </l>
+          <l>ואיתו גם הכאב </l>
+          <l>כי השמש לעולם תאיר פנים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בליבי זורח אור </l>
+          <l>ופורטת מנגינה </l>
+          <l>במרחב אני הולך </l>
+          <l>בנתיבי האמונה </l>
+          <l>אם נאחז יחדיו לנצח </l>
+          <l>באורו של יום חדש </l>
+          <l>לבטח המחר יפתח בשיר </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אם נאמין ונחייך אל המחר </l>
+          <l>ובחיבה ישיב חיוך </l>
+          <l>מלא תקווה ומאושר </l>
+          <l>אם נאמין ונחייך אל המחר </l>
+          <l>אז נגמע מהמתיקות מהעתיד </l>
+          <l>שכה נסתר </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>האל לא נעלם </l>
+          <l>הוא שוכן בלב אדם </l>
+          <l>ומתוך חלום יאיר את האושר בעולם </l>
+          <l>נבטח בו לעד בדרך כל בשר </l>
+          <l>כי השמש לעולם תאיר פנים </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אם נאמין...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

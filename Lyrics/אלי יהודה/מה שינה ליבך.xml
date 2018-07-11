@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה שינה ליבך</title>
+        <singer classification="unknown">אלי יהודה</singer>
+        <writer>רפי אגרונוב</writer>
+        <composer>רפי אגרונוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה שינה ליבך</head>
+        <lg number="1" type="stanza">
+          <l>כשישבנו לדבר הרוח לחשה</l>
+          <l>לא גילית מה שעובר בליבך אישה</l>
+          <l>אהבה חזקה הפכה לחלשה</l>
+          <l>את הפרת את הכללים והפכת קשה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את הרגשות שבך עדיין מחפש</l>
+          <l>מחכה ומצפה שיקרה לי נס</l>
+          <l>מה שינה ליבך לדעת מנסה</l>
+          <l>בלי אהבתך אין לי מחסה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ובתוך עולם אפל בגללך אני נופל</l>
+          <l>לבדי בערפל בלעדייך מתבלבל</l>
+          <l>ובתוך עולם אפל בגללך אני נופל</l>
+          <l>לבדי בערפל בלעדייך מתבלבל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז צלצלתי וקבענו שעוד ניפגש</l>
+          <l>לי אמרת אל תאחר מחכה בשש</l>
+          <l>מול ביתך עוד מחכה וכבר מאוחר</l>
+          <l>את לא באת וסיפור האהבה נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את הרגשות שבך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

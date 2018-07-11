@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פזמון האגודה</title>
+        <singer classification="male singer">אורי שבח</singer>
+        <writer>אורי שבח</writer>
+        <composer>אורי שבח</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פזמון האגודה</head>
+        <lg number="1" type="stanza">
+          <l>קומו באו צאו עמנו</l>
+          <l>למפגש האגודה</l>
+          <l>זו החבורה שלנו</l>
+          <l>בציון חתן הודה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מקצווי הארץ בואו</l>
+          <l>מן העיר מן המושב</l>
+          <l>כשתגיעו אז תגידו</l>
+          <l>מי שבא לא בא לשווא</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הנה מה טוב ומה נעים</l>
+          <l>מה טוב ומה נעים</l>
+          <l>עם הזמר הקולח</l>
+          <l>יתרונן לב כל אורח</l>
+          <l>הללו בשיר שמח</l>
+          <l>את הכוס נרים</l>
+          <l>כל החברים</l>
+          <l>לצחצח גרוני</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני לדודי ודודי לי</l>
+          <l>זו סיסמת החברים</l>
+          <l>תישתו יין תנו גם לי</l>
+          <l>זה לזה בקול נרעים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>דור לדור שירים ישירו</l>
+          <l>שיר כזה לר ישכח</l>
+          <l>נעלוז זקן עם נער</l>
+          <l>ונפשנו כה תפרח</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הנה מה טוב ומה נעים...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>מה יפיתם מה נעמתם</l>
+          <l>בתופים ובמחולות</l>
+          <l>כל עדות הארץ באו</l>
+          <l>כקיבוץ הגלויות</l>
+          <l>אז בשיר וקול תודה</l>
+          <l>נגלגל ונסלסל</l>
+          <l>את פזמון האגודה</l>
+          <l>כאן עם כל בית ישראל</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>הנה מה טוב ומה נעים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

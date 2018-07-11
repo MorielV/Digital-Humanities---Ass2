@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יושב בצד הכביש</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>אהוד בנאי</writer>
+        <composer>אהוד בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יושב בצד הכביש</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>יושב בצד הכביש מנגן מפוחית</l>
+          <l>מישהו זורק מטבע לפחית</l>
+          <l>אפשר היום בזול לקנות אותי</l>
+          <l>שפתי נוטפות דם על דמעתי</l>
+          <l>ואיפה הם אחי ואחותי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>משתדל שבעיניים, המבט לא יתחנן</l>
+          <l>כולם עוברים מהר ואיש לא מתעניין</l>
+          <l>שקוף בלי גוף נושף בכלי</l>
+          <l>האם מישהו בכלל שומע אותי</l>
+          <l>ואיפה הם אחי ואחותי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יושב בצד הכביש מנגן מפוחית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

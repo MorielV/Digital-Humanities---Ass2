@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל מי 3</title>
+        <singer classification="band">איזולירבנד</singer>
+        <writer>רוני וייס</writer>
+        <composer>עמי פרנקל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל מי</head>
+        <lg number="1" type="stanza">
+          <l>אומרים שהשנה זה לא מה שהיה</l>
+          <l>למצוא מילים לשיר, נכון זו בעיה</l>
+          <l>אומרים צריך מילה אשר תובן לכל</l>
+          <l>ולמילה הזו גם להוסיף מחול</l>
+          <l>אולי נשיר בשפת ה"בית"?</l>
+          <l>אולי נרקוד ריקוד?</l>
+          <l>נשתדל לשיר גם עם ניקוד!</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אומרים שהשנה זה לא מה שהיה</l>
+          <l>למצוא מילים לשיר, עדיין בעיה</l>
+          <l>אומרים צריך מילה אשר תובן לכל</l>
+          <l>ולמילה הזו מיקצב של רוקנרול</l>
+          <l>אמרו כדאי למצוא פזמון פשוט, פזמון קליט</l>
+          <l>כל מי שמבין ביקש שיצלצל אנגלית</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כל מי, כל מי, כל מי שעזר לי</l>
+          <l>כל מי, כל מי, כל מי שאמר לי</l>
+          <l>למצוא מילה עם מובן מאליו לאב-לאב</l>
+          <l>כל מי, כל מי, כל מי זה קורא לי</l>
+          <l>כל מי, כל מי, כל מי זה קורה לי ..</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אומרים שהשנה זה לא מה שהיה</l>
+          <l>מצאנו כבר מילים, ואין כבר בעיה</l>
+          <l>כתבנו שיר משמאל, אמרו שזה קטן</l>
+          <l>ושוב השיר הפך להיות בלתי מובן</l>
+          <l>ורק מילה כמו דיר, מילה כמו דיר, שיש בה עז</l>
+          <l>ודאי תובן ודאי תובן היטב בשפת לועז</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כל מי, כל מי, כל מי שעזר לי</l>
+          <l>כל מי, כל מי, כל מי שאמר לי</l>
+          <l>למצוא מילה עם מובן מאליו לאב-לאב</l>
+          <l>כל מי, כל מי, כל מי זה קורא לי</l>
+          <l>כל מי, כל מי, כל מי זה קורה לי ..</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>וזה השיר שלנו שירו אותו איתנו</l>
+          <l>עכשיו כדאי כבר לעלות פזמן יותר גבוה...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כל מי, כל מי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

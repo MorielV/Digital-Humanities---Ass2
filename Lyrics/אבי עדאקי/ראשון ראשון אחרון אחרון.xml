@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ראשון ראשון אחרון אחרון</title>
+        <singer classification="unknown">אבי עדאקי</singer>
+        <writer>אבי עדאקי</writer>
+        <composer>אבי עדאקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ראשון ראשון אחרון אחרון</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>כולם רוצים לברוח כולם רוצים לעוף </l>
+          <l>רחוק רחוק בשביל לנוח אחד מהשני </l>
+          <l>כן, גם אני רוצה מנוח אבל זה רק רצון </l>
+          <l>אני עובד גם סוף שבוע יוצא ביום ראשון </l>
+          <l>ראשון ואחרון אחרון </l>
+          <l>ואני לא יכול לישון רק לשבת לנוח </l>
+          <l>נפתח חלון ביני ובין הדמיון </l>
+          <l>מרגיש שיגעון הולך על בטוח </l>
+          <l>פשוט הולך על בטוח </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתמול היה פרוע קיבלת שגעון </l>
+          <l>אני רוצה להיות רגוע בורח לדימיון </l>
+          <l>אפשר לשתוק ואם יש טעם אז בשתיקה לרעום </l>
+          <l>זה לא חשוב כמו שחשבתי פעם </l>
+          <l>מי שצוחק ראשון </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ראשון ואחרון אחרון ואני לא יכול לישון </l>
+          <l>רק לשבת לנוח </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כולם רוצים לברוח כולם רוצים לעוף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

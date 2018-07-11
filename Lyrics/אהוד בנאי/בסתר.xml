@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בסתר</title>
+        <singer classification="male singer">אהוד בנאי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>מעליי דממה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בסתר</head>
+        <lg number="1" type="stanza">
+          <l>מרחוק אני רואה אותך</l>
+          <l>פנייך נפולות עינייך עם דמעות</l>
+          <l>את ביתך עזבת בלב כבד</l>
+          <l>אמך אסרה עלייך להיפגש איתי</l>
+          <l>היא רוצה רק טוב לתת לך</l>
+          <l>לב של אם תמיד דואג לך</l>
+          <l>ואני כל כך רוצה בך</l>
+          <l>לא בסוד לא בסתר המדרגות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הלב פועם לקראת מי שאליו מתקרב</l>
+          <l>הלב יודע מי אוהב את מי הוא רוצה</l>
+          <l>את אהבת נפשי ביקשתי</l>
+          <l>הרבה יגעתי עד שמצאתי</l>
+          <l>אנא האמיני לי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מחר אני אלך אל בית אמך</l>
+          <l>אומר לה הילדה היא כל עולמך</l>
+          <l>את ביתך עזבה בלב כבד</l>
+          <l>כי הכוכב שלה לקראתי הולך</l>
+          <l>גם נפשי רוצה אליה</l>
+          <l>משתקפת בעיניה</l>
+          <l>בה נקשרתי גם ידעתי</l>
+          <l>היא איתי לצידי עד יום מותי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הלב פועם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הולך רגל</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הולך רגל</head>
+        <lg number="1" type="stanza">
+          <l>אני אוהב ללכת זאת אומרת לא לעצור</l>
+          <l>להשתלב יפה יפה עם התנועה</l>
+          <l>לנצל ימים של שמש ביחוד בחורף שקר</l>
+          <l>למהר לשום מקום זה נהדר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אנשים נוסעים רחוק רחוק זאת אומרת לאיי הדרום</l>
+          <l>רחוק זאת אומרת בעיקר רחוק מעצמם</l>
+          <l>אני לא מותח ביקורת אני רק שועט במורד הרחוב</l>
+          <l>שואף את האוויר וכמה זה טוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מדרכות מחוספסות</l>
+          <l>והתמכרות להזיות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני הולך רגל הולך רגל</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני חושב עלייך עלייך זאת אומרת שאקנה לך פרחים</l>
+          <l>בדרך חזרה בדרך הביתה</l>
+          <l>חבל שהעיר נגמרת הרחוב כמו ספגטי קצר מדי</l>
+          <l>עוד לא ביזבזתי את כל מחשבותי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מדרכות מחוספסות והתמכרות להזיות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

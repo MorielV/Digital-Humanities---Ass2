@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רצים רצים</title>
+        <singer classification="unknown">אולטראס</singer>
+        <writer>ששי צור</writer>
+        <composer>ששי צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רצים רצים</head>
+        <lg number="1" type="stanza">
+          <l>רצים רצים כל כך מהר, מה הם מחפשים?</l>
+          <l>לאן הולכים, לאן חוזרים כשהאורות כבים?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בתוך מבוך של יומרות גדולות, נשבר חלום לחתיכות קטנות,</l>
+          <l>ואין חוקים והכל מותר. אולי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רצים רצים כך כך מהר, לא משאירים עקבות.</l>
+          <l>יש שמועה על מסיבה היום בעיר הזאת.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בתוך מבוך של יומרות גדולות, נשבר חלום לחתיכות קטנות,</l>
+          <l>אז לאן הולכים, ואיך ממשיכים מכאן?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

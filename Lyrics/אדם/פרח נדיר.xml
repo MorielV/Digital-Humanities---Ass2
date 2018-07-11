@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פרח נדיר</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>שייקה פייקוב</writer>
+        <composer>שייקה פייקוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פרח נדיר</head>
+        <lg number="1" type="stanza">
+          <l>כמו ניצן בוקע רגב</l>
+          <l>כך הגעת לעולם</l>
+          <l>מרקד על הר השגב</l>
+          <l>וצוחק פה על כולם</l>
+          <l>מין טיפוס כזה שמח</l>
+          <l>לא שמע על העצבות</l>
+          <l>מנגן בלב בוטח ומבסוט</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אי אפשר לצעוק אפילו</l>
+          <l>אי אפשר לומר מילה</l>
+          <l>כי פרחים כמוך, ארז</l>
+          <l>יותר כבר לא נדע</l>
+          <l>אי אפשר לשתוק אפילו</l>
+          <l>אי אפשר ללחוש תפילה</l>
+          <l>כי פרחים כמוך, ארז</l>
+          <l>לא נדע</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהבוך בנות החמד</l>
+          <l>אהבוך החיים</l>
+          <l>שבגדו בך הו ילד</l>
+          <l>ובכל האוהבים</l>
+          <l>איך אפשר לכתוב עליך</l>
+          <l>מה בכלל נשאר לומר</l>
+          <l>כשבארץ המובטחת</l>
+          <l>גם בוכים פרחי הבר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אי אפשר לצעוק אפילו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צליל מיתר</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>ירון כהן</writer>
+        <composer>ירון כהן</composer>
+        <album>צליל מיתר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צליל מיתר</head>
+        <lg number="1" type="stanza">
+          <l>עם צליל מיתר שמתנגן</l>
+          <l>אני חושב עלייך</l>
+          <l>מרגיש כמה שזה עצוב</l>
+          <l>להיות כאן בלעדייך</l>
+          <l>לו רק היית פה</l>
+          <l>הכל היה אחרת</l>
+          <l>אצלי כבר כלום לא מובן</l>
+          <l>אצלי בלב יש סדק.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תראי אותי כמו מטורף</l>
+          <l>שרק רוצה אלייך.</l>
+          <l>או אולי סתם בחור עיוור</l>
+          <l>שמדמיין לו את פנייך</l>
+          <l>וזה קשה שאת פה לא עוברת</l>
+          <l>אל תאמרי לי שאת לכאן כבר לא חוזרת.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא אל תוותרי קבלי אותי אלייך</l>
+          <l>כי כל יום שבא והולך הוא נצח בלעדייך</l>
+          <l>תראי אותי כמו ילד שכואב לו</l>
+          <l>חבקי אותי אני כבר מתמוטט פה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בכל יום שבא והולך</l>
+          <l>אני שוב קורא אלייך</l>
+          <l>ומקווה שעוד תמצאי לי מקום</l>
+          <l>בין זרועותייך</l>
+          <l>תדעי שכאן יכול להיות אחרת</l>
+          <l>אל תותרי עלי תאמרי שאת חוזרת.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא אל תוותרי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>במקום שיר ערש</title>
+        <singer classification="male singer">אריק לביא</singer>
+        <writer>אריק לביא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>במקום שיר ערש</head>
+        <lg number="1" type="stanza">
+          <l>הוי, ילדתי, כבר נגמר היום </l>
+          <l>גם הבובה עייפה פתאום. </l>
+          <l>שימי ראשך וחילמי חלום </l>
+          <l>נומי ילדה כבר זמן לישון </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כל הנחלים מתפתלים לים, </l>
+          <l>כל הילדים ישנים מזמן, </l>
+          <l>כל ההורים משחקים קלפים, </l>
+          <l>נומי ילדה נומי נומי נים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>נומי, נומי ילדתי שלי </l>
+          <l>עצמי עיניים </l>
+          <l>כי מחר ייעור שוב יום חדש,</l>
+          <l>עם שמש בשמיים, </l>
+          <l>שוב הבוקר יחייך לנו פרח </l>
+          <l>אי לי לו לי לו לי לו </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לילה ירד ואין איש בחוץ, </l>
+          <l>קצת הבנה וקצת לב נחוץ, </l>
+          <l>זוג אוהבים שוב הולכים מכות </l>
+          <l>נומי ילדה חדלי לבכות </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מי שבודד הוא כל כך עצוב, </l>
+          <l>מה שחולף שוב עובר בלי שוב, </l>
+          <l>זאב רעב מחפש כבשה </l>
+          <l>נומי ילדה נו נו ילדה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>נומי, נומי ילדתי שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

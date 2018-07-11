@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לבד לבד</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>אברהם לוי</writer>
+        <composer>ניקוס חג'ופולוס</composer>
+        <album>לחישה בלילה</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לבד לבד</head>
+        <lg number="1" type="stanza">
+          <l>לבד לבד</l>
+          <l>הולך אדם הולך עד כלות כוחותיו</l>
+          <l>לבד לבד</l>
+          <l>בנתיב ימיו מושך עם תיקוותו נכזבת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לפעמים כנף יפרוש יחוג ברוח</l>
+          <l>אך בתוך ליבו יערוג אל חוף בטוח</l>
+          <l>יש ימים בהם יחוש מעט יגע</l>
+          <l>יש ימים בהם ימצא מעט מרגוע</l>
+          <l>ואולי נחמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לבד לבד</l>
+          <l>גם אם יאמר אלך ואיש גם לא ישאל</l>
+          <l>לבד לבד</l>
+          <l>גם אם יחשוב מצא את כל אשר ביקש הוא</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לפעמים כנף יפרוש יחוג ברוח</l>
+          <l>אך בתוך ליבו יערוג אל חוף בטוח</l>
+          <l>יש ימים בהם יחוש מעט יגע</l>
+          <l>יש ימים בהם ימצא מעט מרגוע</l>
+          <l>ואולי נחמה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

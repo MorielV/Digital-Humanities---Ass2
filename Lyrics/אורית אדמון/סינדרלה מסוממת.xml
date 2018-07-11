@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סינדרלה מסוממת</title>
+        <singer classification="female singer">אורית אדמון</singer>
+        <writer>אורית אדמון</writer>
+        <composer>אורית אדמון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סינדרלה מסוממת</head>
+        <lg number="1" type="stanza">
+          <l>כמו פרפר בתוך הגוף</l>
+          <l>חובט בכנפיו לצאת</l>
+          <l>רגשות סגורים רוצים לעוף</l>
+          <l>למקום שאפשר לתת.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בתוך גן עדן של שוטים</l>
+          <l>נשארנו אתה ואני</l>
+          <l>נתונים סטטיסטיים מגלים</l>
+          <l>אין מקום לשני אנשים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לרגע עוד נדמה</l>
+          <l>שאלוהים הרים ידיים</l>
+          <l>כי רק אתמול יכולנו שנינו</l>
+          <l>לשתות את השמיים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כמו סינדרלה מסוממת עוברת ברחוב</l>
+          <l>אבלה על אהבה שמתה</l>
+          <l>מביטה אל האמת בעיניים קרוב</l>
+          <l>מגלה עוד דברים שהחבאת.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אולי זה כן, אולי זה לא</l>
+          <l>התשובה טמונה בשאלה</l>
+          <l>בורחים לבד אל הדמיון</l>
+          <l>פרויד אמר שזה תת מודע.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>עיניים סגורות אל העתיד</l>
+          <l>כאילו אין מחר</l>
+          <l>תחבק חזק ואל תגיד</l>
+          <l>שרוצים את מה שנגמר.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>לרגע עוד נדמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

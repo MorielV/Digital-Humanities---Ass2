@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק אתה יכול</title>
+        <singer classification="unknown">אורלי ורדי</singer>
+        <writer>עופר המרמן</writer>
+        <composer>עופר המרמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק אתה יכול</head>
+        <lg number="1" type="stanza">
+          <l>מתלבשת, מתאפרת ואוכלת פירות,</l>
+          <l>מביטה שוב בחלון והורסת עוד וילון,</l>
+          <l>מעדכנת את הלק, משחילה ת'טבעות,</l>
+          <l>סוגרת את הדלת ומתחילה לחלום.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואז אתה תראה אותי עוברת ברחוב,</l>
+          <l>תגלה לי שאתה כל כך קרוב,</l>
+          <l>תצלם אותי לטלוויזיה,</l>
+          <l>כי רק אתה יכול...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לגנוב אותי פה ולגנוב אותי שם,</l>
+          <l>כי רק אתה יכול מכל העולם.</l>
+          <l>אז תגנוב אותי פה ותגנוב אותי שם,</l>
+          <l>כי רק אתה הצלם.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הגעתי עד פריז ודילגתי תצוגות</l>
+          <l>עוד לא מצאתי מישהו שגונב ת'הצגות,</l>
+          <l>אז ישבתי על ספסל והופ שמעתי סקלאש,</l>
+          <l>אמרתי "לא יכול להיות",</l>
+          <l>כי רק אתה יכול...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לגנוב אותי פה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

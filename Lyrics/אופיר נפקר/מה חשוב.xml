@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה חשוב 2</title>
+        <singer classification="male singer">אופיר נפקר</singer>
+        <writer>אופיר נפקר</writer>
+        <composer>יוסי נפקר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה חשוב</head>
+        <lg number="1" type="stanza">
+          <l>את הבטחת שתצילי את נפשי התועה </l>
+          <l>במסתרי הרגש בנבכי התודעה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וחידות אינספור לחוד וגם לפתור </l>
+          <l>לפתור את החידה מתי תחזור </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה חשוב מה חשוב? </l>
+          <l>כשאת לא נמצאת כאן </l>
+          <l>הכול נראה עלוב </l>
+          <l>מה חשוב מה חשוב? </l>
+          <l>כשאתה לא נמצא כאן </l>
+          <l>דבר כבר לא חשוב </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אז אני שוקעת במבוך של מחשבות </l>
+          <l>מעבר לסודות מעבר לחידות </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והספקות לאט לאט נעלמים </l>
+          <l>הכי חשוב שתהיי איתי תמיד </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מה חשוב מה חשוב?...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

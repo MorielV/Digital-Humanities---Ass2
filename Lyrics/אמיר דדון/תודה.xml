@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תודה 7</title>
+        <singer classification="male singer">אמיר דדון</singer>
+        <writer>אמיר דדון</writer>
+        <composer>אמיר דדון</composer>
+        <album>אמיר דדון</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תודה</head>
+        <lg number="1" type="stanza">
+          <l>עכשיו כשהכל נגמר</l>
+          <l>רציתי להגיד לך תודה</l>
+          <l>מחר יאיר אותו כוכב</l>
+          <l>רציתי להגיד לך תודה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תודה על כל שנייה</l>
+          <l>של צחוק גדול ושל שתיקה</l>
+          <l>של אמת יפה מבלי כל פחד</l>
+          <l>על הימים והלילות ביחד תודה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תודה על כל שנייה </l>
+          <l>של צחוק גדול ושל שתיקה</l>
+          <l>של אמת יפה מבלי כל פחד</l>
+          <l>על הימים והלילות ביחד תודה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עכשיו כשהכל נגמר</l>
+          <l>רציתי להגיד לך תודה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מרווה ורוזמרין</title>
+        <singer classification="band">אטרף</singer>
+        <writer>ראובן סלמון</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מרווה ורוזמרין</head>
+        <lg number="1" type="stanza">
+          <l>בוא נצא לדרך הקוסמת</l>
+          <l>החולמת</l>
+          <l>אולי גם נהזה</l>
+          <l>ואנחנו נשארים ביחד</l>
+          <l>וגם הפחד</l>
+          <l>לא יעצור את זה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בוא וננסה לשיר בשניים</l>
+          <l>ובינתיים</l>
+          <l>אולי גם נהנה</l>
+          <l>תן לשיר לזרום, אולי הפעם</l>
+          <l>גם הטעם</l>
+          <l>מתוק יצא מזה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הו, כשהצליל והמילה מתאהבים</l>
+          <l>הו, עם ניחוח של מרווה ורוזמרין</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קסם 2</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>איציק קלה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קסם</head>
+        <lg number="1" type="stanza">
+          <l>משהו קרה לי, ממבט אלייך</l>
+          <l>הגומות המתוקות ועיני הדבש</l>
+          <l>ככה התאהבתי, באתי לחייך</l>
+          <l>כמו נולדתי פתאום, עוד פעם מחדש</l>
+          <l>את פשוט מלאך ואני נמשך</l>
+          <l>לימים של אושר, לאהוב אותך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קסם אני קורא לך קסם</l>
+          <l>כי את הרי בעצם</l>
+          <l>חלום יקר שהתגשם לי</l>
+          <l>קסם אני קורא לך קסם</l>
+          <l>כי את הרי בעצם חלום יקר</l>
+          <l>החלום שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשאת בי נוגעת, מתעורר בי חשק</l>
+          <l>לעטוף אותך חזק באהבתי</l>
+          <l>לפעמים עצוב לי את אלי ניגשת</l>
+          <l>מחייכת ונותנת אור לנשמתי</l>
+          <l>את פשוט מלאך ואני נמשך</l>
+          <l>לימים של אושר, לאהוב אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קסם אני קורא לך קסם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

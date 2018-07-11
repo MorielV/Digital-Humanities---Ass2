@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום מעונן</title>
+        <singer classification="unknown">אלון אולארצ יק</singer>
+        <writer>אירה גרשווין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום מעונן</head>
+        <lg number="1" type="stanza">
+          <l>שמיים וים העיר אילת </l>
+          <l>אינם דומים לאלה שבצפת </l>
+          <l>אני יודע שבצפת אין ים </l>
+          <l>אבל כשאני בחופש</l>
+          <l>לא אכפת לי להשמע מטומטם </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יש מוזיאונים מתחת לים </l>
+          <l>ויש דולפינים שרוקדים עם בני אדם </l>
+          <l>יש מוזיאונים מתחת למים </l>
+          <l>ויש דולפינים שקוראים להם חיים </l>
+          <l>אז אין לי מליונים אבל אני חופשי </l>
+          <l>לחופשה כזאת לא ציפיתי </l>
+          <l>לא ציפיתי כלל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

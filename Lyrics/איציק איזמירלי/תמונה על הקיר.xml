@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תמונה על הקיר</title>
+        <singer classification="unknown">איציק איזמירלי</singer>
+        <writer>איציק איזמירלי</writer>
+        <composer>אורן איתן</composer>
+        <album>חוויות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תמונה על הקיר</head>
+        <lg number="1" type="stanza">
+          <l>זוכר כילד ומול עיני תלויה תמונה שמאיימת</l>
+          <l>כל כך זועקת</l>
+          <l>ומתוכה דמותך עולה כאילו רק עכשיו רדפת אחרי</l>
+          <l>והשנים חולפות מהר</l>
+          <l>מנסה להבין איך מעלי את מרחפת</l>
+          <l>כל כך רציתי לדעת ילדה איך זה לגדול איתך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>האם הרחק משם מגיעה אהבתנו</l>
+          <l>האם הרחק משם את שומעת את שירך</l>
+          <l>אם בלבנו מסתכלת בודאי את מזהה את נשמתך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הולך בדרך בשבילי הגן ששם את משחקת</l>
+          <l>איתי בעצב</l>
+          <l>ובתוכך את מרגישה שנגמר הזמן ואת שותקת</l>
+          <l>תגידי את , האם את תפילותיי מכוונות רק לך באמת את מקבלת</l>
+          <l>כל כך קיוויתי לחוות איתך להיות איתך בכל שלב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

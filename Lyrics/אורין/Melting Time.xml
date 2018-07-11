@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Melting Time</title>
+        <singer classification="unknown">אורין</singer>
+        <writer>אורין</writer>
+        <composer>יוסי סאסי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Melting Time</head>
+        <lg number="1" type="stanza">
+          <l>Time is passing by</l>
+          <l>and I am moving slow</l>
+          <l>Like to move my feet</l>
+          <l>but I know just what know</l>
+          <l>No one will be saving me</l>
+          <l>from this empty road</l>
+          <l>Try to be the best I can</l>
+          <l>for you my love</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>Maybe I will start again</l>
+          <l>Breathe and dream again</l>
+          <l>Melting clocks are ticking loud</l>
+          <l>Telling me to run, run fast</l>
+          <l>Try to be the try to be the best I can be</l>
+        </lg>
+        <lg number="3" type="stanza" />
+        <lg number="4" type="stanza">
+          <l>Time is passing by</l>
+          <l>Sealed eyes smiling back</l>
+          <l>Old pictures in my head</l>
+          <l>Controlling every step I make</l>
+          <l>People I have loved before today are a pile of dust</l>
+          <l>Faces not clear, a blur</l>
+          <l>Forgotten in the past</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>Maybe I will start again</l>
+          <l>Breathe and dream again</l>
+          <l>Melting clocks are ticking loud</l>
+          <l>Telling me to run, run fast</l>
+          <l>Try to be the try to be the best I can be</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>Try to be the best I can be</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

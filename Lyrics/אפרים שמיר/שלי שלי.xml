@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלי שלי</title>
+        <singer classification="male singer">אפרים שמיר</singer>
+        <writer>אפרים שמיר</writer>
+        <composer>אפרים שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלי שלי</head>
+        <lg number="1" type="stanza">
+          <l>אני מכיר אותה מבית הספר</l>
+          <l>אני מכיר אותה מהשכונה</l>
+          <l>אני זוכר אותה מהמכולת</l>
+          <l>אחת מהסביבה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני זוכר שהיא היתה בסדר</l>
+          <l>אני מכיר אותה מהתיכון</l>
+          <l>אני זוכר שהיא שיחקה נדמה לי</l>
+          <l>באיזה תיאטרון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואם תסתכלו עליה</l>
+          <l>אז תבינו שהיא מיועדת לי - שלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רוצה את שלי שתהיה לי שלי שלי</l>
+          <l>כמה טבעי לי שהיא לי, שלי שלי</l>
+          <l>חיוך עולה לי - הנה שלי שלי שלי</l>
+          <l>הנה היא שלי שלי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני זוכר אותה לובשת מיני</l>
+          <l>אני זוכר אותנו בתנועה</l>
+          <l>אני זוכר שהיא אוספת בולים</l>
+          <l>אחת שמבינה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני זוכר אותה בים המוות</l>
+          <l>אני זוכר שהיא לקחה סמים</l>
+          <l>אני זוכר שהיא אוהבת טבע</l>
+          <l>מתה על דיונים</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ואם תסתכלו עליה</l>
+          <l>אז תבינו שהיא מיועדת לי - שלי</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>רוצה את שלי שתהיה לי שלי שלי</l>
+          <l>כמה טבעי לי שהיא לי, שלי שלי</l>
+          <l>חיוך עולה לי - הנה שלי שלי שלי</l>
+          <l>הנה היא שלי שלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

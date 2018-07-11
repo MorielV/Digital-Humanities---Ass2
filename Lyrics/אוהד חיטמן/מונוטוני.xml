@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מונוטוני</title>
+        <singer classification="male singer">אוהד חיטמן</singer>
+        <writer>אוהד חיטמן</writer>
+        <composer>אוהד חיטמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מונוטוני</head>
+        <lg number="1" type="stanza">
+          <l>הוא חשב שהוא מונוטוני</l>
+          <l>ושהחיים מסודרים</l>
+          <l>הוא לא הבין את זה כמוני</l>
+          <l>הסתגר בחדרים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הוא רצה להרגיש כנוע</l>
+          <l>רעה בשדות זרים</l>
+          <l>וחישב כל השבוע </l>
+          <l>את הסודות והשקרים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הוא אוהב אותה בדרך שלו</l>
+          <l>אף פעם לא אומר שכן</l>
+          <l>אפילו לא אומר שלא</l>
+          <l>הוא אוהב אותה בדרך שלו</l>
+          <l>אם הוא רק היה אומר לה שתבוא..</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הוא בחר להיות מונוטוני</l>
+          <l>לפי ספר החוקים </l>
+          <l>ולמרות שרצה כמוני</l>
+          <l>הוא בחר במרחקים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הוא אוהב אותה בדרך שלו...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לחשוב שכמעט היה בדרך </l>
+          <l>לחתונה, ילדים, בית וגינה</l>
+          <l>כשהבין שהכל בערך </l>
+          <l>הוא שוב פגע בלי כוונה. </l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

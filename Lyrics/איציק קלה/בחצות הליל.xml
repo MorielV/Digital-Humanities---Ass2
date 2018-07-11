@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחצות הליל</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>שלמה כישור</writer>
+        <composer>איציק קלה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחצות הליל</head>
+        <lg number="1" type="stanza">
+          <l>מי פותח את השער בחצות הליל</l>
+          <l>ובתוך גני פוסע בחצות הליל?</l>
+          <l>פעימות ליבו שומעת אז בחצות הליל,</l>
+          <l>אהובי האם יופיע לי בחצות הליל?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כן, זהו אהובי -</l>
+          <l>כן, הנה בא דודי.</l>
+          <l>לביתי קרב ובא דודי בחצות הליל</l>
+          <l>ואני דלתי פותחת לו בחצות הליל.</l>
+          <l>לחדרי יבוא בחצות הליל,</l>
+          <l>שם יחבקני, שם יישקני ודודי אתן,</l>
+          <l>שם יאהבני, שם יישאני למגדל של שן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי יכבוש לבי בחתף בחצות הליל,</l>
+          <l>ילטף גווי בנועם בחצות הליל</l>
+          <l>וביין אהבה ישקה אותי בחצות הליל,</l>
+          <l>אל עולם אחר ייקח אותי בחצות הליל.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כן, זהו אהובי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

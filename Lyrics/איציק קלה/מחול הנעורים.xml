@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מחול הנעורים</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>שלמה כישור</writer>
+        <composer>איציק קלה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מחול הנעורים</head>
+        <lg number="1" type="stanza">
+          <l>מה קלו רגליים ככנפיים העולות אל המרום</l>
+          <l>ובוהק הלילה אור-עיניים כמו שאב מאור היום.</l>
+          <l>מה ייטב לי עת ארקודה את מחול הנעורים,</l>
+          <l>לי ייטבו חן הלילה ושרשרת השירים.</l>
+          <l>לא אנום, לא אישן כי הזמר נושן</l>
+          <l>ואתו כחלום יחלוף לי הזמן,</l>
+          <l>מימי נעורי להט בי, לא אזוז מכאן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהה...עוד השיר קולח, הלב שמח</l>
+          <l>על תחיית הנעורים.</l>
+          <l>לא ארצה באמש ולא יום-שמש</l>
+          <l>ולא רגעי המרורים</l>
+          <l>ואני מרחף עם השיר הסוחף,</l>
+          <l>אש בצעדי ולא מתעייף.</l>
+          <l>בואי-נא שירתי, נגני בדמי</l>
+          <l>ואת נעורי נא השיבי לי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מנגנים בוזוקי וגיטרה ולבי פועם איתם</l>
+          <l>הך במצילתיים, בדרבוקה ודמי בי שוב ייחם</l>
+          <l>וידעתי דווקא טוב לי עם הזמר בשפתי,</l>
+          <l>מבקשת נשמתי כי לא ייתמו נעורי.</l>
+          <l>זכרונות נושנים שוב עולים וצפים</l>
+          <l>וגלים-גלים מול עיני מרחפים</l>
+          <l>ואני בהם שוקע, כמה הם יפים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהה...עוד השיר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

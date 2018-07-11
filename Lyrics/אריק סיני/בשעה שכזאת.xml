@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בשעה שכזאת</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>יעקב גלעד</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בשעה שכזאת</head>
+        <lg number="1" type="stanza">
+          <l>ועכשיו בשעה שכזאת</l>
+          <l>מתגנבות מחשבות לא טובות</l>
+          <l>כשהחושך ברחובות מטשטש את העקבות</l>
+          <l>אני יוצא החוצה לבדי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כן עכשיו בשעה שכזאת</l>
+          <l>מאוחר לחפש חגיגות</l>
+          <l>כבר אחת אחר חצות רק אני בראש חוצות</l>
+          <l>הולך לשרוף עוד לילה לבדי.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>פה ושם יש כלב או חתול</l>
+          <l>פה הים ורידינג שם ממול</l>
+          <l>ואני כל כך לבד אז איפה את הלילה</l>
+          <l>עד מתי נמשיך את המשחק</l>
+          <l>כמה זמן אפשר אני נחנק.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ועכשיו בשעה שכזאת</l>
+          <l>אין למי אין למה לצפות</l>
+          <l>העיניים עייפות הרגלים כואבות</l>
+          <l>אני חוזר הביתה לבדי.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>פה ושם יש כלב או חתול</l>
+          <l>פה הים ורידינג שם ממול</l>
+          <l>ואני כל כך לבד אז איפה את הלילה</l>
+          <l>עד מתי נמשיך את המשחק</l>
+          <l>כמה זמן אפשר אני נחנק.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

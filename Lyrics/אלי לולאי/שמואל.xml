@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמואל</title>
+        <singer classification="male singer">אלי לולאי</singer>
+        <writer>אורנה כץ</writer>
+        <composer>אלי לולאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמואל</head>
+        <lg number="1" type="stanza">
+          <l>מי היה, מי היה כאן קודם?</l>
+          <l>מי רוצה לעזוב הכל עכשיו?</l>
+          <l>איך מרוב אהבה הצלחנו להשאיר</l>
+          <l>להשאיר אותך פצועה?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תסבירי לעץ, לבן שגידלת שבגללו</l>
+          <l>בסוף ניפול כולם אחד אחד.</l>
+          <l>רק שייתן לשבת בצל מתחת לענפים שבצילם</l>
+          <l>ישב שמואל.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך אפשר להיות נטוע?</l>
+          <l>להרגיש שאני רחוק מכאן?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>תסבירי לעץ, לבן שגידלת שבגללו...</l>
+          <l>תסבירי לעץ...</l>
+          <l>אלא אם כן נתחיל לאהוב את האחר</l>
+          <l>כמו את אדמתו של יעקב.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

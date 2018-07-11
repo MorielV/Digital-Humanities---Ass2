@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נביט אל המחר</title>
+        <singer classification="unknown">אלי יהודה</singer>
+        <writer>רפי אגרונוב</writer>
+        <composer>רפי אגרונוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נביט אל המחר</head>
+        <lg number="1" type="stanza">
+          <l>אדם אל תתייאש ולעולם אל תמהר</l>
+          <l>פעם אתה למטה פעם אתה למעלה</l>
+          <l>אז אל נא תוותר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אם היום אתה עברת יום חלש</l>
+          <l>אל נא תביט אל העבר</l>
+          <l>חכה עוד קצת הנה מגיע יום חדש</l>
+          <l>ויחדיו נביט אל המחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אדם בחיים יש נפילות יש עליות</l>
+          <l>אנחנו יחד באותה צלחת</l>
+          <l>אולי יהיו עוד הפתעות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אם היום אתה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>טעם החיים לטוב לרע הם מובילים</l>
+          <l>ולך השמש לא זרחה מאמש</l>
+          <l>עוד יהיו ימים יפים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אם היום אתה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיעור מולדת</title>
+        <singer classification="male singer">אפרים שמיר</singer>
+        <writer>עלי מוהר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיעור מולדת</head>
+        <lg number="1" type="stanza">
+          <l>אז בבית הספר</l>
+          <l>על הקיר תמונה</l>
+          <l>והאיכר חורש בה</l>
+          <l>את האדמה</l>
+          <l>וברקע, הברושים</l>
+          <l>שמי שרב חיוורים</l>
+          <l>האיכר יצמיח לנו לחם</l>
+          <l>שנהיה גדולים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>והמורה אומרת:</l>
+          <l>"עוד מעט כבר סתיו".</l>
+          <l>בשיעור מולדת</l>
+          <l>היא מראה חצב.</l>
+          <l>היורה יבוא עכשיו</l>
+          <l>שפע טיפותיו</l>
+          <l>כוילון שקוף על פני העמק</l>
+          <l>הפורש שדותיו.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כך זה היה, פשטות רכה</l>
+          <l>זה הצטייר בילדותנו</l>
+          <l>שהיתה יפה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>וכך בדמיוננו התרבו פלאות</l>
+          <l>הפטישים ניגנו</l>
+          <l>מחרשות רנות</l>
+          <l>יש יוגבים ויש כורמים</l>
+          <l>ארץ של רועים -</l>
+          <l>כך זה הצטייר בילדותנו</l>
+          <l>שהיתה יפה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

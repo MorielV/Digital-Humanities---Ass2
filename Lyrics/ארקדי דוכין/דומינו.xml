@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דומינו</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דומינו</head>
+        <lg number="1" type="stanza">
+          <l>אתה מפיל עוד קוביה</l>
+          <l>נפתחת דלת חדשה</l>
+          <l>כמה חיכיתי</l>
+          <l>כמה בכיתי</l>
+          <l>שיסתדר לי כמו אז.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתה עולה על אוניה</l>
+          <l>ונעלם אל תוך הים</l>
+          <l>מה מצפה שם</l>
+          <l>למה נדמה לי</l>
+          <l>שזאת הפעם אהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בואי תראי</l>
+          <l>יש לך אותי</l>
+          <l>לי יש אותך</l>
+          <l>כך וגם כך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם מתגברים על הבושה</l>
+          <l>אני זה לא כל כך נורא</l>
+          <l>כמה חיכיתי</l>
+          <l>כמה בכיתי</l>
+          <l>שיסתדר לי כמו אז.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>בואי תראי</l>
+          <l>יש לך אותי</l>
+          <l>לי יש אותך</l>
+          <l>כך וגם כך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

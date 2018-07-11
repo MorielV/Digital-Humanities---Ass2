@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רחוק מהמשק</title>
+        <singer classification="male singer">אלי לס</singer>
+        <writer>אלי לס</writer>
+        <composer>אלי לס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רחוק מהמשק</head>
+        <lg number="1" type="stanza">
+          <l>עיצוב הפנים </l>
+          <l>העננים </l>
+          <l>הנשימה </l>
+          <l>חשיבות המטרה </l>
+          <l>לאור המשימה </l>
+          <l>ואין עלי נשק </l>
+          <l>בדיקה שטחית לטובתי </l>
+          <l>עוד יתרון יחסי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>צעדתי שם </l>
+          <l>צדפים וים </l>
+          <l>גשרים שרופים </l>
+          <l>הניצבים </l>
+          <l>ועוד איש לא מפורסם </l>
+          <l>ואין עלי חשק </l>
+          <l>זה נסיוני, לטובתי </l>
+          <l>עוד יתרון יחסי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

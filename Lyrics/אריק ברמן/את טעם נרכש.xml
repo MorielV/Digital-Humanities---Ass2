@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את טעם נרכש</title>
+        <singer classification="male singer">אריק ברמן</singer>
+        <writer>אריק ברמן</writer>
+        <composer>אריק ברמן</composer>
+        <album>II</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את טעם נרכש</head>
+        <lg number="1" type="stanza">
+          <l>את טעם נרכש,</l>
+          <l>את כמו בירה, כמו סיגריות, כמו קפה, </l>
+          <l>כמו החלק התחתון של שירה, </l>
+          <l>סתם צחקתי, זה לא יפה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וכמו הנ"ל, את גם נכנסת אל הדם</l>
+          <l>ואין לך כוונות לצאת.</l>
+          <l>חשבתי שאולי נהיה קצת בלעדייך</l>
+          <l>אבל אני צריך, אבל אני רוצה...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את טעם נרכש,</l>
+          <l>את כמו סושי, דוסטוייבסקי, קייט בלאנשט, </l>
+          <l>כמו טקסנית שהולכת עם כושי, </l>
+          <l>סתם צחקתי, זה לא פוליטקלי קורקט.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>וכמו הנ"ל...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את טעם נרכש, </l>
+          <l>את כמו סטאלין, כמו סינטרה, פלורנטין, </l>
+          <l>כמו אז שרציתי ולא הסכמת שננסה פעם אחת אנאלי, </l>
+          <l>לא צחקתי בובה, זה הדבר האמיתי...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>וכמו אנאלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

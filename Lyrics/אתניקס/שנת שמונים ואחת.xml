@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שנת שמונים ואחת</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שנת שמונים ואחת</head>
+        <lg number="1" type="stanza">
+          <l>לפעמים אני נוגה ואז אני נזכר</l>
+          <l>בימים בהם תמיד הייתי מאושר</l>
+          <l>בגיל עשרים הכל היה כמו סרט,</l>
+          <l>הייתי אז חייל, היו לי חלומות</l>
+          <l>חשבתי שמזל שאין עוד מלחמות</l>
+          <l>אבל היה מי שחשב אחרת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שנת שמונים ואחת </l>
+          <l>התמימות, הזכרונות וכל מה שהיה,</l>
+          <l>שנת שמונים ואחת </l>
+          <l>בלי פרסומות ובלי כוכב נולד לרגע</l>
+          <l>היתה תקווה...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לכל אחד שנה אחת שהוא זוכר</l>
+          <l>מילה היתה מילה, חבר היה חבר</l>
+          <l>תמיד נעים להיזכר לרגע,</l>
+          <l>מנקודת מבט של החיים היום</l>
+          <l>בשנת שמונים ואחת היה על מה לחלום</l>
+          <l>היום אפשר פשוט להשתגע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שנת שמונים ואחת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

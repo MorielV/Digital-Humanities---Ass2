@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא תדעי</title>
+        <singer classification="male singer">אודי דוד</singer>
+        <writer>שרון אבילחק</writer>
+        <composer>דוד ביטון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא תדעי</head>
+        <lg number="1" type="stanza">
+          <l>חושב ואת ניזכרת</l>
+          <l>מעלינו מרחפת האמת</l>
+          <l>הולך את לא חוזרת</l>
+          <l>שתיקה סוררת בליבך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא תדעי</l>
+          <l>כמה זמן</l>
+          <l>אני יושב</l>
+          <l>ורק חושב</l>
+          <l>עננים מכסים</l>
+          <l>את העיניים</l>
+          <l>ובינתיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ציפור הלב שורקת</l>
+          <l>הרוח לילה מפריע מנוחתה</l>
+          <l>אני ממשיך ללכת</l>
+          <l>אבל הפעם לא איתך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא תדעי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

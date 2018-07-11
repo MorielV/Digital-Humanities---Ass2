@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שב אני אלייך</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>גלעד בן שך</writer>
+        <composer>גלעד בן שך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שב אני אלייך</head>
+        <lg number="1" type="stanza">
+          <l>זיקוקין די-נור פורחים ברום</l>
+          <l>כל הלבבות שרים הלילה,</l>
+          <l>רק את עצובה</l>
+          <l>מה לך אהובה</l>
+          <l>יום יבוא, אשובה בוודאי,</l>
+          <l>מה זה לך היה</l>
+          <l>כי את בוכיה</l>
+          <l>הן יגיע קץ גם לנדודי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היי, חכי נא לי חכי בת חמד,</l>
+          <l>שב אני אלייך מדרכי.</l>
+          <l>האמנם עודך ילדה חולמת</l>
+          <l>היי חכי נא לי, נא לי חכי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עם זריחת חמה אשובה בת</l>
+          <l>על קרני האור עם כנף הרוח,</l>
+          <l>ונפליג ילדה</l>
+          <l>אל האגדה</l>
+          <l>כל אשר רצית פה לי עימי.</l>
+          <l>ובמקום דמעות</l>
+          <l>אלף חלומות</l>
+          <l>אך עד אז הקשיבי לשירי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היי, חכי נא לי חכי בת חמד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

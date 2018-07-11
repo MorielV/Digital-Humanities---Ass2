@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוז ואייל</title>
+        <singer classification="unknown">אילקה רווה</singer>
+        <writer>אהרון אשמן</writer>
+        <composer>דניאל סמבורסקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוז ואייל</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>עוז עוז עוז ואייל </l>
+          <l>כה לחי בחור חייל </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מן העיר ומן הכפר</l>
+          <l>מן העמק ומן ההר</l>
+          <l>משדה ומסדנה</l>
+          <l>מספסל בית אולפנא</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עוז עוז...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>גו זקוף וראש מורם </l>
+          <l>רון בלב ואש בדם </l>
+          <l>לארצינו ושלומה </l>
+          <l>אנו אנו החומה </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עוז עוז...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אין פה אין מוג לב נקלה </l>
+          <l>הירא מקול עלה </l>
+          <l>יש לוחם פה גור ארי </l>
+          <l>יש פה יש חייל עברי</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>עוז עוז...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

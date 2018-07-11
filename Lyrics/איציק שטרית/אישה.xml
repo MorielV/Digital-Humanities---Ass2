@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה 21</title>
+        <singer classification="unknown">איציק שטרית</singer>
+        <writer>מיקי מדר</writer>
+        <composer>מיקי מדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה</head>
+        <lg number="1" type="stanza">
+          <l>אישה, זמן הולך ולא חוזר</l>
+          <l>נסי הפעם לוותר</l>
+          <l>כי זאת ארצה ולא יותר</l>
+          <l>אישה, לא עזרו לי תפילותי</l>
+          <l>בשבילי את כל חיי</l>
+          <l>אקח אותך בין זרועותי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אישה, הימים עוברים חולפים</l>
+          <l>חלומותי לא נשכחים</l>
+          <l>אישה, אישה, אישה</l>
+          <l>כל ימי ולילותי</l>
+          <l>אקדיש רק לך אהבותי</l>
+          <l>אישה, אישה, אשה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אישה, עייפתי מתחנונים</l>
+          <l>הכל שמור אצלי בפנים</l>
+          <l>כל שתאמרי אני מסכים</l>
+          <l>אישה, בואי נחיה את העבר</l>
+          <l>אל תאמרי הכל נגמר</l>
+          <l>אחרי הכל אינני זר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אישה, הימים עוברים חולפים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

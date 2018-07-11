@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בערבות הנחל</title>
+        <singer classification="male singer">איתי יצחקי</singer>
+        <writer>איתי יצחקי</writer>
+        <composer>איתי יצחקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בערבות הנחל</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>בערבות הנחל היא הסתובבה </l>
+          <l>בים של דמעות היא אלי קראה </l>
+          <l>בוא אלי אהובי, בוא אלי נשק אותי </l>
+          <l>כשהשמש ירדה היא אלי הסתכלה </l>
+          <l>לא הבנתי אותה אך מצאתי נחמה </l>
+          <l>מצאתי נחמה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשהשמש יורדת עלי, כשהשמש נרדמת </l>
+          <l>לא יודע מי אני, לא שומע את עצמי </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בערבות הנחל היא הסתובבה... </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואת לוקחת מעלי, שאת בורחת </l>
+          <l>אין לי שום מקום בעולם </l>
+          <l>אין לי מקום בעולם, אין לי מקום בו יותר </l>
+          <l>כשאת אינך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

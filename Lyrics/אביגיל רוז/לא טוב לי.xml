@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא טוב לי</title>
+        <singer classification="unknown">אביגיל רוז</singer>
+        <writer>אביגיל רוז</writer>
+        <composer>אביגיל רוז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא טוב לי</head>
+        <lg number="1" type="stanza">
+          <l>את הדרך אלייך אעשה על ביצים</l>
+          <l>את הדרך איתך אעשה עם פחדים</l>
+          <l>את הדרך החוצה אעשה עם עם כעסים</l>
+          <l>את הדרך אחריך אעשה עם פצעים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את ההזדמנות השנייה תעשה לי תנאים</l>
+          <l>מבטיחה לך הפעם שיהיו שינויים</l>
+          <l>תן לי עוד לילה בלי שקט ומחר אתנצל</l>
+          <l>ואתה תסלח לי עוד פעם</l>
+          <l> ובמיטה נתכרבל</l>
+        </lg>
+        <lg number="3" type="stanza" />
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לא טוב לי</l>
+          <l>אתה תלך ואני אשאר</l>
+          <l>לא טוב לי</l>
+          <l>תתקדם ואתכווץ</l>
+          <l>לא טוב לי</l>
+          <l>אותו כאב בחור אחר  </l>
+          <l>לא טוב לי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את הלילה הזה אולי לא אשרוד </l>
+          <l>מה שיש כאן לקחת רוצה עוד ועוד</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא טוב לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

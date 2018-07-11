@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תחכי לו</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי ספרדי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תחכי לו</head>
+        <lg number="1" type="stanza">
+          <l>אל תחכי לו, ילדונת, כי לא ישוב לך אי פעם.</l>
+          <l>אל תחפשי אותו, ילדונת, בזה הרי אין לך כל טעם.</l>
+          <l>הביני, כך יש לך רק צער,</l>
+          <l>הן לא ישוב הנער,</l>
+          <l>שייך הוא לעבר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הוא לא חשב רק עלייך,</l>
+          <l>הוא לא הלך רק אלייך</l>
+          <l>והוא פיזר לפנייך מסך-עשן.</l>
+          <l>הן שמך הולך לפנייך,</l>
+          <l>קחי את עצמך בידייך,</l>
+          <l>אל תאבדי את ימייך בתוך הזמן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תחכי לו, ילדונת, עד כי יאבדו עלומייך.</l>
+          <l>כל עוד הינך קטנטונת, בשביל-החיים שאי רגלייך.</l>
+          <l>הביני כי נסגר השער</l>
+          <l>מאז הלך הנער,</l>
+          <l>נעלם בשדות-הבר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הוא לא חשב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל תחכי לו, ילדונת, עד יקמלו כל פרחייך</l>
+          <l>כי הוא סגר את הדלת, טרק וחתם בפנייך.</l>
+          <l>הביני, הן יגדל הפער</l>
+          <l>בינך ובין הנער</l>
+          <l>שאת ליבך שבר.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הוא לא חשב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

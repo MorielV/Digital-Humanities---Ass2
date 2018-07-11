@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כנודד במדבר</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>אלעד פלד</writer>
+        <composer>איציק קלה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כנודד במדבר</head>
+        <lg number="1" type="stanza">
+          <l>איי אבדה הדרך ואנא אני בא                      </l>
+          <l>לחיי אין ערך ללא האהבה                                  </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מי יצילני ומי ינהלני                                        </l>
+          <l>מי זה יוליכני לנדודיי יביא הקץ                                </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מי ישקני מים ומי יושיט ידיים                                     </l>
+          <l>מי ייתן כנפיים ואשובה אל הקן                                   </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כנודד במדבר                                        </l>
+          <l>מבקש לי מסתור                                    </l>
+          <l>מלהט השמש מלילה וקור                                       </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כנודד במדבר                                  </l>
+          <l>מבקש לי מקום                                  </l>
+          <l>להניח ראשי                                  </l>
+          <l>ועיניי לעצום                                           </l>
+          <l>הו היכן אמצא מנוח לנפשי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ציפור זרה</title>
+        <singer classification="unknown">אוריאל שאלתיאל</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ציפור זרה</head>
+        <lg number="1" type="stanza">
+          <l>האתמול מביט בך בגבך</l>
+          <l>ואת מצידך לא שוכחת</l>
+          <l>תמיד את משוחחת עם מה שהיה</l>
+          <l>ארוכים שורשי הפחד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את פוסעת בעולם לאט</l>
+          <l>ובקוצים רבים את נדקרת</l>
+          <l>האם זהו ורד או קוץ בבשרך</l>
+          <l>שממנו את יוצרת?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמרי נפשך מן התהום</l>
+          <l>ומן הגובה האיום</l>
+          <l>מיאושך שמרי נפשך</l>
+          <l>את שומעת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>נשמה ואימה, ריקמה עדינה</l>
+          <l>הילדה הקטנה שלא נרדמה</l>
+          <l>האישה את ראשה משעינה</l>
+          <l>ציפור זרה עברה בחלומה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>על שקיפות עורך מאיר היום</l>
+          <l>כמו נגיעה מיוחלת</l>
+          <l>עכשיו את מסוגלת לראות את עצמך</l>
+          <l>מקבלת אות של חסד</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>שמרי נפשך מן התהום...</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>נשמה ואימה, ריקמה עדינה</l>
+          <l>הילדה הקטנה שלא נרדמה</l>
+          <l>האישה את ראשה משעינה</l>
+          <l>ציפור זרה עברה בחלומה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

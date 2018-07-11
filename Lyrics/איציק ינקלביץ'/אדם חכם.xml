@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אדם חכם</title>
+        <singer classification="unknown">איציק ינקלביץ </singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>איציק ינקלביץ'</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אדם חכם</head>
+        <lg number="1" type="stanza">
+          <l>מה עושה אדם חכם </l>
+          <l>בשעה שהוא נלחם </l>
+          <l>בטחנות הרוח? </l>
+          <l>מה עושה אדם חכם? </l>
+          <l>מלבו המנוחם </l>
+          <l>הוא שואב את הכוח. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את לא יודעת </l>
+          <l>סוד עץ הדעת. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל אדם רוצה לנוח </l>
+          <l>על כנפיה של הרוח </l>
+          <l>גם אם לא ימריא הגוף </l>
+          <l>אז נפשו תדע לעוף. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם נלך רחוק מכאן </l>
+          <l>בלי מחסום גבולות וזמן </l>
+          <l>בכיוון של הרוח, </l>
+          <l>אם נלך רחוק לשווא </l>
+          <l>מה נמצא שאין עכשיו </l>
+          <l>במקום הבטוח?! </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את לא יודעת </l>
+          <l>סוד עץ הדעת. </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כל אדם רוצה לנוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אילו יכולתי</title>
+        <singer classification="unknown">אופיר עשור</singer>
+        <writer>צחי דדו</writer>
+        <composer>יגאל אוחיון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אילו יכולתי</head>
+        <lg number="1" type="stanza">
+          <l>אילו יכולתי לכתוב את השיר מהתחלה</l>
+          <l>הייתי חושב על כל מילה</l>
+          <l>אילו ניתן להשיב את מחוגי הזמן</l>
+          <l>עם כל שאספתי בדרך</l>
+          <l>לא הייתי צריך לומר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מצטער על המילים הלא נכונות</l>
+          <l>הכעסים והדמעות</l>
+          <l>שלא נשארתי כשביקשת</l>
+          <l>להיות עוד רגע עוד מעט</l>
+          <l>מצטער תמיד אמרת שקל לומר</l>
+          <l>תמיד אמרת שקל לומר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אילו יכולתי לפגוש בך שוב לראשונה</l>
+          <l>הייתי יודע רכות ומחילה</l>
+          <l>אילו יכולנו לשוב לקו ההתחלה</l>
+          <l>עם מה שלמדתי מטעמה</l>
+          <l>טעמה של אכזבה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מצטער על המילים הלא נכונות .....</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מצטער על המילים הלא נכונות....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

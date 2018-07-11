@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תודה לאבא</title>
+        <singer classification="male singer">אורן חן</singer>
+        <writer>רפי בסקון</writer>
+        <composer>דורון אלימלך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תודה לאבא</head>
+        <lg number="1" type="stanza">
+          <l>אתה האבא שאוהב אותי נורא ובשפה יפה אליי תמיד דיברת</l>
+          <l>כי דרך ארץ קדמה היא לתורה זה החינוך הטוב שלי אתה נתת</l>
+          <l>אתה ואמא לא הפסקתם לאהוב בכל שבת את אשת חיל אתה שר לה</l>
+          <l>כוסית חייה מלאה ביין טוב כי את הלב שלך פתחת רק אליה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אברך אותך ברכה מבן לאבא אברך אותך לאריכות ימים</l>
+          <l>מי יתן ויתגשמו כל משאלותיך והחיים יהיו לך יפים</l>
+          <l>ואם תרשה לי רק דבר קטן ממני</l>
+          <l>תודה רבה לך אבא יקר שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה האבא שתמיד היה איתי והנה הקמטים יורשים את חיוכך</l>
+          <l>ויש דבר אחד ברור לך ולי שלעולם אני אהיה מאור עיניך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

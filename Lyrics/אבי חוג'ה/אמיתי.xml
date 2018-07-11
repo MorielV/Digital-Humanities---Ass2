@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אמיתי</title>
+        <singer classification="unknown">אבי חוג ה</singer>
+        <writer>שמוליק קלוסקי</writer>
+        <composer>שרון אבילחק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אמיתי</head>
+        <lg number="1" type="stanza">
+          <l>אמיתי</l>
+          <l>אני איתך,</l>
+          <l>את יכולה לראות לי בעיניים,</l>
+          <l>חופשי חופשי הלב בינינו.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אמיתי</l>
+          <l>אני ואת</l>
+          <l>רוצה אותי בדרך הפשוטה,</l>
+          <l>לאט, כמעט, כמו סוד של שנינו. </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>איך לחיים שלי יש טעם,</l>
+          <l>אני מודה על כל היופי</l>
+          <l>שנתת לי, כי הפעם</l>
+          <l>את איתי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כשלחיים שלי יש טעם,</l>
+          <l>אני מודה על כל היופי</l>
+          <l>שנתת לי, כי עכשיו זה</l>
+          <l>אמיתי.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אין חומות</l>
+          <l>והגנות,</l>
+          <l>את יכולה לפתוח את הלב,</l>
+          <l>פשוט וחי, כמו הפרח.</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>תגלי</l>
+          <l>את הצבעים</l>
+          <l>שיש בתוך הנפש הרוצה</l>
+          <l>להיות איתך מכאן עד נצח.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>איך לחיים שלי יש טעם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

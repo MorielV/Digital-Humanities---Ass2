@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>המון דברים</title>
+        <singer classification="male singer">איתן מסורי</singer>
+        <writer>שמואל קרול</writer>
+        <composer>איתן מסורי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>המון דברים</head>
+        <lg number="1" type="stanza">
+          <l>חשבתי המון מחשבות, </l>
+          <l>שברתי המון לבבות, </l>
+          <l>אהבתי המון אהבות, </l>
+          <l>עברתי בכל הרחובות. </l>
+          <l>פתרתי המון חלומות, </l>
+          <l>פתחתי המון חלונות, </l>
+          <l>חיממתי המון חממות, </l>
+          <l>הייתי בכל השגעונות. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש עוד המון דברים שלא הזכרתי, </l>
+          <l>כי אינני יודע הכל. </l>
+          <l>כי העולם הוא כה גדול</l>
+          <l>ואני אף פעם לא הבנתי: </l>
+          <l>המון של מיליונים, </l>
+          <l>מיליון של המונים, </l>
+          <l>הרבה דברים יפים שוב בעולם. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>גידלתי המון חכמים, </l>
+          <l>השארתי המון אלבומים, </l>
+          <l>זמזמתי המון זמזומים, </l>
+          <l>שמעתי את כל הפתגמים. </l>
+          <l>הלחנתי המון מנגינות, </l>
+          <l>הרשמתי המון גיליונות, </l>
+          <l>שילמתי המון מזונות, </l>
+          <l>חיסלתי את כל החשבונות. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש עוד המון דברים שלא הזכרתי... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>קדחתי המון קידוחים, </l>
+          <l>שברתי המון לבלובים, </l>
+          <l>ראיתי המון מלאכים, </l>
+          <l>ברחתי מכל הסכסוכים. </l>
+          <l>אכלתי המון לימונים, </l>
+          <l>חתמתי המון אבנים, </l>
+          <l>שיגעתי המון המונים, </l>
+          <l>נשבעתי מכל הבריונים. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יש עוד המון דברים שלא הזכרתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

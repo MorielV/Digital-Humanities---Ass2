@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתה חוזר ואומר</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אבי טולדנו</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתה חוזר ואומר</head>
+        <lg number="1" type="stanza">
+          <l>אתה חוזר ואומר</l>
+          <l>זה מגיע לי זה שלי</l>
+          <l>לא אוכל לוותר</l>
+          <l>לי זה עלה יותר</l>
+          <l>הרבה יותר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עבדתי קשה כל ימיי</l>
+          <l>אספתי כל יום מחיי</l>
+          <l>לא אוכל לעזור לך אחי</l>
+          <l>זה שלי ורק שלי.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אסוף מפה אסוף משם</l>
+          <l>נוגס מעט מכל אדם</l>
+          <l>ומתעצם מעל כולם</l>
+          <l>כלום לא תיקח איתך מן העולם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>האדמה הזאת</l>
+          <l>הצמיחה מתוכה</l>
+          <l>כל מיני פרחים</l>
+          <l>אחדים מאד יפים</l>
+          <l>אחרים אולי שונים</l>
+          <l>בסוף היום כולם נובלים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אחרי משחק השח אומרים</l>
+          <l>החייל והמלכה חוזרים</l>
+          <l>לאותה קופסה אחי</l>
+          <l>כי כולם משמיים שווים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אסוף מפה אסוף משם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

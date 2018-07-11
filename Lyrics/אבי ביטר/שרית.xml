@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שרית</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שרית</head>
+        <lg number="1" type="stanza">
+          <l>את שנמצאת רחוק</l>
+          <l>את בליבי עמוק</l>
+          <l>זאת אהבה אחת</l>
+          <l>עם אלף אכזבות</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>היו ימים יפים</l>
+          <l>עכשיו הם רחוקים</l>
+          <l>ימים של אהבה</l>
+          <l>שנים של אכזבה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יא שרית, יא שרית</l>
+          <l>מה את לי עשית</l>
+          <l>איך אוכל לחיות</l>
+          <l>עם אהבה כזאת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בשתי ידיי תמיד</l>
+          <l>כמו נסיכה היית</l>
+          <l>על זאת האהבה</l>
+          <l>רק אלוקים יעיד</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אותך בתוך הלב</l>
+          <l>כמו יהלום שומר</l>
+          <l>הולך בסימטאות</l>
+          <l>את שמך כותב על הקירות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יא שרית...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

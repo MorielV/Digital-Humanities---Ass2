@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא נרדם</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>אלונה קמחי</writer>
+        <composer>יזהר אשדות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא נרדם</head>
+        <lg number="1" type="stanza">
+          <l>לא נרדם! לא נרדם!</l>
+          <l>בבקרים לא קם בזמן</l>
+          <l>בימים עצבני,</l>
+          <l>לא עומד בלוח הזמנים</l>
+          <l>לא נרדם! לא נרדם!</l>
+          <l>איך מתמודדים עם העולם?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ולמה שום דבר פה</l>
+          <l>לא מושלם, לא דופק?</l>
+          <l>רק בדלים צפים על הקפה.</l>
+          <l>וטעם מר בפה.</l>
+          <l>מי יכול להמליץ על איך</l>
+          <l>בדיוק עושים סדר בחיים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא זוכר מה זה אור</l>
+          <l>בלילות חוזר שיכור</l>
+          <l>חשבונות מצטברים</l>
+          <l>אין לי כסף למונית</l>
+          <l>מי יכול להשיב</l>
+          <l>איך מתמודדים עם תל אביב?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ולמה שום דבר פה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>השכנה אומרת</l>
+          <l>הוא היה בחור יפה</l>
+          <l>היא תמיד אומרת</l>
+          <l>הוא היה כל כך נחמד</l>
+          <l>עכשיו הוא אף אחד</l>
+          <l>מי יכול להמליץ על איך</l>
+          <l>בדיוק עושים סדר בחיים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לא נרדם כל לילה מחדש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

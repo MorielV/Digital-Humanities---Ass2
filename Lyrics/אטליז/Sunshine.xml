@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sunshine</title>
+        <singer classification="band">אטליז</singer>
+        <writer>גיא בן שיטרית</writer>
+        <composer>מאיה דוניץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Sunshine</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>We've shared this land forever </l>
+          <l>But we've never looked around </l>
+          <l>To see </l>
+          <l>We co-exist for years </l>
+          <l>We're desert people </l>
+          <l>We are trees </l>
+          <l>We talk love to each other </l>
+          <l>Common interest </l>
+          <l>Common fears </l>
+          <l>Respecting ourselves </l>
+          <l>Respecting our lands </l>
+          <l>Respecting our self-destruction </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>We should be lying in the sunshine </l>
+          <l>together </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>We've shared this land forever </l>
+          <l>But we've never looked around </l>
+          <l>To see </l>
+          <l>We co-exist for years </l>
+          <l>We're desert people </l>
+          <l>We are trees </l>
+          <l>We talk love to each other </l>
+          <l>Common interest </l>
+          <l>Common fears </l>
+          <l>Respecting ourselves </l>
+          <l>Respecting our lands </l>
+          <l>Respecting our self-destruction </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>We should be lying in the sunshine </l>
+          <l>together</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

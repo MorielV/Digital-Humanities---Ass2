@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עוד מעט 3</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>שמרית אור</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עוד מעט</head>
+        <lg number="1" type="stanza">
+          <l>סוף נפילת היום</l>
+          <l>עוד מבקש מקום</l>
+          <l>עוד מבקש קצת חום</l>
+          <l>במדורות עינייך</l>
+          <l>אם תתני לי לחלום</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>סוף שקיעתו של יום</l>
+          <l>אני עייף פתאום</l>
+          <l>אני צמא לתם</l>
+          <l>שעוד מאיר פנייך</l>
+          <l>שמרי עליו עד תם</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יום רודף עוד יום נוסף</l>
+          <l>מנפץ חלום נכסף</l>
+          <l>אלוהים עוצם עיניו</l>
+          <l>ואני אלייך שר</l>
+          <l>עוד מעט עוד מעט</l>
+          <l>מעלינו לילה יתבהר</l>
+          <l>עוד מעט עוד מעט</l>
+          <l>שוב יגיע אור של יום אחר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יום שקצו קרוב</l>
+          <l>רואה בך את הטוב</l>
+          <l>רואה בך את החוף</l>
+          <l>ומתפרק עליך</l>
+          <l>אם תתני לי לאהוב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יום רודף עוד יום נוסף...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

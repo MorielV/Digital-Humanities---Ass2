@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דבר אלי בגובה העיניים</title>
+        <singer classification="female singer">אתי לוי</singer>
+        <writer>שוש מולא</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דבר אלי בגובה העיניים</head>
+        <lg number="1" type="stanza">
+          <l>דבר אלי בגובה העיניים</l>
+          <l>קלף את השכבות ושים בצד</l>
+          <l>ואל תתנער בעוד יומיים</l>
+          <l>אחרת תישאר תמיד לבד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>דבר, דבר, דבר, מתוך הלב</l>
+          <l>ספר, ספר, ספר לי מה כואב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>דבר אלי, דבר אלי עיניים</l>
+          <l>דבר אלי בגובה העיניים</l>
+          <l>אני אשמע הכול ולא אשכח</l>
+          <l>אולי אותך אבין וגם אסלח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>דבר אלי בגובה העיניים</l>
+          <l>אל תתנשא עלי יותר מדי</l>
+          <l>כדאי שתחכה קצת בינתיים</l>
+          <l>אחרת עוד אלך ממך ודי</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>דבר, דבר, דבר מתוך הלב</l>
+          <l>ספר, ספר, ספר לי מה כואב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>דבר אלי, דבר אלי עיניים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

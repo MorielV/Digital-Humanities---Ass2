@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלאה נהג</title>
+        <singer classification="unknown">אבנר זקן</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלאה נהג</head>
+        <lg number="1" type="stanza">
+          <l>הלאה נהג, קדימה סע,</l>
+          <l>חבל הפעם על כל דקה.</l>
+          <l>תן גז נהג, תן גז והלאה סע,</l>
+          <l>חמדת-לבי אף פעם לא מחכה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>על-כן חביבי הלאה סע,</l>
+          <l>אהובתי עוד מחכה.</l>
+          <l>מהר חביבי, הלאה סע</l>
+          <l>שלא תברח לי בגללך.</l>
+          <l>הלאה נהג, הלאה - אל תכזיבני.</l>
+          <l>הלאה נהג, הלאה - אל תעציבני.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הלאה נהג, הלאה, הלב בוער;</l>
+          <l>רבה הדרך, הזמן עובר.</l>
+          <l>אם לא אגיע היא תוותר</l>
+          <l>ואז תלך לה לאיש אחר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>על-כן...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>למה נהג, למה תיסע לאט?</l>
+          <l>כך עוד נגיע ביום שבת.</l>
+          <l>למה נהג, למה תמשיך לישון?</l>
+          <l>הלא היום הוא רק יום ראשון.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>על-כן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

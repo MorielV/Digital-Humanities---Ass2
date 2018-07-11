@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כלנית</title>
+        <singer classification="unknown">אבי הזמר</singer>
+        <writer>אבי הזמר</writer>
+        <composer>נדב הולנדר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כלנית</head>
+        <lg number="1" type="stanza">
+          <l>האלים קוראים לבני אדם</l>
+          <l>לחפש במצפונם הטוב</l>
+          <l>ויודע כל תינוק קטן</l>
+          <l>שלשנוא זה קל מלאהוב</l>
+          <l>שלשנוא זה קל מלאהוב</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מזמן לא ראיתי כלנית</l>
+          <l>אז בואי נטייל בחוץ יפה שלי</l>
+          <l>כף ידך תיגע בכף ידי</l>
+          <l>נאהב אחד את השני עד מוות</l>
+          <l>מזמן לא ראיתי כלנית</l>
+          <l>אז בואי נטייל בחוץ יפה שלי</l>
+          <l>כף ידך תיגע בכף ידי</l>
+          <l>נאהב אחד את השני עד מוות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>החיים פוסחים על מסלולם</l>
+          <l>השנים הופכות לבני אדם</l>
+          <l>וידייך כמו גם השיער</l>
+          <l>עשויים מפלטה של זהב</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מזמן לא ראיתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

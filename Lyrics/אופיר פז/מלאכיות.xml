@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מלאכיות</title>
+        <singer classification="unknown">אופיר פז</singer>
+        <writer>אופיר פז</writer>
+        <composer>אופיר פז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מלאכיות</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>מלאכיות שומרות עלי </l>
+          <l>היו איתי לכל אורך חיי </l>
+          <l>ורק הן מבינות מה עובר עלי </l>
+          <l>רק הן מבינות מה עובר עלי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לבוש... בגלימה שחורה </l>
+          <l>עטוף... באור לבן </l>
+          <l>נושם... נשימה אחת ארוכה </l>
+          <l>ולוקח לו ת'יד </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא מרחף איתו </l>
+          <l>והסביבה משתנה פתאום </l>
+          <l>ועכשיו הוא רואה ת'עצמו </l>
+          <l>עצבני על כולם </l>
+          <l>ולא רואה מסביבו מה קורה בעולם </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מלאכיות שומרות עלי... </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שוכב... על המיטה </l>
+          <l>בזבוז... של זמן מדקה לדקה </l>
+          <l>חולם על מלאך שחור... </l>
+          <l>למציאות הילד מנסה לחזור </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מלאכיות שומרות עלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בסוף מעגל</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>קני יאנג</writer>
+        <composer>קני יאנג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בסוף מעגל</head>
+        <lg number="1" type="stanza">
+          <l>ובסוף מעגל בצל שמש בוערת</l>
+          <l>כיביתי לך בוקר, הדלקתי לך ערב</l>
+          <l>ובסוף מעגל התחממנו על קרח</l>
+          <l>ציירת לי שיר ערש, דיקלמתי לך פרח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שתינו כוס עצב ובכינו כוס צחוק</l>
+          <l>שרנו בעשב, התקרבנו רחוק</l>
+          <l>רק בסוף מעגל, שם הקו מתחבר לו</l>
+          <l>בסוף מעגל את שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ובסוף מעגל באביב של שלכת</l>
+          <l>הלכת לעזוב, אך שכחת איך ללכת</l>
+          <l>עונה בחידות על תשובות ששאלתי</l>
+          <l>חפשי מסביב ולבסוף תגלי</l>
+          <l>שבסוף מעגל, שם הקו מתחבר לו</l>
+          <l>בסוף מעגל את שלי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עונה בחידות ושותקת סודות</l>
+          <l>חפשי מסביב ובסוף תגלי</l>
+          <l>שבסוף מעגל, שם הקו מתחבר לו</l>
+          <l>בסוף מעגל את שלי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

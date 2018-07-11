@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זאבים</title>
+        <singer classification="female singer">אלונה דניאל</singer>
+        <writer>אלונה דניאל</writer>
+        <composer>אלונה דניאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זאבים</head>
+        <lg number="1" type="stanza">
+          <l>בכפרים הרחוקים כלבים מייללים</l>
+          <l>כשלאור הכוכבים אנחנו מטיילים</l>
+          <l>איזו חבורה נחמדת, לא להתקרב</l>
+          <l>אף אחד עוד לא הצליח לביית זאב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איש לא בא בקצה היער לחפש חברה</l>
+          <l>שם דולק ירח, מנורת החקירה</l>
+          <l>את הליטופים תשאירו לכלבי שמירה</l>
+          <l>כי את כף היד לא תקבלו בחזרה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עדר זאבים לא יודע פחד</l>
+          <l>אנו רגילים לצוד את הצייד</l>
+          <l>אף על פי שזאבים הולכים ביחד</l>
+          <l>הזאב הוא לא חבר של אף אחד</l>
+          <l>צמרות עצים שורטות את השמיים</l>
+          <l>אנו מתחתם עכשיו כי אין ברירה</l>
+          <l>שלח את הבדידות שלך על פני המים</l>
+          <l>היא תמיד תשוב אלייך חזרה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>והנה עוד אחד שמסתלק ולא חוזר</l>
+          <l>הנה עוד כוכב נפל מתחת לגדר</l>
+          <l>מי שחי לבד, אוכל לבד ומת לבד</l>
+          <l>את נפילתו לא יחלק עם אף אחד</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עדר זאבים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

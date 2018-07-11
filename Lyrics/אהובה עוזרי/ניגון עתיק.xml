@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ניגון עתיק 3</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אבי רן טוויג</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ניגון עתיק</head>
+        <lg number="1" type="stanza">
+          <l>בכפר קטן בן ההרים</l>
+          <l>צלילי כינור נשמעים</l>
+          <l>והד עולה מן ההרים</l>
+          <l>מהמעמקים שם הצלילים עולים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ילד קט עומד בכפר</l>
+          <l>בידיו כינור בקתות חימר</l>
+          <l>מן הכינור את ליבו שוטף</l>
+          <l>את צלילו הוא גומה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קרב הילד לאדם</l>
+          <l>וליבו בפראות הלם</l>
+          <l>משמיע צליל שהכינור מפיק</l>
+          <l>צליל של ניגון ניגון עתיק</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מיתרים פתאום פקעו</l>
+          <l>מפני האדם יתאבנו</l>
+          <l>עננים וסופה את הכפר גרפה</l>
+          <l>כאן זלגה דמעה על לחיו ירדה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

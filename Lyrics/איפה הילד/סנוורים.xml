@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סנוורים</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סנוורים</head>
+        <lg number="1" type="stanza">
+          <l>מתנגן בי הצליל שלך עמוק ורגוע</l>
+          <l>מנגינה שקופה עדינה, פישרה רק לי הוא ידוע</l>
+          <l>גופך מתנחשל אלי כמו ים עתיק וחכם</l>
+          <l>מחכה שאטבע בו אתמכר לעולם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את צוחקת אלי, שפתייך עבות ויפות</l>
+          <l>נצמדות אלי לנשיקה</l>
+          <l>לא האמנתי שאוהב אותך כל כך</l>
+          <l>והסתנוורתי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>משתולל בי הצליל שלך חזק ופרוע</l>
+          <l>להבה לוהטת, ארגמן רקוע</l>
+          <l>גופך מסתער אלי ובי את בוערת</l>
+          <l>שרפי אותי כליל אהובתי הסוערת</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את צוחקת אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

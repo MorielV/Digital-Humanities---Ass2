@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עשן</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עשן</head>
+        <lg number="1" type="stanza">
+          <l>רעם הזמן על הדלת נוקש</l>
+          <l>וזועק בלחישה:</l>
+          <l>הסערה בפתח, שקט בינתיים.</l>
+          <l>מחלוני כל הנוף טועה,</l>
+          <l>כמו עיוור בעיר כבושה,</l>
+          <l>ומיתמר הכאב אל תוך השמיים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יש עשן,</l>
+          <l>גם בלי אש בוערת, הוא מפחם מראות.</l>
+          <l>עולה הלחות בעיני השורפות,</l>
+          <l>השמש כהה, השנים עייפות.</l>
+          <l>יש עשן,</l>
+          <l>חרב מתהפכת, על כל ההזיות.</l>
+          <l>וערש חיי השליו, המוגן,</l>
+          <l>אבד לי מזמן, נעלם במסך עשן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה כבר ניתן לעשות, אם בכלל,</l>
+          <l>כדי למשול באדמה?</l>
+          <l>היא מצידה מתנערת, פורשת כנפיים.</l>
+          <l>כל הצחוקים והדם, הם לריק,</l>
+          <l>כשהנפש אטומה.</l>
+          <l>אך כל עוד האש לא ניצתה,</l>
+          <l>יש דרך עדיין.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יש עשן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

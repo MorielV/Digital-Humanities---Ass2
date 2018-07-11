@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כוחך הרם</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כוחך הרם</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>כוחך הרם יהיה לי למשען</l>
+          <l>אנא אלוהי ענה נא</l>
+          <l>כוחך הרם יהיה לי למשען</l>
+          <l>אנא אלוהי ענה נא</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נפש צעירה</l>
+          <l>נפש עדינה</l>
+          <l>אלוהי ענה לי נא</l>
+          <l>נפש צעירה</l>
+          <l>נפש עדינה</l>
+          <l>אלוהי ענה נא</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כוחך הרם...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אשא קולי </l>
+          <l>אשפוך סיבי</l>
+          <l>ענה לתפילתי</l>
+          <l>אשא קולי</l>
+          <l>אשפוך סיבי</l>
+          <l>ענה לתפילתי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כוחך הרם...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אלוהי!!!</l>
+          <l>אלוהי</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>נפשי מעונה</l>
+          <l>בעוצמת יגונה</l>
+          <l>האר את כישפתי</l>
+          <l>נפשי מעונה</l>
+          <l>בעוצמת יגונה</l>
+          <l>האר את כישפתי</l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>כוחך הרם...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

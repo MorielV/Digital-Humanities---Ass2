@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דף חדש</title>
+        <singer classification="male singer">אורן שבו</singer>
+        <writer>יחיאל אמסלם</writer>
+        <composer>יחיאל אמסלם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דף חדש</head>
+        <lg number="1" type="stanza">
+          <l>אני הולך במעגל סגור</l>
+          <l>בלב כואב, בלב שבור</l>
+          <l>ואין לי אמת שתסביר</l>
+          <l>ואין לי גם שקר מסתיר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מסביב קירות מתמוטטים</l>
+          <l>ועל פני רואים את השנים</l>
+          <l>לאט לאט ולא לבד</l>
+          <l>לומד ללכת בכיוון אחד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>פותח דף חדש, דף חדש</l>
+          <l>ואין לי כח לברוח</l>
+          <l>ואין לי כח לברוח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני הולך בדרך בלי מוצא</l>
+          <l>הכל חשוך ואין פירצה</l>
+          <l>ואין לי פנס שמאיר</l>
+          <l>ואין לי גם שלט מזהיר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ערפל כבד שולט סביב</l>
+          <l>אבל אני ממשיך עד שאשיג</l>
+          <l>לאט לאט ולא לבד</l>
+          <l>לומד ללכת בכיוון אחד</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>פותח דף חדש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

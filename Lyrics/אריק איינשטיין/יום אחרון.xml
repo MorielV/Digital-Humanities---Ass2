@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום אחרון</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אברהם שלונסקי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום אחרון</head>
+        <lg number="1" type="stanza">
+          <l>גם לתפילות - תפרחת ושלכת.</l>
+          <l>ויום אחרון שמט את כל כתריו.</l>
+          <l>כל השתיקות חזרו היום אליך,</l>
+          <l>כשוב יונה באין עלה טרף.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ונכריה השמש המשכמת.</l>
+          <l>וסהר קר מקשיח ונפחת.</l>
+          <l>וכה הומך, וכה צפד מקמט</l>
+          <l>כל שתימר ושהיה אחד.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל עיתותי - תשבורת יום וליל.</l>
+          <l>כל מילותי היו לי לזרות.</l>
+          <l>ולא אדע: מגודש יבולייך</l>
+          <l>מה להבר, שדי, ומה לזרות?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שוא שלוחך יונת-מבול, מלכד:</l>
+          <l>חזרת אלי בלי סבר וחרון.</l>
+          <l>גם לתפלות - תפרחת ושלכת.</l>
+          <l>גם ליבולים מגיע יום אחרון.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

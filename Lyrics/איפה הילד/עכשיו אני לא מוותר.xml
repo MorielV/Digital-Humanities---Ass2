@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עכשיו אני לא מוותר</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עכשיו אני לא מוותר</head>
+        <lg number="1" type="stanza">
+          <l>גם בתקופות הרעות גם כשהייתי רחוק, </l>
+          <l>גם כשהלכתי הכי לאיבוד, </l>
+          <l>תמיד אהבתי אותך, </l>
+          <l>אף פעם לא עזבתי אותך, </l>
+          <l>במציאות אפרורית, במקצבים משתנים </l>
+          <l>את ואני ברחוב שוב צוחקים, </l>
+          <l>שיכורים שיכורים, לא מוותרים לחיים </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>דרך לא דרך מעדתי ורצתי, </l>
+          <l>חיפשתי אותך יחף ופצוע </l>
+          <l>המשכתי לרוץ כי הייתי שלך, </l>
+          <l>גם כשהייתי רחוק </l>
+          <l>גם כשהיית עם אחר, </l>
+          <l>עד שהשגתי אותך </l>
+          <l>זה אומר שעכשיו אני לא מוותר </l>
+          <l>עד שהשגתי אותך </l>
+          <l>זה אומר שעכשיו אני לא מוותר </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כך בעולם מתפורר בלי ערכים מוחלטים, </l>
+          <l>את ואני ברחוב שוב צוחקים </l>
+          <l>אוהבים אוהבים, לא מוותרים לחיים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דרך לא דרך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

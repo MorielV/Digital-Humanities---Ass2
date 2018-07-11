@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כל יום</title>
+        <singer classification="female singer">אפרת בן צור</singer>
+        <writer>אפרת בן צור</writer>
+        <composer>אפרת בן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כל יום</head>
+        <lg number="1" type="stanza">
+          <l>כל יום נתרחק קצת יותר</l>
+          <l>עד שלא נרגיש ככה נוותר</l>
+          <l>שמש גולשת מצד לצד ירח מטייל</l>
+          <l>אני אוהבת אותם יותר ויותר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נשאיר מאחורינו את כל הרע</l>
+          <l>לא להביט הפעם בחזרה</l>
+          <l>ילדתי שלי זר פרחים לראשה</l>
+          <l>נלביש אותה שמלה יפה יפה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אשמור שלא תביט לאחור</l>
+          <l>שלא תקטוף שום דבר שחור</l>
+          <l>שמש גולשת מצד לצד ירח מטייל</l>
+          <l>אני אוהבת אותם יותר ויותר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>כל יום נתרחק קצת יותר</l>
+          <l>עד שלא נרגיש </l>
+          <l>ככה נוותר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

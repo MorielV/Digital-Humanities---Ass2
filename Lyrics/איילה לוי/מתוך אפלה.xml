@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתוך אפלה</title>
+        <singer classification="female singer">איילה לוי</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>ערה דינקצ'יאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתוך אפלה</head>
+        <lg number="1" type="stanza">
+          <l>עם המנגינה הזאת בואו נשגע את העיר</l>
+          <l>נמחא כפיים בחוצות, הלילה עוד יאיר</l>
+          <l>כמו סופה עם המקצב</l>
+          <l>נגיע אל שבילי זהב</l>
+          <l>בואו גם אתם ממערב, בואו ונאהב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ומתוך אפילה</l>
+          <l>על כולנו השירה כלבנה תאיר</l>
+          <l>ומתוך אפילה יעלה יום בהיר</l>
+          <l>ומתוך אפילה</l>
+          <l>יחד את אור הלילה בריקוד ניקח</l>
+          <l>וברוח הקלה, שמה אל השער הנפתח. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שוב נדליק את האורות, נרקוד לקצב השירים</l>
+          <l>נשליך לים את הצרות, ברוח נעורים</l>
+          <l>נחייך אל העולם</l>
+          <l>נשמח הלילה עם כולם</l>
+          <l>בואו גם אתם ממערב, בואו ונאהב.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ומתוך אפילה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

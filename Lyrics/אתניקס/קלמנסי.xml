@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קלמנסי</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קלמנסי</head>
+        <lg number="1" type="stanza">
+          <l>שמש שוקעת שמיים קטיפה</l>
+          <l>היא ואני סירפדים היא קטפה</l>
+          <l>דברה על רעב בעולם השלישי</l>
+          <l>שרק בגלל זה ושכלום לא אישי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בין גדרות של אבן אחפש את הקסום</l>
+          <l>אני מלא בחשק היא בכלום</l>
+          <l>רוגז על פניה ואקדח בחגורה</l>
+          <l>עושה את צעדיה חזרה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא מלטפת בגדיה שחורים</l>
+          <l>קלמנסי הצבע נופל על הפנים</l>
+          <l>לקחת את הכל שמת אותי בהסגר</l>
+          <l>שנינו ביחד בינינו גדר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בין גדרות של אבן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני אוהב אותך לאה</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני אוהב אותך לאה</head>
+        <lg number="1" type="stanza">
+          <l>את אותו הבוקר לא אשכח</l>
+          <l>כשטמנת ראשך בתוך הכר</l>
+          <l>אור השמש על האוהל נח</l>
+          <l>וראשי הלום שיכר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשלחשתי באוזנך את שמה</l>
+          <l>את ידי אספת ביד קרה</l>
+          <l>ודמעה אחת חמה</l>
+          <l>אל כפות ידי נשרה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הנה ימים רבים חלפו</l>
+          <l>ושתי ידי עייפו</l>
+          <l>ועינייך מה יפו</l>
+          <l>כעיני רחל.</l>
+          <l>אני אוהב אותך לאה</l>
+          <l>אוהב אותך גאה</l>
+          <l>אם אשכח אותך לאה</l>
+          <l>שמי לא ישראל.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל ימר ליבך על אחותך</l>
+          <l>הן בנייך לצידך יושבים</l>
+          <l>אל תפני אישה את מבטך</l>
+          <l>כל חלומותי קרובים.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מה בקשתך אמרי לאה</l>
+          <l>שבע השנים חלפו מזמן</l>
+          <l>ונותרה רק עוד שעה</l>
+          <l>טרם יסגר הגן.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הנה ימים רבים חלפו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

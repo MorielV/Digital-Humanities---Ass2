@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Eventually</title>
+        <singer classification="unknown">אורי צדוק</singer>
+        <writer>שרי גבעתי</writer>
+        <composer>אורי צדוק</composer>
+        <album>גבוה מכאן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Eventually</head>
+        <lg number="1" type="stanza">
+          <l>Dreams are faith for broken lives</l>
+          <l>My dreams became my torture</l>
+          <l>Did, I create you in my mind </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>And if I scream will you not fall down</l>
+          <l>Liars awake in darkness</l>
+          <l>And there is no air in the sea inside </l>
+          <l>I'm afraid hold my hand</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>The moon will follow the sun to dawn</l>
+          <l>There is no tomorrow from the day that you've gone</l>
+          <l>You showed me my heart</l>
+          <l>But you will break it eventually</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>Eventually</l>
+          <l>Every feather hits the ground</l>
+          <l>You wake up – I go down</l>
+          <l>go down</l>
+          <l>I live twice every memory</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

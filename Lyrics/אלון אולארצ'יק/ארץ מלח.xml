@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ארץ מלח</title>
+        <singer classification="unknown">אלון אולארצ יק</singer>
+        <writer>אלון אולארצ'יק</writer>
+        <composer>אלון אולארצ'יק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ארץ מלח</head>
+        <lg number="1" type="stanza">
+          <l>ואולי לא מאוחר, להציל את הדבר</l>
+          <l>שעליו אמרו מזמן, בשבילו אנחנו כאן.</l>
+          <l>יהודים מכל מקום והדגל האדום</l>
+          <l>והארץ הקטנה, האדם והשכינה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ארץ מלח, מכונס ומחכה לך</l>
+          <l>לא אבד עלייך כלח, אבל איפה את היום</l>
+          <l>אני שלך, למה את מתמהמהת </l>
+          <l>בך אני רוצה לגעת, מנסה ולא יכול</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מסתובב בסמטאות, של ערים ועיירות</l>
+          <l>וממש אין לי מושג, בשביל מה אומרים שחג</l>
+          <l>מסרב להתמסר, לריקוד המסתחרר</l>
+          <l>כי נורא חשוב כעת, לא ליפול על הפרקט</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ארץ מלח...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ומאז עברו שנים, ערוגות של שושנים</l>
+          <l>לא מבין איך השתנתה, תושבים ירדו כיתה</l>
+          <l>מסתכל ימין ושמאל וקורא בקול גדול</l>
+          <l>בוא נתחיל מהתחלה, והפעם בחמלה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ארץ מלח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

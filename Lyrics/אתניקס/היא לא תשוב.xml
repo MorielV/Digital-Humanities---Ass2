@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא לא תשוב</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>זאב נחמה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא לא תשוב</head>
+        <lg number="1" type="stanza">
+          <l>בוקר בא יום חדש</l>
+          <l>על מרפסת עץ בהוסטל באוסטרליה</l>
+          <l>זאת עמליה חברה של גל</l>
+          <l>גל מתוסכל בנהלל</l>
+          <l>שם נשאר לחרוש את שדות העמק</l>
+          <l>הוא יבנה לה בית על ההר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היא לא תשוב</l>
+          <l>שוב תזרח השמש</l>
+          <l>היא לא תשוב</l>
+          <l>מעליו</l>
+          <l>היא לא תשוב</l>
+          <l>שוב תזרח השמש</l>
+          <l>היא לא תשוב</l>
+          <l>שוב תזרח השמש מעליו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עברה שנה היא לא חזרה</l>
+          <l>פגשה את ג'ימי ג'ונס</l>
+          <l>חבר של מה שמו דנדי</l>
+          <l>אוהד של גנדי ושל לוחמי חירות</l>
+          <l>איתו התחתנה בתוך כנסייה</l>
+          <l>גל קיבל מברק פניו הלבינו</l>
+          <l>כולם הבינו שהסיפור נגמר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היא לא תשוב...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לעמליה ג'ונס עכשיו יש חווה</l>
+          <l>אלפי ראשי בקר אבל אין אהבה</l>
+          <l>היא חושבת לחזור לנהלל</l>
+          <l>גל מחכה שאולי זה יקרה</l>
+          <l>ארבעים שנה חלפו בשדות העמק</l>
+          <l>הוא יחכה לה גם בגילגול הבא</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>היא לא תשוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

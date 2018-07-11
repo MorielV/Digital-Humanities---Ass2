@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עלמת החן</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עלמת החן</head>
+        <lg number="1" type="stanza">
+          <l>ציפור קטנה לחשה</l>
+          <l>אל בואך אלי</l>
+          <l>בגבעת האהבה</l>
+          <l>לי חיכית לבד</l>
+          <l>אך בואי נצא</l>
+          <l>אל ההרים</l>
+          <l>ונרוץ במרחבים</l>
+          <l>שם נמצא האושר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עלמת החן</l>
+          <l>לבי בך חושק</l>
+          <l>בואי נשב כאן לבד</l>
+          <l>ונצחק על העולם</l>
+          <l>בן פרחי השושנים</l>
+          <l>ובחן פרחי ההר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קול קורא לך מרחוק</l>
+          <l>אני הוא</l>
+          <l>בואי למרחב בשירה</l>
+          <l>ובריקוד בואי</l>
+          <l>שם בעמק ובגיא</l>
+          <l>בשדות ובהר</l>
+          <l>נשתולל עד הבוקר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עלמת החן...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

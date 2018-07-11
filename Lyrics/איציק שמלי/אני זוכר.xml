@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני זוכר 2</title>
+        <singer classification="male singer">איציק שמלי</singer>
+        <writer>איציק שמלי</writer>
+        <composer>איציק שמלי</composer>
+        <album>איציק שמלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני זוכר</head>
+        <lg number="1" type="stanza">
+          <l>אני זוכר את הימים של הילדות איך שגדלנו</l>
+          <l>איך שהבטנו לעתיד ורק חלמנו, ולא הסרנו</l>
+          <l>מבטינו מלפנים רצינו רק להיות גאים ולא ידענו</l>
+          <l>כל אותן הסכנות רודפות אותנו</l>
+          <l>וכל מה שאמרו הורינו רק השבנו</l>
+          <l>והאמנו, שנגשים כל מה ששאפנו</l>
+          <l>ולפעמים, כשישנים אני חולם דמותך אומרת</l>
+          <l>כשלפעמים יש משברים אבל ידך תמיד תומכת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני זוכר אותך בלב שלי שומר, הגעגוע לא עובר</l>
+          <l>תחזור מהר, וזה שומר כל זיכרון שממכר</l>
+          <l>אתה לי אח, אתה חבר, אתה חסר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני זוכר את הדברים שלי אמרת</l>
+          <l>גם שרציתי לוותר לי לא נתת</l>
+          <l>תמכת ודאגת לי,</l>
+          <l>עכשיו כל כך קשה לי כשאתה לא לצידי</l>
+          <l>היום אני, רק רציתי שתדע</l>
+          <l>שאת מה שחלמתי הגשמתי בזכותך</l>
+          <l>ולא אשכח לך אתה יד ימיני</l>
+          <l>אולי רחוק מהעין אבל קרוב לליבי</l>
+          <l>ולפעמים, כשצוחקים קולך נשמע צוחק ברקע</l>
+          <l>ואז אתה אותי מקדים, בדלת נעמד לפתע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני זוכר אותך בלב שלי שומר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

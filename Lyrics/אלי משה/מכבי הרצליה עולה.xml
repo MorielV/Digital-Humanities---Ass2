@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מכבי הרצליה עולה</title>
+        <singer classification="male singer">אלי משה</singer>
+        <writer>מיסטר הרי</writer>
+        <composer>אלי משה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מכבי הרצליה עולה</head>
+        <lg number="1" type="stanza">
+          <l>בין הים ובין השמש</l>
+          <l>בין הפרדסים המוריקים</l>
+          <l>שם שוכנת הרצליה</l>
+          <l>עיר של מכבים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כדורגל זו מסורת</l>
+          <l>ומכבי כאן זו הקבוצה</l>
+          <l>כשהיא אל המגרש דוהרת</l>
+          <l>מי יעצור אותה?</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עולה עולה עולה עולה</l>
+          <l>מכבי הרצליה עולה עולה</l>
+          <l>עולה עולה עולה עולה</l>
+          <l>מכבי הרצליה משחקת אותה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שחקנים רוקדים למבדה</l>
+          <l>היציעים משתוללים</l>
+          <l>איך האדמה רועדת</l>
+          <l>כאן קורים ניסים.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כמו רכבת היא דוהרת</l>
+          <l>בידיים מונפות אל על</l>
+          <l>הבחורים של אלי לנדאו</l>
+          <l>לא סומכים על המזל.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עולה עולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

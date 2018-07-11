@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כוכב קטן שלי</title>
+        <singer classification="unknown">אביב חשמונאי</singer>
+        <writer>ברק לידני</writer>
+        <composer>אריק זנטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כוכב קטן שלי</head>
+        <lg number="1" type="stanza">
+          <l>בשום מקום בעולם </l>
+          <l>אין אחת כמוך</l>
+          <l>את היחידה שמבינה אותי</l>
+          <l>מתי שרק תרצי</l>
+          <l>את עצמי אדרוך</l>
+          <l>ובשבילך אתן את עולמי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כוכב קטן שלי איתך אני פורח</l>
+          <l>וכמו השמש את מאירה את חיי</l>
+          <l>כוכב קטן שלי איתך אני שמח</l>
+          <l>וזה הרגע לומר לך את הכל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מתוקה שלי </l>
+          <l>חבקי אותי חזק</l>
+          <l>הנשמה שלי</l>
+          <l>כבר מלאה אבק</l>
+          <l>בזכותך יש בי דרך וגם כח</l>
+          <l>את העבר למחוק וגם לשכוח</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין לי מה לומר</l>
+          <l>אני מלא באהבה</l>
+          <l>מאז אותך הכרתי</l>
+          <l>יש לי מנוחה</l>
+          <l>רוצה אותך יותר</l>
+          <l>יותר קרובה אלי</l>
+          <l>ובשבילך אתן את עולמי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>כוכב קטן שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

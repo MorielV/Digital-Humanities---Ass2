@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עיר כסף</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>אלון אולארצ'יק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עיר כסף</head>
+        <lg number="1" type="stanza">
+          <l>איש לא עוצר אותך בשער הכניסה,</l>
+          <l>אתה נראה מאוד מוכר.</l>
+          <l>כן, הם זוכרים אותך ומסתייגים,</l>
+          <l>רוצים לראות אותך נשבר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אל תבקש דבר כי כלום לא תקבל,</l>
+          <l>אתה כבר לא בעניינים.</l>
+          <l>איש לא מזמין אותך, אתה כמו צל,</l>
+          <l>בלי כסף לא תהיה בפנים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הם אומרים: "הוא מישהו שהיה פעם משהו."</l>
+          <l>הם אומרים: "הוא מישהו שהיה פעם משהו."</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>קודם ניגשת אל שולחן ההימורים,</l>
+          <l>אתה עושה טעות מרה.</l>
+          <l>זו עיר הכסף, אין בה רחמים,</l>
+          <l>שעת הכושר כבר עברה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הם אומרים...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אין נשמה בעיר, הכל לפי זהב,</l>
+          <l>אל תחפש מוצא אחר.</l>
+          <l>בטח אתה מכיר את המצב,</l>
+          <l>אתה המצאת את העיר כשהיית מיליונר.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>הם אומרים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

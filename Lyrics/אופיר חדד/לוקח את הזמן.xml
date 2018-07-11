@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לוקח את הזמן</title>
+        <singer classification="unknown">אופיר חדד</singer>
+        <writer>שמואל אלבז</writer>
+        <composer>שמואל אלבז</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לוקח את הזמן</head>
+        <lg number="1" type="stanza">
+          <l>לוקח את הזמן </l>
+          <l>עכשיו כשאת לא כאן</l>
+          <l>אני כבר לא סולח לך כמו פעם</l>
+          <l>קווים שאת חצית עזרו לי להחליט</l>
+          <l>שאין עוד לעתיד שלנו טעם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ויש כנראה עוד חיים אחרייך</l>
+          <l>נמאס שאת משחקת בלב</l>
+          <l>קשה להמשיך כאילו כלום לא קרה לי </l>
+          <l>לטמון את ראשי ולחיות בכאב</l>
+          <l>חסר לי כל כך המגע של ידייך</l>
+          <l>רציתי תמיד שלנצח נאהב</l>
+          <l>ליוויתי אותך בכל שנות נעורייך</l>
+          <l>אבל בי פגעת ונשארתי לבד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל מה שאת רצית</l>
+          <l>קיבלת בתוך כפית</l>
+          <l>אבל חשבת שהחיים הם סרט</l>
+          <l>קבעת את התסריט</l>
+          <l>חבל שלא ניסית</l>
+          <l>לחשוב שגם אני אקח פה חלק</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ויש כנראה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

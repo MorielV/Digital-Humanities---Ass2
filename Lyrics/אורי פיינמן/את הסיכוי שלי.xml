@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את הסיכוי שלי</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>פול אנקה</writer>
+        <composer>פול אנקה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את הסיכוי שלי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>את הסיכוי שלי,</l>
+          <l>את הפיתוי שלי,</l>
+          <l>את לי איילת אור</l>
+          <l>ולבנה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את ואני-אחד,</l>
+          <l>את ואני לעד,</l>
+          <l>לו רק נתת לי יד,</l>
+          <l>כך, בעדנה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אין לי דבר אחר בעולם,</l>
+          <l>מלבד אהבתך,</l>
+          <l>חיי בכף ידך,</l>
+          <l>תלויים כאן לנגדך,</l>
+          <l>איך אדע מהו סודך?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נדמה לי את חלום,</l>
+          <l>נדמה לי את בדיה,</l>
+          <l>איני מוצא מקום,</l>
+          <l>אף לא שנייה.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אין לי דבר אחר בעולם...</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את הסיכוי שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

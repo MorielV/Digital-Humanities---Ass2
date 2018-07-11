@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר ערש 5</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>שמשון חלפי</writer>
+        <composer>יששכר מירון</composer>
+        <album>Back On Stage</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר ערש</head>
+        <lg number="1" type="stanza">
+          <l>הרדמי, ילדה קטנטונת,</l>
+          <l>רומז לך שם כוכב;</l>
+          <l>לך ארקום אני כותנת,</l>
+          <l>תכלת עם זהב...</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אקח לי תכלת משמיים,</l>
+          <l>זהב מן החמה,</l>
+          <l>לילדתי יפת העיניים</l>
+          <l>כותנת רקומה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הנה עולה כבר הירח,</l>
+          <l>עולה הוא ומכסיף;</l>
+          <l>מכספו אלי שולח,</l>
+          <l>לכתנתך אוסיף...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הרדמי, ילדה קטנטונת,</l>
+          <l>נומי, נומי, נים;</l>
+          <l>אמא לך תירקום כותונת</l>
+          <l>ותשיר שירים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

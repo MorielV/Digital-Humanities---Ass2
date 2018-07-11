@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה שהלב אומר</title>
+        <singer classification="unknown">אלון לוי</singer>
+        <writer>חן קלימן</writer>
+        <composer>יוני בלוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה שהלב אומר</head>
+        <lg number="1" type="stanza">
+          <l>אמרו שיש לי משימה</l>
+          <l>אחד אל מול כולם</l>
+          <l>מטרה כל כך פשוטה</l>
+          <l>להציל את העולם</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>צריך לשמור ולהגן</l>
+          <l>אסור יותר להישבר</l>
+          <l>גיבור של העולם שבא </l>
+          <l>מתוך עולם אחר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש בי כח לשנות</l>
+          <l>כח לא להשתנות</l>
+          <l>יכול הכל וכל יכול</l>
+          <l>ורק דבר אחד חסר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא יכול לומר מה שהלב אומר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוד שניה המלחמה</l>
+          <l>אין זמן לעצור</l>
+          <l>מי יותר חזק עכשיו</l>
+          <l>מי יותר גיבור</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אם רק תעיפו עוד מבט</l>
+          <l>ותעצרו להתקרב</l>
+          <l>תוכלו לראות שלב אמיץ </l>
+          <l>נשאר עדיין לב אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>יש בי כח לשנות</l>
+          <l>כח לא להשתנות</l>
+          <l>יכול הכל וכל יכול</l>
+          <l>ורק דבר אחד חסר</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>לא יכול לומר מה שהלב אומר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

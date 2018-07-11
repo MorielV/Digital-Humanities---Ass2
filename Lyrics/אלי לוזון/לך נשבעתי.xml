@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לך נשבעתי</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>צ'ולי זכאי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לך נשבעתי</head>
+        <lg number="1" type="stanza">
+          <l>מתוקה שלי</l>
+          <l>מה יפות הן שתי עינייך</l>
+          <l>כמה שאני</l>
+          <l>בלילות חושב עלייך</l>
+          <l>קחי אותי עכשיו</l>
+          <l>תחבקי אותי אלייך</l>
+          <l>בואי ונאהב</l>
+          <l>כי אני שלך </l>
+          <l>אל תלכי רחוק מכאן הלילה</l>
+          <l> שאוכל לראות אותך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לך נשבעתי , התאהבתי</l>
+          <l>לך אתן את כל הכח</l>
+          <l>ואת כל כולי</l>
+          <l>אם תסכימי, תאמיני </l>
+          <l>את חיי אני אתן לך</l>
+          <l>נשמה שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תני לי את ידך</l>
+          <l>ואתן כל מה שיש בי</l>
+          <l>תני לי את כולך</l>
+          <l>כי ליבך עכשיו קורא לי</l>
+          <l>תני לי רק סימן</l>
+          <l>שאדע שאת אוהבת</l>
+          <l>לא אלך מכאן </l>
+          <l>כי אני שלך</l>
+          <l>אל תלכי רחוק מכאן הלילה</l>
+          <l> שאוכל לראות אותך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לך נשבעתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

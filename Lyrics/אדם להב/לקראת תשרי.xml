@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לקראת תשרי</title>
+        <singer classification="unknown">אדם להב</singer>
+        <writer>אביבית לוי קאפח</writer>
+        <composer>אביבית לוי קאפח</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לקראת תשרי</head>
+        <lg number="1" type="stanza">
+          <l>להקיץ </l>
+          <l>אל לילה ער ודרוך,</l>
+          <l>על מפתן השחר</l>
+          <l>חצות מכה בסנורים</l>
+          <l>או שמא שכור</l>
+          <l>משמש אתמול שתש כחו</l>
+          <l>מערבו הסואן,</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ביניהם</l>
+          <l>חומק לילו של אלול</l>
+          <l>לקראת תשרי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני ילד פולני</title>
+        <singer classification="unknown">אלון אולארצ יק</singer>
+        <writer>אלון אולארצ'יק</writer>
+        <composer>אלון אולארצ'יק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני ילד פולני</head>
+        <lg number="1" type="stanza">
+          <l>אני ילד אתה ילד להזכיר נחוץ</l>
+          <l>יום יבוא נחזור הביתה לשחק בחוץ</l>
+          <l>יום יבוא נחזור הביתה לשחק בחוץ</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם את ילדותך תניח בפינה זנוחה</l>
+          <l>אז ציפור החידלון תשב על מיטתך</l>
+          <l>אז ציפור החידלון תשב על מיטתך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בפולניה קם תינוק לפני שלושים שנה</l>
+          <l>לפעמים שיחק בשלג עם ילדה קטנה</l>
+          <l>לפעמים שיחק בשלג עם ילדה קטנה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

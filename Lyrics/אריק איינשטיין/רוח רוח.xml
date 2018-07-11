@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוח רוח 2</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>מרים ילן שטקליס</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוח רוח</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>רוח, רוח! רוח, רוח!</l>
+          <l>למה לא תשכב לנוח?</l>
+          <l>מן הבוקר תשתולל,</l>
+          <l>והנה כבר בא הליל.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מלאכים כבר מכניסים</l>
+          <l>לשמיים פנסים,</l>
+          <l>מדליקים נרות בלאט,</l>
+          <l>אין רואים אותם כמעט.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>רוח, רוח...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואתה הולך בטל</l>
+          <l>ושורק ומיילל,</l>
+          <l>מכופף את הוורדים</l>
+          <l>ומציק לילדים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>רוח, רוח...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>כל הגן רוצה לישון</l>
+          <l>גם הברוש, הקיקיון.</l>
+          <l>צר מאוד על הפרחים,</l>
+          <l>הם כולם נאנחים.</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>רוח, רוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

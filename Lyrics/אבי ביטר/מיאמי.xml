@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מיאמי</title>
+        <singer classification="male singer">אבי ביטר</singer>
+        <writer>אבי ביטר</writer>
+        <composer>אבי ביטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מיאמי</head>
+        <lg number="1" type="stanza">
+          <l>היו לי קצת שטויות בראש</l>
+          <l>רציתי את העולם לחבוש</l>
+          <l>איתך היו לי וויכוחים</l>
+          <l>תמיד על כל מיני דברים</l>
+          <l>רציתי לעשות חיים</l>
+          <l>ואת נכנסת לי לורידים</l>
+          <l>רציתי קצת לראות עולם </l>
+          <l>לטייל לי פה ושם</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני נוסע מאמי</l>
+          <l>נוסע למיאמי</l>
+          <l>אני רוצה קצת חופש</l>
+          <l>נמאס לי די נשבר לי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היו לי ים של חברים</l>
+          <l>שנכנסו לי לחיים</l>
+          <l>כשהתרוקנו לי הכיסים</l>
+          <l>נעלמו החברים</l>
+          <l>מאיפה את נפלת עלי</l>
+          <l>רוצה קצת חופש בחיי</l>
+          <l>אני אורז את המזוודות</l>
+          <l>אומר ביי ביי להתראות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני נוסע מאמי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

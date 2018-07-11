@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עמק הפרחים</title>
+        <singer classification="female singer">אהובה עוזרי</singer>
+        <writer>אהובה עוזרי</writer>
+        <composer>אהובה עוזרי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עמק הפרחים</head>
+        <lg number="1" type="stanza">
+          <l>גלגלי הכרכרה הביאוני הלום</l>
+          <l>קול פעמוני זימרה נשמע כחלום</l>
+          <l>מי היה מאמין זו את בוודאי</l>
+          <l>מקבלת את פני עם כל הנשמה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עמק הפרחים לך אקטוף באלפים</l>
+          <l>שושנים אדומים על ראשך אשים</l>
+          <l>עמק אוהבים בו היינו רק נחים</l>
+          <l>על אהבה מדברים אלו הם חיים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אנא בואי אל העמק שם אני נמצא</l>
+          <l>תחת עץ אילן שוכב לי והוגה רק בך</l>
+          <l>דמותך התמירה בתוך חלומי</l>
+          <l>וסוחפת יחד עימה את כל נשמתי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עמק הפרחים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בחדרך הקטן נמצאת תמונתי</l>
+          <l>מסביב למסגרת יש תמיד פרחים</l>
+          <l>עולמך הקטן לא אחדור אליו</l>
+          <l>לנו נועד העמק עם שירה מעל</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>עמק הפרחים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

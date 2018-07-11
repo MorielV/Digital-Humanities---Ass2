@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אתה שם</title>
+        <singer classification="unknown">אתר פסח</singer>
+        <writer>אתר פסח</writer>
+        <composer>רויטל מלכה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אתה שם</head>
+        <lg number="1" type="stanza">
+          <l>רוצה לדעת מה איתך</l>
+          <l>אם אתה פה, אם אתה שם</l>
+          <l>בבקשה תבוא עכשיו</l>
+          <l>עד כמה אוכל להחזיק מעמד</l>
+          <l>בלעדיך</l>
+          <l>מיום קיומך אני חשה אותך</l>
+          <l>לא עוזבת, לא נוטשת,</l>
+          <l>רק איתך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וכשזה בא</l>
+          <l>רעדתי, נפלתי,</l>
+          <l>השתוללתי</l>
+          <l>ומאז אני לא רגועה</l>
+          <l>רק מחכה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשתבוא ותשוב לזרועותי</l>
+          <l>אמא גם פה, אמא גם שם</l>
+          <l>אל תדאג</l>
+          <l>כי אותך לא נטשתי מעולם</l>
+          <l>כשהבוקר עלה, כשהלילה</l>
+          <l>ירד בלעדיך</l>
+          <l>מיום קיומך אני חשה אותך</l>
+          <l>לא עוזבת, לא נוטשת,</l>
+          <l>רק איתך..</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וכשזה בא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

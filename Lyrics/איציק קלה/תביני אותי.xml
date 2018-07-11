@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תביני אותי</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>תומר עג'ם</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תביני אותי</head>
+        <lg number="1" type="stanza">
+          <l>מוקדם בבוקר את מתעוררת</l>
+          <l>יוצאת לרחוב לא משאירה סימן</l>
+          <l>את הכיסים את מרוקנת</l>
+          <l>ומשאירה אותי בלי מזומן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל היום חוזרת ואומרת</l>
+          <l>תביא תביא</l>
+          <l>את הכסף כמו חל את מפזרת</l>
+          <l>תביא תביא</l>
+          <l>בו נלך לבית לקפה לסרט</l>
+          <l>תביני תביני תביני אותי..</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ביום בלילה את מבזבזת</l>
+          <l>אני במינוס ול זה לא אכפת</l>
+          <l>כרטיס אשראי את מגהצת</l>
+          <l>ומרוקנת גם ת'כספומט</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל היום חוזרת ואומרת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

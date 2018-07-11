@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תמיד אהבה</title>
+        <singer classification="female singer">אורטל אופק</singer>
+        <writer>אריק רודיך</writer>
+        <composer>אריק רודיך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תמיד אהבה</head>
+        <lg number="1" type="stanza">
+          <l>למה חבויים פתאום פניך</l>
+          <l>נפשך מועדת לפרקים</l>
+          <l>תחשוב על יום אחר</l>
+          <l>שבו אתה וגם אני</l>
+          <l>נשכון לבטח</l>
+          <l>זה כבר בפתח</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לא אינך יודע</l>
+          <l>את שלוחש בי - בתוכי</l>
+          <l>איך אינך שומע את ליבי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תמיד אהבה</l>
+          <l>תמיד אכזבה</l>
+          <l>תמיד היא למעלה או למטה</l>
+          <l>נפלא כשזה טוב</l>
+          <l>נורא כשזה רע</l>
+          <l>ולא עקבי</l>
+          <l>תמיד אהבה</l>
+          <l>תמיד אכזבה</l>
+          <l>תמיד היא למעלה או למטה</l>
+          <l>בוערת בשיא</l>
+          <l>בשפל רועדת היא - מקור</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא נוכל לברוח מעצמנו</l>
+          <l>לא נוכל למתוח את הזמן</l>
+          <l>וכך מעת לעת</l>
+          <l>כשהאמת פתאום נגלת</l>
+          <l>נפתח השער</l>
+          <l>נסגר הפער</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא אינך יודע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

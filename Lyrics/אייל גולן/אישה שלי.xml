@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה שלי</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>ליאור פרחי</writer>
+        <composer>רביב בן מנחם</composer>
+        <album>זה אני</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה שלי</head>
+        <lg number="1" type="stanza">
+          <l>איך את יפה כשאת קמה בבוקר,</l>
+          <l>יש על פנייך חיוך מקסים.</l>
+          <l>בא לי לקחת אותך אל האושר,</l>
+          <l>לך הוא נועד בחיים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כי את בלב שלי כבר מהיום שעברת מולי,</l>
+          <l>חייכת וידעתי שזהו, אין עוד כמוך בעולם,</l>
+          <l>את החיבור המושלם.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אישה שלי,</l>
+          <l>אני מוכן לתת לך את כולי.</l>
+          <l>את מדליקה בי אש שמובילה אותי</l>
+          <l>לקשר חם ואמיתי.</l>
+          <l>אישה שלי,</l>
+          <l>תודה לאל שאת תמיד איתי,</l>
+          <l>את מחזקת כל מה שחלש אצלי.</l>
+          <l>אוהב אותך עד יום מותי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את האמת שתמיד מנצחת,</l>
+          <l>בך אני שוב מתאהב כל יום.</l>
+          <l>בשתי עינייך אותי את לוקחת</l>
+          <l>אל מציאות של חלום.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כי את בלב שלי כבר מהיום שעברת מולי,</l>
+          <l>חייכת וידעתי שזהו, אין עוד כמוך בעולם</l>
+          <l>את החיבור המושלם.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אישה שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

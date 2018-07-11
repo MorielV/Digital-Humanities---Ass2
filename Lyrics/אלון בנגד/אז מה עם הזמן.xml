@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אז מה עם הזמן</title>
+        <singer classification="unknown">אלון בנגד</singer>
+        <writer>מוטי מור</writer>
+        <composer>מוטי מור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אז מה עם הזמן</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אז מה?</l>
+          <l>אז מה עם הזמן</l>
+          <l>שחומק לנו כאן מבין הידיים?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>רחוק לעוף איתך,</l>
+          <l>אל תוך השמיים</l>
+          <l>הכחולים שלי ושלך,</l>
+          <l>לתפוס ענן כחול.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אז מה?</l>
+          <l>אז מה עם הזמן</l>
+          <l>שחומק לנו כאן מבין הידיים?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רוצה עם הזמן שנותר להיות איתך.</l>
+          <l>רוצה עם הזמן שנותר איתך...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רחוק לעוף איתך...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>לעוף איתך</l>
+          <l>לעוף לשמיים </l>
+          <l>לעוף איתך</l>
+          <l>אז מה עם הזמן</l>
+          <l>אז מה עם הזמן</l>
+          <l>לעוף איתך</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

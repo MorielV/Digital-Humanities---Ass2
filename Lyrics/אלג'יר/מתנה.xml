@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מתנה 3</title>
+        <singer classification="unknown">אלג יר</singer>
+        <writer>אביב גדג'</writer>
+        <composer>גבריאל בלחסן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מתנה</head>
+        <lg number="1" type="stanza">
+          <l>הייתי רוצה לצאת מפה</l>
+          <l>הייתי רוצה לקבל מתנה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה לא חלום זה אלוהים שבא אלי אתמול.</l>
+          <l>שבא אלי היום, שבא אלי אתמול.</l>
+          <l>מתחת לשמיים השחורים אפשר כבר להרגיש,</l>
+          <l>זרמים תת קרקעיים של יופי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא היית רוצה לצאת מפה</l>
+          <l>לא היית רוצה לקבל מתנה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה לא חלום זה אלוהים שבא אלי אתמול.</l>
+          <l>שבא אלי היום, שבא אלי אתמול.</l>
+          <l>מתחת לשמיים השחורים אפשר כבר להרגיש,</l>
+          <l>זרמים תת קרקעיים של יופי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

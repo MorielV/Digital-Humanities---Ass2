@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את 28</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>יצחק קלפטר</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את</head>
+        <lg number="1" type="stanza">
+          <l>את, שלא אהבת, שעזבת </l>
+          <l>אחרי שהלכת אני נפלתי </l>
+          <l>לך אני רוצה לספר - </l>
+          <l>שאני עומד עכשיו על קרקע יציבה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ושר את השיר הזה לאנשים </l>
+          <l>בזמן שאת נמצאת עכשיו, </l>
+          <l>עם מי שזה לא יהיה באיזשהו מקום. </l>
+          <l>עם מי שזה לא יהיה באיזשהו מקום. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את, שהכאבת וצחקת </l>
+          <l>ואמרת שאני חלש מדי </l>
+          <l>לך אני רוצה לספר - </l>
+          <l>שלמדתי לוותר על אהבתך. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואני חזק מאוד עם עצמי </l>
+          <l>בזמן שאת נמצאת עכשיו, </l>
+          <l>עם מי שזה לא יהיה באיזשהו מקום. </l>
+          <l>עם מי שזה לא יהיה באיזשהו מקום.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

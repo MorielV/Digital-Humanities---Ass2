@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני חוזר</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>13</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני חוזר</head>
+        <lg number="1" type="stanza">
+          <l>התרמיל כבר ארוז מאתמול</l>
+          <l>וברדיו שירי רוק'נ'רול</l>
+          <l>אני שב הביתה מדרך ארוכה</l>
+          <l>דרך אלימה</l>
+          <l>אל מיטה חמימה</l>
+          <l>מן השממה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אל הנשר שעף בשמיים</l>
+          <l>אל הנוף שהיה לי חבר</l>
+          <l>אל אותה חמימות של בית</l>
+          <l>אני חוזר, אני חוזר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שם בבית אפגוש חברים</l>
+          <l>מי נמצא וכמה חסרים</l>
+          <l>אף אחד לא חייב להתבגר</l>
+          <l>מעבר לגדר</l>
+          <l>משם אני חוזר</l>
+          <l>מן השממה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אל הנשר שעף בשמיים</l>
+          <l>אל הנוף שהיה לי חבר</l>
+          <l>אל אותה חמימות של בית</l>
+          <l>אני חוזר, אני חוזר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל רוחות מלטפות בין ערביים</l>
+          <l>בלי אבק וריחות מלחמה</l>
+          <l>אם אוכל גם אלך על המים</l>
+          <l>אני חוזר, אני חוזר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לא ידעתי שתלכי ממני</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לא ידעתי שתלכי ממני</head>
+        <lg number="1" type="stanza">
+          <l>לא חלמתי שתלכי ממני</l>
+          <l>בלי לומר מילה, בלי להזהיר,</l>
+          <l>לא חלמתי שפתאום יכני</l>
+          <l>רעם שכזה ביום בהיר.</l>
+          <l>ואני תמים, תמיד חשבתי</l>
+          <l>שמאושרים כמונו אין.</l>
+          <l>ובדמיוני לראות אהבתי</l>
+          <l>איך ביחד נזדקן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קול קורא הלילה</l>
+          <l>אין עונה הלילה</l>
+          <l>ואת עצמי</l>
+          <l>איך אני שונא,</l>
+          <l>איך שאשתנה</l>
+          <l>בשבילך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את היית דבר כל כך בטוח</l>
+          <l>כמו קפה בבוקר, כמו שינה.</l>
+          <l>לא הייתי לצידך מתוח.</l>
+          <l>לא פיתחתי דרך הגנה.</l>
+          <l>ואולי את עוד מעט חוזרת.</l>
+          <l>רק הלכת לקנות כמה דברים</l>
+          <l>ונלך לראות ביחד סרט,</l>
+          <l>או נחליט שנשארים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קול קורא הלילה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואני תמים, תמיד חשבתי</l>
+          <l>שמאושרים כמונו אין</l>
+          <l>ובדמיוני לראות אהבתי.</l>
+          <l>איך ביחד נזדקן.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

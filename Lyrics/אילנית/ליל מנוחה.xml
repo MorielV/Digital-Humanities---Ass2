@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ליל מנוחה</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>פניה ברגשטיין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ליל מנוחה</head>
+        <lg number="1" type="stanza">
+          <l>כוכבים כמו עיניים</l>
+          <l>מסתכלים מן השמיים</l>
+          <l>למה זה אתה עוד ער?</l>
+          <l>שכב נא, שכב לישון מהר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שכב נא, שכב, אחת ושתיים</l>
+          <l>כוכבים מן השמיים</l>
+          <l>כבר מזמן אמרו לך:</l>
+          <l>ליל מנוחה, ליל מנוחה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

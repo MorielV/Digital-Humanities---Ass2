@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ניגע אל החלום</title>
+        <singer classification="female singer">אחינועם ניני</singer>
+        <writer>שלום חנוך</writer>
+        <composer>שלום חנוך</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ניגע אל החלום</head>
+        <lg number="1" type="stanza">
+          <l>זה נגמר,</l>
+          <l>זה עבר,</l>
+          <l>קצה חלום, ודי</l>
+          <l>חול הזמן שנשר</l>
+          <l>בין אצבעותי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>זה נגמר,</l>
+          <l>זה עבר,</l>
+          <l>לתמיד, אולי</l>
+          <l>מעגל שנסגר</l>
+          <l>ונשארת חי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ניפגש,</l>
+          <l>נתראה -</l>
+          <l>לב אוהב אינו טועה</l>
+          <l>כמו אל ים</l>
+          <l>נזרום, נזרום</l>
+          <l>נבקש עד שנגיע</l>
+          <l>וניגע אל החלום.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

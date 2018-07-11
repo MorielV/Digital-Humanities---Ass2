@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מה אתה רוצה ממני</title>
+        <singer classification="female singer">אסאלה</singer>
+        <writer>דוד זיגמן</writer>
+        <composer>מאיר עמר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מה אתה רוצה ממני</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>מה אתה רוצה ממני? מה אתה רוצה?</l>
+          <l>שום דבר טוב ממך בטוח לא ייצא</l>
+          <l>מה אתה רוצה ממני? מה אתה רוצה?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לא הבנתי למה זה לא מסתדר</l>
+          <l>כל פעם מחדש זה קורה לי עם אחר</l>
+          <l>בחור אחד יצא בטלן בחור שני קמצן</l>
+          <l>בסוף מצאתי לי אותך נראית לי נחמד</l>
+          <l>הרסת לי את החיים יותר מכל אחד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מה אתה רוצה ממני...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איפה המזל שלי? איפה המזל?</l>
+          <l>עם בחור כמוך על הזמן חבל!</l>
+          <l>אז אל תצלצל אלי, אז אל תחכה</l>
+          <l>אל תשלח לי מכתבים, לא צריכה את זה!</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מה אתה רוצה ממני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

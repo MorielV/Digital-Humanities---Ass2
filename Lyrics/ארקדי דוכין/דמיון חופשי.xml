@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>דמיון חופשי</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>יצחק קלפטר</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>נקודת מבט</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>דמיון חופשי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אני מרשה לעצמי</l>
+          <l>עם קצת דמיון חופשי</l>
+          <l>את שנינו ביחד</l>
+          <l>את ואני</l>
+          <l>אבל את לא איתי</l>
+          <l>זה רק בראשי</l>
+          <l>שנינו ביחד</l>
+          <l>דמיון חופשי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>גולשים אל הרוח</l>
+          <l>מעבר להרים</l>
+          <l>צונחים אל החושך</l>
+          <l>בעילפון חושים</l>
+          <l>טסים לירח, אל הכוכבים</l>
+          <l>את שביל החלב</l>
+          <l>נכניס אל הכיס</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני מרשה לעצמי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נוסקים אל האופק ונעלמים</l>
+          <l>יורדים אל המים הסוערים</l>
+          <l>צוחקים אל השמש ולעננים</l>
+          <l>מאחרים בלילה,</l>
+          <l>שוברים את השיא</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני מרשה לעצמי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

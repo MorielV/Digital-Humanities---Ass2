@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלדה לנאיבית 2</title>
+        <singer classification="unknown">אורן לוטנברג</singer>
+        <writer>יהונתן גפן</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלדה לנאיבית</head>
+        <lg number="1" type="stanza">
+          <l>אמרת שהכל יסתדר לך בסדר,</l>
+          <l>כמו בספרים שקראת בבית ספר.</l>
+          <l>כולם לך אמרו: "אתם זוג משמיים".</l>
+          <l>עכשיו השמיים ריקים, ובינתיים -</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ארבע בבוקר, השחר מפציע,</l>
+          <l>חושבת אולי הוא בכל זאת יגיע,</l>
+          <l>שמה קומקום, מציתה עוד סיגריה,</l>
+          <l>ברדיו שירים שסוגרים את הלילה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יום בא ויום הולך</l>
+          <l>ואת נשארת</l>
+          <l>נאיבית שכמותך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חולמת ליד התנור ורוקמת</l>
+          <l>צלבים וקווים לחולצה של הילד,</l>
+          <l>הגבר שלך, מי יודע היכן הוא</l>
+          <l>שותה ובורח כמו אליהו.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בבוקר תצאי בחלוק לנער את</l>
+          <l>הברוש המשיר טיפת לילה זוהרת,</l>
+          <l>מרחוק אז תראי איש שיכור רץ אלייך</l>
+          <l>ושוב לקראתו תפרשי זרועותייך.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יום בא ויום הולך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

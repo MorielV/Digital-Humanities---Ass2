@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לאט כהולם הלב 2</title>
+        <singer classification="unknown">אלון אולארצ יק 2</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>אחינועם ניני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לאט כהולם הלב</head>
+        <lg number="1" type="stanza">
+          <l>אוּלַי כָּאן נִגְמֶרֶת דַּרְכִּי </l>
+          <l>עַל הַסַּף הַשָלֵיו. </l>
+          <l>נוטְפִים כּוכָבִים יְרוּקִים </l>
+          <l>לְאַט- כְּהולֶם הַלֵב. </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בְּאִוְושַת עֲנָפִים יְבֵשָה </l>
+          <l>בִּירְכַּת שְלומִים: </l>
+          <l>הָעֵצִים הַקְטַנִים בַּחורְשָה </l>
+          <l>חִיכּוּ לִי כָּל הַיָמִים. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מַה מוּזָר שֶבִּיקַשְתִּי אותְךָ </l>
+          <l>בִּדְרָכִים לָרוב, </l>
+          <l>עַד שֶבָּאתִי אֶל סַף בֵּיתְךָ </l>
+          <l>וְהוּא כּה קָרוב. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza" />
+        <lg Chorus="yes" number="5" type="stanza" />
+        <lg number="6" type="stanza">
+          <l>--------------------------------------------------------------------------------</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

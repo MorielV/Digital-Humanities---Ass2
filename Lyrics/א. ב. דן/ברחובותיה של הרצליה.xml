@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ברחובותיה של הרצליה</title>
+        <singer classification="unknown">א ב דן</singer>
+        <writer>א. ב. דן</writer>
+        <composer>א. ב. דן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ברחובותיה של הרצליה</head>
+        <lg number="1" type="stanza">
+          <l>ברחובותיה של הרצליה</l>
+          <l>מטיילת לה נערה</l>
+          <l>לאן מועדות פניה</l>
+          <l>מסתיר אותה שיערה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שיער אדום כמו השמש</l>
+          <l>ופרחים אדומים בידה</l>
+          <l>גלי את מי את באמת אוהבת</l>
+          <l>ברחובותיה של הרצליה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ברחובותיה של הרצליה</l>
+          <l>מטיילת לה נערה</l>
+          <l>סומק פושט בלחייה</l>
+          <l>חושף את לובן צווארה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שיער אדום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

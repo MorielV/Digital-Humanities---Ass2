@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יש תקוה</title>
+        <singer classification="unknown">אבישי לוי</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יש תקוה</head>
+        <lg number="1" type="stanza">
+          <l>אם פתאום עייפת ונפלת</l>
+          <l>אם מה שביקשת לא קיבלת</l>
+          <l>יש תקוה</l>
+          <l>שא את שתי עיניך לשמיים</l>
+          <l>וברכות תראנה כמו המים</l>
+          <l>יש תקוה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לשמוח לשכוח</l>
+          <l>את כל העצב בנשמה</l>
+          <l>יש כח לשכוח</l>
+          <l>אם לא תאבד האמונה</l>
+          <l>תן כח לשכוח</l>
+          <l>אם רק נביט קדימה בתקוה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם בלב שכחת מה זה אושר</l>
+          <l>אם כשלו רגליך על הבוקר</l>
+          <l>יש תקוה</l>
+          <l>שא את שתי עיניך לשמיים</l>
+          <l>וברכות תראנה כמו המים</l>
+          <l>יש תקוה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לשמוח לשכוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

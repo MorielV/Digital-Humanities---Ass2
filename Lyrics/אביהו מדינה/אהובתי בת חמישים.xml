@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהובתי בת חמישים</title>
+        <singer classification="male singer">אביהו מדינה</singer>
+        <writer>אילנה קליין</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהובתי בת חמישים</head>
+        <lg number="1" type="stanza">
+          <l>כחולות עינייך כמו גלי כנרת</l>
+          <l>ושערך גולש עד חוף אילת</l>
+          <l>נתתי שבועתי לך אין אחרת</l>
+          <l>מכורתי שלי - את האחת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עלייך הינומת כוכבי שמיים</l>
+          <l>ובגליל הומים לך חלילים</l>
+          <l>אשכול הגפן הנישא בשניים</l>
+          <l>ופסיעותייך ‟ ים השיבולים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>געגועיי רוו אלפי שנותייך</l>
+          <l>חלום כחול-לבן בך להגשים</l>
+          <l>ושוב חוצה את המדבר אלייך</l>
+          <l>אהובתי שלי בת 50</l>
+          <l>ושוב חוצה את המדבר אלייך</l>
+          <l>אהובתי שלי בת 50</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מקצות תבל באים בשערייך</l>
+          <l>אלייך ארץ קדם-חדשה</l>
+          <l>ואת גאה בפאר יצירותייך </l>
+          <l>וזכרונות כל אבן וחורשה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בין שחוק לדמע את תמיד עוברת</l>
+          <l>אבל מחר השמש שוב תזרח</l>
+          <l>ועיר הנצח לראשך עטרת</l>
+          <l>את שבועתי לעד לך לא אשכח</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>געגועיי רוו אלפי שנותייך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

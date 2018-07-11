@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מקומות מסוכנים</title>
+        <singer classification="unknown">אנדרס צ ייט</singer>
+        <writer>אנדרס צ'ייט</writer>
+        <composer>אנדרס צ'ייט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מקומות מסוכנים</head>
+        <lg number="1" type="stanza">
+          <l>מקומות של מוות, סבל בלי שום היגיון</l>
+          <l>למה לנסות עוד, לא נמצא שום פתרון</l>
+          <l>הפנים של עצב, שאין להם מקום לגור</l>
+          <l>ושום דבר לא ישתנה, זה תמיד אותו סיפור</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מוות, לחץ, הרס ופחד</l>
+          <l>איך אפשר להמשיך בלי שום כאב</l>
+          <l>שוחד שנאה, אי צדק עוולה</l>
+          <l>איך אפשר למצוא מקום אחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מקום בלי סוף, מקום בלי פחד</l>
+          <l>תן לנו מקום יותר נחמד</l>
+          <l>מקום בלי מוות, מקום בלי נצח</l>
+          <l>תן לנו לחיות עוד יום אחד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לה דרכים אין נצח, ולעולם אין זיכרון</l>
+          <l>כי נופלים פעמיים, וטועים בלי ניסיון</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

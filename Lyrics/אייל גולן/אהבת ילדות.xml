@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבת ילדות</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>זאב נחמה</writer>
+        <composer>אקורדים</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבת ילדות</head>
+        <lg number="1" type="stanza">
+          <l>רק אותך, רק אותך תמיד רציתי</l>
+          <l>ללטף את תלתלייך ולחיות</l>
+          <l>רק אותך, אהבת חיי הביטי</l>
+          <l>איך פרידה מילאה אותנו באכזבות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את הכאב תחליף שמחה</l>
+          <l>את הדמעה יחליף חיוך</l>
+          <l>תמיד אזכור שעות יפות איתך</l>
+          <l>עיזבי את הצער שבלב כי רק אותך אני אוהב</l>
+          <l>תמיד אזכור ולא אשכח אותך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהבה, תחבר אותנו יחד</l>
+          <l>נשארו לנו אותם הזכרונות</l>
+          <l>אכזבה, להעלם היא כל הפחד</l>
+          <l>ונשכח את השנים האבודות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את הכאב תחליף שמחה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בחלומי</title>
+        <singer classification="male singer">אוריאל שלומי</singer>
+        <writer>שלמה כישור</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בחלומי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>לילה, אפלה ובכל העיר</l>
+          <l>דממה ואני בערשי,</l>
+          <l>שוכב וחולם ובחלומי</l>
+          <l>עולים כל אהובי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>בחלומי הם חוזרים אלי</l>
+          <l>וצפים בלאט מזכרונותי,</l>
+          <l>נעורים בלילה עת היקום יישן.</l>
+          <l>ובחלומי הם באים עדי</l>
+          <l>ורואה אני את כל אהובי</l>
+          <l>שעולים לי חרש מנבכי הזמן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בוקר ונגוז חלומי אשר</l>
+          <l>אחלום ונעלם לו כליל</l>
+          <l>ורק בקרבי, שם עמוק נשאר</l>
+          <l>זכר כל אהובי.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>בחלומי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

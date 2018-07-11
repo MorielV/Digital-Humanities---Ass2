@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רק תחייכי אלי</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>13</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רק תחייכי אלי</head>
+        <lg number="1" type="stanza">
+          <l>עוד עונה איתך, עונה בוערת</l>
+          <l>גם אם זאת עונת הנדידה</l>
+          <l>עכשיו אני נסער, גם את נסערת</l>
+          <l>שנינו לא בנויים לעוד פרידה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>רק תחייכי אלי</l>
+          <l>רק תחייכי אלי</l>
+          <l>כי ליבי שוב מדמם מאהבה</l>
+          <l>רק תחייכי אלי</l>
+          <l>רק תחייכי אלי</l>
+          <l>כי אני כבר מסתגל לאכזבה</l>
+          <l>אל תהיי קשה, תהיי אישה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וכשנתייחד עם רדת ערב</l>
+          <l>את תהיי עוטפת וצמודה</l>
+          <l>ובתום מחול של שתי וערב</l>
+          <l>נחכה לבוא החסידה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>רק תחייכי אלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

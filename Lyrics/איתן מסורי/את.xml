@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את 39</title>
+        <singer classification="male singer">איתן מסורי</singer>
+        <writer>ניסן פרידמן</writer>
+        <composer>איתן מסורי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את</head>
+        <lg number="1" type="stanza">
+          <l>מאז היום שבאת נפתח לי דף חדש.</l>
+          <l>מאז שאת הגעת, ימי בטעם דבש.</l>
+          <l>איני יכול לחשוב על רגע בלעדייך.</l>
+          <l>אני רוצה לכתוב כאן שיר תודה עלייך.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כי את, רק את השבת לי את האמונה.</l>
+          <l>מאז שבאת אני יודע אהבה.</l>
+          <l>זו את, רק את שמאירה לי את דרכי.</l>
+          <l>לאט-לאט שלבי ידך בכף ידי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אולי זה קצת מוזר, עכשיו זה לא מובן</l>
+          <l>כיצד היה אפשר עד שהגעת לכאן.</l>
+          <l>הנה אני ואת, כמה טובים השניים.</l>
+          <l>ואנו גוף אחד ושוב בתום עיניים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כי את...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואז פתאום הלכת, הכל נגמר ודי.</l>
+          <l>כמו חלום עבר עוד פרק בחיי.</l>
+          <l>הדף הזה נתלש, אני כאן בלעדייך.</l>
+          <l>וזו סיבה מספיק טובה לשיר עלייך.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כי את, רק את השבת לי את האמונה.</l>
+          <l>מאז הלכת איני יודע אהבה.</l>
+          <l>זו את, רק את, אשר הארת לי את דרכי.</l>
+          <l>לאט-לאט דועך לו שיר אהבתי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

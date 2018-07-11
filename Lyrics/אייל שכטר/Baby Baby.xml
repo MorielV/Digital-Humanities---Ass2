@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Baby Baby 2</title>
+        <singer classification="unknown">אייל שכטר</singer>
+        <writer>אייל שכטר</writer>
+        <composer>אמיר בן דוד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Baby Baby</head>
+        <lg number="1" type="stanza">
+          <l>או בייבי בייבי, אם נזוזה</l>
+          <l>תבוא המוזה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>או בייבי בייבי, אם תזוזי </l>
+          <l>תבוא המוזיקה רכה </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תביאי מים, כי בינתיים </l>
+          <l>אני עולה בלהבה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אולי נלך כבר, כי לא בא לי </l>
+          <l>לגמור ת'לילה הזה לבד </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הראש שלי במכנסיים </l>
+          <l>המוזה שלי כלואה לך בין הרגליים </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>או בייבי בייבי, כל כך קשה לי </l>
+          <l>כל כך קשה כל פעם שאת כאן </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אם רק תמשיכי, תעשי לי ככה </l>
+          <l>בסוף יצא, שיר אהבה </l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>תגידי למה את מתלבשת? </l>
+          <l>אולי סיגריה אחרונה? </l>
+        </lg>
+        <lg number="9" type="stanza">
+          <l>אני יודע, הוא מחכה לך </l>
+          <l>אבל שילמתי לשעה </l>
+        </lg>
+        <lg Chorus="yes" number="10" type="stanza">
+          <l>הראש שלי במכנסיים </l>
+          <l>המוזה שלי כלואה לך בין הרגליים</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פרי גנך</title>
+        <singer classification="female singer">אביבה אבידן</singer>
+        <writer>יוני רועה</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פרי גנך</head>
+        <lg number="1" type="stanza">
+          <l>ליל כוכבים הסהר עלה</l>
+          <l>את שם יושבת בוהה באפלה</l>
+          <l>שעה חולפת יום ושנה</l>
+          <l>ואת עדיין לו מחכה</l>
+          <l>שעה חולפת יום ושנה</l>
+          <l>עודך אובדת שבויה באמונה.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את פרי גנך את תבקשי</l>
+          <l>מי לך יאמר ומי לך ישיב</l>
+          <l>מר כאבך רודפים הימים</l>
+          <l>נותרת לבדך רוצה להאמין</l>
+          <l>שהנה קרבה אותה השעה</l>
+          <l>שבה הבטיח לשוב בחזרה.</l>
+          <l>שהנה קרבה אותה השעה</l>
+          <l>שבה הבטיח לשוב בחזרה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בדומיה עוטפת התוגה</l>
+          <l>ובליבך נותרה המשאלה</l>
+          <l>שעה חולפת יום ושנה</l>
+          <l>ואת עדיין לו מחכה</l>
+          <l>שעה חולפת יום ושנה</l>
+          <l>עודך זוכרת ולא מאמינה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את פרי גנך את תבקשי...</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את פרי גנך את תבקשי</l>
+          <l>מי לך יאמר ומי לך ישיב</l>
+          <l>מר כאבך רודפים הימים</l>
+          <l>נותרת לבדך רוצה להאמין</l>
+          <l>שהנה קרבה אותה השעה</l>
+          <l>שבה הבטיח לשוב בחזרה,</l>
+          <l>שהנה קרבה אותה השעה</l>
+          <l>שבה הבטיח לשוב ולא שב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

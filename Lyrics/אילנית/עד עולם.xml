@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עד עולם</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>שמרית אור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עד עולם</head>
+        <lg number="1" type="stanza">
+          <l>מנאות המדברים עד מבוא השמש</l>
+          <l>ומעל פסגות הרים עד עמקי הים</l>
+          <l>עוד יוצאת נפשי לשוט, עוד אני נושמת</l>
+          <l>את ניחוח עפרך החם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בנחלייך לאטה הדמעה ניגרת</l>
+          <l>וברוח - החיטה את ראשה תרכין.</l>
+          <l>בנימי עצבות ואור איך אני נקשרת</l>
+          <l>לאין קץ שמיך הזכים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עד כלות הנשמה</l>
+          <l>כל ימי אשא אותך באהבה גדולה</l>
+          <l>את אמא אדמה</l>
+          <l>זו ברית דמים שלא תופר בינינו עד עולם.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ובנשוב סופת קדים או ברוח ערב</l>
+          <l>עת לפתע נרעדים מיתרי השיר -</l>
+          <l>עוד אני כעץ שתול, את עוד אם הדרך</l>
+          <l>עד עולם אכה בך שרשים.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

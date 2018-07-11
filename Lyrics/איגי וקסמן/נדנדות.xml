@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נדנדות</title>
+        <singer classification="female singer">איגי וקסמן</singer>
+        <writer>איגי וקסמן</writer>
+        <composer>עובד אפרת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נדנדות</head>
+        <lg number="1" type="stanza">
+          <l>אגדה של קיץ בוערת ברוח</l>
+          <l>מחבקת חזק</l>
+          <l>הם בדרכים מבקשים קצת לנוח</l>
+          <l>היום יום שבת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>על יד הגדר, עומד לו בנחת</l>
+          <l>עץ תפוזים</l>
+          <l>דבר לא נותר, פרט לעץ המוכר</l>
+          <l>שיעמוד שם עוד שנים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נדנדות שמרחפות</l>
+          <l>מעל כולם</l>
+          <l>שומרות סודות שמזכירים לך את פעם</l>
+          <l>יש לגעת בקצוות</l>
+          <l>אין לדעת תוצאות</l>
+          <l>אבל מכל החלומות נשאר עוד טעם</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ילד רוכב לו על אופניים</l>
+          <l>נוסע לאט</l>
+          <l>הם בדרכים התעייפו מללכת</l>
+          <l>נשאר רק עוד קצת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חוזרים הביתה כבר מאוחר</l>
+          <l>ירדנו מן ההר</l>
+          <l>כן יגענו, לא מצאנו</l>
+          <l>נמשיך מחר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לחיות ולמות</title>
+        <singer classification="male singer">אורי זר</singer>
+        <writer>יואב גינאי</writer>
+        <composer>עופר שרביט</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לחיות ולמות</head>
+        <lg number="1" type="stanza">
+          <l>לחיות מה זה בעצם </l>
+          <l>לשתות את מי התהומות כמו עשב </l>
+          <l>מאדמה כמו נשימה </l>
+          <l>לחיות זה גם לגעת </l>
+          <l>באושר הגדול וגם ברעד </l>
+          <l>של העולם והאדם </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ולבכות כמו טיפות שקופות </l>
+          <l>שניקוות על הפרחים </l>
+          <l>ולפעמים גם לרחף לרגע </l>
+          <l>כמו מלאכים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>למות מה זה בעצם </l>
+          <l>להאמין שיש גם סוף לעצב </l>
+          <l>עם השנים בעננים </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ולבכות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

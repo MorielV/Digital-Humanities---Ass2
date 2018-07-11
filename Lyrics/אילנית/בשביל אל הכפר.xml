@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בשביל אל הכפר</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>שמרית אור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בשביל אל הכפר</head>
+        <lg number="1" type="stanza">
+          <l>שמתי בסל את הכל</l>
+          <l>גם לחם ויין ופרח כחול</l>
+          <l>ורכבתי לי על אופניים</l>
+          <l>בשביל המוביל אל הכפר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>האוויר היה קר</l>
+          <l>האוויר היה טוב</l>
+          <l>וריח של גשם מתוק ורטוב</l>
+          <l>וירוק או...</l>
+          <l>האוויר היה מר</l>
+          <l>האוויר היה טוב</l>
+          <l>וריח של גשם מתוק ורטוב</l>
+          <l>וירוק או...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמתי בסל את הכל:</l>
+          <l>אותי ואותך בתוך כובע גדול</l>
+          <l>ורכבתי לי על אופניים</l>
+          <l>בשביל המוביל אל הכפר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האוויר היה קר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חשבתי ששמתי בסל את הכל</l>
+          <l>אבל זה לא נכון, אף אחד לא יכול</l>
+          <l>אז רכבתי לי על אופניים</l>
+          <l>בשביל המוביל אל הכפר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>האוויר היה קר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

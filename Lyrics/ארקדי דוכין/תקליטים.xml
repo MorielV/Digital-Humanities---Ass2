@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תקליטים</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>חלומות למבוגרים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תקליטים</head>
+        <lg number="1" type="stanza">
+          <l>בתוך הבית מקשיב לתקליטים שירים תמימים על אהבה</l>
+          <l>ממך למדתי שתמימות זה אפשרי אפילו אם זה בלי סיבה</l>
+          <l>וטומי את ראשו הניח על רגלי קשה כשכלב מזדקן</l>
+          <l>בכלל המוות כבר ירק עלי פרידות זה לא דבר יפה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עצב מתוק עושה לי לבכות צובט אותי מבפנים</l>
+          <l>וכמו תינוק יונק כל פיסת חיים</l>
+          <l>וכמו תינוק יונק כל טיפת חיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היתה לי פעם דיעה על כל דבר היום כבר אין לי מה לומר</l>
+          <l>עצוב ברחוב חוזר לתקליטים ומחבק אותך כשקר</l>
+          <l>זמר מתור הפטיפון גובר נגע בו אצבע אלוהית</l>
+          <l>לברוח מעצמי כבר לא עוזר אוהב אותך שנית</l>
+          <l>יפה וחייכנית</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עצב מתוק עושה לי לבכות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

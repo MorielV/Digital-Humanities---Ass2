@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אשא תפילה 2</title>
+        <singer classification="unknown">אריאל קבלן</singer>
+        <writer>אריאל קבלן</writer>
+        <composer>אריאל קבלן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אשא תפילה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>מהלב נישא את התפילה ונשיר מהנשמה </l>
+          <l>אל אדון בורא העולם המשגיח הוא על כולם.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם בלב יש מכאוב ונראה שקשה</l>
+          <l>אל תתיאש אל תחשוב כי הזמן הוא המרפא</l>
+          <l>גם כשרע לך מאוד ולא ברור מה קורה</l>
+          <l>מחר לא יהיה כמו היום והכל כבר ישתנה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מהלב נישא...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ימים כהרף חולפים מתבגרים בשנים</l>
+          <l>אנחנו דבר לא קובעים רק האל במרומים</l>
+          <l>הוא מנהל את הכל ועושה כרצונו</l>
+          <l>עשיר בינוני ואביון נמצאים כולם בידו.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מהלב נישא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

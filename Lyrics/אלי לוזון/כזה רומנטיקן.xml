@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כזה רומנטיקן</title>
+        <singer classification="male singer">אלי לוזון</singer>
+        <writer>יניב דהן</writer>
+        <composer>יניב דהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כזה רומנטיקן</head>
+        <lg number="1" type="stanza">
+          <l>כשבך פגשתי בקפה ליד הים</l>
+          <l>איך שהתרגשתי ויופייך היה מושלם</l>
+          <l>לי שלחת חיוך קטן ואני כמו על ענן</l>
+          <l>מרחף מרגיש כזה רומנטיקן</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אילו רק יכולתי לחבק בשתי ידי</l>
+          <l>הייתי בא אלייך ואוסף אותך אלי</l>
+          <l>רק תגידי לי לאן בשבילך אני מוכן</l>
+          <l>לשנות ולא לחיות כמו דון ג'ואן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יש חוט קשור חזק אל תוך ליבך,</l>
+          <l>ואת יודעת, לאן שלא תלכי אלך</l>
+          <l>וכמו תינוק לאם נמשך רק אלייך</l>
+          <l>רוצה לחוש את חום גופך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אילו רק יכולנו לשנות את המזל</l>
+          <l>לקנות כרטיס,  לעוף מכאן ישר לעיר נמל</l>
+          <l>את עושה מזה עניין והורגת את הזמן</l>
+          <l>כשתחליטי באמת אני קיים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יש חוט קשור חזק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

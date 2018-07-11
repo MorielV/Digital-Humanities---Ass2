@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנוליה</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנוליה</head>
+        <lg number="1" type="stanza">
+          <l>עוד יום עבר ואת לא איתי.</l>
+          <l>היית לי מולדת, היית ביתי.</l>
+          <l>אתמול עזבת, הלכת עם אחר,</l>
+          <l>ואין לי מנוח, לא מוותר.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>למה עזבת? </l>
+          <l>אבוי ואויה.</l>
+          <l>לאן הלכת,</l>
+          <l>מנוליה?</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואם חשבת שהוא מחכה,</l>
+          <l>ואם עוד חשבת שאני אבכה,</l>
+          <l>לא, אין סיכוי, אני כבר רחוק,</l>
+          <l>את מה שעבר אי אפשר למחוק.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>למה עזבת?...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שותת הלב כמו דם השקיעה,</l>
+          <l>תראי, עוד תשובי אישה תועה.</l>
+          <l>עד יום מותך, ארדוף את דמותך,</l>
+          <l>ממך ואליך אני הולך.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>למה עזבת?...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

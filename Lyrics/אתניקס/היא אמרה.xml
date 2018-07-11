@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא אמרה</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>בדרך שלך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא אמרה</head>
+        <lg number="1" type="stanza">
+          <l>כשתפקח את עיניך", היא אמרה,</l>
+          <l>"תראה איך העולם צמא לאהבה".</l>
+          <l>"שתי גומות על לחייך", היא אמרה,</l>
+          <l>"חיוך אחד שלך הוא כמו מילה טובה".</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אולי תהיה ליצן של החיים</l>
+          <l>לוליין שם בקרקס של אלוהים,</l>
+          <l>אולי תהיה איש רוח, איש חכם,</l>
+          <l>אולי גם תשנה את העולם</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עוד שנה עם קצת אמונה</l>
+          <l>כשתלך תראה את התמונה</l>
+          <l>איך דרך סלולה בלי מכשול</l>
+          <l>בכל העולם הגדול.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הגבול הוא לא בשמיים</l>
+          <l>הוא מטר ממך</l>
+          <l>אם רק תזרום כמו המים</l>
+          <l>הכל שלך.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תתכרבל בתוך השמיכה</l>
+          <l>גם האל שרוי במבוכה</l>
+          <l>הכל לפניך מונח</l>
+          <l>אז רק את עיניך תפקח</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>הגבול הוא לא בשמיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

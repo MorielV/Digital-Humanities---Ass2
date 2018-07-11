@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם אתה בסביבה</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>יצחק קלפטר</writer>
+        <composer>יצחק קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם אתה בסביבה</head>
+        <lg number="1" type="stanza">
+          <l>רחוב ישן בצהרי היום</l>
+          <l>לצידיו בתים עם גג אדום</l>
+          <l>במספרה ממול יושב אדון</l>
+          <l>מסתפר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פסי רכבת חוצים שדה</l>
+          <l>וגשר מעל הפסים חוצה</l>
+          <l>מכולת בית מלון</l>
+          <l>בית דואר בלי חלון.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>כן כך נראית העיירה שלי</l>
+          <l>אם תעצור אולי תראה אותי</l>
+          <l>ואם אתה נמצא כבר בסביבה</l>
+          <l>דע לך שכאן הזמן לא הכרחי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הנפח את הפח חתך</l>
+          <l>ועוד כמה חורים קדח</l>
+          <l>הוא בונה חלון לבית המלון</l>
+          <l>מתפרנס.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>גברת שמידט אשתו של הקצב</l>
+          <l>תמיד אומרת "זה המצב"</l>
+          <l>עשבים שוטים</l>
+          <l>כלבים וחתולים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כן כך נראית העיירה שלי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

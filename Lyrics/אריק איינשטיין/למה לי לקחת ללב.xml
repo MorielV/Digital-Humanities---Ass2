@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>למה לי לקחת ללב</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>למה לי לקחת ללב</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>למה לי לקחת ללב -</l>
+          <l>יש לי דברים חדשים בראש,</l>
+          <l>יש לי דמיון שעוזר לפעמים לשכוח.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>למה לי לקחת ללב -</l>
+          <l>יש לי הרבה לאהוב מראש,</l>
+          <l>יש לי תמיד חברים שעוזרים לשמוח.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תן לצעוק, תן ללמוד,</l>
+          <l>תן לצחוק ותן לשמוע.</l>
+          <l>תן לחיות ותן לטעות</l>
+          <l>תן לעצמך לסלוח.</l>
+          <l>פשוט לאהוב.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>זה מה שרציתי לכתוב -</l>
+          <l>לך עם זה לאט,</l>
+          <l>ואז תוכל פשוט לרוץ מהתחלה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>למה לי לקחת ללב -</l>
+          <l>יש לי דברים חדשים בראש,</l>
+          <l>יש לי דמיון שעוזר לפעמים לשכוח.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

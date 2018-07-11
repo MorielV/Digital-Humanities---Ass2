@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רציתי להגיד לך</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>רותם כהן</writer>
+        <composer>רותם כהן</composer>
+        <album>חלק מחיי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רציתי להגיד לך</head>
+        <lg number="1" type="stanza">
+          <l>כשפגשתי אותך ברחוב שאלתי את עצמי</l>
+          <l>אם זו את האחת שאני תמיד חיפשתי</l>
+          <l>כדי שלא אהיה לבד</l>
+          <l>ידעתי שלא משנה, איתך אני חוזר</l>
+          <l>רק איתך אני עובר את חיי.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תגידי, רציתי רק לדעת</l>
+          <l>תמיד כשאת נוגעת</l>
+          <l>את עפה גבוה באוויר</l>
+          <l>רציתי להגיד לך</l>
+          <l>שלך אני מבטיח</l>
+          <l>את כל מה שרציתי להכיר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשפגשתי אותך ברחוב ראיתי את עצמי</l>
+          <l>מתנהג כמו ילד שעוד לא ראה יפה כמוך</l>
+          <l>מנסה להיות נחמד</l>
+          <l>ידעתי שאת האחת, איתך רק אתעודד</l>
+          <l>כי איתך איני בודד בעולם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תגידי, רציתי רק לדעת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

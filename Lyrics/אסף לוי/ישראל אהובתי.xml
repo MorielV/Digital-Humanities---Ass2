@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ישראל אהובתי</title>
+        <singer classification="unknown">אסף לוי</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ישראל אהובתי</head>
+        <lg number="1" type="stanza">
+          <l>את יומי ולילי את הבית שלי</l>
+          <l>ואני למענך אתן את חיי, אגן עלייך</l>
+          <l>ממזרח ועד הים את לי כל העולם,</l>
+          <l>לא חשוב לאן שאלך צמא ליופייך,</l>
+          <l>אשוב אלייך.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>באתי לספר לך עכשיו שאני בך מאוהב.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ישראל אהובתי, את הנצח את ביתי</l>
+          <l>את יפה מתנת האל </l>
+          <l>אני שר לך ישראל.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>המדבר והחול והים הגדול</l>
+          <l>את יפה מדן עד אילת</l>
+          <l>וזר לראשך ירושלים.</l>
+          <l>את לי ארץ אבות, את מיליון חלומות,</l>
+          <l>בשבילי את לב העולם, אני בשבילך</l>
+          <l>באש במים. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>באתי לספר לך עכשיו שאני בך מאוהב.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ישראל אהובתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

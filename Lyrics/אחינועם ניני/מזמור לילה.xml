@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מזמור לילה</title>
+        <singer classification="female singer">אחינועם ניני</singer>
+        <writer>לאה גולדברג</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מזמור לילה</head>
+        <lg number="1" type="stanza">
+          <l>את כל הכוכבים טמן,</l>
+          <l>את הסהר עטף בשחור</l>
+          <l>מצפון ועד תימן</l>
+          <l>אין קרן אור.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אין אור, אין קרן אור</l>
+          <l>אין אור, אין קרן אור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>והבוקר אלמן נאמן</l>
+          <l>שק אפור על מותניו יחגור</l>
+          <l>מצפון ועד תימן</l>
+          <l>אין קרן אור.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין אור, אין קרן אור</l>
+          <l>אין אור, אין קרן אור</l>
+          <l>אין אור, אין אור,</l>
+          <l>אין קרן אור.</l>
+          <l>אין אור, אין אור,</l>
+          <l>אין קרן אור.</l>
+          <l>אין קרן אור.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הדליקה נא נר לבן</l>
+          <l>באוהל ליבי השחור</l>
+          <l>מצפון ועד תימן</l>
+          <l>יזרח האור</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>האור, יזרח האור</l>
+          <l>האור, יזרח האור</l>
+          <l>האור, האור, יזרח האור</l>
+          <l>האור, האור, יזרח האור.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

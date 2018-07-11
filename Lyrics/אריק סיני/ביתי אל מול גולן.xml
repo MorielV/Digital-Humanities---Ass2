@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ביתי אל מול גולן 2</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>יוסף נצר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ביתי אל מול גולן</head>
+        <lg number="1" type="stanza">
+          <l>איני יודע איך הומים היערות</l>
+          <l>איך מתכסים גגות בשלג המרהיב</l>
+          <l>לי צאלון ניגן, ניגן על סערות</l>
+          <l>וכליל החורש מספר לי על אביב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כאן ביתי, אל מול גולן</l>
+          <l>עטור מטע וכרם,</l>
+          <l>כי אני נולדתי כאן</l>
+          <l>עם עץ הצאלון,</l>
+          <l>על דשא הגנון</l>
+          <l>השקנו יחד הירמוך עכור הזרם.</l>
+          <l>כפרי הדומים שניערתי משיזף</l>
+          <l>כממטרות תחתן סובבתי בשרב</l>
+          <l>כציפורים שהעירוני בקולן -</l>
+          <l>כאן ביתי, אל מול גולן</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשהתגייסתי כך אמרתי לצבא</l>
+          <l>תנו לי רק הגה ואטוס עד קצה עולם</l>
+          <l>די לי לגדול, כפרח חממה</l>
+          <l>אך העיניים שוב ביקשו את הגולן</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כאן ביתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

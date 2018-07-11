@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פחד</title>
+        <singer classification="female singer">איגי וקסמן</singer>
+        <writer>איגי וקסמן</writer>
+        <composer>רם אוריון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פחד</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>צלילים של שרשרת שקושרים אותו למיטתו</l>
+          <l>צלילים של שלשלת שכובלים אותו לאשתו</l>
+          <l>וצלילים של תזמורת נשמעים מבחוץ</l>
+          <l>וזה בהחלט הזמן לתפוס רגליים ולרוץ</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתה רוצה לנשום את האויר של החטא</l>
+          <l>למרות שהוא מזוהם</l>
+          <l>אתה רוצה בפניך להודות באמת</l>
+          <l>זה מלוכלך כמו כתם של דם</l>
+          <l>אתה מפחד מהטירוף שלה</l>
+          <l>זה יזיק לילד שלך ולך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>צלילים של שרשרת...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ובלילה עם חלום כחול בראשך</l>
+          <l>תתנער מן השינה ותקיץ למציאות המרה</l>
+          <l>תיקח פטיש ותנפץ את גולגלתה</l>
+          <l>תברח מהר לחופש ותיקח אותי איתך</l>
+          <l>אל תפחד אני אברח איתך</l>
+          <l>אני אברח איתך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>צלילים של שרשרת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

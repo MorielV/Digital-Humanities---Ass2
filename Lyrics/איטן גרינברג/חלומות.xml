@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>חלומות 8</title>
+        <singer classification="unknown">איטן גרינברג</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>חלומות</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>חלומות של אתמול</l>
+          <l>הם שלהבות נרעדות</l>
+          <l>לא יכול כל החושך</l>
+          <l>לכבות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>על מצע השלכת</l>
+          <l>החלומות מלחשים</l>
+          <l>רק פרחים מיובשים</l>
+          <l>דוהים בין הדפים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>חלומות של אתמול...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אל תסב את פניך</l>
+          <l>אתה מלא דברים כמוסים</l>
+          <l>אל תגיף את התריסים</l>
+          <l>חפש בין המילים.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>חלומות של אתמול...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>שיר בדרך אליך</l>
+          <l>נרקם בסבלנות אין קץ</l>
+          <l>הן תיקח ותאמץ אותו</l>
+          <l>אל לבבך</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>חלומות של אתמול</l>
+          <l>הם שלהבות.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

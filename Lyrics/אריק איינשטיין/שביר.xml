@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שביר</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שביר</head>
+        <lg number="1" type="stanza">
+          <l>שביר, מתפורר בקלות</l>
+          <l>מעמיס על עצמו את כל העולם,</l>
+          <l>נושר כמו עלה למשב כל רוח קלה,</l>
+          <l>בקיצור, שביר מתפורר בקלות.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>שביר, מתפורר בקלות</l>
+          <l>מחפש את עצמו, מחפש כל הזמן,</l>
+          <l>לוקח כבד, חושב זה סוף העולם,</l>
+          <l>בקיצור, שביר מתפורר בקלות.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

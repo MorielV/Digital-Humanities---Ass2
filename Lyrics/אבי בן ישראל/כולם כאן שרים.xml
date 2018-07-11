@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כולם כאן שרים</title>
+        <singer classification="unknown">אבי בן ישראל</singer>
+        <writer>רמי לב</writer>
+        <composer>אבי בן ישראל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כולם כאן שרים</head>
+        <lg number="1" type="stanza">
+          <l>אני אדם פשוט כמו כולם</l>
+          <l>אוהב ומאמין שמח מבפנים</l>
+          <l>בכל אחד יש משהו מיוחד </l>
+          <l>אבל יש בכולם אור שמאיר </l>
+          <l>וזה הלילה הלילה, שהשמחה לא די לה </l>
+          <l>נשיר ביחד לא נוותר לא נוותר!</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כולם כאן שרים - ובאים לשמוח</l>
+          <l>כולם כאן רוקדים - זה נותן לי כוח</l>
+          <l>כשאתם איתי אני עף ברוח</l>
+          <l>והלב פתוח - אחים כן אחים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אחים שמחים ביחד מנצחים</l>
+          <l>את כל החשיכה בכוח השמחה </l>
+          <l>רוקדים כולם יראה כל העולם</l>
+          <l>כולנו עם אחד שישאר.</l>
+          <l>וזה הלילה הלילה, שהשמחה לא די לה </l>
+          <l>נשיר ביחד לא נוותר לא נוותר!</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כולם כאן שרים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זה נוגע לי בנשמה, זה בכל העוצמה</l>
+          <l>זוהי האש, בוערת בי</l>
+          <l>זה אצלי וגם אצלך, זה שלי ושלך</l>
+          <l>האור בתוכי שנוגע בי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

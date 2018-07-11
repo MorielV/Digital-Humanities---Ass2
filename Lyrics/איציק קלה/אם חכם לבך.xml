@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם חכם לבך</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>רבי אברהם ענתבי</writer>
+        <composer>מן המקורות</composer>
+        <album>לך אלי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם חכם לבך</head>
+        <lg number="1" type="stanza">
+          <l>אם חכם ליבך בני</l>
+          <l>ישמח ליבי וגם אני</l>
+          <l>קח אמרי איתך בני</l>
+          <l>שמור ואמר הנני</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>יה אלי </l>
+          <l>ברכות אביך גברו</l>
+          <l>ברכת אברהם ויצחק</l>
+          <l>ענו כלם ואמרו</l>
+          <l>יקרא זרע ביצחק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יה אלי</l>
+          <l>ראה בנים לבניך</l>
+          <l>יהיו סביב שלחנך</l>
+          <l>ישלח מלאך לפניך</l>
+          <l>ניצב על יד ימינך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יה אלי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

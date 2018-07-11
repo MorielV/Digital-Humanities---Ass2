@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יהלי</title>
+        <singer classification="male singer">אילן רביבו</singer>
+        <writer>אילן רביבו</writer>
+        <composer>אילן רביבו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יהלי</head>
+        <lg number="1" type="stanza">
+          <l>אני קם איתך בבוקר</l>
+          <l>מתעורר לתוך חלום רחוק,רחוק</l>
+          <l>מתרגש מצעדייך</l>
+          <l>מספר לך עוד סיפור מתוק, מתוק</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ואת יודעת שאני אוהב,אוהב שזה כואב</l>
+          <l>כייף וזה כואב שאני אותך אוהב</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יהלי, יהלי מה שאת עושה לי</l>
+          <l>יהלי, יהלי אני נמס ממך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>את יודעת להצחיק אותי</l>
+          <l>ממקום כל כך קרוב,קרוב</l>
+          <l>ובמבט אחד את משנה</l>
+          <l>את כל מה שעצוב לטוב, לטוב</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>יהלי, יהלי מה שאת עושה לי</l>
+          <l>יהלי, יהלי אני נמס ממך</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>גם כשאת איתי מתגעגע</l>
+          <l>וכשאת לא תוף ליבי גורע</l>
+          <l>את האחרונה לישון איתה בלילה</l>
+          <l>והראשונה לפתוח את היום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

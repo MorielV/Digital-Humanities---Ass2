@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>במקומי</title>
+        <singer classification="unknown">אור בן ברוך</singer>
+        <writer>שי גבסו</writer>
+        <composer>שי גבסו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>במקומי</head>
+        <lg number="1" type="stanza">
+          <l>לא רציתי ללכת, לא רציתי להיות שם</l>
+          <l>כשהגיע הסוף ביקשתי להיות סתם</l>
+          <l>האור המהבהב, פסק היות קיומי</l>
+          <l>אני השארתי מילים שידברו במקומי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כשנכנסתי לאוטו עצמתי עיניים</l>
+          <l>כשברקע היו דיבורים של בינתיים</l>
+          <l>וממולי רק טיפות שיורדות מברקים</l>
+          <l>אני לקחתי גיטרה והשארתי צלילים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>במעגל מסתובב מחפש לי דברים</l>
+          <l>שיתנו לי סימן שישאירו חיים</l>
+          <l>ברחוב הסמוך נותר שם משהו שלי</l>
+          <l>אז השארתי זיכרון שיחיה במקומי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

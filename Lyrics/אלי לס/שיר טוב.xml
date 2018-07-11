@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר טוב</title>
+        <singer classification="male singer">אלי לס</singer>
+        <writer>אלי לס</writer>
+        <composer>אלי לס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר טוב</head>
+        <lg number="1" type="stanza">
+          <l>שלשום מקבל טלפון </l>
+          <l>זוהי רק ההתחלה </l>
+          <l>עייפה ומגיעות דמעות </l>
+          <l>זוהי רק ההתחלה </l>
+          <l>זוהי רק ההתחלה </l>
+          <l>לעצור אותי </l>
+          <l>את לא יכולה </l>
+          <l>שומע לי שיר טוב </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עם הרוח </l>
+          <l>זה מגיע למינוס שבעים </l>
+          <l>ובטוח שהרחק בינות כל האגמים </l>
+          <l>מישהי נוסעת לא מהר </l>
+          <l>אין לה בכלל חשק לדבר </l>
+          <l>שומעת לה שיר טוב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

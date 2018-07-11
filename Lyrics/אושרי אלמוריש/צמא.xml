@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צמא 2</title>
+        <singer classification="unknown">אושרי אלמוריש</singer>
+        <writer>אושרי אלמוריש</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צמא</head>
+        <lg number="1" type="stanza">
+          <l>מישהו שאל אותי שאלה </l>
+          <l>מי אני, איך הולך ומה שלומי?</l>
+          <l>חייכתי בנימוס, סיפקתי אחלה של תשובה</l>
+          <l>רק חבל שכבר היתה עלי דעה. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני חושב אחרת בצורה לא מובנת </l>
+          <l>כמו מטורף הוזה ספירלה אינסופית </l>
+          <l>מקווים שמתעקלים כך נוצר כל הטעם בחיים </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני צמא למשהו שונה</l>
+          <l>כי כואבות לי הפנים מחיוכים מאולצים. </l>
+          <l>אני צמא למשהו כנה למי תהום צלולים</l>
+          <l>שדרכם רואים את הטוב באנשים. </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מישהו חיפש אצלי בעיה </l>
+          <l>אמרתי לו תתעסק רק בשלך. </l>
+          <l>אז למה הוא חיפש אצלי בעיה </l>
+          <l>אם הוא זה שחיי בתוך בועה </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>אני חושב אחרת בצורה לא מובנת </l>
+          <l>כמו מטורף הוזה ספירלה אינסופית </l>
+          <l>מקווים שמתעקלים כך נוצר כל הטעם בחיים </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אני צמא למשהו שונה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

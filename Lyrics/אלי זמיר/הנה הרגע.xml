@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנה הרגע</title>
+        <singer classification="unknown">אלי זמיר</singer>
+        <writer>אלי זמיר</writer>
+        <composer>אלי זמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנה הרגע</head>
+        <lg number="1" type="stanza">
+          <l>בורח צורח ושוב דורך במקום</l>
+          <l>בשטח אין פתח אז עצבני גם היום</l>
+          <l>ויש בי שוב דחף לשבור את כל הכלים</l>
+          <l>כי דיי כבר נמאס לי מכל האנשים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הולך ובא לא לא נרגע מתי יגיע תורי</l>
+          <l>שבו כבר אמצא לי טיפה של שקט פנימי</l>
+          <l>ת'סבלנות כבר מאבד אין כוח לדיבורים</l>
+          <l>הגיע כבר הזמן לעשות פה כמה שינויים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>פזמון:</l>
+          <l>והנה הרגע שהכל בו מתחבר</l>
+          <l>והנה הרגע שהחלום לו מתגשם</l>
+          <l>ואני לא מוותר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לבד אלך אל מול כולם סולל את הדרך שלי</l>
+          <l>ומי שינסה לחסום הוא לא ישכח מי אני</l>
+          <l>שומר נפשי אך לא פוחד המטרה לנגד עיניי</l>
+          <l>אוחז בהגה ומנווט את צעדיי</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>פזמון:</l>
+          <l>והנה הרגע שהכל בו מתחבר</l>
+          <l>והנה הרגע שהחלום לו מתגשם</l>
+          <l>ואני לא מוותר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

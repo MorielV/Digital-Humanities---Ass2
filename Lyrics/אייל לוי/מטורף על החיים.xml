@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מטורף על החיים</title>
+        <singer classification="male singer">אייל לוי</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>עופר לב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מטורף על החיים</head>
+        <lg number="1" type="stanza">
+          <l>לחיים אדם נולד</l>
+          <l>בתוכו הלב רוגש</l>
+          <l>רק שלא להיות לבד</l>
+          <l>לאהוב הוא מבקש</l>
+          <l>ואני איתך עכשיו</l>
+          <l>על החוף לאור היום</l>
+          <l>בעינייך מאוהב</l>
+          <l>ומרגיש כמו בחלום.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מטורף על החיים, על תכלת השמיים</l>
+          <l>השמש על המים, ורוח שטה על הים</l>
+          <l>מטורף על החיים, היופי בעינייך</l>
+          <l>וקסם מבטייך הם לי האושר בעולם.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כאן יחף על חוף זהב</l>
+          <l>לך קראתי אז בשמך</l>
+          <l>איך ביקשתי לא לשווא</l>
+          <l>לאחוז בכף ידך</l>
+          <l>את פוסעת למולי</l>
+          <l>ועולה בי להבה</l>
+          <l>מול הים והגלים</l>
+          <l>כאן מצאתי אהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מטורף על החיים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

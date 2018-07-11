@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יהיה לנו טוב</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יהיה לנו טוב</head>
+        <lg number="1" type="stanza">
+          <l>הכלו המים</l>
+          <l>שוב אני מרגיש קרוב</l>
+          <l>אם אחזור, אפול על גן עדן</l>
+          <l>עשן בעיניים</l>
+          <l>כל בריחה עושה לי טוב</l>
+          <l>לי נמאס</l>
+          <l>לחיות על האבן</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יהיה לנו טוב</l>
+          <l>יהיה לנו טוב</l>
+          <l>אם רק נישא</l>
+          <l>תפילה קטנה</l>
+          <l>אל השמיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עכשיו כשקשה לי</l>
+          <l>קל יותר להתרחק</l>
+          <l>השמחה מגיעה לכולנו</l>
+          <l>ואם תנגנו לי</l>
+          <l>אולי העצב יסתלק</l>
+          <l>אהבה, היא הדרך שלנו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יהיה לנו טוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

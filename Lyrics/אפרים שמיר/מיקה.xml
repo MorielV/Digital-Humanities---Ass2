@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מיקה</title>
+        <singer classification="male singer">אפרים שמיר</singer>
+        <writer>יאיר רוזנבלום</writer>
+        <composer>יאיר רוזנבלום</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מיקה</head>
+        <lg number="1" type="stanza">
+          <l>מיקה, בואי אל ביתי</l>
+          <l>מי כמוך איתי</l>
+          <l>אין אביב בשדות זרים</l>
+          <l>לך השירה מראש צמרות ביתי</l>
+          <l>כאלף מחזרים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מיקה, מיקה, מי כמוך</l>
+          <l>מי כמוך איתי</l>
+          <l>מיקה, בואי אל ביתי</l>
+          <l>מיקה שלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מיקה, בואי אל שיריי</l>
+          <l>מי כמוך בהם</l>
+          <l>אם קולך הדק שזור במילותיי</l>
+          <l>אז מנגינות שבי עפות כך מסביבך</l>
+          <l>ושוב חוזרות אלי</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מיקה, מיקה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מיקה, בואי אל שירי</l>
+          <l>מי כמוך איתו</l>
+          <l>שירי אותו, דברי אותו</l>
+          <l>אכלי אותו, צחקי אותו</l>
+          <l>עשי בו כרצונך</l>
+          <l>כי שלך הוא</l>
+          <l>שיר השירים שלי</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>מיקה, בואי אל שירי</l>
+          <l>שירי איתי</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

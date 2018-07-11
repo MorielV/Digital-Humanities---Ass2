@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בבוא יומי</title>
+        <singer classification="male singer">ארז לב ארי</singer>
+        <writer>מן המקורות</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בבוא יומי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>בבוא יומי בבואי אליך </l>
+          <l>מה אומר ואך אתרצה </l>
+          <l>והרי אתה רואה דלותי </l>
+          <l>והרי אתה יודע </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אטען גבר עלי יצרי </l>
+          <l>אומר הכו בי רעיוני </l>
+          <l>גברה עלי תשוקתי </l>
+          <l>שבוני דמיונותי</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בבוא יומי בבואי אליך </l>
+          <l>מה אומר ואך אתרצה </l>
+          <l>והרי אתה רואה דלותי </l>
+          <l>והרי אתה יודע </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה אנחנו מה חיינו מה חסדנו מה כוחנו </l>
+          <l>מה גבורתנו מה נאמר לפניך </l>
+          <l>הלא הנסתרות והנגלות אתה יודע</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

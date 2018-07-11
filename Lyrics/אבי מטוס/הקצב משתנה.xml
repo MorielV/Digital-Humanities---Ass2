@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הקצב משתנה</title>
+        <singer classification="male singer">אבי מטוס</singer>
+        <writer>אבי מטוס</writer>
+        <composer>אבי מטוס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הקצב משתנה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אני רוצה להיות חופשי</l>
+          <l>אני רוצה להיות חופשי</l>
+          <l>אבל אני רוצה להיות גם עם עצמי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>הכל זורם כל כך מהר</l>
+          <l>על כלום אני לא מוותר</l>
+          <l>לא רואים את הקצה,</l>
+          <l>רק הקצב משתנה</l>
+          <l>לא רואים את הקצה,</l>
+          <l>רק הקצב משתנה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני רוצה להיות חופשי</l>
+          <l>אני רוצה להיות חופשי</l>
+          <l>אבל אני רוצה להיות גם עם עצמי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>יחסים מבולבלים</l>
+          <l>כל מיני מפגשים</l>
+          <l>לא רואים את הקצה,</l>
+          <l>רק הקצב משתנה</l>
+          <l>לא רואים את הקצה,</l>
+          <l>רק הקצב משתנה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

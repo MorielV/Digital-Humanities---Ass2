@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מאה חטאים</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מאה חטאים</head>
+        <lg number="1" type="stanza">
+          <l>אוהב הופך לפרא</l>
+          <l>אקנה לך ארמון על גבעות גן של עדן</l>
+          <l>הלב הופך לטרף</l>
+          <l>צבעי מלחמה על פנייך יש חשק</l>
+          <l>יצאת אל ריקוד מטורף אל דרכך</l>
+          <l>אשאיר לך שושן לרגליי שולחנך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כמוך זיכרוני בוגד בי</l>
+          <l>מאה חטאים את ספרת לי מאה</l>
+          <l>על כל אחד אני אתן לך מטבע</l>
+          <l>מאה מטבעות של זהב אני אתן לך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יצאת אל ריקוד מטורף אל דרכך</l>
+          <l>אשאיר לך שושן לרגלי שולחנך</l>
+          <l>צאי בריקוד מטורף עד הסוף</l>
+          <l>את הבל היופי והשקר הטוב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

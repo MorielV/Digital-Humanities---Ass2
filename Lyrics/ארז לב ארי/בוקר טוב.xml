@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוקר טוב 4</title>
+        <singer classification="male singer">ארז לב ארי</singer>
+        <writer>ארז לב ארי</writer>
+        <composer>ארז לב ארי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוקר טוב</head>
+        <lg number="1" type="stanza">
+          <l>האם השדים באמת רעים </l>
+          <l>או שזה רק עיניין של יחסי ציבור כושלים </l>
+          <l>האם המתים חיים </l>
+          <l>ולמה אנחנו כל כך מעניינים את אלוהים </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>האם השמיים באמת רחוקים </l>
+          <l>האם רק בחורף יש עננים </l>
+          <l>האם השמש היא זאת ששורפת אותנו חיים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בוקר טוב עולם חדש שלי </l>
+          <l>התרחצתי בשבילך החלפתי בגדים </l>
+          <l>בוקר טוב </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>האם אהבה יש רק בסרטים </l>
+          <l>האם מציאות יש רק בחיים </l>
+          <l>האם החיים זה מה שאנחנו עוברים </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>האם ללמוד זה רק בדרך הקשה </l>
+          <l>ולדעת זה רק לדעת בושה </l>
+          <l>האם לשאול זה כמו לחזור בתשובה </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בוקר טוב... </l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>האם תתני לי לעוף האם תיקחי אותי שוב </l>
+          <l>האם תרצי אותי ככה אם אפול על הפרצוף </l>
+          <l>האם תתני לי להיות האם תתני לי לטעות </l>
+          <l>ותאהבי אותי ככה עם עיניים זורחות </l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>בוקר טוב... </l>
+          <l>השתנתי בשבילך החלפתי פנים </l>
+          <l>בוקר טוב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>את מקודשת 2</title>
+        <singer classification="unknown">אמיר שוהר</singer>
+        <writer>רמי לב</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>את מקודשת</head>
+        <lg number="1" type="stanza">
+          <l>ביום של חורף את עמדת שם בגשם</l>
+          <l>עם ירח שתלוי מעל ראשך</l>
+          <l>הפגישה הראשונה, היתה כמו קסם</l>
+          <l>עם החיוך הכי רומנטי</l>
+          <l>כשאותך בחרתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את מקודשת, הלילה מקודשת</l>
+          <l>כלה יפה שלי, הו כמה את נרגשת</l>
+          <l>אני נשבע לאהוב אותך לנצח</l>
+          <l>ולחבק אותך חזק לתוך חיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>חופה כשלג ומבט כחול שמים</l>
+          <l>הטבעת מקשטת את ידך</l>
+          <l>ודמעה שמתגלגלת אל היין</l>
+          <l>ואלוהים אחד בינינו</l>
+          <l>ששומר עלינו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את מקודשת, הלילה מקודשת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

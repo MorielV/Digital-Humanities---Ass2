@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנה העצים</title>
+        <singer classification="male singer">אבי גרייניק</singer>
+        <writer>נתן אלתרמן</writer>
+        <composer>אבי גרייניק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנה העצים</head>
+        <lg number="1" type="stanza">
+          <l>הנה העצים במלמול עליהם</l>
+          <l>הנה האוויר הסחרחר מגובה</l>
+          <l>אינני רוצה</l>
+          <l>לכתוב אליהם</l>
+          <l>רוצה בליבם לנגוע</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לשאת פת במלח ומים בדלי</l>
+          <l>ועת הדרכים ילבינו</l>
+          <l>צידה להביא לאחי הגדולים</l>
+          <l>לאור ולרוחב בשדות אבינו</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

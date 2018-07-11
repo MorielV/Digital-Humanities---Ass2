@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עורי ציון</title>
+        <singer classification="female singer">אופירה גלוסקא</singer>
+        <writer>מן המקורות</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עורי ציון</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>עורי ציון, הוי</l>
+          <l>עורי ליבשי עוזך,</l>
+          <l>עורי ציון, הוי, עורי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ליבשי ביגדי תפארתך ירושלים</l>
+          <l>עיר הקודש</l>
+          <l>כי לא יוסיף יבוא בך</l>
+          <l>עוד ערל וטמא</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>עורי ציון...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עורי התנערי מעפר</l>
+          <l>התנערי ירושלים</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>עורי ציון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

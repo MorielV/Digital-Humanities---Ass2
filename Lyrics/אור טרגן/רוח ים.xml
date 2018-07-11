@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוח ים</title>
+        <singer classification="unknown">אור טרגן</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוח ים</head>
+        <lg number="1" type="stanza">
+          <l>באתי לנשק אותך לבלות בזרועותייך</l>
+          <l>את שלי אני שלך סימנים על השפתיים </l>
+          <l>נתקרב יקירתי זו אל זה הו יפתי</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>והלילה תרקדי רוח ים תגן עלינו</l>
+          <l>עד הבוקר לצידי חשופה אהבתנו</l>
+          <l>הו יפה שלי נשקיני</l>
+          <l>אתן לך כל שתבקשי</l>
+          <l>הי הי הי הי</l>
+          <l>אתן לך כל שתבקשי</l>
+          <l>הי הי הי הי</l>
+          <l>עד הבוקר תרקדי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אז נשק לי יקירי כמו שרק אתה יודע </l>
+          <l>את אומרת שהלילה חם כמו אש ומשגע</l>
+          <l>אור עינייך היפות מרגש עד לדמעות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>והלילה תרקדי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

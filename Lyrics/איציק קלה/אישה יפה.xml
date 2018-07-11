@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אישה יפה</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>עממי טורקי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אישה יפה</head>
+        <lg number="1" type="stanza">
+          <l>את האישה הכי יפה</l>
+          <l>את האישה הכי טובה</l>
+          <l>באת ונתת לי אהבה </l>
+          <l>שמשמיים נשלחה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>את היחידה שמבינה </l>
+          <l>מאמי מאמי</l>
+          <l>את כל סודות הנשמה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשהתסכלת אל תוך עיני</l>
+          <l>איך השתנו להם חיי</l>
+          <l>לילה אפל הפך להיום</l>
+          <l>והכוכב עלה פתאום</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את היחידה שמבינה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מה שחסר לי בעולם</l>
+          <l>רק בזכותך הופך מושלם</l>
+          <l>כמו בגן עדן אמיתי</l>
+          <l>באת ופתאום לקחת אותי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את היחידה שמבינה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

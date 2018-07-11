@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלב שלי 2</title>
+        <singer classification="unknown">אלי אלמוג</singer>
+        <writer>אלי אלמוג</writer>
+        <composer>אלי אלמוג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלב שלי</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הלב שלי הוא לא משחק ואת בו משחקת</l>
+          <l>הלב שלי הוא לא משחק ואת אותו הורסת </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אני לא מבין את הראש שלך אם את בכלל אוהבת</l>
+          <l>מחייג לפלאפון ואת גם לא חוזרת</l>
+          <l>תפסיקי עם הסיפורים שאת לי מספרת</l>
+          <l>החברים שלי ראו שאת איתו הולכת</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הלב שלי הוא לא משחק...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נמאס לי כבר ממך לא יודע מה לעשות</l>
+          <l>הראש שלי תמיד נמצא עמוק במחשבות</l>
+          <l>תגידי לי את האמת אם את אותי רוצה</l>
+          <l>כל פעם שאני איתך אותי את מטריפה</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הלב שלי הוא לא משחק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>היא בדמו</title>
+        <singer classification="female singer">אתי לוי</singer>
+        <writer>דני שושן</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>היא בדמו</head>
+        <lg number="1" type="stanza">
+          <l>הוא נתן לה את עלומיו</l>
+          <l>היא הייתה לו כל חייו</l>
+          <l>אך היא פנתה אל חיק אחר</l>
+          <l>לא רק יידעה מה עליו עובר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>היא בדמו כל עולמו </l>
+          <l>כבה האור לנחמו,</l>
+          <l>היא הייתה לו כל עולמו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>הוא נתן לה מתנת אלוהיו</l>
+          <l>יין אהבה מכוס לגמוע</l>
+          <l>אך היא לגמה יינות בושם</l>
+          <l>פנתה עורף מן האושר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>היא בדמו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

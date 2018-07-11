@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בכל הכח 2</title>
+        <singer classification="unknown">אופיר כהן</singer>
+        <writer>אופיר כהן</writer>
+        <composer>אופיר כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בכל הכח</head>
+        <lg number="1" type="stanza">
+          <l>לילה בלעדייך </l>
+          <l>רוצה אלייך</l>
+          <l>היופי בעינייך מושך אותי חזק</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איך שאת רוקדת</l>
+          <l>אותי כובשת</l>
+          <l>רוצה איתך לברוח רחוק מכאן</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>בכל הכוח</l>
+          <l>רוצה לצרוח </l>
+          <l>ולא לשכוח עד כמה שאני אוהב</l>
+          <l>בכל הכוח </l>
+          <l>רוצה לצרוח</l>
+          <l>ולא לשכוח אני שלך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רק אותך רציתי</l>
+          <l>שנים חיכיתי</l>
+          <l>שאת אלי תבואי לחיות איתי לעד</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>את חיי אתן לך</l>
+          <l>ליבי קורא לך</l>
+          <l>עכשיו להתאהב בך איך אני מוכן</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>בכל הכוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

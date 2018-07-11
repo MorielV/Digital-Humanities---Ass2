@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נישק אותך האור</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נישק אותך האור</head>
+        <lg number="1" type="stanza">
+          <l>נישק אותך האור</l>
+          <l>עונות של חום וקור</l>
+          <l>נישקו אותך הרבה ציפיות</l>
+          <l>החדר והנוף</l>
+          <l>ורצועת החוף</l>
+          <l>הם זירת קיום וגם בית.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נישקו אותך גלים</l>
+          <l>געגועים גדולים</l>
+          <l>שירי תעתועים בדרכים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נישקו אותך תפילות</l>
+          <l>קולות ומשאלות</l>
+          <l>להיות מבורכים.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לו יכולתי להסיע</l>
+          <l>את קולי אל השמיים</l>
+          <l>ולפתוח שער בו יבואו רחמים</l>
+          <l>נישקו אותך גוונים</l>
+          <l>הטל והגשמים</l>
+          <l>הרוח בן שקמה ואלון</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נישק אותך האור</l>
+          <l>עונות של חום וקור</l>
+          <l>ינשק אותך שלום.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לו יכולתי להסיע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

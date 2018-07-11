@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lose Something</title>
+        <singer classification="male singer">אלי לס</singer>
+        <writer>אלי לס</writer>
+        <composer>אלי לס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Lose Something</head>
+        <lg number="1" type="stanza">
+          <l>Life's been here around </l>
+          <l>without pressure </l>
+          <l>When it comes to drop </l>
+          <l>I do it better </l>
+          <l>When I hear a song </l>
+          <l>I want to rock </l>
+          <l>It's better to rechoose </l>
+          <l>Let's skip the talk </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>When I see a bird I wear my hat </l>
+          <l>When it's getting dark I don't mind that </l>
+          <l>When I see a field I think of dude </l>
+          <l>When I lose something I think of you</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

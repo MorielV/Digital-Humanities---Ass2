@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יום יבוא</title>
+        <singer classification="male singer">איציק שמלי</singer>
+        <writer>איציק שמלי</writer>
+        <composer>איציק שמלי</composer>
+        <album>החמצן</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יום יבוא</head>
+        <lg number="1" type="stanza">
+          <l>מהיום שהכרתי אותך רק דמיינתי עתיד ביחד</l>
+          <l>חודשים מנסה את ליבך לא מוצא </l>
+          <l>מתגבר בי פחד שבסוף לא תראי בי אהוב</l>
+          <l>ותרצי עלי כבר לוותר</l>
+          <l>תעריכי את מה שחשוב כי אני לא מובן מאליו כאן יותר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יום יבוא ותביני כי אני בשבילך</l>
+          <l>נתתי הכל רק להיות לצידך </l>
+          <l>אולי תאמיני שזה אמיתי </l>
+          <l>חבל שבסוף את תפסידי אותי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מה לא עשיתי השקעתי סללתי דרכים שתהיי מאושרת </l>
+          <l>והדרכים ארוכות כי כשאני מתקרב את תמיד מתרחקת</l>
+          <l>עוד יבואו ימים שבהם תזכרי אבל יהיה כבר מאוחר</l>
+          <l>וכשתתעוררי משנתך תגלי שאני לא אהיה כאן מחר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יום יבוא ותביני...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

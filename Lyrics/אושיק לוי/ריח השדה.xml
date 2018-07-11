@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ריח השדה</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>עלי מוהר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ריח השדה</head>
+        <lg number="1" type="stanza">
+          <l>בא והציף את הכל ריח השדה</l>
+          <l>ברחוב על יד הבית.</l>
+          <l>אמצע העיר ופתאום ריח השדה</l>
+          <l>מבשר את בוא הקיץ.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>על כל סביבי הוא</l>
+          <l>ומעלי הוא</l>
+          <l>וממרחק הוא בא לבלבל אותי מאוד</l>
+          <l>בתכול שמי הוא</l>
+          <l>ובגשמי הוא</l>
+          <l>ועם הרוח בא מדלג על הגבעות.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ובאדר צף פתאום ריח הפרדס</l>
+          <l>עם חמסין של סוף החורף,</l>
+          <l>ריח הדר יתפרחח ויפייס</l>
+          <l>כל עיקש וכל קשה עורף.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>על כל סביבי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לילה בהיר ופתאום ריח ים עולה</l>
+          <l>במשב חריף מלוח,</l>
+          <l>אמצע העיר והלב עוגן מעלה -</l>
+          <l>להפליג בשיר פתוח.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>על כל סביבי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

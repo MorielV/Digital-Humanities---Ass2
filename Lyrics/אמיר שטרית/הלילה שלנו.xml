@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הלילה שלנו</title>
+        <singer classification="unknown">אמיר שטרית</singer>
+        <writer>רמי לב</writer>
+        <composer>עדי לאון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הלילה שלנו</head>
+        <lg number="1" type="stanza">
+          <l>כיף לקום איתך כל יום</l>
+          <l>ולהרגיש בלב, גלים של חום</l>
+          <l>חיבוק פרוע וגעגוע</l>
+          <l>שמתגבר בלב, מיום ליום</l>
+          <l>אוהב את אחת בלב</l>
+          <l>ואת יפה, שזה כואב</l>
+          <l>איתך, זה נפלא כל כך</l>
+          <l>להרגיש קיים, זה חלום מושלם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה הלילה שלנו </l>
+          <l>זה חלום שהגשמנו</l>
+          <l>כן, לך הכל אתן</l>
+          <l>ואבנה לך קן של אהבה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את אומרת שאיתי</l>
+          <l>הכל כתוב מזמן ולא מקרי</l>
+          <l>וזה רק פרק, מתוך חיינו </l>
+          <l>מתוך סיפור מתוק של אהבה</l>
+          <l>אוהב את אחת בלב</l>
+          <l>ואת יפה, שזה כואב</l>
+          <l>איתך, זה נפלא כל כך</l>
+          <l>להרגיש קיים, זה חלום מושלם.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה הלילה שלנו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

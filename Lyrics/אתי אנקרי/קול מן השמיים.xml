@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קול מן השמיים</title>
+        <singer classification="female singer">אתי אנקרי</singer>
+        <writer>לא ידוע</writer>
+        <composer>לא ידוע</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קול מן השמיים</head>
+        <lg number="1" type="stanza">
+          <l>קול מן השמיים</l>
+          <l>שמגיע לעולם כולו</l>
+          <l>המלאך בוכה למעלה</l>
+          <l>מתעצב על בן דמותו.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אח קרוב רוצה הוא</l>
+          <l>שידע לראות, בין רע לטוב</l>
+          <l>וגם נשמה תהיה לו</l>
+          <l>להרגיש ולאהוב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשנולד נתן לו</l>
+          <l>מתנה את העולם כולו</l>
+          <l>וגנים קסומים היו שם</l>
+          <l>כל הטבע רק שלו.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הקנאה שלטה בו</l>
+          <l>הוא החל לשרוף את מתנתו</l>
+          <l>ובעוורונו שרף גם</l>
+          <l>את גנו ואת ביתו.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

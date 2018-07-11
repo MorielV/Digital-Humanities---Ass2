@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אבישג</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>אריק איינשטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אבישג</head>
+        <lg number="1" type="stanza">
+          <l>אבישג, אבישג</l>
+          <l>אני רואה לך הכל</l>
+          <l>אבישג, אבישג</l>
+          <l>אני פשוט כבר לא יכול</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה את מחייכת</l>
+          <l>ועושה לי סימנים</l>
+          <l>מבטך שולחת לעברי</l>
+          <l>אבישג אני אוהב אותך כל כך</l>
+          <l>אבישג, אבישג</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אבישג או אבישג</l>
+          <l>איני יכול עוד בלעדייך</l>
+          <l>אבישג אבישג</l>
+          <l>אני נכסף להיות איתך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה את מחייכת</l>
+          <l>ועושה לי סימנים</l>
+          <l>מבטך שולחת לעברי</l>
+          <l>פרנטי טי פרמי</l>
+          <l>אוולטו פינו פרידרי</l>
+          <l>אבישג, אבישג</l>
+          <l>אבישג, צ'או.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לבד 7</title>
+        <singer classification="male singer">אמיר דדון</singer>
+        <writer>שלומית דגני</writer>
+        <composer>אמיר דדון</composer>
+        <album>אמיר דדון</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לבד</head>
+        <lg number="1" type="stanza">
+          <l>מהלך לי לבד</l>
+          <l>מהלך לי לבד כמו שיכור במדבר החיים</l>
+          <l>והנפש צמאה </l>
+          <l>כן הנפש צמאה שוב לראות את פנייך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אין מנוחה </l>
+          <l>בתוך הגוף הזה</l>
+          <l>נשמה יתומה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>וגופי מתרפק</l>
+          <l>כן גופי מתרפק ועורג וכמה</l>
+          <l>אל האישה האחת</l>
+          <l>אל האישה האחת היחידה שידע</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אין מנוחה </l>
+          <l>בתוך הגוף הזה</l>
+          <l>נשמה יתומה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אין מנוחה</l>
+          <l>בתוך הגוף הזה</l>
+          <l>נשמה יתומה, יתומה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

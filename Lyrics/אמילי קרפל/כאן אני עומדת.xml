@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כאן אני עומדת</title>
+        <singer classification="female singer">אמילי קרפל</singer>
+        <writer>אמילי קרפל</writer>
+        <composer>אמילי קרפל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כאן אני עומדת</head>
+        <lg number="1" type="stanza">
+          <l>בלי להגיד דבר, כאן עומדת ומביטה</l>
+          <l>איך מילים עפות אליי במהירות טיסה</l>
+          <l>דברים שעברו לי בראש, קורים לי פתאום באמת</l>
+          <l>דרך התריסים הם נכנסים, אני יוצאת</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כאן אני עומדת </l>
+          <l>כאן אני עומדת</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>להרים אותך מהרצפה</l>
+          <l>לשטוף לך את הפנים</l>
+          <l>להריח כל פיסה קטנה של גוף בין הסדינים</l>
+          <l>למרוח את עצמי בך</l>
+          <l>לברוח מעצמי איתך</l>
+          <l>לשכוח מה שלי ולא לנגוע בשלך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כאן אני עומדת </l>
+          <l>כאן אני עומדת </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>לפעמים אני נשברת</l>
+          <l>לפעמים אני בוכה</l>
+          <l>לפעמים סולחת בלי שתבקש סליחה</l>
+          <l>לפעמים זה מרצד לי</l>
+          <l>לא שכחתי, באמת</l>
+          <l>ואז אני שוקעת בעצמי ולא יוצאת</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כאן אני עומדת</l>
+          <l>כאן אני עומדת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

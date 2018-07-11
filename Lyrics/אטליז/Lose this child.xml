@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lose this child</title>
+        <singer classification="band">אטליז</singer>
+        <writer>גיא בן שיטרית</writer>
+        <composer>לי טריפון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Lose this child</head>
+        <lg number="1" type="stanza">
+          <l>Lose this child </l>
+          <l>He’s in your arms </l>
+          <l>Lose this child </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>Who’s in charge? </l>
+          <l>It’s in your mind </l>
+          <l>Lose this child </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>Send it to the sky </l>
+          <l>Save it in your smile </l>
+          <l>Send it to the moon </l>
+          <l>Say it like you don’t care </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>Send it to the sky </l>
+          <l>Save it for a while </l>
+          <l>Send it to the moon </l>
+          <l>Say it like you’re not there </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>Fools to try to spill my wine </l>
+          <l>Are they blind?</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

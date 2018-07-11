@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סובל אני היום</title>
+        <singer classification="unknown">אוסמאן</singer>
+        <writer>אורחן טורק</writer>
+        <composer>אורחן טורק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סובל אני היום</head>
+        <lg number="1" type="stanza">
+          <l>היו לנו ימים של אושר ואהבות</l>
+          <l>איך היינו כמו זרים לאהבה הזאת</l>
+          <l>הזמנים היו יפים הם כמו חלום</l>
+          <l>אותי לא רצית אף פעם לאהוב.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>סובל אני היום מרוב מחשבות</l>
+          <l>למה את כך הלכת בלי שום סיבות</l>
+          <l>לבד אותי השארת עם כל הדמעות</l>
+          <l>הכאב אותי שובר אך לא יכול חבר.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רציתי אני איתך בית חם לבנות</l>
+          <l>איך מהר את הלכת השארת זכרונות</l>
+          <l>תביטי בעיניים הדמעות לא חולפות</l>
+          <l>בלילות לא ישן מרוב צער ובגידות.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>סובל אני היום מרוב מחשבות...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

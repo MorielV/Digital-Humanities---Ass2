@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שלום מתוק</title>
+        <singer classification="unknown">ארזיאל ארזי</singer>
+        <writer>ארזיאל ארזי</writer>
+        <composer>ארזיאל ארזי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שלום מתוק</head>
+        <lg number="1" type="stanza">
+          <l>בראשית אל חי</l>
+          <l>ואני בליבי אור כוכב</l>
+          <l>כמה האור שלי זורח</l>
+          <l>אני אחד</l>
+          <l>ואני בעמי וואחדה זיי סולטנה</l>
+          <l>אור של שליט עבר מר'זה</l>
+          <l>עליכום יא גלעד</l>
+          <l>מלכת הסולטן</l>
+          <l>בקולך המאני</l>
+          <l>קם טו יזראעל</l>
+          <l>וולכום יא אובמה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מכל המילים שאמרתי</l>
+          <l>בכלל אף אחד לא ספרתי</l>
+          <l>אור תורה</l>
+          <l>סאלאם זיי סוכר</l>
+          <l>מכל התורה שקיבלתי</l>
+          <l>בכלל אף אחד קיבלתי </l>
+          <l>אור שלום</l>
+          <l>אדש בחיבק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>עם ישראל חי</l>
+          <l>אני כולי באור כוכב</l>
+          <l>כמה האור שלך זורח</l>
+          <l>את האחת</l>
+          <l>ואת בחיפה וואחד זיי היזאנה</l>
+          <l>בנדי סופי בהר הבית</l>
+          <l>מיי נם איז ארזיאל</l>
+          <l>שיך יא עיסה מברוק ערוסה</l>
+          <l>קם טו יזראעל</l>
+          <l>וולכום אובמה חוסיין</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מכל המילים שאמרתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

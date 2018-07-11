@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איש דרור</title>
+        <singer classification="male singer">אביתר בנאי</singer>
+        <writer>שאול אפריק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איש דרור</head>
+        <lg number="1" type="stanza">
+          <l>לא התפלל לעילוי</l>
+          <l>נשמתו פשוט עלתה </l>
+          <l>וגופו הקטן מארץ קרה, לארץ חמה</l>
+          <l>ללהקת ציפורים נודדת</l>
+          <l>הצטרף וריחף</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ולחבריו למטה זה נראה טבעי</l>
+          <l>איש קטן בלהקת ציפורים נודדת</l>
+          <l>מנפנף בידיו הזעירות, ברגליו הדקיקות</l>
+          <l>כאחת הציפורים</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מארץ קרה לארץ חמה</l>
+          <l>להקת ציפורים נודדת</l>
+          <l>מארץ קרה לארץ חמה</l>
+          <l>להקת ציפורים נודדת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לחבריו למטה קר, קר, קר</l>
+          <l>ונשמותיהם בבטנת המעיל פנימה</l>
+          <l>מהם ממשיכים ומהם מביטים</l>
+          <l>במחזה מוכר, מובן</l>
+          <l>ונפלא מהם</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מארץ קרה לארץ חמה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

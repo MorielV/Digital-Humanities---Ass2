@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תקוות ימי 2</title>
+        <singer classification="unknown">אלכסנדרה</singer>
+        <writer>שייקה פייקוב</writer>
+        <composer>שייקה פייקוב</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תקוות ימי</head>
+        <lg number="1" type="stanza">
+          <l>אני פייטן פייטן</l>
+          <l>פשוט פורט ושר על דרך</l>
+          <l>את רחשי ליבי אחרוט בקולמוסי הדק</l>
+          <l>אבל היום ידי שותקות ונישמתי עצבת</l>
+          <l>שירתי גוועה וניגוני חדל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תקוות ימי פילסו לי דרך</l>
+          <l>אורחות חיי כרעו כרעו על ברך</l>
+          <l>כי הלכו להם שירי וכבדו לי לילותי</l>
+          <l>המילים מילים כמו איבדו כל ערך</l>
+          <l>כי הלכו להם שירי וכבדו לי לילותי</l>
+          <l>המילים מילים כמו איבדו כל ערך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני פייטן פייטן עצוב</l>
+          <l>פורט ושר על דרך</l>
+          <l>בימי שלוה קולחים שירי כמים צוננים</l>
+          <l>אבל עתה במיתרי גונחת רק הרוח</l>
+          <l>וחדרי ליבי עונים לה והומים</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תקוות ימי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני פייטן פייטן פשוט</l>
+          <l>פורט על דרך</l>
+          <l>ראיתי כבר ימים טובים מאלה ידידי</l>
+          <l>ואאמין כי עוד יבואו גם יפים מאלה</l>
+          <l>הזמנים שרק הכסיפו לי שנותי</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תקוות ימי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

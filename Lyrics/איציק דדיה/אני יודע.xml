@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני יודע 2</title>
+        <singer classification="unknown">איציק דדיה</singer>
+        <writer>רוני אחיאל</writer>
+        <composer>רוני אחיאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני יודע</head>
+        <lg number="1" type="stanza">
+          <l>שאת רוקדת הלב נעצר</l>
+          <l>ומסביבך כולם מוחאים לך כף</l>
+          <l>מתרגשים ממבטך הצנוע</l>
+          <l>ומבקשים עוד ריקוד נוסף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza" />
+        <lg number="3" type="stanza">
+          <l>תרקדי תרקדי את עושה להם שמח</l>
+          <l>בשבילם את מלכת העולם</l>
+          <l>תרקדי תרקדי הקצב בך נוגע</l>
+          <l>ואני עומד מולך ושר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza" />
+        <lg number="5" type="stanza">
+          <l>אני פוסע בנתיב אלייך</l>
+          <l>ומתרגש ממבטך אליי</l>
+          <l>אין אחת שתשתווה אלייך</l>
+          <l>שאת רוקדת הלב נעתק</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza" />
+        <lg number="7" type="stanza">
+          <l>תרקדי תרקדי את עושה להם שמח</l>
+          <l>בשבילם את מלכת העולם</l>
+          <l>תרקדי תרקדי הקצב בך נוגע</l>
+          <l>ואני עומד מולך ושר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

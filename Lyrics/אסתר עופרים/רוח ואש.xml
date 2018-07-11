@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוח ואש</title>
+        <singer classification="female singer">אסתר עופרים</singer>
+        <writer>ריצ'ארד שטיין</writer>
+        <composer>ריצ'ארד שטיין</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוח ואש</head>
+        <lg number="1" type="stanza">
+          <l>רוח בא מן ההרים</l>
+          <l>בכנפיו לילות קרים.</l>
+          <l>היי - מה לי רוח מה לי סתיו</l>
+          <l>כשאני בזרועותיו</l>
+          <l>לבותינו מפשירים</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בגשם בא מן השחקים</l>
+          <l>רעמים רודפים ברקים</l>
+          <l>היי - כשאתה עומד ממול</l>
+          <l>מצידי ירד מבול</l>
+          <l>איזה מים מתוקים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שלג מכסה גנים</l>
+          <l>ופתיתיו פעמונים -</l>
+          <l>היי - מה לי שלג, מה ברד</l>
+          <l>כל עוד שנינו במורד</l>
+          <l>במזחלת הפלאים.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>חורף השאר איתי</l>
+          <l>כי אתך אהבתי.</l>
+          <l>היי - תן לי גשם, תן לי כפור</l>
+          <l>כשבחוץ הכל אפור</l>
+          <l>קשת אש בנשמתי.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

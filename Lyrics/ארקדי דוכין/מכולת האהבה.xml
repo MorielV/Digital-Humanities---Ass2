@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מכולת האהבה</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מכולת האהבה</head>
+        <lg number="1" type="stanza">
+          <l>לואיס מחלק אהבה בליל ירח</l>
+          <l>וכל העניים והנזקקים מגיעים בחצות</l>
+          <l>זה כבר כמה שבועות בהם</l>
+          <l>לואיס רק נותן ולא לוקח</l>
+          <l>יש לו שפע כנראה</l>
+          <l>אז כולם לוקחים ורוצים עוד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לאחד הוא קוטף פרח</l>
+          <l>לשני כוכב</l>
+          <l>וכל מי שקיבל לוחש לעצמו</l>
+          <l>"עוד לואיס, לואיס, איזה לב רחב".</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לואיס מחלק עד הבוקר</l>
+          <l>הוא אפילו שווכח את עצמו</l>
+          <l>אצלו זה אף פעם לא ביוקר</l>
+          <l>גם כשזה נגמר תמיד ישנו עוד.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>פעם כשניגש אליו משהו</l>
+          <l>ואמר לו:"לואיס הצלת אותי"</l>
+          <l>הוא כרגיל השתעל בנימוס</l>
+          <l>ואמר לו: "עזוב, זה לא משמעותי".</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>וככה בלילות הירח</l>
+          <l>לואיס מחלק אהבה</l>
+          <l>מי שכבר רכש לא שוכח</l>
+          <l>מי שעוד לא הספיק</l>
+          <l>יש עבורו במכולת של לואיס</l>
+          <l>פינה חמה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לאחד הוא קוטף פרח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

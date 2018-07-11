@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זריחה לבנה</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אבי טולדנו</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זריחה לבנה</head>
+        <lg number="1" type="stanza">
+          <l>מילים ועוד מילים</l>
+          <l>לחלל הנזרקות</l>
+          <l>לא מתחברות להיות משפט</l>
+          <l>לא מצליחות לומר דבר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>דבר ועוד דבר</l>
+          <l>לא יוצרים כאן שום דבר</l>
+          <l>מונחים כאן עד מחר</l>
+          <l>מוזנחים עד מאוחר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לחכות, עד בוקר יעלה</l>
+          <l>וזריחה לבנה שם תאיר כל פינה חשוכה</l>
+          <l>ורוחות משחר ילטפו שוב את פני</l>
+          <l>סימני החיים לאט יפרחו בתוכי</l>
+          <l>ערפלים מתפזרים יגלו לי פתאום כי אינך, כי אינך</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>דמעה ועוד דמעה</l>
+          <l>זולגות מתוך עיני</l>
+          <l>לא יפריחו כאן שדות</l>
+          <l>לא יצמיחו שום תקוות</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אדם ועוד אדם</l>
+          <l>מתלווים עד אי שם</l>
+          <l>מבקשים להתחבר</l>
+          <l>מעיזים להשבר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>לחכות עד בוקר יעלה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

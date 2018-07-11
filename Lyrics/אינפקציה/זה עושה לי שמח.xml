@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה עושה לי שמח</title>
+        <singer classification="band">אינפקציה</singer>
+        <writer>גיא בן שיטרית</writer>
+        <composer>ניר טרטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה עושה לי שמח</head>
+        <lg number="1" type="stanza">
+          <l>שמש, מסוונרת בעיניים</l>
+          <l>הרגליים יחפות בחול החם</l>
+          <l>ומה אם אמות תוך שעתיים</l>
+          <l>נשרים מחכים מעל ואני נזכר</l>
+          <l>עוד בילדותי נורא סבלתי מקשיי למידה</l>
+          <l>המומחים אמרו שיש אנטנה אבל אין קליטה</l>
+          <l>ולמטה בשכונה כששיחקנו בשעות שאסור</l>
+          <l>במשחק שבועטים לי בבטן ולא בכדור</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>זה עושה לי שמח לא להתפתח</l>
+          <l>זה עושה לי נעים רק בכפכפים</l>
+          <l>לצאת כמו מפגר לחום, לקנות מאוורר</l>
+          <l>בשביל הרוח אה, בשביל הרוח אה</l>
+          <l>בשביל הרוח אה</l>
+          <l>הולך לקנות אקדח מים מפלסטיק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שמש, שורף לי בכתפיים</l>
+          <l>לא הספקתי להנות והכל נגמר</l>
+          <l>לפתע מה רואות עיני</l>
+          <l>מסוק חילוץ של נעדרים במדבר</l>
+          <l>אז נופפתי בידיים ויריתי פגז תאורה</l>
+          <l>אספתי ערימה של קרשים והדלקתי מדורה</l>
+          <l>רשמתי על הארץ בגדול תקראו לעזרה</l>
+          <l>רדפתי אחריו עם האוטו וצעקתי נורא...</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>זה עושה לי שמח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

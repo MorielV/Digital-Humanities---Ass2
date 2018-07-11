@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זה בא והולך</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זה בא והולך</head>
+        <lg number="1" type="stanza">
+          <l>לא יכול לברוח המבט שלך תקוע בי</l>
+          <l>כשיצאת אצלי מתוך החדר את נשארת</l>
+          <l>לא יקרה עם זה כלום לא נדע מה אנו מפסידים</l>
+          <l>אם לא היתה לך מציאות אחרת</l>
+          <l>אם לא היית בשלך...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>האם זה בא והולך לך</l>
+          <l>זה בא הולך לך</l>
+          <l>או זה רק אני זה שחושב</l>
+          <l>שזה בא והולך לך</l>
+          <l>זה בא והולך לך</l>
+          <l>או זה רק אני זה שכואב, אותך אוהב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לא יכול לשכוח את כל הדברים</l>
+          <l>שאת אמרת</l>
+          <l>אחרי כל חיוך שלך יש בכי תודי (תודי)</l>
+          <l>אך עדיף שלא תגיבי</l>
+          <l>אם רק היה לי כוח לוותר</l>
+          <l>כנראה שלא הייתי כותב לך את השיר (את השיר)</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>האם זה בא והולך לך</l>
+          <l>זה בא הולך לך</l>
+          <l>או זה רק אני זה שחושב</l>
+          <l>שזה בא והולך לך</l>
+          <l>זה בא והולך לך</l>
+          <l>או זה רק אני זה שכואב, אותך אוהב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

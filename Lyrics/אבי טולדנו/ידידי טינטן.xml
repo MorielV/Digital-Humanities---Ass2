@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ידידי טינטן</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>מרים ילן שטקליס</writer>
+        <composer>קובי אושרת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ידידי טינטן</head>
+        <lg number="1" type="stanza">
+          <l>יש לי ידיד, ושמו טינטן,</l>
+          <l>והוא קטן, קטון קטן,</l>
+          <l>והוא קטן מאוד, מאוד,</l>
+          <l>והוא שלי, והוא - בסוד.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אך הוא ישן במיטתי,</l>
+          <l>והוא אוכל מצלחתי,</l>
+          <l>והוא תמיד, תמיד איתי -</l>
+          <l>ידידי טינטן, טינטן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ואיש עוד לא ראה אותו,</l>
+          <l>ואיש עוד לא שמע אותו -</l>
+          <l>לא אמא ולא אבא,</l>
+          <l>לא סבתא ולא סבא.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אך הוא ישן במיטתי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ואז הכל רוגזים עלי,</l>
+          <l>ואז הכל קובלים עלי,</l>
+          <l>אוי, דני-דני-דן!</l>
+          <l>ואין יודעים כי זה טינטן -</l>
+          <l>ידידי טינטן.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אך הוא ישן במיטתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

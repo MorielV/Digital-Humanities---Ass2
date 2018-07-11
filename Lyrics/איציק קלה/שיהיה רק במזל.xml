@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיהיה רק במזל</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>רמי לב</writer>
+        <composer>איציק קלה</composer>
+        <album>שיהיה רק במזל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיהיה רק במזל</head>
+        <lg number="1" type="stanza">
+          <l>תחת השמים, קסם באוויר</l>
+          <l>אוחזים ידיים והלב צעיר</l>
+          <l>היא מולו צועדת כמו הלבנה</l>
+          <l>אמא מתרגשת לא מאמינה</l>
+          <l>התפילה בוקעת מקהל גדול</l>
+          <l>ו"מברוק עליכום" אומרים להם הכל</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שיהיה רק במזל, תנו להם כפיים</l>
+          <l>שיהיה רק במזל, שירו לכלה</l>
+          <l>שיהיה רק במזל, בוא נרים ידיים </l>
+          <l>כי הלילה חגיגה, מסיבה גדולה.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא המיועדת זהו המזל</l>
+          <l>החתן זכה בה, הוא המאושר</l>
+          <l>מה עוד לא ברכנו, מה עוד נאחל </l>
+          <l>שתדעו רק אושר, ישמור אתכם האל </l>
+          <l>השמחה בוקעת מקהל גדול</l>
+          <l>ו"מברוק עליכום" אומרים להם הכל</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שיהיה רק במזל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

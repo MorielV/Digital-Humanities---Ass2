@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פרפרים</title>
+        <singer classification="male singer">אורי בנאי</singer>
+        <writer>אורי בנאי</writer>
+        <composer>אורי בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פרפרים</head>
+        <lg number="1" type="stanza">
+          <l>עוד הריח שלך עלי מאתמול</l>
+          <l>ועוד הטעם שלך בפה</l>
+          <l>אני רוצה לדעת הכל מהכל</l>
+          <l>מה בעצם אומר כל זה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוד נושר עלה מהעץ על החול</l>
+          <l>ועוד צומח אחר חדש</l>
+          <l>אני רוצה לצייר לי עולם עם מכחול</l>
+          <l>בצבעים של מתוק בדבש</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>פרפרים לבנים שוב עפים לאור</l>
+          <l>כמו השירים הסיפורים</l>
+          <l>נכנסים לתוך הנפש פנימה</l>
+          <l>נכנסים לתוך הנפש פנימה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שוב אותה התחושה שכדאי להמשיך</l>
+          <l>ושאפשר להרים מבט</l>
+          <l>גם כששוקעת השמש גם כשמחשיך</l>
+          <l>זה שנינו יחד אני ואת</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>פרפרים לבנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

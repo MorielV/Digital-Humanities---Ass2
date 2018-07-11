@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לחזור הביתה</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>יגאל בשן</writer>
+        <composer>יגאל בשן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לחזור הביתה</head>
+        <lg number="1" type="stanza">
+          <l>כמה שאני אוהב לחזור הביתה</l>
+          <l>אל השמש הטובה והחמה</l>
+          <l>אל הגשם אל המים לכנרת</l>
+          <l>לאילת הקטנטנה הרחוקה</l>
+          <l>הסתובבתי בעול כמעט בכל פינה</l>
+          <l>שם ניגנו לי את אותה המנגינה</l>
+          <l>וראיתי אנשים טובים מאושרים</l>
+          <l>אבל אין כמו אהבה ראשונה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מה שלא יהיה אנחנו לא נוותר</l>
+          <l>לא לא נוותר לא לא נוותר</l>
+          <l>לא חשוב אם יש לנו פחות או יותר</l>
+          <l>לא לא נוותר לא לא נוותר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה שאני אוהב לחזור הביתה</l>
+          <l>אל הנוף של ילדותי הירוקה</l>
+          <l>אל החבר'ה בשבת על המרפסת</l>
+          <l>ואלייך אהבה ישנה</l>
+          <l>לפעמים את עצובה ולפעמים שמחה</l>
+          <l>לפעמים את משתנה בכל עונה</l>
+          <l>כך ידענו שנינו כאן ימים קשים יותר</l>
+          <l>אבל אין כמו אהבה ראשונה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מה שלא יהיה אנחנו לא נוותר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הסתובבתי בעולם כמעט בכל פינה</l>
+          <l>שם ניגנו לי את אותה המנגינה</l>
+          <l>וראיתי אנשים טובים מאושרים</l>
+          <l>אבל אין כמו אהבה ראשונה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מה שלא יהיה אנחנו לא נוותר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

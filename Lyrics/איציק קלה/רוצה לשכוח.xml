@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>רוצה לשכוח</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>רוצה לשכוח</head>
+        <lg number="1" type="stanza">
+          <l>אהבתי את אוהבתי</l>
+          <l>נתתי לה את נשמתי</l>
+          <l>והיא תקעה בי חרב</l>
+          <l>כואב לי בלב אלוקים</l>
+          <l>רפא אותי כי מכים הזכרונות בלי הרף</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אני רוצה לשכח מהאמת לברוח</l>
+          <l>אל מציאות אחרת</l>
+          <l>לשקר אין רגליים הוא צף על המים</l>
+          <l>רק האמת נשארת</l>
+          <l>אני רוצה לשכוח - מהאמת לברוח</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אהבתי אותה כמו עיוור</l>
+          <l>והיא עזבה אותי אל אחר</l>
+          <l>היה לי די ממנה</l>
+          <l>תקעה בי חרב בגבי</l>
+          <l>אך היא עדיין בליבי</l>
+          <l>למרות שהיא איננה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אני רוצה לשכוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

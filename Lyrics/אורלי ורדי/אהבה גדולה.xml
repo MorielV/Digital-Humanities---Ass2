@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה גדולה 2</title>
+        <singer classification="unknown">אורלי ורדי</singer>
+        <writer>רבי בדיחי</writer>
+        <composer>עופר המרמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה גדולה</head>
+        <lg number="1" type="stanza">
+          <l>אני בחדר</l>
+          <l>וקר לי כאן.</l>
+          <l>כולם מסתכלים עלי</l>
+          <l>אבל, אבל הם לא כאן.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עוצמת את עיני,</l>
+          <l>בתוך השקט הגדול.</l>
+          <l>אתה שם כולך,</l>
+          <l>אבל לא יכול.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>לא לראות, לא לחוש</l>
+          <l>את גופי הכחוש.</l>
+          <l>את חכמת הקסם במילה.</l>
+          <l>אהבה גדולה, אהבה גדולה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רכה, חמה ומלטפת,</l>
+          <l>לפעמים פשוטה.</l>
+          <l>היא כה חזקה אבל,</l>
+          <l>במילים ובשתיקה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>לא לראות, לא לחוש...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

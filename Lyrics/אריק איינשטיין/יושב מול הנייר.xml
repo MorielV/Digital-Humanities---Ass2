@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יושב מול הנייר</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>אריק איינשטיין</writer>
+        <composer>missing</composer>
+        <album>אוהב להיות בבית</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יושב מול הנייר</head>
+        <lg number="1" type="stanza">
+          <l>יושב מול הנייר, העט ביד כמו חרב</l>
+          <l>יושב מול הנייר, רוצה לשפוך הכל</l>
+          <l>יושב מול הנייר, רואה אותך נופלת</l>
+          <l>מביט אל הנייר ולא יוצא לי קול</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אוי ארצי מולדתי את הולכת פייפן,</l>
+          <l>שברת לי את הלב לחתיכות קטנות</l>
+          <l>היה לנו חלום, ועכשיו הוא איננו,</l>
+          <l>אני כל כך עצוב בא לי לבכות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יושב מול הנייר, מתחיל לרדת ערב</l>
+          <l>יושב מול הנייר, בחוץ נהיה כחול</l>
+          <l>יושב מול הנייר, ואת שם מתמוטטת</l>
+          <l>מביט אל הנייר, טומן הראש בחול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אוי ארצי מולדתי...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יושב מול הנייר, העט ביד כמו חרב</l>
+          <l>יושב מול הנייר, רוצה לשפוך הכל</l>
+          <l>יושב מול הנייר, רואה אותך נופלת</l>
+          <l>מביט אל הנייר ולא יוצא לי קול</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אוי ארצי מולדתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

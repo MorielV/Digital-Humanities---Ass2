@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מזל כזה</title>
+        <singer classification="male singer">אריס סאן</singer>
+        <writer>יהודה אופן</writer>
+        <composer>אריס סאן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מזל כזה</head>
+        <lg number="1" type="stanza">
+          <l>אם ראית אם שמעת בנמל אשדוד</l>
+          <l>יש מנוף ענק אשר מניף מעל כל נוף</l>
+          <l>אם ראית אם שמעת יש מזל</l>
+          <l>והלב של המנוף לכל סבל</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם ראית אם שמעת בנמל חיפה</l>
+          <l>מיכלית של דלק התלקחה ונשרפה</l>
+          <l>אם ראית אם שמעת יש מזל</l>
+          <l>היא שורפת את הלב בכל נמל</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אם שמעת אם ראית בנמל קישון</l>
+          <l>ימאים יורדים לחוף בערב יום ראשון</l>
+          <l>אם שמעת אם ראית יש מזל</l>
+          <l>כל אחד אצל הראשון ועד בכלל</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם ראית אם שמעת בנמל יפו</l>
+          <l>מגדלור מאיר בלילה ממרומם חופו</l>
+          <l>אם ראית אם שמעת יש מזל</l>
+          <l>אין כמוך מגדלור בכל נמל</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מזל כזה מזל כזאת</l>
+          <l>מזל בכלל איזה מזל </l>
+          <l>שיש מזל בכל נמל</l>
+          <l>איזה מזל שיש בכל נמל מזל</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

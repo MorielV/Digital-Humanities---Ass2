@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו שברסאנס כתב</title>
+        <singer classification="unknown">איתי בלטר</singer>
+        <writer>איתי בלטר</writer>
+        <composer>איתי בלטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו שברסאנס כתב</head>
+        <lg number="1" type="stanza">
+          <l>אל תשאירי אותי לבד</l>
+          <l>אני פוחד</l>
+          <l>אל תגידי "אין שם אף אחד"</l>
+          <l>ראיתי שד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עד עכשיו היית אלי כל כך טובה</l>
+          <l>ועכשיו את מרגישה עייפה ועצובה</l>
+          <l>וגם אני בתוך המחשבה</l>
+          <l>כמו שברסאנס כתב: אין אהבה שמחה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כשסבא שלי מת</l>
+          <l>סבתא לא יכלה לחיות</l>
+          <l>היא הצטרפה אליו</l>
+          <l>על המצבה נחרט</l>
+          <l>באותיות גדולות</l>
+          <l>"שלא יפרדו"</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עד עכשיו היית אלי טובה</l>
+          <l>ועכשיו את מרגישה את הסוף קרב ובא</l>
+          <l>וגם אני בתוך המחשבה</l>
+          <l>כמו שברסאנס כתב: אין אהבה שמחה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

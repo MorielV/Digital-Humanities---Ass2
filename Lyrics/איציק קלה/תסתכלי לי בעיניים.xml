@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תסתכלי לי בעיניים</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>ארלט ספדיה</writer>
+        <composer>איציק קלה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תסתכלי לי בעיניים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>מאושר שבך זכיתי</l>
+          <l>היפה שבנשים</l>
+          <l>כי איתך אני קיוויתי</l>
+          <l>את האושר בחיים</l>
+          <l>את נותנת את הכוח</l>
+          <l>לאהוב בלי די</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את נותנת בי לשכוח </l>
+          <l>את כל העצב של חיי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תסתכלי לי בעיניים</l>
+          <l>ותראי רק אהבה</l>
+          <l>תסתכלי לי בעיניים</l>
+          <l>ואומר לך רק תודה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אלוקים הוביל אותנו</l>
+          <l>אל הרגע המתוק</l>
+          <l>מהיום שבו היכרנו</l>
+          <l>הכאב הפך לצחוק</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>את נותנת את הכוח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

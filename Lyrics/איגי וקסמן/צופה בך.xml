@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צופה בך</title>
+        <singer classification="female singer">איגי וקסמן</singer>
+        <writer>איגי וקסמן</writer>
+        <composer>ערן רייס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צופה בך</head>
+        <lg number="1" type="stanza">
+          <l>אני צופה בך, מתעורר בבוקר</l>
+          <l>מנער חלומותיך ויוצא לדרכך</l>
+          <l>לפעמים משתהה ושותה את התה</l>
+          <l>לאט לאט</l>
+          <l>האדים מסתירים את פניך הנאים</l>
+          <l>אולי בכית קצת?</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם הייתי נכנסת, היית רואה</l>
+          <l>שהכל נהיה יפה</l>
+          <l>אבל לא רציתי</l>
+          <l>רק את החלון ראיתי</l>
+          <l>אני צופה בך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אני צופה בך, הולך לעבודה</l>
+          <l>משאיר מאחור את כל השחור</l>
+          <l>מתנקז אל הזרם ומתנקה מעצמך</l>
+          <l>חוזר לפנות ערב בוהה כבוי במסך</l>
+          <l>פניך מסיכה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

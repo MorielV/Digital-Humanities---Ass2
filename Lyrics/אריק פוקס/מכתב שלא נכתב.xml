@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מכתב שלא נכתב</title>
+        <singer classification="unknown">אריק פוקס</singer>
+        <writer>צורי חן</writer>
+        <composer>קיימים 2 ביצועים נוספים לשיר זה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מכתב שלא נכתב</head>
+        <lg number="1" type="stanza">
+          <l>כמו הגשם שיורד מתוך עיני,</l>
+          <l>כמו ענן שמתפזר בתוך חיי,</l>
+          <l>כך הלכת, לא השארת סימן</l>
+          <l>רק מכתב שלא נכתב מעולם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עוד מקום בך, איתך</l>
+          <l>כל מילה מתוך דמעה</l>
+          <l>לא השארת לי כבר קול כדי לשיר</l>
+          <l>אני כותבת לך, לך..</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמו זריחה שעולה,</l>
+          <l>ושוב המון גשמי ברכה</l>
+          <l>אתה תפריח בי תקווה,</l>
+          <l>ולא תברח לעצמך</l>
+          <l>כך בשקט ובסתר תיגע בי שוב עכשיו</l>
+          <l>זה עוד חלום שיתגשם במכתב שלא נכתב. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עוד מקום בך, איתך</l>
+          <l>כל מילה מתוך דמעה</l>
+          <l>לא השארת לי כבר קול כדי לשיר</l>
+          <l>אני כותבת לך, לך..</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>עוד מקום בך, איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

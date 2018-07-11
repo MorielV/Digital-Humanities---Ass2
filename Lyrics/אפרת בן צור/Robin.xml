@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Robin</title>
+        <singer classification="female singer">אפרת בן צור</singer>
+        <writer>אמילי דיקנסון</writer>
+        <composer>אפרת בן צור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>Robin</head>
+        <lg number="1" type="stanza">
+          <l>If I can stop one heart from breaking,</l>
+          <l>I shall not live in vain;</l>
+          <l>If I can ease one life the aching,</l>
+          <l>Or cool one pain,</l>
+          <l>Or help one fainting robin</l>
+          <l>Unto his nest again,</l>
+          <l>I shall not live in vain.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

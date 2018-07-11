@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>סובו מעגלים</title>
+        <singer classification="male singer">איציק הרוש</singer>
+        <writer>יוני רועה</writer>
+        <composer>יוני רועה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>סובו מעגלים</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>סובו סובו מעגלים זה הניגון שלי </l>
+          <l>דולק כאש בתוך עורקי</l>
+          <l>ומסתלסל בפי </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נסחף אני לצליל מיתר </l>
+          <l>לקול זמיר נוגה ששר </l>
+          <l>לקול הלמות התוף רוקע </l>
+          <l>חופשי חופשי ומאושר </l>
+          <l>אודה לאל שבמרומים </l>
+          <l>על זו שירת שיר השירים </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>סובו סובו... </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>רובץ עלי כסערה </l>
+          <l>עוטף אותי הוא בתשוקה </l>
+          <l>לכל שירת הלל בוקע </l>
+          <l>ומפר את הדממה </l>
+          <l>רוקם אני תפילה קטנה </l>
+          <l>שלא תחדל המנגינה </l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>סובו סובו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

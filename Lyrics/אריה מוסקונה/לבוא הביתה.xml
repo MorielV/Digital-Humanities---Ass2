@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לבוא הביתה</title>
+        <singer classification="male singer">אריה מוסקונה</singer>
+        <writer>מוטי גלעדי</writer>
+        <composer>אריה מוסקונה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לבוא הביתה</head>
+        <lg number="1" type="stanza">
+          <l>לבוא הביתה לבוא הביתה</l>
+          <l>זה להשליך את החולצה על הכיסא</l>
+          <l>בלי להביט על הקולב</l>
+          <l>כמו להוציא את הבקבוק לפני הדלת</l>
+          <l>ולמצוא את החלב</l>
+          <l>כמו עכשיו</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לבוא הביתה לבוא הביתה</l>
+          <l>כמו עכשיו כמו עכשיו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>לבוא הביתה לבוא הביתה</l>
+          <l>והקטנה של השכנים</l>
+          <l>שוב מנגנת כל הבוקר בפסנתר</l>
+          <l>אני מביט לך בעינים</l>
+          <l>ורואה כמה אני אוהב יותר</l>
+          <l>עוד יותר</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לבוא הביתה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איפה טעיתי</title>
+        <singer classification="unknown">אושרי פרי</singer>
+        <writer>שיקו חייק</writer>
+        <composer>שיקו חייק</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איפה טעיתי</head>
+        <lg number="1" type="stanza">
+          <l>לפני כמה שנים</l>
+          <l>הכרתי נערה</l>
+          <l>את כל חיי</l>
+          <l>נתתי לה</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אהבתי אותה</l>
+          <l>כל דקה יותר</l>
+          <l>בסוף התברר לי</l>
+          <l>שהיא בגדה בי עם אחר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>את כל הבחורות שהיו לי</l>
+          <l>נתתי את אהבתי</l>
+          <l>אלוקים איפה טעיתי</l>
+          <l>שהן עזבו אותי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>לא מחפש רחמים</l>
+          <l>רק צדק מהחיים</l>
+          <l>איפה טעיתי</l>
+          <l>אימרו לי אנשים</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אחרי כמה שנים</l>
+          <l>הכרתי נערה</l>
+          <l>הבאתי לה</l>
+          <l>כל שהיא ביקשה</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אהבתי אותה</l>
+          <l>יותר מעצמי</l>
+          <l>קשה להאמין</l>
+          <l>שגם היא פגעה בי</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>את כל הבחורות שהיו לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

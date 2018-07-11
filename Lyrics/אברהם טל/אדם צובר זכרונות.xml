@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אדם צובר זכרונות</title>
+        <singer classification="male singer">אברהם טל</singer>
+        <writer>יונה וולך</writer>
+        <composer>אקורדים</composer>
+        <album>אברהם טל</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אדם צובר זכרונות</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>אדם צובר זכרונות כמו נמלים</l>
+          <l>בחדשי הקיץ.</l>
+          <l>בחדשי הקיץ כמו חגב</l>
+          <l>בעת הקיץ - ויש שאדם שר.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ובחורף הנמלים מתכנסות</l>
+          <l>מתנועעות ברכושן ומכלות לאט</l>
+          <l>את הרכוש ואת החורף מכלות</l>
+          <l>לאט, לאט.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נה, נה, נה, נה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אדם צובר זכרונות כמו נמלים...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והחגב בחורף שר לפתחים</l>
+          <l>לטעום מזכרונות העונה</l>
+          <l>העונה האהובה שבשירו</l>
+          <l>ממנו חמקה.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אדם צובר זכרונות כמו נמלים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

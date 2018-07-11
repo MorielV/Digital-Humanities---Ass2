@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>צעדים</title>
+        <singer classification="unknown">אליה בוסקילה</singer>
+        <writer>אליה בוסקילה</writer>
+        <composer>אליה בוסקילה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>צעדים</head>
+        <lg number="1" type="stanza">
+          <l>אם תבקש אותי</l>
+          <l>לא אסתיר פנים</l>
+          <l>גם אם אצטרך לשקוע</l>
+          <l>באתי בצעדים </l>
+          <l>שאולי קרובים</l>
+          <l>להדביק רצפה בכוח</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתה משתולל</l>
+          <l>קם ושואל</l>
+          <l>טוב לך</l>
+          <l>אתה מתפתל</l>
+          <l>בא ושואל</l>
+          <l>טוב לך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מתי אתה הולך</l>
+          <l>רק תגיד מתי</l>
+          <l>דברים שלא ראיתי</l>
+          <l>הם רואים עלי</l>
+          <l>מתי כבר נכבה את האור</l>
+          <l>אין בי אור</l>
+          <l>רק מאבדת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בין הקירות האלה </l>
+          <l>ממשיכה לשיר</l>
+          <l>מתחזקת מבושה</l>
+          <l>מחזירה כמעט את כל</l>
+          <l>כל מה שאני</l>
+          <l>אבל אתה כבר בדלת</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שוב משתולל</l>
+          <l>בא ושואל</l>
+          <l>טוב לך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מתי אתה הולך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

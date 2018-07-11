@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לזכר 2</title>
+        <singer classification="unknown">אלי מגן</singer>
+        <writer>מירון איזקסון</writer>
+        <composer>ורד קלפטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לזכר</head>
+        <lg number="1" type="stanza">
+          <l>עד עתה רשמתי מחשבות</l>
+          <l>מתרגש וחרד</l>
+          <l>אין בי כח אחר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מקפיד לעצמי על כל רעיון</l>
+          <l>שונא מלות שכחה</l>
+          <l>אבל מדוע בכלל לזכר</l>
+          <l>איש כמוני, מפחד בזהירות, קורע נכון</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אפשר גם להניח את ראשי</l>
+          <l>על פני בני הנוחות</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואולי רק זכרון נוח</l>
+          <l>ממשפטי נערה אהובה</l>
+          <l>או מתי בדקתי פניה</l>
+          <l>והייתי שמח במתנתה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

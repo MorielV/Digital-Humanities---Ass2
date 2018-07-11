@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אנה 4</title>
+        <singer classification="unknown">אנה אקהרד</singer>
+        <writer>אורלי זילברשץ</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אנה</head>
+        <lg number="1" type="stanza">
+          <l>למה כולם את אנה עוזבים</l>
+          <l>למה לאנה כולם נעלמים</l>
+          <l>אנה לא, לא מציאותית</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אנה גומרת ברבע שעה</l>
+          <l>יחסים שצריכים להספיק בשנה</l>
+          <l>אנה שוב, שוב בודדה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אנה מוכשרת המון פוטנציאל</l>
+          <l>פעם היא תצליח אם ירצה הגורל</l>
+          <l>אנה לא גומרת, אנה מאחרת</l>
+          <l>למקום שאי אפשר אחרת</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אנה אומרת קשה לי לגדול</l>
+          <l>אנה שואלת למה לסבול</l>
+          <l>אנה לא, לא מבינה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אנה חשבה שמותר לה לבחור</l>
+          <l>וכך מן הסתם נשארה מאחור</l>
+          <l>אנה פתאום נבהלה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אנה מוכשרת המון פוטנציאל</l>
+          <l>פעם היא תצליח אם ירצה הגורל</l>
+          <l>אנה לא גומרת, אנה מאחרת</l>
+          <l>למקום שאי אפשר אחרת</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

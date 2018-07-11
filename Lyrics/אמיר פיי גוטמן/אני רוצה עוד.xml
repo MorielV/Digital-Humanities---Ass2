@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אני רוצה עוד</title>
+        <singer classification="male singer">אמיר פיי גוטמן</singer>
+        <writer>אמיר פיי גוטמן</writer>
+        <composer>דני רייכנטל</composer>
+        <album>דבש בכוורות</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אני רוצה עוד</head>
+        <lg number="1" type="stanza">
+          <l>אין מתח אין יותר פחד </l>
+          <l>מאז שאנחנו ביחד </l>
+          <l>כמה פעמים זה כבר קורה לך ככה </l>
+          <l>עושה לך טוב </l>
+          <l>אולי זה יגמר בעוד שניה אנ'לא יודע </l>
+          <l>אבל עכשיו אני רוצה עוד </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נפגשנו התחברנו </l>
+          <l>מאז זו המציאות שלנו </l>
+          <l>כמה פעמים זה כבר קורה לך ככה </l>
+          <l>פשוט לאהוב </l>
+          <l>מהנגיעה הראשונה כבר ידעתי </l>
+          <l>אני רוצה עוד </l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>חופשי להיות </l>
+          <l>חופשי לרצות </l>
+          <l>חופשי לחיות </l>
+          <l>חופשי לאהוב </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אין כח ואין מנוח</l>
+          <l>אין צורך יותר לברוח </l>
+          <l>כמה פעמים זה כבר קורה לך ככה</l>
+          <l>שלמות שכזאת </l>
+          <l>כל יום אני קם וכל יום גם יודע </l>
+          <l>אני רוצה עוד </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כן בטח יש פתח </l>
+          <l>וסיכוי שנישאר לנצח</l>
+          <l>כמה פעמים זה כבר קורה לך ככה </l>
+          <l>ביחד ליפול </l>
+          <l>מה זו אהבה ואיך עושים אותה יחד </l>
+          <l>אני רוצה הכל </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>חופשי...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>אין יותר מתח אין יותר פחד </l>
+          <l>עכשיו כשאנחנו ביחד </l>
+          <l>אין יותר כח ואין מנוח </l>
+          <l>אין צורך יותר לברוח </l>
+        </lg>
+        <lg Chorus="yes" number="8" type="stanza">
+          <l>חופשי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אל תפחד 3</title>
+        <singer classification="male singer">אושיק לוי</singer>
+        <writer>איתן גלס</writer>
+        <composer>missing</composer>
+        <album>קול וחומר</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אל תפחד</head>
+        <lg number="1" type="stanza">
+          <l>אני רואה אותך אוהב</l>
+          <l>שוב אבוד בתוך הלב</l>
+          <l>מביט לעיר ושם יש עצב</l>
+          <l>יורד לים ומתיישב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>פוסע חרישית בערב</l>
+          <l>חומק מסערת מילים ברחוב</l>
+          <l>הכעס מתאדה בשמש</l>
+          <l>תראה שם ילד מתעטף בחול</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אל תפחד שעכשיו קצת עצוב</l>
+          <l>גם השמש תשקע לפני שתשוב</l>
+          <l>הנח את ראשך לידי</l>
+          <l>תן לחום בליבך לזרום אל שלי</l>
+          <l>ואל תפחד.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אני רואה אותך הולך</l>
+          <l>בלב עיר הומה ממהומה</l>
+          <l>אתה רוצה עכשיו לומר</l>
+          <l>ולא יוצאת לך מילה</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אז בוא חבק אותי חזק</l>
+          <l>חיבוק מתאגרפים</l>
+          <l>איך שכחנו את עצמנו</l>
+          <l>בקרב של אוהבים</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אל תפחד שעכשיו קצת עצוב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

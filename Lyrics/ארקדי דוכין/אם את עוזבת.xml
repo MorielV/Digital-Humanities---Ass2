@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אם את עוזבת</title>
+        <singer classification="male singer">ארקדי דוכין</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>חלומות למבוגרים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אם את עוזבת</head>
+        <lg number="1" type="stanza">
+          <l>אם את אוהבת אז איך זה ש..</l>
+          <l>את לא נוגעת בי, גם לי קשה</l>
+          <l>לישון ביחד ולהרגיש לבד </l>
+          <l>גוף מגוף מתרחק צד מצד</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם את עוזבת אז איך זה ש..</l>
+          <l>את פה נשארת, גם לי קשה</l>
+          <l>ללכת ככה בלי לדבר </l>
+          <l>זה כואב, מתרחק וחוזר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>פעם זוכרת הייתי מגיע אלייך כל ערב</l>
+          <l>הייתי מגיע רעב, כל כך רעב</l>
+          <l>פעם זוכרת הייתי מגיע אלייך כל ערב</l>
+          <l>הייתי מגיע רעב, כל כך רעב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

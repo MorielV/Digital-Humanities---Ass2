@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שביל חדש של התחלה</title>
+        <singer classification="male singer">אמיר גינת</singer>
+        <writer>שמעון ישראלי</writer>
+        <composer>טובה פורת</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שביל חדש של התחלה</head>
+        <lg number="1" type="stanza">
+          <l>יש תמיד שביל חדש של התחלה </l>
+          <l>במקום בו נגמר הכל</l>
+          <l>והדרך ודאי לא תהיה קלה</l>
+          <l>כי החושך תמיד גדול</l>
+          <l>יש מקום בו שנית מתחיל הכל</l>
+          <l>שם הכל עוד יכול לקרות</l>
+          <l>שם השחר רושם יום חדש בחול</l>
+          <l>לשם כך הן כדאי לחיות</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>דברים שחווינו, מראות שראינו</l>
+          <l>צורבים כל כך ואותם לא נשכח</l>
+          <l>בדרכים שחלפנו רק פרח קטפנו</l>
+          <l>והוא יפרח רק לי ולך</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש מקום בו שנית מתחיל הכל</l>
+          <l>שם הכל עוד יכול לקרות</l>
+          <l>שם השחר רושם יום חדש בחול</l>
+          <l>לשם כך הן כדאי לחיות</l>
+          <l>נבוא אל מקום בו פורח החלום</l>
+          <l>בשלל ציפיות יפיפיות</l>
+          <l>ושם שנינו בחול יום חדש נרשום</l>
+          <l>לשם כך הן כדאי לחיות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>דברים שחווינו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אנחנו מתחתנים</title>
+        <singer classification="unknown">איפה הילד</singer>
+        <writer>חמי רודנר</writer>
+        <composer>חמי רודנר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אנחנו מתחתנים</head>
+        <lg number="1" type="stanza">
+          <l>אלוהים קילל אותי בחלומות רעים,</l>
+          <l>נסענו בניו יורק ברכבת היינו יחפים,</l>
+          <l>גשם נורא שמיים מיללים,</l>
+          <l>הינשאי לי לאישה אנחנו מתחתנים,</l>
+          <l>ברכבת התחתית דיברו כולם עברית,</l>
+          <l>הנהג משופם ושיכור התחנה שרירותית,</l>
+          <l>במלחמת ששת הימים רעדתי במקלט,</l>
+          <l>הרטבתי במיטה חיכיתי למשפט</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אהבה גדולה אנחנו אוהבים,</l>
+          <l>גם כשאנחנו שוכבים, גם כשאנחנו רבים,</l>
+          <l>זה הרבה יותר מה שרציתי</l>
+          <l>ממה שציפית מה שמגיעה לי.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נכנסנו לחנות נעלים המוכר היה חשדן,</l>
+          <l>אפרו אמריקאי כושי במילון הישן,</l>
+          <l>יחסית לאנשים שאוהבים נעליים יצאנו בזול,</l>
+          <l>הינשאי לי לאשה אני כבר ילד גדול.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אהבה גדולה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אהבה שלא נגמרת</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>איתן גלס</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אהבה שלא נגמרת</head>
+        <lg number="1" type="stanza">
+          <l>את היית</l>
+          <l>האהבה שלעולם אינה חוזרת</l>
+          <l>האהבה הכי פשוטה הכי כואבת</l>
+          <l>לא ידעתי שתלכי מבלי לשוב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לו ראית</l>
+          <l>כמה לילות חלמתי את עיניך</l>
+          <l>כמו יין שהמתין רק לשפתייך</l>
+          <l>בעצב המטריף שאין לו סוף</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אמרי לי שהלילה מישהו אוהב</l>
+          <l>מישהו אוהב אותך מאוד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ואיך אז לא ראיתי</l>
+          <l>שאת נשברת מבפנים</l>
+          <l>ואיך אז לא הרגשתי</l>
+          <l>שאת ויתרת על המילים</l>
+          <l>ואם את שוב חולמת</l>
+          <l>בין זרועות שאוהבות</l>
+          <l>אמרי לי שהלילה</l>
+          <l>מאיר אותך כוכב רחוק</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>רק פעם</l>
+          <l>רק פעם בחיים אני יודע</l>
+          <l>אל האהבה בך נוגע</l>
+          <l>כמו ורד שפוצע בגופך</l>
+          <l>איך אפשר לחיות לבד בצל האושר</l>
+          <l>להיזכר באור בהיר של בוקר</l>
+          <l>כשאהבתי רק אותך בלי גבולות</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אמרי לי שהלילה מישהו אוהב</l>
+          <l>מישהו אוהב אותך מאוד</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>ואיך אז לא ראיתי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

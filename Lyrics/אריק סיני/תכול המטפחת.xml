@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תכול המטפחת 2</title>
+        <singer classification="male singer">אריק סיני</singer>
+        <writer>אברהם שלונסקי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תכול המטפחת</head>
+        <lg number="1" type="stanza">
+          <l>טוהר ותכול המטפחת</l>
+          <l>לטף ורוך של היד</l>
+          <l>את אז אמרת לי "לא, לא אשכח עוד</l>
+          <l>את פגישתנו לעד"</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ויהי היום</l>
+          <l>ואנו נפרדנו פתאום</l>
+          <l>תכול המטפחת, קורטוב של נחת</l>
+          <l>ויתגשם החלום</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תמו הכפור והדלף</l>
+          <l>שמש ואור מסביב</l>
+          <l>בוקר וערב, לילה ואלף</l>
+          <l>אלף כוכבי האביב</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ושוב היום</l>
+          <l>ואנו נפגשנו פתאום</l>
+          <l>תכול המטפחת, קורטוב של נחת</l>
+          <l>ונתגשם החלום</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

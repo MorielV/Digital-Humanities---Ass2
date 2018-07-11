@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>אחרי חצות</title>
+        <singer classification="male singer">אלי לס</singer>
+        <writer>אלי לס</writer>
+        <composer>אלי לס</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>אחרי חצות</head>
+        <lg number="1" type="stanza">
+          <l>אחרי חצות </l>
+          <l>שקט ברחובות </l>
+          <l>עם שגעון גדלות </l>
+          <l>מחוץ להסתברות </l>
+          <l>נאון מרצד </l>
+          <l>נעל מתנדנד </l>
+          <l>עין עצלה </l>
+          <l>חידה ושאלה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>עם כל היבהוב </l>
+          <l>או מבט עזוב </l>
+          <l>מתחיל להאבד שוב </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>את שמות הפנסים </l>
+          <l>שיוצרים צללים </l>
+          <l>אני לא זוכר </l>
+          <l>דבר איני שומר </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>שקט ברחובות </l>
+          <l>עם שגעון גדלות </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אם כל זינוק </l>
+          <l>הוא מצוק </l>
+          <l>עדיף להאבד שוב</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

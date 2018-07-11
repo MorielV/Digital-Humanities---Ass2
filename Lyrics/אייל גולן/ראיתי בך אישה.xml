@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ראיתי בך אישה</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>ארקדי דוכין</writer>
+        <composer>ארקדי דוכין</composer>
+        <album>ואני קורא לך</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ראיתי בך אישה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הלב החסיר תקתוק הגוף איבד תחושה</l>
+          <l>עכשיו אני מרגיש ראיתי בך אישה</l>
+          <l>בגלל הנסיבות ועד אינסוף בושה</l>
+          <l>העדפתי לעבוד בעבודה קשה</l>
+          <l>מרעד ממגע מפחד אינסופי</l>
+          <l>עזבתי את זה אז נטשתי את עצמי</l>
+          <l>אבל למרות הכל שם באותה פגישה</l>
+          <l>אני מבין עכשיו ראיתי בך אישה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>הלב החסיר תקתוק...</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מרעש מתפוצץ שבתשוקת דממה</l>
+          <l>מאהבה הזו כואבת וטובה</l>
+          <l>מאנשים יפים מהמילים ברוך</l>
+          <l>מצליל שמלטף חוזר הלוך ושוב</l>
+          <l>העיר תמשיך חיים כי אין בה שום בושה</l>
+          <l>עכשיו אני בטוח ראיתי בך אישה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>הלב החסיר תקתוק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

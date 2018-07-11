@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בפרוט נבל ועוגב</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בפרוט נבל ועוגב</head>
+        <lg number="1" type="stanza">
+          <l>צח ולבן ובהיר,</l>
+          <l>צוחק ונקי ושלוח,</l>
+          <l>ולו רק ראית, אחי,</l>
+          <l>את אביבי התכול והרן.</l>
+          <l>אלף שיריך איתי,</l>
+          <l>ואלף שיריך לרוח,</l>
+          <l>רק אלף שיריך, אחי,</l>
+          <l>מן המדבר ישאוך עד כאן.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ואז בפרוט נבל ועוגב</l>
+          <l>יבקע המיתר המיותם והרך</l>
+          <l>ויום שהגיע עזב</l>
+          <l>ולא עוד יזכור</l>
+          <l>ולא עוד ישכח</l>
+          <l>רק אלף שיריך, אחי יחידי,</l>
+          <l>מן המדבר ישאוך עד כאן.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שיר ופרפר ונורית</l>
+          <l>ובוקר וערב ולילה,</l>
+          <l>ולו רק שמעת אחי</l>
+          <l>את היונים בעלות המייתן.</l>
+          <l>אלף צחוקיך איתי</l>
+          <l>ואלף צחוקך הם שי לה</l>
+          <l>רק אלף צחוקיך אחי</l>
+          <l>מן המדבר ישאוך עד כאן.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ואז בפרוט נבל ועוגב...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

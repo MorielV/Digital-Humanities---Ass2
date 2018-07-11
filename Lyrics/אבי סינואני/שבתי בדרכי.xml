@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שבתי בדרכי</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>בועז עותני</writer>
+        <composer>בועז עותני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שבתי בדרכי</head>
+        <lg number="1" type="stanza">
+          <l>שבתי בדרכי ופעמי שונים </l>
+          <l>אף הנס ראיתי מתנוסס מולי </l>
+          <l>וחפצתי דרך בוערת בתוכי </l>
+          <l>אספר ביום שמש עלומי</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אתה יודע לב, אדם כותב לאל </l>
+          <l>קול רינה וזמר רמז אדמות </l>
+          <l>אתה יודע לב, אדם כותב לאל </l>
+          <l>קול רינה וזמר רמז לבאות </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>איך כרעתי עת לדעת הזמנים </l>
+          <l>אז לא בחלתי בשום אמצעים </l>
+          <l>ובכל הרצון לקבל המוסר </l>
+          <l>לבחור באהבה שתבוא בדרכה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פרח אהבה</title>
+        <singer classification="unknown">אלירן שם טוב</singer>
+        <writer>אלירן שם טוב</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פרח אהבה</head>
+        <lg number="1" type="stanza">
+          <l>רואה בך אהבה</l>
+          <l>שבחיי לא נגלתה לי </l>
+          <l>נסחף איתך אל עבר לא נודע</l>
+          <l>מביט בך כה יפה </l>
+          <l>איך התמימות שבך נגעה בי</l>
+          <l>בחרתי בך לטוב ואם לרע...</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>צמא לך כצמא למים</l>
+          <l>מאוהב עד השמיים</l>
+          <l>והלב שבויי בקסמיך..</l>
+          <l>פרח אהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יש בי משאלה </l>
+          <l>לך את חיי אקשור בסרט </l>
+          <l>את ואני ננצור את השבועה</l>
+          <l>דבק במטרה כשארד אכרע לך ברך</l>
+          <l>אמרי לי כן היי לי לכלה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>צמא לך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

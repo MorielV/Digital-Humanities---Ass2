@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בוא אהוב</title>
+        <singer classification="male singer">אבי פרץ</singer>
+        <writer>אברהם לוי</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בוא אהוב</head>
+        <lg number="1" type="stanza">
+          <l>היא אמרה לי בוא אהוב</l>
+          <l>יום ולילה אל תחשוב</l>
+          <l>אם חשקת בלקטוף</l>
+          <l>כי הפרי בשל וטוב</l>
+          <l>אש יוקדת בשפתה</l>
+          <l>כל חיציה בי ירתה</l>
+          <l>היא הציתה להבה</l>
+          <l>היא הציתה אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פירותיה אסורים</l>
+          <l>מביאים רק איסורים</l>
+          <l>מילותיה דבש ניקר</l>
+          <l>אך העוקץ שם נסתר</l>
+          <l>יום עבר שנים חלפו</l>
+          <l>געגועים ליבי שרפו</l>
+          <l>אש יצאתי לבקש</l>
+          <l>את אותה שלהבת אש</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>היא חולפת כמו סופה</l>
+          <l>שהיתה וגם חלפה</l>
+          <l>שהולכת היא ברחוב</l>
+          <l>בא לי כל כך לאהוב</l>
+          <l>אהבה היא סוד נסתר </l>
+          <l>יום מתוק ויום קצת מר</l>
+          <l>היא בוערת כמו מדבר</l>
+          <l>היא מרווה כמי נהר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פירותיה אסורים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

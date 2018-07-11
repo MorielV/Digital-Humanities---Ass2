@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קלף חזק 2</title>
+        <singer classification="female singer">אסתר שמיר</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>יזהר אשדות</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קלף חזק</head>
+        <lg number="1" type="stanza">
+          <l>באישון לילה הרחובות ריקים</l>
+          <l>פוסע לאט בין הבתים,</l>
+          <l>הפנים חתומות, הקלפים חזקים</l>
+          <l>הוא משחק פוקר אל תוך החיים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>איש זר, הכיוון לא ידוע</l>
+          <l>משנה את כללי המשחק ומחכה.</l>
+          <l>הוא בהיר וכובש, יש לו דחף לנוע</l>
+          <l>צאי מהמשחק לפני שהוא מכה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קלף חזק, יש לו קלף חזק</l>
+          <l>הוא חודר עמוק, יש לו קלף חזק.</l>
+          <l>קלף חזק, יש לו קלף חזק;</l>
+          <l>הוא מתכנן נקמה לטווח רחוק.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>הוא לא מתעייף, הוא הולך בטוח</l>
+          <l>אין בו מקום להיסוסים.</l>
+          <l>הוא עובר דרכך חד כמו הרוח,</l>
+          <l>משאיר אחריו שדות חרושים.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>באישון לילה הרחובות ריקים</l>
+          <l>מנצח וממשיך בצעדים חשאיים.</l>
+          <l>הוא לא גלה לך את כל הקלפים -</l>
+          <l>הוא משחק פוקר אל תוך החיים.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>קלף חזק...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

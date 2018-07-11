@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>פתח ליבי</title>
+        <singer classification="unknown">אביחי פז גרינוולד</singer>
+        <writer>אביחי פז גרינוולד</writer>
+        <composer>אביחי פז גרינוולד</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>פתח ליבי</head>
+        <lg number="1" type="stanza">
+          <l>כשאי אפשר כשמיותר</l>
+          <l>להגיד תמיד אותו דבר</l>
+          <l>מה יהיה מחר</l>
+          <l>בעת קשה בעת צרה</l>
+          <l>הלב אומר שאין ברירה</l>
+          <l>יוצא אליך בתפילה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>פתח ליבי באהבתך </l>
+          <l>ותלמדיני מתורתך</l>
+          <l>תן דרכי אל הטוב ליבי אל האור</l>
+          <l>ותזכי ני תורתך לשמור</l>
+          <l>פקח עיני לישועתך</l>
+          <l>יזרמו מעיינות השמחה</l>
+          <l>ואז אוכל לאהוב</l>
+          <l>אמצא את הטוב </l>
+          <l>ואני אותך לא אעזוב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מרגיש כזר מנוכר</l>
+          <l>עוד לא מאושר רחוק מהעבר</l>
+          <l>זה לא נגמר</l>
+          <l>כמעט נשבר</l>
+          <l>עגום ומהורהר</l>
+          <l>מביט אל המחר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>פתח ליבי באהבתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

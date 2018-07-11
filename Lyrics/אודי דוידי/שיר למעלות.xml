@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר למעלות</title>
+        <singer classification="unknown">אודי דוידי</singer>
+        <writer>מן המקורות</writer>
+        <composer>אודי דוידי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר למעלות</head>
+        <lg number="1" type="stanza">
+          <l>שיר למעלות</l>
+          <l>אשא עיני אל-ההרים, מאין יבא עזרי</l>
+          <l>עזרי, מעם ה', עושה שמים וארץ.</l>
+          <l>אל יתן למוט רגלך; אל ינום שומרך.</l>
+          <l>הנה לא ינום ולא יישן שומר ישראל.</l>
+          <l>ה' ישמורך ה' צלך על-יד ימינך.</l>
+          <l>יומם השמש לא יככה וירח בלילה, בלילה</l>
+          <l>ה' ישמרך מכל-רע, ישמור את-נפשך</l>
+          <l>ה' ישמור צאתך ובואך מעתה ועד עולם, עד עולם</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

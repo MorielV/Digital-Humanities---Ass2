@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תנו לי קצב</title>
+        <singer classification="male singer">איציק קלה</singer>
+        <writer>שלמה כישור</writer>
+        <composer>דני שושן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תנו לי קצב</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>תנו לי כוח, תנו לי קצב, תנו להשתולל;</l>
+          <l>עם גיטרה ובוזוקי יחד נתהולל</l>
+          <l>ומרדת-ליל, כל בית ישראל</l>
+          <l>בכפיים, ברגליים, יחד נשתולל.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>השמחה תאיר עיניים, נערה תרקוד</l>
+          <l>ונמחא לה כף יחד עוד ועוד.</l>
+          <l>בואו ונשיר, בואו ונרקוד</l>
+          <l>עד ניפול מן הרגליים ולא נעמוד.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>תנו לי...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>עם הקצב שבלב יתרונן השיר,</l>
+          <l>יישמע קולו בחוצות העיר.</l>
+          <l>רב הליל, רב עד האור יאיר,</l>
+          <l>עד ניפול מן הרגליים וגם אז נשיר:</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>תנו לי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

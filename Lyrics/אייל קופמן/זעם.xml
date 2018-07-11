@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>זעם 2</title>
+        <singer classification="male singer">אייל קופמן</singer>
+        <writer>אייל קופמן</writer>
+        <composer>אייל קופמן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>זעם</head>
+        <lg number="1" type="stanza">
+          <l>זעעעעעעעעעעם </l>
+          <l>פחחחחחחחחחד </l>
+          <l>אני לבד </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נאחחחחחחז בשקר </l>
+          <l>נאבבבבבבק </l>
+          <l>ביופי שלך שלא יגרום בי שקט </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>תלטפפפפפי </l>
+          <l>תפתחי את הידיים </l>
+          <l>תצחקי </l>
+          <l>או תצחקי </l>
+          <l>תצעקקקי </l>
+          <l>או תצעקי </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>את רוצה את הים </l>
+          <l>את הגלים </l>
+          <l>את החיים שלך שקטים </l>
+          <l>לקנות בגדים ולחייך עם הקפה </l>
+          <l>את רוצה אותי רגוע </l>
+          <l>מיוצב ומכוון </l>
+          <l>אני הולך ומתרחק </l>
+          <l>את לא רואה? </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>תעשי </l>
+          <l>שיהיה כאן שקט </l>
+          <l>את יכולה אני יודע </l>
+          <l>את יכולה את יכולה </l>
+          <l>לגרום לי לפרוש כנפיים </l>
+          <l>לא להיות החץ שמפלח </l>
+          <l>להרגיש אותך </l>
+          <l>להרגיש אותך </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>את רוצה את הים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

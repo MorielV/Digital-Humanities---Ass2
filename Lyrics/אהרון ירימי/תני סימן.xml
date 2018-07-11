@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תני סימן 2</title>
+        <singer classification="male singer">אהרון ירימי</singer>
+        <writer>יוכי ארז</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תני סימן</head>
+        <lg number="1" type="stanza">
+          <l>את עץ הברוש על הגבעה, האם את עוד זוכרת? </l>
+          <l>נפגשנו שם לראשונה תחת שמי התכלת. </l>
+          <l>אותך רציתי להכיר, ובידך לגעת </l>
+          <l>שתבטיחי לתמיד רק אותי לדעת. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תני סימן שאותי הינך זוכרת. </l>
+          <l>תני סימן, תני סימן שאת חוזרת. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>סביב פורחים הנרקיסים, ורוח מלטפת. </l>
+          <l>ימים וגם לילות חולפים, האם עודך זוכרת? </l>
+          <l>מחכה לך פה לבד, ומעל ירח </l>
+          <l>מייחל עוד לשובך, ובידי לך פרח. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תני סימן שאותי הינך זוכרת. </l>
+          <l>תני סימן, תני סימן שאת חוזרת. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>על הגבעה הכל שקט, אותך איני שומע. </l>
+          <l>האם תשובי, אהובה? זאת רק האל יודע. </l>
+          <l>רוח ערב חרישית את פני לוטפת </l>
+          <l>ודמותך בדמיוני מול עיני חומקת. </l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>תני סימן שאותי הינך זוכרת. </l>
+          <l>תני סימן, תני סימן שאת חוזרת.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

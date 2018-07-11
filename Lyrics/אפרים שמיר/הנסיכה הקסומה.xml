@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הנסיכה הקסומה</title>
+        <singer classification="male singer">אפרים שמיר</singer>
+        <writer>אפרים שמיר</writer>
+        <composer>אפרים שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הנסיכה הקסומה</head>
+        <lg number="1" type="stanza">
+          <l>מחייכת לעצמה </l>
+          <l>יושבת הנסיכה הקסומה </l>
+          <l>ליחושים ושדונים חגים סביבה </l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אם אתה נמצא לידה </l>
+          <l>והיא חפצה באהבתך </l>
+          <l>ליחושים ושדונים תשליך מולך </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יפרצו עושי דבריה אל תוך לבך </l>
+          <l>ויביאו לה אותו רוטט משמחה </l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אולי קיבלה היא מהאלים </l>
+          <l>עוד מימי הדינוזאורים </l>
+          <l>ליחושים ושדונים לעזרתה </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>יזהר שומר נפשו ישקול צעדיו </l>
+          <l>יעשה טעות הוא ישלם בחייו </l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>אם תרצו אין זו אגדה </l>
+          <l>ואם לא תרצו העובדה היא עובדה </l>
+          <l>ליחושים ושדונים לעזרתה </l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>אני שלה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

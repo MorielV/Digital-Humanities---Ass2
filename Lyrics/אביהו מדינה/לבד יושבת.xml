@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לבד יושבת</title>
+        <singer classification="male singer">אביהו מדינה</singer>
+        <writer>אביהו מדינה</writer>
+        <composer>אביהו מדינה</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לבד יושבת</head>
+        <lg number="1" type="stanza">
+          <l>ראיתי איך עינייך היפות דיברו בלי קול</l>
+          <l>במבטך וחיוכך סיפרת לי הכל</l>
+          <l>וכל מילייך וצחוקך עולם אחר לא שלך</l>
+          <l>רצית לדעת מדוע נשארתי טוב ונחמד איתך</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שלא תעצבי עוד</l>
+          <l>שלא תכאבי עוד</l>
+          <l>שלא תהיי לבד יושבת</l>
+          <l>בעולם אכזר</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>שנותייך היפות חולפות ואיש לך לא ישיב</l>
+          <l>את עלומייך הקצרים את טעם החיים</l>
+          <l>רציתי לחבקך ברוך, פנייך ללטף</l>
+          <l>ולהשכיח מליבך מעט מכאבך</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שלא תעצבי עוד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>צרובה משמש החיים פינה של צל ביקשת</l>
+          <l>ולא היה לך נווה מדבר להינפש מעט</l>
+          <l>ושוב לבד חוזרת את אל יצועך הקר</l>
+          <l>ודימעותייך ניגרות הן נספגות בכר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שלא תעצבי עוד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

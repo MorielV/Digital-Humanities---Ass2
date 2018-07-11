@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מטוסים</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>יומן מסע</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מטוסים</head>
+        <lg number="1" type="stanza">
+          <l>עוד מעט נגיע</l>
+          <l>הנה כבר רואים</l>
+          <l>מטוסים חוצים קרוב אותנו</l>
+          <l>שוב אתה בורח לעולם אחר</l>
+          <l>במרדף שלך אחרי האושר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>וזה כל כך קשה</l>
+          <l>זה כל כך קשה</l>
+          <l>לראות אותך בורח בשמיים</l>
+          <l>זה כל כך קשה</l>
+          <l>זה כל כך קשה</l>
+          <l>למצוא טיפות של אושר בינתיים</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ושניכם התחבקתם</l>
+          <l>וזה צבט בלב</l>
+          <l>היו לכם גם כמה רגעים</l>
+          <l>בכל מטוס אדם</l>
+          <l>בכל אדם סיפור</l>
+          <l>בכל סיפור יש מישהו למטה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>וזה כל כך קשה...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>בכל מטוס אדם</l>
+          <l>בכל אדם סיפור</l>
+          <l>בכל סיפור יש מישהו למטה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

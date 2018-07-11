@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>בלדה למפרגן</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>אבי טולדנו</writer>
+        <composer>אבי טולדנו</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>בלדה למפרגן</head>
+        <lg number="1" type="stanza">
+          <l>הם אוהבים אותך קטן</l>
+          <l>בגובה פני הים הראש באדמה</l>
+          <l>אם אתה רוצה לעוף יורים בך חצוף</l>
+          <l>טווחים בלי נחמה</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מנסה ולא מצליח</l>
+          <l>קופץ ולא מגיע</l>
+          <l>נוכח אבל שקוף</l>
+          <l>אפילו קצת מחוק</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>צריך לבקש סליחה</l>
+          <l>שהייתה לך חוצפה </l>
+          <l>להרים ת'ראש מעט</l>
+          <l>צריך אולי להפסיד בקרב</l>
+          <l>להוסיף להיות נחמד</l>
+          <l>כדי לא להיות לבד</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מה ייצא לך מזה</l>
+          <l>אתה פשוט כזה</l>
+          <l>תשלים עם זה לעד</l>
+          <l>הנה מה טוב ומה נעים</l>
+          <l>קטנים מהחיים</l>
+          <l>שבט אחים גם יחד</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מנסה ולא מצליח...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

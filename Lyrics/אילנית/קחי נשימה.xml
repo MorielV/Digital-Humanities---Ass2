@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קחי נשימה</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>רחל שפירא</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קחי נשימה</head>
+        <lg number="1" type="stanza">
+          <l>קחי נשימה, אולי השנה</l>
+          <l>תהיה לך עונה מוצלחת</l>
+          <l>מה שניסית ומה שעשית</l>
+          <l>ממך אי אפשר לקחת</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את יכולה לתת לזמן</l>
+          <l>לפעול לטובתך.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>קחי נשימה, אויר ואור טובים לך</l>
+          <l>את מוכנה לפגוש את רצונך</l>
+          <l>קחי נשימה, אם זה מה שדרוש לך עכשיו</l>
+          <l>ואולי תתבהרי קצת לעצמך.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בין כה וכה, למרות הרוחות</l>
+          <l>בים הסיבות חותרת</l>
+          <l>חופש תנועה גורם הנאה</l>
+          <l>וגם הפתעה נסתרת.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>חופש תנועה - זו הידיעה</l>
+          <l>שיש לך זמן לפעול</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>קחי נשימה, אויר ואור טובים לך</l>
+          <l>את מוכנה לפגוש את רצונך</l>
+          <l>קחי נשימה, אם זה מה שדרוש לך עכשיו</l>
+          <l>ואולי תתבהרי קצת לעצמך.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

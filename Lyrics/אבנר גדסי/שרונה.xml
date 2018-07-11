@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שרונה</title>
+        <singer classification="male singer">אבנר גדסי</singer>
+        <writer>אילן גולדהירש</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שרונה</head>
+        <lg number="1" type="stanza">
+          <l>פתאום הזיכרונות בבת אחת עולים</l>
+          <l>פתאום תמונות תמונות שבאות לי בגלים</l>
+          <l>מתוך המיתרים רק שיר אחד נולד</l>
+          <l>השיר של השירים שקשור לשם אחד</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>שרון, שרון, שרונה</l>
+          <l>השיר לך שייך שרונה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>ימים של סתיו באים, בתוך הלב שריפה</l>
+          <l>פתאום געגועים לשרונה היפה</l>
+          <l>עכשיו האפלה יורדת על העיר</l>
+          <l>ופתאום דממה גדולה, ונותר לי רק השיר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>שרון, שרון, שרונה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

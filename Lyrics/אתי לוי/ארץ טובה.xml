@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ארץ טובה</title>
+        <singer classification="female singer">אתי לוי</singer>
+        <writer>חנן גולדבלט</writer>
+        <composer>נפתלי אלטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ארץ טובה</head>
+        <lg number="1" type="stanza">
+          <l>זו הארץ נולדתי בה עם הטוב עם הרע שבה</l>
+          <l>עם תורה, שלום ואש זה מה שיש, זה מה שיש.</l>
+          <l>ארץ קודש זבת חלב והדבש במנות של קרב </l>
+          <l>שהשקט בה גועש זה מה שיש, זה מה שיש.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>ארץ טובה מערער אל נחל ארנון </l>
+          <l>ארץ תקווה ועד השיאון הוא הר החרמון</l>
+          <l>זו התשובה ארץ טובה ארץ חיטה תאנה ורימון </l>
+          <l>ארץ טובה הבטחתי לך, הבטחתי לך.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>למשה היא ניתנה כחוק הוא לקח אותה בלי לבדוק </l>
+          <l>כן לוקח לא חושש זה מה שיש, זה מה שיש.</l>
+          <l>זו הארץ נולדתי בה עם הטוב עם הרע שבה </l>
+          <l>עם חלום ועם עיקש זה מה שיש, זה מה שיש.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

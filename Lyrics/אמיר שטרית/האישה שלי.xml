@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>האישה שלי</title>
+        <singer classification="unknown">אמיר שטרית</singer>
+        <writer>שלומי אמסלם</writer>
+        <composer>שלומי אמסלם</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>האישה שלי</head>
+        <lg number="1" type="stanza">
+          <l>אוהב רק אותך כמה שאפשר לאהוב</l>
+          <l>מחבק אותך חזק, רוצה אותך קרוב קרוב</l>
+          <l>ועוד לחישה ממך, אישה של אהבה</l>
+          <l>ועוד נשיקה ולחישה של אהבה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אוהב רק אותך, כמה עוד אפשר לאהוב</l>
+          <l>את מחבקת חזק, רוצה אותי קרוב קרוב</l>
+          <l>ועוד נשיקה ולחישה של אהבה</l>
+          <l>ועוד לחישה ממך אישה של אהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואת, את האישה שאוהבת</l>
+          <l>רק אהבה את נותנת</l>
+          <l>את האישה שלי</l>
+          <l>ואת, את שאותי רק אוהבת</l>
+          <l>גם כשאת כועסת</l>
+          <l>את אהובה שלי.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אוהב רק אותך, קחי אותי אני שלך</l>
+          <l>אתן לך אהבה, רק תהיי לי לאישה</l>
+          <l>ועוד נשיקה ולחישה של אהבה</l>
+          <l>ועוד לחישה ממך אישה של אהבה.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>ואת, את האישה שאוהבת...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

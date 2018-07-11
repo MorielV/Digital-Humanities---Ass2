@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מוקדם מדי</title>
+        <singer classification="female singer">אסתר שמיר</singer>
+        <writer>אסתר שמיר</writer>
+        <composer>אסתר שמיר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מוקדם מדי</head>
+        <lg number="1" type="stanza">
+          <l>אני יודעת שחיכית לי הרבה הרבה ימים</l>
+          <l>ואנשים שמחכים, אצלם הזמן עובר לאט</l>
+          <l>אני עוד לא הספקתי לחזור מן הדרכים</l>
+          <l>לא הספקתי להביט בך כמעט</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>מצד אל צד אנחנו נסחפים ברוח</l>
+          <l>מישהו נישא הרחק ומישהו כבה</l>
+          <l>אבל הרי החורף לא נמשך לנצח</l>
+          <l>כל כך הרבה השארנו בתוך האהבה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מוקדם מדי לתת - מוקדם מדי כדי לקחת</l>
+          <l>הלב עוד מתנדנד בין אשליות ובין תקווה</l>
+          <l>אז יש באטימות הזאת כיוון של רגע נחת</l>
+          <l>כל כך הרבה השארנו שם בתוך האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>מצד אל צד...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>הגשם הגדול והסופה מאחורינו</l>
+          <l>הרחוב עדיין קר יש, סכנה של החלקה</l>
+          <l>ויש סיכוי לטוב אך זה מוקדם מדי לשנינו</l>
+          <l>כל כך הרבה השארנו בתוך האהבה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>מצד אל צד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

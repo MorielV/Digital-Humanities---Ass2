@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נומה נומה</title>
+        <singer classification="female singer">אילנית</singer>
+        <writer>שמוליק רוזן</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נומה נומה</head>
+        <lg number="1" type="stanza">
+          <l>נומה, נומה, בן יקר.</l>
+          <l>התכסה, הלילה קר.</l>
+          <l>נום, החושך לא נורא</l>
+          <l>נכבה את המנורה.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>נומה, נומה, נומה, ילד,</l>
+          <l>חלומך דופק בדלת.</l>
+          <l>נומה, נומה, נומה נום.</l>
+          <l>נומה, נומה, נומה נום.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>נומה, נומה, ילד תם,</l>
+          <l>הכלבים נובחים כך סתם.</l>
+          <l>זה לא שד, זה רק כיסא.</l>
+          <l>נום כבר, ילד - התכסה!</l>
+          <l>נומה, נומה, נומה, ילד...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>נומה, נומה, בן קטן.</l>
+          <l>זאת הרוח, זה לא תן,</l>
+          <l>זאת הרוח בתריסים.</l>
+          <l>נום, עצום את הריסים.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>נומה, נומה, נומה, ילד...</l>
+        </lg>
+        <lg number="6" type="stanza">
+          <l>נום, ילדי וסגור עפעף,</l>
+          <l>אף ציפור בחוץ לא עף.</l>
+          <l>נום, עצום את האישון,</l>
+          <l>נו כבר, אבא מת לישון!</l>
+        </lg>
+        <lg Chorus="yes" number="7" type="stanza">
+          <l>נומה, נומה, נומה ילד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

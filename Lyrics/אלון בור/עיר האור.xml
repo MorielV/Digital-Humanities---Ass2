@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עיר האור</title>
+        <singer classification="unknown">אלון בור</singer>
+        <writer>דודו ברק</writer>
+        <composer>נחצ'ה היימן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עיר האור</head>
+        <lg number="1" type="stanza">
+          <l>בתוך ענן,</l>
+          <l>ענן לבן,</l>
+          <l>ירושלים שוכנת על,</l>
+          <l>ואני מטייל בשמיים.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>בתוך הגן,</l>
+          <l>בעדן גן,</l>
+          <l>ירושלים, זהב קלל,</l>
+          <l>מצועפת בתכלת עיניים.</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>אני הולך,</l>
+          <l>אני פוסע חרש,</l>
+          <l>כמו אתמול,</l>
+          <l>אני הולך</l>
+          <l>ואבק ילדות זרוע,</l>
+          <l>ניתך על ראשי.</l>
+          <l>כך אעבור,</l>
+          <l>מדור לדור,</l>
+          <l>בעיר האור.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ימים של חול,</l>
+          <l>וחג כחול,</l>
+          <l>ירושלים, גינת חיי,</l>
+          <l>ואני בה אדשא, דשא, עשב.</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והחמלה </l>
+          <l>העגולה,</l>
+          <l>ירושלים, קו חומותי,</l>
+          <l>ואני בחומה אבן קשת.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>אני הולך...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>כבד העול,</l>
+          <l>נעים העול,</l>
+          <l>ירושלים, קרעי חלום,</l>
+          <l>שיר מינים ועשור לך שולח.</l>
+        </lg>
+        <lg number="8" type="stanza">
+          <l>עיני אפקח,</l>
+          <l>אל המזרח,</l>
+          <l>ירושלים, היי שלום,</l>
+          <l>עיר מקלט וקרנות המזבח.</l>
+        </lg>
+        <lg Chorus="yes" number="9" type="stanza">
+          <l>אני הולך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

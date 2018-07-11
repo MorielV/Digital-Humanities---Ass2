@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מנגו בננה</title>
+        <singer classification="band">אטרף</singer>
+        <writer>ראובן סלמון</writer>
+        <composer>ראובן סלמון</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מנגו בננה</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>מנגו, בננה ומלון</l>
+          <l>דבש וקינמון</l>
+          <l>מנגו, בננה ומלון</l>
+          <l>דבש וקינמון</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>את גופך עטפתי בפרחי יסמין</l>
+          <l>וכשהתחממתי לאורך שקעתי בחלום</l>
+          <l>הירח שר שיר במתנה</l>
+          <l>וכשהתעוררתי ניחוחך היה כשל ה</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>מנגו, בננה ומלון...</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>ובבוקר שטנו בין אדוות דקלים</l>
+          <l>כשהשמש שוב שקעה בים חזרנו לחלום</l>
+          <l>עוד ירח שר את אותו השיר</l>
+          <l>וכשנתעורר לבסוף שוב יחזור אלינו ניחוח</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>מנגו, בננה ומלון...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

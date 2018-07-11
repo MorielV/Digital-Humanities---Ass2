@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>איפה שלא תהיי</title>
+        <singer classification="male singer">אריק איינשטיין</singer>
+        <writer>גיא בוקאטי</writer>
+        <composer>גיא בוקאטי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>איפה שלא תהיי</head>
+        <lg number="1" type="stanza">
+          <l>כל השקיעות והחיוכים</l>
+          <l>המבטים החיבוקים</l>
+          <l>המשפטים הלא גמורים</l>
+          <l>תפילת הלב המתאהב</l>
+          <l>ודקירתו של הכאב</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>חיכוך מקרי בכף ידה</l>
+          <l>ההפלגה שבתקווה</l>
+          <l>צביון הלב המסרב</l>
+          <l>כולם רוצים אלייך</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>ואיפה שלא תהיי תמיד</l>
+          <l>תזכרי שבי</l>
+          <l>יש לך מקום אצלי רעב אלייך</l>
+          <l>גם אם זה כבר מאוחר</l>
+          <l>גם אם ראית את הסוף</l>
+          <l>זה רק בינתיים</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>מילים קשות ויכוחים</l>
+          <l>עוד לא הצלחנו להחכים</l>
+          <l>אני אומר ומצטער</l>
+          <l>הזמן עובר זה לא עוזר</l>
+          <l>אם רק יכולתי לוותר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>ריחות גופך הם כמו סמים</l>
+          <l>הם כמו תשובה לייסורים</l>
+          <l>שלא מרפים כשאת אינך</l>
+          <l>גם הם רוצים אלייך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>ואיפה שלא תהיי...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

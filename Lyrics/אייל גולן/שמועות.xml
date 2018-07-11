@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שמועות</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>יוסי גיספן</writer>
+        <composer>עדי לאון</composer>
+        <album>בשבילך נוצרתי</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שמועות</head>
+        <lg number="1" type="stanza">
+          <l>כולם יודעים עלי הכל</l>
+          <l>יודעים עלי גם מבלי לשאול</l>
+          <l>מה באמת עושה אותי מאושר</l>
+          <l>וממה אני נשבר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>כולם יודעים עלי הכל</l>
+          <l>על המחר כבר כתבו אתמול</l>
+          <l>היד כותבת גם אם אין מה לומר</l>
+          <l>אבל זה לא העיקר</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>העיקר שאני כאן איתך</l>
+          <l>ואת זה אף אחד לא יקח</l>
+          <l>אין לי כלום בלעדייך</l>
+          <l>את הכוח שלי</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אמרו עלי הרבה דברים</l>
+          <l>שברי אמת חצאי שקרים</l>
+          <l>אני שומע את הכל ואומר</l>
+          <l>שימשיכו לדבר</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>והשמועות בנו מגדל</l>
+          <l>אבל למי זה אכפת בכלל</l>
+          <l>אני שומע וממשיך לחייך</l>
+          <l>כי אני כאן לצידך</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>העיקר שאני כאן איתך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

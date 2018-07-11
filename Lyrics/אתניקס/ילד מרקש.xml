@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ילד מרקש</title>
+        <singer classification="band">אתניקס</singer>
+        <writer>זאב נחמה</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ילד מרקש</head>
+        <lg number="1" type="stanza">
+          <l>מול ביתנו</l>
+          <l>על הברזלים ברחוב ישבנו</l>
+          <l>עד סיגריה אחרונה</l>
+          <l>עם הבנות של השכונה</l>
+          <l>הן אהבו אותך ילד מרקש.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>איך לא</l>
+          <l>איך לא</l>
+          <l>החיים עוברים לידו</l>
+          <l>איך לא</l>
+          <l>איך לא</l>
+          <l>יום אחד תגיע שעתו</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>על סף דלתנו</l>
+          <l>המזל נשאר מאחורינו</l>
+          <l>הממסד רצה יותר</l>
+          <l>אז החלטנו לוותר</l>
+          <l>הם "אהבו" אותך ילד מרקש.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>איך לא...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>מול ביתנו</l>
+          <l>את חוקי הברזלים קיבלנו</l>
+          <l>רק הכוח מדבר</l>
+          <l>ככה מקבלים יותר</l>
+          <l>אז הם נתנו לך ילד מרקש.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>איך לא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

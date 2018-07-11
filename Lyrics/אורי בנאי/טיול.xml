@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>טיול 3</title>
+        <singer classification="male singer">אורי בנאי</singer>
+        <writer>אורי בנאי</writer>
+        <composer>אורי בנאי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>טיול</head>
+        <lg number="1" type="stanza">
+          <l>כשקר לי בחדר ואין מה לעשות</l>
+          <l>אין שום שידור בערוץ הספורט</l>
+          <l>אני שם את הסוודר</l>
+          <l>כי בא לי לצאת לטיול</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>לנשום קצת אוויר</l>
+          <l>יוצא לעשות סיבוב בעיר</l>
+          <l>לשוטט בין החנויות</l>
+          <l>לקרוץ לעוברות לקרוץ לשבות (שוות)</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כששמוליק איננו ופרידמן בחו"ל</l>
+          <l>בחוץ מטפטף אבל זה לא מבול</l>
+          <l>אז אפשר ובכיף</l>
+          <l>בוא תצטרף לטיול</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לנשום קצת....</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אההה.....</l>
+          <l>כמה זה נעים, כמה זה נחמד</l>
+          <l>בין הבניינים, סתם להיות לבד</l>
+          <l>לא לומר דבר</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>טיול</l>
+          <l>לנשום קצת....</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

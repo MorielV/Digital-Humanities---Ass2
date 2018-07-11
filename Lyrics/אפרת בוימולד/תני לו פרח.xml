@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תני לו פרח</title>
+        <singer classification="female singer">אפרת בוימולד</singer>
+        <writer>לאה נאור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תני לו פרח</head>
+        <lg number="1" type="stanza">
+          <l>"תני לו פרח, תני לו יין</l>
+          <l>אבל את ליבך שימרי"</l>
+          <l>כך אבי הטוב אמר לי</l>
+          <l>כשהייתי בת עשרים</l>
+          <l>כך אבי הטוב אמר לי</l>
+          <l>כשהייתי בת עשרים</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יין מר, פרח בר</l>
+          <l>לא יותר כי זה יכאיב</l>
+          <l>אבל בת עשרים הייתי</l>
+          <l>לא ידעתי להקשיב</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>"הוא יפליג", אבי אמר לי</l>
+          <l>"אל איי האגדה</l>
+          <l>וללב שלך בעצם</l>
+          <l>אין מקום במזוודה,</l>
+          <l>וללב שלך בעצם</l>
+          <l>אין מקום במזוודה"</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יין מר...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אך אבוי, ימים הגידו</l>
+          <l>ולימדני המכאוב</l>
+          <l>אני כבר בת עשרים ושתיים</l>
+          <l>מה צדק אבי הטוב</l>
+          <l>אני כבר בת עשרים ושתיים</l>
+          <l>מה צדק אבי הטוב</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יין מר...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

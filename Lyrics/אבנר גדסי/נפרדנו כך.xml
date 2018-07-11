@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>נפרדנו כך</title>
+        <singer classification="male singer">אבנר גדסי</singer>
+        <writer>סמדר שיר</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>נפרדנו כך</head>
+        <lg number="1" type="stanza">
+          <l>נפרדנו כך</l>
+          <l>היתה דממה</l>
+          <l>לא היה כבר מה לומר</l>
+          <l>הרחוב רגש</l>
+          <l>הרחוב המה</l>
+          <l>כמו לא היה דבר</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל זאת היה אתמול</l>
+          <l>ונדמה שחלפה לה שנה</l>
+          <l>מרגעי חלום גדול</l>
+          <l>נשארה רק מנגינה</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אמרת שלום</l>
+          <l>אולי חשבת</l>
+          <l>שאפשר הכל לשנות</l>
+          <l>היה עצוב</l>
+          <l>שזה לא כך</l>
+          <l>אמרתי רק להתראות</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל זאת היה אתמול...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>זוכר אני</l>
+          <l>היתה דממה</l>
+          <l>והבטנו זה בזו</l>
+          <l>היה עצוב</l>
+          <l>הלב המה</l>
+          <l>ונפרדנו בתקווה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל זאת היה אתמול...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

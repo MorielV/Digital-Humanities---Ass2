@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>עניין של זמן</title>
+        <singer classification="unknown">אור גלעדי</singer>
+        <writer>אהוד מנור</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>עניין של זמן</head>
+        <lg number="1" type="stanza">
+          <l>קח אותו לאט את הזמן</l>
+          <l>העולם עוד יחכה בחוץ</l>
+          <l>קח עוד שאיפה מן הזמן</l>
+          <l>שתי דקות לפני ההתפכחות.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>להתמכר ללב המתפרע</l>
+          <l>לדמיון המתפקע</l>
+          <l>ולאושר הנוגע</l>
+          <l>בעומק הכאב.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אתה עוד תגלה את העולם</l>
+          <l>אם תרצה או לא תרצה</l>
+          <l>יש עוד זמן להשתנות</l>
+          <l>מן הקצה אל הקצה.</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>אם האהבה כאבה לך אתמול</l>
+          <l>אולי מחר היא לא תכאב</l>
+          <l>אם עוד הדמעות זולגות בלי קול</l>
+          <l>בסופן אולי חיוך רחב.</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>להתמכר ללב המתפרע...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שתיים</title>
+        <singer classification="unknown">איציק בן ארי</singer>
+        <writer>אבי קורן</writer>
+        <composer>עממי</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שתיים</head>
+        <lg number="1" type="stanza">
+          <l>שתיים רק את שתיהן כה אהבתי </l>
+          <l>והן רק שתיים שתיים לא יותר. </l>
+          <l>את לבבי לשתיהן אז נתתי ועל שתיהן לא אוותר. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>אחת בת חמד יפת עיניים בליבה צחוק מסתתר. </l>
+          <l>אך את היין ,כן את היין אותו אוהב...טיפ טיפה יותר. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>יין לקצב יין לעצב,יין בלילה וגם ביום </l>
+          <l>מי שעדיין שותה פה עוד יין </l>
+          <l>יאמר "לחיים" וילגום. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>אחת בת חמד יפת עיניים בליבה צחוק מסתתר. </l>
+          <l>אך את היין ,כן את היין אותו אוהב...טיפ טיפה יותר. </l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>שתיים רק את שתיהן כה אהבתי אך הילדה ביום בהיר ברחה </l>
+          <l>את לבבי השבור אז הרגעתי עם כוס ועוד אחת. </l>
+          <l>אין ילדת חמד-יפת עיניים היכן צחוקה מסתתר </l>
+          <l>אך על היין כן על היין לעולם לא....אוותר</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

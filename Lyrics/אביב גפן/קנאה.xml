@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קנאה</title>
+        <singer classification="male singer">אביב גפן</singer>
+        <writer>אביב גפן</writer>
+        <composer>אביב גפן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קנאה</head>
+        <lg number="1" type="stanza">
+          <l>ליבי נפל אל בור קנאה</l>
+          <l>האם תתני לו יד</l>
+          <l>ואל תרגישי בטוחה</l>
+          <l>הוא לא יזעק לעד</l>
+          <l>אם תגרדי לי את פצעי</l>
+          <l>אני ארצח אותך</l>
+          <l>עזבו אותי כבר לפנייך</l>
+          <l>וזה לא כאב כל כך</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>תני לי את הכח</l>
+          <l>שוב להתעודד</l>
+          <l>כי כמו גשם על המים</l>
+          <l>אותך אני אוהב</l>
+          <l>תני לי את הכוח</l>
+          <l>שוב להתעודד</l>
+          <l>כי כמו גשם על המים</l>
+          <l>עכשיו אני פוחד</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תקטפי פרי אמונים</l>
+          <l>מתוך עצי תקווה</l>
+          <l>ואל תתני לשמך להיות</l>
+          <l>כמו רעש של צפירה</l>
+          <l>אל תגלי את סודותייך</l>
+          <l>לתוך אוזנו של זר</l>
+          <l>וכשאחזור האם קולי</l>
+          <l>עוד ישמע מוכר</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ותני לי את הכח...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אני שבוי שבור של תלות</l>
+          <l>בקרב האהבה</l>
+          <l>האם תשחררי אותי</l>
+          <l>מכלא הקנאה</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

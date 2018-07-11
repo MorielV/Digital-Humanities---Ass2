@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>שיר הלה לה לה</title>
+        <singer classification="unknown">איתן גינזבורג</singer>
+        <writer>רועי מולד</writer>
+        <composer>איתן גינזבורג</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>שיר הלה לה לה</head>
+        <lg number="1" type="stanza">
+          <l>החזון דומה לחילזון ספירלה </l>
+          <l>אני מנסה לזרום כלפי מעלה</l>
+          <l>אבל עכשיו אני זורם אל תוך תוכי</l>
+          <l>זה עושה לי טוב </l>
+          <l>כשדברים מסתדרים באופן הנכון</l>
+          <l>תרבויות רחוקות מציתות את הדמיון</l>
+          <l>מלאכת כפיים קוראת לי עשייה</l>
+          <l>עבודת אדמה </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>עם עץ אבנים ובערב אשתה צמחים</l>
+          <l>לחיות חים פשוטים ובערב אשתה צמחים</l>
+          <l>להוט על אומנות, על חקלאות ואומנות</l>
+          <l>להוט על חקלאות ואומנות ואומנות</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>קנגרו פוגש שם מי זה דוב קואלה</l>
+          <l>ערומים רצים הם ממשיכים כך הלאה</l>
+          <l>חיים מתפשטים עד עצם הבריאה</l>
+          <l>מחפף דעה קדומה </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>עם עץ אבנים...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

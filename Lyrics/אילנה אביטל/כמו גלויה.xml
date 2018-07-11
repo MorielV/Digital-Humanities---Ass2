@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>כמו גלויה</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>דוד ד'אור</writer>
+        <composer>דוד ד'אור</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>כמו גלויה</head>
+        <lg number="1" type="stanza">
+          <l>בין המילים אני שומעת</l>
+          <l>מה שרוצה לומר ליבך</l>
+          <l>ממבטך אני יודעת</l>
+          <l>מה מתאפק במחשבתך</l>
+          <l>גם אם אצלנו זה לא מושלם</l>
+          <l>את בשבילי כל העולם</l>
+          <l>את בשבילי כל העולם.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>כל מה שקורה עכשיו בחוץ</l>
+          <l>לא נוגע בנו</l>
+          <l>גם אם העולם הזה לחוץ</l>
+          <l>זה לא נוגע בנו</l>
+          <l>כמו בסרט או גלויה</l>
+          <l>לא ניתן לכלום לגעת בנו</l>
+          <l>לא ניתן לכלום לגעת בנו.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כמה רצים אחרי האופק</l>
+          <l>שרק הולך ומתרחק</l>
+          <l>כמה צריך עוצמה וחופש</l>
+          <l>עד שנוכל להסתפק</l>
+          <l>עוד יום בורח אל העתיד</l>
+          <l>אנחנו כאן לא לתמיד</l>
+          <l>אנחנו כאן לא לתמיד.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>כל מה שקורה עכשיו בחוץ...</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>גם אם אצלנו זה לא מושלם</l>
+          <l>את בשבילי כל העולם</l>
+          <l>את בשבילי כל העולם.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>כל מה שקורה עכשיו בחוץ...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

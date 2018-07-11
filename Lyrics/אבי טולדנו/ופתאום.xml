@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ופתאום</title>
+        <singer classification="male singer">אבי טולדנו</singer>
+        <writer>עמוס אטינגר</writer>
+        <composer>אלי קניאל</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>ופתאום</head>
+        <lg number="1" type="stanza">
+          <l>רוח לא נשב - וענן לא עבר</l>
+          <l>אור אחרון כבה - ברחוב הנהר.</l>
+          <l>זר אני בעיר - כאן ריקה הכיכר,</l>
+          <l>מי ישיר לי שיר, מי שלום יאמר?</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>ופתאום - אור אז הופיע</l>
+          <l>גל של חום - פתע הגיע</l>
+          <l>ויד מושטת לשלום,</l>
+          <l>וקוראת לי - בוא נא הלום</l>
+          <l>ופתאום - אור בעינייך</l>
+          <l>גל של חום - ברק תלתלייך.</l>
+          <l>אם לא אראך כששוב אלך,</l>
+          <l>רק אימרי - אימרי לי את שמך!</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>רוח לא חלף - ופנס לא ניעור</l>
+          <l>עוד נמל נוסף - עם ליל נעבור</l>
+          <l>זר אני בעיר - זר בודד בכיכר</l>
+          <l>מי ישיר לי שיר - מי שלום יאמר .</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>ופתאום...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

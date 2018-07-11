@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קיץ נשבר</title>
+        <singer classification="male singer">אורי פיינמן</singer>
+        <writer>דודו ברק</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קיץ נשבר</head>
+        <lg number="1" type="stanza">
+          <l>קיץ נשבר עברה עונה</l>
+          <l>ושום דבר לא השתנה</l>
+          <l>רוחות נושבות מן העבים</l>
+          <l>כבר סתיו בעיר ובלבבי.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>וערב יורד על עננה</l>
+          <l>וחצבים יש בגינה</l>
+          <l>ובנשמה אפור צונן</l>
+          <l>ומה יהיה? לאן אפנה?</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>שנה חלפה אל מול עיני</l>
+          <l>בקול תרועה ובחשאי</l>
+          <l>אביט אל ההרים</l>
+          <l>אולי משם יבוא עזרי</l>
+          <l>אם לא עכשיו אז אימתי?</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>בילדתי פשט צינה</l>
+          <l>ומארצי האור פנה</l>
+          <l>על לחייה צל ירד</l>
+          <l>הו מה קרה לה? מה קרה?</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>אל אלוהי המנגינה</l>
+          <l>רציתי לעשות כנף</l>
+          <l>לפרוש אברה, לעוף אל על</l>
+          <l>אבל לעוף הן לא אוכל.</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>שנה חלפה אל מול עיני...</l>
+        </lg>
+        <lg number="7" type="stanza">
+          <l>הנה כי כן עברה שנה</l>
+          <l>עם כל חטאה ועוונה</l>
+          <l>בתום הסערות את החמה איטיב לראות</l>
+          <l>והיא תזרח מיניגונה.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

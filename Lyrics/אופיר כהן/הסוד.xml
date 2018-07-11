@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>הסוד</title>
+        <singer classification="unknown">אופיר כהן</singer>
+        <writer>אופיר כהן</writer>
+        <composer>אופיר כהן</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>הסוד</head>
+        <lg Chorus="yes" number="1" type="stanza">
+          <l>הנה אני והנה את ידענו מאותו מבט</l>
+          <l>שאהבה גדולה בנינו צומחת לה לאט.</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>מה הסוד הזה שמחבר בינינו?</l>
+          <l>החיבור הזה חזק ואמיתי</l>
+          <l>ואם הדרך חשוכה בקלות את מצליחה</l>
+          <l>שוב לייצב אותי, אוחזת בידי</l>
+          <l>אותי עוטפת במילים של אהבה...</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>הנה אני והנה את ידענו מאותו מבט</l>
+          <l>שאהבה גדולה בנינו צומחת לה לאט</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>והיום כולך זוהרת ופורחת</l>
+          <l>חלומות אשר חלמנו מתגשמים</l>
+          <l>הנה אני כאן לצידך לשמח את ליבך</l>
+          <l>באהבה איתך ליבי אתן רק לך</l>
+          <l>ואת יודעת לעולם אני שלך</l>
+        </lg>
+        <lg Chorus="yes" number="5" type="stanza">
+          <l>הנה אני והנה את...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

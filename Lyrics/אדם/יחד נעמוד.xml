@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יחד נעמוד</title>
+        <singer classification="unknown">אדם</singer>
+        <writer>אורי סלע</writer>
+        <composer>הנרי ברטר</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יחד נעמוד</head>
+        <lg number="1" type="stanza">
+          <l>אנחנו העם שהלך במדבר</l>
+          <l>אנחנו קיבלנו תורה על ההר</l>
+          <l>היינו כולנו הסנה הבוער</l>
+          <l>אלינו הקול משמיים דיבר</l>
+        </lg>
+        <lg number="2" type="stanza">
+          <l>אותנו ליוו אמונה וחלום</l>
+          <l>שיחד נושיט יד אחת לשלום</l>
+          <l>וכל עוד ליבנו פועם כאחד</l>
+          <l>עד דור אחרון התקווה לא תאבד</l>
+        </lg>
+        <lg Chorus="yes" number="3" type="stanza">
+          <l>יחד נעמוד</l>
+          <l>כולם בשביל אחד</l>
+          <l>אחד בשביל כולם</l>
+          <l>עד שנשנה עולם</l>
+          <l>יחד נעמוד</l>
+          <l>יחד נעמוד</l>
+          <l>יחד נעמוד</l>
+          <l>הללויה</l>
+        </lg>
+        <lg number="4" type="stanza">
+          <l>איתנו יבואו בני כל האומות</l>
+          <l>ויחד נבקיע את כל החומות</l>
+          <l>נקים אז עולם בלי האש והדם</l>
+          <l>עולם בו אדם הוא אדם לאדם</l>
+        </lg>
+        <lg number="5" type="stanza">
+          <l>כולנו נבוא לבנים ושחורים</l>
+          <l>נשים וגברים ילדים והורים</l>
+          <l>ביחד נבנה עולם של תקווה</l>
+          <l>עולם מאוחד שדגלו אהבה</l>
+        </lg>
+        <lg Chorus="yes" number="6" type="stanza">
+          <l>יחד נעמוד...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

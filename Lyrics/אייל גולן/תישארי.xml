@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>תישארי</title>
+        <singer classification="male singer">אייל גולן</singer>
+        <writer>אלון צדוק</writer>
+        <composer>אריק זנטי</composer>
+        <album>דרך לחיים</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>תישארי</head>
+        <lg number="1" type="stanza">
+          <l>מתי תוכלי לקבל אהבה </l>
+          <l>את עדיין לא מחליטה </l>
+          <l>ליבך חצוי בין היגיון להרגשה </l>
+          <l>תחליטי מה את רוצה </l>
+          <l>מצד אחד את אוהבת </l>
+          <l>מצד שני את פוחדת </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תישארי, תישארי בבקשה תישארי</l>
+          <l>תישארי קרוב אלי</l>
+          <l>אל תעזבי, אל תוותרי, תחשבי עלי</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>אל תשחקי בלב מאוהב </l>
+          <l>אל תשכחי תמיד אוהב </l>
+          <l>אין סיכוי שאותך אשכח </l>
+          <l>את בשבילי כמו מלאך </l>
+          <l>מצד אחד את אוהבת </l>
+          <l>מצד שני את פוחדת </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תישארי, תישארי בבקשה...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

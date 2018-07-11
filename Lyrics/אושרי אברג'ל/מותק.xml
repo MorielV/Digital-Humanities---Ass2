@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מותק 6</title>
+        <singer classification="unknown">אושרי אברג ל</singer>
+        <writer>אושרי אברג'ל</writer>
+        <composer>עממי יווני</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>מותק</head>
+        <lg number="1" type="stanza">
+          <l>מותק, לא יכול לתת את מה שאין לי </l>
+          <l>לחיים שלך יש קצב מסחרר. </l>
+          <l>משחקת עם האהבה שלנו </l>
+          <l>מותק, תתאפסי עכשיו למעננו. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>תגידי למה לא, </l>
+          <l>אולי זה בגללו. </l>
+          <l>את לא מציאותית, </l>
+          <l>תהיי כבר אמיתית. </l>
+          <l>תגידי מה יהיה, </l>
+          <l>מתי זה ישתנה. </l>
+          <l>נמאס לי לוותר, </l>
+          <l>הלב שלי בוער. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>מותק, שום דבר בכוח לא ילך </l>
+          <l>את מנסה למכור לי את אהבתך </l>
+          <l>את דורשת רק דברים דמיוניים </l>
+          <l>ככה לא תשיגי כלום, כל החיים. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>תגידי למה לא...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

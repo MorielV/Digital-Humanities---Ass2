@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>יחפה בחול</title>
+        <singer classification="unknown">אוראשון</singer>
+        <writer>מאיה רוזנפלד זנגילביץ</writer>
+        <composer>מאיה רוזנפלד זנגילביץ</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>יחפה בחול</head>
+        <lg number="1" type="stanza">
+          <l>צְעָדָיי קָלִים, רָכִּים וַאֲנִי מִתְהָלֶכֶת, </l>
+          <l>בְּשֶקֶט לְעָצְמִי. </l>
+          <l>כְּמו נוֹגָעָת בָּצְלִילִים, בָּקוֹלוֹת, הָדִמְדוּמִים </l>
+          <l>מְלָטְפִים בִּי אֶת כּוּלִי. </l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>יְחֶפָה בָּחוֹל </l>
+          <l>נְקִיָיה מִכּוֹל מָשָאוֹתָּיי </l>
+          <l>כְּמוֹ יָלְדָה </l>
+          <l>מְרוּקֶנֶת וְזָכָּה </l>
+          <l>יְחֶפָה בָּחוֹל </l>
+          <l>מִתְגַּלָּה לָכּוֹל וּמְגַלָּה </l>
+          <l>שֶמְחוֹגֶי הָזְמָן שוֹקְטִים וּשְנֶינוּ מִשְתָתְקִים. </l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בִּטְפִיפָה שְׁקֵטָה פּוֹסַעַת מְפוּיֶסֶת. </l>
+          <l>מְשִילָה בְּרָחָש עָבָר כָבֶד, </l>
+          <l>מָבָּט אוֹבֶד וּבוֹהָה </l>
+          <l>וּבוֹהָה . . . </l>
+          <l>בּוֹהָה, חוֹלֶמֶת, מִשְתוֹמֶמֶת </l>
+          <l>מְאוֹפֶק שנִצְבָּע אֶל תוֹך עֶינָיי. </l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>יְחֶפָה בָּחוֹל...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

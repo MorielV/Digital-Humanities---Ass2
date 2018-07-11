@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>קח עוצמה מעצמך</title>
+        <singer classification="female singer">אילנה אביטל</singer>
+        <writer>רון רוזנפלד</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>קח עוצמה מעצמך</head>
+        <lg number="1" type="stanza">
+          <l>בין השנים שכבר שכחת</l>
+          <l>את שנלקח ממך שקע כבר מזמן</l>
+          <l>כל השלטים שלא ראית</l>
+          <l>מתבהרים כעת כהד מבויים.</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>קח עוצמה מעצמך</l>
+          <l>קפל את בדידותך הקרה</l>
+          <l>קח תקווה מתוכך</l>
+          <l>לטף עוד אהבה בטוחה</l>
+          <l>קח את הצרות לרגע</l>
+          <l>שים אותן בשתי ידיך</l>
+          <l>סגור אגרוף חזק</l>
+          <l>וזרוק אותן רחוק לים.</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>כל האמת שלא שמרת</l>
+          <l>קול הדממה שלך פועם בגופך</l>
+          <l>גם אם לבך נשבר</l>
+          <l>חכה למחר.</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>קח עוצמה מעצמך...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

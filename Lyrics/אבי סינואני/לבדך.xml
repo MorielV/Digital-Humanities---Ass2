@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>לבדך</title>
+        <singer classification="male singer">אבי סינואני</singer>
+        <writer>דורון דוידסקו</writer>
+        <composer>missing</composer>
+        <album>missing</album>
+      </titleStmt>
+      <publicationStmt>
+        <date>2016</date>
+      <publisher>Yoav Cohen and Maya Ben Tov, Ben-Gurion University</publisher></publicationStmt>
+      <sourceDesc>
+        <p>The website SongLyrics: http://songlyrics.co.il</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="song lyrics">
+        <head>לבדך</head>
+        <lg number="1" type="stanza">
+          <l>לבדך אל מול עיניו חולפת</l>
+          <l>באפלה ובלעדיו</l>
+          <l>לילה קר בדידות אותך עוטפת</l>
+          <l>נפשך הומה יוצאת אליו</l>
+        </lg>
+        <lg Chorus="yes" number="2" type="stanza">
+          <l>לבדך עם נשמתו</l>
+          <l>לבדך ולא איתו</l>
+          <l>בליבך הוא לא יחזור</l>
+          <l>לבדך כבה האור</l>
+        </lg>
+        <lg number="3" type="stanza">
+          <l>בלילות האושר את נזכרת</l>
+          <l>נשא אותך בזרועותיו</l>
+          <l>חלומות יפים שאת שוזרת</l>
+          <l>מרחפים עד נעוריו</l>
+        </lg>
+        <lg Chorus="yes" number="4" type="stanza">
+          <l>לבדך עם נשמתו...</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>
